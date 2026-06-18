@@ -21533,3 +21533,14 @@ Entries:
   id: 2374
   time: '2026-06-17T18:05:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4102
+- author: GOLDMASK990
+  changes:
+    - type: Remove
+      message: >-
+        USSP Merc content removed including loadout changes, ships & language
+        trait (Translators still available). 
+    - type: Tweak
+      message: USSP are now a Minor Faction, see PR for full changes.
+  id: 2375
+  time: '2026-06-18T17:51:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4018
