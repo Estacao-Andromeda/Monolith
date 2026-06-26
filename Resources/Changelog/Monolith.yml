@@ -21746,3 +21746,10 @@ Entries:
   id: 2397
   time: '2026-06-25T18:45:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4139
+- author: thoughtlessuser
+  changes:
+    - type: Fix
+      message: 'Patting people is no longer #trendy!'
+  id: 2398
+  time: '2026-06-26T12:49:15.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4141
