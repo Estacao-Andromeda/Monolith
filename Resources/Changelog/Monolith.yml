@@ -21989,3 +21989,12 @@ Entries:
   id: 2428
   time: '2026-06-30T12:40:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4171
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Readded TSFN Polaris with some changes to armaments & updates for modern
+        standards.
+  id: 2429
+  time: '2026-06-30T12:45:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4172
