@@ -1,0 +1,13 @@
+advertisement-chefvend-1 = Pelo menos sessenta por cento dos nossos ovos não quebrados, garantido!
+advertisement-chefvend-2 = Arroz, arroz, bebê.
+advertisement-chefvend-3 = Coloque um pouco de manteiga nisso!
+advertisement-chefvend-4 = Você vale seu sal? Nós valemos.
+advertisement-chefvend-5 = Mmm, carne.
+advertisement-chefvend-6 = Utilize o poder da farinha.
+advertisement-chefvend-7 = Mostre aos seus clientes quem é o melhor chef ao redor com nosso molho BBQ galáctico famoso e premiado.
+advertisement-chefvend-8 = Eu amo meus bons ovos crus velhos.
+advertisement-chefvend-9 = Desfrute de alguns bons ovos crus velhos!
+thankyou-chefvend-1 = Hora de começar a cozinhar!
+thankyou-chefvend-2 = Obrigado por confiar em nossos ingredientes de qualidade!
+thankyou-chefvend-3 = Isso deve dar a eles o que eles estão desejando!
+thankyou-chefvend-4 = Vá fazer那些 hambúrgueres!

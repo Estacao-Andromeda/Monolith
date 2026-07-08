@@ -1,0 +1,6 @@
+ninja-gloves-on = As luvas ganham poder!
+ninja-gloves-off = As luvas desligam...
+ninja-gloves-not-wearing-suit = Você não está vestindo um traje de ninja
+ninja-gloves-examine-on = Todas as habilidades estão ativadas.
+ninja-gloves-examine-off = Luvas velhas chatas...
+ninja-doorjack-success = As luvas eletrificam algo em {THE($target)}.

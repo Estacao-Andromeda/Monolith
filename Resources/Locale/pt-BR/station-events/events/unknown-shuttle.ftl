@@ -1,0 +1,1 @@
+station-event-unknown-shuttle-incoming = Atenção! Uma nave espacial não identificada foi vista aproximando-se do seu setor.

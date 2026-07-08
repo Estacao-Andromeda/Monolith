@@ -1,0 +1,1 @@
+candle-extinguish-failed =o chama flickers, mas isto doesn't ir fora

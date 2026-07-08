@@ -1,0 +1,11 @@
+advertisement-magivend-1 = Arremesse feitiços da maneira certa com MagiVend!
+advertisement-magivend-2 = Seja seu próprio Houdini! Use MagiVend!
+advertisement-magivend-3 = FJKLFJSD
+advertisement-magivend-4 = AJKFLBJAKL
+advertisement-magivend-5 = >MFW
+advertisement-magivend-6 = APITO!
+advertisement-magivend-7 = EI NATH
+advertisement-magivend-8 = Destrua a estação!
+advertisement-magivend-9 = Hardware de dobra espaço-tempo!
+advertisement-magivend-10 = 1234 LOONIES LOL!
+advertisement-magivend-11 = NAR'SIE, LEVANTE-SE!!!

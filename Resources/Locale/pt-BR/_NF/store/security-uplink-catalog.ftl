@@ -1,0 +1,328 @@
+store-category-sechardsuits = Trajes EVA
+
+store-category-secweapons = Armas
+
+store-category-secutility = Utilitários
+
+store-category-secammo = Munição
+
+store-category-secexplosives = Explosivos
+
+store-category-secbundles = Pacotes
+
+store-category-secvouchers = Vales de Segurança
+
+uplink-security-hardsuit-name = Tacsuit M73 Soldado
+
+uplink-security-hardsuit-desc = O traje padrão TSFMC à prova de espaço para patrulha. Esta variante bronze tem marcações de patente privado.
+
+uplink-security-hardsuit-patrol-name = Tacsuit M73 Cabo
+
+uplink-security-hardsuit-patrol-desc = O traje padrão TSFMC à prova de espaço para patrulha. Esta variante prata tem marcações de patente cabo.
+
+uplink-security-hardsuit-brigmedic-name = Tacsuit M73 Médico
+
+uplink-security-hardsuit-brigmedic-desc = O traje padrão TSFMC à prova de espaço para patrulha. Esta variante mais brilhante tem marcações de patente médico.
+
+uplink-security-hardsuit-warden-name = Tacsuit M73 Capitão
+
+uplink-security-hardsuit-warden-desc = O traje padrão TSFMC à prova de espaço para patrulha. Esta variante ouro tem marcações de patente capitão.
+
+uplink-security-hardsuit-experimental-name = Tacsuit M92-X
+
+uplink-security-hardsuit-experimental-desc = Um traje TSFMC muito pesadamente blindado. Esta maravilha da engenharia à prova de espaço usa ligas de última geração para fornecer proteção imensa sacrificando pouca mobilidade.
+
+uplink-security-hardsuit-sheriff-name = Tacsuit M92
+
+uplink-security-hardsuit-sheriff-desc = O traje padrão TSFMC à prova de espaço para patrulha. Esta variante ouro tem marcações de patente coronel.
+
+uplink-security-hardsuit-combat-name = Tacsuit M93
+
+uplink-security-hardsuit-combat-desc = Um traje TSFMC pesadamente blindado. À prova de espaço, com blindagem espessa à custa da mobilidade.
+
+uplink-security-hardsuit-command-name = Tacsuit M93-C
+
+uplink-security-hardsuit-command-desc = Um traje TSFMC pesadamente blindado. À prova de espaço, com blindagem espessa à custa da mobilidade. Esta variante tem marcações de patente supervisor.
+
+uplink-security-lethalarmory-name = Caixa de Estoque de Arsenal Letal
+
+uplink-security-lethalarmory-desc = Uma caixa contendo armas necessárias para preencher um arsenal.
+
+uplink-security-nonlethalarmory-name = Caixa de Estoque de Arsenal Não-Letal
+
+uplink-security-nonlethalarmory-desc = Uma caixa contendo armas não-letais necessárias para preencher um arsenal.
+
+uplink-security-mk58-name = MK58
+
+uplink-security-mk58-desc = Barato, arma lateral padrão. Usa .45 ACP.
+
+uplink-security-disabler-name = Desabilitador
+
+uplink-security-disabler-desc = Arma de choque não-letal padrão. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-stunbaton-name = Cacetete de Choque
+
+uplink-security-stunbaton-desc = Cacetete de choque não-letal padrão. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-emitter-name = Emissor EMP
+
+uplink-security-emitter-desc = Um emissor de pulso de alta energia sintonizado para interromper eletrônicos e sistemas de energia. Inofensivo para seres vivos. Projéteis passam através do vidro. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-enforcer-name = Executor
+
+uplink-security-enforcer-desc = Um modelo atualizado do Kammerer, ostenta um pente de 7 cartuchos. Usa cartuchos de escopeta calibre 12.
+
+uplink-security-lecter-name = Lecter
+
+uplink-security-lecter-desc = Rifle totalmente automático padrão. Usa 6.8x52mm Sem Espoço.
+
+uplink-security-vulcan-name = Vulcano
+
+uplink-security-vulcan-desc = Rifle de batalha de serviço pesado, tiro seletivo. Usa 7.62x51mm.
+
+uplink-security-lasercarbine-name = Rifle a Laser
+
+uplink-security-lasercarbine-desc = Carabina a laser padrão. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança. Atira através do vidro.
+
+uplink-security-disablersmg-name = SMG Desabilitador
+
+uplink-security-disablersmg-desc = Desabilitador totalmente automático, rápido. Sintonizado na mesma frequência que os desabilitadores padrão, o instrumento menos-letal definitivo. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-energysword-name = Espada de Energia
+
+uplink-security-energysword-desc = Espada de energia reversamente engenheirada, fabricada pela NT. Chance de refletir projéteis.
+
+uplink-security-wt550-name = WT550
+
+uplink-security-wt550-desc = Uma submetralhadora totalmente automática. Este design usa pentes especiais montados no topo, permitindo operação mais simples e rápida no campo. Usa 4.6x30mm.
+
+uplink-security-energygun-name = Arma de Energia
+
+uplink-security-energygun-desc = Uma arma de energia semi-automática capaz de disparar tanto projéteis de choque não-letais, quanto projéteis de energia letais sobrecarregados. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-emprpg-name = RPG-7
+
+uplink-security-emprpg-desc = Um lançador de granadas propelidas por foguete. Vem com 1 cartucho EMP.
+
+uplink-security-empgrenade-name = Granada EMP
+
+uplink-security-empgrenade-desc = Uma granada portátil que emite um pulso de alta energia que interrompe eletrônicos e sistemas de energia em um raio moderadamente grande.
+
+uplink-security-forcefield-name = Projetor de Campo de Força Tático
+
+uplink-security-forcefield-desc = Um projetor de campo de força alimentado por bateria oferecendo um campo de força avançado que bloqueia movimento e balas enquanto permite lasers passarem.
+
+uplink-security-holo-name = Holobarreira
+
+uplink-security-holo-desc = Um holoprojetor alimentado por bateria que coloca barreiras temporárias para bloquear movimento.
+
+uplink-security-jetpack-name = Jetpack
+
+uplink-security-jetpack-desc = Um jetpack pré-preenchido para EVA. Vem em um verde estiloso.
+
+uplink-security-magboots-name = Botas Magnéticas TSFMC
+
+uplink-security-magboots-desc = Botas magnéticas leves projetadas para manter o usuário no chão em ambientes de baixa e nenhuma gravidade.
+
+uplink-security-techfab-name = Techfab TSFMC
+
+uplink-security-techfab-desc = Um circuito impresso para um Techfab TSFMC. Permite a produção de munição, pentes, armas e numeros outros utilitários. Usa recursos brutos. Pode ser atualizado.
+
+uplink-security-key-name = Chaves de Criptografia TSFMC
+
+uplink-security-key-desc = Uma caixa de 4 chaves de criptografia que dão acesso ao canal de rádio TSFMC.
+
+uplink-security-emprocket-name = Foguete EMP
+
+uplink-security-emprocket-desc = Um foguete EMP para o RPG-7.
+
+uplink-security-Magazine9x19mmPistolFMJ-name = Pentes 9x19mm
+
+uplink-security-Magazine9x19mmPistolFMJ-desc = Uma caixa contendo 4 pentes 9x19mm cheios.
+
+uplink-security-Magazine9x19mmPistolFMJ-rubber-name = Pentes de Borracha 9x19mm
+
+uplink-security-Magazine9x19mmPistolFMJ-rubber-desc = Uma caixa contendo 4 pentes 9x19mm (borracha) cheios.
+
+uplink-security-5-56x45mmMagazine-name = Pentes 5.56x45mm
+
+uplink-security-5-56x45mmMagazine-desc = Uma caixa contendo 4 pentes 5.56x45mm cheios.
+
+uplink-security-5-56x45mmMagazine-rubber-name = Pentes de Borracha 5.56x45mm
+
+uplink-security-5-56x45mmMagazine-rubber-desc = Uma caixa contendo 4 pentes 5.56x45mm (borracha) cheios.
+
+uplink-security-7-62x39mmMagazine-name = Pentes 7.62x39mm
+
+uplink-security-7-62x39mmMagazine-desc = Uma caixa contendo 4 pentes 7.62x39mm cheios.
+
+uplink-security-7-62x39mmMagazine-rubber-name = Pentes de Borracha 7.62x39mm
+
+uplink-security-7-62x39mmMagazine-rubber-desc = Uma caixa contendo 4 pentes 7.62x39mm (borracha) cheios.
+
+uplink-security-7-62x51mmMagazine-name = Pentes 7.62x51mm
+
+uplink-security-7-62x51mmMagazine-desc = Uma caixa contendo 4 pentes 7.62x51mm cheios.
+
+uplink-security-7-62x51mmMagazine-rubber-name = Pentes de Borracha 7.62x51mm
+
+uplink-security-7-62x51mmMagazine-rubber-desc = Uma caixa contendo 4 pentes 7.62x51mm (borracha) cheios.
+
+uplink-security-wt550magazine-name = Pentes Montados no Topo 4.6x30mm
+
+uplink-security-wt550magazine-desc = Uma caixa contendo 4 pentes montados no topo 4.6x30mm cheios.
+
+uplink-security-hypo-name = Hipospray
+
+uplink-security-hypo-desc = Um injetor médico estéril para entrega instantânea de medicamentos.
+
+uplink-security-ambuzol-name = Seringa de Ambuzol
+
+uplink-security-ambuzol-desc = 15u de medicação anti-viral para interromper o progresso do vírus de zumbi altamente contagioso.
+
+uplink-security-medkit-name = Kit Médico de Combate
+
+uplink-security-medkit-desc = Um kit contendo suprimentos médicos avançados adequados para uso no campo.
+
+uplink-security-inspector-name = Inspetor
+
+uplink-security-inspector-desc = Revólver padrão. Produzido em massa barato, encontrado em todos os cantos do universo conhecido. Usa .45 magnum.
+
+uplink-security-mateba-name = Mateba
+
+uplink-security-mateba-desc = O exclusivo alinhamento de cano do Autorevolver Mateba e cilindro e martelo acionados por recuo permitem uma cadência de fogo e precisão inigualáveis.
+
+uplink-security-truncheon-name = Cacetete
+
+uplink-security-truncheon-desc = Objeto contundente padrão. Excelente para quebrar janelas e crânios igualmente.
+
+uplink-security-armingsword-name = Espada de Armas de Plastiaço
+
+uplink-security-armingsword-desc = Design antigo encontra materiais modernos.
+
+uplink-security-captainsword-name = Sabre do Capitão
+
+uplink-security-captainsword-desc = Uma espada normalmente reservada para capitães, almirantado e outros altos comandos. Tem uma pequena chance de refletir projéteis recebidos.
+
+uplink-security-navyofficersword-name = Sabre de Oficial da Marinha
+
+uplink-security-navyofficersword-desc = Uma espada normalmente reservada para oficiais da marinha, almirantado e outros altos comandos das forças navais solarianas. Tem uma pequena chance de refletir projéteis recebidos.
+
+uplink-security-pulsepistol-name = Pistola de Pulso
+
+uplink-security-pulsepistol-desc = Uma pistola a laser de alta potência normalmente reservada para unidades de elite ERT. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-pulsecarbine-name = Carabina de Pulso
+
+uplink-security-pulsecarbine-desc = Uma carabina a laser de alta potência normalmente reservada para unidades de elite ERT e de combate. Tem uma bateria interna, mas requer o uso de um dock de carregamento de segurança.
+
+uplink-security-hammer-name = Martelo de Arrombamento
+
+uplink-security-hammer-desc = Um martelo grande, de duas mãos que é perfeito para derrubar portas ou arrombar placas de casco.
+
+uplink-security-teleshield-name = Escudo Telescópico
+
+uplink-security-teleshield-desc = Um escudo portátil expansível oferecendo proteção excelente.
+
+uplink-security-energyshield-name = Escudo de Energia
+
+uplink-security-energyshield-desc = Um escudo de energia exótico que bloqueia a maioria do dano recebido.
+
+uplink-security-swat-name = Máscara de Gás Swat
+
+uplink-security-swat-desc = Uma versão de cobertura de rosto completa da máscara de gás padrão TSFMC.
+
+uplink-security-speedloader-name = Carregador Rápido .45 Magnum
+
+uplink-security-speedloader-desc = Um carregador rápido de revólver que vem pré-carregado com cartuchos .45 magnum.
+
+uplink-security-speedloaderrubber-name = Carregador Rápido de Borracha .45 Magnum
+
+
+uplink-security-shotlethal-name = Cartuchos de Escopeta Letais
+
+uplink-security-shotlethal-desc = Uma caixa de cartuchos de escopeta buckshot letais calibre 12.
+
+uplink-security-shotbeanbag-name = Cartuchos de Beanbag
+
+uplink-security-shotbeanbag-desc = Uma caixa de cartuchos de escopeta beanbag não-letais calibre 12.
+
+uplink-security-shotincend-name = Cartuchos Incendiários
+
+uplink-security-shotincend-desc = Uma caixa de cartuchos de escopeta incendiários letais calibre 12.
+
+uplink-security-shotslug-name = Cartuchos Slug Letais
+
+uplink-security-shotslug-desc = Uma caixa de cartuchos de escopeta slug letais calibre 12.
+
+uplink-security-empgrenade-box-name = Caixa de Granadas EMP
+
+uplink-security-empgrenade-box-desc = Uma caixa contendo 4 granadas EMP.
+
+uplink-security-explosivegrenade-box-name = Caixa de Granadas Explosivas
+
+uplink-security-explosivegrenade-box-desc = Uma caixa contendo 4 granadas explosivas.
+
+uplink-security-incendiarygrenade-box-name = Caixa de Granadas Incendiárias
+
+uplink-security-incendiarygrenade-box-desc = Uma caixa contendo 4 granadas incendiárias.
+
+uplink-security-shrapnelgrenade-box-name = Caixa de Granadas de Estilhaço
+
+uplink-security-shrapnelgrenade-box-desc = Uma caixa contendo 4 granadas de estilhaço.
+
+uplink-security-smokegrenade-box-name = Caixa de Granadas de Fumaça
+
+uplink-security-smokegrenade-box-desc = Uma caixa contendo 4 granadas de fumaça.
+
+uplink-security-teargasgrenade-box-name = Caixa de Granadas de Gás Lacrimogêneo
+
+uplink-security-teargasgrenade-box-desc = Uma caixa contendo 4 granadas de gás lacrimogêneo.
+
+uplink-security-flashbanggrenade-box-name = Caixa de Granadas Flashbang
+
+uplink-security-flashbanggrenade-box-desc = Uma caixa contendo 4 granadas flashbang.
+
+uplink-security-stingergrenade-box-name = Caixa de Granadas Stinger
+
+uplink-security-stingergrenade-box-desc = Uma caixa contendo 4 granadas stinger.
+
+uplink-security-breachingcharge-box-name = Caixa de Cargas de Arrombamento
+
+uplink-security-breachingcharge-box-desc = Uma caixa contendo 4 cargas de arrombamento.
+
+uplink-security-hoverbike-name = Flatpack de Motonave TSFMC
+
+uplink-security-hoverbike-desc = Flatpack contendo turbina emitida TSFMC com guidão de moto. Chaves já encaixadas na ignição. Muito seguro.
+
+uplink-security-trackingdart-bundle-name = Pacote de Dardos de Rastreamento
+
+uplink-security-trackingdart-bundle-desc = Um pacote contendo um lançador tipo Lake, 3 dardos de rastreamento e 3 localizadores.
+
+uplink-security-emp-bundle-name = Pacote EMP
+
+uplink-security-emp-bundle-desc = Um pacote contendo um lançador tipo Lake e 12 granadas EMP.
+
+uplink-security-emp-ammo-name = Munição de Projétil EMP
+
+uplink-security-emp-ammo-desc = Uma caixa contendo 4 granadas de projétil EMP.
+
+uplink-security-trackingdart-ammo-name = Munição de Dardos de Rastreamento
+
+uplink-security-trackingdart-ammo-desc = Uma caixa contendo 3 dardos de rastreamento e 3 localizadores.
+
+uplink-security-spaceblade-sec-name = SpaceBlade de Segurança
+
+uplink-security-spaceblade-sec-desc = O mais recente em tecnologia de choque.
+
+uplink-security-contraband-forensics-module-name = Módulo Forense de Contrabando
+
+uplink-security-contraband-forensics-module-desc = Um programa para escanear e relatar drops mortos e pods de contrabando para recompensas. Encaixa em um scanner forense.
+
+uplink-security-mechpulserifle-name = Emissor de Pulso CL-94
+
+uplink-security-mechpulserifle-desc = Um Rifle de Pulso montado em mecha.
+
+
+
+uplink-security-speedloaderrubber-desc = A revolver speed loader that comes pre-loaded with .45 rubber cartridges.

@@ -1,0 +1,1 @@
+station-event-mouse-migration-announcement = Detectamos uma migração de roedores chegando à estação. Por favor, fiquem fora dos túneis de manutenção e tentem evitar contato excessivo.

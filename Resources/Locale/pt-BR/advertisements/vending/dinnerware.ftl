@@ -1,0 +1,10 @@
+advertisement-dinnerware-1 = Mm, coisas de comida!
+advertisement-dinnerware-2 = Comida e acessórios de comida.
+advertisement-dinnerware-3 = Garanta seus pratos!
+advertisement-dinnerware-4 = Você gosta de garfos?
+advertisement-dinnerware-5 = Eu gosto de garfos.
+advertisement-dinnerware-6 = Uuu, utensílios.
+advertisement-dinnerware-7 = Você realmente não precisa destes...
+advertisement-dinnerware-8 = Leve-os se você quiser!
+advertisement-dinnerware-9 = Tenho quase certeza que copos são indispensáveis.
+advertisement-dinnerware-10 = POR QUE EXISTEM TANTOS TIPOS DE CANECAS?

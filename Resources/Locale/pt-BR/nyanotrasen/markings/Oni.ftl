@@ -1,0 +1,14 @@
+marking-OniHornSingleCurved = Curvado Único
+marking-OniHornSingleCurved-single_curved = Curvado Único
+marking-OniHornSingleLeftCurved = Curvado Esquerdo Único
+marking-OniHornSingleLeftCurved-single_left_curved = Curvado Esquerdo Único
+marking-OniHornSingleRightCurved = Curvado Direito Único
+marking-OniHornSingleRightCurved-single_right_curved = Curvado Direito Único
+marking-OniHornDoubleCurvedOutwards = Duplo Curvado Para Fora
+marking-OniHornDoubleCurvedOutwards-double_curved_outwards = Duplo Curvado Para Fora
+marking-OniHornDoubleCurved = Duplo Curvado
+marking-OniHornDoubleCurved-double_curved = Duplo Curvado
+marking-OniHornDoubleLeftBrokeCurved = Duplo Esquerdo Quebrado Curvado
+marking-OniHornDoubleLeftBrokeCurved-double_left_broke_curved = Duplo Esquerdo Quebrado Curvado
+marking-OniHornDoubleRightBrokeCurved =  Duplo Direito Quebrado Curvado
+marking-OniHornDoubleRightBrokeCurved-double_right_broke_curved = Duplo Direito Quebrado Curvado
