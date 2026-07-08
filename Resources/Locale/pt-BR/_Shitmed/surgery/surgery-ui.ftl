@@ -11,4 +11,4 @@ surgery-ui-window-steps-error-armor = Você precisa remover a armadura deles!
 surgery-ui-window-steps-error-tools = Ferramentas faltando.
 surgery-error-laying = Eles precisam estar deitados!
 surgery-error-self-surgery =você pode't executar Cirurgia em você mesmo!
-surgery-part-damage-evaded ={$usuário} narrowly evaded!
+surgery-part-damage-evaded ={$user} narrowly evaded!

@@ -8,7 +8,7 @@
 highlights-overseer = "Supervisor", "CC", "Colossus"
 highlights-station-traffic-controller = "STC", "Tráfego", "CC", "Colossus"
 highlights-judge = "Juiz", "CC", "Colossus", "Contrabando"
-#highlights-service-worker = "Serviço", "Trabalhador", "CC", "Colossus"
+# highlights-service-worker = "Serviço", "Trabalhador", "CC", "Colossus"
 highlights-janitor = "Zel", "Zelador", "CC", "Colossus"
 highlights-mail-carrier = "Carteiro", "Carta", "Correio"
 highlights-cyborg = "borg", "cyborg", "robô", "CC"

@@ -28,7 +28,7 @@ accent-bogan-words-6 =frio
 accent-bogan-words-replace-6 = show
 
 accent-bogan-words-7 =o que?
-accent-bogan-words-replace-7 = queqketáfalano?
+accent-bogan-words-replace-7 = que que tá falano?
 
 accent-bogan-words-8 =maconha
 accent-bogan-words-replace-8 = baseado
@@ -216,7 +216,7 @@ accent-bogan-words-replace-68 = quente
 accent-bogan-words-69 =frio
 accent-bogan-words-replace-69 = frio
 
-accent-bogan-words-70 =kudzu (plant name)
+accent-bogan-words-70 =kudzu
 accent-bogan-words-replace-70 = erva danada
 
 accent-bogan-words-71 =realmente?

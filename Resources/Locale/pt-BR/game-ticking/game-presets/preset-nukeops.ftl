@@ -28,7 +28,7 @@ nukeops-list-start = Os operacionais eram:
 nukeops-list-name = {$name}, operador nuclear
 nukeops-list-name-user = {$name} [{$user}]
 # nukeops-list-name and nukeops-list-name-user: intentionally left in English (list format)
-nukeops-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo! Houve {$readyPlayersCount} jogador(es) pronto(s).
+nukeops-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo! Houve {$readyPlayersCount} jogador(es) prontTHE(s).
 nukeops-no-one-ready = Nenhum jogador ficou pronto! Não é possível iniciar Operadores Nucleares.
 
 nukeops-role-commander = Comandante

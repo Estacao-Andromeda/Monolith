@@ -4,8 +4,8 @@ scuttle-device-arm-warning = Você mantém o gatilho de armamento ativo.
 scuttle-device-verb-disarm = Desarmar
 scuttle-device-verb-arm = Armar
 
-scuttle-device-announcement-sender = Assembleia de Aniquilação de Antimatéria
-scuttle-device-announcement-armed =o si mesmo-destruct mechanism de {$localização} tem foi engaged. {$tempo} seconds até detonation. se isto era fez em erro, o mechanism pode ainda ser disarmed.
+scuttle-device-announcement-sender = Assembleia de Aniquilação Antimatéria
+scuttle-device-announcement-armed = O mecanismo de autodestruição de {$location} foi ativado. {$time} segundos até detonar. Se isso foi um erro, o mecanismo ainda pode ser desarmado.
 scuttle-device-announcement-unarmed = O mecanismo de autodestruição de {$location} foi desativado.
 
 scuttle-device-razor-announcement-sender = Assembleia Atomizadora

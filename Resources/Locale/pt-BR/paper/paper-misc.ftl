@@ -31,7 +31,7 @@ book-text-agrichemkit-manual = Obrigado por escolher o kit de química Agroquím
 
       Conteúdo:
       5 garrafas de 30u rotuladas, 1 cada de nitrogênio, fósforo, hidrogênio, potássio e etanol
-      2 frascos de 5u tamanho Segurança-T-Diversão(TM), 1 cada de cloro e rádio
+      2 frascos de 5u tamanho Segurança-T-DiversãTHE(TM), 1 cada de cloro e rádio
       1 garrafa vazia de 30u, pronta para seus experimentos.
 
       Primeiro Experimento: Nutriente Fácil

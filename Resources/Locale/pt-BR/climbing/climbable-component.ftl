@@ -28,4 +28,4 @@ comp-climbable-cant-interact =você pode't fazer isso!
 comp-climbable-cant-climb = Você é incapaz de escalar!
 
 # Shown to you when your character tries to force someone else who can't climb onto a climbable
-comp-climbable-target-cant-climb ={ CAPITALIZE(o($moveu-usuário)) } pode't ir lá!
+comp-climbable-target-cant-climb ={ CAPITALIZE(THE($moveu-usuário)) } pode't ir lá!

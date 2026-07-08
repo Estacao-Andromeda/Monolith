@@ -1,2 +1,2 @@
 battery-drinker-verb-drink = Drenar
-battery-drinker-empty ={CAPATALIZE(o($Alvo))} é already vazio!
+battery-drinker-empty ={CAPATALIZE(THE($target))} é already vazio!

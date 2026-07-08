@@ -1,4 +1,4 @@
-robotic-arm-examine-no-filter =lá é não Filtro installed.
-robotic-arm-examine-filter =um [cor=branco]{$Filtro}[/cor] é installed.
-robotic-arm-examine-no-item =lá é não item segurou.
-robotic-arm-examine-item =isto é holding {INDEFINITE($item)} [cor=branco]{$item}[/cor].
+robotic-arm-examine-no-filter = Não há filtro instalado.
+robotic-arm-examine-filter = Um [color=white]{$filter}[/color] está instalado.
+robotic-arm-examine-no-item = Não há item segurado.
+robotic-arm-examine-item = Está segurando {INDEFINITE($item)} [color=white]{$item}[/color].

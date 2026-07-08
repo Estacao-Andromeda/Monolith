@@ -36,7 +36,7 @@ rev-briefing = Ajude seus revolucionários chefes a se livrarem de cada chefe pa
 rev-title = Revolucionários
 rev-description = Revolucionários estão entre nós.
 
-rev-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo. Houve {$readyPlayersCount} jogador(es) pronto(s).
+rev-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo. Houve {$readyPlayersCount} jogador(es) prontTHE(s).
 rev-no-one-ready = Nenhum jogador ficou pronto! Não é possível iniciar Revolução.
 rev-no-heads = Não havia Líderes Revolucionários para serem selecionados. Não é possível iniciar uma Revolução.
 

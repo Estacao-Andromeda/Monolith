@@ -5,8 +5,8 @@ comp-solution-transfer-fill-fully = Você enche {THE($target)} até a borda com 
 comp-solution-transfer-transfer-solution = Você transfere {$amount}u para {THE($target)}.
 
 ## Displayed when trying to transfer to a solution, but either the giver is empty or the taker is full
-comp-solution-transfer-is-empty ={CAPITALIZE(o($Alvo))} é vazio!
-comp-solution-transfer-is-full ={CAPITALIZE(o($Alvo))} é cheio!
+comp-solution-transfer-is-empty ={CAPITALIZE(THE($target))} é vazio!
+comp-solution-transfer-is-full ={CAPITALIZE(THE($target))} é cheio!
 
 ## Displayed in change transfer amount verb's name
 comp-solution-transfer-verb-custom-amount = Personalizado

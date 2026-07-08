@@ -1,17 +1,17 @@
-automation-filter-examine-empty =[cor=vermelho]isto Filtro isn't configured ainda.[/cor]
-automation-filter-examine-string =isto Filtro é conjunto para '{$nome}'
-stack-filter-examine =isto Filtro é conjunto para um mínimo de [cor=verde]{$tamanho}[/cor] items em um stack.
-combined-filter-examine =isto Filtro é conjunto para {INDEFINITE($Portão)} [cor=verde]{$Portão}[/cor] comparação com dele inputs.
-pressure-filter-examine =isto Filtro é conjunto para entre [cor=verde]{$min}[/cor] kPa e [cor=verde]{$max}[/cor] kPa.
+automation-filter-examine-empty =[color=red]Esse filtro ainda não foi configurado.[/cor]
+automation-filter-examine-string =Esse filtro está configurado para '{$nome}'
+stack-filter-examine = Esse filto está configurado para um mínimo de [color=green]{$size}[/color] items em uma pilha.
+combined-filter-examine = Esse filto está configurado para {INDEFINITE($gate)} [color=green]{$gate}[/color] de comparação com seus inputs.
+pressure-filter-examine = Esse filto está configurado para entre [color=green]{$min}[/color] kPa e [color=green]{$max}[/color] kPa.
 
-label-filter-window-title = Editar Filtro de Etiqueta
+label-filter-window-title = Editar Filtro de Etiquetas
 label-filter-placeholder = etiqueta para corresponder
 
-name-filter-window-title = Editar Filtro de Nome
+name-filter-window-title = Editar Filtro de Nomes
 name-filter-mode-Contain = Contém
 name-filter-mode-Start = Começa com
 name-filter-mode-End = Termina com
-name-filter-mode-Match = Corresponde exatamente
+name-filter-mode-Match = Corresponde exatamente a
 
 stack-filter-window-title = Editar Filtro de Pilha
 stack-filter-min-stack-size = Tamanho mínimo da pilha

@@ -1,1 +1,1 @@
-glass-table-shattered-others ={ CAPITALIZE(o($Mesa)) } cracks sob o peso de { o($climber) }!
+glass-table-shattered-others ={ CAPITALIZE(THE($Mesa)) } cracks sob o peso de { THE($climber) }!

@@ -2,7 +2,7 @@
 
 examine-name = É [bold]{$name}[/bold]!
 examine-can-see = Olhando para {OBJECT($ent)}, você pode ver:
-examine-can-see-nothing ={CAPITALIZE(gênero($ent))} é completamente nu!
+examine-can-see-nothing ={CAPITALIZE(gênerTHE($ent))} é completamente nu!
 
 id-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} Cinto.
 head-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] na cabeça de {POSS-ADJ($ent)}.
@@ -10,12 +10,12 @@ eyes-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nos olhos d
 mask-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} rosto.
 neck-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} pescoço.
 ears-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas orelhas de {POSS-ADJ($ent)}.
-jumpsuit-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] {sujeito($ent)} é wearing.
+jumpsuit-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] {SUBJECT($ent)} é wearing.
 outer-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} Corpo.
 suitstorage-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} ombro.
 back-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas costas de {POSS-ADJ($ent)}.
 gloves-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas mãos de {POSS-ADJ($ent)}.
-belt-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] {sujeito($ent)} é wearing.
+belt-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] {SUBJECT($ent)} é wearing.
 shoes-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nos pés de {POSS-ADJ($ent)}.
 
 id-card-examine-full = • ID de {CAPITALIZE(POSS-ADJ($wearer))}: [bold]{$nameAndJob}[/bold].

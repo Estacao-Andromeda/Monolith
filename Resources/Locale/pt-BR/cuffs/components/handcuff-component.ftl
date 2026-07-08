@@ -15,4 +15,4 @@ handcuff-component-cuff-interrupt-other-message = Você interrompe {$otherName} 
 handcuff-component-cuff-interrupt-self-message = Você foi interrompido enquanto se continha.
 handcuff-component-cuff-interrupt-buckled-message =você pode't buckle enquanto restrained!
 handcuff-component-cuff-interrupt-unbuckled-message =você pode't unbuckle enquanto restrained!
-handcuff-component-cannot-drop-cuffs =você são incapaz para colocar o restraints em {$Alvo}
+handcuff-component-cannot-drop-cuffs =você são incapaz para colocar o restraints em {$target}

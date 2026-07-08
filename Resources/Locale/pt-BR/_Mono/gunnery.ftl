@@ -7,4 +7,4 @@ gunnery-guns = Armas
 gunnery-gun-select = {$name}
 gunnery-gun-select-ammo = {$name}: {$ammo}
 
-gunnery-server-examine-detail =o server é using [cor={$valueColor}]{$usedProcessingPower}/{$processingPower}[/cor] de dele processing poder.
+gunnery-server-examine-detail = O servidor está usando [color={$valueColor}]{$usedProcessingPower}/{$processingPower}[/color] do seu poder de processamento.

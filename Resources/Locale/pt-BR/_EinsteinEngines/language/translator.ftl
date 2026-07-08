@@ -1,7 +1,7 @@
 translator-component-shutoff = O {$translator} desliga.
 translator-component-turnon = O {$translator} liga.
 
-translator-implanter-refuse =o {$implanter} tem não efeito em {$Alvo}.
+translator-implanter-refuse =o {$implanter} tem não efeito em {$target}.
 translator-implanter-success = O {$implanter} injetou com sucesso {$target}.
 translator-implanter-ready = Este implantador parece pronto para usar.
 translator-implanter-used = Este implantador parece vazio.

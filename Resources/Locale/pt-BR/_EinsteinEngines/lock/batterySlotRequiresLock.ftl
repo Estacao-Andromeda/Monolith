@@ -1,1 +1,1 @@
-batteryslotrequireslock-component-alert-owner ={$usuário} é messing com seu Manutenção painel!
+batteryslotrequireslock-component-alert-owner ={$user} é messing com seu Manutenção painel!

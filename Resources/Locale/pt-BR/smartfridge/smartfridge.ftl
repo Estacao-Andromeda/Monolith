@@ -4,8 +4,8 @@ smart-fridge-component-try-eject-access-denied = Acesso negado!
 smart-fridge-component-search-filter = Pesquisar...
 smart-fridge-component-title = SmartFridge
 smart-fridge-list-item = {$item} [{$amount}]
-#Mono
+# Mono
 smart-fridge-request-generic = Frescor não garantido
-#Mono
+# Mono
 smart-fridge-request-chemistry = Solicite reabastecimentos do seu químico
 smart-fridge-request-armory = Equipamento não garantido

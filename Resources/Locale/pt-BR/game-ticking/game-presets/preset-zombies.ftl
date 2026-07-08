@@ -4,7 +4,7 @@ zombie-description = Os mortos-vivos foram soltos na estação! Trabalhe com a t
 zombieteors-title = ZumbiMeteoros
 zombieteors-description = Os mortos-vivos foram soltos na estação em meio a um chuva cataclísmica de meteoros! Trabalhe com seus companheiros de tripulação e faça o seu melhor para sobreviver!
 
-zombie-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo! Houve {$readyPlayersCount} jogador(es) pronto(s).
+zombie-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo! Houve {$readyPlayersCount} jogador(es) prontTHE(s).
 zombie-no-one-ready = Nenhum jogador ficou pronto! Não é possível iniciar Zumbis.
 
 zombie-patientzero-role-greeting = Você é um infectado inicial. Consiga suprimentos e prepare-se para sua eventual transformação. Seu objetivo é assumir o controle da estação enquanto infecta o maior número possível de pessoas.

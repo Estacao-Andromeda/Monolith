@@ -76,7 +76,7 @@ shipyard-console-deed-unassigned = Escritura desatribuída do cartão de ID com 
 
 shipyard-console-confirm-unassign = Tem certeza?
 
-shipyard-console-unassign-cooldown = Espere {$minutes} minuto(s) antes de desatribuir outra escritura.
+shipyard-console-unassign-cooldown = Espere {$minutes} minutTHE(s) antes de desatribuir outra escritura.
 
 shipyard-console-category-All = Todos
 

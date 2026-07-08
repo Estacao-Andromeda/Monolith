@@ -1,12 +1,12 @@
-shipyard-direction-message =seu {$shipName} é relativamente located {$distância} medidor(s) para o {$direção}!
+shipyard-direction-message = Seu {$shipName} está localizado relativamente a {$distance} metro(s) para {$direction}!
 
 ship-access-denied = Você precisa da escritura da nave para acessar isso.
-ship-voucher-cooldown-active =Voucher cooldown ainda active para {NATURALFIXED($remainingTime, 1)} minutes!
+ship-voucher-cooldown-active = O voucher ainda está em cooldown por {NATURALFIXED($remainingTime, 1)} minutos!
 
 voucher-current-redemptions = Este voucher tem [color=yellow]{$count}[/color] resgates restantes.
 voucher-infinite-redemptions = Este voucher tem [color=yellow]infinitos[/color] resgates.
-voucher-current-cooldown-seconds =isto voucher é em cooldown para [cor=amarelo]{NATURALFIXED($cooldown, 1)}[/cor] seconds.
-voucher-current-cooldown-minutes =isto voucher é em cooldown para [cor=amarelo]{NATURALFIXED($cooldown, 1)}[/cor] minutes.
+voucher-current-cooldown-seconds = Este voucher está em cooldown por [color=yellow]{NATURALFIXED($cooldown, 1)}[/color] segundos.
+voucher-current-cooldown-minutes = Este voucher está em cooldown por [color=yellow]{NATURALFIXED($cooldown, 1)}[/color] minutos.
 
 shipyard-console-preview = Visualização
 shipyard-preview-ui-title = Visualizador 100

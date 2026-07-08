@@ -31,4 +31,4 @@ bounty-console-tab-available-label = Disponíveis
 bounty-console-tab-history-label = Histórico
 bounty-console-history-empty-label = Nenhum histórico de recompensas encontrado
 bounty-console-history-notice-completed-label = [color=limegreen]Concluído[/color]
-bounty-console-history-notice-skipped-label =[cor=vermelho]Skipped[/cor] por {$ID}
+bounty-console-history-notice-skipped-label = [color=red]Pulado[/color] por {$id}

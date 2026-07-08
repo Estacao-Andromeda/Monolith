@@ -25,4 +25,4 @@ disposal-unit-state-Flushed = Pressurizando
 disposal-unit-state-Pressurizing = Pressurizando
 
 # putting people in
-disposal-unit-being-inserted ={CAPITALIZE($usuário)} é trying para força você em um eliminação chute!
+disposal-unit-being-inserted ={CAPITALIZE($user)} é trying para força você em um eliminação chute!

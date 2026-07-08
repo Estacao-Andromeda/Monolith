@@ -14,7 +14,7 @@ hypospray-component-inject-self-clumsy-message = Ops! Você injetou em si mesmo.
 hypospray-component-empty-message = Nada para injetar.
 hypospray-component-feel-prick-message = Você sente uma pequena picada!
 hypospray-component-transfer-already-full-message ={$proprietário} é already cheio!
-hypospray-cant-inject =pode't injetar em {$Alvo}!
+hypospray-cant-inject =pode't injetar em {$target}!
 
 hypospray-verb-mode-label = Alternar Coleta de Recipiente
 hypospray-verb-mode-inject-all =você cannot desenhar de containers anymore.

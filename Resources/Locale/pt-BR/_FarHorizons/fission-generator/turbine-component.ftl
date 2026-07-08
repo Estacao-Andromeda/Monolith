@@ -29,7 +29,7 @@ turbine-smoke-stop = O {$owner} para de soltar fumaa.
 # Shown during repairs
 turbine-repair-ruined = Voc repara a carcaa do {$target} com o {$tool}.
 turbine-repair = Voc repara alguns dos danos ao {$target} usando o {$tool}.
-turbine-no-damage =lá é não Dano para reparar em o {$Alvo} using o {$Ferramenta}.
+turbine-no-damage =lá é não Dano para reparar em o {$target} using o {$tool}.
 turbine-show-damage = SaúdeDasHélices {$health}, SaúdeMáximaDasHélices {$healthMax}.
 
 # Anchoring warnings
