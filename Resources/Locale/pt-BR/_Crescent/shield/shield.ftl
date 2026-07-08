@@ -1,1 +1,1 @@
-shield-emitter-examine =O gerador está consumindo [cor=verde]{$basedraw}w[/cor] base e um adicional de [cor=purple]{$additional}w[/cor] de dano.
+shield-emitter-examine =O gerador está consumindo [color=verde]{$basedraw}w[/color] base e um adicional de [color=purple]{$additional}w[/color] de dano.

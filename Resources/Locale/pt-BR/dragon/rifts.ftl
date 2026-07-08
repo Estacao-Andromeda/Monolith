@@ -1,6 +1,6 @@
 carp-rift-warning =um rift é causing um unnaturally grande Energia flux {$location}. parar isto em todos costs!
 carp-rift-duplicate =Cannot ter 2 charging rifts em o mesmo tempo!
-carp-rift-examine =isto é [cor=amarelo]{$percentage}%[/cor] charged!
+carp-rift-examine =isto é [color=amarelo]{$percentage}%[/color] charged!
 carp-rift-max = Você atingiu a quantidade máxima de rifts
 carp-rift-anchor = Rifts requerem uma superfície estável para surgir.
 carp-rift-proximity = Muito perto de um rift próximo! Precisa estar a pelo menos {$proximity}m de distância.

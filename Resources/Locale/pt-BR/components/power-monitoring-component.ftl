@@ -8,7 +8,7 @@ power-monitoring-window-label-misc =Misc
 
 power-monitoring-window-object-array = Array {$name} [{$count}]
 
-power-monitoring-window-station-name =[cor=branco][font tamanho=14]{$stationName}[/font][/cor]
+power-monitoring-window-station-name =[color=branco][font tamanho=14]{$stationName}[/font][/color]
 power-monitoring-window-unknown-location = Localização desconhecida
 power-monitoring-window-total-sources = Saída total do gerador
 power-monitoring-window-total-battery-usage = Uso total da bateria

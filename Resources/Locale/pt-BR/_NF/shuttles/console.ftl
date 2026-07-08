@@ -1,7 +1,7 @@
 shuttle-console-designation = Designação:
 shuttle-console-designation-unknown = Desconhecido
 shuttle-console-maximum-iff-distance = Distância Máxima IFF
-shuttle-console-maximum-speed = Velocidade Máxima da Lanche
+shuttle-console-maximum-speed = Velocidade Máxima da Nave
 
 shuttle-console-iff-search = Buscar IFF
 shuttle-console-inertia-dampener-off = Cruzeiro
@@ -9,31 +9,23 @@ shuttle-console-inertia-dampener-dampen = Dirigir
 shuttle-console-inertia-dampener-anchor = Estacionar
 
 # Mono
-shuttle-console-force-anchored = You are not able to FTL an posto avançado.
+shuttle-console-force-anchored = Você não é capaz de FTL um posto avançado.
 shuttle-console-signature-infrared = Assinatura Térmica
 
 # Mono - Unknowns
-shuttle-console-signature-unknown =  \
-        { $mass -> \
-            [small] Desconhecido Pequeno \
-            [medium] Desconhecido Médio \
-            [large] Desconhecido Grande \
-            [huge] Desconhecido Enorme \
-            [supermassive] Desconhecido Supermassivo \
-           *[other] Desconhecido \
-        }
+shuttle-console-signature-unknown =
     { $mass ->
-        [small] Small Unknown
-        [medium] Medium Unknown
-        [large] Large Unknown
-        [huge] Huge Unknown
-        [supermassive] Supermassive Unknown
-       *[other] Unknown
+        [small] Desconhecido Pequeno
+        [medium] Desconhecido Médio
+        [large] Desconhecido Grande
+        [huge] Desconhecido Enorme
+        [supermassive] Desconhecido Supermassivo
+       *[other] Desconhecido
     }
 
 # Network Port Buttons
 shuttle-console-network-ports = Portas de Rede
-shuttle-console-network-connect-tooltip = The buttons on the nave console send a signal when pressed, use a multiferramenta on the console and connect it up to a device!
+shuttle-console-network-connect-tooltip = Os botões no console da nave enviam um sinal quando pressionados, use uma multiferramenta no console e conecte-a a um dispositivo!
 
 # Device Link Buttons
 shuttle-console-device-button-1 = Porta 1

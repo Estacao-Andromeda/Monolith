@@ -1,2 +1,2 @@
 # Examine Text
-gas-thermomachine-system-examined =o {$machineName} thermostat é conjunto para [cor={$tempColor}]{$temp} K[/cor].
+gas-thermomachine-system-examined =o {$machineName} thermostat é conjunto para [color={$tempColor}]{$temp} K[/color].

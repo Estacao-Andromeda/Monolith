@@ -7,25 +7,25 @@ comp-climbable-verb-climb = Saltar
 ### Interaction Messages
 
 # Shown to you when your character climbs on $climbable
-comp-climbable-user-climbs = Você pula em { THE($climbable) }!
+comp-climbable-user-climbs = Você pula em {THE($climbable)}!
 
 # Shown to others when $user climbs on $climbable
-comp-climbable-user-climbs-other  = { CAPITALIZE(THE($user)) } pula em { THE($climbable) }!
+comp-climbable-user-climbs-other  = {CAPITALIZE(THE($user))} pula em {THE($climbable)}!
 
 # Shown to you when your character forces someone to climb on $climbable
-comp-climbable-user-climbs-force = Você força { THE($moved-user) } em { THE($climbable) }!
+comp-climbable-user-climbs-force = Você força {THE($moved-user)} em {THE($climbable)}!
 
 # Shown to others when someone forces other $moved-user to climb on $climbable
-comp-climbable-user-climbs-force-other = { CAPITALIZE(THE($user)) } força { THE($moved-user) } em { THE($climbable) }!
+comp-climbable-user-climbs-force-other = {CAPITALIZE(THE($user))} força {THE($moved-user)} em {THE($climbable)}!
 
 # Shown to you when your character is far away from climbable
-comp-climbable-cant-reach =você pode't alcançar lá!
+comp-climbable-cant-reach = Você não pode alcançar lá!
 
 # Shown to you when your character can't interact with climbable for some reason
-comp-climbable-cant-interact =você pode't fazer isso!
+comp-climbable-cant-interact = Você não pode fazer isso!
 
 # Shown to you when your character isn't able to climb by their own actions
 comp-climbable-cant-climb = Você é incapaz de escalar!
 
 # Shown to you when your character tries to force someone else who can't climb onto a climbable
-comp-climbable-target-cant-climb ={ CAPITALIZE(THE($moveu-usuário)) } pode't ir lá!
+comp-climbable-target-cant-climb = {CAPITALIZE(THE($moved-user))} não pode ir lá!

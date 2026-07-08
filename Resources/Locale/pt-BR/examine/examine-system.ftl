@@ -6,6 +6,6 @@ examine-system-cant-see-entity =você pode't fazer fora qualquer isso é.
 
 examine-verb-name = Básico
 
-examinable-anchored =isto é [cor=darkgreen]anchored[/cor] para o Chão.
+examinable-anchored =isto é [color=darkgreen]anchored[/color] para o Chão.
 
-examinable-unanchored =isto é [cor=darkred]unanchored[/cor] de o Chão.
+examinable-unanchored =isto é [color=darkred]unanchored[/color] de o Chão.

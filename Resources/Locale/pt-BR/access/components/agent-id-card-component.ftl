@@ -1,4 +1,4 @@
-agent-id-no-new =Didn't ganho any novo accesses de {THE($cartão)}.
+agent-id-no-new = Não ganhou nenhum novo acesso de {THE($card)}.
 agent-id-new-1 = Ganhou um novo acesso de {THE($card)}.
 agent-id-new = Ganhou {$number} novos acessos de {THE($card)}.
 agent-id-card-current-name = Nome:

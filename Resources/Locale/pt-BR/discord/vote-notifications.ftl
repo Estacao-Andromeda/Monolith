@@ -18,4 +18,4 @@ votekick-webhook-cancelled-admin-target = **Votação cancelada devido ao alvo s
 
 votekick-webhook-cancelled-antag-target = **Votação cancelada devido ao alvo ser antagonista**
 
-votekick-ban-reason ="Votekick: {$razão}"
+votekick-ban-reason ="Votekick: {$reason}"

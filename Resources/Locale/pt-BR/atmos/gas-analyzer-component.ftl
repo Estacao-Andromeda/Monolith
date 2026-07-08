@@ -7,7 +7,7 @@ gas-analyzer-shutoff = O analisador de gases se desliga.
 
 gas-analyzer-window-name = Analisador de Gases
 gas-analyzer-window-environment-tab-label = Ambiente
-gas-analyzer-window-tab-title-capitalized ={CAPITALIZE($título)}
+gas-analyzer-window-tab-title-capitalized ={CAPITALIZE($title)}
 gas-analyzer-window-refresh-button = Atualizar
 gas-analyzer-window-no-data = Sem Dados
 gas-analyzer-window-no-gas-text = Sem Gases

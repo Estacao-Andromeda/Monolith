@@ -6,7 +6,7 @@ air-alarm-ui-access-denied = Acesso insuficiente!
 
 air-alarm-ui-window-pressure-label = Pressão
 air-alarm-ui-window-temperature-label = Temperatura
-air-alarm-ui-window-alarm-state-label =status
+air-alarm-ui-window-alarm-state-label = Status
 
 air-alarm-ui-window-address-label = Endereço
 air-alarm-ui-window-device-count-label = Total de Dispositivos
@@ -20,7 +20,7 @@ air-alarm-ui-window-pressure-indicator = Pressão: [color={$color}]{$pressure} k
 air-alarm-ui-window-temperature = {$tempC} C ({$temperature} K)
 air-alarm-ui-window-temperature-indicator = Temperatura: [color={$color}]{$tempC} C ({$temperature} K)[/color]
 air-alarm-ui-window-alarm-state = [color={$color}]{$state}[/color]
-air-alarm-ui-window-alarm-state-indicator =status: [cor={$cor}]{$estado}[/cor]
+air-alarm-ui-window-alarm-state-indicator = Status: [color={$color}]{$state}[/color]
 
 air-alarm-ui-window-tab-vents = Ventiladores
 air-alarm-ui-window-tab-scrubbers = Purificadores

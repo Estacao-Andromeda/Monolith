@@ -1,5 +1,5 @@
 atmos-alerts-window-title = Computador de Alertas Atmosféricos
-atmos-alerts-window-station-name =[cor=branco][font tamanho=14]{$stationName}[/font][/cor]
+atmos-alerts-window-station-name =[color=branco][font tamanho=14]{$stationName}[/font][/color]
 atmos-alerts-window-unknown-location = Localização desconhecida
 
 atmos-alerts-window-tab-no-alerts = Alertas

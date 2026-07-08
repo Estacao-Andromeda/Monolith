@@ -1,48 +1,48 @@
-﻿# Sistema de examinar poggers
+# Poggers examine system
 
 examine-name = É [bold]{$name}[/bold]!
 examine-can-see = Olhando para {OBJECT($ent)}, você pode ver:
-examine-can-see-nothing ={CAPITALIZE(gênerTHE($ent))} é completamente nu!
+examine-can-see-nothing = {CAPITALIZE(GENDER($ent))} está completamente nu!
 
-id-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} Cinto.
+id-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] no cinto de {POSS-ADJ($ent)}.
 head-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] na cabeça de {POSS-ADJ($ent)}.
 eyes-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nos olhos de {POSS-ADJ($ent)}.
-mask-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} rosto.
-neck-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} pescoço.
+mask-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] no rosto de {POSS-ADJ($ent)}.
+neck-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] no pescoço de {POSS-ADJ($ent)}.
 ears-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas orelhas de {POSS-ADJ($ent)}.
-jumpsuit-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] {SUBJECT($ent)} é wearing.
-outer-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} Corpo.
-suitstorage-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] em {POSS-ADJ($ent)} ombro.
+jumpsuit-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] que {SUBJECT($ent)} está vestindo.
+outer-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] no corpo de {POSS-ADJ($ent)}.
+suitstorage-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] no ombro de {POSS-ADJ($ent)}.
 back-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas costas de {POSS-ADJ($ent)}.
 gloves-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas mãos de {POSS-ADJ($ent)}.
-belt-examine =• {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] {SUBJECT($ent)} é wearing.
+belt-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] que {SUBJECT($ent)} está vestindo.
 shoes-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nos pés de {POSS-ADJ($ent)}.
 
 id-card-examine-full = • ID de {CAPITALIZE(POSS-ADJ($wearer))}: [bold]{$nameAndJob}[/bold].
 
-# Versão autoconsciente
+# Selfaware version
 
 examine-name-selfaware = Este é você, [bold]{$name}[/bold]!
 examine-can-see-selfaware = Olhando para você mesmo, você pode ver:
-examine-can-see-nothing-selfaware =você são completamente nu!
+examine-can-see-nothing-selfaware = Você está completamente nu!
 
-id-examine-selfaware =• seu [bold]{$item}[/bold] em seu Cinto.
+id-examine-selfaware = • Seu [bold]{$item}[/bold] no seu cinto.
 head-examine-selfaware = • Seu [bold]{$item}[/bold] na sua cabeça.
 eyes-examine-selfaware = • Seu [bold]{$item}[/bold] nos seus olhos.
-mask-examine-selfaware =• seu [bold]{$item}[/bold] em seu rosto.
-neck-examine-selfaware =• seu [bold]{$item}[/bold] em seu pescoço.
+mask-examine-selfaware = • Seu [bold]{$item}[/bold] no seu rosto.
+neck-examine-selfaware = • Seu [bold]{$item}[/bold] no seu pescoço.
 ears-examine-selfaware = • Seu [bold]{$item}[/bold] nas suas orelhas.
-jumpsuit-examine-selfaware =• seu [bold]{$item}[/bold] você são wearing.
-outer-examine-selfaware =• seu [bold]{$item}[/bold] em seu Corpo.
-suitstorage-examine-selfaware =• seu [bold]{$item}[/bold] em seu ombro.
+jumpsuit-examine-selfaware = • Seu [bold]{$item}[/bold] que você está vestindo.
+outer-examine-selfaware = • Seu [bold]{$item}[/bold] no seu corpo.
+suitstorage-examine-selfaware = • Seu [bold]{$item}[/bold] no seu ombro.
 back-examine-selfaware = • Seu [bold]{$item}[/bold] nas suas costas.
 gloves-examine-selfaware = • Seu [bold]{$item}[/bold] nas suas mãos.
-belt-examine-selfaware =• seu [bold]{$item}[/bold] você são wearing.
+belt-examine-selfaware = • Seu [bold]{$item}[/bold] que você está vestindo.
 shoes-examine-selfaware = • Seu [bold]{$item}[/bold] nos seus pés.
 
-# Examinar autoconsciente
+# Selfaware examine
 
-comp-hands-examine-empty-selfaware =você são não holding anything.
-comp-hands-examine-selfaware =você são holding { $items }.
+comp-hands-examine-empty-selfaware = Você não está segurando nada.
+comp-hands-examine-selfaware = Você está segurando {$items}.
 
-humanoid-appearance-component-examine-selfaware = Você é { INDEFINITE($age) } { $age } { $species }.
+humanoid-appearance-component-examine-selfaware = Você é {INDEFINITE($age)} {$age} {$species}.

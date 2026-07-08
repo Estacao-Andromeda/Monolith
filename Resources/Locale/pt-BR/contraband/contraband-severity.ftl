@@ -22,4 +22,4 @@ contraband-examinable-verb-message = Verificar legalidade deste item.
 
 contraband-department-plural = {$department}
 
-contraband-job-plural ={MAKEPLURAL($trabalho)}
+contraband-job-plural ={MAKEPLURAL($job)}

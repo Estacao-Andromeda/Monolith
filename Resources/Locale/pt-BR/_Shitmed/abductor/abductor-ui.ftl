@@ -15,20 +15,11 @@ abductors-ui-unlock-armor = Desbloquear Armadura
 abductors-ui-vest-linked = Colete conectado
 
 abductors-title = Abdutores
-abductors-description =Abductors ter targeted o Estação. evitar getting kidnapped por eles!
+abductors-description = Abdutores têm como alvo a estação. Evite ser sequestrado por eles!
 
 abductors-ghost-role-name = Abdutor
 abductors-ghost-role-desc = Sequestre pessoas, e recheie elas com órgãos experimentais de origem duvidosa.
-abductors-ghost-role-rules =você são um [cor=vermelho][bold]Abductor[/bold][/cor].
-                            seu intentions são para abduct pessoas de o Estação e substituir deles organs com vários experimental devices,
-                            depois de qual você retornar eles volta. você são não permitiu para destruir o Estação ou intentionally matar pessoas.
-                            isto é em seu interesse para retornar o teste subjects alive e saudável para o purity de o experimento.
-                            seu intentions são para abduct pessoas de o Estação e substituir deles organs com vários experimental devices,
-                            depois de qual você retornar eles volta. você são não permitiu para destruir o Estação ou intentionally matar pessoas.
-                            isto é em seu interesse para retornar o teste subjects alive e saudável para o purity de o experimento.
-                            seu intentions são para abduct pessoas de o Estação e substituir deles organs com vários experimental devices,
-                            depois de qual você retornar eles volta. você são não permitiu para destruir o Estação ou intentionally matar pessoas.
-                            isto é em seu interesse para retornar o teste subjects alive e saudável para o purity de o experimento.
+abductors-ghost-role-rules = Você é um [color=red][bold]Abdutor[/bold][/color].
                             Suas intenções são abduzir pessoas da estação e substituir seus órgãos por vários dispositivos experimentais,
                             após o qual você os devolve. Você não tem permissão para destruir a estação ou matar pessoas intencionalmente.
                             É do seu interesse devolver os sujeitos de teste vivos e saudáveis pela pureza do experimento.
@@ -42,23 +33,23 @@ abductor-round-end-agent-name = abdutor
 objective-issuer-abductors = [color=#FD0098]Nave-Mãe[/color]
 
 objective-condition-abduct-title = Abduza {$count} pessoa.
-objective-condition-abduct-description =(usar o Gizmo em um subdued vítima, então usar o Gizmo em o abductor console e selecionar o attract action), então substituir deles Coração com um de o glands, colocar eles em o experimenter, e imprensa completo experimento.
+objective-condition-abduct-description = (use o Gizmo em uma vítima subjulgada, então use o Gizmo no console de abdutor e selecione a ação de atração), então substitua o coração deles por uma das glândulas, coloque-os no experimentador, e pressione completar experimento.
 
-abductor-role-greeting =I am um profissional combate Cientista de um alto-tech race. meu tarefa é para abduct humans, conduzir experiments em eles, e retornar eles alive para o purity de o experimento. isto é não em meu interesse para destruir o Estação, matar, ou assist o Tripulação.
+abductor-role-greeting = Eu sou um cientista de combate profissional de uma raça de alta tecnologia. Minha tarefa é abduzir humanos, conduzir experimentos neles, e retorná-los vivos pela pureza do experimento. Não é do meu interesse destruir a estação, matar, ou assistir a tripulação.
 
 roles-antag-abductor-objective = Sequestre a tripulação da estação e realize seus experimentos neles!
 
-abductor-victim-role-greeting =você ter visto things você shouldn't ter. o mundo deve saber o verdade.
+abductor-victim-role-greeting = Você viu coisas que não deveria. O mundo deve saber a verdade.
 abductor-victim-role-name = Abduzido
-abductor-victim-role-desc =você ter visto things você shouldn't ter. o mundo deve saber o verdade.
+abductor-victim-role-desc = Você viu coisas que não deveria. O mundo deve saber a verdade.
 
 objective-issuer-voices = [color=#FD0098]As Vozes[/color]
 abductor-ui-pad-found = plataforma: [color=green]conectada[/color]
-abductor-ui-pad-not-found =pad: [cor=vermelho]não fundar[/cor]
+abductor-ui-pad-not-found = plataforma: [color=red]não encontrada[/color]
 abductor-ui-target-none = alvo: [color=red]NENHUM[/color]
 abductor-ui-target-found = alvo: [color=green]{$target}[/color]
 abductor-ui-experimentator-connected = experimentador: [color=green]conectado[/color]
-abductor-ui-experimentator-not-found =experimentator: [cor=vermelho]não fundar[/cor]
+abductor-ui-experimentator-not-found = experimentador: [color=red]não encontrado[/color]
 abductor-ui-victim-none = vítima: [color=red]NENHUM[/color]
 abductor-ui-victim-found = vítima: [color=green]{$victim}[/color]
 abductor-ui-armor-plug-in = [color=red][font size=16]Você precisa conectar a armadura de abdutor![/font][/color]

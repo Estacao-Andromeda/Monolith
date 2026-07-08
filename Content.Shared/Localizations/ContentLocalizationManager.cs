@@ -39,6 +39,8 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
             _loc.AddFunction(culture, "GASQUANTITY", FormatGasQuantity); // Frontier
+            _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural); // Andromeda
+            _loc.AddFunction(culture, "MANY", FormatMany); // Andromeda
 
 
             /*
@@ -48,6 +50,7 @@ namespace Content.Shared.Localizations
              */
             var cultureEn = new CultureInfo("en-US");
 
+            _loc.LoadCulture(cultureEn);
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
         }
