@@ -1,4 +1,4 @@
-# this file is subject to getting its shit moved to other files at a later date#
+# este arquivo está sujeito a ter seu conteúdo movido para outros arquivos em uma data posterior#
 
 # arachnids
 marking-SpiderMirror = Espelho
@@ -38,10 +38,10 @@ marking-DwarfConstellationLArm = Constelação do Braço (Esquerdo)
 marking-DwarfConstellationLArm-dwarfconstellationlarm = Constelação do Braço (Esquerdo)
 marking-DwarfConstellationRArm = Constelação do Braço (Direito)
 marking-DwarfConstellationRArm-dwarfconstellationrarm = Constelação do Braço (Direito)
-marking-DwarfConstellationLHand =Mão Constellation (esquerda)
-marking-DwarfConstellationLHand-dwarfconstellationlhand =Mão Constellation (esquerda)
-marking-DwarfConstellationRHand =Mão Constellation (direito)
-marking-DwarfConstellationRHand-dwarfconstellationrhand =Mão Constellation (direito)
+marking-DwarfConstellationLHand = Constelação da Mão (Esquerda)
+marking-DwarfConstellationLHand-dwarfconstellationlhand = Constelação da Mão (Esquerda)
+marking-DwarfConstellationRHand = Constelação da Mão (Direita)
+marking-DwarfConstellationRHand-dwarfconstellationrhand = Constelação da Mão (Direita)
 marking-DwarfConstellationLLeg = Constelação da Perna (Esquerda)
 marking-DwarfConstellationLLeg-dwarfconstellationlleg = Constelação da Perna (Esquerda)
 marking-DwarfConstellationRLeg = Constelação da Perna (Direita)
@@ -73,12 +73,12 @@ marking-DwarfMarkSpider-dwafmarkspider = Marca da Aranha
 marking-VitiligoHeadL = Vitiligo (Olho Esquerdo)
 marking-VitiligoHeadR = Vitiligo (Olho Direito)
 marking-VitiligoHeadJaw = Vitiligo (Linha da Mandíbula)
-marking-VitiligoHandR =Vitiligo (direito Mão)
+marking-VitiligoHandR = Vitiligo (Mão Direita)
 marking-VitiligoArmR = Vitiligo (Braço Direito)
-marking-VitiligoLegR = Vitiligo (Direito)
-marking-VitiligoHandL =Vitiligo (esquerda Mão)
+marking-VitiligoLegR = Vitiligo (Direita)
+marking-VitiligoHandL = Vitiligo (Mão Esquerda)
 marking-VitiligoArmL = Vitiligo (Braço Esquerdo)
-marking-VitiligoLegL = Vitiligo (Esquerdo)
+marking-VitiligoLegL = Vitiligo (Esquerda)
 marking-VitiligoChestF = Vitiligo Espalhado
 marking-VitiligoChestSpots = Manchas de Vitiligo
 
@@ -131,9 +131,9 @@ marking-fishbowl-fishbowl1 = Peixe
 # Frontier: bubbles < Bolhas
 marking-fishbowl-fishbowl2 = Bolhas de Peixe
 marking-FadingStars = Luz das Estrelas Desvanecente
-marking-FadingStars-fadingstars1 =Brightest
+marking-FadingStars-fadingstars1 = Mais Brilhante
 marking-FadingStars-fadingstars2 = Médio
-marking-FadingStars-fadingstars3 =Darkest
+marking-FadingStars-fadingstars3 = Mais Escuro
 
 # vox
 marking-VoxCocktail = Coquetel
@@ -165,12 +165,12 @@ marking-VoxFootGradientRFoot-voxfootgradientr1 = Sólido (Pé Direito)
 marking-VoxLegGradientLLeg = Sólido (Perna Esquerda)
 marking-VoxLegGradientLLeg-voxfootgradientl2 = Sólido (Perna Esquerda)
 marking-VoxLegGradientRLeg = Sólido (Perna Direita)
-marking-VoxLegGradientRLeg-voxfootgradientr2 = Sólido (Perna Esquerda)
-marking-VoxHandGradientRHand =Gradient (direito Mão)
+marking-VoxLegGradientRLeg-voxfootgradientr2 = Sólido (Perna Direita)
+marking-VoxHandGradientRHand = Gradiente (Mão Direita)
 marking-VoxHandGradientRHand-voxhandgradientr1 = Inferior
 marking-VoxHandGradientRHand-voxhandgradientr2 = Meio
 marking-VoxHandGradientRHand-voxhandgradientr3 = Superior
-marking-VoxHandGradientLHand =Gradient (esquerda Mão)
+marking-VoxHandGradientLHand = Gradiente (Mão Esquerda)
 marking-VoxHandGradientLHand-voxhandgradientl1 = Inferior
 marking-VoxHandGradientLHand-voxhandgradientl2 = Meio
 marking-VoxHandGradientLHand-voxhandgradientl3 = Superior
@@ -212,13 +212,13 @@ marking-VoxTailBalled-voxtailballed = Triturador
 marking-VoxTailSplit = Gêmeos
 marking-VoxTailSplit-voxtailsplit = Gêmeos
 
-# marcas de vox upstream não tem nomes localizados. hahaha
-# estas estão completamente quebradas e não deveriam ser visiveis no menu de marcas, mas INFELIZMENTE não sou habilidoso o suficiente para remove-las então você recebe essa "solução" estupida
+# marcas de vox upstream não têm nomes localizados. hahaha
+# estas estão completamente quebradas e não deveriam ser visíveis no menu de marcas, mas INFELIZMENTE não sou habilidoso o suficiente para removê-las então você recebe essa "solução" estúpida
 marking-VoxBeak = Bico Padrão [NÃO USAR]
 marking-VoxLArmScales = Braço Padrão [NÃO USAR]
-marking-VoxLHandScales =Default esquerda Mão [fazer não usar]
+marking-VoxLHandScales = Mão Esquerda Padrão [NÃO USAR]
 marking-VoxRArmScales = Braço Direito Padrão [NÃO USAR]
-marking-VoxRHandScales =Default direito Mão [fazer não usar]
+marking-VoxRHandScales = Mão Direita Padrão [NÃO USAR]
 # voxslop - eu posso matar os devs do impstation
 marking-VoxTail = Cauda de Vox (Média)
 marking-VoxLFootScales = Pé Esquerdo Padrão [NÃO USAR]

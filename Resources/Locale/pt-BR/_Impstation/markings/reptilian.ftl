@@ -4,8 +4,8 @@ marking-LizardSnoutpiercings = Piercings
 marking-LizardHornsNubby-horns_nubby = Chifres de Lagarto (Curtos)
 marking-LizardHornsNubby = Chifres de Lagarto (Curtos)
 
-marking-LizardHornsKoboldEarspiercings = Orejas de Lagarto (Kobold, Perfuradas)
-marking-LizardHornsKoboldEarspiercings-horns_kobold_ears = Orejas
+marking-LizardHornsKoboldEarspiercings = Orelhas de Lagarto (Kobold, Perfuradas)
+marking-LizardHornsKoboldEarspiercings-horns_kobold_ears = Orelhas
 marking-LizardHornsKoboldEarspiercings-horns_kobold_ears_piercings = Piercings
 
 marking-Fangs = Presas de Lagarto

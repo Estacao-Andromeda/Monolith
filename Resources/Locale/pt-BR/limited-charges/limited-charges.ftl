@@ -5,6 +5,6 @@ limited-charges-charges-remaining = {$charges ->
 
 limited-charges-max-charges = Está em [color=green]máximo[/color] de cargas.
 limited-charges-recharging = {$seconds ->
-    [one] Há [color=yellow]{$seconds}[/color] segundo restante até a próxima carga.
-    *[other] Há [color=yellow]{$seconds}[/color] segundos restantes até a próxima carga.
+    [one] Ha [color=yellow]{$seconds}[/color] segundo restante até a próxima carga.
+    *[other] Ha [color=yellow]{$seconds}[/color] segundos restantes até a próxima carga.
 }

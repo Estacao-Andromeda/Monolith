@@ -1,6 +1,6 @@
-ame-controller-component-fuel-slot-fail-whitelist =você pode't colocar isso em o controller...
+ame-controller-component-fuel-slot-fail-whitelist =você pode't colocar isso no controller...
 ame-controller-component-fuel-slot-fail-locked = Desligue o AME antes de manipular seu combustível.
-ame-controller-component-fuel-slot-success-insert =você insert o jar em o combustível slot.
+ame-controller-component-fuel-slot-success-insert = Você insere o frasco no compartimento de combustível.
 
 ## UI
 

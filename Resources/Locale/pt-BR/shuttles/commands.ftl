@@ -1,5 +1,6 @@
 # FTLdiskburner
-cmd-ftldisk-desc = Cria um disco de coordenadas FTL para navegar para o mapa onde a EntityID dada está
+
+cmd-ftldisk-desc = Cria um disco de coordenadas FTL para viajar para o mapa onde a EntityID dada está
 cmd-ftldisk-help = ftldisk [ID de Entidade]
 
 cmd-ftldisk-no-transform = A entidade {$destination} não tem Componente de Transformação!

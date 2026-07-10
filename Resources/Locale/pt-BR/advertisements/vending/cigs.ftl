@@ -1,4 +1,4 @@
-advertisement-cigs-1 = Space Cigs tem o gosto bom que um cigarro deve ter.
+advertisement-cigs-1 = Space Cigs tem gosto bom como um cigarro deve ter.
 advertisement-cigs-2 = Eu prefiro toolbox a trocar.
 advertisement-cigs-3 = Fume!
 advertisement-cigs-4 = Não acredite nos relatórios - fume hoje!
@@ -13,3 +13,4 @@ advertisement-cigs-12 = Aqui para tirar o bordo do trabalho!
 thankyou-cigs-1 = Você já tem, agora fume!
 thankyou-cigs-2 = Você provavelmente não vai se arrepender!
 thankyou-cigs-3 = Você vai se tornar um viciado em pouco tempo!
+

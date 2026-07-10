@@ -8,7 +8,7 @@ head-rev-role-greeting =
     Você é encarregado de remover todo o Comando da estação através da morte, exílio ou prisão.
     O Sindicato patrocinou você com um flash que converte a tripulação ao seu lado.
     Cuidado, isso não funcionará em Segurança, Comando, ou aqueles usando óculos de sol.
-    Viva la revolución!
+    ¡Viva la revolución!
 
 head-rev-briefing =
     Use flashes para converter pessoas à sua causa.
@@ -27,7 +27,7 @@ rev-role-greeting =
     Você é um Revolucionário.
     Você é encarregado de assumir o controle da estação e proteger os Revolucionários Chefes.
     Livre-se de toda a equipe de Comando.
-    Viva la revolución!
+    ¡Viva la revolución!
 
 rev-briefing = Ajude seus revolucionários chefes a se livrarem de cada chefe para assumir o controle da estação.
 
@@ -36,11 +36,11 @@ rev-briefing = Ajude seus revolucionários chefes a se livrarem de cada chefe pa
 rev-title = Revolucionários
 rev-description = Revolucionários estão entre nós.
 
-rev-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo. Houve {$readyPlayersCount} jogador(es) prontTHE(s).
+rev-not-enough-ready-players = Não há jogadores prontos suficientes para o jogo. Houve {$readyPlayersCount} jogador(es) prontos(s) de {$minimumPlayers} necessários. Não é possível iniciar Revolução.
 rev-no-one-ready = Nenhum jogador ficou pronto! Não é possível iniciar Revolução.
 rev-no-heads = Não havia Líderes Revolucionários para serem selecionados. Não é possível iniciar uma Revolução.
 
-rev-won = os Revs Chefes sobreviveram e tomaram com sucesso o controle da estação.
+rev-won = Os Revs Chefes sobreviveram e tomaram com sucesso o controle da estação.
 
 rev-lost = O Comando sobreviveu e matou todos os Revs Chefes.
 

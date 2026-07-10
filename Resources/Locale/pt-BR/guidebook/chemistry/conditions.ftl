@@ -1,4 +1,5 @@
-reagent-effect-condition-guidebook-total-damage =
+
+reagent-effect-condition-guidebook-total-damage=
     { $max ->
         [2147483648] tem pelo menos {NATURALFIXED($min, 2)} de dano total
         *[other] { $min ->
@@ -6,8 +7,7 @@ reagent-effect-condition-guidebook-total-damage =
                     *[other] tem entre {NATURALFIXED($min, 2)} e {NATURALFIXED($max, 2)} de dano total
                  }
     }
-
-reagent-effect-condition-guidebook-total-hunger =
+reagent-effect-condition-guidebook-total-hunger=
     { $max ->
         [2147483648] o alvo tem pelo menos {NATURALFIXED($min, 2)} de fome total
         *[other] { $min ->
@@ -15,8 +15,7 @@ reagent-effect-condition-guidebook-total-hunger =
                     *[other] o alvo tem entre {NATURALFIXED($min, 2)} e {NATURALFIXED($max, 2)} de fome total
                  }
     }
-
-reagent-effect-condition-guidebook-reagent-threshold =
+reagent-effect-condition-guidebook-reagent-threshold=
     { $max ->
         [2147483648] há pelo menos {NATURALFIXED($min, 2)}u de {$reagent}
         *[other] { $min ->
@@ -24,14 +23,11 @@ reagent-effect-condition-guidebook-reagent-threshold =
                     *[other] há entre {NATURALFIXED($min, 2)}u e {NATURALFIXED($max, 2)}u de {$reagent}
                  }
     }
-
-reagent-effect-condition-guidebook-mob-state-condition =
+reagent-effect-condition-guidebook-mob-state-condition=
     o mob está { $state }
-
-reagent-effect-condition-guidebook-job-condition =
+reagent-effect-condition-guidebook-job-condition=
     o cargo do alvo é { $job }
-
-reagent-effect-condition-guidebook-solution-temperature =
+reagent-effect-condition-guidebook-solution-temperature=
     a temperatura da solução está { $max ->
             [2147483648] pelo menos {NATURALFIXED($min, 2)}K
             *[other] { $min ->
@@ -39,8 +35,7 @@ reagent-effect-condition-guidebook-solution-temperature =
                         *[other] entre {NATURALFIXED($min, 2)}K e {NATURALFIXED($max, 2)}K
                      }
     }
-
-reagent-effect-condition-guidebook-body-temperature =
+reagent-effect-condition-guidebook-body-temperature=
     a temperatura do corpo está { $max ->
             [2147483648] pelo menos {NATURALFIXED($min, 2)}K
             *[other] { $min ->
@@ -48,20 +43,17 @@ reagent-effect-condition-guidebook-body-temperature =
                         *[other] entre {NATURALFIXED($min, 2)}K e {NATURALFIXED($max, 2)}K
                      }
     }
-
-reagent-effect-condition-guidebook-organ-type =
+reagent-effect-condition-guidebook-organ-type=
     o órgão metabolizador { $shouldhave ->
                                 [true] é
                                 *[false] não é
                            } {INDEFINITE($name)} órgão {$name}
-
-reagent-effect-condition-guidebook-has-tag =
+reagent-effect-condition-guidebook-has-tag=
     o alvo { $invert ->
                  [true] não tem
                  *[false] tem
                 } a etiqueta {$tag}
-
-reagent-effect-condition-guidebook-blood-reagent-threshold =
+reagent-effect-condition-guidebook-blood-reagent-threshold=
     { $max ->
         [2147483648] há pelo menos {NATURALFIXED($min, 2)}u de {$reagent}
         *[other] { $min ->
@@ -69,5 +61,4 @@ reagent-effect-condition-guidebook-blood-reagent-threshold =
                     *[other] há entre {NATURALFIXED($min, 2)}u e {NATURALFIXED($max, 2)}u de {$reagent}
                  }
     }
-
-reagent-effect-condition-guidebook-this-reagent = este reagente
+reagent-effect-condition-guidebook-this-reagent= este reagente

@@ -1,2 +1,2 @@
-fibers-modular = modular
+fibers-modular = modulares
 fibers-classified = classificado

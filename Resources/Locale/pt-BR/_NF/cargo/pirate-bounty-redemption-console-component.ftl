@@ -2,7 +2,7 @@
 # Pirate Exchange Console
 pirate-bounty-redemption-console-menu-title = Câmbio de recompensas PDV
 pirate-bounty-redemption-sell-button = Resgatar
-pirate-bounty-redemption-disclaimer = Dispenses materials back to Phaethon Dynasty comando for a reward. Be sure to use the chest if one is available.
+pirate-bounty-redemption-disclaimer = Devolve materiais de volta ao comando da Dinastia Phaethon por uma recompensa. Certifique-se de usar o baú se um estiver disponível.
 
 pirate-bounty-redemption-append = {$prev}{$empty ->
 [0] {$bounty}

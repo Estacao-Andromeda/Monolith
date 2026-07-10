@@ -1,5 +1,5 @@
-cmd-announce-desc =enviar um em-jogo announcement com costume cor e som.
-cmd-announce-help ={$Comando} <mensagem> [sender] [cor] [som] - enviar announcement. Sender defaults para CentCom, cor para ouro, som para announce.ogg. o cor deve ser em um #RRGGBB formato.
+cmd-announce-desc = Envia um anúncio no jogo com cor e som personalizados.
+cmd-announce-help = {$command} <mensagem> [remetente] [cor] [som] - Enviar anúncio. O remetente padrão é CentCom, a cor é dourado, o som é announce.ogg. A cor deve estar no formato #RRGGBB.
 
 # The default sender for the announcement
 cmd-announce-sender = Comando Central

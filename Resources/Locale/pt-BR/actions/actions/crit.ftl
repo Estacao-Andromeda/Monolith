@@ -1,1 +1,1 @@
-﻿action-name-crit-last-words = Dizer Últimas Palavras
+action-name-crit-last-words = Dizer Últimas Palavras

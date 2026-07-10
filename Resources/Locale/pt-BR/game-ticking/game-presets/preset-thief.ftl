@@ -1,8 +1,8 @@
 thief-role-greeting-human =
-    Você é um ladrão espacial! Ganhe experiência roubando itens valiosos. Não mate a menos que necessário.
-    anteriormente preso e em liberdade condicional por pequenos furtos.
+    Você é escória criminosa, um cleptomaníaco
+    anteriormente preso e em liberdade condicional por furto.
     Você precisa adicionar mais à sua coleção.
-    Você recebeu forçosamente um implante pacifista após sua última prisão,
+    Você recebeu à força um implante pacifista após sua última prisão,
     mas isso não pode impedi-lo de obter sua correção por quaisquer meios necessários.
 
 thief-role-greeting-animal =
@@ -15,6 +15,6 @@ thief-role-greeting-equipment =
     Escolha seu equipamento inicial,
     e faça seu trabalho furtivamente.
 
-objective-issuer-thief = Guilda de Ladrões
+objective-issuer-thief = [color=#746694]Criminoso[/color]
 
 thief-round-end-agent-name = ladrão

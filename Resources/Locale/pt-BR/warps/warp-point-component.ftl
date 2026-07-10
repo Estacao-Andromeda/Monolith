@@ -1,1 +1,1 @@
-warp-point-component-on-examine-success = This one's Localização ID is {$location}
+warp-point-component-on-examine-success = A ID de Localização deste é {$location}

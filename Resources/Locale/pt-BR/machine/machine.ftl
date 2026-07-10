@@ -14,7 +14,7 @@ machine-upgrade-decreased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/col
 
 machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] no melhorado.
 
-machine-part-name-capacitor = capacitor
+machine-part-name-capacitor = Capacitor
 
 machine-part-name-manipulator = manipulador
 

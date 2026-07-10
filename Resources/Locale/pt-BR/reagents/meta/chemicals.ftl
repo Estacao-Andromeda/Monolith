@@ -19,7 +19,7 @@ reagent-desc-hydroxide = Um produto químico alcalino forte, formando uma base p
 reagent-name-sodium-hydroxide = hidróxido de sódio
 reagent-desc-sodium-hydroxide = Um sal branco, inodoro, solúvel em água que produz uma solução alcalina forte na água. Causa queimaduras e vômitos quando ingerido.
 
-reagent-name-fersilicite = fersilicíta
+reagent-name-fersilicite = fersilicita
 reagent-desc-fersilicite = Um composto intermetálico com propriedades magnéticas incomuns em baixas temperaturas.
 
 reagent-name-sodium-polyacrylate = poliacrilato de sódio

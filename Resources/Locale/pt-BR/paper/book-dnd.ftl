@@ -10,12 +10,12 @@ book-cnc-sheet = C&C 5e Ficha de Personagem
     --------------------------------------------------------------------------------------
     SEÇÃO 2: ATRIBUTOS
     --------------------------------------------------------------------------------------
-    Força        =     10   (+0) 10 Base
-    Destreza     =     10   (+0) 10 Base
+    Força     =     10   (+0) 10 Base
+    Destreza    =     10   (+0) 10 Base
     Constituição =     10   (+0) 10 Base
     Inteligência =     10   (+0) 10 Base
-    Sabedoria    =     10   (+0) 10 Base
-    Carisma      =     10   (+0) 10 Base
+    Sabedoria       =     10   (+0) 10 Base
+    Carisma     =     10   (+0) 10 Base
 
     Bônus de Proficiência =
     Percepção (sabedoria passiva) =
@@ -29,12 +29,12 @@ book-cnc-sheet = C&C 5e Ficha de Personagem
     SEÇÃO 3: TESTES DE RESISTÊNCIA
     --------------------------------------------------------------------------------------
 
-    ( )Força        =      +0
-    ( )Destreza     =      +0
+    ( )Força     =      +0
+    ( )Destreza    =      +0
     ( )Constituição =      +0
     ( )Inteligência =      +0
-    ( )Sabedoria    =      +0
-    ( )Carisma      =      +0
+    ( )Sabedoria       =      +0
+    ( )Carisma     =      +0
 
 
     --------------------------------------------------------------------------------------
@@ -43,13 +43,13 @@ book-cnc-sheet = C&C 5e Ficha de Personagem
 
     ( )  Acrobacia (Des)       +0       ( )  Medicina (Sab)        +0
     ( )  Adestramento (Sab)   +0       ( )  Natureza (Int)        +0
-    ( )  Arcanismo (Int)       +0       ( )  Percepção (Sab)       +0
+    ( )  Arcanismo (Int)       +0       ( )  Percepção (Sab)      +0
     ( )  Atletismo  (For)      +0       ( )  Atuação (Car)         +0
-    ( )  Enganação (Car)       +0       ( )  Persuasão (Car)       +0
+    ( )  Enganação (Car)       +0       ( )  Persuasão (Car)      +0
     ( )  História (Int)        +0       ( )  Religião (Int)        +0
     ( )  Intuição (Sab)        +0       ( )  Prestidigitação (Des) +0
-    ( )  Intimidação (Car)     +0       ( )  Furtividade (Des)     +0
-    ( )  Investigação (Int)    +0       ( )  Sobrevivência (Sab)    +0
+    ( )  Intimidação (Car)    +0       ( )  Furtividade (Des)     +0
+    ( )  Investigação (Int)   +0       ( )  Sobrevivência (Sab)        +0
 
 
     --------------------------------------------------------------------------------------
@@ -57,13 +57,13 @@ book-cnc-sheet = C&C 5e Ficha de Personagem
     --------------------------------------------------------------------------------------
 
 
-    Classe de Armadura         :
+    Classe de Armadura          :
     Iniciativa (passiva) :
     Velocidade                :
 
     Dados de Vida            :
-    Máx. Pontos de Vida      :
-    Pontos de Vida Atuais    :
+    Máx. Pontos de Vida       :
+    Pontos de Vida Atuais   :
     Pontos de Vida Temporários :
 
     ATAQUES
@@ -73,22 +73,22 @@ book-cnc-sheet = C&C 5e Ficha de Personagem
     SEÇÃO 6: ANTECEDENTE
     --------------------------------------------------------------------------------------
 
-    Idade / Gênero            :
-    Altura / Peso             :
-    Olhos / Pele / Cabelo     :
-    Descrição                 :
+    Idade / Gênero         :
+    Altura / Peso      :
+    Olhos / Pele / Cabelo   :
+    Descrição          :
 
-    Antecedente               :
+    Antecedente           :
     Perícias de Proficiência  :
     Ferramentas de Proficiência   :
-    Idiomas                   :
+    Idiomas            :
 
     Características             :
     Vício de Escolha        :
-    Traços                     :
-    Ideal                      :
-    Vínculos                   :
-    Fraquezas                  :
+    Traços               :
+    Ideal                :
+    Vínculos                :
+    Fraquezas                :
 
     --------------------------------------------------------------------------------------
     SEÇÃO 7: EXTRAS
@@ -106,9 +106,9 @@ book-cnc-sheet = C&C 5e Ficha de Personagem
     SP         :
     CP         :
 
-    Gemas          :
-    Joias          :
-    Outro          :
+    Gemas         :
+    Joias      :
+    Outro        :
     Itens Mágicos  :
 
 

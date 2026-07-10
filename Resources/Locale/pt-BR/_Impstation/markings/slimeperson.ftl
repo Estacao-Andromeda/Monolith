@@ -34,11 +34,11 @@ marking-SlimeBonefootleft = Ossos Flutuantes (Pé Esquerdo)
 marking-SlimeBonefootright-bonefootright = Ossos Flutuantes (Pé Direito)
 marking-SlimeBonefootright = Ossos Flutuantes (Pé Direito)
 
-marking-SlimeBonehandleft-bonehandleft =Floating Bones (esquerda Mão)
-marking-SlimeBonehandleft =Floating Bones (esquerda Mão)
+marking-SlimeBonehandleft-bonehandleft = Ossos Flutuantes (Mão Esquerda)
+marking-SlimeBonehandleft = Ossos Flutuantes (Mão Esquerda)
 
-marking-SlimeBonehandright-bonehandright =Floating Bones (direito Mão)
-marking-SlimeBonehandright =Floating Bones (direito Mão)
+marking-SlimeBonehandright-bonehandright = Ossos Flutuantes (Mão Direita)
+marking-SlimeBonehandright = Ossos Flutuantes (Mão Direita)
 
 marking-SlimeBonelegleft-bonelegleft = Ossos Flutuantes (Perna Esquerda)
 marking-SlimeBonelegleft = Ossos Flutuantes (Perna Esquerda)

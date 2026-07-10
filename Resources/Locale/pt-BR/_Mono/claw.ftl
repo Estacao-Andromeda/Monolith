@@ -6,14 +6,14 @@ claws-lizard-medium = Eles têm garras de tamanho médio.
 claws-lizard-big = Eles têm garras longas.
 claws-lizard-huge = As garras deles são anormalmente longas.
 
-clawed-shoot-fail =você pode't caber claws em o trigger guarda
+clawed-shoot-fail = Você não consegue encaixar garras no guarda-gatilho
 
 declaw-success = Suas garras foram arrancadas!
 declaw-item-drop = Você sente uma dor aguda nas pontas dos dedos!
 
-has-no-claws-popup =eles don't ter any claws
+has-no-claws-popup = Eles não têm nenhuma garra
 claws-too-short-popup = As garras deles são muito curtas
 claws-clipping-doafter = Você começa a cortar as unhas deles
 
-claws-clipping-success =você sentir como seu claws tornou shorter
-claws-growth =você sentir como seu claws tornou longer...
+claws-clipping-success = Você sente como suas garras ficaram mais curtas
+claws-growth = Você sente como suas garras ficaram mais longas...

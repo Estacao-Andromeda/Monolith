@@ -1,1 +1,1 @@
-equip-part-missing-error ={$target} é desaparecido deles {$parte}!
+equip-part-missing-error = {$target} está sem {$part}!

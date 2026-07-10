@@ -30,6 +30,7 @@ analysis-console-progress-text = {$seconds ->
     [one] T-{$seconds} segundo
     *[other] T-{$seconds} segundos
 }
+
 analysis-console-no-server-connected = Não é possível extrair. Nenhum servidor conectado.
 analysis-console-no-artifact-placed = Nenhum artefato no scanner.
 analysis-console-no-points-to-extract = Nenhum ponto para extrair.

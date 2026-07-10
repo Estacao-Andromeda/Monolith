@@ -5,7 +5,7 @@ roles-antag-survivor-name = Sobrevivente
 roles-antag-survivor-objective = Objetivo Atual: Sobreviver
 
 survivor-role-greeting =
-    Você sobreviveu ao ataque dos magos. Sobreviva e escape vivo.
+    Você é um Sobrevivente.
     Acima de tudo você precisa voltar para o Comando Central vivo.
     Colete tanto poder de fogo quanto necessário para garantir sua sobrevivência.
     Não confie em ninguém.
@@ -46,7 +46,7 @@ wizard-role-greeting =
     Houve tensões entre a Federação dos Magos Espaciais e a NanoTrasen.
     Então você foi selecionado pela Federação dos Magos Espaciais para visitar a estação.
     Dê a eles uma boa demonstração de seus poderes.
-    O que você fazer é por sua conta, apenas lembre-se que os Magos Espaciais querem que você saia vivo.
+    O que você faz é por sua conta, apenas lembre-se que os Magos Espaciais querem que você saia vivo.
 
 wizard-round-end-name = mago
 

@@ -1,4 +1,4 @@
-shared-solution-container-component-on-examine-empty-container =Contains não chemicals.
+shared-solution-container-component-on-examine-empty-container =Não contém produtos químicos.
 shared-solution-container-component-on-examine-main-text = Contém {INDEFINITE($desc)} [color={$color}]{$desc}[/color] {$wordedAmount}
 shared-solution-container-component-on-examine-worded-amount-one-reagent = químico.
 shared-solution-container-component-on-examine-worded-amount-multiple-reagents = mistura de químicos.

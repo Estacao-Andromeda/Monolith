@@ -20,8 +20,8 @@ panicbunker-command-count-deadminned-admins-disabled = O bunker de pânico não 
 
 cmd-panicbunker_show_reason-desc = Alterna se deve mostrar aos clientes que estão conectando o motivo pelo qual o bunker de pânico os bloqueou de entrar.
 cmd-panicbunker_show_reason-help = Uso: panicbunker_show_reason
-panicbunker-command-show-reason-enabled = O bunker de pânico agora mostrará um motivo aos usuários que ele bloqueia de conectar.
-panicbunker-command-show-reason-disabled = O bunker de pânico não mostrará mais um motivo aos usuários que ele bloqueia de conectar.
+panicbunker-command-show-reason-enabled = O bunker de pânico agora mostrará um motivo aos usuários que bloqueia de conectar.
+panicbunker-command-show-reason-disabled = O bunker de pânico não mostrará mais um motivo aos usuários que bloqueia de conectar.
 
 cmd-panicbunker_min_account_age-desc = Obtém ou define a idade mínima da conta em minutos que uma conta deve ter para ter permissão para conectar com o bunker de pânico habilitado.
 cmd-panicbunker_min_account_age-help = Uso: panicbunker_min_account_age <minutos>

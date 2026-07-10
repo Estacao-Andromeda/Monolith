@@ -1,4 +1,5 @@
-cmd-mapping-desc = Cria ou carrega um mapa e teleporta você para ele.
+
+cmd-mapping-desc = Cria ou carrega um mapa e teletransporta você para ele.
 cmd-mapping-help = Uso: mapping [MapID] [Caminho] [Grid]
 cmd-mapping-server = Apenas jogadores podem usar este comando.
 cmd-mapping-error = Ocorreu um erro ao criar o novo mapa.

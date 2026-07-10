@@ -1,14 +1,16 @@
+# Mono edit
+
 reagent-name-coffee = café
 reagent-desc-coffee = Uma bebida feita de grãos de café preparados. Contém uma quantidade moderada de cafeína.
 
 reagent-name-cream = creme
 reagent-desc-cream = A parte gordurosa, ainda líquida do leite. Por que não misturar isso com um pouco de scotch, hein?
 
-reagent-name-coconut-water = água de coco
+reagent-name-coconut-water = água de côco
 reagent-desc-coconut-water = Um favorito de sobreviventes em ilhas desertas.
 
-reagent-name-cream-of-coconut = creme de coco
-reagent-desc-cream-of-coconut = Versão doce e xaroposa de creme de coco com açúcar adicionado.
+reagent-name-cream-of-coconut = creme de côco
+reagent-desc-cream-of-coconut = Versão doce e xaroposa de creme de côco com açúcar adicionado.
 
 reagent-name-cafe-latte = café com leite
 reagent-desc-cafe-latte = Uma bebida agradável, forte e saborosa enquanto você está lendo.
@@ -62,12 +64,11 @@ reagent-name-hot-cocoa = cacau quente
 reagent-desc-hot-cocoa = Cheira como as festas!
 
 reagent-name-soda-water = água com gás
-reagent-desc-soda-water = Um recipiente de soda. Por que não fazer um scotch e soda?
+reagent-desc-soda-water = Um recipiente de soda club. Por que não fazer um scotch e soda?
 
 reagent-name-soy-latte = latte de soja
 reagent-desc-soy-latte = Uma bebida de café feita com espresso e leite de soja aquecido.
 
-# Mono edit
 reagent-name-tea = chá preto
 reagent-desc-tea = Um chá preto clássico e robusto com um sabor profundo e rico.
 

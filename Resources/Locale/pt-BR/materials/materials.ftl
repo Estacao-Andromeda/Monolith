@@ -32,7 +32,7 @@ materials-paper = papel
 
 materials-uranium = urânio
 
-materials-bananium = bananium
+materials-bananium = Bananium
 
 materials-meat = carne
 

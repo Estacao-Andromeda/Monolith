@@ -1,14 +1,14 @@
 contraband-examine-text-Class1 = [color=yellow]Este item é considerado contrabando de classe 1, e pode ser tomado de você ao cometer um crime.[/color]
 contraband-examine-text-Class2 = [color=red]Este item é considerado contrabando de classe 2, posse civil é ilegal sem uma permissão.[/color]
-contraband-examine-text-Class2Expedition = [color=vermelho]This unregistered arma is considered class 2 contrabando, civilian possession is illegal without a permit.[/color]
-contraband-examine-text-Class3Expedition = [color=crimson]This unregistered arma is considered class 3 contrabando, civilian possession is illegal.[/color]
+contraband-examine-text-Class2Expedition = [color=red]Esta arma não registrada é considerada contrabando de classe 2, posse civil é ilegal sem uma permissão.[/color]
+contraband-examine-text-Class3Expedition = [color=crimson]Esta arma não registrada é considerada contrabando de classe 3, posse civil é ilegal.[/color]
 contraband-examine-text-Class3Cult = [color=crimson]Este item de culto é considerado contrabando de classe 3, e sua posse é ilegal.[/color]
 contraband-examine-text-Class3General = [color=crimson]Este item é considerado contrabando de classe 3, e sua posse é ilegal.[/color]
 contraband-examine-text-Class3Pirate = [color=crimson]Este item da Dinastia Phaethon é considerado contrabando de classe 3, e sua posse é ilegal.[/color]
-contraband-examine-text-Class3PirateHighValue = [color=crimson] Este item da Dinastia Phaethon é considerado contrabando de classe 3 de alto valor, e sua posse é ilegal.[/color]
+contraband-examine-text-Class3PirateHighValue = [color=crimson]Este item da Dinastia Phaethon é considerado contrabando de classe 3 de alto valor, e sua posse é ilegal.[/color]
 contraband-examine-text-Class3Syndicate = [color=crimson]Este item do Sindicato é considerado contrabando de classe 3, e sua posse é ilegal.[/color]
-contraband-examine-text-Class3Wizard = [color=crimson]Este item de Mago é considerado contrabando de classe 3, e sua posse é ilegal.[/color]
+contraband-examine-text-Class3Wizard = Este item é de Nível 3 [color=yellow][bold]Bruxo[/bold][/color]. Isto é inquestionavelmente perigoso e letal. O uso não sancionado resultará em demissão e perda de benefícios.
 contraband-examine-text-PirateTarget = [color=yellow]Este item pode ser um alvo de alto valor para os Imperiais![/color]
 contraband-examine-text-Class3MobHuman = [color=magenta]Este indivíduo é considerado muito perigoso para ser contido, e é tratado como contrabando de classe 3 quando em cativeiro. Mantê-lo em confinamento, vivo ou morto, é ilegal.[/color]
-contraband-examine-text-Class3MobCreature = [color=magenta]This creature is deemed too dangerous to be contained, and is considered as class 3 contrabando when in captivity. Keeping it in confinement, alive or morto, is illegal.[/color]
-contraband-examine-text-Class3MobConstruct = [color=magenta]This intelligence is deemed too dangerous to be contained, and is considered as class 3 contrabando when in captivity. Keeping it in confinement, alive or morto, is illegal.[/color]
+contraband-examine-text-Class3MobCreature = Este item é de Nível 3 [color=yellow][bold]Criatura[/bold][/color]. Isto é inquestionavelmente perigoso e letal. O uso não sancionado resultará em demissão e perda de benefícios.
+contraband-examine-text-Class3MobConstruct = Este item é de Nível 3 [color=yellow][bold]Construto[/bold][/color]. Isto é inquestionavelmente perigoso e letal. O uso não sancionado resultará em demissão e perda de benefícios.

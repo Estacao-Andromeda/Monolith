@@ -1,5 +1,5 @@
-cuffable-component-cannot-interact-message =você pode't fazer isso!
-cuffable-component-cannot-remove-cuffs-too-far-message =você são também longe embora para remover o restraints.
+cuffable-component-cannot-interact-message = Você não pode fazer isso!
+cuffable-component-cannot-remove-cuffs-too-far-message = Você está muito longe para remover as restrições.
 
 cuffable-component-start-uncuffing-self = Você começa a se contorcer dolorosamente para sair das restrições.
 cuffable-component-start-uncuffing-observer = {$user} começa a libertar {$target}!

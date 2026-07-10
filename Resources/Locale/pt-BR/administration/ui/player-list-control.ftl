@@ -1,1 +1,1 @@
-player-list-filter =Filtro
+player-list-filter = Filtro

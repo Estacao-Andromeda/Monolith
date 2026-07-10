@@ -2,32 +2,32 @@
 ghost-role-component-default-rules = Todas as regras normais se aplicam a menos que um administrador diga o contrário.
                                      Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                      Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                     Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                     Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-nonantagonist-rules = Você é um [color=green][bold]Não-antagonista[/bold][/color]. Geralmente você não deve procurar prejudicar a estação e sua tripulação.
-                                            Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
-                                            Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                            Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                             Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
+                                             Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
+                                             Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-freeagent-rules = Você é um [color=yellow][bold]Agente Livre[/bold][/color]. Você é livre para agir como antagonista ou não-antagonista.
-                                        Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
-                                        Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                        Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                         Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
+                                         Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
+                                         Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-antagonist-rules = Você é um [color=red][bold]Antagonista Solo[/bold][/color]. Suas intenções são claras, e prejudiciais à estação e sua tripulação.
                                           Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                           Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                          Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                          Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-rules-team-antagonist = Você é um [color=red][bold]Antagonista de Equipe[/bold][/color]. Suas intenções são claras, e prejudiciais à estação e sua tripulação.
                                                Você deve [bold]trabalhar com sua equipe[/bold] ou seguir direções razoáveis de seus líderes de equipe.
                                                Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                                Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                               Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                               Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-familiar-rules = Você é um [color=#6495ed][bold]Familiar[/bold][/color]. Sirva os interesses do seu mestre, quaisquer que sejam.
                                         Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                         Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                        Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                        Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 ghost-role-information-silicon-rules = Você é um [color=#6495ed][bold]Silício[/bold][/color]. Obedeça suas leis. Você é um Agente Livre se não estiver atualmente limitado por nenhuma lei.
                                        Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                        Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                       Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                       Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 
 ghost-role-information-mouse-name = Camundongo
 ghost-role-information-mouse-description = Um camundongo faminto e travesso.
@@ -51,7 +51,7 @@ ghost-role-information-giant-spider-rules = Você é um [color=red][bold]Antagon
 ghost-role-information-cognizine-description = Tornado consciente com a magia da cognizina.
 
 ghost-role-information-hamster-name = Hamster
-ghost-role-information-hamster-description = Uma pequena bola de pelo mal-humorada.
+ghost-role-information-hamster-description = Uma pequena bola de pelos mal-humorada.
 
 ghost-role-information-hamlet-name = Hamlet, o Hamster
 ghost-role-information-hamlet-description = Vive na ponte da estação, tem um pouco de temperamento e está sempre faminto.
@@ -74,7 +74,7 @@ ghost-role-information-xeno-description = Você é um xeno, coopere com sua colm
 ghost-role-information-xeno-rules = Você é um [color=red][bold]Antagonista de Equipe[/bold][/color] com todos os outros xenos.
 
 ghost-role-information-revenant-name = Revenante
-ghost-role-information-revenant-description = Você é um Revenante. Use seus poderes para colher almas e desencadear o caos sobre a tripulação. Desbloqueie novas habilidades com a essência que você colhe.
+ghost-role-information-revenant-description = Você é um Revenante. Use seus poderes para colher almas e desencadear o caos sobre a tripulação. Desbloqueie novas habilidades com a essência que você colher.
 
 ghost-role-information-kangaroo-name = Canguru
 ghost-role-information-kangaroo-description = Você é um canguru! Faça o que os cangurus fazem.
@@ -86,7 +86,6 @@ ghost-role-information-kobold-name = Kobold
 ghost-role-information-kobold-description = Seja o pequeno gremlin que você é, grite com as pessoas e peça carne!
 
 ghost-role-information-rat-king-name = Rei dos Ratos
-
 ghost-role-information-rat-king-description = Você é o Rei dos Ratos, seus interesses são comida, comida e mais comida. Coopere ou lute contra a estação por comida. Eu disse que comida te interessa?
 
 ghost-role-information-rat-servant-name = Servo dos Ratos
@@ -117,20 +116,20 @@ ghost-role-information-space-bear-name = Urso Espacial
 ghost-role-information-space-bear-description = Seu estômago ronca, e estas pessoas parecem muito deliciosas... Que festim!
 
 # Ainda existe como uma referência comentada para Tropico. Mantendo por aqui. -TsjipTsjip, 2024-06-20
-ghost-role-information-tropico-name = Tropico
-ghost-role-information-tropico-description = O nobre companheiro de Atmosia, e seu mais firme defensor. Viva!
+ghost-role-information-tropico-name = Trópico
+ghost-role-information-tropico-description = O nobre companheiro de Atmósia, e seu mais firme defensor. Viva!
 
 ghost-role-information-guardian-name = Guardião
-ghost-role-information-guardian-description = Escute o seu dono. Não absorva dano. Soca as pessoas com força.
+ghost-role-information-guardian-description = Escute o seu dono. Não absorva dano. Socar as pessoas com força.
 
 ghost-role-information-holoparasite-name = Holoparasita
-ghost-role-information-holoparasite-description = Escute o seu dono. Não absorva dano. Soca as pessoas com força.
+ghost-role-information-holoparasite-description = Escute o seu dono. Não absorva dano. Socar as pessoas com força.
 
 ghost-role-information-holoclown-name = Holopalhaço
 ghost-role-information-holoclown-description = Escute o seu dono. Utilize seus bolsos e mãos para ajudar seu dono.
 
 ghost-role-information-ifrit-name = Ifrit
-ghost-role-information-ifrit-description = Escute o seu dono. Não absorva dano. Soca as pessoas com força.
+ghost-role-information-ifrit-description = Escute o seu dono. Não absorva dano. Socar as pessoas com força.
 
 ghost-role-information-space-dragon-name = Dragão Espacial
 ghost-role-information-space-dragon-description = Chame 3 fendas de carpas e conquiste este quadrante! Você tem apenas 5 minutos entre cada fenda antes de desaparecer.
@@ -141,7 +140,7 @@ ghost-role-information-space-dragon-dungeon-description = Defenda a masmorra de 
 ghost-role-information-space-dragon-dungeon-rules = Você é um [color=red][bold]Antagonista de Equipe[/bold][/color] com todos os mobs da masmorra.
 
 ghost-role-information-cluwne-name = Cluwne
-ghost-role-information-cluwne-description = Torne-se um cluwne patético, seu único objetivo na vida é encontrar uma doce libertação de seu sofrimento (geralmente sendo espancado até a morte). Um cluwne não é um antagonista mas pode se defender. Tripulantes podem matar cluwnes livremente.
+ghost-role-information-cluwne-description = Torne-se um cluwne patético, seu único objetivo na vida é encontrar uma doce libertação de seu sofrimento (geralmente sendo espancado até a morte). Um cluwne não é um antagonista mas pode se defender. Tripulantes podem assassinar cluwnes livremente.
 
 ghost-role-information-skeleton-pirate-name = Pirata Esqueleto
 ghost-role-information-skeleton-pirate-description = Cause caos e saqueie a estação em busca de tesouro.
@@ -150,7 +149,7 @@ ghost-role-information-skeleton-biker-name = Motociclista Esqueleto
 ghost-role-information-skeleton-biker-description = Ande em sua moto incrível.
 
 ghost-role-information-closet-skeleton-name = Esqueleto de Armário
-ghost-role-information-closet-skeleton-description = Você é indiscutivelmente um dos membros mais antigos da estação! Consegue seu antigo emprego de volta, ou cause caos! O mundo é seu para moldar.
+ghost-role-information-closet-skeleton-description = Você é indiscutivelmente um dos membros mais antigos da estação! Consiga seu antigo emprego de volta, ou cause caos! O mundo é seu para moldar.
 
 ghost-role-information-remilia-name = Remilia, o Familiar do Capelão
 ghost-role-information-remilia-description = Siga e obedeça o capelão. Coma frutas. Grite alto nos ouvidos das pessoas e escreva como ecolocalização.
@@ -202,10 +201,10 @@ ghost-role-information-SyndiCat-name = SindiGato
 ghost-role-information-SyndiCat-description = Você é o animal de estimação treinado fiel de operativos nucleares com uma microbomba. Sirva seu mestre até a morte!
 ghost-role-information-SyndiCat-rules = Você é um [color=red][bold]Antagonista de Equipe[/bold][/color] com o agente que o convocou.
 
-ghost-role-information-Cak-name = Bolos
+ghost-role-information-Cak-name = Bolo
 ghost-role-information-Cak-description = Você é o filho favorito do chef. Você é um gato bolo vivo.
 
-ghost-role-information-BreadDog-name = PãoDog
+ghost-role-information-BreadDog-name = PãoCão
 ghost-role-information-BreadDog-description = Você é o filho favorito do chef. Você é um cachorro pão vivo.
 
 ghost-role-information-space-ninja-name = Ninja Espacial
@@ -261,7 +260,7 @@ ghost-role-information-science-description = Você faz parte de uma equipe cient
 
 ghost-role-information-civilian-name = Civil
 ghost-role-information-civilian-description = Você estava apenas passando o tempo, mas parece ter se encontrado em uma situação estranha...
-ghost-role-information-civilian-centcom-lawyer-name = Advogado da Centcom
+ghost-role-information-civilian-centcom-lawyer-name = Advogado da Centcomm
 ghost-role-information-civilian-centcom-lawyer-description = Um advogado direto da Divisão Legal Central.
 
 ghost-role-information-command-name = Comandante
@@ -272,14 +271,14 @@ ghost-role-information-lost-challenge-commander-description = Você é um membro
 ghost-role-information-lost-challenge-commander-rules = Você não é hostil à estação, faça o que for necessário para garantir sua própria sobrevivência.
                                      Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                      Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                     Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                     Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 
 ghost-role-information-lost-challenge-cargo-technican-name = Motorista de Carga
 ghost-role-information-lost-challenge-cargo-technican-description = Você é um técnico de carga que recebeu folga com um de seus oficiais comandantes.
 ghost-role-information-lost-challenge-cargo-technican-rules = Você não é hostil à estação, faça o que for necessário para garantir sua própria sobrevivência.
                                      Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                      Você tem permissão para se lembrar de conhecimento geral sobre o jogo, como cozinhar, como usar objetos, etc.
-                                     Você [color=red]NÃO[/color] tem permissão absoluta para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
+                                     Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 
 ghost-role-information-disaster-victim-name = Vítima de Desastre
 ghost-role-information-disaster-victim-description = Você foi resgatado em uma cápsula de escape de outra estação que sofreu um destino terrível. Talvez você seja encontrado e resgatado.

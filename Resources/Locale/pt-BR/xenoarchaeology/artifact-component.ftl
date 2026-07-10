@@ -1,3 +1,2 @@
-artifact-verb-make-always-active = Make Artefato always Ativo
-
-artifact-verb-activate = Ativar Artefato
+artifact-verb-make-always-active = Fazer artefato ficar sempre ativo
+artifact-verb-activate = Ativar artefato

@@ -1,4 +1,4 @@
-﻿norepinephricacid-effect-eyelids = Suas pálpebras estão tremendo rapidamente.
+norepinephricacid-effect-eyelids = Suas pálpebras estão tremendo rapidamente.
 norepinephricacid-effect-eyes-itch = Seus olhos sentem coceira.
 norepinephricacid-effect-vision-fade = Você sente sua visão desvanecendo.
 norepinephricacid-effect-vision-fail = Você sente sua visão falhando.

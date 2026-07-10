@@ -25,7 +25,7 @@ ui-vote-map-notlobby-time = Votação para mapas é válida apenas no lobby pré
 # Votekick votes
 ui-vote-votekick-unknown-initiator = Um jogador
 ui-vote-votekick-unknown-target = Jogador Desconhecido
-ui-vote-votekick-title = { $initiator } iniciou uma votação de expulsão para o usuário: { $targetEntity }. Motivo: { $reason }
+ui-vote-votekick-title = { $initiator } iniciou uma votação de expulsão contra o usuário: { $targetEntity }. Motivo: { $reason }
 ui-vote-votekick-yes = Sim
 ui-vote-votekick-no = Não
 ui-vote-votekick-abstain = Abster-se

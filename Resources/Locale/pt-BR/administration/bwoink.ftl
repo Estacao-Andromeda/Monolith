@@ -1,6 +1,6 @@
 bwoink-user-title = Mensagem de Admin
 
-bwoink-system-starmute-message-no-other-users = *sistema: ninguém está disponível para receber sua mensagem. Tente chamar os Admins do Jogo no Discord.
+bwoink-system-starmute-message-no-other-users = *Sistema: Ninguém está disponível para receber sua mensagem. Tente chamar Admins do Jogo no Discord.
 
 bwoink-system-messages-being-relayed-to-discord =
     Todas as mensagens são encaminhadas para administradores do jogo via Discord.
@@ -25,7 +25,7 @@ admin-bwoink-play-sound = Bwoink?
 
 bwoink-title-none-selected = Nenhum selecionado
 
-bwoink-system-rate-limited = sistema: você está enviando mensagens muito rapidamente.
+bwoink-system-rate-limited = Sistema: você está enviando mensagens muito rapidamente.
 bwoink-system-player-disconnecting = desconectou.
 bwoink-system-player-reconnecting = reconectou.
 bwoink-system-player-banned = foi banido por: {$banReason}

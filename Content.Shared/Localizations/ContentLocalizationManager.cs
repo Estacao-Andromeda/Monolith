@@ -41,6 +41,7 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "GASQUANTITY", FormatGasQuantity); // Frontier
             _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural); // Andromeda
             _loc.AddFunction(culture, "MANY", FormatMany); // Andromeda
+            _loc.AddFunction(culture, "LOWERCASE", FormatLowercase); // Andromeda
 
 
             /*
@@ -275,6 +276,15 @@ namespace Content.Shared.Localizations
                 time = timeArg;
             }
             return new LocValueString(FormatPlaytime(time));
+        }
+
+        private static ILocValue FormatLowercase(LocArgs args)
+        {
+            var input = args.Args[0].Format(new LocContext());
+            if (!string.IsNullOrEmpty(input))
+                return new LocValueString(input.ToLower());
+            else
+                return new LocValueString("");
         }
     }
 }

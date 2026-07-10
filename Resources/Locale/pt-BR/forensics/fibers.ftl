@@ -10,7 +10,7 @@ fibers-synthetic = sintético
 
 fibers-leather = couro
 
-fibers-durathread = durathread
+fibers-durathread = durafio
 
 fibers-latex = látex
 

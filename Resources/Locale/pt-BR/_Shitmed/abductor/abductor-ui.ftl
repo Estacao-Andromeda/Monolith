@@ -2,7 +2,7 @@ abductors-ui-beacons = Sinalizadores
 abductors-ui-teleport = Teleportar
 abductors-ui-attract = Atrair
 
-abductors-ui-experiment = Experimento
+abductors-ui-experiment = Experimentar
 abductors-ui-complete-experiment = Completar o experimento
 
 abductors-ui-gizmo-transferred = Informações do alvo transferidas
@@ -18,22 +18,22 @@ abductors-title = Abdutores
 abductors-description = Abdutores têm como alvo a estação. Evite ser sequestrado por eles!
 
 abductors-ghost-role-name = Abdutor
-abductors-ghost-role-desc = Sequestre pessoas, e recheie elas com órgãos experimentais de origem duvidosa.
+abductors-ghost-role-desc = Sequestre pessoas, e coloque órgãos experimentais de origem duvidosa nelas.
 abductors-ghost-role-rules = Você é um [color=red][bold]Abdutor[/bold][/color].
                             Suas intenções são abduzir pessoas da estação e substituir seus órgãos por vários dispositivos experimentais,
                             após o qual você os devolve. Você não tem permissão para destruir a estação ou matar pessoas intencionalmente.
                             É do seu interesse devolver os sujeitos de teste vivos e saudáveis pela pureza do experimento.
 
-                            Você não se lembra de nenhuma sua vida anterior, e não se lembra de nada que aprendeu como fantasma.
-                            Você tem permissão para se lembrar de conhecimento sobre o jogo em geral, como cozinhar, usar objetos, etc.
-                            Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, digamos, o nome, aparência, etc. de seu personagem anterior.
+                            Você não lembra de nada da sua vida anterior, e não lembra de nada que aprendeu como fantasma.
+                            Você tem permissão para lembrar conhecimento sobre o jogo em geral, como cozinhar, usar objetos, etc.
+                            Você absolutamente [color=red]NÃO[/color] tem permissão para lembrar, digamos, o nome, aparência, etc. do seu personagem anterior.
 
 abductor-round-end-agent-name = abdutor
 
 objective-issuer-abductors = [color=#FD0098]Nave-Mãe[/color]
 
 objective-condition-abduct-title = Abduza {$count} pessoa.
-objective-condition-abduct-description = (use o Gizmo em uma vítima subjulgada, então use o Gizmo no console de abdutor e selecione a ação de atração), então substitua o coração deles por uma das glândulas, coloque-os no experimentador, e pressione completar experimento.
+objective-condition-abduct-description = (use o Gizmo em uma vítima subjugada, então use o Gizmo no console de abdutor e selecione a ação de atração), então substitua o coração deles por uma das glândulas, coloque-os no experimentador, e pressione completar experimento.
 
 abductor-role-greeting = Eu sou um cientista de combate profissional de uma raça de alta tecnologia. Minha tarefa é abduzir humanos, conduzir experimentos neles, e retorná-los vivos pela pureza do experimento. Não é do meu interesse destruir a estação, matar, ou assistir a tripulação.
 

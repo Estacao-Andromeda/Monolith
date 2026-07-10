@@ -1,14 +1,14 @@
 barsign-prototype-description-little-treats = Uma sala de chá deliciosamente relaxante para todos os rapazes chiques do cosmos.
 
-barsign-prototype-description-neon-flamingos = You doubt you'll be able to stand on one leg after you're done here.
+barsign-prototype-description-neon-flamingos = Você duvida que será capaz de ficar em uma perna depois de terminar aqui.
 
-barsign-prototype-description-nf-maltroach = Mothroaches politely greet you into the bar, or are they greeting each other?
+barsign-prototype-description-nf-maltroach = Mariposas-baratas cumprimentam educadamente você no bar, ou elas estão cumprimentando umas às outras?
 
 barsign-prototype-description-the-rune = Bebidas que mudam a realidade.
 
-barsign-prototype-description-whiskey-echoes = Wew lad! Sit down and have a bebida! No matter your affiliation, the slogan here is 'Death to sobriety!'
+barsign-prototype-description-whiskey-echoes = Uau cara! Sente e beba uma! Não matter sua afiliação, o slogan aqui é 'Morte à sobriedade!'
 
-barsign-prototype-description-wyvern-shipyards = Have a seat, relax and don't worry, the future can't come any faster!
+barsign-prototype-description-wyvern-shipyards = Sente-se, relaxe e não se preocupe, o futuro não pode chegar mais rápido!
 
 barsign-prototype-name-little-treats = Little Treats Sala de Chá
 

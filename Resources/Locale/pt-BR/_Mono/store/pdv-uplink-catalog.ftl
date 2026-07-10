@@ -7,10 +7,10 @@ uplink-pirate-interdyne-defibrillator-name = Desfibrilador Interdyne
 uplink-pirate-interdyne-defibrillator-desc = Um desfibrilador compacto de elite que pode ser usado como arma, agora vendido separadamente. Surpreendentemente letal.
 
 uplink-pirate-chemical-synthesis-kit-name = Kit de Síntese Química
-uplink-pirate-chemical-synthesis-kit-desc = Um kit inicial para o químico aspirante, inclui toxina e vestine para todas as suas necessidades criminosas!
+uplink-pirate-chemical-synthesis-kit-desc = Um kit inicial para o químico aspirante, inclui toxina e vestina para todas as suas necessidades criminosas!
 
 uplink-pirate-anti-poison-pen-name = Autoinjetor Anti-veneno
-uplink-pirate-anti-poison-pen-desc = Uma dose rápida de anti-veneno. Contém ultravasculina e epinefrina.
+uplink-pirate-anti-poison-pen-desc = Uma dose rápida de anti-veneno. Contém ultravascularina e epinefrina.
 
 uplink-pirate-puncturase-pen-name = Autoinjetor de Puncturase
 uplink-pirate-puncturase-pen-desc = Uma dose rápida de puncturase e ácido tranexâmico, destinado a aplicações de combate.
@@ -19,7 +19,7 @@ uplink-pirate-pyrazine-pen-name = Autoinjetor de Pyrazine
 uplink-pirate-pyrazine-pen-desc = Uma dose rápida de pyrazine e dermaline, destinado a aplicações de combate.
 
 uplink-pirate-rad-pen-name = Autoinjetor Rad
-uplink-pirate-rad-pen-desc = Uma dose rápida de anti-radiação. Contém arithrazine e bicaridine.
+uplink-pirate-rad-pen-desc = Uma dose rápida de anti-radiação. Contém arithrazina e bicaridina.
 
 uplink-pirate-combat-medkit-name = Kit Médico de Combate
 uplink-pirate-combat-medkit-desc = Um kit médico contendo os suprimentos para curar trauma, contusão e perda de sangue.
@@ -27,7 +27,7 @@ uplink-pirate-combat-medkit-desc = Um kit médico contendo os suprimentos para c
 uplink-pirate-combat-pen-name = Medipen de Combate
 uplink-pirate-combat-pen-desc = Um tiro de uso geral de omnizine, embalado em um autoinjetor.
 
-uplink-pirate-syringe-case-name = Estojo de Medipens
+uplink-pirate-syringe-case-name = Estojio de Medipens
 uplink-pirate-syringe-case-desc = Um estojo de bolso cheio de medipens para a maioria dos cenários de combate.
 
 uplink-pirate-hyperzine-name = Injetor de Hyperzine
@@ -42,12 +42,14 @@ uplink-pirate-omnizine-jug-desc = Um jarro de omnizine que pode ser usado para f
 uplink-pirate-medical-assembler-name = Flatpack de Montador Médico
 uplink-pirate-medical-assembler-desc = Um montador que pode ser usado para fazer suprimentos médicos úteis.
 
+
+
 # MARCA: Utilidade
 
 uplink-pirate-romerol-name = Seringa de Romerol
-uplink-pirate-romerol-desc = Uma arma biológica usada em guerras anteriores, e pesadamente proibida. Obviamente tomou algum esforço para contrabandear esta. Reanima os mortos.
+uplink-pirate-romerol-desc = Uma arma biológica usada em guerras anteriores, e pesadamente proibida. Obviamente tomou algum esforço para contrabandear este. Reanima os mortos.
 
-uplink-pirate-empty-implanter-name = Implantador Vazio
+uplink-pirate-empty-implanter-name = Implantaor Vazio
 uplink-pirate-empty-implanter-desc = Um implantador sobressalente, vazio para remover implantes, incluindo implantes de rastreamento de facção. Não tem contragolpe em você.
 
 uplink-pirate-syndicate-magboots-name = Botas Magnéticas Táticas
@@ -63,13 +65,13 @@ uplink-pirate-radio-jammer-name = Jammer de Rádio
 uplink-pirate-radio-jammer-desc = Este dispositivo interromperá qualquer comunicação de rádio de saída nas proximidades, bem como sensores de traje quando ativado.
 
 uplink-pirate-hypopen-name = Hypopen
-uplink-pirate-hypopen-desc = Um hipo spray químico disfarçado de caneta, capaz de injetar instantaneamente até 10u de reagentes. Começa vazio.
+uplink-pirate-hypopen-desc = Um hipospray químico disfarçado de caneta, capaz de injetar instantaneamente até 10u de reagentes. Começa vazio.
 
-uplink-pirate-implanter-freelance-name = Implantador Vanguard
+uplink-pirate-implanter-freelance-name = Implantaor Vanguard
 uplink-pirate-implanter-freelance-desc = Implanta um rádio Vanguard, permitindo comunicação secreta sem fone de ouvido.
 
 uplink-pirate-emag-name = Sequenciador Criptográfico
-uplink-pirate-emag-desc = Um dispositivo de hacking multipropósito que pode configurar as maneiras como algumas máquinas funcionam.
+uplink-pirate-emag-desc = Um dispositivo de hacking multipropósito que pode configurar as maneiras que algumas máquinas funcionam.
 
 uplink-pirate-access-breaker-name = Disruptor de Autenticação
 uplink-pirate-access-breaker-desc = Um dispositivo que sobrepõe o leitor de acesso em uma máquina ou porta, permitindo que você a acesse livremente.
@@ -84,7 +86,7 @@ uplink-pirate-comms-computer-circuitboard-name = Placa de computador de comunica
 uplink-pirate-comms-computer-circuitboard-desc = Uma placa de circuito impresso de computador para um console de comunicações PDV.
 
 uplink-pirate-security-cyborg-module-name = Módulo de Ciborgue de Segurança
-uplink-pirate-security-cyborg-module-desc = Um machete, uma arma de energia e um cassetete de choque, feitos especificamente para borgs. Espera, a TFSMC não tem a mesma coisa?
+uplink-pirate-security-cyborg-module-desc = Um facão, uma arma de energia e um cassetete de choque, feitos especificamente para borgs. Espera, a TFSMC não tem a mesma coisa?
 
 uplink-pirate-cash10000-name = 10.000 créditos
 uplink-pirate-cash10000-desc = Esse é meu garoto, você fez meu dia.
@@ -96,6 +98,8 @@ uplink-pirate-cash100000-desc = Esse é meu garoto, você realmente fez meu dia.
 uplink-syndicate-applicator-name = Aplicador de Nanites Avançado
 uplink-syndicate-applicator-desc = Aplicador de nanites avançado com uma capacidade de nanites pesadamente melhorada capaz de auto geração de nanites.
 
+
+
 # MARCA: Armas
 
 uplink-pirate-energy-cutlass-name = Cutelo de Energia
@@ -105,10 +109,10 @@ uplink-pirate-energy-sword-name = Espada de Energia
 uplink-pirate-energy-sword-desc = Cortesia dos Saqueadores Gorlex. Faça sua marca, não deixe testemunhas.
 
 uplink-pirate-python-name = Python
-uplink-pirate-python-desc = Um revolver brutalmente simples, efetivo e barulhento. Vem carregado com balas .45 magnum.
+uplink-pirate-python-desc = Um revólver brutalmente simples, efetivo e barulhento. Vem carregado com balas .45 magnum.
 
 uplink-pirate-viper-name = Viper
-uplink-pirate-viper-desc = Uma arma pequena, facilmente ocultável, mas um pouco subpotente. Retrofitado com um receptor totalmente automático. Usa carregadores de pistola (9x19mm FMJ).
+uplink-pirate-viper-desc = Uma arma pequena, facilmente ocultável, mas um pouco subpotente. Retrofittado com um receptor totalmente automático. Usa carregadores de pistola (9x19mm FMJ).
 
 uplink-pirate-kanabou-name = Kanabou
 uplink-pirate-kanabou-desc = Uma arma para aqueles que desejam forjar sutileza. Particularmente adequado para oni.
@@ -116,14 +120,14 @@ uplink-pirate-kanabou-desc = Uma arma para aqueles que desejam forjar sutileza. 
 uplink-pirate-ak-name = AKM
 uplink-pirate-ak-desc = Uma arma de guerra icônica. Usa munição 7.62x39mm.
 
-uplink-pirate-laser-gun-name = Blaster Laser Retro
+uplink-pirate-laser-gun-name = Blaster Laser Retrô
 uplink-pirate-laser-gun-desc = Uma arma de grau civil usando luz amplificada pela emissão estimulada de radiação.
 
 uplink-pirate-c20-name = Kit C-20r
 uplink-pirate-c20-desc = Um SMG leve 9x19mm, embalado com alguns carregadores.
 
 uplink-pirate-atreides-name = Kit Atreides
-uplink-pirate-atreides-desc = Um SMG leve .45 de uma mão, embalado com alguns carregadores.
+uplink-pirate-atreides-desc = Um SMG leve .35 de uma mão, embalado com alguns carregadores.
 
 uplink-pirate-bulldog-name = Kit Bulldog
 uplink-pirate-bulldog-desc = Uma escopeta automática calibre 12, embalada com alguns tambores.
@@ -141,13 +145,15 @@ uplink-pirate-wspr-name = WSPR
 uplink-pirate-wspr-desc = Um contra-ataque à Annie da TSFMC. Usa a mesma munição 7.62x39mm.
 
 uplink-pirate-burner-name = Rifle Pesado Burner
-uplink-pirate-burner-desc = Um rifle destrutivo 12.7x99mm. Suporta munição HE. Horrovelmente destrutivo.
+uplink-pirate-burner-desc = Um rifle destrutivo 12.7x99mm. Suporta munição HE. Horrivelmente destrutivo.
 
 uplink-pirate-blueprint-launcher-rocket-name = Blueprint RPG-7
 uplink-pirate-blueprint-launcher-rocket-desc = Um blueprint para RPG-7 e a munição para ele. Bom para terrorismo de longo prazo!
 
 uplink-pirate-grenade-launcher-bundle-name = Kit China Lake
 uplink-pirate-grenade-launcher-bundle-desc = PLOOP!
+
+
 
 # MARCA: Munição
 
@@ -197,10 +203,12 @@ uplink-pirate-emp-rocket-name = Foguete EMP RPG-7
 uplink-pirate-emp-rocket-desc = Um foguete vingativo contra qualquer coisa elétrica. Desabilita e drena itens elétricos em seu raio.
 
 uplink-pirate-frag-grenade-name = Granada de Fragmentação
-uplink-pirate-frag-grenade-desc = Uma granada de fragmentação 40mm amplamente destrutiva para o China Lake. Destrói tudo em uma área ampla.
+uplink-pirate-frag-grenade-desc = Uma granada de fragmentação 40mm amplamente destrutiva para o China Lake. Destrói tudo numa área ampla.
 
 uplink-pirate-blast-grenade-name = Granada de Explosão
 uplink-pirate-blast-grenade-desc = Uma granada termobárica 40mm altamente letal para o China Lake. Altamente destrutiva em um raio preciso.
+
+
 
 # MARCA: Equipamento
 
@@ -221,6 +229,8 @@ uplink-pirate-syndie-mask-desc = Uma máscara de gás tática resistente a flash
 
 uplink-pirate-modsuit-name = Modsuit RX-01 PDV
 uplink-pirate-modsuit-desc = Um protótipo de modsuit experimental desenvolvido pela Ullman Industries. Quando alimentado, fornece agilidade aprimorada e sensores melhorados. "O cliente original morreu então uh, divirta-se" - Felix Ullman
+
+
 
 # MARCA: Explosivos
 
@@ -248,6 +258,8 @@ uplink-pirate-shrapnelgrenade-box-desc = Uma caixa contendo 4 granadas de estilh
 uplink-pirate-explosivegrenade-box-name = Caixa de Granadas Explosivas
 uplink-pirate-explosivegrenade-box-desc = Uma caixa contendo 4 granadas explosivas.
 
+
+
 # MARCA: $Apostas$
 
 uplink-pirate-syndisurplus-name = Caixa de Excedentes
@@ -255,6 +267,7 @@ uplink-pirate-syndisurplus-desc = Contém uma grande quantidade de bens importad
 
 uplink-pirate-syndisupersurplus-name = Caixa de Super Excedentes
 uplink-pirate-syndisupersurplus-desc = Contém uma quantidade enorme de bens importados de uma empresa apoiando a Dinastia Phaethon. Este item não é reembolsável, não discuta com nossos advogados.
+
 
 # Vouchers
 
@@ -268,7 +281,7 @@ uplink-pdv-t1-garm-voucher-name = Garm LPC PDV [T1]
 uplink-pdv-t1-garm-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de uma nave de suporte tipo bombardeiro classe Garm das reservas da nau-capitânia.
 
 uplink-pdv-t1-fenrir-voucher-name = Fenrir LPC PDV [T1]
-uplink-pdv-t1-fenrir-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de um destroyer de railgun classe Fenrir das reservas da nau-capitânia.
+uplink-pdv-t1-fenrir-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de um destruidor de railgun classe Fenrir das reservas da nau-capitânia.
 
 uplink-pdv-t1-kalisto-voucher-name = Kalisto LPC PDV [T1]
 uplink-pdv-t1-kalisto-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de uma corveta de artilharia classe Kalisto das reservas da nau-capitânia.
@@ -299,3 +312,44 @@ uplink-pdv-t3-saintie-voucher-desc = Um pequeno cartão que contém os dados par
 
 uplink-pdv-t4-saturn-voucher-name = Saturn LPC PDV [T4]
 uplink-pdv-t4-saturn-voucher-desc = Um pequeno cartão que autoriza a aquisição do Saturn.
+
+# Altnames/box variants for vendor
+
+uplink-pirate-blueprint-launcher-rocket-desc = Um blueprint para RPG-7 e a munição para ele. Bom para terrorismo de longo prazo!
+uplink-pirate-blueprint-launcher-rocket-name = Blueprint RPG-7
+uplink-pirate-box-bulldog-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com balas.
+uplink-pirate-box-bulldog-ammo-name = Caixa de tambores de balas calibre 12
+uplink-pirate-box-bulldog-slug-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com slugs.
+uplink-pirate-box-bulldog-slug-ammo-name = Caixa de tambores de slugs calibre 12
+uplink-pirate-box-highcal-desc = Uma caixa de munição de propósito geral para o rifle pesado Burner.
+uplink-pirate-box-highcal-he-desc = Uma caixa de munição explosiva para o rifle pesado Burner.
+uplink-pirate-box-highcal-he-name = Caixa HE 12.7x99mm
+uplink-pirate-box-highcal-name = Caixa 12.7x99mm
+uplink-pirate-box-magazine-light-rifle-desc = Uma caixa cheia de 4 carregadores 7.62x39mm.
+uplink-pirate-box-magazine-light-rifle-name = Caixa de carregadores 7.62x39mm
+uplink-pirate-box-magazine-pistol-desc = Uma caixa cheia de 4 carregadores de pistola 9x19mm.
+uplink-pirate-box-magazine-pistol-name = Caixa de carregadores de pistola 9x19mm
+uplink-pirate-box-smg-magazine-desc = Uma caixa cheia de 3 carregadores de SMG 9x19mm.
+uplink-pirate-box-smg-magazine-name = Caixa de carregadores de SMG 9x19mm
+uplink-pirate-empgrenade-box-desc = Uma caixa contendo 4 granadas EMP.
+uplink-pirate-empgrenade-box-name = Caixa de Granadas EMP
+uplink-pirate-explosivegrenade-box-desc = Uma caixa contendo 4 granadas explosivas.
+uplink-pirate-explosivegrenade-box-name = Caixa de Granadas Explosivas
+uplink-pirate-flashbanggrenade-box-desc = Uma caixa contendo 4 granadas flashbang.
+uplink-pirate-flashbanggrenade-box-name = Caixa de Granadas Flashbang
+uplink-pirate-incendiarygrenade-box-desc = Uma caixa contendo 4 granadas incendiárias.
+uplink-pirate-incendiarygrenade-box-name = Caixa de Granadas Incendiárias
+uplink-pirate-light-rifle-magazine-box-big-desc = Uma caixa contendo 200 cartuchos 7.62x39mm.
+uplink-pirate-light-rifle-magazine-box-big-name = Caixa de munição (7.62x39mm FMJ)
+uplink-pirate-magazine-box-45_magnum-desc = Uma caixa contendo 4 speedloaders .45 magnum.
+uplink-pirate-magazine-box-45_magnum-name = Caixa de speedloaders .45 magnum
+uplink-pirate-shell-box-lethal-desc = Uma caixa contendo 16 cartuchos de escopeta calibre 12.
+uplink-pirate-shell-box-lethal-name = Caixa de cartuchos (letal)
+uplink-pirate-shrapnelgrenade-box-desc = Uma caixa contendo 4 granadas de estilhaço.
+uplink-pirate-shrapnelgrenade-box-name = Caixa de Granadas de Estilhaço
+uplink-pirate-smg-ammo-box-desc = Uma caixa contendo 60 cartuchos de pistola 9x19mm. Pode ser usado para carregar carregadores de SMG.
+uplink-pirate-smg-ammo-box-name = Caixa de munição (9x19mm FMJ)
+uplink-pirate-smokegrenade-box-desc = Uma caixa contendo 4 granadas de fumaça.
+uplink-pirate-smokegrenade-box-name = Caixa de Granadas de Fumaça
+uplink-subsonic-box-desc = Uma caixa de munição para o WSPR.
+uplink-subsonic-box-name = Caixa de rifle subsônico 7.62x39mm

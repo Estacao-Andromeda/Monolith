@@ -1,6 +1,6 @@
-armor-plate-break = Sua {$plateName} quebrou!
-armor-plate-examine-with-plate = Tem um [color=yellow]{$plateName}[/color] instalado. Durabilidade: [color={$durabilityColor}]{$percent}%[/color]
-armor-plate-examine-with-plate-simple = Tem um [color=yellow]{$plateName}[/color] instalado.
+armor-plate-break = Sua {$plateName} foi quebrada!
+armor-plate-examine-with-plate = Tem uma [color=yellow]{$plateName}[/color] instalada. Durabilidade: [color={$durabilityColor}]{$percent}%[/color]
+armor-plate-examine-with-plate-simple = Tem uma [color=yellow]{$plateName}[/color] instalada.
 armor-plate-examine-no-plate = Nenhuma placa de blindagem instalada.
 armor-plate-examine-no-storage = Nenhum compartimento de armazenamento para placas de blindagem.
 
@@ -28,7 +28,7 @@ armor-plate-ratios-display =
     { $deltasign ->
         [-1] [color=cyan]Absorve[/color] [color=yellow]{$ratioPercent}%[/color] de [color=yellow]{$dmgType}[/color] e recebe como [color=yellow]x{$multiplier}[/color] dano de durabilidade.
          [0] Não é afetado por {$dmgType}
-         [1] [color=fuchsia]Amplifica[/color] [color=yellow]{$dmgType}[/color] em [color=yellow]{$ratioPercent}%[/color] e recebe o dano adicionado como [color=yellow]x{$multiplier}[/color] dano de durabilidade.
+         [1] [color=fuchsia]Amplifica[/color] [color=yellow]{$dmgType}[/color] em [color=yellow]{$ratioPercent}%[/color] e recebe o dano adicional como [color=yellow]x{$multiplier}[/color] dano de durabilidade.
         *[other] {$dmgType} não deveria ter este valor de absorção!
     }
 armor-plate-stamina-value = Causa [color=yellow]{$multiplier}%[/color] do dano absorvido como dano de stamina.

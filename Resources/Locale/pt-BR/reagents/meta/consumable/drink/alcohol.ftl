@@ -28,7 +28,7 @@ reagent-desc-coffeeliqueur = Licor saborizado com café preparado a frio e espec
 reagent-name-melon-liquor = licor de melão
 reagent-desc-melon-liquor = Um licor relativamente doce e frutado de 46 proof.
 
-reagent-name-n-t-cahors = vinho Cahors NeoTeologia
+reagent-name-n-t-cahors = vinho Cahórs NeoTeologia
 reagent-desc-n-t-cahors = Vinho de sobremesa fortificado feito de cabernet sauvignon, saperavi e outras uvas.
 
 reagent-name-poison-wine = vinho venenoso
@@ -46,7 +46,7 @@ reagent-desc-tequila = Um espírito forte e suavemente saborizado, produzido no 
 reagent-name-vermouth = vermute
 reagent-desc-vermouth = Vinho branco aromatizado e fortificado saborizado com vários botânicos.
 
-reagent-name-vodka = vodca
+reagent-name-vodka = vódca
 reagent-desc-vodka = Bebida alcoólica destilada clara que se origina da Polônia e Rússia.
 
 reagent-name-whiskey = uísque
@@ -101,22 +101,22 @@ reagent-name-black-russian = Russo Negro
 reagent-desc-black-russian = Para os intolerantes à lactose. Ainda tão chique quanto um Russo Branco.
 
 reagent-name-bloody-mary = Maria Sangrenta
-reagent-desc-bloody-mary = Uma mistura estranha mas prazerosa feita de vodca, tomate e suco de limão.
+reagent-desc-bloody-mary = Uma mistura estranha mas prazerosa feita de vódca, tomate e suco de limão.
 
 reagent-name-booger = meleca
 reagent-desc-booger = Ewww...
 
-reagent-name-brave-bull = Touro Bravo
+reagent-name-brave-bull = Touro Bravio
 reagent-desc-brave-bull = É tão eficaz quanto a Coragem Holandesa!
 
-reagent-name-coconut-rum = rum de coco
-reagent-desc-coconut-rum = Rum com coco para aquela sensação tropical.
+reagent-name-coconut-rum = rum de côco
+reagent-desc-coconut-rum = Rum com côco para aquela sensação tropical.
 
 reagent-name-cosmopolitan = cosmopolita
 reagent-desc-cosmopolitan = Mesmo nas piores situações, nada supera um cosmopolita fresco.
 
 reagent-name-cuba-libre = Cuba Livre
-reagent-desc-cuba-libre = rum, misturado com cola. Viva la revolucion.
+reagent-desc-cuba-libre = Rum, misturado com cola. Viva la revolução.
 
 reagent-name-demons-blood = Sangue de Demônio
 reagent-desc-demons-blood = AHHHH!!!!
@@ -143,7 +143,7 @@ reagent-name-gin-tonic = gim tônica
 reagent-desc-gin-tonic = Um clássico de todos os tempos, coquetel suave.
 
 reagent-name-gildlager = Gildlager
-reagent-desc-gildlager = Schnapps de canela de 100 proof, feito para meninas alcoólicas adolescentes nas férias de primavera.
+reagent-desc-gildlager = Schnapps de canela de 100 proof, feito para meninas alcoólatras adolescentes nas férias de primavera.
 
 reagent-name-grog = grog
 reagent-desc-grog = Rum aguado, aprovado por piratas!
@@ -161,7 +161,7 @@ reagent-name-irish-slammer = slammer irlandês
 reagent-desc-irish-slammer = Uma mistura não convencional de creme irlandês e stout.
 
 reagent-name-irish-cream = creme irlandês
-reagent-desc-irish-cream = Creme impregnado de uísque. O que mais você esperaria dos irlandeses.
+reagent-desc-irish-cream = Creme imbuído de uísque. O que mais você poderia esperar dos irlandeses.
 
 reagent-name-irish-coffee = café irlandês
 reagent-desc-irish-coffee = Café servido com creme irlandês. Creme comum simplesmente não é o mesmo!
@@ -170,7 +170,7 @@ reagent-name-kira-special = especial Kira
 reagent-desc-kira-special = Vida longa ao cara que todos confundiram com uma garota. Baka!
 
 reagent-name-long-island-iced-tea = chá gelado de Long Island
-reagent-desc-long-island-iced-tea = O armário de licores, reunidos em uma mistura deliciosa. Intendido apenas para mulheres alcoólicas de meia-idade.
+reagent-desc-long-island-iced-tea = O armário de licores, reunidos numa mistura deliciosa. Intencionado apenas para mulheres alcoólatras de meia-idade.
 
 reagent-name-manhattan = Manhattan
 reagent-desc-manhattan = A bebida disfarçada de escolha do Detetive. Ele nunca conseguiu aguentar gim...
@@ -179,7 +179,7 @@ reagent-name-manhattan-project = Projeto Manhattan
 reagent-desc-manhattan-project = Uma bebida de escolha do cientista, para ponderar maneiras de explodir a nave.
 
 reagent-name-manly-dorf = Dorf Masculino
-reagent-desc-manly-dorf = Cerveja e Ale, reunidos em uma mistura deliciosa. Intendido apenas para anões robustos.
+reagent-desc-manly-dorf = Cerveja e Ale, reunidos numa mistura deliciosa. Intencionado apenas para anões robustos.
 
 reagent-name-margarita = margarita
 reagent-desc-margarita = Nas pedras com sal na borda. Arriba~!
@@ -200,13 +200,13 @@ reagent-name-moonshine = moonshine
 reagent-desc-moonshine = Licor artesanal caseiro. O que poderia dar errado?
 
 reagent-name-neurotoxin = neurotoxina
-reagent-desc-neurotoxin = Uma forte neurotoxina que coloca o sujeito em um estado semelhante à morte.
+reagent-desc-neurotoxin = Uma forte neurotoxina que coloca o sujeito num estado semelhante à morte.
 
 reagent-name-painkiller = analgésico
 reagent-desc-painkiller = Uma cura para o que te aflige.
 
 reagent-name-patron = Patrón
-reagent-desc-patron = Tequila com prata, favorito das mulheres alcoólicas na cena de clubes.
+reagent-desc-patron = Tequila com prata, favorito das mulheres alcoólatras na cena de clubes.
 
 reagent-name-pina-colada = Piña Colada
 reagent-desc-pina-colada = Para se perder na chuva.
@@ -218,10 +218,10 @@ reagent-name-rewriter = Reescritor
 reagent-desc-rewriter = O segredo do santuário do Bibliotecário...
 
 reagent-name-sbiten = sbiten
-reagent-desc-sbiten = Uma Vodca picante! Pode ser um pouco quente para os pequenos!
+reagent-desc-sbiten = Uma Vódca picante! Pode ser um pouco quente para os pequenos!
 
 reagent-name-screwdriver-cocktail = screwdriver
-reagent-desc-screwdriver-cocktail = Vodca, misturado com suco de laranja comum. O resultado é surpreendentemente delicioso.
+reagent-desc-screwdriver-cocktail = Vódca, misturado com suco de laranja comum. O resultado é surpreendentemente delicioso.
 
 reagent-name-cogchamp = Cogchamp
 reagent-desc-cogchamp = Nem mesmo os Quatro Generais de Ratvar poderiam resistir a isso! Qevax Jryy!
@@ -250,10 +250,10 @@ reagent-desc-three-mile-island = "Feito para uma mulher, forte o suficiente para
 reagent-name-toxins-special = especial toxinas
 reagent-desc-toxins-special = Isso está PEGANDO FOGO! CHAME O DAMN SHUTTLE!
 
-reagent-name-vodka-martini = martini de vodca
-reagent-desc-vodka-martini = Vodca em vez de Gim. Não é bem como 007 gostava, mas ainda delicioso.
+reagent-name-vodka-martini = martini de vódca
+reagent-desc-vodka-martini = Vódca em vez de Gim. Não é bem como 007 gostava, mas ainda delicioso.
 
-reagent-name-vodka-tonic = vodca tônica
+reagent-name-vodka-tonic = vódca tônica
 reagent-desc-vodka-tonic = Para quando uma gim tônica não é russa o suficiente.
 
 reagent-name-whiskey-cola = uísque cola
@@ -268,14 +268,14 @@ reagent-desc-white-gilgamesh = Uma mistura enjoativa de leite e cerveja. Faz voc
 reagent-name-white-russian = Russo Branco
 reagent-desc-white-russian = É apenas, tipo, a sua opinião, cara...
 
-reagent-name-vodka-red-bool = vodca red bool
+reagent-name-vodka-red-bool = vódca red bool
 reagent-desc-vodka-red-bool = Porque falência cardíaca e falência hepática andam juntas.
 
 reagent-name-xeno-basher = Xeno Basher
 reagent-desc-xeno-basher = A bebida perfeita antes de uma expedição.
 
 reagent-name-irish-bool = bool irlandês
-reagent-desc-irish-bool = Como um bool em uma loja irlandesa.
+reagent-desc-irish-bool = Como um bool numa loja irlandesa.
 
 reagent-name-budget-insuls = isolantes orçamentários
 reagent-desc-budget-insuls = A bebida preferida dos tiders.
@@ -284,7 +284,7 @@ reagent-name-watermelon-wakeup = despertador de melancia
 reagent-desc-watermelon-wakeup = Se você quer estar acordado, isso vai fazer... Também doce.
 
 reagent-name-rubberneck = rubberneck
-reagent-desc-rubberneck = Uma bebida popular entre os que aderem a uma dieta totalmente sintética.
+reagent-desc-rubberneck = Uma bebida popular entre os que aderem uma dieta totalmente sintética.
 
 reagent-name-zombiecocktail = Zumbi
 reagent-desc-zombiecocktail = Entra na sua cabeça. Na na na na na ca-be-ça.

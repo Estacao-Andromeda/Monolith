@@ -1,3 +1,3 @@
-node-container-component-on-examine-details-hvpower = Tem um conector para cabos [color=orange]HV[/color].
-node-container-component-on-examine-details-mvpower = Tem um conector para cabos [color=yellow]MV[/color].
-node-container-component-on-examine-details-apc = Tem um conector para cabos [color=green]LV[/color].
+node-container-component-on-examine-details-hvpower= Tem um cónectór pára cábós [cólór=órange]HV[/cólór].
+node-container-component-on-examine-details-mvpower= Tem um cónectór pára cábós [cólór=yellów]MV[/cólór].
+node-container-component-on-examine-details-apc= Tem um cónectór pára cábós [cólór=green]LV[/cólór].

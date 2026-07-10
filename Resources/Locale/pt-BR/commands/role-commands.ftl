@@ -1,7 +1,7 @@
 cmd-addrole-desc = Adiciona um papel à mente de um jogador.
 cmd-addrole-help = Uso: addrole <ID da sessão> <papel>
-cmd-addrole-mind-not-found =pode't encontrar isso Mente.
-cmd-addrole-role-not-found =pode't encontrar isso papel.
+cmd-addrole-mind-not-found = Não foi possível encontrar essa mente.
+cmd-addrole-role-not-found = Não foi possível encontrar esse papel.
 cmd-addrole-mind-already-has-role = A mente já tem esse papel.
 
 cmd-listroles-desc = Lista todos os papéis disponíveis.

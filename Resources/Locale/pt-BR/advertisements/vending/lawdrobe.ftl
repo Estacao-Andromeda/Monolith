@@ -11,4 +11,5 @@ thankyou-lawdrobe-1 = Você pode ganhar qualquer caso com essa roupa!
 thankyou-lawdrobe-2 = Consiga uma para o seu cliente também!
 thankyou-lawdrobe-3 = Vença ou perca, você será pago de qualquer forma!
 thankyou-lawdrobe-4 = Lembre-se: Só é ilegal se você for pego!
-thankyou-lawdrobe-5 = OBJEÇÃO! Essa roupa é muito fresca para o tribunal!
+thankyou-lawdrobe-5 = OBJEÇÃO! Essa roupa é muita fresca para o tribunal!
+

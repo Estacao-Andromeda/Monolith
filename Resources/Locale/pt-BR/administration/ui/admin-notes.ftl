@@ -23,11 +23,11 @@ admin-notes-hide = Ocultar
 admin-notes-delete-confirm = Confirmar exclusão
 admin-notes-edited = Última edição por {$author} em {$date}
 admin-notes-unbanned = Desbanido por {$admin} em {$date}
-admin-notes-message-desc = [color=white]Você recebeu { $count ->
+admin-notes-message-desc = [color=white]Você recebeu {$count ->
     [1] uma mensagem administrativa
     *[other] mensagens administrativas
 } desde a última vez que jogou neste servidor.[/color]
-admin-notes-message-admin = De [bold]{ $admin }[/bold], escrito em { TOSTRING($date, "f") }:
+admin-notes-message-admin = De [bold]{$admin}[/bold], escrito em {TOSTRING($date, "f")}:
 admin-notes-message-wait = O botão de aceitar será habilitado após {$time} segundos.
 admin-notes-message-accept = Descartar permanentemente
 admin-notes-message-dismiss = Descartar por agora
@@ -48,7 +48,7 @@ admin-note-editor-secret-tooltip = Marcar isso tornará a nota não visível pel
 admin-note-editor-type-note = Nota
 admin-note-editor-type-message = Mensagem
 admin-note-editor-type-watchlist = Lista de observação
-admin-note-editor-type-server-ban = Banimento do Servidor
+admin-note-editor-type-server-ban = Banimento de Servidor
 admin-note-editor-type-role-ban = Banimento de Cargo
 admin-note-editor-severity-select = Selecionar
 admin-note-editor-severity-none = Nenhuma
@@ -60,7 +60,7 @@ admin-note-editor-expiry-checkbox-tooltip = Marque isso para fazer expirar
 admin-note-editor-expiry-label = Expira em:
 admin-note-editor-expiry-label-params = Expira em: {$date} (em {$expiresIn})
 admin-note-editor-expiry-label-expired = Expirado
-admin-note-editor-expiry-placeholder = Insira o tempo de expiração (número inteiro).
+admin-note-editor-expiry-placeholder = Insira o tempo de expiração (inteiro).
 admin-note-editor-submit = Enviar
 admin-note-editor-submit-confirm = Tem certeza?
 

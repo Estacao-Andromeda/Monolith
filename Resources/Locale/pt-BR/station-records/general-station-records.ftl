@@ -1,4 +1,5 @@
-general-station-record-console-select-record-info = Selecione um registo  esquerda.
+general-station-record-console-window-title = Computador de Registros da Estação
+general-station-record-console-select-record-info = Selecione um registro à esquerda.
 
 general-station-record-console-empty-state = Nenhum registo encontrado!
 
@@ -8,11 +9,11 @@ general-station-record-console-record-age = Idade: {$age}
 
 general-station-record-console-record-title = Emprego: {$job}
 
-general-station-record-console-record-species = Espcie: {$species}
+general-station-record-console-record-species = Espécie: {$species}
 
-general-station-record-console-record-gender = Gnero: {$gender}
+general-station-record-console-record-gender = Gênero: {$gender}
 
-general-station-record-console-record-fingerprint = Impresso digital: {$fingerprint}
+general-station-record-console-record-fingerprint = Impressão digital: {$fingerprint}
 
 general-station-record-console-record-dna = DNA: {$dna}
 
@@ -20,7 +21,7 @@ general-station-record-for-filter-line-placeholder = Insira texto e pressione "E
 
 general-station-record-name-filter = Nome da pessoa
 
-general-station-record-prints-filter = Impresses digitais
+general-station-record-prints-filter = Impressões digitais
 
 general-station-record-dna-filter = DNA
 

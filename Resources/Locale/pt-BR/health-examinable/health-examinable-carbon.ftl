@@ -5,7 +5,7 @@ health-examinable-carbon-Blunt-50 = [color=crimson]{CAPITALIZE(SUBJECT($target))
 health-examinable-carbon-Blunt-75 = [color=crimson]{CAPITALIZE(POSS-ADJ($target))} corpo está completamente coberto de lesões![/color]
 
 health-examinable-carbon-Slash-10 = [color=red]{CAPITALIZE(SUBJECT($target))} {CONJUGATE-HAVE($target)} alguns cortes menores.[/color]
-health-examinable-carbon-Slash-25 = [color=red]{CAPITALIZE(SUBJECT($target))} {CONJUGATE-HAVE($target)} lacerações pelo {POSS-ADJ($target)} corpo.[/color]
+health-examinable-carbon-Slash-25 = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } lacerações pelo { POSS-ADJ($target) } corpo.[/color]
 health-examinable-carbon-Slash-50 = [color=crimson]{CAPITALIZE(SUBJECT($target))} {CONJUGATE-HAVE($target)} feridas graves por todo o {POSS-ADJ($target)} corpo![/color]
 health-examinable-carbon-Slash-75 = [color=crimson]{CAPITALIZE(POSS-ADJ($target))} corpo está completamente mutilado![/color]
 

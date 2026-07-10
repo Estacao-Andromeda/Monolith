@@ -1,3 +1,3 @@
-# Deed Copy
-deed-copy-target-has-deed =isto Cartão ID already tem um deed.
-deed-copy-success =com sucesso copied deed para {$navio} para o Cartão ID.
+# Cópia de Escritura
+deed-copy-target-has-deed = Este cartão ID já tem uma escritura.
+deed-copy-success = Escritura copiada com sucesso para {$ship} no cartão ID.

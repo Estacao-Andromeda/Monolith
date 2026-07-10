@@ -94,17 +94,14 @@ ui-options-vp-stretch = Esticar viewport para caber na janela do jogo
 ui-options-vp-scale = Escala fixa do viewport:
 ui-options-vp-scale-value =x{ $escala }
 ui-options-vp-integer-scaling = Preferir escala inteira (pode causar barras pretas/corte)
-ui-options-vp-integer-scaling-tooltip =se isto opção é enabled, o viewport vontade ser scaled using um integer valor
-                                        em específico resolutions. enquanto isto results em crisp textures, isto also frequentemente
-                                        means isso black bars aparecer em o topo/bottom de o tela ou isso parte
-                                        de o viewport é não visível.
-                                        em resoluções específicas. Embora isso resulte em texturas nítidas, também significa frequentemente
-                                        que barras pretas aparecem na parte superior/inferior da tela ou que parte
+ui-options-vp-integer-scaling-tooltip = Se esta opção estiver ativada, o viewport será dimensionado usando um valor inteiro
+                                        em resoluções específicas. Embora isso resulte em texturas nítidas, também frequentemente
+                                        significa que barras pretas aparecem na parte superior/inferior da tela ou que parte
                                         do viewport não está visível.
 ui-options-vp-vertical-fit = Ajuste vertical do viewport
 ui-options-vp-vertical-fit-tooltip =quando enabled, o diretor viewport vontade ignorar o horizontal axis inteiramente quando
                                      fitting para seu tela. se seu tela é smaller do que o viewport, então isto
-                                     vontade causa o viewport para ser corte desligado em o horizontal axis.
+                                     vontade causa o viewport para ser corte desligado no horizontal axis.
                                      se ajustar a sua tela. Se sua tela for menor que o viewport, então isso
                                      fará com que o viewport seja cortado no eixo horizontal.
 ui-options-vp-low-res = Viewport de baixa resolução

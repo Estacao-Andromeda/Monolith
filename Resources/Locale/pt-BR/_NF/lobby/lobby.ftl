@@ -12,13 +12,14 @@ frontier-lobby-crew-title = Tripulação
 
 frontier-lobby-crew-subtext = Comece sua rodada a bordo de uma nave entre uma tripulação que está procurando novos membros da tripulação para dar uma mãozinha, seja você um piloto novo ou experiente!
 
-frontier-lobby-frontier-subtext = Hub principal para muitos pioneiros espaciais.
+frontier-lobby-frontier-subtext = Hub central para muitos pioneiros espaciais.
 
 frontier-lobby-frontier-description = Desperte do sono criogênico aqui para:
        - Começar sua própria tripulação e se tornar capitão
        - Encontrar uma tripulação para entrar
        - Comprar naves
        - Socializar com outros pioneiros
+       Alguns dos papéis nesta estação são apenas para lista branca e requerem uma aplicação no Discord para serem aceitos.
 
 frontier-lobby-exped-subtext = Onde mercenários experientes se reúnem.
 
@@ -36,6 +37,7 @@ frontier-lobby-medical-description = Hub de despacho médico civil da TSF. Aqui 
        - Socializar com outros médicos
        - Comprar naves especializadas médicas
        - Entregar recompensas médicas
+       Alguns dos papéis nesta estação são apenas para lista branca e requerem uma aplicação no Discord para serem aceitos.
 
 frontier-lobby-nfsd-subtext = O centro de operações da TSFMC.
 

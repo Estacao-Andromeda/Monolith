@@ -1,2 +1,2 @@
 alerts-borer-chemical-name = Produtos Químicos
-alerts-borer-chemical-desc =Chemicals fez em seu Corpo, usado para seu abilities.
+alerts-borer-chemical-desc = Produtos químicos produzidos no seu corpo, usados para suas habilidades.

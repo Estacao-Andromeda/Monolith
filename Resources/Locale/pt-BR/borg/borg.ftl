@@ -30,8 +30,8 @@ borg-transponder-emagged-destroyed-popup = O fusível do seu transponder queimou
 borg-select-type-menu-title = Selecionar Tipo de Chassi
 borg-select-type-menu-bottom-text = A seleção de chassi é irreversível
 borg-select-type-menu-available = Tipos disponíveis
-borg-select-type-menu-information = Informações
-borg-select-type-menu-select-type = Selecione o tipo para ver informações
+borg-select-type-menu-information = Informação
+borg-select-type-menu-select-type = Selecione o tipo para visualizar informações
 borg-select-type-menu-confirm = Confirmar seleção
 borg-select-type-menu-guidebook = Manual
 

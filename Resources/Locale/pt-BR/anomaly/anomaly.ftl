@@ -37,11 +37,11 @@ anomaly-scanner-pulse-timer = Tempo até o próximo pulso: [color=gray]{$time}[/
 anomaly-gorilla-core-slot-name = Núcleo de anomalia
 anomaly-gorilla-charge-none = Não há nenhum [bold]núcleo de anomalia[/bold] dentro dele.
 anomaly-gorilla-charge-limit = Tem [color={$count ->
-    [3]verde
-    [2]amarelo
-    [1]laranja
-    [0]vermelho
-    *[other]roxo
+    [3]green
+    [2]yellow
+    [1]orange
+    [0]red
+    *[other]purple
 }]{$count} {$count ->
     [one]carga
     *[other]cargas
@@ -82,10 +82,10 @@ anomaly-behavior-title = análise de desvio de comportamento:
 anomaly-behavior-point =[color=gold]A anomalia produz {$mod}% dos pontos[/color]
 
 anomaly-behavior-safe = [color=forestgreen]A anomalia é extremamente estável. Pulsações extremamente raras.[/color]
-anomaly-behavior-slow = [color=forestgreen]A frequência das pulsações é muito menos frequente.[/color]
+anomaly-behavior-slow = [color=forestgreen]A frequência das pulsações é bem menor.[/color]
 anomaly-behavior-light = [color=forestgreen]O poder da pulsação é significativamente reduzido.[/color]
 anomaly-behavior-balanced = Nenhum desvio de comportamento detectado.
-anomaly-behavior-delayed-force = A frequência das pulsações é grandemente reduzida, mas seu poder é aumentado.
+anomaly-behavior-delayed-force = A frequência das pulsações é bastante reduzida, mas seu poder é aumentado.
 anomaly-behavior-rapid = A frequência da pulsação é muito maior, mas sua força é atenuada.
 anomaly-behavior-reflect = Um revestimento protetor foi detectado.
 anomaly-behavior-nonsensivity = Uma reação fraca às partículas foi detectada.

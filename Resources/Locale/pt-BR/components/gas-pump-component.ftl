@@ -1,4 +1,4 @@
-comp-gas-pump-ui-pump-status =status:
+comp-gas-pump-ui-pump-status = status:
 comp-gas-pump-ui-status-enabled = Ligado
 comp-gas-pump-ui-status-disabled = Desligado
 

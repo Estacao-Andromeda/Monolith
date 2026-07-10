@@ -1,1 +1,1 @@
-plant-holder-component-cannot-be-sampled-message = This planta cannot be sampled!
+plant-holder-component-cannot-be-sampled-message = Esta planta não pode ser amostrada!

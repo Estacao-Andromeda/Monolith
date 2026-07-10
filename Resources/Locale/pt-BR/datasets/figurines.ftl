@@ -4,8 +4,8 @@ figurines-hop-2 = Você está demitido.
 figurines-passenger-1 = Insuls, por favor.
 figurines-passenger-2 = Chamem evac.
 
-figurines-greytider-1 = Cara, esta festa é péssima. Eu detesto essas pessoas.
-figurines-greytider-2 = Ah, não, quem perdeu a sua tonfa de atordoar?
+figurines-greytider-1 = Cara, essa festa é péssima. Eu detesto essas pessoas.
+figurines-greytider-2 = Ah, não, quem perdeu sua tona de atordoar?
 figurines-greytider-3 = Robusto.
 figurines-greytider-4 = Eu não sou eu sem uma caixa de ferramentas.
 figurines-greytider-5 = Maré cinza em toda a estação!
@@ -22,7 +22,7 @@ figurines-mime-1 = ...
 figurines-mime-2 = ...
 figurines-mime-3 = ....
 figurines-mime-4 = .......
-figurines-mime-5 = ............
+figurines-mime-5 = ................
 
 figurines-musician-1 = Nunca vou te abandonar!
 figurines-musician-2 = Nunca vou te decepcionar!
@@ -30,7 +30,7 @@ figurines-musician-2 = Nunca vou te decepcionar!
 figurines-boxer-1 = A primeira regra do Clube da Luta é...
 figurines-boxer-2 = A gente resolve isso no ringue, beleza?
 figurines-boxer-3 = EU. SOU. O. CAMPEÃO!!
-figurines-boxer-4 = Não olhem para mim, ele foi levado um tiro, não um soco.
+figurines-boxer-4 = Não olhem pra mim, ele levou um tiro, não um soco.
 
 figurines-captain-1 = Glória à NT!
 figurines-captain-2 = Como eu fui contratado? Sim.
@@ -38,10 +38,10 @@ figurines-captain-3 = O disco nuclear está seguro. Onde? Em algum lugar.
 
 figurines-hos-1 = Lei espacial? O quê?
 figurines-hos-2 = Atirem no palhaço.
-figurines-hos-3 = Sim, eu atirei no palhaço. Não, eu não me arrependo.
+figurines-hos-3 = Sim, eu atirei no palhaço. Não, não me arrependo.
 
-figurines-warden-1 = Execute ele por invasão!
-figurines-warden-2 = Perma esse carinha pra me insultar!
+figurines-warden-1 = Executem ele por invasão!
+figurines-warden-2 = Pemanente esse carinha por me insultar!
 figurines-warden-3 = Nós tratamos todos com justiça e NÃO maltratamos nossos prisioneiros.
 figurines-warden-4 = O brig é minha casa. Minha casa é o brig. Meu brig é casa. Para, o quê?
 
@@ -50,10 +50,10 @@ figurines-detective-2 = Eu preciso de uísque depois disso.
 
 figurines-security-1 = Eu sou a lei!
 figurines-security-2 = Você violou o artigo 1984.
-figurines-security-3 = Sempre que eu fico entediado eu uso o palhaço como prática de tiro.
+figurines-security-3 = Sempre que fico entediado eu uso o palhaço como prática de tiro.
 figurines-security-4 = Você tem dois direitos: ficar em silêncio e chorar por isso.
 
-figurines-lawyer-1 = Melhor ligar para Saul!
+figurines-lawyer-1 = Melhor chamar Saul!
 figurines-lawyer-2 = Objeção!
 
 figurines-cargotech-1 = DRAGÃO NA ATS!
@@ -65,9 +65,9 @@ figurines-salvage-1 = Megafauna? Foi mega fácil.
 figurines-qm-1 = Quem roubou a nave?
 figurines-qm-2 = Eu não vou aprovar as armas.
 figurines-qm-3 = Eu não comprei essas armas!
-figurines-qm-4 = Um caixa de brinquedos pro meu coleguinha palhaço!
+figurines-qm-4 = Um caixa de brinquedos pra meu coleguinha palhaço!
 figurines-qm-5 = Hora de gastar todo dinheiro apostando.
-figurines-qm-6 = Viva Cargonia!
+figurines-qm-6 = Viva Cargônia!
 figurines-qm-7 = Preencha o formulário.
 
 figurines-ce-1 = Todos para o briefing!
@@ -84,7 +84,7 @@ figurines-atmostech-1 = Eu coloquei plasma na distribuição.
 figurines-atmostech-2 = Eu vou te queimar numa câmara de queima.
 figurines-atmostech-3 = Frezon...
 figurines-atmostech-4 = Trítio...
-figurines-atmostech-5 = Glória à Atmosia!
+figurines-atmostech-5 = Glória à Atmôsia!
 
 figurines-rd-1 = Explodindo todos os cyborgs!
 figurines-rd-2 = Arsenal nível 3? De jeito nenhum.
@@ -101,7 +101,7 @@ figurines-cmo-2 = Por que nós temos met?
 figurines-chemist-1 = Peguem seus remédios!
 
 figurines-paramedic-1 = Insuls e ferramentas!
-figurines-paramedic-2 = Eu preciso de AA pra salvar pessoas!
+figurines-paramedic-2 = Eu preciso de AA para salvar pessoas!
 
 figurines-doctor-1 = O paciente já está morto!
 figurines-doctor-2 = LIMPANDO!
@@ -140,7 +140,7 @@ figurines-footsoldier-1 = Eu sou um garoto mau. Menos garoto todo dia, mais mal 
 figurines-footsoldier-2 = Quem você vai escolher? Eles ou nós? Nós ou eles?
 
 figurines-wizard-1 = Ei Nath!
-figurines-wizard-2 = Wehgardium Leviosa!
+figurines-wizard-2 = Wingardium Leviosa!
 figurines-wizard-3 = Skidaddle skadoodle!
 figurines-wizard-4 = BOLA DE FOGO!
 

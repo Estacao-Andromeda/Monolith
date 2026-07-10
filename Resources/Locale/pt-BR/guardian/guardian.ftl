@@ -1,24 +1,25 @@
 
 ## Guardian host specific
 
-guardian-created = Voc se sente... Assombrado.
-guardian-already-present-invalid-creation = Voc NO est revivendo essa experincia assustadora!
-guardian-no-actions-invalid-creation = Voc no tem a capacidade de hospedar um guardio!
-guardian-activator-empty-invalid-creation = O injetor est esgotado.
-guardian-activator-empty-examine = [color=#ba1919]O injetor est esgotado.[/color]
+guardian-created = Você se sente... Assombrado.
+guardian-already-present-invalid-creation = Você NÃO está revivendo essa experiência assustadora!
+guardian-no-actions-invalid-creation = Você não tem a capacidade de hospedar um guardião!
+guardian-activator-empty-invalid-creation = O injetor está gasto.
+guardian-activator-empty-examine = [color=#ba1919]O injetor está gasto.[/color]
 # TODO: Change this once other species can inject it?
 guardian-activator-invalid-target = Apenas humanos podem ser injetados!
-guardian-no-soul = Seu guardio no tem alma.
-guardian-available = Seu guardio agora tem uma alma.
-guardian-inside-container = No h espao para liberar seu guardio!
+guardian-no-soul = Seu guardião não tem alma.
+guardian-available = Seu guardião agora tem uma alma.
+guardian-inside-container = Não há espaço para liberar seu guardião!
 
 ## Guardian entity specific
 
-guardian-entity-recall = O guardio desaparece no ar!
-guardian-entity-taking-damage = Seu guardio est sofrendo dano!
+guardian-entity-recall = O guardião desaparece no ar!
+guardian-entity-taking-damage = Seu guardião está sofrendo dano!
 
 ## Health warnings
-guardian-host-critical-warn = SEU HOSPEDEIRO EST FERIDO!
-guardian-host-death-warn = SUA FORMA SUCCUMBE NEXISTNCIA!
-guardian-death-warn = SEU CORPO PERFURADO POR DOR SUBATMICA ENQUANTO SE DESINTEGRA!
-guardian-attack-host = Voc no pode atacar seu hospedeiro.
+guardian-host-critical-warn = SEU HOSPEDEIRO ESTÁ FERIDO!
+guardian-host-death-warn = SUA FORMA SUSSUME À INEXISTÊNCIA!
+guardian-death-warn = SEU CORPO É PERFURADO POR DOR SUBATÔMICA ENQUANTO SE DESINTEGRA!
+guardian-attack-host = Você não pode atacar seu hospedeiro.
+

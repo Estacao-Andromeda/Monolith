@@ -1,4 +1,4 @@
-﻿## Forcemap command loc.
+## Forcemap command loc.
 
 forcemap-command-description = Força o jogo a começar com um mapa específico na próxima rodada.
 forcemap-command-help = forcemap <ID do mapa>

@@ -2,13 +2,12 @@ death-match-title = MortePilhada
 death-match-description = Mate qualquer coisa que se mexa! Roleplay normal não se aplica. O primeiro a chegar a 31 pontos vence!
 
 death-match-name-player = [bold]{$name}[/bold] ([italic]{$username}[/italic])
-# death-match-name-player: intentionally left in English (player name format)
 death-match-name-npc = [bold]{$name}[/bold]
 death-match-assist = {$primary}, assistido por {$secondary},
 
 death-match-kill-callout-0 = {CAPITALIZE($killer)} assassinou {$victim}!
 death-match-kill-callout-1 = {CAPITALIZE($killer)} matou {$victim}!
-death-match-kill-callout-2 = {CAPITALIZE($killer)} destruiu {$victim}!
+death-match-kill-callout-2 = {CAPITALIZE($killer)} fragmentou {$victim}!
 death-match-kill-callout-3 = {CAPITALIZE($killer)} demoliu {$victim}!
 death-match-kill-callout-4 = {CAPITALIZE($killer)} transformou {$victim} em carne moída!
 death-match-kill-callout-5 = {CAPITALIZE($killer)} blitzou {$victim}!

@@ -1,3 +1,2 @@
-node-scan-popup = The Nó ID is {$id}
-
-node-scan-tooltip = Scan Artefato
+node-scan-popup = A ID do Nó é {$id}
+node-scan-tooltip = Escanear artefato

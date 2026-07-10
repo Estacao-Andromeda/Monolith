@@ -1,1 +1,1 @@
-﻿phlogiston-plasma-created = A mistura borbulha, e plasma surge dela!
+phlogiston-plasma-created= A mistura borbulha, e plasma surge dela!

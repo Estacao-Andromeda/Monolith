@@ -3,12 +3,12 @@ marking-ResomiGauzeBlindfold = Venda nos Olhos
 marking-ResomiGauzeHead-gauze_head_resomi = Gaze na Cabeça
 marking-ResomiGauzeHead = Gaze na Cabeça
 
-marking-ResomiRightEyePad-gauze_righteye_1_resomi = Almofada para o Olho (Direita)
-marking-ResomiRightEyePad = Almofada para o Olho (Direita)
+marking-ResomiRightEyePad-gauze_righteye_1_resomi = Patches de Gaze (Direita)
+marking-ResomiRightEyePad = Patches de Gaze (Direita)
 marking-ResomiRightEyePatch-gauze_righteye_2_resomi = Tapalho (Direita)
 marking-ResomiRightEyePatch = Tapalho (Direita)
-marking-ResomiLeftEyePad-gauze_lefteye_1_resomi = Almofada para o Olho (Esquerda)
-marking-ResomiLeftEyePad = Almofada para o Olho (Esquerda)
+marking-ResomiLeftEyePad-gauze_lefteye_1_resomi = Patches de Gaze (Esquerda)
+marking-ResomiLeftEyePad = Patches de Gaze (Esquerda)
 marking-ResomiLeftEyePatch-gauze_lefteye_2_resomi = Tapalho (Esquerda)
 marking-ResomiLeftEyePatch = Tapalho (Esquerda)
 

@@ -2,8 +2,8 @@ reactor-part-nrad-0 = Está brilhando levemente de azul.
 reactor-part-nrad-1 = Está brilhando um pouco de azul.
 reactor-part-nrad-2 = Está brilhando de azul.
 reactor-part-nrad-3 = Está brilhando intensamente de azul.
-reactor-part-nrad-4 = Está brilhando brilliantemente de azul.
-reactor-part-nrad-5 = Está brilhando ofuscantemente de azul.
+reactor-part-nrad-4 = Está brilhando esplendidamente de azul.
+reactor-part-nrad-5 = Está brilhando ofuscadamente de azul.
 
 reactor-part-rad-0 = É levemente radioativo.
 reactor-part-rad-1 = É um pouco radioativo.

@@ -19,7 +19,7 @@ reagent-desc-ammonia-blood = Nada mais na galáxia inteira tem cheiro tão repug
 reagent-name-zombie-blood = sangue de zumbi
 reagent-desc-zombie-blood = Não aconselho comer. Pode ser usado para criar uma inoculação contra a infecção.
 
-reagent-name-ichor = ícar
+reagent-name-ichor = icor
 reagent-desc-ichor = Um químico regenerativo extremamente potente, aperfeiçoado pela evolução da fauna espacial. Produzido no sistema digestivo do dragão, é visto como uma commodity exótica devido ao esforço gigantesco de caçá-lo.
 
 reagent-name-fat = gordura

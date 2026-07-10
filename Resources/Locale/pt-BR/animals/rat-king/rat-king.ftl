@@ -1,4 +1,4 @@
-rat-king-domain-popup =um nuvem de Amônia é Liberado em o air!
+rat-king-domain-popup =um nuvem de Amônia é Liberado no air!
 
 rat-king-too-hungry =você são também faminto para usar isto ability!
 

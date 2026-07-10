@@ -7,22 +7,14 @@ bounty-console-manifest-label = Manifesto: [color=orange]{$item}[/color]
 bounty-console-manifest-entry =
     { $amount ->
         [1] {$item}
-        *[outro] {$item} x{$amount}
-    }
-    { $amount ->
-        [1] {$item}
-        *[outro] {$item} x{$amount}
-    }
-    { $amount ->
-        [1] {$item}
         *[other] {$item} x{$amount}
     }
 bounty-console-manifest-reward = Recompensa: {$reward}
 bounty-console-description-label = [color=gray]{$description}[/color]
-bounty-console-id-label =ID#{$ID}
+bounty-console-id-label = ID#{$id}
 
 bounty-console-flavor-left = Recompensas obtidas de comerciantes locais sem escrúpulos.
-bounty-console-flavor-right =v1.4
+bounty-console-flavor-right = v1.4
 
 bounty-manifest-header = [font size=14][bold]Manifesto oficial de recompensas de carga[/bold] (ID#{$id})[/font]
 bounty-manifest-list-start = Manifesto de itens:

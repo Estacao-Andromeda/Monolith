@@ -3,11 +3,11 @@ ammo-loader-flush-verb = Esvaziar
 ammo-loader-eject-verb = Ejetar conteúdo
 ammo-loader-insert-success = Munição inserida.
 ammo-loader-not-anchored = O carregador deve estar ancorado para esvaziar!
-ammo-loader-empty =o loader é vazio!
+ammo-loader-empty = O carregador está vazio!
 ammo-loader-flushed = Munição esvaziada!
 ammo-loader-no-artillery = Nenhuma artilharia naval vinculada a este carregador.
 ammo-loader-transfer-failed = Falha ao transferir munição para qualquer artilharia naval vinculada.
-ammo-loader-insert-fail =Loader é cheio.
+ammo-loader-insert-fail = O carregador está cheio.
 
 # Verbos de Esvaziamento de Artilharia
 ammo-loader-flush-to-artillery-with-ammo-and-id = Esvaziar para { $artillery } ({ $ammo }/{ $capacity }) [{ $id }]

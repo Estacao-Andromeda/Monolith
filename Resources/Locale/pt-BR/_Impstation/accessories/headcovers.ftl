@@ -1,7 +1,7 @@
 marking-BurqaSolid = Burca
 marking-BurqaSolidThaven = Burca
 marking-BurqaSolidLizard = Burca
-marking-BurqaSolidLizard-burqasolidlizard = Burca
+marking-BurqaSolidLizard-burqasolidlizard = Burqa
 
 marking-HijabFashionable = Hijabe (Moderno)
 marking-HijabFashionableLizard = Hijabe (Moderno)

@@ -1,1 +1,1 @@
-suicide-action-popup =isto ACTION vontade matar você! usar isto again para confirmar.
+suicide-action-popup = ESTA AÇÃO IRÁ MATÁ-LO! Use-a novamente para confirmar.

@@ -10,7 +10,7 @@ barsign-prototype-description-harmbaton = Uma ótima experiência de jantar tant
 
 ## The Singulo
 barsign-prototype-name-singulo = O Singulo
-barsign-prototype-description-singulo =onde pessoas ir isso'd antes não ser chamou por deles nome.
+barsign-prototype-description-singulo = Onde as pessoas vão que preferem não ser chamadas pelo seu nome.
 
 ## The Drunk Carp
 barsign-prototype-name-drunk-carp = A Carpa Bêbada
@@ -30,7 +30,7 @@ barsign-prototype-description-coderbus =um muito controversial Bar conhecido par
 
 ## Robusta Cafe
 barsign-prototype-name-robusta-cafe = O Café Robusta
-barsign-prototype-description-robusta-cafe =Holder de o 'maioria Lethal Barfights' registro 5 years uncontested.
+barsign-prototype-description-robusta-cafe =Holder do 'maioria Lethal Barfights' registro 5 years uncontested.
 
 ## Emergency Rum Party
 barsign-prototype-name-emergency-rum-party = A Festa de Rum de Emergência
@@ -74,7 +74,7 @@ barsign-prototype-description-lv426 =Drinking com chique facemasks é claramente
 
 ## The Wiggle Roomm
 barsign-prototype-name-wiggle-room = A Sala Balançante
-barsign-prototype-description-wiggle-room = MoMMIs têm movimentos.
+barsign-prototype-description-wiggle-room = MoMMIs têm ginga.
 
 ## The Lightbulb
 barsign-prototype-name-the-lightbulb = A Lâmpada
@@ -102,7 +102,7 @@ barsign-prototype-description-maltroach =Squeak!
 
 ## Whiskey Echoes
 barsign-prototype-name-whiskeyechoes = Ecos de Uísque
-barsign-prototype-description-whiskeyechoes =um elite Bar para elite oper-esperar, isto é um TSF região. por que's isto sinal em o banco de dados?
+barsign-prototype-description-whiskeyechoes =um elite Bar para elite oper-esperar, isto é um TSF região. por que's isto sinal no banco de dados?
 
 ## EmpBarSign
 barsign-prototype-description-empbarsign = Algo deu muito errado.

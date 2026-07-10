@@ -4,7 +4,7 @@
 # When trying to eat food without the required utensil... but you gotta hold it
 food-you-need-to-hold-utensil = Você precisa estar segurando {$utensil} para comer isso!
 
-food-nom = Nom. {$flavors}
+food-nom = Ñam. {$flavors}
 food-swallow = Você engole o {$food}. {$flavors}
 
 food-has-used-storage = Você não pode comer o {$food} com um item armazenado dentro.

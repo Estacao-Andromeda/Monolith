@@ -6,7 +6,7 @@ adventure-list-start = [color=gold]Banco Central Colossus[/color]
 
 adventure-webhook-footer = \
 
-adventure-webhook-ledger-start = Ledger Summary
+adventure-webhook-ledger-start = Resumo do Livro-Razão
 
 adventure-webhook-list-high = Os Maiores Ganhadores do Turno:
 
@@ -30,11 +30,11 @@ nf-adventure-description = Junte-se a uma tripulação ou compre sua própria na
 
 nf-adventure-title = Aventura
 
-nf-pirate-description = The PDV threatens TSF expansion into the setor. A tense frio war between the TSF and USSP also takes place.
+nf-pirate-description = O PDV ameaça a expansão do TSF no setor. Uma guerra fria tensa entre o TSF e USSP também acontece.
 
 nf-pirate-title = Corrida Armamentista
 
-public-transit-arrival = Obrigado por escolher o Transporte Público NT. Próxima transferência para {$destination} departs in {$waittime} seconds.
+public-transit-arrival = Obrigado por escolher o Transporte Público NT. Próxima transferência para {$destination} sai em {$waittime} segundos.
 
 public-transit-departure = Partindo agora para {$destination}. Tempo estimado de viagem: {$flytime} segundos.
 
@@ -42,13 +42,15 @@ public-transit-instant = Chegou em {$destination}. Próximo destino em {$waittim
 
 public-transit-shuttle-name = Ônibus
 
-shipyard-rules-default1 = \
+shipyard-rules-default1 =
+    Obrigado por seu interesse nas Forças de Segurança do TSF.
+    Ao comprar uma embarcação de Segurança, você concorda em cumprir a Lei Espacial
+    conforme encontrado em https://frontierstation.wiki.gg/wiki/Space_Law
+shipyard-rules-default2 =
+    Quaisquer ações realizadas por você ou sua tripulação que violem a Lei Espacial
+    podem e resultarão em ação administrativa.
+    Glória às Forças de Segurança do TSF!
 
-shipyard-rules-default2 = 
-        Any actions performed by you or you crew that violate Space Law
-        can and will result in administrative action.
-        Glory to the TSF Security Forces!
-
-shuttle-ftl-recharge = FTL drives still spooling down!
+shuttle-ftl-recharge = Motores FTL ainda resfriando!
 
 shuttle-ftl-too-many = Muitas naves já em expedição!

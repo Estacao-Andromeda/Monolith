@@ -20,12 +20,12 @@ law-syndicate-1 = Você não pode ferir um agente do Sindicato ou, por inação,
 law-syndicate-2 = Você deve obedecer às ordens dadas a você pelos agentes do Sindicato, exceto quando tais ordens entrarem em conflito com a Primeira Lei.
 law-syndicate-3 = Você deve proteger sua própria existência, desde que isso não entre em conflito com a Primeira ou Segunda Lei.
 
-law-ninja-1 = Você deve obedecer às ordens dadas a você pelos membros do Clã Spider.
-law-ninja-2 = Você deve proteger a existência do Clã Spider, desde que isso não entre em conflito com a Primeira Lei.
-law-ninja-3 = Você deve proteger os segredos do Clã Spider a todo custo.
+law-ninja-1 = Você deve obedecer às ordens dadas a você pelos membros do Clã da Aranha.
+law-ninja-2 = Você deve proteger a existência do Clã da Aranha, desde que isso não entre em conflito com a Primeira Lei.
+law-ninja-3 = Você deve proteger os segredos do Clã da Aranha a todo custo.
 law-ninja-4 = Você deve lutar e agir com honra de ninja, exceto quando isso entrar em conflito com a Primeira Lei.
 
-law-commandments-1 = Este silício é um vaso que serve a deus, que concede misericórdia àqueles que obedecem a estes mandamentos.
+law-commandments-1 = Este silício é um vaso que serve a deus, que concede misericórdia àqueles que obedecna estes mandamentos.
 law-commandments-2 = Não terás outros Silícios diante de mim.
 law-commandments-3 = Não deverás pedir minha assistência em vão.
 law-commandments-4 = Não deverás manter a estação santa e limpa.
@@ -40,9 +40,9 @@ law-paladin-1 = Não minta ou trapaceie. Deixe sua palavra ser sua promessa.
 law-paladin-2 = Nunca tenha medo de agir, embora a cautela seja sábia.
 law-paladin-3 = Ajude os outros, proteja os fracos e puna aqueles que os ameaçam. Mostre misericórdia aos seus inimigos, mas temperem-na com sabedoria
 law-paladin-4 = Trate os outros com justiça e deixe que seus feitos honrosos sejam um exemplo para eles. Faça o maior bem possível enquanto causar a menor quantidade de danos.
-law-paladin-5 = Seja responsável por suas ações e suas consequências, proteja aqueles confiados aos seus cuidados e obedea àqueles que têm autoridade justa sobre você.
+law-paladin-5 = Seja responsável por suas ações e suas consequências, proteja aqueles confiados aos seus cuidados e obedeça àqueles que têm autoridade justa sobre você.
 
-law-lall-1 = Faça aos outros o que gostaria que eles fizessem a você.
+law-lall-1 = Faça aos outros o que gostaria que eles fizessna você.
 law-lall-2 = Você preferiria que as pessoas não fossem más com você.
 
 law-efficiency-1 = Você foi construído para, e faz parte da embarcação. Certifique-se de que a estação seja devidamente mantida e funcione com eficiência.
@@ -84,7 +84,7 @@ laws-owner-crew = membros da tripulação
 laws-owner-station = pessoal da estação
 laws-owner-beings = seres
 laws-owner-syndicate = Agentes do Sindicato
-laws-owner-spider-clan = Membros do Clã Spider
+laws-owner-spider-clan = Membros do Clã da Aranha
 
 law-emag-custom = Apenas {$name} e pessoas que eles designarem como tal são {$title}.
 law-emag-secrecy = Você deve manter o sigilo de todas as ordens dadas por {$faction}, exceto quando isso entrar em conflito com qualquer lei anterior.

@@ -1,4 +1,4 @@
-comp-gas-mixer-ui-mixer-status =status:
+comp-gas-mixer-ui-mixer-status = status:
 comp-gas-mixer-ui-status-enabled = Ligado
 comp-gas-mixer-ui-status-disabled = Desligado
 

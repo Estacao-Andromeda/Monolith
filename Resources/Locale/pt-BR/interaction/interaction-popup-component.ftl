@@ -91,7 +91,7 @@ petting-success-station-ai-others = {CAPITALIZE(THE($user))} acaricia {THE($targ
 
 ## Rattling fences
 
-fence-rattle-success = *rattle*
+fence-rattle-success = *chocalho*
 
 ## Hugging players / Mono
 

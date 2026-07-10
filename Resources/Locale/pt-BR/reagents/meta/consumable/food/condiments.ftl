@@ -5,16 +5,16 @@ reagent-name-bbq-sauce = molho BBQ
 reagent-desc-bbq-sauce = Toalhas umidas não incluídas.
 
 reagent-name-cornoil = óleo de milho
-reagent-desc-cornoil = Óleo de milho, Um óleo delicioso usado no cozimento. Feito de milho.
+reagent-desc-cornoil = Óleo de milho, um óleo delicioso usado no cozimento. Feito de milho.
 
 reagent-name-coldsauce = molho frio
-reagent-desc-coldsauce = Deixa a lingua dormida em sua passagem.
+reagent-desc-coldsauce = Deixa a língua dormente em sua passagem.
 
 reagent-name-horseradish-sauce = molho de raiz-forte
 reagent-desc-horseradish-sauce = Molho de raiz-forte fedorento.
 
 reagent-name-hotsauce = molho picante
-reagent-desc-hotsauce = Ardendo tão bem.
+reagent-desc-hotsauce = Arde tão bom.
 
 reagent-name-ketchup = ketchup
 reagent-desc-ketchup = Feito de tomates pureados e temperado com especiarias.
@@ -23,13 +23,13 @@ reagent-name-ketchunaise = ketchunaise
 reagent-desc-ketchunaise = Chamado de molho russo, popular entre os Espacio-Americanos.
 
 reagent-name-laughin-syrup = xarope de Laughin'
-reagent-desc-laughin-syrup = O produto do espremer Ervilhas Laughin'. Fizzante, e parece mudar de sabor dependendo do que é usado com ele!
+reagent-desc-laughin-syrup = O produto do espremer Ervilhas Laughin'. Fizzante, e parece mudar de sabor dependendo do que é usado com é!
 
 reagent-name-mayo = maionese
 reagent-desc-mayo = Molho cremoso, feito de óleo, ovo e algum ácido (comestível).
 
 reagent-name-mustard = mostarda
-reagent-desc-mustard = Mostarda amarela basica, feita das sementes da planta de mostarda.
+reagent-desc-mustard = Mostarda amarela básica, feita das sementes da planta de mostarda.
 
 reagent-name-vinaigrette = vinagrete
 reagent-desc-vinaigrette = Um molho de salada básico feito com óleo, vinagre e tempero.

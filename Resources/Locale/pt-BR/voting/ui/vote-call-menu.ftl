@@ -31,7 +31,7 @@ ui-vote-trusted-users-notice =
 # Warning to not abuse a specific vote option.
 ui-vote-abuse-warning =
   Aviso!
-  O abuso do sistema de votação de expulsão pode resultar em um banimento permanente!
+  O abuso do sistema de votação de expulsão pode resultar em um banimento por tempo indeterminado!
 
 # Hue hue hue
 ui-vote-fluff = Desenvolvido com Tecnologia Anti-Tamper Robust™

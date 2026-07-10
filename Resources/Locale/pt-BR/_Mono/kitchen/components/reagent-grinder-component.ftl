@@ -1,1 +1,1 @@
-reagent-grinder-component-storage-full-message =o grinder é cheio.
+reagent-grinder-component-storage-full-message = O moedor está cheio.

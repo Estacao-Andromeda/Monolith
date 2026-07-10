@@ -1,7 +1,7 @@
-command-description-deletechatmessage-id =Delete um específico chat mensagem por mensagem ID
-command-description-nukechatmessages-usernames =Delete todos de o supplied usernames' chat messages posted durante isto volta
-command-description-nukechatmessages-userids =Delete todos de o supplied userIds' chat messages posted durante isto volta
+command-description-deletechatmessage-id = Deleta uma mensagem de chat específica por ID
+command-description-nukechatmessages-usernames = Deleta todas as mensagens de chat dos nomes de usuário fornecidos postadas durante esta rodada
+command-description-nukechatmessages-userids = Deleta todas as mensagens de chat dos userIds fornecidos postadas durante esta rodada
 
-command-error-deletechatmessage-id-notexist =o mensagem com o supplied ID faz não existir
-command-error-nukechatmessages-usernames-usernamenotexist =Username {$username} faz não existir
-command-error-nukechatmessages-usernames-usernamenomessages =UserID {$userId} tem não messages para nuke
+command-error-deletechatmessage-id-notexist = A mensagem com o ID fornecido não existe
+command-error-nukechatmessages-usernames-usernamenotexist = Nome de usuário {$username} não existe
+command-error-nukechatmessages-usernames-usernamenomessages = UserId {$userId} não tem mensagens para deletar

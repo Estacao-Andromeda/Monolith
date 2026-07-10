@@ -1,1 +1,1 @@
-rmc-wield-use-delay =você precisar para esperar {$seconds} seconds antes de wielding {THE($wieldable)}!
+rmc-wield-use-delay = Você precisa esperar {$seconds} segundos antes de empunhar {THE($wieldable)}!

@@ -1,1 +1,1 @@
-gera-transformation-popup =isto action vontade transformar você. usar isto again para confirmar.
+gera-transformation-popup = Esta ação irá transformá-lo. Use-a novamente para confirmar.

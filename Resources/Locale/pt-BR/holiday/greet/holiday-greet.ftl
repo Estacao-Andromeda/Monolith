@@ -1,8 +1,8 @@
-## Generic Congrats
+## Congrats Genéricos
 
 holiday-greet = Tenha um feliz {$holidayName}!
 
-## Holiday Names
+## Nomes de Feriados
 
 holiday-name-new-year = Ano Novo
 holiday-name-mister-lizard = Aniversário do Senhor Lagarto
@@ -65,20 +65,20 @@ holiday-name-human-rights-day = Dia dos Direitos Humanos
 holiday-name-monkey-day = Dia do Macaco
 holiday-name-mayan-doomsday = Aniversário do Apocalipse Maia
 holiday-name-christmas = Natal
-holiday-name-festive-season = Estação Festiva
+holiday-name-festive-season = Época Festiva
 holiday-name-boxing-day = Boxing Day
 holiday-name-friday-thirteenth = Sexta-feira 13
 holiday-name-national-coming-out-day = Dia Nacional de Sair do Armário
 holiday-name-pride-month = Mês do Orgulho
 
-## Custom congrats
+## Congrats Personalizados
 
 holiday-custom-cosmonautics-day = Neste dia, há mais de 600 anos, o Camarada Yuri Gagarin aventurou-se pela primeira vez no espaço!
 holiday-custom-mothers-day = Feliz Dia das Mães na maior parte das Américas, Ásia e Oceania!
 holiday-custom-bastille-day = Você ouve o povo cantar?
 holiday-custom-friendship-day = Tenha um dia mágico de amizade!
 holiday-custom-talk-like-a-pirate-day = Esteja falando como um pirata hoje ou estará andando na prancha, camarada!
-holiday-custom-halloween = Tenha um Halloween assombrador!
+holiday-custom-halloween = Tenha um Halloween assustador!
 holiday-custom-kindness-day = Vá fazer alguns atos aleatórios de gentileza para um estranho!
 holiday-custom-christmas = Tenha um Natal alegre!
 holiday-custom-festive-season = Tenha uma ótima temporada festiva!

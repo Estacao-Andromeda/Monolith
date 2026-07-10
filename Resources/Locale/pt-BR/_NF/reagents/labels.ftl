@@ -1,89 +1,45 @@
 reagent-label-aluminium = [bold]Alumínio[/bold]
-
 reagent-label-carbon = [bold]Carbono[/bold]
-
 reagent-label-chlorine = [bold]Cloro[/bold]
-
 reagent-label-copper = [bold]Cobre[/bold]
-
 reagent-label-ethanol = [bold]Etanol[/bold]
-
 reagent-label-fluorine = [bold]Flúor[/bold]
-
 reagent-label-gold = [bold]Ouro[/bold]
-
 reagent-label-hydrogen = [bold]Hidrogênio[/bold]
-
 reagent-label-iodine = [bold]Iodo[/bold]
-
 reagent-label-iron = [bold]Ferro[/bold]
-
 reagent-label-lithium = [bold]Lítio[/bold]
-
 reagent-label-mercury = [bold]Mercúrio[/bold]
-
 reagent-label-nitrogen = [bold]Nitrogênio[/bold]
-
 reagent-label-oxygen = [bold]Oxigênio[/bold]
-
 reagent-label-phosphorus = [bold]Fósforo[/bold]
-
 reagent-label-potassium = [bold]Potássio[/bold]
-
 reagent-label-radium = [bold]Rádio[/bold]
-
 reagent-label-silicon = [bold]Silício[/bold]
-
 reagent-label-silver = [bold]Prata[/bold]
-
 reagent-label-sodium = [bold]Sódio[/bold]
-
 reagent-label-sugar = [bold]Açúcar[/bold]
-
 reagent-label-sulfur = [bold]Enxofre[/bold]
-
 reagent-label-cornoil = [bold]Óleo de Milho[/bold]
-
 reagent-label-diethylamine = [bold]Dietilamina[/bold]
-
 reagent-label-ketchup = [bold]Ketchup[/bold]
-
 reagent-label-mayo = [bold]Maionese[/bold]
-
 reagent-label-mustard = [bold]Mostarda[/bold]
-
 reagent-label-oil = [bold]Óleo[/bold]
-
 reagent-label-oil-olive = [bold]Azeite[/bold]
-
 reagent-label-space-cleaner = [bold]Limpa Espacial[/bold]
-
 reagent-label-space-lube = [bold]Lubrificante Espacial[/bold]
-
 reagent-label-welding-fuel = [bold]Combustível de Solda[/bold]
-
 reagent-label-absinthe = [bold]Absinto[/bold]
-
 reagent-label-ale = [bold]Ale[/bold]
-
 reagent-label-beer = [bold]Cerveja[/bold]
-
 reagent-label-coffeeliqueur = [bold]Licor de Café[/bold]
-
 reagent-label-cognac = [bold]Conhaque[/bold]
-
 reagent-label-gin = [bold]Gim[/bold]
-
 reagent-label-rum = [bold]Rum[/bold]
-
 reagent-label-tequila = [bold]Tequila[/bold]
-
 reagent-label-vermouth = [bold]Vermute[/bold]
-
 reagent-label-vodka = [bold]Vodka[/bold]
-
 reagent-label-water = [bold]Água[/bold]
-
 reagent-label-whiskey = [bold]Uísque[/bold]
-
 reagent-label-wine = [bold]Vinho[/bold]

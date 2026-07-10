@@ -1,4 +1,3 @@
-
 gun-selected-mode-examine = O modo de tiro selecionado atualmente é [color={$color}]{$mode}[/color].
 gun-fire-rate-examine = A cadência de tiro é [color={$color}]{$fireRate}[/color] projéteis por minuto.
 gun-damage-modifier-examine = Seus tiros causam [color={$color}]{$damage}x[/color] de dano.
@@ -10,9 +9,9 @@ gun-set-fire-mode = Definido para {$mode}
 gun-magazine-whitelist-fail = Isso não cabe na arma!
 
 # SelectiveFire
-gun-SemiAuto = semi-automático
+gun-SemiAuto = semi-automática
 gun-Burst = rajada
-gun-FullAuto = automático
+gun-FullAuto = automática
 
 # BallisticAmmoProvider
 gun-ballistic-cycle = Ciclar
@@ -23,8 +22,8 @@ gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} está vazio.
 gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} já está completamente carregado.
 
 # CartridgeAmmo
-gun-cartridge-spent = Está [color=red]gasto[/color].
-gun-cartridge-unspent = Está [color=lime]não gasto[/color].
+gun-cartridge-spent = Está [color=red]gasta[/color].
+gun-cartridge-unspent = Está [color=lime]não gasta[/color].
 
 # BatteryAmmoProvider
 gun-battery-examine = Tem carga suficiente para [color={$color}]{$count}[/color] tiros.

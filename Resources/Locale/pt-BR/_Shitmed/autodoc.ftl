@@ -13,7 +13,7 @@ autodoc-fatal-error = ERRO FATAL: {$error}
 autodoc-waiting = PROGRAMA AGUARDANDO
 
 autodoc-error-missing-patient = PACIENTE AUSENTE
-autodoc-error-body-part =Corpo parte não DETECTED
+autodoc-error-body-part = PARTE DO CORPO NÃO DETECTADA
 autodoc-error-surgery-impossible = CIRURGIA SELECIONADA IMPOSSÍVEL
 autodoc-error-item-unavailable = ITEM INDISPONÍVEL
 autodoc-error-surgery-failed = CIRURGIA FALHOU

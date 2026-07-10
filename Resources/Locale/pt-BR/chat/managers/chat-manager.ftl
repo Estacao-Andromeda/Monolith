@@ -16,7 +16,7 @@ chat-manager-max-message-length-exceeded-message = Sua mensagem excedeu o limite
 chat-manager-no-headset-on-message =você don't ter um Fone de Ouvido em!
 chat-manager-no-radio-key = Nenhuma chave de rádio especificada!
 chat-manager-no-such-channel =lá é não Canal com key '{$key}'!
-chat-manager-whisper-headset-on-message =você pode't whisper em o Rádio!
+chat-manager-whisper-headset-on-message =você pode't whisper no Rádio!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
 chat-manager-sender-announcement = Comando Central

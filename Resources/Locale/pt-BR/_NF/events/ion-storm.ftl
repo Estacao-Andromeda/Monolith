@@ -1,1 +1,1 @@
-station-event-ion-storm-nf-start-announcement = tempestade iônica detected in the setor. Please check all IA-controlled equipment for errors.
+station-event-ion-storm-nf-start-announcement = Tempestade iônica detectada no setor. Por favor, verifique todo equipamento controlado por IA para erros.

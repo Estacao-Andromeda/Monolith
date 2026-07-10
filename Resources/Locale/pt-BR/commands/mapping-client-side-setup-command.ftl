@@ -1,2 +1,2 @@
-cmd-mappingclientsidesetup-desc =Sets cima o lighting controle e tal settings cliente-lado. enviou por 'mapeamento' para cliente.
+cmd-mappingclientsidesetup-desc = Configura o controle de iluminação e outras configurações no lado do cliente. Enviado por 'mapeamento' para o cliente.
 cmd-mappingclientsidesetup-help = Uso: {$command}

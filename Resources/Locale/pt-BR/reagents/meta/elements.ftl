@@ -26,7 +26,7 @@ reagent-name-hydrogen = hidrogênio
 reagent-desc-hydrogen = Um gás leve e inflamável.
 
 reagent-name-iodine = iodo
-reagent-desc-iodine = Comumente adicionado ao sal de mesa como nutriente. Por si só tem um sabor muito menos agradável.
+reagent-desc-iodine = Comumente adicionado ao sal de mesa como nutriente. Por si só tnum sabor muito menos agradável.
 
 reagent-name-iron = ferro
 reagent-desc-iron = Um metal cinza-prateado que forma óxidos de ferro (ferrugem) com contato com o ar. Comumente ligado com outros elementos para criar ligas como aço.
@@ -50,7 +50,7 @@ reagent-name-silicon = silício
 reagent-desc-silicon = Um sólido cristalino duro e quebradiço com cor azul-cinza.
 
 reagent-name-silver = prata
-reagent-desc-silver = Um metal de transição macio, branco e lustroso, tem a maior condutividade elétrica de qualquer elemento e a maior condutividade térmica de qualquer metal.
+reagent-desc-silver = Um metal de transição macio, branco e lustroso, tna maior condutividade elétrica de qualquer elemento e a maior condutividade térmica de qualquer metal.
 
 reagent-name-sulfur = enxofre
 reagent-desc-sulfur = Um sólido amarelo e cristalino.

@@ -22,7 +22,7 @@ cortical-borer-vomit = {$name} vomita um {$egg}!
 cortical-borer-dispenser-window-cost = {$cost} químicos
 cortical-borer-ghostrole-name = Perfurador Cortical
 cortical-borer-ghostrole-desc = Uma minhoca espacial com o único propósito na vida de entrar nas cabeças das pessoas e botar seus ovos.
-cortical-borer-ghostrole-rules = Coloque seus ovos e espalhe sua colmeia, mas matar não é prioridade máxima. Se você matar sem razão, espere retaliação de cima. Além disso, você pode [head=3][color=#04bf5e]INFECTAR[/color][/head] em [color=#e8d905]Colonial Outpost[/color] ou [color=#2093b0]Medical Dispatch[/color] mas matar nestes locais é [head=3][color=#e00d26]PROIBIDO[/color][/head] (RMD resultará em um [color=#e00d26]ban de servidor de 1 dia[/color], frequentemente sem aviso, então se você matar alguém, é melhor ter um bom motivo.)
+cortical-borer-ghostrole-rules = Botem seus ovos e espalhem sua colmeia, mas matar não é prioridade máxima. Se você matar sem razão, espere retaliação de cima. Além disso, você pode [head=3][color=#04bf5e]INFECTAR[/color][/head] em [color=#e8d905]Colonial Outpost[/color] ou [color=#2093b0]Medical Dispatch[/color] mas matar nestes locais é [head=3][color=#e00d26]PROIBIDO[/color][/head] (RMD resultará em um [color=#e00d26]ban de servidor de 1 dia[/color], frequentemente sem aviso, então se você matar alguém, é melhor ter um bom motivo.)
 
 ## Examine Text
 infested-control-examined = Você tem [color=#d842fc]{$timeremaining}[/color] segundos restantes controlando este corpo.

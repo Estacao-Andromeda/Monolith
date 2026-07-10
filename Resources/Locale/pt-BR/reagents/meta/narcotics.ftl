@@ -5,7 +5,7 @@ reagent-name-ephedrine = efedrina
 reagent-desc-ephedrine = Um estimulador de adrenalina cafeinado que faz você mais rápido e mais difícil de derrubar. Também ajuda a combater narcolepsia em dosagens acima de trinta, ao custo de estresse neural severo.
 
 reagent-name-stimulants = hiperzina
-reagent-desc-stimulants = Um coquetel químico desenvolvido pela Donk Co. que permite agentes se recuperarem de atordoados mais rápido, moverem-se mais rapidamente, e concede uma pequena cura quando você está mais morto do que vivo. Devido à natureza complexa do químico, é muito mais difícil para o corpo eliminar naturalmente.
+reagent-desc-stimulants = Um coquetel químico desenvolvido pela Donk Co. que permite agentes se recuperarem de atordoamentos mais rápido, moverem-se mais rapidamente, e concede uma pequena cura quando você está mais morto do que vivo. Devido à natureza complexa do químico, é muito mais difícil para o corpo eliminar naturalmente.
 
 reagent-name-experimental-stimulants = estimulantes experimentais
 reagent-desc-experimental-stimulants = Uma versão protótipo da hiperzina. O uso concede imunidade virtual a armas de atordoamento, regeneração rápida de tecidos, velocidade extrema de corrida reduzindo o acúmulo de ácido lático, e uma sensação geral de euforia. Efeitos colaterais podem incluir níveis extremos de anticoagulação, visão tunelada, acúmulo extremo de toxinas na corrente sanguínea, e morte rápida do fígado. Não dê para animais.
@@ -40,5 +40,5 @@ reagent-desc-tear-gas = Um químico que causa irritação severa e choro, comume
 reagent-name-happiness = felicidade
 reagent-desc-happiness = Enche você com entorpecimento extático e causa danos cerebrais menores. Altamente viciante. Se sobredose causa mudanças de humor repentinas.
 
-reagent-name-nitrosyl-plasmide = nitrosil plasmideo
+reagent-name-nitrosyl-plasmide = nitrosil plasmídeo
 reagent-desc-nitrosyl-plasmide = Um estimulante poderoso que pode evitar sonolência, atordoamentos e derrubadas.

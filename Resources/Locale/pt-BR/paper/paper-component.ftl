@@ -4,11 +4,11 @@
 paper-ui-blank-page-message = Esta página foi intencionalmente deixada em branco
 
 # Shown when paper with words examined details
-paper-component-examine-detail-has-words = {CAPITALIZE(THE($paper))} tem algo escrito nele.
+paper-component-examine-detail-has-words = {CAPITALIZE(THE($paper))} tem algo escrito nela.
 # Shown when paper with stamps examined
-paper-component-examine-detail-stamped-by = {CAPITALIZE(THE($paper))} {CONJUGATE-HAVE($paper)} foi carimbado por: {$stamps}.
-paper-component-illiterate = Você não consegue escrever.
-paper-component-illiterate-mime = Seu voto lhe proíbe de escrever.
+paper-component-examine-detail-stamped-by = {CAPITALIZE(THE($paper))} {CONJUGATE-HAVE($paper)} sido carimbado por: {$stamps}.
+paper-component-illiterate = Você é incapaz de escrever.
+paper-component-illiterate-mime = Seu voto proíbe você de escrever.
 
 paper-component-action-stamp-paper-other = {CAPITALIZE(THE($user))} carimba {THE($target)} com {THE($stamp)}.
 paper-component-action-stamp-paper-self = Você carimba {THE($target)} com {THE($stamp)}.

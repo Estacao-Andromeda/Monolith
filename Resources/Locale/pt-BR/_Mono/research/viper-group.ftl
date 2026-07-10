@@ -1,4 +1,4 @@
-research-discipline-viper-group =Viper grupo
+research-discipline-viper-group = Viper Group
 
 # T1 VG
 research-technology-viper-group-apparel = Vestuário do Viper Group

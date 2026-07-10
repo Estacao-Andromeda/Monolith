@@ -1,1 +1,1 @@
-particle-accelerator-control-box-component-Fios-update-limiter-on-pulse = The Controle Caixa makes a whirring noise.
+particle-accelerator-control-box-component-wires-update-limiter-on-pulse = A caixa de controle faz um ruído de zumbido.

@@ -1,1 +1,1 @@
-gun-magazine-infinite-examine = Tem [color={$color}]{$count} tiros especiais[/color] restantes.
+gun-magazine-infinite-examine = Tem [cólór={$cólór}]{$cóunt} tirós especiais[/cólór] restántes.

@@ -4,10 +4,10 @@ signal-port-name-input-machine = Item: Máquina de Entrada
 signal-port-description-input-machine = Um slot de automação de máquina para retirar itens, em vez de pegá-los do chão.
 
 signal-port-name-output-machine = Item: Máquina de Saída
-signal-port-description-output-machine =um máquina automation slot para insert items em, em vez de de placing eles em o Chão.
+signal-port-description-output-machine = Um slot de automação de máquina para inserir itens, em vez de colocá-los no chão.
 
 signal-port-name-item-moved = Item Movido
-signal-port-description-item-moved =Sinal porto isso pega pulsed depois de um item é moveu por isto Braço.
+signal-port-description-item-moved = Porta de sinal que é pulsada após um item ser movido por este braço.
 
 signal-port-name-automation-slot-filter = Item: Slot de Filtro
 signal-port-description-automation-slot-filter = Um slot de automação para o filtro de uma máquina de automação.
@@ -23,10 +23,10 @@ signal-port-description-automation-slot-input = Um slot de automação para o ar
 # Flatpacker
 
 signal-port-name-automation-slot-board = Item: Slot de Placa
-signal-port-description-automation-slot-board = Um slot de automação para o circuito de uma embaladeira.
+signal-port-description-automation-slot-board = Um slot de automação para a placa de circuito de uma embaladeira.
 
 signal-port-name-automation-slot-materials = Item: Armazenamento de Materiais
-signal-port-description-automation-slot-materials =um automation slot para inserting materials em um máquina's Armazenamento.
+signal-port-description-automation-slot-materials = Um slot de automação para inserir materiais no armazenamento de uma máquina.
 
 # Disposal Unit
 
@@ -78,12 +78,12 @@ signal-port-description-machine-failed = Porta de sinal que é pulsada após uma
 # Interactor
 
 signal-port-name-automation-slot-tool = Item: Ferramenta
-signal-port-description-automation-slot-tool =um automation slot para um interactor's segurou Ferramenta.
+signal-port-description-automation-slot-tool = Um slot de automação para a ferramenta segurada por um interator.
 
 # Autodoc
 
-signal-port-name-automation-slot-autodoc-hand =item: Autodoc Mão
-signal-port-description-automation-slot-autodoc-hand =um automation slot para um autodoc's segurou Órgão/parte/etc de loja item / pegar item instructions.
+signal-port-name-automation-slot-autodoc-hand = Item: Mão do Autodoc
+signal-port-description-automation-slot-autodoc-hand = Um slot de automação para o órgão/parte/etc segurado por um autodoc de instruções ARMAZENAR ITEM / PEGAR ITEM.
 
 # Gas Canister
 

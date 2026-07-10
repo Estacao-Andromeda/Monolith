@@ -6,11 +6,11 @@ markings-rank-up = Subir
 markings-rank-down = Descer
 markings-search = Buscar
 marking-points-remaining = Marcações restantes: {$points}
-marking-used = {$marking-name}
+marking-used = Marcação: {$marking-name}
 marking-used-forced = {$marking-name} (Forçado)
 marking-slot-add = Adicionar
 marking-slot-remove = Remover
-marking-slot = Slot {$number}
+marking-slot = Espaço {$number}
 
 # Categorias
 

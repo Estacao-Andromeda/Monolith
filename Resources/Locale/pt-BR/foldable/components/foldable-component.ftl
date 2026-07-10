@@ -1,6 +1,6 @@
 # Foldable
 
-foldable-deploy-fail = Você nao pode implantar {$object} aqui.
+foldable-deploy-fail = Você não pode implantar o {$object} aqui.
 fold-verb = Dobrar
 unfold-verb = Desdobrar
 

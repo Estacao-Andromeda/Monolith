@@ -1,5 +1,5 @@
-comp-paper-label-has-label = H um rtulo anexado, ele l:
-comp-paper-label-has-label-blank = H um rtulo anexado, mas est em branco.
-comp-paper-label-has-label-cant-read = H um rtulo anexado, mas voc no consegue l-lo desta distncia.
-comp-paper-label-insert = Anexar rtulo
-comp-paper-label-eject = Desanexar rtulo
+comp-paper-label-has-label= Há um rótulo anexado, ele diz:
+comp-paper-label-has-label-blank= Há um rótulo anexado, mas está em branco.
+comp-paper-label-has-label-cant-read= Há um rótulo anexado, mas você não consegue lê-lo desta distância.
+comp-paper-label-insert= Anexar rótuló
+comp-paper-label-eject= Desanexar rótuló

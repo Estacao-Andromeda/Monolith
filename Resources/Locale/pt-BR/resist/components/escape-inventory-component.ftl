@@ -1,3 +1,3 @@
-escape-inventory-component-start-resisting = Voc comeca a lutar para escapar!
-escape-inventory-component-start-resisting-target = Algo esta lutando para sair do seu inventario!
-escape-inventory-component-failed-resisting = Nao consegue escapar!
+escape-inventory-component-start-resisting = Você começa a lutar para escapar!
+escape-inventory-component-start-resisting-target = Algo está lutando para sair do seu inventário!
+escape-inventory-component-failed-resisting = Não consegue escapar!

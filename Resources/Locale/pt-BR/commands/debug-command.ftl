@@ -7,5 +7,5 @@ cmd-showsubfloor-help = Uso: {$command}
 cmd-showsubfloorforever-desc = Torna entidades abaixo do chão sempre visíveis até que o cliente seja reiniciado.
 cmd-showsubfloorforever-help = Uso: {$command}
 
-cmd-notify-desc =enviar um notificar cliente lado.
+cmd-notify-desc = Enviar uma notificação no lado do cliente.
 cmd-notify-help = Uso: {$command} <mensagem>

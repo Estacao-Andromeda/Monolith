@@ -41,4 +41,3 @@ artifact-trigger-hint-plasma = Plasma gasoso
 artifact-trigger-hint-land = Desaceleração ativa
 artifact-trigger-hint-examine = Exame
 artifact-trigger-hint-medical = Produtos terapêuticos
-

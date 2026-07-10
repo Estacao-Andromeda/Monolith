@@ -12,7 +12,7 @@ comp-secret-stash-verb-insert-into-stash = Esconder item
 comp-secret-stash-verb-insert-message-item-already-inside = Já existe um item dentro do {$stashname}.
 comp-secret-stash-verb-insert-message-no-item = Esconder { THE($item) } no {$stashname}.
 comp-secret-stash-verb-take-out-item = Pegar item
-comp-secret-stash-verb-take-out-message-something = Pegar o conteudo do {$stashname} para fora.
+comp-secret-stash-verb-take-out-message-something = Pegar o conteúdo do {$stashname} para fora.
 comp-secret-stash-verb-take-out-message-nothing = Não há nada dentro do {$stashname}.
 
 comp-secret-stash-verb-close = Fechar
@@ -22,5 +22,5 @@ comp-secret-stash-verb-open = Abrir
 ### Stash names
 secret-stash-plant = planta
 secret-stash-toilet = caixa d'água do vaso sanitário
-secret-stash-plushie = pelucia
+secret-stash-plushie = pelúcia
 secret-stash-cake = bolo

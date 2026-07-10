@@ -1,1 +1,5 @@
-glass-table-shattered-others ={ CAPITALIZE(THE($Mesa)) } cracks sob o peso de { THE($climber) }!
+### Tables which take damage when a user is dragged onto them
+
+## Showed to users other than the climber
+glass-table-shattered-others = { CAPITALIZE(THE($table)) } racha sob o peso de { THE($climber) }!
+

@@ -36,7 +36,7 @@ nf-tips-dataset-18 = Objeto preso na sua mão? Pressione Q para soltá-lo suavem
 
 nf-tips-dataset-19 = Você pode segurar ESPAÇO por padrão para diminuir o movimento da nave ao pilotar, para permitir movimentos precisos -- ou até mesmo parar completamente.
 
-nf-tips-dataset-20 = Cada tripulante vem com um medipen de emergência em sua caixa de sobrevivência contendo epinefrina e ácido tranexâmico, junto com uma pé-de-cabra, MRE e um tanque de oxigênio de emergência grande - Certifique-se de usá-los!
+nf-tips-dataset-20 = Cada tripulante vem com um medipen de emergência em sua caixa de sobrevivência contendo epinefrina e ácido tranexâmico, junto com um pé-de-cabra, MRE e um tanque de oxigênio de emergência grande - Certifique-se de usá-los!
 
 nf-tips-dataset-21 = Você pode adicionar rótulos a qualquer item, incluindo comida ou frascos de pílulas, usando um rotulador manual.
 
@@ -50,7 +50,7 @@ nf-tips-dataset-25 = Muitos químicos têm reações únicas - Certifique-se de 
 
 nf-tips-dataset-26 = Você pode mutar e cruzar plantas para criar colheitas mais potentes que também têm rendimentos maiores.
 
-nf-tips-dataset-27 = Ao jogar em um papel de facção, lembre-se de se comunicar com seus outros membros - Coordenação salva vidas e ganha guerras, o rádio é seu melhor amigo!
+nf-tips-dataset-27 = Ao jogar num papel de facção, lembre-se de se comunicar com seus outros membros - Coordenação salva vidas e ganha guerras, o rádio é seu melhor amigo!
 
 nf-tips-dataset-28 = Como um oficial TSFMC, sua força está no armamento da sua embarcação. Cuidado com ações de embarque de inimigos, pois embora você esteja adequadamente equipado, é melhor vaporizar qualquer abordagem hostil com fogo de artilharia!
 
@@ -60,7 +60,7 @@ nf-tips-dataset-30 = Em apuros, você pode reparar janelas rachadas usando uma f
 
 nf-tips-dataset-31 = Janelas de vidro de plasma e vidro de urânio podem ser usadas para reforçar uma área e prevenir radiação... De alguma forma.
 
-nf-tips-dataset-32 = Ao pesquisar artefatos, você pode tentar coisas aleatórias em um artefato enquanto o scanner está em recarga para acelerar significativamente o processo de extração de pontos.
+nf-tips-dataset-32 = Ao pesquisar artefatos, você pode tentar coisas aleatórias num artefato enquanto o scanner está em recarga para acelerar significativamente o processo de extração de pontos.
 
 nf-tips-dataset-33 = Lembre-se, você pode utilizar peças de máquina de níveis superiores para aumentar a eficácia de máquinas. Isso pode tornar certas máquinas significativamente melhores; as pessoas vão amar você se você atualizar seus tornos!
 
@@ -80,7 +80,7 @@ nf-tips-dataset-40 = Todos fomos novos uma vez, seja paciente e guie novos jogad
 
 nf-tips-dataset-41 = Trajes de incêndio, casacos de inverno e trajes EVA de emergência oferecem proteção leve contra o frio, permitindo passar mais tempo perto de brechas e espaço do que se não estivesse usando nada.
 
-nf-tips-dataset-42 = Em uma emergência, você pode sempre confiar em traies de incêndio e trajes EVA de emergência; eles sempre aparecerão em seus armários respectivos. Eles podem ser estranhos de se mover, mas podem facilmente salvar sua vida em uma situação perigosa.
+nf-tips-dataset-42 = Em uma emergência, você pode sempre confiar em trajes de incêndio e trajes EVA de emergência; eles sempre aparecerão em seus armários respectivos. Eles podem ser estranhos de se mover, mas podem facilmente salvar sua vida numa situação perigosa.
 
 nf-tips-dataset-43 = Em uma emergência, lembre-se que você pode fabricar armas improvisadas! Um taco de beisebol ou lança poderia facilmente significar a diferença entre deter um atacante ou perecer pelas mãos de um.
 
@@ -90,15 +90,15 @@ nf-tips-dataset-45 = Você pode fazer lanças com cacos de vidro reforçado, vid
 
 nf-tips-dataset-46 = Lanças arremessadas causam dano extra! Tenha cuidado, porém, pois arremessá-las demais pode acabar quebrando-as.
 
-nf-tips-dataset-47 = Todas as formas de dano por toxina são bastante difíceis de tratar, e geralmente envolvem o uso de produtos químicos ou outros métodos inconvenientes. Você pode usar isso a seu favor em combate.
+nf-tips-dataset-47 = Todas as formas de dano por toxina são bastante difíceis de tratar, e geralmente envolvem uso de produtos químicos ou outros métodos inconvenientes. Você pode usar isso a seu favor em combate.
 
 nf-tips-dataset-48 = Você pode arremessar bolas craftadas em pessoas para desacelerá-las, permitindo seguir em cima delas para uma morte mais fácil ou fuga.
 
-nf-tips-dataset-49 = Você pode colocar napalm em um tanque de água de mochila para fazer um lança-chamas.
+nf-tips-dataset-49 = Você pode colocar napalm num tanque de água de mochila para fazer um lança-chamas.
 
 nf-tips-dataset-50 = Velocidade é quase tudo em combate. Usar trajes duros apenas por sua armadura geralmente é uma ideia terrível, a menos que as resistências que ele fornece sejam voltadas para o combate, ou você não pretenda ir de cabeça para a briga.
 
-nf-tips-dataset-51 = Você pode pulverizar um extintor, arremessar itens ou atirar com uma arma enquanto flutua pelo espaço para se dar um pequeno impulso. Simplesmente atire na direção oposta de onde você quer ir.
+nf-tips-dataset-51 = Você pode pulverizar um extintor, arremessar itens ou atirar com uma arma enquanto fluta pelo espaço para se dar um pequeno impulso. Simplesmente atire na direção oposta de onde você quer ir.
 
 nf-tips-dataset-52 = Você pode arrastar outros jogadores sobre si mesmo para abrir o menu de tirar, permitindo remover o equipamento deles ou forçá-los a vestir algo. Note que trajes espaciais ou capacetes bloquearão seu acesso à roupa abaixo deles, e que certos itens demoram mais para tirar ou vestir do que outros.
 
@@ -112,7 +112,7 @@ nf-tips-dataset-56 = O fogo pode se espalhar para outros jogadores através do t
 
 nf-tips-dataset-57 = Brechas no casco levam alguns segundos para expor completamente uma área ao espaço. Você pode usar este tempo para remendar o buraco se estiver confiante o suficiente, ou apenas fugir.
 
-nf-tips-dataset-58 = Dano por queimadura, como aquele de uma ferramenta de solda ou lâmpada, pode ser usado para cauterizar ferimentos e parar sangramento.
+nf-tips-dataset-58 = Dano por queimadura, como aquele duma ferramenta de solda ou lâmpada, pode ser usado para cauterizar ferimentos e parar sangramento.
 
 nf-tips-dataset-59 = Sangramento não é brincadeira! Se você foi baleado ou sofreu qualquer outra lesão grave, certifique-se de tratá-lo rapidamente.
 
@@ -140,9 +140,9 @@ nf-tips-dataset-70 = Soldar sem proteção ocular adequada pode causar dano nos 
 
 nf-tips-dataset-71 = Você pode soldar cacos de vidro em chapas de vidro.
 
-nf-tips-dataset-72 = Ao clicar com o botão direito em um jogador e clicar no ícone do coração, você pode examiná-lo rapidamente para verificar ferimentos ou o quão mal ele está sangrando. Você também pode fazer isso em si mesmo.
+nf-tips-dataset-72 = Ao clicar com o botão direito num jogador e clicar no ícone do coração, você pode examiná-lo rapidamente para verificar ferimentos ou o quanto mal ele está sangrando. Você também pode fazer isso em si mesmo.
 
-nf-tips-dataset-73 = Macacos e kobolds têm uma chance rara de ser sencientes. Ook!
+nf-tips-dataset-73 = Macacos e kobolds têm uma chance rara de ser sencientes. Oók!
 
 nf-tips-dataset-74 = Você pode dizer se uma área com corta-fogos acima está exposta ao espaço olhando para ver se os corta-fogos têm luzes ao lado deles.
 
@@ -156,7 +156,7 @@ nf-tips-dataset-78 = Geralmente é melhor se juntar a uma tripulação existente
 
 nf-tips-dataset-79 = É sempre melhor ter uma tripulação do que ficar sozinho no espaço profundo. Um amigo pode salvar sua vida se você cometer um erro, ou salvá-lo de problemas!
 
-nf-tips-dataset-80 = Cientistas frequentemente vendem tecnologias interessantes que podem ajudá-lo em seu trabalho. Talvez você queira uma bolsa sem fundo que possa caber uma estação inteira?
+nf-tips-dataset-80 = Cientistas frequentemente vendem tecnologias interessantes que podem ajudá-lo em seu trabalho. Talvez você queira uma bolsa sem fundo que possa caibir uma estação inteira?
 
 nf-tips-dataset-81 = Como cientista, você pode vender suas tecnologias para outros, seja como projetos ou objetos. Muitos iriam querer uma bolsa bluespace ou peças de máquina melhores!
 
@@ -166,7 +166,7 @@ nf-tips-dataset-83 = Ao segurar uma bolsa com espaço suficiente, você pode for
 
 nf-tips-dataset-84 = Entediado? Convide amigos! Você pode ligar no Discord enquanto joga. Lembre-se de ficar fora de chamadas durante situações PvP!
 
-nf-tips-dataset-85 = Você pode usar suas mãos para carregar pessoas! Alt-clique em uma pessoa enquanto tem duas mãos livres, ou use o menu de contexto para fazer isso.
+nf-tips-dataset-85 = Você pode usar suas mãos para carregar pessoas! Alt-clique numa pessoa enquanto tem duas mãos livres, ou use o menu de contexto para fazer isso.
 
 nf-tips-dataset-86 = Big Brother está observando.
 
@@ -176,7 +176,7 @@ nf-tips-dataset-88 = Ao entrar em criosônio, seu corpo permanece armazenado por
 
 nf-tips-dataset-89 = Se você deixou o jogo acidentalmente por muito tempo, você ainda pode verificar seu personagem. Talvez alguém tenha o empurrado para uma criocápsula e você pode usar o botão 'un-criosônio'?
 
-nf-tips-dataset-90 = Se você ver uma pessoa que ficou SSD, certifique-se de arrastá-la para o criosônio e empurrá-la em uma criocápsula. Isso impedirá que ela seja roubada, e permitirá que o jogador retorne ao corpo mais tarde!
+nf-tips-dataset-90 = Se você ver uma pessoa que ficou SSD, certifique-se de arrastá-la para o criosônio e empurrá-la numa criocápsula. Isso impedirá que ela seja roubada, e permitirá que o jogador retorne ao corpo mais tarde!
 
 nf-tips-dataset-91 = Cuidado com caminhões de comida como o Skipper ou o McCargo - eles podem oferecer comida deliciosa por um preço razoável!
 
@@ -190,17 +190,17 @@ nf-tips-dataset-95 = Se sua nave tem uma tripulação grande, use teclas de rád
 
 nf-tips-dataset-96 = HandiComms funcionam em múltiplas frequências e através de distâncias extremamente longas.
 
-nf-tips-dataset-97 = Antes de entrar em uma rodada em andamento, você pode ver a lista de naves procurando tripulação! Talvez algumas delas tenham empregos que você preferiria?
+nf-tips-dataset-97 = Antes de entrar numa rodada em andamento, você pode ver a lista de naves procurando tripulação! Talvez algumas delas tenham empregos que você preferiria?
 
 nf-tips-dataset-98 = Não esqueça de comprar um implante médico antes de vagar pelo espaço profundo! Ele enviará uma mensagem aos médicos locais no evento da sua morte.
 
 nf-tips-dataset-99 = Como médico, coopere com outras equipes médicas quando houver uma emergência! Nunca ajuda quando duas naves médicas chegam ao mesmo sinal de emergência.
 
-nf-tips-dataset-100 = Como médico, lembre-se que cartuchos MedTek transformam seu PDA em um analisador de saúde!
+nf-tips-dataset-100 = Como médico, lembre-se que cartuchos MedTek transformam seu PDA num analisador de saúde!
 
-nf-tips-dataset-101 = Naves médicas frequentemente têm acesso ao hipospray. Um químico experiente pode transformá-lo em uma arma letal, ou usá-lo para colocar pessoas para dormir com segurança.
+nf-tips-dataset-101 = Naves médicas frequentemente têm acesso ao hipospray. Um químico experiente pode transformá-lo numa arma letal, ou usá-lo para colocar pessoas para dormir com segurança.
 
-nf-tips-dataset-102 = Se você estiver ferido, tente pedir ajuda médica no rádio. Médicos estão frequentemente ansiosos para curar os feridos, pois seu trabalho geralmente fica entediante depois de horas esperando.
+nf-tips-dataset-102 = Se você estiver ferido, tente pedir ajuda médica no rádio. Médicos estão frequentemente ansiosos para curar os feridos, pois seu trabalho geralmente fica entediante após horas esperando.
 
 nf-tips-dataset-103 = Seu PDA também funciona como um GPS! Ele pode ajudá-lo a localizar sua estação ou contar sua localização para outros e ser salvo.
 
@@ -222,17 +222,17 @@ nf-tips-dataset-111 = Lembre-se, Colossus Central tem uma zona segura de 256m de
 
 nf-tips-dataset-112 = Se você estiver usando um console IFF, lembre-se de ligar seu IFF dentro de 500m do Posto Colonial, ou você arriscará enfrentar TSFMC em sua nave!
 
-nf-tips-dataset-113 = Ir em uma expedição sozinho é muito arriscado! Certifique-se de sempre ter um companheiro de tripulação para salvá-lo caso você seja emboscado por uma rainha xeno.
+nf-tips-dataset-113 = Ir numa expedição sozinho é muito arriscado! Certifique-se de sempre ter um companheiro de tripulação para salvá-lo caso você seja emboscado por uma rainha xeno.
 
-nf-tips-dataset-114 = Expedições podem render itens raros e úteis, e podem transformar um mercenário prospectador com azar em um oponente capaz de rivalizar com membros de facção!
+nf-tips-dataset-114 = Expedições podem render itens raros e úteis, e podem transformar um mercenário prospectador com azar num oponente capaz de rivalizar com membros de facção!
 
 nf-tips-dataset-115 = Quando há um Controlador de Tráfego de Estação ativo, certifique-se de contatá-lo antes de atracar, ou você pode enfrentar uma multa!
 
-nf-tips-dataset-116 = Cada console de nave tem um intercom de tráfego interno. Certifique-se de usá-lo para contatar o CTE antes de atracar com Colossus ou Camelot!
+nf-tips-dataset-116 = Cada console de nave tem um intercom de tráfego interno. Certifique-se de usá-lo para contactar o CTE antes de atracar com Colossus ou Camelot!
 
 nf-tips-dataset-117 = Se você ficar encalhado no espaço, certifique-se de notificar outros usando o rádio! Ficar deprimido e cair em coma nunca é a melhor solução.
 
-nf-tips-dataset-118 = Salvamento não é apenas sobre bater em rochas. Você pode tentar encontrar grandes estações abandonadas ou tentar enterar fundo em um asteroide incomum - mas cuidado com os perigos que esperam você dentro.
+nf-tips-dataset-118 = Salvamento não é apenas sobre bater em rochas. Você pode tentar encontrar grandes estações abandonadas ou tentar enterrar fundo num asteroide incomum - mas cuidado com os perigos que esperam você dentro.
 
 nf-tips-dataset-119 = Confiança é algo que leva idades para construir, e segundos para perder. Não dê jogadores e administradores um motivo para odiarem você!
 

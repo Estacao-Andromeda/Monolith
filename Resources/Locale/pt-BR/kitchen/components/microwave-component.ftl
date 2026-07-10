@@ -14,7 +14,7 @@ microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } é muito 
 
 ## Bound UI
 
-microwave-bound-user-interface-instant-button = INSTANTANEO
+microwave-bound-user-interface-instant-button = INSTANTÂNEO
 microwave-bound-user-interface-cook-time-label = TEMPO DE COZIMENTO: {$time}
 
 ## UI
@@ -23,6 +23,6 @@ microwave-menu-title = Micro-ondas
 microwave-menu-start-button = Iniciar
 microwave-menu-eject-all-text = Ejetar Todo o Conteúdo
 microwave-menu-eject-all-tooltip = Isso vaporiza todos os reagentes, mas ejeta quaisquer sólidos.
-microwave-menu-instant-button = INSTANTANEO
+microwave-menu-instant-button = INSTANTÂNEO
 microwave-menu-footer-flavor-left = Não insira objetos eletrônicos, metálicos ou vivos.
 microwave-menu-footer-flavor-right = v1.5

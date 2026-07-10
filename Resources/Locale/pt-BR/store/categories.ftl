@@ -18,9 +18,9 @@ store-discounted-items = Descontos
 store-category-abilities = Habilidades
 
 # Wizard
-store-caregory-spellbook-offensive = Feitos Ofensivos
-store-caregory-spellbook-defensive = Feitos Defensivos
-store-caregory-spellbook-utility = Feitos de Utilidade
+store-caregory-spellbook-offensive = Feitiços Ofensivos
+store-caregory-spellbook-defensive = Feitiços Defensivos
+store-caregory-spellbook-utility = Feitiços de Utilidade
 store-caregory-spellbook-equipment = Equipamento de Mago
-store-caregory-spellbook-events = Feitos de Eventos
+store-caregory-spellbook-events = Feitiços de Eventos
 

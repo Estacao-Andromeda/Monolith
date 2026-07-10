@@ -20,13 +20,13 @@ reagent-name-frezon = frezon
 reagent-desc-frezon = Um refrigerante altamente eficaz.. e alucinógeno.
 
 reagent-name-bz = bz
-reagent-desc-bz = Um alucinógeno potente que também coloca slimes em estase.
+reagent-desc-bz = Um alucinógeno potente que também coloca slimes em stase.
 
 reagent-name-healium = hélium
 reagent-desc-healium = Um agente sonífero poderoso com propriedades regenerativas.
 
-reagent-name-nitrium = nitrino
+reagent-name-nitrium = nitrium
 reagent-desc-nitrium = Um estimulante forte que melhorará os reflexos e resistência, embora a inalação excessiva possa levar à falência pulmonar.
 
-reagent-name-pluoxium = pluóxio
+reagent-name-pluoxium = pluóxium
 reagent-desc-pluoxium = Um gás que poderia fornecer ainda mais oxigênio para a corrente sanguínea quando inalado, sem ser um oxidante.

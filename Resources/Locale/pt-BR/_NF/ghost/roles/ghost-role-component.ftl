@@ -2,8 +2,8 @@ ghost-role-information-emotional-support-name = Animal de Estimação de Apoio E
 ghost-role-information-emotional-support-description = Você é um animal de estimação de apoio emocional! Leal ao seu dono, certifique-se de animá-lo!
 ghost-role-information-emotional-support-rules = Você é um [color=lightpink][bold]Animal de Estimação de Apoio Emocional[/bold][/color]. Apoie seu dono e sirva seus próprios interesses.
                                         Você não se lembra de nada da sua vida anterior, e não se lembra de nada que aprendeu como fantasma.
-                                        Você é permitido lembrar conhecimento sobre o jogo em geral, como cozinhar, usar objetos, etc.
-                                        Você é absolutamente [color=red]NÃO[/color] permitido lembrar, por exemplo, o nome, aparência, etc. de seu personagem anterior.
+                                        Você tem permissão para se lembrar de conhecimento sobre o jogo em geral, como cozinhar, usar objetos, etc.
+                                        Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 
 ghost-role-information-clippy-name = Clippy
 ghost-role-information-clippy-description = O trabalhador leal do Representante da Estação, cheira a papelão e papéis.
@@ -20,7 +20,7 @@ ghost-role-information-cult-cat-description = Fundou o Culto de Sangue por tédi
 ghost-role-information-cult-cat-rules = Você é um [color=yellow][bold]Agente Livre[/bold][/color] e livre para escolher seu curso de ações.
                                         Por favor, note que [color=yellow]todas as regras do servidor ainda se aplicam.[/color] Adicionalmente:
                                         - [color=red]NÃO[/color] danifique naves de jogadores ou seu conteúdo.
-                                        - [color=red]NÃO[/color] pedace jogadores. Uma vez que eles estejam mortos, deixe-os em paz.
+                                        - [color=red]NÃO[/color] gib jogadores. Uma vez que eles estejam mortos, deixe-os em paz.
 
 ghost-role-information-cappy-name = Cappy
 ghost-role-information-cappy-description = Pare de resistir! Certificado em força letal e táticas defensivas.
@@ -41,8 +41,8 @@ ghost-role-information-baby-dragon-name = Dragão Espacial Bebê
 ghost-role-information-baby-dragon-description = Saia do seu ovo e vá em aventuras incríveis com sua mamãe e sua tripulação!
 ghost-role-information-baby-dragon-rules = Você é um [color=#6495ed][bold]Familiar[/bold][/color]. Sirva os interesses de sua nova mamãe, quaisquer que sejam.
                                         Você não se lembra de nada da sua vida anterior, e não se lembra de nada que aprendeu como fantasma.
-                                        Você é permitido lembrar conhecimento sobre o jogo em geral, como cozinhar, usar objetos, etc.
-                                        Você é absolutamente [color=red]NÃO[/color] permitido lembrar, por exemplo, o nome, aparência, etc. de seu personagem anterior.
+                                        Você tem permissão para se lembrar de conhecimento sobre o jogo em geral, como cozinhar, usar objetos, etc.
+                                        Você absolutamente [color=red]NÃO[/color] tem permissão para se lembrar, por exemplo, do nome, aparência, etc. de seu personagem anterior.
 
 ghost-role-information-taxibot-name = Táxi-Bot
 ghost-role-information-taxibot-description = Leve passageiros para onde eles precisam ir.
@@ -52,7 +52,7 @@ ghost-role-information-hovertaxibot-description = Voe com passageiros para onde 
 
 # Adopted from space-wizards #26265 (Thank you, PolterTzi)
 ghost-role-information-yipyip-name = Yip Yip
-ghost-role-information-yipyip-description = Lagarto de lounge notório e bartendedor no Bahama Mama's. Este kobold servidor de bebidas vive para servir seus patronos.
+ghost-role-information-yipyip-description = Lagarto de lounge notório e bartender no Bahama Mama's. Este kobold servidor de bebidas vive para servir seus patronos.
 
 ghost-role-information-aberrant-flesh-horror-dungeon-name = Horror de Carne Aberrante
 ghost-role-information-aberrant-flesh-horror-dungeon-description = Defenda a masmorra de expedição com outras monstruosidades de carne!
@@ -67,7 +67,7 @@ ghost-role-information-dungeon-boss-rules = Você é um [color=red][bold]Antagon
                                         Combata jogadores dentro da masmorra, defenda sua masmorra.
                                         Por favor, note que [color=yellow]todas as regras do servidor ainda se aplicam.[/color] Adicionalmente:
                                         - [color=red]NÃO[/color] se esconda dos jogadores para esgotar o tempo de expedição.
-                                        - [color=red]NÃO[/color] pedace jogadores. Uma vez que eles estejam mortos, deixe-os em paz.
+                                        - [color=red]NÃO[/color] gib jogadores. Uma vez que eles estejam mortos, deixe-os em paz.
                                         - [color=red]NÃO[/color] destrua ou esconda saque valioso na masmorra.
 
 nf-ghost-role-information-derelict-cyborg-description = Você é um ciborgue que ficou preso em um naufrágio por anos, exposto a inúmeras tempestades de íons.

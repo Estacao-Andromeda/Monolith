@@ -19,8 +19,8 @@ reagent-desc-licoxide = Um ácido de bateria sintético. Parece... eletrizante.
 reagent-name-razorium = razorium
 reagent-desc-razorium = Um químico estranho, não-newtoniano. É produzido quando dois medicamentos de força bruta conflitantes são combinados. Quando força é aplicada a ele, ele endurece temporariamente criando milhões de bordas minúsculas e afiadas. Muito doloroso.
 
-reagent-name-fresium = fresium
-reagent-desc-fresium = Um composto misterioso que desacelera a vibração de átomos e moléculas... de alguma forma. Em leigos, faz as coisas ficarem frias... REALMENTE frias. Pode causar problemas de movimento de longa duração se ingerido.
+reagent-name-fresium = Fresium
+reagent-desc-fresium = Um composto misterioso que desacelera a vibração de átomos e moléculas... de alguma forma. Em leigo, faz as coisas ficarem frias... REALMENTE frias. Pode causar problemas de movimento de longa duração se ingerido.
 
 reagent-name-laughter = risada
 reagent-desc-laughter = Alguns dizem que este é o melhor remédio, mas estudos recentes provaram que isso não é verdade.

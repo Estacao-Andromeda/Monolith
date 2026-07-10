@@ -1,4 +1,4 @@
-### for technical and/or system messages
+### para mensagens técnicas e/ou do sistema
 
 ## General
 
@@ -35,8 +35,8 @@ shell-invalid-bool = Booleano inválido.
 shell-entity-uid-must-be-number = EntityUid deve ser um número.
 shell-could-not-find-entity = Não foi possível encontrar a entidade {$entity}
 shell-could-not-find-entity-with-uid = Não foi possível encontrar a entidade com uid {$uid}
-shell-entity-with-uid-lacks-component = A entidade com uid {$uid} não tem o componente {INDEFINITE($componentName)} {$componentName}
-shell-entity-target-lacks-component = A entidade alvo não tem o componente {INDEFINITE($componentName)} {$componentName}
+shell-entity-with-uid-lacks-component = A entidade com uid {$uid} não tem componente {INDEFINITE($componentName)} {$componentName}
+shell-entity-target-lacks-component = A entidade alvo não tem componente {INDEFINITE($componentName)} {$componentName}
 shell-invalid-color-hex = Hexadecimal de cor inválido!
 shell-target-player-does-not-exist = O jogador alvo não existe!
 shell-target-entity-does-not-have-message = A entidade alvo não tem {INDEFINITE($missing)} {$missing}!

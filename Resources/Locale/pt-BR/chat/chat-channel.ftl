@@ -1,3 +1,3 @@
 chat-channel-humanized-ooc = OOC
-chat-channel-humanized-admin = ADMINM
+chat-channel-humanized-admin = ADMIN
 chat-channel-humanized-dead = MORTO

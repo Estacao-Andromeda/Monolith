@@ -30,7 +30,7 @@ alerts-weightless-desc =
 alerts-walking-name = Andando
 alerts-walking-desc = Você está andando, movendo-se em um ritmo lento.
 
-alerts-stunned-name = [color=yellow]Atordoado[/color]
+alerts-stunned-name = [color=yellow]Atordoados[/color]
 alerts-stunned-desc = Você está [color=yellow]atordoado[/color]! Algo está prejudicando sua capacidade de mover ou interagir com objetos.
 
 alerts-handcuffed-name = [color=yellow]Algemado[/color]
@@ -85,7 +85,7 @@ alerts-vow-silence-name = Voto de Silêncio
 alerts-vow-silence-desc = Você fez um voto proibindo comunicação verbal ou escrita como parte da iniciação no Mystiko Tagma Mimon. Clique para quebrar seu voto.
 
 alerts-vow-broken-name = Voto Quebrado
-alerts-vow-broken-desc = Você quebrou seus votos para Mimes em toda parte. Você pode falar e escrever, mas perdeu seus poderes por pelo menos 5 minutos inteiros!!! Clique para tentar retomar seu voto.
+alerts-vow-broken-desc = Você quebrou seus votos para Mimes em todo lugar. Você pode falar e escrever, mas perdeu seus poderes por pelo menos 5 minutos inteiros!!! Clique para tentar retomar seu voto.
 
 alerts-pulled-name = Sendo Puxado
 alerts-pulled-desc = Você está sendo puxado. Mova-se para quebrar livre.

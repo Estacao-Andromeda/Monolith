@@ -19,10 +19,11 @@ thankyou-space-villain-2 = É só isso que você tem?
 thankyou-space-villain-3 = Esta luta não acabou!
 thankyou-space-villain-4 = Desafie novamente em breve!
 thankyou-space-villain-5 = Quem ousa me desafiar depois?
-thankyou-space-villain-6 = Eu sabia que não poderia me derrotar!
+thankyou-space-villain-6 = Eu sabia que você não poderia me derrotar!
 thankyou-space-villain-7 = Bom demais para você?
 thankyou-space-villain-8 = Corra, covarde!
 thankyou-space-villain-9 = Você nunca teve chance.
 thankyou-space-villain-10 = Que tal uma revanche?
 thankyou-space-villain-11 = Enfrente-me novamente!
 thankyou-space-villain-12 = Volte aqui e lute comigo!
+

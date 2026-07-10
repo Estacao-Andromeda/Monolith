@@ -1,6 +1,6 @@
 guidebook-window-title = Manual
 guidebook-placeholder-text = Selecione uma entrada.
-guidebook-placeholder-text-2 = Este é um espaço reservado para novas entradas do guia.
+guidebook-placeholder-text-2 = Se você é novo, vá para "Novo? Comece aqui!"
 guidebook-filter-placeholder-text = Filtrar itens
 
 guidebook-parser-error = Erro de Análise

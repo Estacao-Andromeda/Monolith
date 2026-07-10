@@ -22,7 +22,7 @@ advertisement-mercenaryhumanoid-19 = Aqui. Fim.
 
 advertisement-mercenaryhumanoid-2 = Em posiÃ§Ã£o! CÃ³rdia.
 
-advertisement-mercenaryhumanoid-20 = Neutralizem o alvo!
+advertisement-mercenaryhumanoid-20 = Neutralizno alvo!
 
 advertisement-mercenaryhumanoid-3 = Miras estÃ£o frias!
 

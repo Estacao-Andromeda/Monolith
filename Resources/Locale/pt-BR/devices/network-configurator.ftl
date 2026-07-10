@@ -2,7 +2,7 @@
 
 network-configurator-device-saved = Dispositivo de rede {$device} salvo com sucesso com endereço {$address}!
 network-configurator-device-failed = Falha ao salvar dispositivo de rede {$device}! Nenhum endereço atribuído!
-network-configurator-too-many-devices = Muitos dispositivos armazenados neste dispositivo!
+network-configurator-too-many-devices = Muitos dispositivos armazenados neste aparelho!
 network-configurator-update-ok = Armazenamento de dispositivo atualizado.
 network-configurator-device-already-saved = dispositivo de rede: {$device} já está salvo.
 network-configurator-device-access-denied = Acesso negado!
@@ -45,5 +45,5 @@ network-configurator-item-status-label = Modo: {$mode}
     Alternar: {$keybinding}
 
 # command
-cmd-clearnetworklinkoverlays-desc = Limpa todos as sobreposições de link de rede.
+cmd-clearnetworklinkoverlays-desc = Limpar todas as sobreposições de link de rede.
 cmd-clearnetworklinkoverlays-help = Uso: clearnetworklinkoverlays

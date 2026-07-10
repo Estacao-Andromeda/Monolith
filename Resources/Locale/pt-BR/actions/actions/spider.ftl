@@ -1,5 +1,5 @@
-spider-web-action-nogrid =lá é não Chão sob você!
+spider-web-action-nogrid = Não há chão sob você!
 spider-web-action-success = Você coloca teias ao seu redor.
-spider-web-action-fail =você pode't lugar webs aqui! todos cardinal directions already ter webs!
+spider-web-action-fail = Você não pode colocar teias aqui! Todas as direções cardinais já têm teias!
 
-sericulture-failure-hunger =seu Estômago é também vazio para fazer any mais webs!
+sericulture-failure-hunger = Seu estômago está vazio demais para fazer mais teias!

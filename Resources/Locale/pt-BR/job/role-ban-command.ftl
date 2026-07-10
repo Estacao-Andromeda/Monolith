@@ -1,4 +1,4 @@
-﻿### Localization for role ban command
+### Localization for role ban command
 
 cmd-roleban-desc = Bane um jogador de um cargo
 cmd-roleban-help = Uso: roleban <nome ou ID de usuário> <cargo> <motivo> [duração em minutos, deixe vazio ou 0 para banimento permanente]

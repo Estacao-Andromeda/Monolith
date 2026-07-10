@@ -1,4 +1,4 @@
-comp-gas-filter-ui-filter-status =status:
+comp-gas-filter-ui-filter-status = status:
 comp-gas-filter-ui-status-enabled = Ligado
 comp-gas-filter-ui-status-disabled = Desligado
 

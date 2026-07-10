@@ -6,13 +6,13 @@ selectable-set-rd-modsuit-name = Modsuit Minerva
 selectable-set-rd-modsuit-desc =
     Um Modsuit para pesquisa pesada. Bastante resistente.
 
-selectable-set-cap-hardsuit-name = Traje espacial blindado do Capitão
+selectable-set-cap-hardsuit-name = Traje especial blindado do Capitão
 selectable-set-cap-hardsuit-desc =
-    Um traje espacial para proprietários de lanças. Possui placas leves à prova de balas.
+    Um traje especial para proprietários de lançadeiras. Possui placas leves à prova de balas.
 
 selectable-set-cap-modsuit-name = Modsuit Magnata
 selectable-set-cap-modsuit-desc =
-    Um Modsuit destinado a proprietários de lanças. Tem algumas gemas de luxo
+    Um Modsuit destinado a proprietários de lançadeiras. Tem algumas joias de luxo
     ao redor dele.
 
 selectable-set-pdvinfiltrator-sabotage-kit-name = Kit de especialista em sabotagem
@@ -21,4 +21,4 @@ selectable-set-pdvinfiltrator-sabotage-kit-desc =
 
 selectable-set-pdvinfiltrator-chameleon-kit-name = Kit de especialista em infiltração
 selectable-set-pdvinfiltrator-chameleon-kit-desc =
-    Um conjunto completo de equipamentos camaleões e ferramentas de espionagem que são perfeitos para qualquer espião imperial operando fora das fileiras da Vanguarda.
+    Um conjunto completo de equipamentos camuflados e ferramentas de espionagem que são perfeitos para qualquer espião imperial operando fora das fileiras da Vanguarda.
