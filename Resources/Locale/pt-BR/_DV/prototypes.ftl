@@ -124,10 +124,6 @@ ent-RightLegVulpkanin = perna direita vulpkanin
 
 ent-TorsoVulpkanin = torso vulpkanin
 
-# From: _DV/Catalog/Fills/Crates/vending.yml
-
-ent-CrateVendingMachineRestockPrideFilled =
-
 # From: _DV/Entities/Clothing/Ears/headsets.yml
 
 ent-ClothingHeadsetPrison = fones de prisioneiro
@@ -189,31 +185,31 @@ ent-ClothingUniformJumpsuitKilt = kilt
 
 # From: _DV/Entities/Mobs/Player/chitinid.yml
 
-ent-MobChitinid = Urist McAnt
+ent-MobChitinid = Enzo Formiga da Silva
 
 # From: _DV/Entities/Mobs/Player/harpy.yml
 
-ent-MobHarpy = Urist McHarpy
+ent-MobHarpy = Enzo Harpia da Silva
 
 # From: _DV/Entities/Mobs/Player/rodentia.yml
 
-ent-MobRodentia = Urist McRat
+ent-MobRodentia = Enzo Rato da Silva
 
 # From: _DV/Entities/Mobs/Player/vulpkanin.yml
 
-ent-MobVulpkanin = Urist McVulp
+ent-MobVulpkanin = Enzo Cachorro da Silva
 
 # From: _DV/Entities/Mobs/Species/chitinid.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobChitinid = Urist McAnt
+ent-BaseMobChitinid = Enzo Formiga da Silva
 
-ent-MobChitinidDummy =
+ent-MobChitinidDummy = {ent-MobChitinid}
 
 # From: _DV/Entities/Mobs/Species/harpy.yml
 
 # Abstract entity (referenceable by children)
-ent-MobHarpyBase = Urist McHarpy
+ent-MobHarpyBase = {ent-MobHarpy}
 
 ent-ActionHarpyPlayMidi = Tocar MIDI
     .desc = Cante com toda sua alma! Clique com botão direito em si mesmo para definir um instrumento.
@@ -221,23 +217,23 @@ ent-ActionHarpyPlayMidi = Tocar MIDI
 ent-ActionSyrinxChangeVoiceMask = Definir nome
     .desc = Altere o nome que os outros ouvem para algo diferente.
 
-ent-MobHarpyDummy = Urist McHands
+ent-MobHarpyDummy = {ent-MobHarpy}
     .desc = Um boneco harpia destinado a ser usado na configuração de personagem.
 
 # From: _DV/Entities/Mobs/Species/rodentia.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobRodentia = Urist McRat
+ent-BaseMobRodentia = {ent-MobRodentia}
 
-ent-MobRodentiaDummy = Boneco de Roedor
+ent-MobRodentiaDummy = {ent-MobRodentia}
     .desc = Um boneco roedor destinado a ser usado na configuração de personagem.
 
 # From: _DV/Entities/Mobs/Species/vulpkanin.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobVulpkanin = Urist McVulp
+ent-BaseMobVulpkanin = {ent-MobVulpkanin}
 
-ent-MobVulpkaninDummy = Boneco Vulpkanin
+ent-MobVulpkaninDummy = {ent-MobVulpkanin}
     .desc = Um boneco vulpkanin destinado a ser usado na configuração de personagem.
 
 # From: _DV/Entities/Objects/Devices/cartridges.yml
@@ -285,47 +281,47 @@ ent-BoxReamBright = resma de papel colorido Papermoon
 ent-BoxReamClassic = resma de papel colorido clássico Papermoon
     .desc = Ilumine seus registros e mais com papel colorido Papermoon, nas seis cores clássicas que você aprendeu a conhecer e amar. Tingido ao máximo para máxima fixação de cor.
 
-ent-PaperDyedBrown
+ent-PaperDyedBrown = {ent-Paper}
     .suffix = marrom
     .desc = Um pedaço de papel marrom.
 
-ent-PaperDyedGrass
+ent-PaperDyedGrass = {ent-Paper}
     .suffix = grama
     .desc = Um pedaço de papel verde grama.
 
-ent-PaperDyedGreen
+ent-PaperDyedGreen = {ent-Paper}
     .suffix = verde
     .desc = Um pedaço de papel verde.
 
-ent-PaperDyedOcean
+ent-PaperDyedOcean = {ent-Paper}
     .suffix = oceano
     .desc = Um pedaço de papel azul oceano.
 
-ent-PaperDyedOrange
+ent-PaperDyedOrange = {ent-Paper}
     .suffix = laranja
     .desc = Um pedaço de papel laranja.
 
-ent-PaperDyedPink
+ent-PaperDyedPink = {ent-Paper}
     .suffix = rosa
     .desc = Um pedaço de papel rosa.
 
-ent-PaperDyedPurple
+ent-PaperDyedPurple = {ent-Paper}
     .suffix = roxo
     .desc = Um pedaço de papel roxo.
 
-ent-PaperDyedRed
+ent-PaperDyedRed = {ent-Paper}
     .suffix = vermelho
     .desc = Um pedaço de papel vermelho.
 
-ent-PaperDyedSky
+ent-PaperDyedSky = {ent-Paper}
     .suffix = céu
     .desc = Um pedaço de papel azul céu.
 
-ent-PaperDyedTan
+ent-PaperDyedTan = {ent-Paper}
     .suffix = bege
     .desc = Um pedaço de papel bege.
 
-ent-PaperDyedYellow
+ent-PaperDyedYellow = {ent-Paper}
     .suffix = amarelo
     .desc = Um pedaço de papel amarelo.
 

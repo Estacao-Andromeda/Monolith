@@ -293,13 +293,13 @@ ent-CrateVendingMachineRestockBaristaFilled = Caixa de Reposição BaristaVend
 
 # From: _Mono/Catalogs/Fills/Lockers/salvmaint_locker.yml
 
-ent-MonoMaintenanceFluffSpawner = Gerador de Loot Mono Maint
+ent-MonoMaintenanceFluffSpawner = Spawner de de Loot Mono Maint
     .suffix = Fluff+Clothes
 
-ent-MonoMaintenanceToolSpawner = Gerador de Loot Mono Maint
+ent-MonoMaintenanceToolSpawner = Spawner de de Loot Mono Maint
     .suffix = Tools+Cells+Mats
 
-ent-MonoMaintenanceWeaponSpawner = Gerador de Loot Mono Maint
+ent-MonoMaintenanceWeaponSpawner = Spawner de de Loot Mono Maint
     .suffix = Scrap+Weapons
 
 # From: _Mono/Catalogs/Fills/Lockers/vizier_locker.yml
@@ -314,7 +314,7 @@ ent-PaperWrittenTeaGuide = Como Fazer Chá Para Iniciantes
 # From: _Mono/Catalogs/Fills/StorageFillTemplates/departmental_eva.yml
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitDME
+ent-StorageFillEVASuitDME = ""
     .desc = Contém um kit EVA de contratante DME padrão.
 
 # From: _Mono/CorticalBorer/cortical_borer_species.yml
@@ -1495,17 +1495,17 @@ ent-RepairGhost = fantasma de reparo
 # From: _Mono/Entities/Markers/Spawners/bitcoin.yml
 
 ent-SpawnLootDatafarmBitcoin = bitcoin aleatório
-    .suffix = Gerador de Bitcoin Datafarm
+    .suffix = Spawner de Bitcoin Datafarm
 
 # From: _Mono/Entities/Markers/Spawners/ghost_roles.yml
 
-ent-SpawnAsakimWarrior = gerador de guerreiro asakim
+ent-SpawnAsakimWarrior = spawner de guerreiro asakim
 
-ent-SpawnChimeraGhostrole = gerador de ghostrole de quimera
+ent-SpawnChimeraGhostrole = spawner de ghostrole de quimera
 
-ent-SpawnRedactedBorg = gerador de tratador ADS
+ent-SpawnRedactedBorg = spawner de cuidador da ADS
 
-ent-SpawnRedactedBorgPlaytime = gerador de tratador ADS bloqueado por tempo de brincadeira
+ent-SpawnRedactedBorgPlaytime = spawner de cuidador da ADS bloqueado por playtime
 
 # From: _Mono/Entities/Markers/Spawners/jobs.yml
 
@@ -1539,40 +1539,40 @@ ent-AFInterceptorFilled = {ent-BaseAFInterceptor}
     .suffix = Bateria, Preenchido
     .desc = {ent-BaseAFInterceptor.desc}
 
-ent-SpawnMechAFInterceptorFilled = Gerador de Broadsword AF-28
+ent-SpawnMechAFInterceptorFilled = Spawner de Broadsword AF-28
     .suffix = Preenchido
 
-ent-SpawnMechAFInterceptorMFilled = Gerador de Halberd AF-28-M
+ent-SpawnMechAFInterceptorMFilled = Spawner de Halberd AF-28-M
     .suffix = Preenchido
 
 # From: _Mono/Entities/Markers/Spawners/Random/Loot/weapons.yml
 
-ent-POILootAmmoMarker = gerador de saque de munição POI
+ent-POILootAmmoMarker = spawner de loot de munição POI
 
-ent-POILootWeaponsAmmoMarker = gerador de saque misto de armas e munição POI
+ent-POILootWeaponsAmmoMarker = spawner de loot misto de armas e munição POI
 
-ent-POILootWeaponsMarker = gerador de saque de armas POI
+ent-POILootWeaponsMarker = spawner de loot de armas POI
 
 # From: _Mono/Entities/Markers/Spawners/Random/nt_loot.yml
 
-ent-NTLootBackpack = gerador de mochila NT
+ent-NTLootBackpack = spawner de mochila NT
 
-ent-NTLootHardsuit = gerador de rígido NT
+ent-NTLootHardsuit = spawner de hardsuit NT
 
-ent-NTLootT1Clothing = gerador de roupa NT T1
+ent-NTLootT1Clothing = spawner de roupa NT T1
 
-ent-NTLootT2Clothing = gerador de roupa NT T2
+ent-NTLootT2Clothing = spawner de roupa NT T2
 
-ent-NTLootT3Clothing = Gerador de roupa NT T3
+ent-NTLootT3Clothing = Spawner de roupa NT T3
 
 # From: _Mono/Entities/Markers/Spawners/Random/paintings.yml
 
-ent-RandomPaintingConstructed = gerador de pintura aleatória
+ent-RandomPaintingConstructed = spawner de pintura aleatória
     .suffix = Construído
 
 # From: _Mono/Entities/Markers/Spawners/Random/posters.yml
 
-ent-RandomPosterConstructed = gerador de pôster aleatório
+ent-RandomPosterConstructed = spawner de pôster aleatório
     .suffix = Construído
 
 # From: _Mono/Entities/Markers/Spawners/Random/scrap_processor.yml
@@ -1683,9 +1683,9 @@ ent-MobHumanMarsocTPGL = especialista MARSOC (TPGL)
 
 # From: _Mono/Entities/Mobs/NPCs/ai.yml
 
-ent-NpcDroneAiAssembly
-    .suffix = IA, Drone-Assembly
-    .desc = Atira em você. Bordo.
+# ent-NpcDroneAiAssembly
+#     .suffix = IA, Drone-Assembly
+#     .desc = Atira em você. Bordo.
 
 ent-NpcDroneAiLance = núcleo atacante
     .suffix = IA, Drone-Lance
@@ -1732,38 +1732,38 @@ ent-NpcStationAiRammer = núcleo rammer
 ent-NpcStationAiShooter = núcleo atirador
     .desc = Atira em você. Não se move.
 
-ent-SpawnMobApproacherCore = gerador de núcleo approacher
+ent-SpawnMobApproacherCore = spawner de núcleo approacher
 
-ent-SpawnMobAttackerCore = gerador de núcleo atacante
+ent-SpawnMobAttackerCore = spawner de núcleo atacante
 
-ent-SpawnMobAttackerCoreSmart = gerador de núcleo atacante inteligente
+ent-SpawnMobAttackerCoreSmart = spawner de núcleo atacante inteligente
 
-ent-SpawnMobAttackerCoreStaticSmart = gerador de núcleo atacante estático inteligente
+ent-SpawnMobAttackerCoreStaticSmart = spawner de núcleo atacante estático inteligente
 
-ent-SpawnMobDroneAiAssembly = gerador de núcleo atacante
-    .suffix = Bordo, Drone-Assembly
+ent-SpawnMobDroneAiAssembly = spawner de núcleo atacante
+    .suffix = Salva lateral, Drone-Assembly
 
-ent-SpawnMobDroneAiLance = gerador de núcleo atacante
+ent-SpawnMobDroneAiLance = spawner de núcleo atacante
     .suffix = Curto-Alcance, Drone-Lance
 
-ent-SpawnMobDroneAiMedusa = gerador de núcleo atacante
+ent-SpawnMobDroneAiMedusa = spawner de núcleo atacante
     .suffix = Curto-Alcance, Drone-Medusa
 
-ent-SpawnMobDroneAiMPulsar = gerador de núcleo atacante
+ent-SpawnMobDroneAiMPulsar = spawner de núcleo atacante
     .suffix = Curto-Alcance, Drone-MPulsar
 
-ent-SpawnMobDroneAiQuake = gerador de núcleo atacante
+ent-SpawnMobDroneAiQuake = spawner de núcleo atacante
     .suffix = Drone-Quake
 
-ent-SpawnMobNpcStationAiAttackerBroadside = gerador de núcleo atacante de bordo
+ent-SpawnMobNpcStationAiAttackerBroadside = spawner de núcleo atacante de salva-lateral
 
-ent-SpawnMobRammerCore = gerador de núcleo rammer
+ent-SpawnMobRammerCore = spawner de núcleo rammer
 
-ent-SpawnMobRammerCoreSmart = gerador de núcleo rammer inteligente
+ent-SpawnMobRammerCoreSmart = spawner de núcleo rammer inteligente
 
-ent-SpawnMobRammerCoreSmartDodging = gerador de núcleo rammer inteligente desviante
+ent-SpawnMobRammerCoreSmartDodging = spawner de núcleo rammer inteligente desviante
 
-ent-SpawnMobRammerCoreStraight = gerador de núcleo rammer sem evasão
+ent-SpawnMobRammerCoreStraight = spawner de núcleo rammer sem evasão
 
 # From: _Mono/Entities/Mobs/NPCs/animals.yml
 
@@ -1772,23 +1772,23 @@ ent-MobKangarooPlanet = canguru
 
 # From: _Mono/Entities/Mobs/NPCs/elemental.yml
 
-ent-MobSpawnBananiumCrabDocile = gerador de caranguejo de bananium
+ent-MobSpawnBananiumCrabDocile = spawner de caranguejo de bananium
 
-ent-MobSpawnCoalCrabDocile = gerador de caranguejo de carvão
+ent-MobSpawnCoalCrabDocile = spawner de caranguejo de carvão
 
-ent-MobSpawnGoldCrabDocile = gerador de caranguejo de ouro
+ent-MobSpawnGoldCrabDocile = spawner de caranguejo de ouro
 
-ent-MobSpawnIronCrabDocile = gerador de caranguejo de ferro
+ent-MobSpawnIronCrabDocile = spawner de caranguejo de ferro
 
-ent-MobSpawnPlasmaCrabDocile = gerador de caranguejo de plasma
+ent-MobSpawnPlasmaCrabDocile = spawner de caranguejo de plasma
 
-ent-MobSpawnQuartzCrabDocile = gerador de caranguejo de quartzo
+ent-MobSpawnQuartzCrabDocile = spawner de caranguejo de quartzo
 
-ent-MobSpawnSaltCrabDocile = gerador de caranguejo de sal
+ent-MobSpawnSaltCrabDocile = spawner de caranguejo de sal
 
-ent-MobSpawnSilverCrabDocile = gerador de caranguejo de prata
+ent-MobSpawnSilverCrabDocile = spawner de caranguejo de prata
 
-ent-MobSpawnUraniumCrabDocile = gerador de caranguejo de urânio
+ent-MobSpawnUraniumCrabDocile = spawner de caranguejo de urânio
 
 # From: _Mono/Entities/Mobs/NPCs/monolithic.yml
 
@@ -1809,7 +1809,7 @@ ent-MobMonolithicHellLocust = gafanhoto do inferno monolítico
     .desc = Uma entidade anômala. Parece ser composta de energia nítidamente tangível, em uma forma oddlymente familiar. Também parece estar correndo em sua direção ameaçadoramente. Cuidado!
 
 # Abstract entity (referenceable by children)
-ent-MobSpawnMonolithicBase = gerador de entidade monolítica base
+ent-MobSpawnMonolithicBase = spawner de entidade monolítica base
 
 ent-MobSpawnMonolithicGestalt = gestalt monolítico
     .suffix = Gerador
@@ -1823,10 +1823,10 @@ ent-MobSpawnMonolithicGolomRanged = golom monolítico à distância
 ent-MobSpawnMonolithicHellLocust = gafanhoto do inferno monolítico
     .suffix = Gerador
 
-ent-MobSpawnMonolithicRandomBasic = gerador de entidade monolítica
+ent-MobSpawnMonolithicRandomBasic = spawner de entidade monolítica
     .suffix = Aleatório, Básico
 
-ent-MobSpawnMonolithicRandomIntermediate = gerador de entidade monolítica
+ent-MobSpawnMonolithicRandomIntermediate = spawner de entidade monolítica
     .suffix = Aleatório, Intermediário
 
 # From: _Mono/Entities/Mobs/Player/preview_observer.yml
@@ -1838,28 +1838,28 @@ ent-PreviewObserver = observador de visualização
 
 # From: _Mono/Entities/Mobs/Player/protogen.yml
 
-ent-MobProtogen = Urist McHardDrive
+ent-MobProtogen = Enzo HardDrive da Silva
 
 # From: _Mono/Entities/Mobs/Player/silicon.yml
 
-# Abstract entity (referenceable by children)
-ent-AiHeldMono
-    .desc = Componentes adicionados/removidos de uma entidade que é inserida em um núcleo de IA.
+# # Abstract entity (referenceable by children)
+# ent-AiHeldMono
+#     .desc = Componentes adicionados/removidos de uma entidade que é inserida em um núcleo de IA.
 
-ent-AiHeldPDV
-    .desc = {ent-AiHeldMono.desc}
+# ent-AiHeldPDV
+#     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldRedacted
-    .desc = {ent-AiHeldMono.desc}
+# ent-AiHeldRedacted
+#     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldSec
-    .desc = {ent-AiHeldMono.desc}
+# ent-AiHeldSec
+#     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldTSFMC
-    .desc = {ent-AiHeldMono.desc}
+# ent-AiHeldTSFMC
+#     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldVessel
-    .desc = {ent-AiHeldMono.desc}
+# ent-AiHeldVessel
+#     .desc = {ent-AiHeldMono.desc}
 
 ent-BorgChassisRedacted = tratador de sistema de defesa automatizado remanescente
     .desc = Um tratador para uma nave de drone automatizada, para manter seus mecanismos internos intactos.
@@ -1867,21 +1867,21 @@ ent-BorgChassisRedacted = tratador de sistema de defesa automatizado remanescent
 # From: _Mono/Entities/Mobs/Species/asakim.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobAsakim = Urist McAsakim
+ent-BaseMobAsakim = {ent-MobAsakim}
 
-ent-MobAsakim = Urist McAsakim
-    .suffix = Urisst' MzAsakim
+ent-MobAsakim = Enzo Asakim da Silva
+    .suffix = Enzo Asakim da Sssilva
 
-ent-MobAsakimDummy
+ent-MobAsakimDummy = {ent-MobAsakim}
     .desc = Um Asakim boneco destinado a ser usado na configuração de personagem.
 
-ent-MobAsakimRandom = Urist McAsakim
+ent-MobAsakimRandom = {ent-MobAsakim}
     .suffix = Aparência Aleatória
 
 # From: _Mono/Entities/Mobs/Species/protogen.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobProtogen = Urist McHardDrive
+ent-BaseMobProtogen = {ent-MobProtogen}
 
 # From: _Mono/Entities/Objects/Consumable/Drinks/drinks_bottles.yml
 
@@ -1982,7 +1982,7 @@ ent-EliteRadarCircuitboard = placa de computador de radar elite
 ent-GunneryControlComputerCircuitboard = placa de computador de controle de artilharia
     .desc = Uma placa de circuito impresso de computador para um computador de controle de artilharia.
 
-ent-StationAiUploadCircuitboardUnlocked
+ent-StationAiUploadCircuitboardUnlocked = {ent-StationAiUploadCircuitboard}
     .suffix = Destravado
     .desc = Uma placa de circuito impresso de computador para um console de upload de IA.
 
@@ -2228,15 +2228,15 @@ ent-NovaCygniTranslatorImplanter = implantador de tradutor nova cygni
 # From: _Mono/Entities/Objects/Devices/pda.yml
 
 # Abstract entity (referenceable by children)
-ent-BasePDVPDA
+ent-BasePDVPDA = PDA da PDV
     .desc = Um computador pessoal básico para restrição de acesso e organização, fabricado na Dinastia Phaethon.
 
 # Abstract entity (referenceable by children)
-ent-BaseUSSPPDA
+ent-BaseUSSPPDA = PDA da USSP
     .desc = Um computador pessoal básico para restrição de acesso e organização, fabricado na USSP.
 
 # Abstract entity (referenceable by children)
-ent-BaseVGPDA
+ent-BaseVGPDA = PDA do Grupo Víbora
     .desc = Um computador pessoal básico para restrição de acesso e organização, adaptado com peças antigas de PDA Gorlex.
 
 ent-MarsocFTLPDA = PDA de líder de equipe de incêndio MARSOC da TSFMC
@@ -2535,77 +2535,77 @@ ent-LithiumOre = minério de lítio
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/Veins/copper_veins.yml
 
-ent-AsteroidRockCopper
+ent-AsteroidRockCopper = {ent-AsteroidRock}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-IronRockCopper
+ent-IronRockCopper = {ent-IronRock}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockAndesiteCopper
+ent-WallRockAndesiteCopper = {ent-WallRockAndesite}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockBasaltCopper
+ent-WallRockBasaltCopper = {ent-WallRockBasalt}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockChromiteCopper
+ent-WallRockChromiteCopper = {ent-WallRockChromite}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockCopper
+ent-WallRockCopper = {ent-WallRock}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockSandCopper
+ent-WallRockSandCopper = {ent-WallRockSand}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockScrapPileCopper
+ent-WallRockScrapPileCopper = {ent-WallRockScrapPile}
     .suffix = Cobre
     .desc = Uma veia de minério com cobre.
 
-ent-WallRockSnowCopper
+ent-WallRockSnowCopper = {ent-WallRockSnow}
     .suffix = Cobre
     .desc = Uma veia de minério rica em cobre.
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/Veins/lithium_veins.yml
 
-ent-AsteroidRockLithium
+ent-AsteroidRockLithium = {ent-AsteroidRock}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-IronRockLithium
+ent-IronRockLithium = {ent-IronRock}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockAndesiteLithium
+ent-WallRockAndesiteLithium = {ent-WallRockAndesite}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockBasaltLithium
+ent-WallRockBasaltLithium = {ent-WallRockBasalt}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockChromiteLithium
+ent-WallRockChromiteLithium = {ent-WallRockChromite}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockLithium
+ent-WallRockLithium = {ent-WallRock}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockSandLithium
+ent-WallRockSandLithium = {ent-WallRockSand}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockScrapPileLithium
+ent-WallRockScrapPileLithium = {ent-WallRockScrapPile}
     .suffix = Lítio
     .desc = Uma veia de minério com lítio.
 
-ent-WallRockSnowLithium
+ent-WallRockSnowLithium = {ent-WallRockSnow}
     .suffix = Lítio
     .desc = Uma veia de minério rica em lítio.
 
@@ -2804,19 +2804,19 @@ ent-TradeGoodWeaponParts = caixa de peças de arma
 
 # From: _Mono/Entities/Objects/Misc/turret_spawner.yml
 
-ent-SpawnMobWeaponTurretLaserSilicon = gerador de torreta laser de silício
+ent-SpawnMobWeaponTurretLaserSilicon = spawner de torreta laser de silício
     .suffix = Silício, Frontier
 
-ent-SpawnMobWeaponTurretLaserTSFMC = gerador de torreta laser da TSFMC
+ent-SpawnMobWeaponTurretLaserTSFMC = spawner de torreta laser da TSFMC
     .suffix = TSFMC, Frontier
 
-ent-SpawnMobWeaponTurretPDV = gerador de torreta balística PDV
+ent-SpawnMobWeaponTurretPDV = spawner de torreta balística PDV
     .suffix = PDV, Frontier
 
-ent-SpawnMobWeaponTurretTFSMC = gerador de torreta balística da TSFMC
+ent-SpawnMobWeaponTurretTFSMC = spawner de torreta balística da TSFMC
     .suffix = TSFMC, Frontier
 
-ent-SpawnMobWeaponTurretUSSP = gerador de torreta balística da USSP
+ent-SpawnMobWeaponTurretUSSP = spawner de torreta balística da USSP
     .suffix = USSP
 
 # From: _Mono/Entities/Objects/Misc/turrets.yml
@@ -3263,7 +3263,7 @@ ent-FoodPilumaStalk = haste de piluma
 # From: _Mono/Entities/Objects/Specific/Planet/flora.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseFlora
+ent-BaseFlora = planta
     .desc = Planta de coisas boas.
 
 ent-FloraOrakimPlant = planta orakim
@@ -5717,21 +5717,21 @@ ent-ProjectileBabyDragonsBreath = fôlego de dragão bebê
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml
 
-ent-BulletEnergyGun45_magnum = dardo 45_magnum
+ent-BulletEnergyGun45_magnum = tiro de 45 magnum
 
-ent-BulletLaserPellet = energia
+ent-BulletLaserPellet = tiro de energia
 
 ent-BulletLaserSlug = slug de energia
 
-ent-BulletMonolithicGestalt = dardo gestalt
+ent-BulletMonolithicGestalt = tiro gestalt
     .desc = Zzz...t?
 
 ent-BulletMonolithicGolomRanged = espigão golum
     .desc = Um cristal de tecido de nanopartículas impecável aparentemente feito de algum tipo de energia de luz dura. Poderia provavelmente revolucionar mais de cinco indústrias diferentes se estudado. Infelizmente, parece ter sido jogado direito em você!
 
-ent-HeavyPulse = Dardo de Pulso Pesado
+ent-HeavyPulse = Tiro de Pulso Pesado
 
-ent-HeavyPulseExp = Dardo de Pulso Explosivo
+ent-HeavyPulseExp = Tiro de Pulso Explosivo
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Rifles/rifles.yml
 
@@ -6508,39 +6508,39 @@ ent-StationAiUploadComputerUnlocked = console de upload de IA
 
 # From: _Mono/Entities/Structures/Machines/Computers/computers_shipyard_mothership.yml
 
-ent-BalorCarrierComputer = console de estaleiro balor
+ent-BalorCarrierComputer = console de porta-naves balor
     .desc = {ent-BaseCarrierComputer.desc}
 
 # Abstract entity (referenceable by children)
-ent-BaseCarrierComputer
-    .suffix = Porta-aviões
+ent-BaseCarrierComputer = console de porta-naves
+    .suffix = Porta-naves
     .desc = Usado em porta-aviões para comprar e vender navios sem retornar a uma estação.
 
-ent-HiveCarrierComputer = console de porta-aviões zephyr
+ent-HiveCarrierComputer = console de porta-naves zephyr
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-JupiterCarrierComputer = console de estaleiro jupiter
+ent-JupiterCarrierComputer = console de porta-naves jupiter
     .desc = Estaleiro mais leve usando os hangares internos do Jupiter, não tem acesso à lista completa de navios da Dinastia Phaethon.
 
 ent-LedokolAttachmentComputer = console de anexo ledokol
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-MiningCarrierComputer = console de porta-aviões de mineração
+ent-MiningCarrierComputer = console de porta-naves de mineração
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-PDVMotleyAnneCarrierComputer = console de estaleiro motley anne
+ent-PDVMotleyAnneCarrierComputer = console de porta-naves motley anne
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-RavagerCarrierComputer = console de estaleiro ravager
+ent-RavagerCarrierComputer = console de porta-naves ravager
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-SellOnlyCarrierComputer = console de estaleiro apenas venda
+ent-SellOnlyCarrierComputer = console de porta-naves apenas venda
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-TSFCarrierComputer = console de porta-aviões TSF
+ent-TSFCarrierComputer = console de porta-naves TSF
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-WindreignCarrierComputer = console de estaleiro windreign
+ent-WindreignCarrierComputer = console de porta-naves windreign
     .desc = {ent-BaseCarrierComputer.desc}
 
 # From: _Mono/Entities/Structures/Machines/Computers/flight_control.yml
@@ -6583,16 +6583,16 @@ ent-RogueComputerComms = computador de comunicações da vanguarda imperial
 # From: _Mono/Entities/Structures/Machines/Computers/shipyard.yml
 
 ent-ComputerShipyardDrakeIndustries = console de estaleiro drake industries
-    .desc = Usado por afiliados da Drake Industries para comprar transladadores de carga especialidade.
+    .desc = Usado por afiliados da Drake Industries para comprar naves de carga especializadas.
 
 ent-ComputerShipyardSHM = console de estaleiro SHM
-    .desc = Usado para transferir navios das reservas de emprego SHM.
+    .desc = Usado para transferir naves das reservas de serviço da SHM.
 
 ent-ComputerShipyardUSSP = console de estaleiro USSP
-    .desc = Usado para comprar navios das reservas navais da USSP.
+    .desc = Usado para comprar naves das reservas navais da USSP.
 
 ent-ComputerShipyardViper = console de estaleiro Viper Group
-    .desc = Usado para importar navios de vários fabricantes.
+    .desc = Usado para importar naves de vários fabricantes.
 
 # From: _Mono/Entities/Structures/Machines/Computers/tsf_comm_computer.yml
 
@@ -6811,7 +6811,7 @@ ent-ShieldGenerator = Gerador de Escudo MS-500 "Titan"
 ent-ShieldGeneratorBase = Gerador de Escudo
 
 ent-ShieldGeneratorMedium = Gerador de Escudo MS-250 "Aegis"
-    .suffix = APENAS ADS/TSF, APENAS NAVIOS COM VOUCHER SCI
+    .suffix = APENAS ADS/TSF, APENAS NAVES COM VOUCHER SCI
     .desc = O Aegis. Escudamento avançado, com longo tempo de recarga, com durabilidade muito alta.
 
 ent-ShieldGeneratorPOI = Gerador de Escudo de Avançamento FS-421 "Fortress"
@@ -6822,7 +6822,7 @@ ent-ShieldGeneratorSmall = Gerador de Escudo MS-100 "Sentinel"
     .desc = O Sentinel. Um escudo bom e confiável.
 
 ent-ShieldGeneratorTSFCapital = Gerador de Escudo Capital LM-212 "Vanguard"
-    .suffix = APENAS CAPITAL TSF
+    .suffix = APENAS NAVE-MÃE TSF
     .desc = Um escudo capital pesado. Boa durabilidade, recarga rápida e anti-colisão embutido em um.
 
 # From: _Mono/Entities/Structures/Machines/smart_storage.yml
@@ -6901,43 +6901,43 @@ ent-MachineOutpostCore = Reator Bluespace B.R0-200k
 
 # From: _Mono/Entities/Structures/Power/Generators/turbines.yml
 
-ent-TurbineCC
+ent-TurbineCC = {ent-Turbine}
     .suffix = Bloqueado Supervisor CC
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao Supervisor CC.
 
-ent-TurbineCCSmall
+ent-TurbineCCSmall = {ent-TurbineSmall}
     .suffix = Bloqueado Supervisor CC
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao Supervisor CC.
 
-ent-TurbinePDV
+ent-TurbinePDV = {ent-Turbine}
     .suffix = Bloqueado Denasvar PDV
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Denasvars PDV.
 
-ent-TurbinePDVSmall
+ent-TurbinePDVSmall = {ent-TurbineSmall}
     .suffix = Bloqueado Denasvar PDV
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Denasvars PDV.
 
-ent-TurbineTSF
+ent-TurbineTSF = {ent-Turbine}
     .suffix = Bloqueado FTL TSF
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos líderes de equipe de combate TSF.
 
-ent-TurbineTSFSmall
+ent-TurbineTSFSmall = {ent-TurbineSmall}
     .suffix = Bloqueado FTL TSF
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos líderes de equipe de combate TSF.
 
-ent-TurbineUnaffiliated
+ent-TurbineUnaffiliated = {ent-Turbine}
     .suffix = Não Afiliado, Bloqueado Capitão de Navio
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao capitão do navio.
 
-ent-TurbineUnaffiliatedSmall
+ent-TurbineUnaffiliatedSmall = {ent-TurbineSmall}
     .suffix = Não Afiliado, Bloqueado Capitão de Navio
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao capitão do navio.
 
-ent-TurbineUSSP
+ent-TurbineUSSP = {ent-Turbine}
     .suffix = Bloqueado Serzhant USSP
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Serzhants USSP.
 
-ent-TurbineUSSPSmall
+ent-TurbineUSSPSmall = {ent-TurbineSmall}
     .suffix = Bloqueado Serzhant USSP
     .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Serzhants USSP.
 
@@ -7071,7 +7071,7 @@ ent-PlasturaniumWindowRadProofIndestructible = janela de plasturanio
 ent-ReinforcedWindowOutpost = janela reforçada
     .suffix = APENAS AVANÇADO
 
-ent-TimedSealsTableSpawner = gerador de selo temporizado aleatório (30-180 minutos)
+ent-TimedSealsTableSpawner = spawner de selo temporizado aleatório (30-180 minutos)
 
 ent-WindowTimedSeal = selo temporizado
     .suffix = 30 Minutos, Indestrutível
@@ -7104,28 +7104,28 @@ ent-CompanyLogoViperGroup = logo viper group
 
 # From: _Mono/Planets/fauna.yml
 
-ent-MonoPlanetmapFaunaDesert = gerador de fauna de planeta deserto
+ent-MonoPlanetmapFaunaDesert = spawner de fauna de planeta deserto
 
 # From: _Mono/Planets/ore.yml
 
-ent-MonoPlanetmapOreBasalt = gerador de minerais de planeta
+ent-MonoPlanetmapOreBasalt = spawner de minerais de planeta
     .suffix = Macio
 
-ent-MonoPlanetmapOreBase = gerador de minerais de planeta
+ent-MonoPlanetmapOreBase = spawner de minerais de planeta
     .suffix = Macio
 
-ent-MonoPlanetmapOreChromite = gerador de minerais de planeta
+ent-MonoPlanetmapOreChromite = spawner de minerais de planeta
     .suffix = Macio
 
-ent-MonoPlanetmapOreSand = gerador de minerais de planeta
+ent-MonoPlanetmapOreSand = spawner de minerais de planeta
     .suffix = Macio
 
-ent-MonoPlanetmapOreSnow = gerador de minerais de planeta
+ent-MonoPlanetmapOreSnow = spawner de minerais de planeta
     .suffix = Macio
 
 # From: _Mono/Planets/permanent_planet.yml
 
-ent-MonoPlanetmapOreSandRich = gerador de minerais de planeta
+ent-MonoPlanetmapOreSandRich = spawner de minerais de planeta
     .suffix = Macio
 
 # From: _Mono/Turf/items.yml

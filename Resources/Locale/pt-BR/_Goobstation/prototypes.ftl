@@ -408,35 +408,35 @@ ent-BluespaceLifeline = linha de vida bluespace
 
 # From: _Goobstation/Entities/Markers/Spawners/mechs.yml
 
-ent-SpawnMechClarke = Gerador Clarke
+ent-SpawnMechClarke = Spawner de Clarke
 
-ent-SpawnMechDurand = Gerador Durand
+ent-SpawnMechDurand = Spawner de Durand
 
-ent-SpawnMechGygax = Gerador Gygax
+ent-SpawnMechGygax = Spawner de Gygax
 
-ent-SpawnMechGygaxSyndie = Gerador Gygax Escuro
+ent-SpawnMechGygaxSyndie = Spawner de Gygax Escuro
 
-ent-SpawnMechGygaxSyndieFilled = Gerador Gygax Escuro
+ent-SpawnMechGygaxSyndieFilled = Spawner de Gygax Escuro
     .suffix = Cheio
 
-ent-SpawnMechHonkerFilled = Gerador H.O.N.K.
+ent-SpawnMechHonkerFilled = Spawner de H.O.N.K.
     .suffix = Cheio
 
-ent-SpawnMechMarauder = Gerador Marauder
+ent-SpawnMechMarauder = Spawner de Marauder
 
-ent-SpawnMechMarauderFilled = Gerador Marauder
+ent-SpawnMechMarauderFilled = Spawner de Marauder
     .suffix = Cheio
 
-ent-SpawnMechMaulerSyndie = Gerador Mauler
+ent-SpawnMechMaulerSyndie = Spawner de Mauler
 
-ent-SpawnMechMaulerSyndieFilled = Gerador Mauler
+ent-SpawnMechMaulerSyndieFilled = Spawner de Mauler
     .suffix = Cheio
 
-ent-SpawnMechRipley2 = Gerador Ripley APLU MK-II
+ent-SpawnMechRipley2 = Spawner de Ripley APLU MK-II
 
-ent-SpawnMechSeraph = Gerador Seraph
+ent-SpawnMechSeraph = Spawner de Seraph
 
-ent-SpawnMechSeraphFilled = Gerador Seraph
+ent-SpawnMechSeraphFilled = Spawner de Seraph
     .suffix = Cheio
 
 # From: _Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml
@@ -519,61 +519,61 @@ ent-RandomHumanoidSpawnerChronolegioneer = legionário cronológico
 
 # From: _Goobstation/Entities/Mobs/Player/humanoid.yml
 
-ent-MobChitinidRandom = Urist McAnt
+ent-MobChitinidRandom = {ent-MobChitinid}
     .suffix = Aparência Aleatória
 
-ent-MobDionaRandom = Urist McPlants
+ent-MobDionaRandom = {ent-MobDiona}
     .suffix = Aparência Aleatória
 
-ent-MobDwarfRandom = Urist McDwarf
+ent-MobDwarfRandom = {ent-MobDwarf}
     .suffix = Aparência Aleatória
 
-ent-MobFelinidRandom = Urist McFelinid
+ent-MobFelinidRandom = {ent-Felinid}
     .suffix = Aparência Aleatória
 
-ent-MobGingerbreadRandom = Urist McCookie
+ent-MobGingerbreadRandom = {ent-MobGingerbread}
     .suffix = Aparência Aleatória
 
-ent-MobGoblinRandom = Urist McGoblin
+ent-MobGoblinRandom = {ent-MobGoblin}
     .suffix = Aparência Aleatória
 
-ent-MobHarpyRandom = Urist McHarpy
+ent-MobHarpyRandom = {ent-MobHarpia}
     .suffix = Aparência Aleatória
 
-ent-MobHumanRandom = Urist McHuman
+ent-MobHumanRandom = {ent-MobHuman}
     .suffix = Aparência Aleatória
 
-ent-MobHydrakinRandom = Urist McHydra
+ent-MobHydrakinRandom = {ent-MobHydrakin}
     .suffix = Aparência Aleatória
 
-ent-MobMothRandom = Urist McFluff
+ent-MobMothRandom = {ent-MobMoth}
     .suffix = Aparência Aleatória
 
-ent-MobProtogenRandom = Urist McHardDrive
+ent-MobProtogenRandom = {ent-MobProtogen}
     .suffix = Aparência Aleatória
 
-ent-MobReptilianRandom = Urist McScales
+ent-MobReptilianRandom = {ent-MobReptilian}
     .suffix = Aparência Aleatória
 
-ent-MobResomiRandom = Urist McRaptor
+ent-MobResomiRandom = {ent-MobResomi}
     .suffix = Aparência Aleatória
 
-ent-MobRodentiaRandom = Urist McRat
+ent-MobRodentiaRandom = {ent-MobRodentia}
     .suffix = Aparência Aleatória
 
-ent-MobSlimePersonRandom = Urist McSlime
+ent-MobSlimePersonRandom = {ent-MobSlimePerson}
     .suffix = Aparência Aleatória
 
-ent-MobTajaranRandom = Urist McTajaran
+ent-MobTajaranRandom = {ent-MobTajaran}
     .suffix = Aparência Aleatória
 
-ent-MobVoxRandom = Uristiti McVox
+ent-MobVoxRandom = {ent-MobVox}
     .suffix = Aparência Aleatória
 
-ent-MobVulpkaninRandom = Urist McVulp
+ent-MobVulpkaninRandom = {ent-MobVulpkanin}
     .suffix = Aparência Aleatória
 
-ent-MobYowieRandom = Urist McYow
+ent-MobYowieRandom = {ent-MobYowie}
     .suffix = Aparência Aleatória
 
 ent-RandomHumanoidSpawnerDiplomat = Diplomata
@@ -593,24 +593,24 @@ ent-RandomHumanoidSpawnerSpecialOperationsOfficers = Oficial de Operações Espe
 
 # From: _Goobstation/Entities/Mobs/Player/tajaran.yml
 
-ent-MobTajaran = Urist McTajaran
+ent-MobTajaran = Enzo Tajaran da Silva
 
 # From: _Goobstation/Entities/Mobs/Player/yowie.yml
 
-ent-MobYowie = Urist McYow
+ent-MobYowie = Enzo Drogado da Silva
 
 # From: _Goobstation/Entities/Mobs/Species/tajaran.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobTajaran = Urist McTajaran
+ent-BaseMobTajaran = {ent-MobTajaran}
 
-ent-MobTajaranDummy = Urist McHands
+ent-MobTajaranDummy = {ent-MobTajaran}
     .desc = Um boneco tajarão destinado a ser usado na configuração de personagem.
 
 # From: _Goobstation/Entities/Mobs/Species/yowie.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobYowie = Urist McYowie
+ent-BaseMobYowie = {ent-MobYowie}
 
 # From: _Goobstation/Entities/Objects/Devices/chrono_teleporter.yml
 

@@ -1,6 +1,6 @@
 player-panel-title = informações para {$player}
 player-panel-username = Nome de usuário: {$player}
-player-panel-whitelisted = Lista branca:
+player-panel-whitelisted = Whitelist:
 player-panel-bans = Banimentos totais: {$totalBans}
 player-panel-rolebans = Banimentos de cargo totais: {$totalRoleBans}
 player-panel-notes = Notas totais: {$totalNotes}

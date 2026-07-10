@@ -50,7 +50,7 @@ nf-tips-dataset-25 = Muitos químicos têm reações únicas - Certifique-se de 
 
 nf-tips-dataset-26 = Você pode mutar e cruzar plantas para criar colheitas mais potentes que também têm rendimentos maiores.
 
-nf-tips-dataset-27 = Ao jogar num papel de facção, lembre-se de se comunicar com seus outros membros - Coordenação salva vidas e ganha guerras, o rádio é seu melhor amigo!
+nf-tips-dataset-27 = Ao jogar num cargo de facção, lembre-se de se comunicar com seus outros membros - Coordenação salva vidas e ganha guerras, o rádio é seu melhor amigo!
 
 nf-tips-dataset-28 = Como um oficial TSFMC, sua força está no armamento da sua embarcação. Cuidado com ações de embarque de inimigos, pois embora você esteja adequadamente equipado, é melhor vaporizar qualquer abordagem hostil com fogo de artilharia!
 

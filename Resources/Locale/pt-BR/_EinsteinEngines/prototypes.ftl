@@ -41,10 +41,10 @@ ent-TorsoIPC = torso IPC
 
 # From: _EinsteinEngines/Entities/Mobs/Player/ipc.yml
 
-ent-MobIPC = Urist McPositrônico
+ent-MobIPC = Enzo Robô da Silva
     .desc = Um cérebro positrônico em um corpo metálico.
 
-ent-MobIPCDummy = Urist McPositrônico
+ent-MobIPCDummy = {ent-MobIPC}
     .desc = Um boneco IPC destinado a ser usado na configuração de personagem.
 
 # From: _EinsteinEngines/Objects/Devices/translator_implants.yml
@@ -147,7 +147,7 @@ ent-Translator =
 ent-TranslatorForeigner = tradutor de estrangeiro
     .desc = Um tradutor de edição especial que ajuda estrangeiros a falar e entender o idioma principal desta estação.
 
-ent-TranslatorPoweredBase =
+ent-TranslatorPoweredBase = tradutor
 
 ent-TranslatorUnpowered = tradutor
     .desc = Traduz fala.
@@ -166,7 +166,7 @@ ent-AzazibaTranslatorImplanter = implante tradutor azaziba
 
 ent-BasicGalaticCommonTranslatorImplanter = implantador de tradutor comum básico
 
-ent-BubblishTranslatorImplanter = implante tradutor borbulheês
+ent-BubblishTranslatorImplanter = implante tradutor borbulhês
 
 ent-CanilunztTranslatorImplanter = implante tradutor canilunzt
 

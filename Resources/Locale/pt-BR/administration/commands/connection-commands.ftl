@@ -4,7 +4,7 @@ cmd-grant_connect_bypass-desc = Permite temporariamente que um usuário contorne
 cmd-grant_connect_bypass-help = Uso: grant_connect_bypass <usuário> [duração minutos]
     Concede temporariamente a um usuário a capacidade de contornar restrições de conexão regulares.
     A contornação se aplica apenas a este servidor de jogo e expirará após (por padrão) 1 hora.
-    Eles poderão entrar independentemente de lista branca, bunker de pânico ou limite de jogadores.
+    Eles poderão entrar independentemente de whitelist, bunker de pânico ou limite de jogadores.
 
 cmd-grant_connect_bypass-arg-user = <usuário>
 cmd-grant_connect_bypass-arg-duration = [duração minutos]

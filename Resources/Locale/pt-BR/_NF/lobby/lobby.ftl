@@ -19,7 +19,7 @@ frontier-lobby-frontier-description = Desperte do sono criogênico aqui para:
        - Encontrar uma tripulação para entrar
        - Comprar naves
        - Socializar com outros pioneiros
-       Alguns dos papéis nesta estação são apenas para lista branca e requerem uma aplicação no Discord para serem aceitos.
+       Alguns dos papéis nesta estação são apenas para whitelist e requerem uma aplicação no Discord para serem aceitos.
 
 frontier-lobby-exped-subtext = Onde mercenários experientes se reúnem.
 
@@ -37,7 +37,7 @@ frontier-lobby-medical-description = Hub de despacho médico civil da TSF. Aqui 
        - Socializar com outros médicos
        - Comprar naves especializadas médicas
        - Entregar recompensas médicas
-       Alguns dos papéis nesta estação são apenas para lista branca e requerem uma aplicação no Discord para serem aceitos.
+       Alguns dos papéis nesta estação são apenas para whitelist e requerem uma aplicação no Discord para serem aceitos.
 
 frontier-lobby-nfsd-subtext = O centro de operações da TSFMC.
 

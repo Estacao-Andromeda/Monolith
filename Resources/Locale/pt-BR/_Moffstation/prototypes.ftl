@@ -9,50 +9,50 @@
 ent-OrganResomiBrain = cérebro
     .suffix = Resomi
 
-ent-OrganResomiHeart = coração resomi
+ent-OrganResomiHeart = coração de resomi
     .suffix = Resomi
 
-ent-OrganResomiKidneys = rim resomi
+ent-OrganResomiKidneys = rim de resomi
     .suffix = Resomi
 
-ent-OrganResomiLiver = fígado resomi
+ent-OrganResomiLiver = fígado de resomi
     .suffix = Resomi
 
-ent-OrganResomiLungs = pulmões resomi
+ent-OrganResomiLungs = pulmões de resomi
     .suffix = Resomi
 
-ent-OrganResomiStomach = estômago resomi
+ent-OrganResomiStomach = estômago de resomi
     .suffix = Resomi
 
 # From: _Moffstation/Body/Parts/resomi.yml
 
 ent-HeadResomi = cabeça resomi
 
-ent-LeftArmResomi = braço esquerdo resomi
+ent-LeftArmResomi = braço esquerdo de resomi
 
-ent-LeftFootResomi = pé esquerdo resomi
+ent-LeftFootResomi = pé esquerdo de resomi
 
-ent-LeftHandResomi = mão esquerda resomi
+ent-LeftHandResomi = mão esquerda de resomi
 
-ent-LeftLegResomi = perna esquerda resomi
+ent-LeftLegResomi = perna esquerda de resomi
 
-ent-RightArmResomi = braço direito resomi
+ent-RightArmResomi = braço direito de resomi
 
-ent-RightFootResomi = pé direito resomi
+ent-RightFootResomi = pé direito de resomi
 
-ent-RightHandResomi = mão direita resomi
+ent-RightHandResomi = mão direita de resomi
 
-ent-RightLegResomi = perna direita resomi
+ent-RightLegResomi = perna direita de resomi
 
-ent-TorsoResomi = torso resomi
+ent-TorsoResomi = torso de resomi
 
 # From: _Moffstation/Entities/Mobs/Player/resomi.yml
 
-ent-MobResomi = Urist McChicken
+ent-MobResomi = Enzo Galinha da Silva
 
 # From: _Moffstation/Entities/Mobs/Species/resomi.yml
 
-ent-MobResomiDummy
+ent-MobResomiDummy = {ent-MobResomi}
     .desc = Um boneco resomi destinado a ser usado na configuração de personagem.
 
-ent-BaseMobResomi = Urist McChicken
+ent-BaseMobResomi = {ent-MobResomi}

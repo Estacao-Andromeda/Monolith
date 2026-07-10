@@ -1,7 +1,7 @@
 reagent-name-cryptobiolin = criobiolina
 reagent-desc-cryptobiolin = Causa confusão e tontura.
 
-reagent-name-dylovene = dilovene
+reagent-name-dylovene = dylovene
 reagent-desc-dylovene = Um anti-toxina de amplo espectro, que trata danos de toxina em organismos. A sobredose causará vômito, tontura e dor.
 
 reagent-name-diphenhydramine = difenidramina

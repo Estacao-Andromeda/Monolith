@@ -1,1 +1,1 @@
-make-ghost-role-verb-get-data-text = Criar Papel de Fantasma
+make-ghost-role-verb-get-data-text = Criar Ghostrole

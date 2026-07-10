@@ -25,7 +25,7 @@ ui-vote-type-not-available = Este tipo de votação foi desabilitado
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
-  Esta opção de votação está disponível apenas para jogadores que têm tempo de jogo suficiente ou estão na lista branca.
+  Esta opção de votação está disponível apenas para jogadores que têm tempo de jogo suficiente ou estão na whitelist.
   Além disso, você deve ter sido um fantasma por { $timeReq } segundos.
 
 # Warning to not abuse a specific vote option.
