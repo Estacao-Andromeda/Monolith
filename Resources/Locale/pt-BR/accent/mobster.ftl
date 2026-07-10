@@ -1,27 +1,4 @@
 # Sótaque Malóqueiró (substituiu Móbster)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 accent-mobster-prefix-1= Ôxe,
 accent-mobster-suffix-boss-1= , viu?
 accent-mobster-suffix-boss-2= , esquece.
