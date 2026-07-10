@@ -6,14 +6,14 @@
 
 # From: _White/Actions/types.yml
 
-ent-PulseThermalVision = Pulso de Visão Térmica
-    .desc = Ativa a visão térmica temporariamente.
+ent-PulseThermalVision = Pulsar Visão Térmica
+    .desc = Ativa visão térmica temporariamente.
 
 ent-ToggleNightVision = Alternar Visão Noturna
-    .desc = Alterne a visão noturna.
+    .desc = Alterna visão noturna.
 
 ent-ToggleThermalVision = Alternar Visão Térmica
-    .desc = Alterne a visão térmica.
+    .desc = Alterna visão térmica.
 
 # From: _White/Entities/Clothing/Eyes/goggles.yml
 
@@ -37,5 +37,5 @@ ent-ClothingEyesThermalVisionGogglesSyndie =
 
 # From: _White/Entities/Objects/Weapons/Melee/daggers.yml
 
-ent-BetrayalKnife = faca da traição
+ent-BetrayalKnife = faca de traição
     .desc = Cuidado com as costas!

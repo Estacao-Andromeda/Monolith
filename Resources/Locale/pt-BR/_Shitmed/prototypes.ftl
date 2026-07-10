@@ -6,35 +6,35 @@
 
 # From: _Shitmed/Body/Actions/organactions.yml
 
-ent-ActionGoliathTentacleCrew = [color=red]Investida de Tentáculo[/color]
-    .desc = Use seus tentáculos para agarrar e atordoar um jogador alvo!
+ent-ActionGoliathTentacleCrew = [color=red]Pancada de Tentáculo[/color]
+    .desc = Use seus tentáculos para agarrar e atordir um jogador alvo!
 
 # From: _Shitmed/Body/Organs/Animal/animal.yml
 
 ent-OrganAnimalBrain = cérebro animal
-    .desc = Não tão inteligente, não tão buzina.
+    .desc = Não tão inteligente, não tão honk.
 
 ent-OrganAnimalEyes = olhos animais
     .desc = Eu vejo você!
 
 # From: _Shitmed/Body/Organs/Animal/space.yml
 
-ent-OrganCobraHeart = glândula de cobra
+ent-OrganCobraHeart = glândula cobra
 
 ent-OrganDragonLungs = pulmões de dragão
 
-ent-OrganGoliathHeart = coração de goliath
+ent-OrganGoliathHeart = coração goliath
 
-ent-OrganLaserEyes = olhos de laser raptor
+ent-OrganLaserEyes = olhos de raptor laser
 
-ent-OrganSpaceAnimalHeart = coração de animal espacial
+ent-OrganSpaceAnimalHeart = coração animal espacial
 
-ent-OrganSpaceAnimalLungs = pulmões de animal espacial
+ent-OrganSpaceAnimalLungs = pulmões animal espacial
 
 # From: _Shitmed/Body/Organs/cybernetic.yml
 
 ent-BasicCyberneticEyes = olhos cibernéticos
-    .desc = Um par de olhos cibernéticos que melhoram sua visão, e protegem você de danos oculares.
+    .desc = Um par de olhos cibernéticos que melhoram sua visão, e protegem contra danos aos olhos.
 
 ent-MedicalCyberneticEyes = olhos cibernéticos de diagnóstico
     .desc = Um par de olhos cibernéticos que melhoram sua visão, com um MedHUD integrado.
@@ -45,24 +45,24 @@ ent-SecurityCyberneticEyes = olhos cibernéticos de segurança
 # From: _Shitmed/Body/Organs/felinid.yml
 
 ent-OrganFelinidEars = orelhas de gato
-    .desc = Segurar estes pode ser potencialmente contagioso.
+    .desc = Segurar essas pode ser potencialmente contagioso.
 
 ent-OrganFelinidTail = cauda de gato
-    .desc = Você realmente deveria ter isto?
+    .desc = Você deveria realmente ter isso?
 
 # From: _Shitmed/Body/Organs/generic.yml
 
 ent-BioSynthEyes = olhos bio-sintéticos
-    .desc = Estes olhos podem ser transplantados para qualquer organismo vivo e eles irão se adaptar ao seu recipiente.
+    .desc = Estes olhos podem ser transplantados em qualquer organismo vivo e se adaptarão ao seu recipiente.
 
 ent-BioSynthHeart = coração bio-sintético
-    .desc = Este coração pode ser transplantado para qualquer organismo vivo e ele irá se adaptar ao seu recipiente.
+    .desc = Este coração pode ser transplantado em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthLiver = fígado bio-sintético
-    .desc = Este fígado pode ser transplantado para qualquer organismo vivo e ele irá se adaptar ao seu recipiente.
+    .desc = Este fígado pode ser transplantado em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthLungs = pulmões bio-sintéticos
-    .desc = Estes pulmões podem ser transplantados para qualquer organismo vivo e eles irão se adaptar ao seu recipiente.
+    .desc = Estes pulmões podem ser transplantados em qualquer organismo vivo e se adaptarão ao seu recipiente.
 
 # From: _Shitmed/Body/Parts/animal.yml
 
@@ -70,54 +70,54 @@ ent-HeadAnimal = cabeça animal
 
 # From: _Shitmed/Body/Parts/Animal/carp.yml
 
-ent-TailCarp = cauda de carpa
-    .desc = Glândulas únicas nesta cauda permitem que carpas espaciais voem no vácuo.
+ent-TailCarp = cauda de carp
+    .desc = Glândulas únicas nesta cauda permitem que carps espaciais voem no vácuo.
 
-ent-TorsoCarp = tronco de carpa
+ent-TorsoCarp = torso carp
 
 # From: _Shitmed/Body/Parts/Animal/kobold.yml
 
-ent-HeadKobold = cabeça de kobold
+ent-HeadKobold = cabeça kobold
 
-ent-LeftArmKobold = braço esquerdo de kobold
+ent-LeftArmKobold = braço esquerdo kobold
 
-ent-LeftFootKobold = pé esquerdo de kobold
+ent-LeftFootKobold = pé esquerdo kobold
 
-ent-LeftHandKobold = mão esquerda de kobold
+ent-LeftHandKobold = mão esquerda kobold
 
-ent-LeftLegKobold = perna esquerda de kobold
+ent-LeftLegKobold = perna esquerda kobold
 
-ent-RightArmKobold = braço direito de kobold
+ent-RightArmKobold = braço direito kobold
 
-ent-RightFootKobold = pé direito de kobold
+ent-RightFootKobold = pé direito kobold
 
-ent-RightHandKobold = mão direita de kobold
+ent-RightHandKobold = mão direita kobold
 
-ent-RightLegKobold = perna direita de kobold
+ent-RightLegKobold = perna direita kobold
 
-ent-TorsoKobold = tronco de kobold
+ent-TorsoKobold = torso kobold
 
 # From: _Shitmed/Body/Parts/Animal/monkey.yml
 
-ent-HeadMonkey = cabeça de macaco
+ent-HeadMonkey = cabeça macaco
 
-ent-LeftArmMonkey = braço esquerdo de macaco
+ent-LeftArmMonkey = braço esquerdo macaco
 
-ent-LeftFootMonkey = pé esquerdo de macaco
+ent-LeftFootMonkey = pé esquerdo macaco
 
-ent-LeftHandMonkey = mão esquerda de macaco
+ent-LeftHandMonkey = mão esquerda macaco
 
-ent-LeftLegMonkey = perna esquerda de macaco
+ent-LeftLegMonkey = perna esquerda macaco
 
-ent-RightArmMonkey = braço direito de macaco
+ent-RightArmMonkey = braço direito macaco
 
-ent-RightFootMonkey = pé direito de macaco
+ent-RightFootMonkey = pé direito macaco
 
-ent-RightHandMonkey = mão direita de macaco
+ent-RightHandMonkey = mão direita macaco
 
-ent-RightLegMonkey = perna direita de macaco
+ent-RightLegMonkey = perna direita macaco
 
-ent-TorsoMonkey = tronco de macaco
+ent-TorsoMonkey = torso macaco
 
 # From: _Shitmed/Body/Parts/cybernetic.yml
 
@@ -128,10 +128,10 @@ ent-DexRightHand = mão direita D.E.X
     .desc = Uma mão direita cibernética que permite ao seu usuário interagir mais rápido.
 
 ent-JawsOfLifeLeftArm = braço esquerdo J.W.L
-    .desc = Um braço esquerdo cibernético com a habilidade de abrir portas.
+    .desc = Um braço esquerdo cibernético com a capacidade de arrombar portas abertas.
 
 ent-JawsOfLifeRightArm = braço direito J.W.L
-    .desc = Um braço direito cibernético com a habilidade de abrir portas.
+    .desc = Um braço direito cibernético com a capacidade de arrombar portas abertas.
 
 ent-LeftFootCybernetic = pé esquerdo cibernético
 
@@ -145,41 +145,41 @@ ent-SpeedLeftLeg = perna esquerda S.P.E.E.D
     .desc = Uma perna esquerda cibernética que permite ao seu usuário correr mais rápido.
 
 ent-SpeedRightLeg = perna direita S.P.E.E.D
-    .desc = Uma perna direita cibernética que permite ao seu usuário correr mais rápido.
+    .desc = Uma perna esquerda cibernética que permite ao seu usuário correr mais rápido.
 
 # From: _Shitmed/Body/Parts/generic.yml
 
 ent-BioSynthHeadEmpty = cabeça bio-sintética vazia
-    .desc = Esta cabeça sintética pode ser transplantada para qualquer organismo vivo e ela irá se adaptar ao seu recipiente, não contém um cérebro ou olhos porém.
+    .desc = Esta cabeça sintética pode ser transplantada em qualquer organismo vivo e se adaptará ao seu recipiente, não contém cérebro ou olhos porém.
 
 ent-BioSynthLeftArm = braço esquerdo bio-sintético
-    .desc = Este braço esquerdo pode ser transplantado para qualquer organismo vivo e ele irá se adaptar ao seu recipiente.
+    .desc = Este braço esquerdo pode ser transplantado em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthLeftFoot = pé esquerdo bio-sintético
-    .desc = Este pé esquerdo pode ser transplantado para qualquer organismo vivo e ele irá se adaptar ao seu recipiente.
+    .desc = Este pé esquerdo pode ser transplantado em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthLeftHand = mão esquerda bio-sintética
-    .desc = Esta mão esquerda pode ser transplantada para qualquer organismo vivo e ela irá se adaptar ao seu recipiente.
+    .desc = Esta mão esquerda pode ser transplantada em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthLeftLeg = perna esquerda bio-sintética
-    .desc = Esta perna esquerda pode ser transplantada para qualquer organismo vivo e ela irá se adaptar ao seu recipiente.
+    .desc = Esta perna esquerda pode ser transplantada em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthRightArm = braço direito bio-sintético
-    .desc = Este braço direito pode ser transplantado para qualquer organismo vivo e ele irá se adaptar ao seu recipiente.
+    .desc = Este braço direito pode ser transplantado em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthRightFoot = pé direito bio-sintético
-    .desc = Este pé direito pode ser transplantado para qualquer organismo vivo e ele irá se adaptar ao seu recipiente.
+    .desc = Este pé direito pode ser transplantado em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthRightHand = mão direita bio-sintética
-    .desc = Esta mão direita pode ser transplantada para qualquer organismo vivo e ela irá se adaptar ao seu recipiente.
+    .desc = Esta mão direita pode ser transplantada em qualquer organismo vivo e se adaptará ao seu recipiente.
 
 ent-BioSynthRightLeg = perna direita bio-sintética
-    .desc = Esta perna direita pode ser transplantada para qualquer organismo vivo e ela irá se adaptar ao seu recipiente.
+    .desc = Esta perna direita pode ser transplantada em qualquer organismo vivo e se adaptará ao seu recipiente.
 
-ent-PizzaLeftArm = braço esquerdo de pizza
+ent-PizzaLeftArm = braço esquerdo pizza
     .desc = Para quando você quer transformar alguém em um Space John's.
 
-ent-PizzaRightArm = braço direito de pizza
+ent-PizzaRightArm = braço direito pizza
     .desc = Para quando você quer transformar alguém em um Space John's.
 
 # From: _Shitmed/Entities/Debugging/debug_sweps.yml
@@ -192,7 +192,7 @@ ent-MeleeDebugBurner200 = bang burner 200dmg
 
 ent-MeleeDebugSever = bang severer
     .suffix = DEBUG
-    .desc = corte suas partes daqui a uma semana
+    .desc = seve suas partes daqui a uma semana
 
 ent-MeleeDebugSever100 = bang severer 100dmg
 
@@ -200,45 +200,45 @@ ent-MeleeDebugSever200 = bang severer 200dmg
 
 # From: _Shitmed/Entities/Mobs/Species/primate.yml
 
-ent-MobKoboldDummy =
-    .desc = Um kobold falso feito para ser usado na configuração de personagem.
+ent-MobKoboldDummy
+    .desc = Um boneco kobold destinado a ser usado na configuração de personagem.
 
-ent-MobMonkeyDummy =
-    .desc = Um macaco falso feito para ser usado na configuração de personagem.
+ent-MobMonkeyDummy
+    .desc = Um boneco macaco destinado a ser usado na configuração de personagem.
 
 # From: _Shitmed/Entities/Objects/Devices/Circuitboards/Machine/production.yml
 
 ent-AutodocCircuitboard = placa de máquina autodoc
-    .desc = Uma placa de circuito impresso de máquina para um autodoc.
+    .desc = Uma placa de circuito de máquina para um autodoc.
 
 ent-AutodocSyndieCircuitboard =
     .suffix = Sindicato
 
-ent-OperatingTableCircuitboard = placa de máquina de mesa cirúrgica
-    .desc = Uma placa de circuito impresso de máquina para uma mesa cirúrgica.
+ent-OperatingTableCircuitboard = placa de máquina mesa cirúrgica
+    .desc = Uma placa de circuito de máquina para uma mesa cirúrgica.
 
 # From: _Shitmed/Entities/Structures/Machines/autodoc.yml
 
 ent-Autodoc = autodoc
-    .desc = Uma máquina médica avançada para curar os gravemente feridos.
+    .desc = Uma máquina médica avançada para curar os feridos críticos.
 
-ent-AutodocSyndie = autodoc do Sindicato
-    .desc = Uma máquina médica avançada para curar os gravemente feridos. Esta tem uma pintura vermelha suspeita.
+ent-AutodocSyndie = autodoc do sindicato
+    .desc = Uma máquina médica avançada para curar os feridos críticos. Esta tem um trabalho de pintura vermelha suspeito.
 
 # From: _Shitmed/Entities/Structures/Machines/Computers/computers.yml
 
-ent-CentCommSectoralConsole = console setorial do CentComm
-    .desc = Use isto para irritar capitanes de todas as estações de uma vez.
+ent-CentCommSectoralConsole = console setorial centcomm
+    .desc = Use isso para irritar capitães de todas as estações de uma vez.
 
 # From: _Shitmed/Entities/Structures/Walls/walls.yml
 
-ent-WallNanolaminate = parede de nanolaminado
-    .suffix = SOMENTE ADS
-    .desc = Uma parede densa feita de um material estranho, a textura é lisa mas áspera.
+ent-WallNanolaminate = parede nanolaminada
+    .suffix = APENAS ADS
+    .desc = Uma parede densa feita de material estranho, a textura é lisa mas áspera.
 
-ent-WallNanolaminateDiagonal = parede de nanolaminado
-    .suffix = SOMENTE ADS, Diagonal
-    .desc = Uma parede densa feita de um material estranho, a textura é lisa mas áspera.
+ent-WallNanolaminateDiagonal = parede nanolaminada
+    .suffix = APENAS ADS, Diagonal
+    .desc = Uma parede densa feita de material estranho, a textura é lisa mas áspera.
 
 # From: _Shitmed/Entities/Surgery/surgeries.yml
 
@@ -266,8 +266,8 @@ ent-SurgeryBase =
 
 ent-SurgeryCloseIncision = Fechar Incisão
 
-ent-SurgeryCorticalBorerRemoval = Remover Broca Cortical
-    .desc = Remoção da infestação de Broca Cortical do corpo.
+ent-SurgeryCorticalBorerRemoval = Remover Brocador Cortical
+    .desc = Remoção da infestação de Brocador Cortical do corpo.
 
 ent-SurgeryInsertBorgBrain = Inserir Cérebro Positrônico
 
@@ -305,9 +305,9 @@ ent-SurgeryRemovePart = Remover Parte
 
 ent-SurgeryRemoveStomach = Remover Estômago
 
-ent-SurgeryTendWoundsBrute = Tratar Feridas por Contusão
+ent-SurgeryTendWoundsBrute = Tratar Ferimentos Contundentes
 
-ent-SurgeryTendWoundsBurn = Tratar Feridas por Queimadura
+ent-SurgeryTendWoundsBurn = Tratar Ferimentos Queimaduras
 
 # From: _Shitmed/Entities/Surgery/surgery_steps.yml
 
@@ -315,9 +315,9 @@ ent-SurgeryStepBase =
 
 ent-SurgeryStepCarefulIncisionScalpel = Fazer uma incisão cuidadosa
 
-ent-SurgeryStepClampBleeders = Clampar os sangramentos
+ent-SurgeryStepClampBleeders = Clampar os sangrantes
 
-ent-SurgeryStepClampInternalBleeders = Clampar sangramentos internos
+ent-SurgeryStepClampInternalBleeders = Clampar sangrantes internos
 
 ent-SurgeryStepCloseBones = Fechar ossos
 
@@ -339,15 +339,15 @@ ent-SurgeryStepInsertOrgan = Adicionar órgão
 
 ent-SurgeryStepInsertStomach = Adicionar estômago
 
-ent-SurgeryStepMendRibcage = Reparar caixa torácica
+ent-SurgeryStepMendRibcage = Consertar caixa torácica
 
 ent-SurgeryStepOpenIncisionScalpel = Cortar com um bisturi
 
-ent-SurgeryStepOpenOrganSlot = Abrir uma cavidade
+ent-SurgeryStepOpenOrganSlot = Esculpir uma cavidade
 
 ent-SurgeryStepPriseOpenBones = Abrir os ossos
 
-ent-SurgeryStepRemoveCorticalBorer = Remover a Broca Cortical
+ent-SurgeryStepRemoveCorticalBorer = Remover o Brocador Cortical
 
 ent-SurgeryStepRemoveFeature = Amputar parte
 

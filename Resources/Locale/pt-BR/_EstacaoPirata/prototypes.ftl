@@ -6,19 +6,19 @@
 
 # From: _EstacaoPirata/Entities/Objects/Misc/base.yml
 
-ent-CardBoxBase = deck box
+ent-CardBoxBase = caixa de baralho
 
-ent-CardDeckBase = deck de cards
+ent-CardDeckBase = baralho de cartas
 
-ent-CardHandBase = mão de cards
+ent-CardHandBase = mão de cartas
 
 # From: _EstacaoPirata/Entities/Objects/Misc/black_cards.yml
 
-ent-CardBase = card
+ent-CardBase = carta
 
-ent-CardBoxBlack = black deck box
+ent-CardBoxBlack = caixa de baralho preto
 
-ent-CardDeckBlack = deck de cards
+ent-CardDeckBlack = baralho de cartas
 
 ent-CardSc10OfClubsBlack =
 
@@ -128,11 +128,11 @@ ent-CardScQueenOfSpadesBlack =
 
 # From: _EstacaoPirata/Entities/Objects/Misc/nt_cards.yml
 
-ent-CardBaseNanotrasen = card
+ent-CardBaseNanotrasen = carta
 
-ent-CardBoxNanotrasen = nanotrasen deck box
+ent-CardBoxNanotrasen = caixa de baralho Nanotrasen
 
-ent-CardDeckNanotrasen = deck de cards
+ent-CardDeckNanotrasen = baralho de cartas
 
 ent-CardSc10OfClubsNanotrasen =
 
@@ -242,11 +242,11 @@ ent-CardScQueenOfSpadesNanotrasen =
 
 # From: _EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml
 
-ent-CardBaseSyndicate = card
+ent-CardBaseSyndicate = carta
 
 ent-CardBoxSyndicate = caixa de baralho do Sindicato
 
-ent-CardDeckSyndicate = deck de cards
+ent-CardDeckSyndicate = baralho de cartas
 
 ent-CardSc10OfClubsSyndicate =
 
@@ -354,4 +354,4 @@ ent-CardScQueenOfHeartsSyndicate =
 
 ent-CardScQueenOfSpadesSyndicate =
 
-ent-CardStackBase = stack of cards
+ent-CardStackBase = pilha de cartas

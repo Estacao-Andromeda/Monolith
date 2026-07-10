@@ -7,10 +7,10 @@
 # From: _Mono/Actions/cortical_borer.yml
 
 ent-ActionCheckBlood = Verificar Sangue
-    .desc = Examina o sangue do seu hospedeiro para ver como ele está.
+    .desc = Inspeciona o sangue do seu hospedeiro para ver como ele está.
 
 ent-ActionControlHost = Assumir Controle
-    .desc = Assume o controle total do seu hospedeiro, dura 40 segundos em hospedeiros acordados.
+    .desc = Assume o controle total do seu hospedeiro, dura 40 segundos em hospedeiros despertos.
 
 ent-ActionCorticalBorerChemMenu = Químicos
     .desc = Abre o menu de químicos.
@@ -19,35 +19,35 @@ ent-ActionCorticalBorerEject = Ejetar Hospedeiro
     .desc = Ejeta você do seu hospedeiro.
 
 ent-ActionCorticalBorerInfest = Infestar
-    .desc = Infesta um Humano alvo. O hospedeiro alvo deve ter uma corrente sanguínea.
+    .desc = Infesta o Humanoide alvo. O hospedeiro alvo deve ter uma corrente sanguínea.
 
-ent-ActionEndControlHost = Relaxar Controle
-    .desc = Libera o controle do corpo do hospedeiro antecipadamente.
+ent-ActionEndControlHost = Liberar Controle
+    .desc = Desiste do controle do corpo do hospedeiro mais cedo.
 
 ent-ActionLayEggHost = Botar Ovo
     .desc = Força seu hospedeiro a vomitar um ovo. Custa 200 químicos.
 
 # From: _Mono/Actions/scram.yml
 
-ent-ActionScrammerScram = SCRAM!
+ent-ActionScrammerScram = FUJA!
     .desc = Teleporta você aleatoriamente.
 
-ent-ActionScrammerScramADM = SCRAM!
+ent-ActionScrammerScramADM = FUJA!
     .desc = Teleporta você aleatoriamente dentro de uma distância moderada.
 
 # From: _Mono/Body/Organs/asakim.yml
 
-ent-OrganAsakimBrain = cérebro asakim
-    .desc = Uma bagunça de carne e silício, veias entrelaçadas com implantes e cibernéticos desconhecidos.
+ent-OrganAsakimBrain = cérebro de asakim
+    .desc = Uma bagunça de carne e silício, veias entrelaçadas com implantes e cibernéticas desconhecidas.
 
-ent-OrganAsakimEyes = olhos asakim
-    .desc = Eles refletem na escuridão.
+ent-OrganAsakimEyes = olhos de asakim
+    .desc = Eles refletem a escuridão.
 
-ent-OrganAsakimHeart = coração asakim
+ent-OrganAsakimHeart = coração de asakim
     .desc = Um coração grande, capaz de metabolizar mais químicos de uma vez.
 
-ent-OrganAsakimLungs = pulmões asakim
-    .desc = Pulmões pesados e enormes, geneticamente projetados para auxiliar na energização da força bruta do corpo em combate corpo a corpo.
+ent-OrganAsakimLungs = pulmões de asakim
+    .desc = Pulmões pesados e enormes, geneticamente modificados para auxiliar na energização da força bruta do corpo em combate corpo a corpo.
 
 # From: _Mono/Body/Organs/chimera.yml
 
@@ -60,1781 +60,1781 @@ ent-OrganChimeraBrain = cérebro de quimera
 ent-OrganChimeraHeart = coração de quimera
 
 ent-OrganChimeraLiver = glândula de espinhos de quimera
-    .desc = Takes the location of the liver in the body, and repurposes them to be used as a gland for growing bone spikes instead.
+    .desc = Ocupa o local do fígado no corpo, e os repurpose para serem usados como uma glândula para cultivar espinhos ósseos.
 
-ent-OrganChimeraLungs = chimera pheropod
-    .desc = Distributes pheromones allowing for hivemind communication with other Chimeras. Serves as the lungs for the parasite as well.
+ent-OrganChimeraLungs = feroforo de quimera
+    .desc = Distribui feromônios permitindo comunicação de mente enxame com outras Quimeras. Serve como os pulmões para o parasita também.
 
-ent-OrganChimeraStomach = chimera stomach
-    .desc = A strange organ that serves as the center for the metabolism of a Chimera.
+ent-OrganChimeraStomach = estômago de quimera
+    .desc = Um órgão estranho que serve como o centro para o metabolismo de uma Quimera.
 
 # From: _Mono/Body/Organs/hydra.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseHydrakinOrgan = hydrakin organ
+ent-BaseHydrakinOrgan = órgão de hidra
 
-ent-OrganHydrakinBrain = hydrakin brain
+ent-OrganHydrakinBrain = cérebro de hidra
 
-ent-OrganHydrakinHeart = hydrakin heart
+ent-OrganHydrakinHeart = coração de hidra
 
-ent-OrganHydrakinLiver = hydrakin liver
+ent-OrganHydrakinLiver = fígado de hidra
 
-ent-OrganHydrakinLungs = hydrakin lungs
-    .desc = Hydrakin lungs, capable of processing any gas without negative effects.
+ent-OrganHydrakinLungs = pulmões de hidra
+    .desc = Pulmões de hidra, capazes de processar qualquer gás sem efeitos negativos.
 
-ent-OrganHydrakinStomach = hydrakin stomach
+ent-OrganHydrakinStomach = estômago de hidra
 
 # From: _Mono/Body/Organs/protogen.yml
 
-ent-OrganProtogenAppendix = appendix
+ent-OrganProtogenAppendix = apêndice
 
-ent-OrganProtogenBrain = brain
-    .desc = The source of incredible, unending intelligence. 01001000 01101111 01101110 01101011 00101110
+ent-OrganProtogenBrain = cérebro
+    .desc = A fonte de inteligência incrível e interminável. 01001000 01101111 01101110 01101011 00101110
 
-ent-OrganProtogenEars = ears
-    .desc = Lets a Protogen process audio. And listen to their favorite techno hits.
+ent-OrganProtogenEars = orelhas
+    .desc = Permite que um Protogen processe áudio. E ouça seus sucessos de techno favoritos.
 
-ent-OrganProtogenEyes = eyes
-    .desc = Emits LED lights to resemble eyes.
+ent-OrganProtogenEyes = olhos
+    .desc = Emite luzes LED para parecer olhos.
 
-ent-OrganProtogenHeart = heart
-    .desc = Even the most stone-cold, technology-based heart was alive once.
+ent-OrganProtogenHeart = coração
+    .desc = Até mesmo o coração mais frio e baseado em tecnologia foi vivo uma vez.
 
-ent-OrganProtogenKidneys = kidneys
-    .desc = Filters toxins and computer viruses from the bloodstream.
+ent-OrganProtogenKidneys = rins
+    .desc = Filtra toxinas e vírus de computador da corrente sanguínea.
 
-ent-OrganProtogenLiver = liver
-    .desc = Pairing suggestion: fermented RAM sticks and CPU drives.
+ent-OrganProtogenLiver = fígado
+    .desc = Sugestão de harmonização: pentes de RAM fermentados e drives de CPU.
 
-ent-OrganProtogenLungs = lungs
-    .desc = Filters oxygen from an atmosphere, which is then sent into the bloodstream to be used as an electron carrier. God knows how a Protogen breathes at all.
+ent-OrganProtogenLungs = pulmões
+    .desc = Filtra oxigênio da atmosfera, que é então enviado para a corrente sanguínea para ser usado como uma carreadora de elétrons. Deus sabe como um Protogen respira afinal.
 
-ent-OrganProtogenStomach = stomach
-    .desc = Gross. This is hard to stomach.
+ent-OrganProtogenStomach = estômago
+    .desc = Nojento. Isso é difícil de engolir.
 
-ent-OrganProtogenTongue = tongue
-    .desc = A fleshy muscle located within a Protogen's mouth, wherever that is.
+ent-OrganProtogenTongue = língua
+    .desc = Um músculo carnudo localizado dentro da boca de um Protogen, onde quer que isso esteja.
 
 # From: _Mono/Body/Parts/asakim.yml
 
-ent-HeadAsakim = asakim head
+ent-HeadAsakim = cabeça de asakim
 
-ent-LeftArmAsakim = left asakim arm
+ent-LeftArmAsakim = braço esquerdo de asakim
 
-ent-LeftFootAsakim = left asakim foot
+ent-LeftFootAsakim = pé esquerdo de asakim
 
-ent-LeftHandAsakim = left asakim hand
+ent-LeftHandAsakim = mão esquerda de asakim
 
-ent-LeftLegAsakim = left asakim leg
+ent-LeftLegAsakim = perna esquerda de asakim
 
 # Abstract entity (referenceable by children)
-ent-PartAsakim = asakim body part
+ent-PartAsakim = parte do corpo de asakim
 
-ent-RightArmAsakim = right asakim arm
+ent-RightArmAsakim = braço direito de asakim
 
-ent-RightFootAsakim = right asakim foot
+ent-RightFootAsakim = pé direito de asakim
 
-ent-RightHandAsakim = right asakim hand
+ent-RightHandAsakim = mão direita de asakim
 
-ent-RightLegAsakim = right asakim leg
+ent-RightLegAsakim = perna direita de asakim
 
-ent-TorsoAsakim = asakim torso
+ent-TorsoAsakim = torso de asakim
 
 # From: _Mono/Body/Parts/chimera.yml
 
-ent-HeadSkeletonChimera = chimera endoskeleton skull
-    .desc = Alas poor Yorick...
+ent-HeadSkeletonChimera = crânio de endoesqueleto de quimera
+    .desc = Ai coitado de Yorick...
 
-ent-LeftArmSkeletonChimera = left chimera endoskeleton arm
+ent-LeftArmSkeletonChimera = braço esquerdo de endoesqueleto de quimera
 
-ent-LeftFootSkeletonChimera = left chimera endoskeleton foot
+ent-LeftFootSkeletonChimera = pé esquerdo de endoesqueleto de quimera
 
-ent-LeftHandSkeletonChimera = left chimera endoskeleton hand
+ent-LeftHandSkeletonChimera = mão esquerda de endoesqueleto de quimera
 
-ent-LeftLegSkeletonChimera = left chimera endoskeleton leg
+ent-LeftLegSkeletonChimera = perna esquerda de endoesqueleto de quimera
 
 # Abstract entity (referenceable by children)
-ent-PartSkeletonChimeraBase = chimera endoskeleton body part
+ent-PartSkeletonChimeraBase = parte do corpo de endoesqueleto de quimera
 
-ent-RightArmSkeletonChimera = right chimera endoskeleton arm
+ent-RightArmSkeletonChimera = braço direito de endoesqueleto de quimera
 
-ent-RightFootSkeletonChimera = right chimera endoskeleton foot
+ent-RightFootSkeletonChimera = pé direito de endoesqueleto de quimera
 
-ent-RightHandSkeletonChimera = right chimera endoskeleton hand
+ent-RightHandSkeletonChimera = mão direita de endoesqueleto de quimera
 
-ent-RightLegSkeletonChimera = right chimera endoskeleton leg
+ent-RightLegSkeletonChimera = perna direita de endoesqueleto de quimera
 
-ent-TorsoSkeletonChimera = chimera endoskeleton torso
+ent-TorsoSkeletonChimera = torso de endoesqueleto de quimera
 
 # From: _Mono/Body/Parts/protogen.yml
 
-ent-HeadProtogen = protogen head
+ent-HeadProtogen = cabeça de protogen
 
-ent-LeftArmProtogen = left protogen arm
+ent-LeftArmProtogen = braço esquerdo de protogen
 
-ent-LeftFootProtogen = left protogen foot
+ent-LeftFootProtogen = pé esquerdo de protogen
 
-ent-LeftHandProtogen = left protogen hand
+ent-LeftHandProtogen = mão esquerda de protogen
 
-ent-LeftLegProtogen = left Protogen leg
+ent-LeftLegProtogen = perna esquerda de Protogen
 
 # Abstract entity (referenceable by children)
-ent-PartProtogen = protogen body part
+ent-PartProtogen = parte do corpo de protogen
 
-ent-RightArmProtogen = right protogen arm
+ent-RightArmProtogen = braço direito de protogen
 
-ent-RightFootProtogen = right protogen foot
+ent-RightFootProtogen = pé direito de protogen
 
-ent-RightHandProtogen = right protogen hand
+ent-RightHandProtogen = mão direita de protogen
 
-ent-RightLegProtogen = right protogen leg
+ent-RightLegProtogen = perna direita de protogen
 
-ent-TorsoProtogen = protogen torso
+ent-TorsoProtogen = torso de protogen
 
 # From: _Mono/Catalogs/Fills/Backpacks/drone_loot.yml
 
-ent-ClothingBackpackDroneLootT1 = blackbox data recorder (T1)
+ent-ClothingBackpackDroneLootT1 = gravador de dados blackbox (T1)
     .suffix = Drone Loot
-    .desc = Data recorder from a drone. Contains valuable components.
+    .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
-ent-ClothingBackpackDroneLootT21 = blackbox data recorder (T2-1)
+ent-ClothingBackpackDroneLootT21 = gravador de dados blackbox (T2-1)
     .suffix = Drone Loot
-    .desc = Data recorder from a drone. Contains valuable components.
+    .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
-ent-ClothingBackpackDroneLootT22 = blackbox data recorder (T2-2)
+ent-ClothingBackpackDroneLootT22 = gravador de dados blackbox (T2-2)
     .suffix = Drone Loot
-    .desc = Data recorder from a drone. Contains valuable components.
+    .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
 # From: _Mono/Catalogs/Fills/Backpacks/duffelbag.yml
 
-ent-ClothingBackpackDuffelSmilodonBundle = DEW-50-C 'Smilodon' bundle
-    .desc = A powerful energy LMG, coming pre-packaged with 2 spare cells. Perfect for laying down suppressive fire down long halls of glass.
+ent-ClothingBackpackDuffelSmilodonBundle = pacote DEW-50-C 'Smilodon'
+    .desc = Uma LMG de energia poderosa, vindo pré-embalada com 2 células sobressalentes. Perfeita para estabelecer fogo supressivo em longos corredores de vidro.
 
 # From: _Mono/Catalogs/Fills/Backpacks/npc_loot_NT.yml
 
-ent-ClothingBackpackRogueNanotrasenT1 = NT Security equipement crate
+ent-ClothingBackpackRogueNanotrasenT1 = caixa de equipamento de segurança da NT
     .suffix = NPC Loot, T1
-    .desc = A Nanotrasen security forces gear crate.
+    .desc = Uma caixa de equipamento das forças de segurança da Nanotrasen.
 
-ent-ClothingBackpackRogueNanotrasenT2 = NT Navy equipement crate
+ent-ClothingBackpackRogueNanotrasenT2 = caixa de equipamento da Marinha da NT
     .suffix = NPC Loot, T2
-    .desc = A Nanotrasen corporate navy gear crate.
+    .desc = Uma caixa de equipamento da marinha corporativa da Nanotrasen.
 
-ent-ClothingBackpackRogueNanotrasenT3 = NT Spec Ops equipement crate
+ent-ClothingBackpackRogueNanotrasenT3 = caixa de equipamento de Operações Especiais da NT
     .suffix = NPC Loot, T3
-    .desc = A Nanotrasen special operation gear crate.
+    .desc = Uma caixa de equipamento de operações especiais da Nanotrasen.
 
 # From: _Mono/Catalogs/Fills/Boxes/emergency.yml
 
-ent-BoxBaseSurvivalMono = Emergency Survival Box
-    .suffix = Oxygen
-    .desc = A dedicated, standard issue survival box for the Colossus sector. Holds utility tools to keep you alive in an emergency.
+ent-BoxBaseSurvivalMono = Caixa de Sobrevivência de Emergência
+    .suffix = Oxigênio
+    .desc = Uma caixa de sobrevivência dedicada, padrão para o setor Colossus. Contém ferramentas úteis para mantê-lo vivo em uma emergência.
 
 # From: _Mono/Catalogs/Fills/Boxes/general.yml
 
-ent-BoxEnvelopeManila = manila envelope box
-    .desc = A box filled with manila envelopes.
+ent-BoxEnvelopeManila = caixa de envelopes manilha
+    .desc = Uma caixa cheia de envelopes manilha.
 
 # From: _Mono/Catalogs/Fills/Crates/armor_plates.yml
 
-ent-CratePlateBlunt_Slash = Blunt/Slash armor plate crate
-    .desc = Contains two (2) blunt/slash ballistic armor plates.
+ent-CratePlateBlunt_Slash = caixa de placas de armação contundente/cortante
+    .desc = Contém duas (2) placas de armação balística contundente/cortante.
 
 # From: _Mono/Catalogs/Fills/Crates/nanotrasen.yml
 
-ent-CrateNanotrasenLootFilledT1 = NT equipment crate
+ent-CrateNanotrasenLootFilledT1 = caixa de equipamento NT
     .suffix = Filled, Lootbox, T1
-    .desc = A white and blue crate with the Nanotrasen Symbol, a relic from the corporation wars, could contain some interesting things.
+    .desc = Uma caixa branca e azul com o Símbolo da Nanotrasen, uma relíquia das guerras corporativas, pode conter algumas coisas interessantes.
 
-ent-CrateNanotrasenLootFilledT2 = NT equipment crate
+ent-CrateNanotrasenLootFilledT2 = caixa de equipamento NT
     .suffix = Filled, Lootbox, T2
-    .desc = A white and blue crate with the Nanotrasen Symbol, a relic from the corporation wars, could contain some interesting things.
+    .desc = Uma caixa branca e azul com o Símbolo da Nanotrasen, uma relíquia das guerras corporativas, pode conter algumas coisas interessantes.
 
-ent-CrateNanotrasenLootFilledT3 = menacing NT equipment crate
+ent-CrateNanotrasenLootFilledT3 = ameaçadora caixa de equipamento NT
     .suffix = Filled, Lootbox, T3
-    .desc = A white and blue crate with the Nanotrasen Symbol, a relic from the corporation wars, could contain some interesting things.
+    .desc = Uma caixa branca e azul com o Símbolo da Nanotrasen, uma relíquia das guerras corporativas, pode conter algumas coisas interessantes.
 
 # From: _Mono/Catalogs/Fills/Crates/shipgun_ammo.yml
 
-ent-CrateAmmoBox140mm = Longbow 140mm HE box
-    .desc = Contains one box of 140mm HEAT ammunition. Provides an artillery piece with infinite HEAT rounds. Buy in case you lost the ammo it came with.
+ent-CrateAmmoBox140mm = caixa de 140mm HE Longbow
+    .desc = Contém uma caixa de munição HEAT de 140mm. Fornece uma peça de artilharia com munições HEAT infinitas. Compre caso você tenha perdido a munição que veio com ela.
 
-ent-CrateAmmoBox20mm = L85 20mm solid drum box
-    .desc = Contains one box of 20mm solid ammunition. Provides an artillery piece with infinite solid rounds. Buy in case you lost the ammo it came with.
+ent-CrateAmmoBox20mm = caixa de tambor de 20mm sólido L85
+    .desc = Contém uma caixa de munição sólida de 20mm. Fornece uma peça de artilharia com munições sólidas infinitas. Compre caso você tenha perdido a munição que veio com ela.
 
-ent-CrateAmmoBox30mm = Draupnir 30mm solid drum box
-    .desc = Contains one box of 30mm solid ammunition. Provides an artillery piece with infinite solid rounds. Buy in case you lost the ammo it came with.
+ent-CrateAmmoBox30mm = caixa de tambor de 30mm sólido Draupnir
+    .desc = Contém uma caixa de munição sólida de 30mm. Fornece uma peça de artilharia com munições sólidas infinitas. Compre caso você tenha perdido a munição que veio com ela.
 
-ent-CrateAmmoBox57mm = AK-570 57mm HE drum box
-    .desc = Contains one box of 57mm high-explosive ammunition. Provides an artillery piece with infinite high-explosive rounds. Buy in case you lost the ammo it came with.
+ent-CrateAmmoBox57mm = caixa de tambor de 57mm HE AK-570
+    .desc = Contém uma caixa de munição de alto explosivo de 57mm. Fornece uma peça de artilharia com munições de alto explosivo infinitas. Compre caso você tenha perdido a munição que veio com ela.
 
-ent-CrateAmmoBox90mm = Dravon 90mm HE box
-    .desc = Contains one box of 90mm high-explosive ammunition. Provides an artillery piece with infinite high-explosive rounds. Buy in case you lost the ammo it came with.
+ent-CrateAmmoBox90mm = caixa de 90mm HE Dravon
+    .desc = Contém uma caixa de munição de alto explosivo de 90mm. Fornece uma peça de artilharia com munições de alto explosivo infinitas. Compre caso você tenha perdido a munição que veio com ela.
 
-ent-CrateAmmoBoxCharon = 280mm CHARON 26.5kg slug cartridge box
-    .desc = Contains 3 slugs.
+ent-CrateAmmoBoxCharon = caixa de cartucho de projétil de 26,5kg CHARON 280mm
+    .desc = Contém 3 projéteis.
 
-ent-CrateAmmoBoxR300 = 430mm R-300 HE shell box
-    .desc = Contains 3 HE shells.
+ent-CrateAmmoBoxR300 = caixa de projétil HE de 430mm R-300
+    .desc = Contém 3 projéteis HE.
 
-ent-CrateAmmoBoxTovek = ASM-250 Tovek EMPHE missile box
-    .desc = Contains 4 missiles, 2 loads worth.
+ent-CrateAmmoBoxTovek = caixa de míssil EMPHE ASM-250 Tovek
+    .desc = Contém 4 mísseis, 2 cargas.
 
-ent-CrateAmmoBoxVanyk = ASM-150 Vanyk HEAT missile box
-    .desc = Contains 60 missles. 2 full loads.
+ent-CrateAmmoBoxVanyk = caixa de míssil HEAT ASM-150 Vanyk
+    .desc = Contém 60 mísseis. 2 cargas completas.
 
-ent-CrateAmmoBoxVespera = ADMP-50 Vespera HE missile box
-    .desc = Contains 12 bursts of 13 high-explosive missiles. 2 full loads.
+ent-CrateAmmoBoxVespera = caixa de míssil HE ADMP-50 Vespera
+    .desc = Contém 12 rajadas de 13 mísseis de alto explosivo. 2 cargas completas.
 
 # From: _Mono/Catalogs/Fills/Crates/vending.yml
 
-ent-CrateVendingMachineRestockBaristaFilled = BaristaVend Restock Crate
-    .desc = Contains a restock box for the BaristaVend.
+ent-CrateVendingMachineRestockBaristaFilled = Caixa de Reposição BaristaVend
+    .desc = Contém uma caixa de reposição para o BaristaVend.
 
 # From: _Mono/Catalogs/Fills/Lockers/salvmaint_locker.yml
 
-ent-MonoMaintenanceFluffSpawner = Mono Maint Loot Spawner
+ent-MonoMaintenanceFluffSpawner = Gerador de Loot Mono Maint
     .suffix = Fluff+Clothes
 
-ent-MonoMaintenanceToolSpawner = Mono Maint Loot Spawner
+ent-MonoMaintenanceToolSpawner = Gerador de Loot Mono Maint
     .suffix = Tools+Cells+Mats
 
-ent-MonoMaintenanceWeaponSpawner = Mono Maint Loot Spawner
+ent-MonoMaintenanceWeaponSpawner = Gerador de Loot Mono Maint
     .suffix = Scrap+Weapons
 
 # From: _Mono/Catalogs/Fills/Lockers/vizier_locker.yml
 
-ent-LockerVizier = grand vizier's locker
+ent-LockerVizier = armário do grão-vizir
 
 # From: _Mono/Catalogs/Fills/Paper/manuals.yml
 
-ent-PaperWrittenTeaGuide = How 2 Make Tea 4 Dorks
-    .desc = A quick guide to tea preparation.
+ent-PaperWrittenTeaGuide = Como Fazer Chá Para Iniciantes
+    .desc = Um guia rápido para preparação de chá.
 
 # From: _Mono/Catalogs/Fills/StorageFillTemplates/departmental_eva.yml
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitDME =
-    .desc = Contains a standard issue DME Contractor EVA kit.
+ent-StorageFillEVASuitDME
+    .desc = Contém um kit EVA de contratante DME padrão.
 
 # From: _Mono/CorticalBorer/cortical_borer_species.yml
 
-ent-CorticalBorerEgg = cortical borer egg
-    .desc = This egg is so nice and wet and soft...
+ent-CorticalBorerEgg = ovo de perfurador cortical
+    .desc = Este ovo é tão bonito e molhado e macio...
 
-ent-MobCorticalBorer = Cortical Borer
-    .desc = A worm that burrows into brains and lays its eggs
+ent-MobCorticalBorer = Perfurador Cortical
+    .desc = Uma minhoca que escava em cérebros e põe seus ovos
 
 # From: _Mono/Entities/Clothing/AmmoLoader/ammo_loader.yml
 
-ent-AmmoLoader = ammo loader
-    .desc = A pneumatic ammunition loading system manufactured by Erebus HI. Link it to ship artillery with a multitool to transfer ammunition. This model supports 8 guns.
+ent-AmmoLoader = carregador de munição
+    .desc = Um sistema pneumático de carregamento de munição fabricado pela Erebus HI. Conecte à artilharia da nave com uma ferramenta multiúso para transferir munição. Este modelo suporta 8 armas.
 
-ent-AmmoLoaderSmall = small ammo loader
-    .desc = A pneumatic ammunition loading system manufactured by Erebus HI. Link it to ship artillery with a multitool to transfer ammunition. This model supports only 2 guns, but is more durable.
+ent-AmmoLoaderSmall = carregador de munição pequeno
+    .desc = Um sistema pneumático de carregamento de munição fabricado pela Erebus HI. Conecte à artilharia da nave com uma ferramenta multiúso para transferir munição. Este modelo suporta apenas 2 armas, mas é mais durável.
 
 # From: _Mono/Entities/Clothing/Armband/armbands.yml
 
-ent-ClothingArmbandBlack = black armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandBlack = braçadeira preta
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandBlue = blue armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandBlue = braçadeira azul
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandDarkBlue = dark blue armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandDarkBlue = braçadeira azul escuro
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandDarkGreen = dark green armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandDarkGreen = braçadeira verde escuro
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandDarkPurple = dark purple armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandDarkPurple = braçadeira roxa escura
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandDarkRed = dark red armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandDarkRed = braçadeira vermelha escura
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandDarkYellow = dark yellow armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandDarkYellow = braçadeira amarela escura
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandGray = gray armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandGray = braçadeira cinza
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandGreen = green armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandGreen = braçadeira verde
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandPurple = purple armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandPurple = braçadeira roxa
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandRed = red armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandRed = braçadeira vermelha
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandUNSA = UNSA vanguard armband
-    .desc = An armband bearing the flag of the Universal States of America, worn by Vanguards for indentification.
+ent-ClothingArmbandUNSA = braçadeira de vanguarda da UNSA
+    .desc = Uma braçadeira com a bandeira dos Estados Unidos da Universal, usada por Vanguardas para identificação.
 
-ent-ClothingArmbandUSA = USA armband
-    .desc = An armband bearing the flag of the United States of America, worn by true patriots.
+ent-ClothingArmbandUSA = braçadeira dos EUA
+    .desc = Uma braçadeira com a bandeira dos Estados Unidos da América, usada por verdadeiros patriotas.
 
-ent-ClothingArmbandWhite = white armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandWhite = braçadeira branca
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
-ent-ClothingArmbandYellow = yellow armband
-    .desc = A basic colored armband for tactical or fashion purpose.
+ent-ClothingArmbandYellow = braçadeira amarela
+    .desc = Uma braçadeira colorida básica para propósito tático ou de moda.
 
 # From: _Mono/Entities/Clothing/Back/backpacks.yml
 
-ent-ClothingBackpackDrakeIndustries = drake industries backpack
-    .desc = A backpack for any affiliated members of drake industries. Sure is cheap, but at least fashionable.
+ent-ClothingBackpackDrakeIndustries = mochila da Drake Industries
+    .desc = Uma mochila para quaisquer membros afiliados da Drake Industries. Certamente é barata, mas pelo menos é estilosa.
 
 # From: _Mono/Entities/Clothing/Back/duffel.yml
 
-ent-ClothingBackpackDuffelDrakeIndustries = drake industries duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail. It bears the colors of Drake Industries.
+ent-ClothingBackpackDuffelDrakeIndustries = mochila tipo da Drake Industries
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso. Carrega as cores da Drake Industries.
 
-ent-ClothingBackpackDuffelTacticalDuffelBlack = black tactical duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail.
+ent-ClothingBackpackDuffelTacticalDuffelBlack = mochila tática preta
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso.
 
-ent-ClothingBackpackDuffelTacticalDuffelCoyoteBrown = coyote brown tactical duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail.
+ent-ClothingBackpackDuffelTacticalDuffelCoyoteBrown = mochila tática coyote brown
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso.
 
-ent-ClothingBackpackDuffelTacticalDuffelOlive = olive tactical duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail.
+ent-ClothingBackpackDuffelTacticalDuffelOlive = mochila tática oliva
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso.
 
-ent-ClothingBackpackDuffelTacticalDuffelRangerGreen = ranger green tactical duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail.
+ent-ClothingBackpackDuffelTacticalDuffelRangerGreen = mochila tática ranger green
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso.
 
-ent-ClothingBackpackDuffelTacticalDuffelTan = tan tactical duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail.
+ent-ClothingBackpackDuffelTacticalDuffelTan = mochila tática tan
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso.
 
-ent-ClothingBackpackDuffelTacticalDuffelWhite = white tactical duffel
-    .desc = One heavy sack. Some effort was put in to make it lighter to no avail.
+ent-ClothingBackpackDuffelTacticalDuffelWhite = mochila tática branca
+    .desc = Um saco pesado. Algum esforço foi colocado para torná-lo mais leve sem sucesso.
 
 # From: _Mono/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitMercenary = mercenary gallóglach hardsuit control unit
-    .desc = A modular hardsuit control module unit equipped with enhanced actuators in the legs to allow for rapid assault or retreat actions.
+ent-ClothingModsuitMercenary = unidade de controle de rígido gallóglach mercenário
+    .desc = Uma unidade de módulo de controle de rígido modular equipada com atuadores aprimorados nas pernas para permitir ações rápidas de assalto ou retirada.
 
-ent-ClothingModsuitRogue = RX-01 hardsuit control unit
-    .desc = Core control unit for the RX-01. Survives power spikes, hull breaches, and black market ingenuity. Somehow. Also has built in experimental voidboots.
+ent-ClothingModsuitRogue = unidade de controle de rígido RX-01
+    .desc = Unidade de controle central para o RX-01. Sobrevive a picos de energia, rompimentos de casco e engenhosidade do mercado negro. De alguma forma. Também tem botas de vácuo experimentais embutidas.
 
-ent-ClothingModsuitUSSPVaryag = USSP Varyag Modsuit Core
-    .desc = The power and life-support core of the Varyag modsuit.
+ent-ClothingModsuitUSSPVaryag = Núcleo de Modsuit Varyag da USSP
+    .desc = O núcleo de energia e suporte de vida do modsuit Varyag.
 
-ent-ClothingModsuitUSSPZastavnik = USSP Zastavnik Modsuit Core
-    .desc = The sealed backpack unit powering the Zastavnik suit’s life support and locking mechanisms.
+ent-ClothingModsuitUSSPZastavnik = Núcleo de Modsuit Zastavnik da USSP
+    .desc = A unidade de mochila selada alimentando os mecanismos de suporte de vida e travamento do traje Zastavnik.
 
-ent-ClothingModsuitVolta = TSF Volta Experimental Modsuit
-    .desc = A modified sidegrade of the sapper modsuit model for TSFMC, featuring improved ballistic plates and explosion deflecting systems.
+ent-ClothingModsuitVolta = Modsuit Experimental Volta da TSF
+    .desc = Uma modificação alternativa do modelo de modsuit sapador para a TSFMC, apresentando placas balísticas aprimoradas e sistemas de deflexão de explosão.
 
 # From: _Mono/Entities/Clothing/Back/satchel.yml
 
-ent-ClothingBackpackSatchelDrakeIndustries = drake industries satchel
-    .desc = The synthetic cloth it's made off looks pretty cheap, is that buckle coming off ? It bears the colors of Drake Industries
+ent-ClothingBackpackSatchelDrakeIndustries = pochete da Drake Industries
+    .desc = O pano sintético que é feito parece bem barato, aquela fivela está saindo? Carrega as cores da Drake Industries.
 
 # From: _Mono/Entities/Clothing/Back/specific.yml
 
-ent-ClothingBackpackDuffelPDV = vanguard tactical duffel
-    .desc = A tactical duffel bag developed for the dynast troops of Helios.
+ent-ClothingBackpackDuffelPDV = mochila tática de vanguarda
+    .desc = Uma mochila tática desenvolvida para as tropas dinastá de Hélio.
 
-ent-ClothingBackpackDuffelTsfmc = TSFMC duffel bag
-    .desc = Part of a standard marine load bearing system.
+ent-ClothingBackpackDuffelTsfmc = mochila da TSFMC
+    .desc = Parte de um sistema padrão de carregamento de fuzileiro.
 
-ent-ClothingBackpackDuffelUSSP = USSP duffel bag
-    .desc = This is evidently repurposed from some industrial use.
+ent-ClothingBackpackDuffelUSSP = mochila da USSP
+    .desc = Isso é evidentemente reaproveitado de algum uso industrial.
 
-ent-ClothingBackpackJack = GS-004-B Hammer ammo storage
-    .desc = A heavy backpack made for carrying the GS-004-A's loading system.
+ent-ClothingBackpackJack = armazenamento de munição GS-004-B Hammer
+    .desc = Uma mochila pesada feita para carregar o sistema de carregamento do GS-004-A.
 
-ent-ClothingBackpackPDV = vanguard tactical backpack
-    .desc = A tactical backpack developed for the dynast troops of Helios.
+ent-ClothingBackpackPDV = mochila tática de vanguarda
+    .desc = Uma mochila tática desenvolvida para as tropas dinastá de Hélio.
 
-ent-ClothingBackpackSatchelPDV = vanguard tactical satchel
-    .desc = A tactical satchel developed for the dynast troops of Helios.
+ent-ClothingBackpackSatchelPDV = pochete tática de vanguarda
+    .desc = Uma pochete tática desenvolvida para as tropas dinastá de Hélio.
 
-ent-ClothingBackpackSatchelTsfmc = TSFMC satchel
-    .desc = Part of a standard marine load bearing system.
+ent-ClothingBackpackSatchelTsfmc = pochete da TSFMC
+    .desc = Parte de um sistema padrão de carregamento de fuzileiro.
 
-ent-ClothingBackpackSatchelUSSP = USSP satchel
-    .desc = This is evidently repurposed from some industrial use.
+ent-ClothingBackpackSatchelUSSP = pochete da USSP
+    .desc = Isso é evidentemente reaproveitado de algum uso industrial.
 
-ent-ClothingBackpackTsfmc = TSFMC backpack
-    .desc = Part of a standard marine load bearing system.
+ent-ClothingBackpackTsfmc = mochila da TSFMC
+    .desc = Parte de um sistema padrão de carregamento de fuzileiro.
 
-ent-ClothingBackpackUSSP = USSP backpack
-    .desc = This is evidently repurposed from some industrial use.
+ent-ClothingBackpackUSSP = mochila da USSP
+    .desc = Isso é evidentemente reaproveitado de algum uso industrial.
 
 # From: _Mono/Entities/Clothing/Balaclava/balaclavas.yml
 
-ent-ClothingBalaclavaClassicBlack = black classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicBlack = clássica máscara preta
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicBlue = blue classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicBlue = clássica máscara azul
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicCoyoteBrown = coyote brown classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicCoyoteBrown = clássica máscara coyote brown
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicGray = gray classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicGray = clássica máscara cinza
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicGreen = green classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicGreen = clássica máscara verde
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthBlack = black classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthBlack = clássica máscara preta (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthBlue = blue classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthBlue = clássica máscara azul (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthCoyoteBrown = coyote brown classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthCoyoteBrown = clássica máscara coyote brown (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthGray = gray classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthGray = clássica máscara cinza (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthGreen = green classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthGreen = clássica máscara verde (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthPurple = purple classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthPurple = clássica máscara roxa (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthRangerGreen = ranger green classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthRangerGreen = clássica máscara ranger green (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthRed = red classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthRed = clássica máscara vermelha (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthTan = tan classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthTan = clássica máscara tan (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthWhite = white classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthWhite = clássica máscara branca (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicMouthYellow = yellow classic balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicMouthYellow = clássica máscara amarela (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicPurple = purple classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicPurple = clássica máscara roxa
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicRangerGreen = ranger green classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicRangerGreen = clássica máscara ranger green
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicRed = red classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicRed = clássica máscara vermelha
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicTan = tan classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicTan = clássica máscara tan
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicWhite = white classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicWhite = clássica máscara branca
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaClassicYellow = yellow classic balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaClassicYellow = clássica máscara amarela
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskBlack = black ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskBlack = máscara de ski preta
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskBlue = blue ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskBlue = máscara de ski azul
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskCoyoteBrown = coyote brown ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskCoyoteBrown = máscara de ski coyote brown
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskGray = gray ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskGray = máscara de ski cinza
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskGreen = green ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskGreen = máscara de ski verde
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthBlack = black ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthBlack = máscara de ski preta (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthBlue = blue ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthBlue = máscara de ski azul (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthCoyoteBrown = coyote brown ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthCoyoteBrown = máscara de ski coyote brown (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthGray = gray ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthGray = máscara de ski cinza (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthGreen = green ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthGreen = máscara de ski verde (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthPurple = purple ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthPurple = máscara de ski roxa (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthRangerGreen = ranger green ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthRangerGreen = máscara de ski ranger green (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthRed = red ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthRed = máscara de ski vermelha (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthTan = tan ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthTan = máscara de ski tan (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthWhite = white ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthWhite = máscara de ski branca (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskMouthYellow = yellow ski mask balaclava (mouth)
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskMouthYellow = máscara de ski amarela (boca)
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskPurple = purple ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskPurple = máscara de ski roxa
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskRangerGreen = ranger green ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskRangerGreen = máscara de ski ranger green
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskRed = red ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskRed = máscara de ski vermelha
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskTan = tan ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskTan = máscara de ski tan
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskWhite = white ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskWhite = máscara de ski branca
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
-ent-ClothingBalaclavaSkiMaskYellow = yellow ski mask balaclava
-    .desc = A colored balaclava to make you look menacing.
+ent-ClothingBalaclavaSkiMaskYellow = máscara de ski amarela
+    .desc = Uma máscara colorida para fazer você parecer ameaçador.
 
 # From: _Mono/Entities/Clothing/Belt/belts.yml
 
-ent-ClothingBeltDrakeIndustries = drake industries webbing
-    .desc = Much less durable than the leather regular salvage rigs are made of, at least it comes in black. Painted with Drake Industries' colors.
+ent-ClothingBeltDrakeIndustries = cinturão tático da Drake Industries
+    .desc = Muito menos durável que o couro que os equipamentos de salvatagem regulares são feitos, pelo menos vem em preto. Pintado com as cores da Drake Industries.
 
-ent-ClothingBeltSheathVizier = grand vizier's sheath
-    .desc = A paired sheath and holster, custom made for grand viziers of the PDV to carry the weapons of their office.
+ent-ClothingBeltSheathVizier = bainha do grão-vizir
+    .desc = Uma bainha e coldre pareados, feitos sob medida para grão-vizires da PDV para carregar as armas de seu cargo.
 
-ent-ClothingBeltWebbingsBigBase = large chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsBigBase = colete tático grande
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsBigBlack = black large chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsBigBlack = colete tático grande preto
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsBigOlive = olive large chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsBigOlive = colete tático grande oliva
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsBigRangerGreen = ranger green large chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsBigRangerGreen = colete tático grande ranger green
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsBigTan = tan large chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsBigTan = colete tático grande tan
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsBigTSFMC = TSFMC large chest rig
-    .desc = A set of tactical webbing worn by marines.
+ent-ClothingBeltWebbingsBigTSFMC = colete tático grande da TSFMC
+    .desc = Um conjunto de equipamentos táticos usados por fuzileiros.
 
-ent-ClothingBeltWebbingsNormalBlack = black chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsNormalBlack = colete tático preto
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsNormalOlive = olive chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsNormalOlive = colete tático oliva
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsNormalRangerGreen = ranger green chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsNormalRangerGreen = colete tático ranger green
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsNormalTan = tan chest rig
-    .desc = A set of tactical webbing worn by boarding parties.
+ent-ClothingBeltWebbingsNormalTan = colete tático tan
+    .desc = Um conjunto de equipamentos táticos usados por party de abordagem.
 
-ent-ClothingBeltWebbingsNormalTSFMC = TSFMC chest rig
-    .desc = A set of tactical webbing worn by marines.
+ent-ClothingBeltWebbingsNormalTSFMC = colete tático da TSFMC
+    .desc = Um conjunto de equipamentos táticos usados por fuzileiros.
 
 # From: _Mono/Entities/Clothing/Ears/headsets.yml
 
-ent-ClothingHeadsetAltTsfmc = TSFMC over-ear headset
+ent-ClothingHeadsetAltTsfmc = fone de ouvido sobre-orelha da TSFMC
 
-ent-ClothingHeadsetAltTsfmcCommander = TSFMC command over-ear headset
+ent-ClothingHeadsetAltTsfmcCommander = fone de ouvido de comando sobre-orelha da TSFMC
 
-ent-ClothingHeadsetAltTsfmcMarsoc = TSFMC MARSOC over-ear headset
+ent-ClothingHeadsetAltTsfmcMarsoc = fone de ouvido sobre-orelha MARSOC da TSFMC
 
-ent-ClothingHeadsetAltTsfmcMarsocFtl = TSFMC MARSOC command over-ear headset
+ent-ClothingHeadsetAltTsfmcMarsocFtl = fone de ouvido de comando MARSOC sobre-orelha da TSFMC
 
-ent-ClothingHeadsetAltVanguardCommand = vanguard command over-ear headset
+ent-ClothingHeadsetAltVanguardCommand = fone de ouvido de comando de vanguarda sobre-orelha
 
-ent-ClothingHeadsetTsfmc = TSFMC headset
+ent-ClothingHeadsetTsfmc = fone de ouvido da TSFMC
 
-ent-ClothingHeadsetUSSP = USSP headset
-    .desc = The standard-issue headset of the USSP Armed Forces for decades. This headset will accept standard encryption keys and comes prefitted with a key for USSP Tactical Communications.
+ent-ClothingHeadsetUSSP = fone de ouvido da USSP
+    .desc = O fone de ouvido padrão das Forças Armadas da USSP por décadas. Este fone de ouvido aceita chaves de criptografia padrão e vem pré-configurado com uma chave para Comunicações Táticas da USSP.
 
-ent-ClothingHeadsetUSSPCommand = USSP command headset
-    .desc = A modular headset issued exclusively to high ranking USSP personnel. This headset will accept standard encryption keys and comes prefitted with a key for USSP Tactical Communications. Switching to the Strategic channel produces only static.
+ent-ClothingHeadsetUSSPCommand = fone de ouvido de comando da USSP
+    .desc = Um fone de ouvido modular emitido exclusivamente para pessoal de alto escalão da USSP. Este fone de ouvido aceita chaves de criptografia padrão e vem pré-configurado com uma chave para Comunicações Táticas da USSP. Alternar para o canal Estratégico produz apenas estática.
 
-ent-ClothingHeadsetViper = Viper Group headset
-    .desc = The standard-issue headset of Viper Group mercenaries, This headset will accept standard encryption keys and comes prefitted with a key for Tactical Communications.
+ent-ClothingHeadsetViper = fone de ouvido do Grupo Víper
+    .desc = O fone de ouvido padrão dos mercenários do Grupo Víper. Este fone de ouvido aceita chaves de criptografia padrão e vem pré-configurado com uma chave para Comunicações Táticas.
 
 # From: _Mono/Entities/Clothing/Eyes/glasses.yml
 
-ent-ClothingEyesBallisticGlassesGreen = green ballistic glasses
-    .desc = A pair of ballistic glasses with green lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGlassesGreen = óculos balísticos verdes
+    .desc = Um par de óculos balísticos com lentes verdes e microchips integrados de escaneamento de saúde.
 
-ent-ClothingEyesBallisticGlassesOrange = orange ballistic glasses
-    .desc = A pair of ballistic glasses with orange lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGlassesOrange = óculos balísticos laranja
+    .desc = Um par de óculos balísticos com lentes laranja e microchips integrados de escaneamento de saúde.
 
-ent-ClothingEyesBallisticGlassesRed = red ballistic glasses
-    .desc = A pair of ballistic glasses with red lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGlassesRed = óculos balísticos vermelhos
+    .desc = Um par de óculos balísticos com lentes vermelhas e microchips integrados de escaneamento de saúde.
 
-ent-ClothingEyesBallisticGogglesGreen = green ballistic goggles
-    .desc = A pair of ballistic goggles with green lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGogglesGreen = óculos de proteção balísticos verdes
+    .desc = Um par de óculos de proteção balísticos com lentes verdes e microchips integrados de escaneamento de saúde.
 
-ent-ClothingEyesBallisticGogglesOrange = orange ballistic goggles
-    .desc = A pair of ballistic goggles with orange lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGogglesOrange = óculos de proteção balísticos laranja
+    .desc = Um par de óculos de proteção balísticos com lentes laranja e microchips integrados de escaneamento de saúde.
 
-ent-ClothingEyesBallisticGogglesRed = red ballistic goggles
-    .desc = A pair of ballistic goggles with red lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGogglesRed = óculos de proteção balísticos vermelhos
+    .desc = Um par de óculos de proteção balísticos com lentes vermelhas e microchips integrados de escaneamento de saúde.
 
-ent-ClothingEyesTSFOfficerGlasses = TSF commander shades
-    .desc = A high tech heads up display purpose built for Federation officers. Usually issued to the commanding officer of a company.
+ent-ClothingEyesTSFOfficerGlasses = óculos de escurecimento de comandante da TSF
+    .desc = Um visor de cabeça de alta tecnologia construído especificamente para oficiais da Federação. Geralmente emitido para o oficial comandante de uma companhia.
 
 # From: _Mono/Entities/Clothing/Hands/gloves.yml
 
-ent-ClothingHandsConcussiveGauntlets = concussive gauntlets
-    .desc = A pair of gauntlets designed for mining usage, delivering shocks to shatter anything in their path. Expensive and powerful
+ent-ClothingHandsConcussiveGauntlets = manoplas de concussão
+    .desc = Um par de manoplas projetadas para uso em mineração, entregando choques para quebrar qualquer coisa em seu caminho. Caras e poderosas.
 
-ent-ClothingHandsGlovesMopp = MOPP gloves
-    .desc = High-quality rubber gloves, insulated for better CBRN protection.
+ent-ClothingHandsGlovesMopp = luvas MOPP
+    .desc = Luvas de borracha de alta qualidade, isoladas para melhor proteção CBRN.
 
-ent-ClothingHandsGlovesTacticalCombatBlack = black tactical combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatBlack = luvas de combate táticas pretas
+    .desc = Essas luvas táticas são à prova de fogo e resistentes a choques.
 
-ent-ClothingHandsGlovesTacticalCombatCoyoteBrown = coyote brown tactical combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatCoyoteBrown = luvas de combate táticas coyote brown
+    .desc = Essas luvas táticas são à prova de fogo e resistentes a choques.
 
-ent-ClothingHandsGlovesTacticalCombatOlive = olive tactical combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatOlive = luvas de combate táticas oliva
+    .desc = Essas luvas táticas são à prova de fogo e resistentes a choques.
 
-ent-ClothingHandsGlovesTacticalCombatRangerGreen = ranger green tactical combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatRangerGreen = luvas de combate táticas ranger green
+    .desc = Essas luvas táticas são à prova de fogo e resistentes a choques.
 
-ent-ClothingHandsGlovesTacticalCombatTan = tan tactical combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatTan = luvas de combate táticas tan
+    .desc = Essas luvas táticas são à prova de fogo e resistentes a choques.
 
-ent-ClothingHandsGlovesTacticalCombatWhite = white tactical combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatWhite = luvas de combate táticas brancas
+    .desc = Essas luvas táticas são à prova de fogo e resistentes a choques.
 
 # From: _Mono/Entities/Clothing/Hands/modsuit.yml
 
-ent-ClothingModsuitGauntletsMercenary = mercenary modsuit gauntlets
-    .desc = The knuckle guards glow when you seal the suit...for no apparent reason. Doubles as literal Finger Guns chambered in .45, so they literally pack a punch and then some.
+ent-ClothingModsuitGauntletsMercenary = manoplas de modsuit mercenário
+    .desc = Os protetores de nós dos dedos brilham quando você veste o traje...por nenhuma razão aparente. Dobra como Pistolas de Dedos literais em .45, então elas literalmente dão um soco e depois um pouco mais.
 
-ent-ClothingModsuitGauntletsRogue = RX-01 modsuit gauntlets
-    .desc = Non-conductive mesh, pressure-sealed seams. Surprisingly legal. Proudly produced in Sector by Ullman Industries.
+ent-ClothingModsuitGauntletsRogue = manoplas de modsuit RX-01
+    .desc = Malha não condutora, costuras vedadas à pressão. Surpreendentemente legal. Orgulhosamente produzido no Setor pela Ullman Industries.
 
 ent-ClothingModsuitGauntletsUSSPVaryag = Ruki Varyaga
-    .desc = Pressure-sealing and shock-resistant gauntlets.
+    .desc = Manoplas de vedação à pressão e resistentes a choques.
 
 ent-ClothingModsuitGauntletsUSSPZastavnik = Kuvshiny Zastavnika
-    .desc = Oversized gauntlets with reinforced knuckles and integrated crush dampeners.
+    .desc = Manoplas grandes com nós reforçados e amortecedores de esmagamento integrados.
 
-ent-ClothingModsuitGauntletsVolta = Volta Modsuit Gauntlets
-    .desc = Oil stained modular suit gloves for easily pushing buttons on an RCD.
+ent-ClothingModsuitGauntletsVolta = Manoplas de Modsuit Volta
+    .desc = Luvas de traje modular manchadas de óleo para pressionar botões facilmente em um RCD.
 
 # From: _Mono/Entities/Clothing/Head/Cloaks/cloaks.yml
 
-ent-ClothingHeadHatCOG = Old robe
-    .desc = An ancient crimson draping from a now-defunct cult.
+ent-ClothingHeadHatCOG = Antiga túnica
+    .desc = Um antigo drapéu carmesim de um culto agora extinto.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/asakim.yml
 
-ent-ClothingHelmetHardsuitAsakim = kasature-pattern combat harness helmet
-    .desc = Part of an advanced pre-fracture combat harness.
+ent-ClothingHelmetHardsuitAsakim = capacete de arreio de combate padrão kasature
+    .desc = Parte de um arreio de combate pré-fratura avançado.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/c_sec.yml
 
-ent-ClothingHelmetHardsuitCsecMpeva = CSEC MP-EVA helmet
-    .desc = Heavy all-environment sealed helmet. Outfitted with basic NVD equipment.
+ent-ClothingHelmetHardsuitCsecMpeva = capacete MP-EVA da CSEC
+    .desc = Capacete vedado pesado para todos os ambientes. Equipado com equipamento básico de VNV.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/mercenaries.yml
 
-ent-ClothingHeadHelmetHardsuitScaf = scaf hardsuit helmet
-    .desc = A robust, strong helmet. On the inside smells of pent up anger.
+ent-ClothingHeadHelmetHardsuitScaf = capacete de rígido scaf
+    .desc = Um capacete robusto e forte. Por dentro cheira a raiva contida.
 
-ent-ClothingHelmetHardsuitMercenaryWarlord = WL-01 helmet
-    .desc = A heavy headgear piece accompanying the Warlord suit, it offers flash inmunity aswell mass scanner support.
+ent-ClothingHelmetHardsuitMercenaryWarlord = capacete WL-01
+    .desc = Uma peça de proteção para a cabeça pesada que acompanha o traje Warlord, oferece imunidade a flash bem como suporte para scanner de massa.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/phaethon_dynasty.yml
 
-ent-ClothingHeadHelmetHardsuitAshen = PDV CV-32 combat hardsuit helmet
-    .desc = A combat hardsuit helmet designed by the Phaethon Dynasty.
+ent-ClothingHeadHelmetHardsuitAshen = capacete de rígido de combate CV-32 da PDV
+    .desc = Um capacete de rígido de combate projetado pela Dinastia Phaethon.
 
-ent-ClothingHeadHelmetHardsuitAshenElite = PDV CV-53 combat tacsuit helmet
-    .desc = Based off of the CV-32 hardsuit, this tacsuit sacrifices heavy armor plates for environmental protection.
+ent-ClothingHeadHelmetHardsuitAshenElite = capacete de tacsuit de combate CV-53 da PDV
+    .desc = Baseado no rígido CV-32, este tacsuit sacrifica placas de armadura pesada por proteção ambiental.
 
-ent-ClothingHeadHelmetHardsuitPDVMedic = PDV CV-82 combat tacsuit helmet
-    .desc = A hardsuit helmet by the Phaethon Dynasty. Has a built-in medical HUD complemented by thermal pulse systems.
+ent-ClothingHeadHelmetHardsuitPDVMedic = capacete de tacsuit de combate CV-82 da PDV
+    .desc = Um capacete de rígido pela Dinastia Phaethon. Tem um HUD médico embutido complementado por sistemas de pulso térmico.
 
-ent-ClothingHeadHelmetHardsuitVizier = PDV CV-67 combat hardsuit helmet
-    .desc = An adorned tacsuit designed with an imperfect nanolaminate composition. High maneuverability, sturdy armor.
+ent-ClothingHeadHelmetHardsuitVizier = capacete de rígido de combate CV-67 da PDV
+    .desc = Um tacsuit adornado projetado com uma composição imperfeita de nanolaminado. Alta mobilidade, armadura robusta.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/scaf_pirate.yml
 
-ent-ClothingHeadHelmetHardsuitPirateScaf = PDV SCAF hardsuit helmet
-    .desc = An old SCAF suit painted in an PDV tan color scheme. Has been outfitted with a thermal pulse scanner.
+ent-ClothingHeadHelmetHardsuitPirateScaf = capacete de rígido SCAF da PDV
+    .desc = Um traje SCAF antigo pintado em um esquema de cores tan da PDV. Foi equipado com um scanner de pulso térmico.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/trauma.yml
 
-ent-ClothingHeadHelmetHardsuitTrauma = armed trauma unit T-23 tacsuit helmet
-    .desc = The standard combat suit of the Armed Trauma Unit, outfitted with a limited-range radar hud as well as a medical hud.
+ent-ClothingHeadHelmetHardsuitTrauma = capacete de tacsuit T-23 de unidade de trauma armada
+    .desc = O traje de combate padrão da Unidade de Trauma Armada, equipado com um HUD de radar de alcance limitado bem como um hud médico.
 
-ent-ClothingHeadHelmetHardsuitTraumaLeader = armed trauma unit T-53 tacsuit helmet
-    .desc = The commander's tacsuit in the Armed Trauma Unit, outfitted with a medical and long-range radar hud as well as thermals and night vision.
+ent-ClothingHeadHelmetHardsuitTraumaLeader = capacete de tacsuit T-53 de unidade de trauma armada
+    .desc = O tacsuit de comandante na Unidade de Trauma Armada, equipado com um HUD médico e de radar de longo alcance bem como térmicos e visão noturna.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/tsfmc.yml
 
-ent-ClothingHeadHelmetHardsuitM82 = M82 helmet
-    .desc = The interchangeable helmet system for the majority of M82 hardsuits. Outfitted with a basic NVG system.
+ent-ClothingHeadHelmetHardsuitM82 = capacete M82
+    .desc = O sistema de capacete intercambiável para a maioria dos rígidos M82. Equipado com um sistema básico de VNV.
 
-ent-ClothingHeadHelmetHardsuitM86 = M86 helmet
-    .desc = Modified from M82 series helmets, outfitted with night-vision equipment and refined gel-layers.
+ent-ClothingHeadHelmetHardsuitM86 = capacete M86
+    .desc = Modificado a partir de capacetes da série M82, equipado com equipamento de visão noturna e camadas de gel refinadas.
 
-ent-ClothingHeadHelmetHardsuitNfsdCommand = TSFMC M93-C tacsuit helmet
-    .desc = Medium armored hardsuit helmet for TSFMC raids.
+ent-ClothingHeadHelmetHardsuitNfsdCommand = capacete de tacsuit M93-C da TSFMC
+    .desc = Capacete de rígido com blindagem média para incursões da TSFMC.
 
-ent-ClothingHeadHelmetHardsuitNfsdExperimental = TSFMC M92-X tacsuit helmet
-    .desc = Heavily armored hardsuit helmet for TSFMC raids.
+ent-ClothingHeadHelmetHardsuitNfsdExperimental = capacete de tacsuit M92-X da TSFMC
+    .desc = Capacete de rígido fortemente blindado para incursões da TSFMC.
 
-ent-ClothingHeadHelmetHardsuitNfsdSheriff = TSFMC M92 tacsuit helmet
-    .desc = An armored tacsuit helmet used by the TSFMC.
+ent-ClothingHeadHelmetHardsuitNfsdSheriff = capacete de tacsuit M92 da TSFMC
+    .desc = Um capacete de tacsuit blindado usado pela TSFMC.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/ui.yml
 
-ent-ClothingHelmetHardsuitUIDirector = U.I. VK-1 experimental helmet
-    .desc = A purpose built helmet designed by Felix Ullman, for Felix Ullman.
+ent-ClothingHelmetHardsuitUIDirector = capacete experimental VK-1 da U.I.
+    .desc = Um capacete construído especificamente projetado por Felix Ullman, para Felix Ullman.
 
-ent-ClothingHelmetHardsuitUIEnforcer = U.I. ENFORCER MKI helmet
-    .desc = Flash-proof lining, in built night vision system, and looks good as hell. Other than information display port being snapped, what's more to ask for?
+ent-ClothingHelmetHardsuitUIEnforcer = capacete ENFORCER MKI da U.I.
+    .desc = Forro à prova de flash, sistema de visão noturna embutido, e parece incrível. Além da porta de exibição de informações estar quebrada, o que mais pedir?
 
-ent-ClothingHelmetHardsuitUIEnforcerMKII = U.I. ENFORCER MKII Combat helmet
-    .desc = This top of the line helmet comes with flashproof lining, a mass scanner and an inbuilt medical diagnostic system.
+ent-ClothingHelmetHardsuitUIEnforcerMKII = Capacete de Combate ENFORCER MKII da U.I.
+    .desc = Este capacete de primeira linha vem com forro à prova de flash, um scanner de massa e um sistema médico de diagnóstico embutido.
 
-ent-ClothingHelmetHardsuitUIEngineer = U.I. engineering helmet
-    .desc = A cheap and effective hardsuit helmet, just with an extra black market touch.
+ent-ClothingHelmetHardsuitUIEngineer = capacete de engenharia da U.I.
+    .desc = Um capacete de rígido barato e eficaz, apenas com um toque extra de mercado negro.
 
-ent-ClothingHelmetHardsuitUIPilot = U.I. pilot helmet
-    .desc = A helmet for Ullman Industry pilots.
+ent-ClothingHelmetHardsuitUIPilot = capacete de piloto da U.I.
+    .desc = Um capacete para pilotos da Ullman Industry.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/unsa.yml
 
-ent-ClothingHeadHelmetHardsuitUNSAArmoredEva = armored EVA helmet
-    .desc = A standard EVA helmet modified by the UNSA as a cheap and cool-looking alternative to voidsuits for use by vanguards. The skull is a necessity.
+ent-ClothingHeadHelmetHardsuitUNSAArmoredEva = capacete de EVA blindado
+    .desc = Um capacete EVA padrão modificado pela UNSA como uma alternativa barata e legal para trajes de vácuo para uso por vanguardas. O crânio é uma necessidade.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/ussp.yml
 
-ent-ClothingHeadHelmetHardsuitOfficerCombat = USSP UF-16 \"Voenkom\" commissar tacsuit helmet
-    .desc = Cold, imposing, and unmistakably Union -- developed to instill discipline and fear. It's visor grants enhanced battlefield awareness with It's built-in command control map. Ideal for Commissars overseeing frontline operations.
+ent-ClothingHeadHelmetHardsuitOfficerCombat = capacete de tacsuit de comissário "Voenkom" UF-16 da USSP
+    .desc = Frio, imponente e inconfundivelmente da União -- desenvolvido para incutir disciplina e medo. Sua viseira concede consciência situacional aprimorada de campo de batalha com seu mapa de controle de comando embutido. Ideal para Comissários supervisionando operações de frente.
 
-ent-ClothingHeadHelmetHardsuitUsspL10 = USSP L-10 lightsuit helmet
-    .desc = An old USSP model of combat suit that is still in use in the frontlines.
+ent-ClothingHeadHelmetHardsuitUsspL10 = capacete de lightsuit L-10 da USSP
+    .desc = Um antigo modelo de traje de combate da USSP que ainda está em uso nas linhas de frente.
 
-ent-ClothingHeadHelmetHardsuitUsspL10A = USSP L-10-A lightsuit helmet
-    .desc = An old USSP model of combat suit that is still in use in the frontlines.
+ent-ClothingHeadHelmetHardsuitUsspL10A = capacete de lightsuit L-10-A da USSP
+    .desc = Um antigo modelo de traje de combate da USSP que ainda está em uso nas linhas de frente.
 
-ent-ClothingHeadHelmetHardsuitUsspL27 = USSP L-27 tacsuit helmet
-    .desc = The standard combat suit of USSP naval operations, outfitted with a medical hud too!
+ent-ClothingHeadHelmetHardsuitUsspL27 = capacete de tacsuit L-27 da USSP
+    .desc = O traje de combate padrão das operações navais da USSP, equipado com um HUD médico também!
 
-ent-ClothingHeadHelmetHardsuitUsspL30 = USSP L-30 Commissar parade hardsuit tactical helmet
-    .desc = The commissar's parade hardsuit helmet, outfitted with a medical hud too to check on the troops!
+ent-ClothingHeadHelmetHardsuitUsspL30 = capacete tático de rígido de desfile de comissário L-30 da USSP
+    .desc = O capacete de rígido de desfile de comissário, equipado com um HUD médico também para checar as tropas!
 
-ent-ClothingHeadHelmetHardsuitUsspM10 = USSP M-10 scoutsuit helmet
-    .desc = A new prototype of combat suit using the old L-10 as a baseline. It has a integrated mass scanner in his helmet.
+ent-ClothingHeadHelmetHardsuitUsspM10 = capacete de scoutsuit M-10 da USSP
+    .desc = Um novo protótipo de traje de combate usando o antigo L-10 como linha de base. Tem um scanner de massa integrado em seu capacete.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/viper_group.yml
 
-ent-ClothingHeadHelmetHardsuitViperGroupInitiate = BROOD mk.I viper hardsuit helmet
-    .desc = A hardsuit helmet with signature markings of the Viper Group. Has a built-in navigation system complemented by flash resistant viewports.
+ent-ClothingHeadHelmetHardsuitViperGroupInitiate = capacete de rígido de víper mk.I BROOD
+    .desc = Um capacete de rígido com marcas assinaturas do Grupo Víper. Tem um sistema de navegação embutido complementado por visores resistentes a flash.
 
-ent-ClothingHeadHelmetHardsuitViperGroupJuggernaut = IMP mk.IV viper hardsuit helmet
-    .desc = A hardsuit helmet with signature markings of the Viper Group. Has a built-in identity tracking HUD complemented by a night-vision system.
+ent-ClothingHeadHelmetHardsuitViperGroupJuggernaut = capacete de rígido de víper mk.IV IMP
+    .desc = Um capacete de rígido com marcas assinaturas do Grupo Víper. Tem um HUD de rastreamento de identidade embutido complementado por um sistema de visão noturna.
 
-ent-ClothingHeadHelmetHardsuitViperGroupMedic = RIPPER mk.III viper hardsuit helmet
-    .desc = A hardsuit helmet with signature markings of the Viper Group. Has a built-in medical HUD complemented by thermal pulse systems.
+ent-ClothingHeadHelmetHardsuitViperGroupMedic = capacete de rígido de víper mk.III RIPPER
+    .desc = Um capacete de rígido com marcas assinaturas do Grupo Víper. Tem um HUD médico embutido complementado por sistemas de pulso térmico.
 
-ent-ClothingHeadHelmetHardsuitViperGroupStandard = JACKAL mk.II viper hardsuit helmet
-    .desc = A hardsuit helmet with signature markings of the Viper Group. Has a built-in night-vision system complemented by flash resistant viewports.
+ent-ClothingHeadHelmetHardsuitViperGroupStandard = capacete de rígido de víper mk.II JACKAL
+    .desc = Um capacete de rígido com marcas assinaturas do Grupo Víper. Tem um sistema de visão noturna embutido complementado por visores resistentes a flash.
 
 # From: _Mono/Entities/Clothing/Head/hats.yml
 
-ent-ClothingHeadHatCapVizierPurple = vizier cap
-    .desc = A fashionable cap worn by the Vizier to denote his official status in the Phaethon dynasty above the rest of the Imperials.
+ent-ClothingHeadHatCapVizierPurple = boné de vizir
+    .desc = Um boné estiloso usado pelo Vizir para denotar seu status oficial na dinastia Phaethon acima do resto dos Imperiais.
 
-ent-ClothingHeadHatWideBrimmedBlue = blue wide-brimmed hat
-    .desc = Works great as frisbee substitute.
+ent-ClothingHeadHatWideBrimmedBlue = chapéu de abas largas azul
+    .desc = Funciona ótimo como substituto de frisbee.
 
-ent-ClothingHeadHatWideBrimmedGreen = green wide-brimmed hat
-    .desc = Works great as frisbee substitute.
+ent-ClothingHeadHatWideBrimmedGreen = chapéu de abas largas verde
+    .desc = Funciona ótimo como substituto de frisbee.
 
-ent-ClothingHeadHatWideBrimmedPurple = purple wide-brimmed hat
-    .desc = Works great as frisbee substitute.
+ent-ClothingHeadHatWideBrimmedPurple = chapéu de abas largas roxo
+    .desc = Funciona ótimo como substituto de frisbee.
 
-ent-ClothingHeadHatWideBrimmedRed = red wide-brimmed hat
-    .desc = Works great as frisbee substitute.
+ent-ClothingHeadHatWideBrimmedRed = chapéu de abas largas vermelho
+    .desc = Funciona ótimo como substituto de frisbee.
 
-ent-ClothingHeadHatWideBrimmedWhite = white wide-brimmed hat
-    .desc = Works great as frisbee substitute.
+ent-ClothingHeadHatWideBrimmedWhite = chapéu de abas largas branco
+    .desc = Funciona ótimo como substituto de frisbee.
 
-ent-ClothingHeadHatWideBrimmedYellow = yellow wide-brimmed hat
-    .desc = Works great as frisbee substitute.
+ent-ClothingHeadHatWideBrimmedYellow = chapéu de abas largas amarelo
+    .desc = Funciona ótimo como substituto de frisbee.
 
 # From: _Mono/Entities/Clothing/Head/Hats/unsa.yml
 
-ent-ClothingHeadHatUNSABeer = beer hat
-    .desc = A true patriot's choice of headwear. Made by the UNSA for enhanced piloting capabilites.
+ent-ClothingHeadHatUNSABeer = chapéu de cerveja
+    .desc = A escolha de um verdadeiro patriota. Feito pela UNSA para capacidades de pilotagem aprimoradas.
 
 # From: _Mono/Entities/Clothing/Head/Hats/ussp.yml
 
-ent-ClothingHeadHatUSSPCommissarCap = USSP commisar cap
-    .desc = A white cap used by commisars of the USSP.
+ent-ClothingHeadHatUSSPCommissarCap = boné de comissário da USSP
+    .desc = Um boné branco usado por comissários da USSP.
 
-ent-ClothingHeadHatUSSPOfficerCap = USSP officer cap
-    .desc = A green cap used by officer of the USSP.
+ent-ClothingHeadHatUSSPOfficerCap = boné de oficial da USSP
+    .desc = Um boné verde usado por oficiais da USSP.
 
 # From: _Mono/Entities/Clothing/Head/Helmets/bulletproof_helmets.yml
 
-ent-ClothingHeadBPHelmetLight = light ballistic helmet
-    .desc = A light ballistic helmet to protect against small arms.
+ent-ClothingHeadBPHelmetLight = capacete balístico leve
+    .desc = Um capacete balístico leve para proteger contra armas leves.
 
 # From: _Mono/Entities/Clothing/Head/Helmets/ussp.yml
 
-ent-ClothingHeadHelmetCombatUSSP = USSP field helmet
-    .desc = A standard USSP field helmet fitted with a compact antenna array, a feature of newer designs shaped by DST requirements.
+ent-ClothingHeadHelmetCombatUSSP = capacete de campo da USSP
+    .desc = Um capacete de campo padrão da USSP equipado com uma matriz compacta de antena, uma característica de designs mais recentes moldados por requisitos DST.
 
-ent-ClothingHeadHelmetHeavyUSSP = USSP heavy helmet
-    .desc = A heavy helmet ballistic helmet, it offers decent protection.
+ent-ClothingHeadHelmetHeavyUSSP = capacete pesado da USSP
+    .desc = Um capacete balístico pesado, oferece proteção decente.
 
 # From: _Mono/Entities/Clothing/Head/modsuit.yml
 
-ent-ClothingModsuitHelmetMercenary = mercenary modsuit helmet
-    .desc = The visor is sky blue, so your enemies don't realize you haven't put them on their backs yet. Comes with a built in Mass Scanner in its HUD.
+ent-ClothingModsuitHelmetMercenary = capacete de modsuit mercenário
+    .desc = A viseira é azul céu, então seus inimigos não percebem que você ainda não os colocou nas costas. Vem com um Scanner de Massa embutido em seu HUD.
 
-ent-ClothingModsuitHelmetRogue = RX-01 modsuit helmet
-    .desc = Does not currently feature an AI companion- note to self, sell helmet AI as separate purchase.
+ent-ClothingModsuitHelmetRogue = capacete de modsuit RX-01
+    .desc = Atualmente não possui um companheiro AI - nota para si mesmo, vender IA de capacete como compra separada.
 
 ent-ClothingModsuitHelmetUSSPVaryag = Shlem Varyaga
-    .desc = Sealed, reinforced, and intimidating.
+    .desc = Vedado, reforçado e intimidador.
 
 ent-ClothingModsuitHelmetUSSPZastavnik = Shlem Zastavnik
-    .desc = A reinforced helmet with deep armor plating and visor shielding. Favored by serzhants for frontline presence.
+    .desc = Um capacete reforçado com placas de armadura profundas e blindagem de viseira. Favorecido por sargentos para presença de frente.
 
-ent-ClothingModsuitHelmetVolta = Volta Modsuit Helmet
-    .desc = A reinforced sapper's plate, reimburced with higher quality CCTV and military-grade flashlight, doesn't make you look any better though.
+ent-ClothingModsuitHelmetVolta = Capacete de Modsuit Volta
+    .desc = Uma placa de sapador reforçada, reembolsada com CCTV de maior qualidade e lanterna militar, não faz você parecer melhor porém.
 
 # From: _Mono/Entities/Clothing/Head/softsuit-helmets.yml
 
-ent-ClothingHeadEVAHelmetDME = DME EVA Helmet
+ent-ClothingHeadEVAHelmetDME = Capacete EVA da DME
 
 # From: _Mono/Entities/Clothing/HelmetAttachment/base_clothing_helmet_attachment.yml
 
-ent-ClothingHeadHelmetAttachmentBlock = Blocked
-    .desc = Can't fit anything there
+ent-ClothingHeadHelmetAttachmentBlock = Bloqueado
+    .desc = Não cabe nada lá
 
 # From: _Mono/Entities/Clothing/HelmetAttachment/helmet_attachment.yml
 
-ent-ClothingHelmetAttachmentGogglesCoverBlack = black goggles cover
-    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverBlack = capa de óculos preta
+    .desc = Capa de óculos para guardar seus óculos quando não estiver em uso, usada no slot de anexo de capacete.
 
-ent-ClothingHelmetAttachmentGogglesCoverOlive = olive goggles cover
-    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverOlive = capa de óculos oliva
+    .desc = Capa de óculos para guardar seus óculos quando não estiver em uso, usada no slot de anexo de capacete.
 
-ent-ClothingHelmetAttachmentGogglesCoverRedDigital = red digital goggles cover
-    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverRedDigital = capa de óculos digital vermelha
+    .desc = Capa de óculos para guardar seus óculos quando não estiver em uso, usada no slot de anexo de capacete.
 
-ent-ClothingHelmetAttachmentGogglesCoverTan = tan goggles cover
-    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverTan = capa de óculos tan
+    .desc = Capa de óculos para guardar seus óculos quando não estiver em uso, usada no slot de anexo de capacete.
 
-ent-ClothingHelmetAttachmentInfraredBasic = basic thermal vision goggles
-    .desc = A pair of basic thermal vision goggles with high sensibility to flashes, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentInfraredBasic = óculos de visão térmica básicos
+    .desc = Um par de óculos de visão térmica básicos com alta sensibilidade a flashes, usados no slot de anexo de capacete.
 
-ent-ClothingHelmetAttachmentNVGsBasic = basic night vision goggles
-    .desc = A pair of basic optoelectronics night vision goggles with high sensibility to flashes, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentNVGsBasic = óculos de visão noturna básicos
+    .desc = Um par de óculos de visão noturna optoeletrônicos básicos com alta sensibilidade a flashes, usados no slot de anexo de capacete.
 
 # From: _Mono/Entities/Clothing/HelmetCover/base_clothing_HelmetCover.yml
 
-ent-ClothingHeadHelmetCoverBlock = Blocked
-    .desc = Can't fit anything there
+ent-ClothingHeadHelmetCoverBlock = Bloqueado
+    .desc = Não cabe nada lá
 
 # From: _Mono/Entities/Clothing/HelmetCover/helmet_cover.yml
 
-ent-ClothingHelmetCoverBlack = black helmet cover
-    .desc = A colored helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverBlack = capa de capacete preta
+    .desc = Uma capa de capacete colorida para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverCCEBase = CCE helmet cover (base)
-    .desc = A CCE central european camouflage helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverCCEBase = capa de capacete CCE (base)
+    .desc = Uma capa de capacete de camuflagem europeia central CCE para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverCCEDesert = CCE helmet cover (desert)
-    .desc = A Desert CCE central european camouflage helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverCCEDesert = capa de capacete CCE (deserto)
+    .desc = Uma capa de capacete de camuflagem europeia central CCE de deserto para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverHelmetMount = helmet attachment mount
-    .desc = A simple helmet mount to put attachment on your helmet.
+ent-ClothingHelmetCoverHelmetMount = suporte de capacete
+    .desc = Um suporte de capacete simples para colocar anexos em seu capacete.
 
-ent-ClothingHelmetCoverOlive = olive helmet cover
-    .desc = A colored helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverOlive = capa de capacete oliva
+    .desc = Uma capa de capacete colorida para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverRangerGreen = ranger green helmet cover
-    .desc = A colored helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverRangerGreen = capa de capacete ranger green
+    .desc = Uma capa de capacete colorida para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverRedDigital = red digital helmet cover
-    .desc = A red digital camouflage helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverRedDigital = capa de capacete digital vermelha
+    .desc = Uma capa de capacete de camuflagem digital vermelha para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverTan = tan helmet cover
-    .desc = A colored helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverTan = capa de capacete tan
+    .desc = Uma capa de capacete colorida para suas necessidades de moda tática ou para montar anexos.
 
-ent-ClothingHelmetCoverWhite = white helmet cover
-    .desc = A colored helmet cover for your tactical fashion needs or to mount attachments.
+ent-ClothingHelmetCoverWhite = capa de capacete branca
+    .desc = Uma capa de capacete colorida para suas necessidades de moda tática ou para montar anexos.
 
 # From: _Mono/Entities/Clothing/Jumpskirt/jumpskirts.yml
 
-ent-ClothingUniformJumpskirtTAF = trauma armed forces jumpskirt
-    .desc = Standard fatigues of the Trauma Armed Forces.
+ent-ClothingUniformJumpskirtTAF = saia-pulada das forças armadas de trauma
+    .desc = Fadigas padrão das Forças Armadas de Trauma.
 
 # From: _Mono/Entities/Clothing/Jumpsuit/jumpsuits.yml
 
-ent-ClothingUniformCcCBRN = CBURN Type B Protective Suit
-    .desc = A heavily modified protective suit. It'll slow you down a bit, but it'll make sure nothing you don't want gets in your body. Also comes with the bonus of flame resistance! Be the bane of all borers!
+ent-ClothingUniformCcCBRN = Traje Protetor Tipo B CBURN
+    .desc = Um traje protetor fortemente modificado. Vai te desacelerar um pouco, mas vai garantir que nada que você não queira entre no seu corpo. Também vem com o bônus de resistência a chamas! Seja a praga de todos os perfuradores!
 
-ent-ClothingUniformDrakeIndustriesHauler = hauler jumpsuit
-    .desc = Durable overalls with zippers here and there. It bears the colors of Drake Industries.
+ent-ClothingUniformDrakeIndustriesHauler = macacão de carregador
+    .desc = Macacão durável com zíperes aqui e ali. Carrega as cores da Drake Industries.
 
-ent-ClothingUniformDrakeIndustriesTrucker = trucker jumpsuit
-    .suffix = Military
-    .desc = This one has pocket for your smokes. Oh wait, no, it's a false pocket. Well, at least it's fashionable. It bears the colors of Drake Industries.
+ent-ClothingUniformDrakeIndustriesTrucker = macacão de caminhoneiro
+    .suffix = Militar
+    .desc = Este tem bolso para seus cigarros. Ah espera, não, é um bolso falso. Bom, pelo menos é estiloso. Carrega as cores da Drake Industries.
 
-ent-ClothingUniformDrakeIndustriesWatchdog = watchdog jumpsuit
-    .suffix = Military
-    .desc = A sleek tracksuit designed to have decent camouflage in dark spaces. It bears the colors of Drake Industries.
+ent-ClothingUniformDrakeIndustriesWatchdog = macacão de cão de guarda
+    .suffix = Militar
+    .desc = Um macacão elegante projetado para ter camuflagem decente em espaços escuros. Carrega as cores da Drake Industries.
 
-ent-ClothingUniformJumpsuitATU = armed trauma unit jumpsuit
-    .desc = Standard fatigues of the Armed Trauma Unit.
+ent-ClothingUniformJumpsuitATU = macacão de unidade de trauma armada
+    .desc = Fadigas padrão da Unidade de Trauma Armada.
 
-ent-ClothingUniformJumpsuitCombatSuitCCEBasic = CCE combat uniform (basic)
-    .desc = Woodland CCE camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitCCEBasic = uniforme de combate CCE (básico)
+    .desc = Traje de combate com camuflagem florestal CCE. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitCCEBleached = CCE combat uniform (bleached)
-    .desc = Woodland CCE camouflaged combat suit. Camo in space... This one has been bleached for some reasons.
+ent-ClothingUniformJumpsuitCombatSuitCCEBleached = uniforme de combate CCE (branqueado)
+    .desc = Traje de combate com camuflagem florestal CCE. Camuflagem no espaço... Este foi branqueado por algum motivo.
 
-ent-ClothingUniformJumpsuitCombatSuitCCEDesert = CCE combat uniform (desert)
-    .desc = Desert CCE camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitCCEDesert = uniforme de combate CCE (deserto)
+    .desc = Traje de combate com camuflagem de deserto CCE. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitCCEWorn = CCE combat uniform (worn)
-    .desc = Woodland CCE camouflaged combat suit. Camo in space... This one has been used quite a lot and has darkenned over time.
+ent-ClothingUniformJumpsuitCombatSuitCCEWorn = uniforme de combate CCE (desgastado)
+    .desc = Traje de combate com camuflagem florestal CCE. Camuflagem no espaço... Este foi usado bastante e escureceu ao longo do tempo.
 
-ent-ClothingUniformJumpsuitCombatSuitDigitalBlack = black digital combat uniform
-    .desc = Digital camouflaged combat suit. Camo in space...
+ent-ClothingUniformJumpsuitCombatSuitDigitalBlack = uniforme de combate digital preto
+    .desc = Traje de combate com camuflagem digital. Camuflagem no espaço...
 
-ent-ClothingUniformJumpsuitCombatSuitDigitalBlue = blue digital combat uniform
-    .desc = Digital camouflaged combat suit. Camo in space...
+ent-ClothingUniformJumpsuitCombatSuitDigitalBlue = uniforme de combate digital azul
+    .desc = Traje de combate com camuflagem digital. Camuflagem no espaço...
 
-ent-ClothingUniformJumpsuitCombatSuitDigitalGreenTan = green and tan digital combat uniform
-    .desc = Digital camouflaged combat suit. Camo in space...
+ent-ClothingUniformJumpsuitCombatSuitDigitalGreenTan = uniforme de combate digital verde e tan
+    .desc = Traje de combate com camuflagem digital. Camuflagem no espaço...
 
-ent-ClothingUniformJumpsuitCombatSuitDigitalRed = red digital combat uniform
-    .desc = Digital camouflaged combat suit. Camo in space...
+ent-ClothingUniformJumpsuitCombatSuitDigitalRed = uniforme de combate digital vermelho
+    .desc = Traje de combate com camuflagem digital. Camuflagem no espaço...
 
-ent-ClothingUniformJumpsuitCombatSuitGrassland = Grassland combat uniform
-    .desc = Grassland camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitGrassland = uniforme de campo de combate
+    .desc = Traje de combate com camuflagem de campo. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitLampart = Lampart combat uniform
-    .desc = Lampart camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitLampart = uniforme de campo de combate Lampart
+    .desc = Traje de combate com camuflagem Lampart. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitLampartFlag = Lampart combat uniform
-    .desc = Lampart camouflaged combat suit with some odd flag stitched to it. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitLampartFlag = uniforme de campo de combate Lampart
+    .desc = Traje de combate com camuflagem Lampart com alguma bandeira estranha costurada. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitMisko = Misko combat uniform
-    .desc = Misko camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitMisko = uniforme de combate Misko
+    .desc = Traje de combate com camuflagem Misko. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitMudland = Mudland combat uniform
-    .desc = Mudland camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitMudland = uniforme de combate de lama
+    .desc = Traje de combate com camuflagem de lama. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitSummerFlora = Summer flora combat uniform
-    .desc = Summer flora camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitSummerFlora = uniforme de combate de flora de verão
+    .desc = Traje de combate com camuflagem de flora de verão. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitSummerFloraFlag = Summer flora combat uniform
-    .desc = Summer flora camouflaged combat suit with some odd flag stitched to it. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitSummerFloraFlag = uniforme de combate de flora de verão
+    .desc = Traje de combate com camuflagem de flora de verão com alguma bandeira estranha costurada. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitCombatSuitUrbanWhite = white urban combat uniform
-    .desc = Misko camouflaged combat suit. Camo in space... This one has been lightly used and retain its original camo.
+ent-ClothingUniformJumpsuitCombatSuitUrbanWhite = uniforme de combate urbano branco
+    .desc = Traje de combate com camuflagem Misko. Camuflagem no espaço... Este foi levemente usado e retém sua camuflagem original.
 
-ent-ClothingUniformJumpsuitViperGroupTurtleneck = viper group turtleneck
-    .desc = A turtleneck bearing the colours of the vipers.
+ent-ClothingUniformJumpsuitViperGroupTurtleneck = gola alta do Grupo Víper
+    .desc = Uma gola alta com as cores das víper.
 
-ent-ClothingUniformJumpsuitViperGroupUniform = viper group uniform
-    .desc = A uniform bearing the colours of the vipers.
+ent-ClothingUniformJumpsuitViperGroupUniform = uniforme do Grupo Víper
+    .desc = Um uniforme com as cores das víper.
 
-ent-ClothingUniformRogue = rogue field suit
-    .desc = A matte black tactical outfit worn by independent agents working on contracts. The red armband marks affiliation—loose as it may be.
+ent-ClothingUniformRogue = uniforme de campo renegado
+    .desc = Um traje tático preto fosco usado por agentes independentes trabalhando em contratos. A braçadeira vermelha marca afiliação—frouxa como possa ser.
 
-ent-ClothingUniformRogueCargos = rogue field suit (cargos)
-    .desc = A matte black tactical top combined with durable brown cargo pants, suited for terrain-heavy contracts. Independent agents favor this blend of function and subtle defiance. The red armband stays—barely.
+ent-ClothingUniformRogueCargos = uniforme de campo renegado (cargos)
+    .desc = Uma parte superior tática preta fosca combinada com calças cargos marrons duráveis, adequada para contratos pesados em terreno. Agentes independentes favorecem esta mistura de função e desafio sutil. A braçadeira vermelha permanece—mal.
 
-ent-ClothingUniformRogueJeans = rogue field suit (jeans)
-    .desc = A matte black shirt paired with jeans. Worn by independent agents who prefer fieldwork with a bit more flexibility. The red armband still signals uncertain allegiance.
+ent-ClothingUniformRogueJeans = uniforme de campo renegado (jeans)
+    .desc = Uma camisa preta fosca combinada com jeans. Usada por agentes independentes que preferem trabalho de campo com um pouco mais de flexibilidade. A braçadeira vermelha ainda sinaliza lealdade incerta.
 
-ent-ClothingUniformRoguePants = rogue field pants
-    .desc = A matte black tactical outfit worn by independent agents working on contracts. The red ar- wait it's just the pants?
+ent-ClothingUniformRoguePants = calças de campo renegadas
+    .desc = Um traje tático preto fosco usado por agentes independentes trabalhando em contratos. A braçadeira ver- espera, são apenas as calças?
 
-ent-ClothingUniformRogueWarm = rogue warm field suit
-    .desc = A heavily insulated variant of the rogue field suit, lined for extreme environments. Built for survival without compromise.
+ent-ClothingUniformRogueWarm = uniforme de campo renegado quente
+    .desc = Uma variante fortemente isolada do uniforme de campo renegado, forrado para ambientes extremos. Construído para sobrevivência sem compromisso.
 
-ent-ClothingUniformServiceDressUSSP = USSP Service Dress
-    .desc = More formal attire for servicemen, styled after the uniforms worn during the struggle against the early TSF.
+ent-ClothingUniformServiceDressUSSP = Traje de Serviço da USSP
+    .desc = Traje mais formal para militares, estilizado após os uniformes usados durante a luta contra os primeiros TSF.
 
-ent-ClothingUniformTSFMC = TSFMC type-45U combat uniform
-    .desc = A combat uniform in TSF Type-45U urban camouflage. Its outfitted with a blue TSF flag armband.
+ent-ClothingUniformTSFMC = uniforme de combate tipo-45U da TSFMC
+    .desc = Um uniforme de combate em camuflagem urbana Tipo-45U da TSF. Equipado com uma braçadeira com a bandeira azul da TSF.
 
-ent-ClothingUniformTSFMCDesert = TSFMC type-47D combat uniform
-    .desc = A combat uniform in TSF Type-47D desert camouflage. Its outfitted with a blue TSF flag armband.
+ent-ClothingUniformTSFMCDesert = uniforme de combate tipo-47D da TSFMC
+    .desc = Um uniforme de combate em camuflagem de deserto Tipo-47D da TSF. Equipado com uma braçadeira com a bandeira azul da TSF.
 
-ent-ClothingUniformTSFMCDress = TSFMC dress uniform
-    .desc = A military dress uniform for special occasions, complete with stripes and rank insignia.
+ent-ClothingUniformTSFMCDress = uniforme de gala da TSFMC
+    .desc = Um uniforme militar de gala para ocasiões especiais, completo com listras e insígnias de patente.
 
-ent-ClothingUniformTSFMCEngi = TSFMC engineer uniform
-    .desc = A combat uniform in TSF Type-45U urban camouflage. It has high-vis markings for engineers.
+ent-ClothingUniformTSFMCEngi = uniforme de engenheiro da TSFMC
+    .desc = Um uniforme de combate em camuflagem urbana Tipo-45U da TSF. Tem marcações de alta visibilidade para engenheiros.
 
-ent-ClothingUniformTsfmcMopp = TSFMC type-49C MOPP suit
-    .desc = A heavy protective suit. It'll slow you down a bit, but it'll make sure nothing you don't want gets in your body. Be the bane of all Chimeras.
+ent-ClothingUniformTsfmcMopp = traje MOPP tipo-49C da TSFMC
+    .desc = Um traje protetor pesado. Vai te desacelerar um pouco, mas vai garantir que nada que você não queira entre no seu corpo. Seja a praga de todas as Quimeras.
 
-ent-ClothingUniformUSSP = USSP uniform
-    .desc = Standard fatigues of the USSP Armed Forces.
+ent-ClothingUniformUSSP = uniforme da USSP
+    .desc = Fadigas padrão das Forças Armadas da USSP.
 
 # From: _Mono/Entities/Clothing/Masks/masks.yml
 
-ent-ClothingMaskCOG = depricated cult mask
-    .desc = A metal mask with a damaged right eye. The functioning one glows with a blue hue.
+ent-ClothingMaskCOG = máscara de culto depreciada
+    .desc = Uma máscara de metal com um olho direito danificado. O funcional brilha com um tom azulado.
 
-ent-ClothingMaskDrakeIndustries = drake industries respirator
-    .desc = A pretty uncommon design in the sector. Following industrial rebreather models, it affixes on the jaw and covers the lower part of the wearer's face. It's filters are connected internally. It bears the colors of Drake Industries.
+ent-ClothingMaskDrakeIndustries = respirador da Drake Industries
+    .desc = Um design bem incomum no setor. Seguindo modelos industriais de reabreathadores, se prende na mandíbula e cobre a parte inferior do rosto do usuário. Seus filtros são conectados internamente. Carrega as cores da Drake Industries.
 
-ent-ClothingMaskDrakeIndustriesWatchdog = watchdog respirator
-    .desc = A clunky respirator following the original design from Drake Industries. This one comes wih a polarized visor to protect the eyes during hostile encounters.
+ent-ClothingMaskDrakeIndustriesWatchdog = respirador de cão de guarda
+    .desc = Um respirador desajeitado seguindo o design original da Drake Industries. Este vem com uma viseira polarizada para proteger os olhos durante encontros hostis.
 
-ent-ClothingMaskSOM40 = S.O.M. 40 gasmask
-    .desc = Special. Operation. Mask. number 40. A tactical combat gas mask made to fit over a balaclava.
+ent-ClothingMaskSOM40 = máscara de gás S.O.M. 40
+    .desc = Especial. Operacional. Máscara. número 40. Uma máscara de gás de combate tática feita para caber sobre uma máscara.
 
-ent-ClothingMaskSOM41 = S.O.M. 41 gasmask
-    .desc = Special. Operation. Mask. number 41. A tactical combat gas mask made to fit over a balaclava.
+ent-ClothingMaskSOM41 = máscara de gás S.O.M. 41
+    .desc = Especial. Operacional. Máscara. número 41. Uma máscara de gás de combate tática feita para caber sobre uma máscara.
 
-ent-ClothingMaskSOM42 = S.O.M. 42 gasmask
-    .desc = Special. Operation. Mask. number 42. A tactical combat gas mask made to fit over a balaclava.
+ent-ClothingMaskSOM42 = máscara de gás S.O.M. 42
+    .desc = Especial. Operacional. Máscara. número 42. Uma máscara de gás de combate tática feita para caber sobre uma máscara.
 
 # From: _Mono/Entities/Clothing/Neck/badges.yml
 
-ent-ClothingNeckDrakeIndustriesBadge = Drake Industries company badge
-    .desc = To show off you're part of Drake Industries! Looks like some cheap plastic with a silver colored spray on top.
+ent-ClothingNeckDrakeIndustriesBadge = crachá da empresa Drake Industries
+    .desc = Para mostrar que você faz parte da Drake Industries! Parece algum plástico barato com spray prata por cima.
 
 # Abstract entity (referenceable by children)
-ent-ClothingNeckMonoCompanyBadgeBase = company badge
-    .desc = You belong nowhere, vagrant.
+ent-ClothingNeckMonoCompanyBadgeBase = crachá da empresa
+    .desc = Você não pertence a lugar nenhum, vagante.
 
 # From: _Mono/Entities/Clothing/Neck/cloaks.yml
 
-ent-ClothingNeckCaptainCloak = captain's cloak
-    .desc = A fashionable TSFMC cloak for the Captain and XO of the marine detachment.
+ent-ClothingNeckCaptainCloak = capa do capitão
+    .desc = Uma capa estilosa da TSFMC para o Capitão e XO do destacamento de fuzileiros.
 
-ent-ClothingNeckCloakBlack = black cloak
-    .desc = A black cloak, looks old.
+ent-ClothingNeckCloakBlack = capa preta
+    .desc = Uma capa preta, parece antiga.
 
-ent-ClothingNeckCloakCOG = Old robe
-    .desc = An ancient crimson draping from a now-defunct cult.
+ent-ClothingNeckCloakCOG = Antiga túnica
+    .desc = Um antigo drapéu carmesim de um culto agora extinto.
 
-ent-ClothingNeckCloakPdvPurple = grand vizier's ceremonial cloak
-    .desc = A Phaethon Dynasty Grand Vizier's cloak, only given to those who have proven their loyalty and worth to the Sultan.
+ent-ClothingNeckCloakPdvPurple = capa cerimonial do grão-vizir
+    .desc = Uma capa do Grão-Vizir da Dinastia Phaethon, dada apenas àqueles que provaram sua lealdade e valor ao Sultão.
 
-ent-ClothingNeckCloakRogueCommander = grand vizier's cloak
-    .desc = A Phaethon Dynasty grand vizier's cloak, only given to those who have proven their loyalty and worth to the cause. Some say the inhabitants of the colosuss never would've formed beyond a isolationist colonies if it wasn't for the Syndicate Remnants elevating them.
+ent-ClothingNeckCloakRogueCommander = capa do grão-vizir
+    .desc = Uma capa do Grão-Vizir da Dinastia Phaethon, dada apenas àqueles que provaram sua lealdade e valor à causa. Alguns dizem que os habitantes do colosso nunca teriam se formado além de colônias isolacionistas se não fossem os Remanescentes do Sindicato elevando-os.
 
-ent-ClothingNeckCloakUssp = Commissar parade cloak
-    .desc = An exquisite white, red, blue and gold cloak fitting for those who can assert dominance over their troops.
+ent-ClothingNeckCloakUssp = capa de desfile de comissário
+    .desc = Uma capa exquisita branca, vermelha, azul e dourada adequada para aqueles que podem afirmar domínio sobre suas tropas.
 
-ent-ClothingNeckCloakVizier = grand vizier's ceremonial cloak
-    .desc = A Phaethon Dynasty Grand Vizier's cloak, only given to those who have proven their loyalty and worth to the Sultan.
+ent-ClothingNeckCloakVizier = capa cerimonial do grão-vizir
+    .desc = Uma capa do Grão-Vizir da Dinastia Phaethon, dada apenas àqueles que provaram sua lealdade e valor ao Sultão.
 
-ent-ClothingNeckColonelCloak = colonel's cloak
-    .desc = An official TSFMC cloak befitting a commanding officer with authority over the sector, complete with rankbars and trim.
+ent-ClothingNeckColonelCloak = capa do coronel
+    .desc = Uma capa oficial da TSFMC adequada para um oficial comandante com autoridade sobre o setor, completa com barras de patente e acabamentos.
 
-ent-ClothingNeckMantleVizier = grand vizier's mantle
-    .desc = A Phaethon Dynasty Grand Vizier's mantle, a mix of elegance and practicality.
+ent-ClothingNeckMantleVizier = manto do grão-vizir
+    .desc = Um manto do Grão-Vizir da Dinastia Phaethon, uma mistura de elegância e praticidade.
 
 # From: _Mono/Entities/Clothing/Neck/misc.yml
 
-ent-ClothingNeckBombCollar = bomb collar
-    .suffix = Unremovable
-    .desc = A hardened, explosive collar that locks tight around the neck. When signaled, detonates after a delay of 5 seconds. Useful to keep people in line.
+ent-ClothingNeckBombCollar = coleira explosiva
+    .suffix = Inremovível
+    .desc = Uma coleira explosiva endurecida que trava com força ao redor do pescoço. Quando sinalizada, detona após um atraso de 5 segundos. Útil para manter as pessoas na linha.
 
-ent-ClothingNeckHeavyUllimanOvercoat = heavy U.I. overcoat
-    .desc = A thicker, heavier verison of the U.I. overcoat, with even more synthetic fur for style.
+ent-ClothingNeckHeavyUllimanOvercoat = sobretudo pesado da U.I.
+    .desc = Uma versão mais grossa e pesada do sobretudo da U.I., com ainda mais pele sintética para estilo.
 
-ent-ClothingNeckNovaSharksLeatherJacket = Nova Sharks leather jacket
-    .desc = A leather jacket for any affiliated members of The Nova Sharks. Fits comfortably over most suits and rough enough to never bend to authority.
+ent-ClothingNeckNovaSharksLeatherJacket = jaqueta de couro dos Tubarões Nova
+    .desc = Uma jaqueta de couro para quaisquer membros afiliados dos Tubarões Nova. Encaixa confortavelmente sobre a maioria dos trajes e robusta o suficiente para nunca se curvar à autoridade.
 
-ent-ClothingNeckNukeCollar = nuke collar
-    .suffix = Unremovable, Admin, Admeme
-    .desc = A hardened, explosive collar with a mini-nuke attached. Mildly radioactive.
+ent-ClothingNeckNukeCollar = coleira nuclear
+    .suffix = Inremovível, Admin, Admeme
+    .desc = Uma coleira explosiva endurecida com uma mini-bomba nuclear anexada. Levemente radioativa.
 
-ent-ClothingNeckUllimanOvercoat = U.I. overcoat
-    .desc = A speciallly made overcoat, able to fit over most hardsuits, made purely for style by Ulliman Industries. The synthetic fur even keeps your stone cold heart warm.
+ent-ClothingNeckUllimanOvercoat = sobretudo da U.I.
+    .desc = Um sobretudo especialmente feito, capaz de caber sobre a maioria dos rígidos, feito puramente para estilo pela Ulliman Industries. A pele sintética até mantém seu coração frio quente.
 
-ent-ClothingNeckViperGroupMantle = viper group mantle
-    .desc = A mantle bearing the colours and mark of a viper.
+ent-ClothingNeckViperGroupMantle = manto do Grupo Víper
+    .desc = Um manto com as cores e marca de uma víper.
 
 # From: _Mono/Entities/Clothing/Neck/ponchos.yml
 
-ent-ClothingNeckPonchoArctic = cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold.
+ent-ClothingNeckPonchoArctic = poncho de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. A verdade é que é coceira, abafado e um pouco folgado - mas pelo menos não é frio.
 
-ent-ClothingNeckPonchoBlack = black cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold. This one is black.
+ent-ClothingNeckPonchoBlack = poncho preto de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. A verdade é que é coceira, abafado e um pouco folgado - mas pelo menos não é frio. Este é preto.
 
-ent-ClothingNeckPonchoBlackStripe = rogue cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold. This one is black with red markings.
+ent-ClothingNeckPonchoBlackStripe = poncho renegado de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. A verdade é que é coceira, abafado e um pouco folgado - mas pelo menos não é frio. Este é preto com marcações vermelhas.
 
-ent-ClothingNeckPonchoSmallBlack = small black cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. This rendition comes in a smaller size. This one is black.
+ent-ClothingNeckPonchoSmallBlack = poncho preto pequeno de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. Esta versão vem em um tamanho menor. Este é preto.
 
-ent-ClothingNeckPonchoSmallOrange = small orange cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. This stylish rendition comes in a smaller size. This one is shockingly orange.
+ent-ClothingNeckPonchoSmallOrange = poncho laranja pequeno de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. Esta versão estilosa vem em um tamanho menor. Este é chocantemente laranja.
 
-ent-ClothingNeckPonchoSmallPink = small pink cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. This stylish rendition comes in a smaller size. This one is pink and white.
+ent-ClothingNeckPonchoSmallPink = poncho rosa pequeno de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. Esta versão estilosa vem em um tamanho menor. Este é rosa e branco.
 
-ent-ClothingNeckPonchoSmallPurple = small purple cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. This stylish rendition comes in a smaller size with a cuter design. This one is purple with a fish decal.
+ent-ClothingNeckPonchoSmallPurple = poncho roxo pequeno de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. Esta versão estilosa vem em um tamanho menor com um design mais fofo. Este é roxo com um adesivo de peixe.
 
-ent-ClothingNeckPonchoSmallRed = small red cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. This stylish rendition comes in a smaller size with a cuter design. This one is red and black.
+ent-ClothingNeckPonchoSmallRed = poncho vermelho pequeno de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. Esta versão estilosa vem em um tamanho menor com um design mais fofo. Este é vermelho e preto.
 
-ent-ClothingNeckPonchoSmallWhite = small cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. This rendition comes in a smaller size.
+ent-ClothingNeckPonchoSmallWhite = poncho branco pequeno de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. Esta versão vem em um tamanho menor.
 
-ent-ClothingNeckPonchoSyndicate = black and red cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold. This one seems vaguely sinister...
+ent-ClothingNeckPonchoSyndicate = poncho preto e vermelho de frio
+    .desc = O Poncho de Frio, anunciado como uma obra-prima de proteção elemental. A verdade é que é coceira, abafado e um pouco folgado - mas pelo menos não é frio. Este parece vagamente sinistro...
 
 # From: _Mono/Entities/Clothing/OuterClothing/Armor/armor_plates.yml
 
-ent-ArmorPlateBlunt_Slash = blunt/slash armor plate
-    .desc = An armor module consisting of additional protective plasteel plating and shock absorbant plastic. Protects against blunt force and slash attacks. Vulnerable to heat.
+ent-ArmorPlateBlunt_Slash = placa de blindagem contundente/cortante
+    .desc = Um módulo de blindagem consistindo de placas de placitanium protetoras adicionais e plástico absorvente de choque. Protege contra força contundente e ataques cortantes. Vulnerável a calor.
 
-ent-ArmorPlateHeat = heat armor plate
-    .desc = An armor module consisting of iridite shielding and heat diffusion systems, capable of diffracting incoming laser assaults. Vulnerable to piercing attacks.
+ent-ArmorPlateHeat = placa de blindagem térmica
+    .desc = Um módulo de blindagem consistindo de escudo de iridita e sistemas de difusão de calor, capaz de difratar assaltos laser recebidos. Vulnerável a ataques perfurantes.
 
-ent-ArmorPlatePierce = pierce armor plate
-    .desc = An armor module consisting of robust plastitanium plating. Protects against firearms and piercing attacks. Vulnerable to heat.
+ent-ArmorPlatePierce = placa de blindagem perfurante
+    .desc = Um módulo de blindagem consistindo de placas de plastitanium robustas. Protege contra armas de fogo e ataques perfurantes. Vulnerável a calor.
 
-ent-ArmorPlateSpeed = speed armor plate
-    .desc = An armor module consisting of replacement brass plating for shedding weight. Increases your speed, but makes you vulnerable to most damage.
+ent-ArmorPlateSpeed = placa de blindagem de velocidade
+    .desc = Um módulo de blindagem consistindo de placas de latão de reposição para perder peso. Aumenta sua velocidade, mas torna vulnerável à maioria dos danos.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Armor/bulletproof_vests.yml
 
-ent-ClothingOuterArmorBPVestHeavy = heavy bulletproof vest
-    .desc = A simple kevlar vest of unknown origin. This juggernaut vest makes you practically a walking tank, at the cost of heat protection and extreme bulk.
+ent-ClothingOuterArmorBPVestHeavy = colete à prova de balas pesado
+    .desc = Um colete kevlar simples de origem desconhecida. Este colete tanque faz você praticamente um tanque andante, ao custo de proteção térmica e volume extremo.
 
-ent-ClothingOuterArmorBPVestLight = light bulletproof vest
-    .desc = A simple kevlar vest of unknown origin. This one is a simple bulletproof vest made to resist low caliber rounds.
+ent-ClothingOuterArmorBPVestLight = colete à prova de balas leve
+    .desc = Um colete kevlar simples de origem desconhecida. Este é um colete à prova de balas simples feito para resistir a projéteis de baixo calibre.
 
-ent-ClothingOuterArmorBPVestMedium = medium bulletproof vest
-    .desc = A simple kevlar vest of unknown origin. This one is more heavily reinforced against bullets at the cost of it being cumbersome.
+ent-ClothingOuterArmorBPVestMedium = colete à prova de balas médio
+    .desc = Um colete kevlar simples de origem desconhecida. Este é mais fortemente reforçado contra balas ao custo de ser incômodo.
 
-ent-ClothingOuterArmorBPVestPolyvalent = polyvalent bulletproof vest
-    .desc = A simple kevlar vest of unknown origin. This one isn't made to protect against a specific type of threat.
+ent-ClothingOuterArmorBPVestPolyvalent = colete à prova de balas polivalente
+    .desc = Um colete kevlar simples de origem desconhecida. Este não é feito para proteger contra um tipo específico de ameaça.
 
-ent-ClothingOuterArmorBPVestStabproof = stabproof bulletproof vest
-    .desc = A simple kevlar vest of unknown origin. This one is reinforced against stabbings.
+ent-ClothingOuterArmorBPVestStabproof = colete à prova de balas e facas
+    .desc = Um colete kevlar simples de origem desconhecida. Este é reforçado contra facadas.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Armor/exosuit.yml
 
-ent-ClothingOuterExosuitAurora = M-320X AURORA exosuit
+ent-ClothingOuterExosuitAurora = exoesqueleto AURORA M-320X
     .suffix = SelfUnremovable
-    .desc = An experimental exosuit designed for the future of warfare. Despite not having any head covering, the utilization of new nanomachine technology allows it to protect the wearer from the pressure and cold of space.
+    .desc = Um exoesqueleto experimental projetado para o futuro da guerra. Apesar de não ter nenhuma cobertura para a cabeça, a utilização de nova tecnologia de nanomáquinas permite proteger o usuário da pressão e frio do espaço.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Coats/medical.yml
 
-ent-ClothingOuterDavidsJacket = EMT jacket
-    .desc = A bright yellow signal jacket, beloved by paramedics of the end of the 21st century.
+ent-ClothingOuterDavidsJacket = jaqueta de socorrista
+    .desc = Uma jaqueta sinalizadora amarela brilhante, amada por paramédicos do final do século 21.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Coats/ussp.yml
 
-ent-ClothingOuterCoatUSSP = USSP officer coat
-    .desc = A comfy coat used by the officers of the USSP.
+ent-ClothingOuterCoatUSSP = casaco de oficial da USSP
+    .desc = Um casaco confortável usado pelos oficiais da USSP.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/asakim.yml
 
-ent-ClothingOuterHardsuitAsakim = kasature-pattern combat exoskeleton
+ent-ClothingOuterHardsuitAsakim = exoesqueleto de combate padrão kasature
     .suffix = SelfUnremovable
-    .desc = An advanced exoskeleton harness of cutting edge, corporate-era technology. It connects itself directly to the brain of the wearer, and requires advanced brain augmentation and cybernetics to function. Incredibly rare, and practically alien in technology compared to modern tacsuits. Once equipped, the armor cannot be removed without external release.
+    .desc = Um arreio de exoesqueleto avançado de tecnologia de ponta da era corporativa. Conecta-se diretamente ao cérebro do usuário e requer aumento cerebral avançado e cibernética para funcionar. Incredivelmente raro e praticamente alienígena em tecnologia comparado aos tacsuits modernos. Uma vez equipado, a armadura não pode ser removida sem liberação externa.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/c_sec.yml
 
-ent-ClothingOuterHardsuitCsecMpeva = CSEC MP-EVA tacsuit
-    .desc = A general purpose jack-of-all-trades hardsuit for CC security forces. Designed to be usable for riot control & gunfights alike, and outfitted with reagent-absorbing gel layers for biohazards.
+ent-ClothingOuterHardsuitCsecMpeva = tacsuit MP-EVA da CSEC
+    .desc = Um rígido de propósito geral mestre de todos os ofícios para forças de segurança do CC. Projetado para ser utilizável tanto para controle de distúrbios quanto tiroteios, e equipado com camadas de gel absorbedoras de reagentes para riscos biológicos.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/mercenaries.yml
 
 ent-ClothingOuterHardsuitMercenaryWarlord = PMC WL-01
-    .desc = Nicknamed \"Warlord\",a former state-of-the-art technology in military equipment, now widespread among the mercenaries and black markets due to its schematics being revealed to the public, the warlord combat suit has been modified to withstand space depressurized atmosphere, rating it space capable.
+    .desc = Apelidado de "Warlord", uma tecnologia de ponta anterior em equipamento militar, agora difundida entre mercenários e mercados negros devido aos seus esquemas serem revelados ao público, o traje de combate warlord foi modificado para suportar atmosfera despressurizada no espaço, classificando-o capaz espacial.
 
-ent-ClothingOuterHardsuitScaf = SCAF hardsuit
-    .desc = A kevlar reinforced combat hardsuit. Old yet sturdy nonetheless.
+ent-ClothingOuterHardsuitScaf = rígido SCAF
+    .desc = Um rígido de combate reforçado com kevlar. Antigo mas robusto.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/phaethon_dynasty.yml
 
-ent-ClothingOuterHardsuitAshen = PDV CV-32 combat hardsuit
-    .desc = A combat hardsuit designed by the Phaethon Dynasty. A heavier but still general-purpose hardsuit, effective but not stellar against most damage types.
+ent-ClothingOuterHardsuitAshen = rígido de combate CV-32 da PDV
+    .desc = Um rígido de combate projetado pela Dinastia Phaethon. Um rígido mais pesado mas ainda de propósito geral, eficaz mas não estelar contra a maioria dos tipos de dano.
 
-ent-ClothingOuterHardsuitAshenElite = PDV CV-53 combat tacsuit
-    .desc = Originally based off of the CV-32 hardsuit, the CV-53 tacsuit sacrifices conventional armor plating for environmental protection, and a rechargeable hard-shield.
+ent-ClothingOuterHardsuitAshenElite = tacsuit de combate CV-53 da PDV
+    .desc = Originalmente baseado no rígido CV-32, o tacsuit CV-53 sacrifica placas de armadura convencionais por proteção ambiental e um escudo duro recarregável.
 
-ent-ClothingOuterHardsuitPDVMedic = PDV CV-82 combat tacsuit
-    .desc = A field medic combat hardsuit designed by the Phaethon Dynasty. The armor features various reinforced plating in vital areas.
+ent-ClothingOuterHardsuitPDVMedic = tacsuit de combate CV-82 da PDV
+    .desc = Um rígido de combate de médico de campo projetado pela Dinastia Phaethon. A armadura apresenta várias placas reforçadas em áreas vitais.
 
-ent-ClothingOuterHardsuitPirateScaf = PDV SCAF hardsuit
-    .desc = An old SCAF suit painted in an PDV tan color scheme. The armor feels degraded, but lighter.
+ent-ClothingOuterHardsuitPirateScaf = rígido SCAF da PDV
+    .desc = Um traje SCAF antigo pintado em um esquema de cores tan da PDV. A armadura parece degradada, mas mais leve.
 
-ent-ClothingOuterHardsuitVizier = PDV CV-67 combat tacsuit
-    .desc = An adorned tacsuit designed with an imperfect nanolaminate composition. High maneuverability, sturdy armor.
+ent-ClothingOuterHardsuitVizier = tacsuit de combate CV-67 da PDV
+    .desc = Um tacsuit adornado projetado com uma composição imperfeita de nanolaminado. Alta mobilidade, armadura robusta.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/trauma.yml
 
-ent-ClothingOuterHardsuitTrauma = armed trauma unit T-23 tacsuit
-    .desc = The standard combat suit for the Armed Trauma Unit. It has an integrated limited-range mass scanner in the helmet.
+ent-ClothingOuterHardsuitTrauma = tacsuit T-23 de unidade de trauma armada
+    .desc = O traje de combate padrão para a Unidade de Trauma Armada. Tem um scanner de massa de alcance limitado integrado no capacete.
 
-ent-ClothingOuterHardsuitTraumaLeader = armed trauma unit T-53 tacsuit
-    .desc = Developed for extracting mission-critical patients under heavy fire, this is the standard gear of the Armed Trauma Unit's captain, with heavy plating and an integrated long-range mass scanner to match.
+ent-ClothingOuterHardsuitTraumaLeader = tacsuit T-53 de unidade de trauma armada
+    .desc = Desenvolvido para extrair pacientes críticos para a missão sob fogo pesado, este é o equipamento padrão do capitão da Unidade de Trauma Armada, com placas pesadas e um scanner de massa de longo alcance integrado.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/tsfmc.yml
 
-ent-ClothingOuterHardsuitM82b = M82b hardsuit
-    .desc = Corpsman variant of the M82c outfitted with caustic and radiological shielding. Some of the blunt-absorbent gel layer is sacrificed for the NBC protection.
+ent-ClothingOuterHardsuitM82b = rígido M82b
+    .desc = Variante de médica do M82c equipada com escudo cáustico e radiológico. Alguma da camada de gel absorbedora de contusão é sacrificada para a proteção NBC.
 
-ent-ClothingOuterHardsuitM82c = M82c hardsuit
-    .desc = A hardsuit issued to marines operating in low-pressure and high-risk environments. Specialized in bullet protection.
+ent-ClothingOuterHardsuitM82c = rígido M82c
+    .desc = Um rígido emitido para fuzileiros operando em ambientes de baixa pressão e alto risco. Especializado em proteção contra balas.
 
-ent-ClothingOuterHardsuitM86 = M86 Mk.3(R) hardsuit
-    .desc = An armored hardsuit, designed to be an upgrade for the M82 series. The extra general armor gives it significant weight to move around.
+ent-ClothingOuterHardsuitM86 = rígido M86 Mk.3(R)
+    .desc = Um rígido blindado, projetado para ser um atualização para a série M82. A blindagem geral extra dá peso significativo para se mover.
 
-ent-ClothingOuterHardsuitM86Mk4 = M86 Mk.4(B) hardsuit
-    .desc = A limited-production redesign proposal for the M86 Mk.3(R), outfitted with an inbuilt personal shield generator.
+ent-ClothingOuterHardsuitM86Mk4 = rígido M86 Mk.4(B)
+    .desc = Uma proposta de redesign de produção limitada para o M86 Mk.3(R), equipado com um gerador de escudo pessoal embutido.
 
-ent-ClothingOuterHardsuitNfsdExperimental = TSFMC M92-X tacsuit
-    .desc = An experimental modification of the M92 tacsuit for spec-ops units of the TSFMC. Durable, and comes with an integrated soft-shield along with numerous gadgets at the cost of insulation and solid armor.
+ent-ClothingOuterHardsuitNfsdExperimental = tacsuit M92-X da TSFMC
+    .desc = Uma modificação experimental do tacsuit M92 para unidades de operações especiais da TSFMC. Durável, e vem com um escudo suave integrado junto com numerosos gadgets ao custo de isolamento e armadura sólida.
 
-ent-ClothingOuterHardsuitNfsdSheriff = TSFMC M92 colonel tacsuit
-    .desc = A heavy, gilded tacsuit, stripped of its shield but now capable of taking a lot of physical damage. Usually assigned to commanding officers of TSF flagships.
+ent-ClothingOuterHardsuitNfsdSheriff = tacsuit M92 coronel da TSFMC
+    .desc = Um tacsuit pesado e dourado, despojado de seu escudo mas agora capaz de receber muito dano físico. Geralmente atribuído a oficiais comandantes de navios bandeira da TSF.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/ui.yml
 
-ent-ClothingOuterHardsuitUIDirector = U.I. VK-1 experimental hardsuit
-    .desc = Felix Ullman's top of the line personal hardsuit. A warning label engraved on the chestplate reads \"Theft of this suit has a high chance of death! Seriously, I will find you. You will die.\"
+ent-ClothingOuterHardsuitUIDirector = rígido experimental VK-1 da U.I.
+    .desc = O rígido pessoal de ponta de Felix Ullman. Um aviso gravado no peito diz "O roubo deste traje tem alta chance de morte! Sério, eu vou te encontrar. Você vai morrer."
 
-ent-ClothingOuterHardsuitUIEnforcer = U.I. ENFORCER combat tacsuit
-    .desc = Infamously one of the most reliable combat tacsuits that the Black Market has to offer, developed by Ullman Industries. \"Heads up display sold seperately!\"
+ent-ClothingOuterHardsuitUIEnforcer = tacsuit de combate ENFORCER da U.I.
+    .desc = Infamemente um dos tacsuits de combate mais confiáveis que o mercado negro tem a oferecer, desenvolvido pela Ullman Industries. "Visor de cabeça vendido separadamente!"
 
-ent-ClothingOuterHardsuitUIEnforcerMKII = U.I. ENFORCER MKII combat tacsuit
-    .desc = Based off of the infamous MKI design with versatility in mind. This is Ullman Industries' top of the line combat suit. Whether it be slipping away from the feds, taking out the competition, or serving your corporate overlords, this marvel of engineering will make sure that you get it done.
+ent-ClothingOuterHardsuitUIEnforcerMKII = tacsuit de combate ENFORCER MKII da U.I.
+    .desc = Baseado no notório design MKI com versatilidade em mente. Este é o traje de combate de ponta da Ullman Industries. Seja escapando dos federais, eliminando a competição, ou servindo seus senhores corporativos, esta maravilha de engenharia vai garantir que você consiga.
 
-ent-ClothingOuterHardsuitUIPilot = U.I. pilot voidsuit
-    .desc = A voidsuit made for black market pilots. Developed by Ullman Industries
+ent-ClothingOuterHardsuitUIPilot = traje de vácuo de piloto da U.I.
+    .desc = Um traje de vácuo feito para pilotos do mercado negro. Desenvolvido pela Ullman Industries.
 
-ent-ClothingOuterHardsuitUllmanEngineer = U.I. engineering hardsuit
-    .desc = A protective hardsuit worn by black market engineering specialists. Developed by Ullman Industries.
+ent-ClothingOuterHardsuitUllmanEngineer = rígido de engenharia da U.I.
+    .desc = Um rígido protetor usado por especialistas de engenharia do mercado negro. Desenvolvido pela Ullman Industries.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/unsa.yml
 
-ent-ClothingOuterHardsuitUNSAArmoredEva = armored EVA suit
-    .desc = A standard EVA suit modified by the UNSA as a cheap and nimble alternative to voidsuits for use by Vanguards.
+ent-ClothingOuterHardsuitUNSAArmoredEva = traje EVA blindado
+    .desc = Um traje EVA padrão modificado pela UNSA como uma alternativa barata e ágil aos trajes de vácuo para uso por Vanguardas.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/ussp.yml
 
-ent-ClothingOuterHardsuitOfficerCombat = USSP UF-16 \"Voenkom\" commissar tacsuit
-    .desc = Developed by Union armament manufacturers for use by members of the commissariat on the frontlines. Features enhanced plating for survivability, allowing commanders to continue to give orders even while under heavy fire.
+ent-ClothingOuterHardsuitOfficerCombat = tacsuit de comissário "Voenkom" UF-16 da USSP
+    .desc = Desenvolvido por fabricantes de armamentos da União para uso por membros do comissariado nas linhas de frente. Apresenta placas aprimoradas para sobrevivência, permitindo que comandantes continuem a dar ordens mesmo sob fogo pesado.
 
-ent-ClothingOuterHardsuitUsspL10 = USSP L-10 lightsuit
-    .desc = An old USSP model of combat suit that is still in use in the frontlines.
+ent-ClothingOuterHardsuitUsspL10 = lightsuit L-10 da USSP
+    .desc = Um antigo modelo de traje de combate da USSP que ainda está em uso nas linhas de frente.
 
-ent-ClothingOuterHardsuitUsspL10A = USSP L-10-A lightsuit
-    .desc = An old USSP model of combat suit that is still in use in the frontlines.
+ent-ClothingOuterHardsuitUsspL10A = lightsuit L-10-A da USSP
+    .desc = Um antigo modelo de traje de combate da USSP que ainda está em uso nas linhas de frente.
 
-ent-ClothingOuterHardsuitUsspL27 = USSP L-27 tacsuit
-    .desc = The standard combat suit of USSP naval operations.
+ent-ClothingOuterHardsuitUsspL27 = tacsuit L-27 da USSP
+    .desc = O traje de combate padrão das operações navais da USSP.
 
-ent-ClothingOuterHardsuitUsspL30 = USSP L-30 Naval Commissar parade hardsuit.
-    .desc = A highly decorated hardsuit with upgraded mobility and higher quality lighter armor plates to quickly convey orders on the frontline. (or not be sweaty in a parade)
+ent-ClothingOuterHardsuitUsspL30 = rígido de desfile do Comissário Naval L-30 da USSP
+    .desc = Um rígido altamente decorado com mobilidade atualizada e placas de armadura de maior qualidade e mais leves para transmitir ordens rapidamente na linha de frente. (ou não ficar suado em um desfile)
 
-ent-ClothingOuterHardsuitUsspM10 = USSP M-10 scoutsuit
-    .desc = A new prototype of combat suit using the old L-10 as a baseline. It has a integrated mass scanner in his helmet.
+ent-ClothingOuterHardsuitUsspM10 = scoutsuit M-10 da USSP
+    .desc = Um novo protótipo de traje de combate usando o antigo L-10 como linha de base. Tem um scanner de massa integrado em seu capacete.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/viper_group.yml
 
-ent-ClothingOuterHardsuitViperGroupInitiate = BROOD mk.I viper hardsuit
-    .desc = A combat hardsuit adorned with signature markings of the Viper Group. Commonly worn by privateers recently awakened from cryosleep.
+ent-ClothingOuterHardsuitViperGroupInitiate = rígido de víper mk.I BROOD
+    .desc = Um rígido de combate adornado com marcas assinaturas do Grupo Víper. Comumente usado por corsários recentemente acordados do criosono.
 
-ent-ClothingOuterHardsuitViperGroupJuggernaut = IMP mk.IV viper hardsuit
-    .desc = A heavy combat hardsuit adorned with signature markings of the Viper Group. The armor features reinforced plating and padding fitting for close encounters.
+ent-ClothingOuterHardsuitViperGroupJuggernaut = rígido de víper mk.IV IMP
+    .desc = Um rígido de combate pesado adornado com marcas assinaturas do Grupo Víper. A armadura apresenta placas reforçadas e acolchoamento adequado para encontros próximos.
 
-ent-ClothingOuterHardsuitViperGroupMedic = RIPPER mk.III viper hardsuit
-    .desc = A combat medical hardsuit adorned with signature markings of the Viper Group. The armor features various reinforced plating in vital areas.
+ent-ClothingOuterHardsuitViperGroupMedic = rígido de víper mk.III RIPPER
+    .desc = Um rígido médico de combate adornado com marcas assinaturas do Grupo Víper. A armadura apresenta várias placas reforçadas em áreas vitais.
 
-ent-ClothingOuterHardsuitViperGroupStandard = JACKAL mk.II viper hardsuit
-    .desc = A combat hardsuit adorned with signature markings of the Viper Group. The armor is remarkably flexible for the protection it offers.
+ent-ClothingOuterHardsuitViperGroupStandard = rígido de víper mk.II JACKAL
+    .desc = Um rígido de combate adornado com marcas assinaturas do Grupo Víper. A armadura é notavelmente flexível para a proteção que oferece.
 
 # From: _Mono/Entities/Clothing/OuterClothing/modsuit.yml
 
-ent-ClothingModsuitChestplateMercenary = mercenary modsuit chestplate
-    .desc = A well rounded modsuit that focuses on mobility with its Actuator Enhancement System allowing its wearer to leap across the battlefield for rapid redeployment.
+ent-ClothingModsuitChestplateMercenary = peitoral de modsuit mercenário
+    .desc = Um modsuit bem equilibrado que foca em mobilidade com seu Sistema de Aprimoramento de Atuador permitindo que seu usuário salte através do campo de batalha para redeployments rápidos.
 
-ent-ClothingModsuitChestplateRogue = RX-01 modsuit chestplate
-    .desc = The chestpiece has some warning label on the inside about radiation leaks- and a note next to it 'Remove this label in the final product - Felix
+ent-ClothingModsuitChestplateRogue = peitoral de modsuit RX-01
+    .desc = A peça do peito tem algum aviso por dentro sobre vazamentos de radiação - e uma nota ao lado 'Remova este aviso no produto final - Felix'
 
 ent-ClothingModsuitChestplateUSSPVaryag = Panzerkorps Varyag
-    .desc = Thick plating fused with internal atmosphere control.
+    .desc = Placas grossas fundidas com controle de atmosfera interno.
 
 ent-ClothingModsuitChestplateUSSPZastavnik = Brust Zastavnika
-    .desc = An imposing armored shell designed to absorb punishment and maintain stability under pressure.
+    .desc = Uma carapaça blindada imponente projetada para absorver punição e manter estabilidade sob pressão.
 
-ent-ClothingModsuitChestplateVolta = Volta Modsuit Chestplate
-    .desc = Reinforced military modification of Sapper Modsuit, featuring better bullet resistance.
+ent-ClothingModsuitChestplateVolta = Peitoral de Modsuit Volta
+    .desc = Modificação militar reforçada do Modsuit de Sapador, apresentando melhor resistência a balas.
 
 # From: _Mono/Entities/Clothing/OuterClothing/softsuits.yml
 
-ent-ClothingOuterEVASuitDME = DME EVA Suit
-    .desc = An EVA suit with a built-in helmet commonly issued to wealthy traders.
+ent-ClothingOuterEVASuitDME = Traje EVA da DME
+    .desc = Um traje EVA com um capacete embutido geralmente emitido para comerciantes ricos.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Vests/vests.yml
 
-ent-ClothingOuterDrakeIndustriesTruckerPuffyVest = puffy vest
-    .desc = A flashy looking puffy and somewhat elastic vest. It makes an insane amount of noise at the slighest movement, but at least they bothered making some pockets on the inside.
+ent-ClothingOuterDrakeIndustriesTruckerPuffyVest = colete puff
+    .desc = Um colete puff de aparência chamativa e um pouco elástico. Faz uma quantidade insana de barulho com o menor movimento, mas pelo menos eles se deram ao trabalho de fazer alguns bolsos por dentro.
 
 # From: _Mono/Entities/Clothing/Shoes/boots.yml
 
-ent-ClothingShoesTacticalSwatBlack = black tactical swat boots
-    .desc = A pair of tactical swat boots for when you want to turn up the heat.
+ent-ClothingShoesTacticalSwatBlack = botas táticas swat pretas
+    .desc = Um par de botas táticas swat para quando você quer aumentar a intensidade.
 
-ent-ClothingShoesTacticalSwatCoyoteBrown = coyote brown tactical swat boots
-    .desc = A pair of tactical swat boots for when you want to turn up the heat.
+ent-ClothingShoesTacticalSwatCoyoteBrown = botas táticas swat coyote brown
+    .desc = Um par de botas táticas swat para quando você quer aumentar a intensidade.
 
-ent-ClothingShoesTacticalSwatOlive = olive tactical swat boots
-    .desc = A pair of tactical swat boots for when you want to turn up the heat.
+ent-ClothingShoesTacticalSwatOlive = botas táticas swat oliva
+    .desc = Um par de botas táticas swat para quando você quer aumentar a intensidade.
 
-ent-ClothingShoesTacticalSwatRangerGreen = ranger green tactical swat boots
-    .desc = A pair of tactical swat boots for when you want to turn up the heat.
+ent-ClothingShoesTacticalSwatRangerGreen = botas táticas swat ranger green
+    .desc = Um par de botas táticas swat para quando você quer aumentar a intensidade.
 
-ent-ClothingShoesTacticalSwatTan = tan tactical swat boots
-    .desc = A pair of tactical swat boots for when you want to turn up the heat.
+ent-ClothingShoesTacticalSwatTan = botas táticas swat tan
+    .desc = Um par de botas táticas swat para quando você quer aumentar a intensidade.
 
-ent-ClothingShoesTacticalSwatWhite = white tactical swat boots
-    .desc = A pair of tactical swat boots for when you want to turn up the heat.
+ent-ClothingShoesTacticalSwatWhite = botas táticas swat brancas
+    .desc = Um par de botas táticas swat para quando você quer aumentar a intensidade.
 
 # From: _Mono/Entities/Clothing/Shoes/magboots.yml
 
-ent-ClothingShoesBootsMagAsakim = pre-fracture magboots
-    .desc = State-of-the-art magnetic boots made for combat with advanced harnesses.
+ent-ClothingShoesBootsMagAsakim = magboots pré-fratura
+    .desc = Botas magnéticas de ponta feitas para combate com arreios avançados.
 
-ent-ClothingShoesBootsMagAshen = tactical magboots
-    .desc = Tactical magnetic boots that have a heavy magnetic pull and integrated thrusters for boarding. It can hold 0.75 L of gas.
+ent-ClothingShoesBootsMagAshen = magboots táticas
+    .desc = Botas magnéticas táticas que têm um puxo magnético pesado e propulsores integrados para abordagem. Pode conter 0,75 L de gás.
 
-ent-ClothingShoesBootsMagDrakeIndustries = painted magboots
-    .desc = Yep, that's just repainted science boots.
+ent-ClothingShoesBootsMagDrakeIndustries = magboots pintadas
+    .desc = Sim, são apenas botas magnéticas de ciência repintadas.
 
-ent-ClothingShoesBootsMagPDVAdvanced = advanced tactical magboots
-    .desc = Experimental high tech magboots, reverse engineered from the remnants of Pre-fracture technology. These sets are only found in hands of the Dynasty's most valued soldiers.
+ent-ClothingShoesBootsMagPDVAdvanced = magboots táticas avançadas
+    .desc = Magboots de alta tecnologia experimental, projetadas reversamente a partir dos remanescentes da tecnologia pré-fratura. Estes conjuntos são encontrados apenas nas mãos dos soldados mais valorizados da Dinastia.
 
 ent-ClothingShoesBootsMagVoid = voidboots
-    .desc = Magboots enhanced with bluespace tethering technology, allowing you to walk on the void of space.
+    .desc = Magboots aprimoradas com tecnologia de amarração de bluespace, permitindo que você ande no vácuo do espaço.
 
 # From: _Mono/Entities/Clothing/Shoes/misc.yml
 
-ent-ClothingShoesClothwrapBlack = black cloth footwraps
-    .desc = A roll of treated canvas used for wrapping feet or paws, dyed black.
+ent-ClothingShoesClothwrapBlack = envoltórios de pano pretos para os pés
+    .desc = Um rolo de lona tratada usado para envolver pés ou patas, tingido de preto.
 
 # From: _Mono/Entities/Clothing/Shoes/modsuit.yml
 
-ent-ClothingModsuitBootsMercenary = mercenary modsuit boots
-    .desc = The suits Actuator Enhancement System paired with the built in magboots make boarding actions a breeze.
+ent-ClothingModsuitBootsMercenary = botas de modsuit mercenário
+    .desc = O Sistema de Aprimoramento de Atuador do traje combinado com as magboots embutidas tornam as ações de abordagem uma brisa.
 
-ent-ClothingModsuitBootsRogue = RX-01 modsuit boots
-    .desc = Magnetized voidboots to help you avoid slips, trips, and Feds.
+ent-ClothingModsuitBootsRogue = botas de modsuit RX-01
+    .desc = Voidboots magnetizadas para ajudá-lo a evitar escorregões, tropeços e Federais.
 
 ent-ClothingModsuitBootsUSSPVaryag = Marshevyye Varyag
-    .desc = Heavy-duty boots designed for combat and EVA.
+    .desc = Botas pesadas projetadas para combate e EVA.
 
 ent-ClothingModsuitBootsUSSPZastavnik = Sapogi Zastavnika
-    .desc = Thick, reinforced boots with magnetic stabilizers and shock absorption.
+    .desc = Botas grossas e reforçadas com estabilizadores magnéticos e absorção de choques.
 
-ent-ClothingModsuitBootsVolta = Volta Modsuit Boots
-    .desc = Made to get militaristically oily.
+ent-ClothingModsuitBootsVolta = Botas de Modsuit Volta
+    .desc = Feitas para ficar militaristicamente oleosas.
 
 # From: _Mono/Entities/Debugging/debug.sweps.yml
 
-ent-WallPlastitaniumDebug = debug plastitanium wall
-    .suffix = indestructible, DEBUG
-    .desc = God bless shipgun rebalance.
+ent-WallPlastitaniumDebug = parede de plastitanium de debug
+    .suffix = indestrutível, DEBUG
+    .desc = Deus abençoe o reequilíbrio da arma de nave.
 
 ent-WeaponOmnigun = omnigun
     .suffix = DEBUG
-    .desc = shoot with anything i dont fucking care.
+    .desc = atire com qualquer coisa eu não dou a menor porra.
 
 # From: _Mono/Entities/Effects/projectile.yml
 
-ent-InstantEffectEMP = instant EMP effect
+ent-InstantEffectEMP = efeito EMP instantâneo
 
-ent-LightningEMP = ionised lightning
+ent-LightningEMP = relâmpago ionizado
 
 # From: _Mono/Entities/Markers/GridEdge/grid_edge.yml
 
 # Abstract entity (referenceable by children)
-ent-RadarEdgeMarkerBase = grid edge marker
+ent-RadarEdgeMarkerBase = marcador de borda de grade
 
-ent-RadarEdgeMarkerCenter = central radar edge marker
+ent-RadarEdgeMarkerCenter = marcador de borda de radar central
 
-ent-RadarEdgeMarkerDiagonal = diagonal radar edge marker
+ent-RadarEdgeMarkerDiagonal = marcador de borda de radar diagonal
 
-ent-RadarEdgeMarkerHalftiltLeft = left halftilt radar edge marker
+ent-RadarEdgeMarkerHalftiltLeft = marcador de borda de radar inclinado à esquerda
 
-ent-RadarEdgeMarkerHalftiltRight = right halftilt radar edge marker
+ent-RadarEdgeMarkerHalftiltRight = marcador de borda de radar inclinado à direita
 
-ent-RadarEdgeMarkerStraight = straight radar edge marker
+ent-RadarEdgeMarkerStraight = marcador de borda de radar reto
 
 # From: _Mono/Entities/Markers/repair.yml
 
-ent-RepairGhost = repair ghost
+ent-RepairGhost = fantasma de reparo
 
 # From: _Mono/Entities/Markers/Spawners/bitcoin.yml
 
-ent-SpawnLootDatafarmBitcoin = random bitcoin
-    .suffix = Datafarm Bitcoin Spawner
+ent-SpawnLootDatafarmBitcoin = bitcoin aleatório
+    .suffix = Gerador de Bitcoin Datafarm
 
 # From: _Mono/Entities/Markers/Spawners/ghost_roles.yml
 
-ent-SpawnAsakimWarrior = asakim warrior spawner
+ent-SpawnAsakimWarrior = gerador de guerreiro asakim
 
-ent-SpawnChimeraGhostrole = chimera ghostrole spawner
+ent-SpawnChimeraGhostrole = gerador de ghostrole de quimera
 
-ent-SpawnRedactedBorg = ADS tender spawner
+ent-SpawnRedactedBorg = gerador de tratador ADS
 
-ent-SpawnRedactedBorgPlaytime = ADS playtime-locked tender spawner
+ent-SpawnRedactedBorgPlaytime = gerador de tratador ADS bloqueado por tempo de brincadeira
 
 # From: _Mono/Entities/Markers/Spawners/jobs.yml
 
-ent-SpawnPointMdMedic = Emergency Responder
+ent-SpawnPointMdMedic = Socorrista de Emergência
 
-ent-SpawnPointPDVBorg = pdv cyborg
+ent-SpawnPointPDVBorg = ciborgue pdv
 
-ent-SpawnPointPDVDenasvar = PDV Denasvar
+ent-SpawnPointPDVDenasvar = Denasvar PDV
 
-ent-SpawnPointPDVInfiltrator = pdv infiltrator
+ent-SpawnPointPDVInfiltrator = infiltrador pdv
 
-ent-SpawnPointTSFBorg = tsf cyborg
+ent-SpawnPointTSFBorg = ciborgue tsf
 
-ent-SpawnPointTsfEngi = TSF Engineer
+ent-SpawnPointTsfEngi = Engenheiro da TSF
 
-ent-SpawnPointUSSPCommissar = USSP Commissar
+ent-SpawnPointUSSPCommissar = Comissário da USSP
 
-ent-SpawnPointUSSPRifleman = USSP Rifleman
+ent-SpawnPointUSSPRifleman = Fuzileiro da USSP
 
-ent-SpawnPointUSSPSergeant = USSP Serzhant
+ent-SpawnPointUSSPSergeant = Sargento da USSP
 
-ent-SpawnPointVGCommander = VG Commander
+ent-SpawnPointVGCommander = Comandante VG
 
-ent-SpawnPointVGInfanteer = VG Infanteer
+ent-SpawnPointVGInfanteer = Infantaria VG
 
-ent-SpawnPointVGLieutenant = VG Lieutenant
+ent-SpawnPointVGLieutenant = Tenente VG
 
 # From: _Mono/Entities/Markers/Spawners/mechs.yml
 
 ent-AFInterceptorFilled = {ent-BaseAFInterceptor}
-    .suffix = Battery, Filled
+    .suffix = Bateria, Preenchido
     .desc = {ent-BaseAFInterceptor.desc}
 
-ent-SpawnMechAFInterceptorFilled = AF-28 Broadsword Spawner
-    .suffix = Filled
+ent-SpawnMechAFInterceptorFilled = Gerador de Broadsword AF-28
+    .suffix = Preenchido
 
-ent-SpawnMechAFInterceptorMFilled = AF-28-M Halberd Spawner
-    .suffix = Filled
+ent-SpawnMechAFInterceptorMFilled = Gerador de Halberd AF-28-M
+    .suffix = Preenchido
 
 # From: _Mono/Entities/Markers/Spawners/Random/Loot/weapons.yml
 
-ent-POILootAmmoMarker = POI loot ammo loot spawner
+ent-POILootAmmoMarker = gerador de saque de munição POI
 
-ent-POILootWeaponsAmmoMarker = POI loot mixed weapons & ammo loot spawner
+ent-POILootWeaponsAmmoMarker = gerador de saque misto de armas e munição POI
 
-ent-POILootWeaponsMarker = POI loot weapons loot spawner
+ent-POILootWeaponsMarker = gerador de saque de armas POI
 
 # From: _Mono/Entities/Markers/Spawners/Random/nt_loot.yml
 
-ent-NTLootBackpack = NT backpack spawner
+ent-NTLootBackpack = gerador de mochila NT
 
-ent-NTLootHardsuit = NT hardsuit spawner
+ent-NTLootHardsuit = gerador de rígido NT
 
-ent-NTLootT1Clothing = NT clothing T1 spawner
+ent-NTLootT1Clothing = gerador de roupa NT T1
 
-ent-NTLootT2Clothing = NT clothing T2 spawner
+ent-NTLootT2Clothing = gerador de roupa NT T2
 
-ent-NTLootT3Clothing = NT clothing T3 Spawner
+ent-NTLootT3Clothing = Gerador de roupa NT T3
 
 # From: _Mono/Entities/Markers/Spawners/Random/paintings.yml
 
-ent-RandomPaintingConstructed = random painting spawner
-    .suffix = Constructed
+ent-RandomPaintingConstructed = gerador de pintura aleatória
+    .suffix = Construído
 
 # From: _Mono/Entities/Markers/Spawners/Random/posters.yml
 
-ent-RandomPosterConstructed = random poster spawner
-    .suffix = Constructed
+ent-RandomPosterConstructed = gerador de pôster aleatório
+    .suffix = Construído
 
 # From: _Mono/Entities/Markers/Spawners/Random/scrap_processor.yml
 
-ent-ScrapProcessorRollTrunk = scrap processor roll trunk
+ent-ScrapProcessorRollTrunk = baú rolo de processador de sucata
 
 # From: _Mono/Entities/Materials/materials.yml
 
-ent-MaterialIridite = iridite
-    .suffix = Full
-    .desc = A complex alloy synthesized from atmospheric gases, commonly used outside of the sector for heavy industrial machinery, nanofibers, and high-grade computers.
+ent-MaterialIridite = iridita
+    .suffix = Completo
+    .desc = Uma liga complexa sintetizada a partir de gases atmosféricos, comumente usado fora do setor para maquinaria industrial pesada, nanofibras e computadores de alta qualidade.
 
-ent-MaterialPyrogel = pyrogel
-    .suffix = Full
-    .desc = Paycheck Bratva's experimental chemical gel.
+ent-MaterialPyrogel = pirogel
+    .suffix = Completo
+    .desc = O gel químico experimental da Paycheck Bratva.
 
 ent-SheetPlastitanium = plastitanium
     .suffix = 15
-    .desc = An advanced, high-strength alloy. Even if it's extremely abundant in core sectors, it is hard to find in the Colossus region.
+    .desc = Uma liga avançada e de alta resistência. Mesmo sendo extremamente abundante em setores centrais, é difícil de encontrar na região do Colosso.
 
-ent-SheetUraniumDepleted = depleted uranium
-    .suffix = Full
-    .desc = Ingots of durable, dense and ridiculously heavy depleted uranium, no longer fissile - but nonetheless useful for things unrelated to warcrimes.
+ent-SheetUraniumDepleted = urânio empobrecido
+    .suffix = Completo
+    .desc = Lingotes de urânio empobrecido durável, denso e ridiculamente pesado, não mais físsil - mas ainda assim útil para coisas não relacionadas a crimes de guerra.
 
-ent-SheetUraniumFissile = fissile uranium
-    .suffix = Full
-    .desc = Ingots of pure, unadulterated weapons-grade uranium isotopes. Expect some trouble with this.
+ent-SheetUraniumFissile = urânio físsil
+    .suffix = Completo
+    .desc = Lingotes de isótopos de urânio puro e não adulterado de grau militar. Espere algum problema com isso.
 
 # From: _Mono/Entities/Mobs/Chimera/biomass.yml
 
-ent-ChimeraFleshKudzu = chimera hive biomass
-    .desc = A rapidly growing cluster of chimera biomass. WHY ARE YOU STOPPING TO LOOK AT IT?!
+ent-ChimeraFleshKudzu = biomassa de colmeia de quimera
+    .desc = Um aglomerado de biomassa de quimera de crescimento rápido. POR QUE VOCÊ ESTÁ PARANDO PARA OLHAR PARA ISSO?!
 
 # From: _Mono/Entities/Mobs/Chimera/chimera_base.yml
 
 # Abstract entity (referenceable by children)
-ent-MonoBaseMobLetoferol = chimera fleshbeast
-    .desc = A horribly mutated whatever-this-once-was.
+ent-MonoBaseMobLetoferol = besta de carne de quimera
+    .desc = Uma coisa horrivelmente mutada qualquer-coisa-que-isso-era-antes.
 
 # Abstract entity (referenceable by children)
-ent-MonoBaseMobLetoferolHumanoid = chimera fleshbeast
-    .desc = A once sentient being covered in putrid flesh and bone. You can see a glimpse of humanity left in its eyes, like whoever it was is still awake.
+ent-MonoBaseMobLetoferolHumanoid = besta de carne de quimera
+    .desc = Um ser antes senciente coberto de carne pútrida e osso. Você pode ver um vislumbre de humanidade restante em seus olhos, como quem quer que fosse ainda está acordado.
 
 # From: _Mono/Entities/Mobs/Chimera/chimera_weapons.yml
 
-ent-ActionLetoferolSpike = [color=yellow]Bone Spike[/color]
-    .desc = Shoot a short salvo of bone spikes laced with [color=yellow]letoferol[/color].
+ent-ActionLetoferolSpike = [color=yellow]Espinho Ósseo[/color]
+    .desc = Atira uma salva curta de espinhos ósseos impregnados com [color=yellow]letoferol[/color].
 
-ent-LetoferolHorrorSpike = letoferol bone spike
+ent-LetoferolHorrorSpike = espinho ósseo de letoferol
 
-ent-LetoferolSpikeGun = letoferol bone spike
-    .desc = Shoots a short salvo of bone spikes.
+ent-LetoferolSpikeGun = espinho ósseo de letoferol
+    .desc = Atira uma salva curta de espinhos ósseos.
 
 # From: _Mono/Entities/Mobs/Chimera/chimera.yml
 
-ent-MobLetoferolBeast = chimera fleshbeast
+ent-MobLetoferolBeast = besta de carne de quimera
 
-ent-MobLetoferolHorror = chimera fleshbeast
+ent-MobLetoferolHorror = besta de carne de quimera
 
-ent-MobLetoferolHorrorGhostrole = chimera fleshbeast
+ent-MobLetoferolHorrorGhostrole = besta de carne de quimera
     .suffix = Ghostrole
 
 # From: _Mono/Entities/Mobs/Cyborgs/borg_chassis.yml
 
-ent-BorgChassisSelectablePDV = PDV cyborg
-    .desc = A purpose built cyborg used by the PDV.
+ent-BorgChassisSelectablePDV = ciborgue PDV
+    .desc = Um ciborgue construído especificamente usado pela PDV.
 
-ent-BorgChassisSelectableTSF = TSF cyborg
-    .desc = A purpose built cyborg used by the TSF.
+ent-BorgChassisSelectableTSF = ciborgue TSF
+    .desc = Um ciborgue construído especificamente usado pela TSF.
 
-ent-PDVBorgChassisAssault = PDV assault cyborg
+ent-PDVBorgChassisAssault = ciborgue de assalto PDV
 
-ent-PDVBorgChassisEngineer = PDV engineer cyborg
+ent-PDVBorgChassisEngineer = ciborgue engenheiro PDV
 
-ent-PDVBorgChassisMedical = PDV medical cyborg
+ent-PDVBorgChassisMedical = ciborgue médico PDV
 
-ent-TSFBorgChassisAssault = TSF assault cyborg
+ent-TSFBorgChassisAssault = ciborgue de assalto TSF
 
-ent-TSFBorgChassisEngineer = TSF engineer cyborg
+ent-TSFBorgChassisEngineer = ciborgue engenheiro TSF
 
-ent-TSFBorgChassisMedical = TSF medical cyborg
+ent-TSFBorgChassisMedical = ciborgue médico TSF
 
 # From: _Mono/Entities/Mobs/Ghostroles/Asakim/roles.yml
 
-ent-MobAsakimGhostrole = asakim warrior
+ent-MobAsakimGhostrole = guerreiro asakim
     .suffix = Asakim
 
 # From: _Mono/Entities/Mobs/Ghostroles/MARSOC/roles.yml
 
-ent-MobHumanMarsocAMR = MARSOC specialist (AMR)
+ent-MobHumanMarsocAMR = especialista MARSOC (AMR)
 
-ent-MobHumanMarsocAutorifleman = MARSOC autorifleman
+ent-MobHumanMarsocAutorifleman = atirador automático MARSOC
 
-ent-MobHumanMarsocBase = operative base
-    .suffix = Human, Base
+ent-MobHumanMarsocBase = base de operacional
+    .suffix = Humano, Base
 
-ent-MobHumanMarsocCorpsman = MARSOC corpsman
+ent-MobHumanMarsocCorpsman = médico MARSOC
 
-ent-MobHumanMarsocFTL = MARSOC fire team leader
+ent-MobHumanMarsocFTL = líder de equipe de incêndio MARSOC
 
-ent-MobHumanMarsocMarksman = MARSOC marksman
+ent-MobHumanMarsocMarksman = atirador de elite MARSOC
 
-ent-MobHumanMarsocOperative = MARSOC operative
+ent-MobHumanMarsocOperative = operacional MARSOC
 
-ent-MobHumanMarsocSGO = MARSOC smart gun operator
+ent-MobHumanMarsocSGO = operador de arma inteligente MARSOC
 
-ent-MobHumanMarsocTPGL = MARSOC specialist (TPGL)
+ent-MobHumanMarsocTPGL = especialista MARSOC (TPGL)
 
 # From: _Mono/Entities/Mobs/NPCs/ai.yml
 
-ent-NpcDroneAiAssembly =
-    .suffix = AI, Drone-Assembly
-    .desc = Shoots at you. Broadsides.
+ent-NpcDroneAiAssembly
+    .suffix = IA, Drone-Assembly
+    .desc = Atira em você. Bordo.
 
-ent-NpcDroneAiLance = attacker core
-    .suffix = AI, Drone-Lance
-    .desc = Shoots at you, close-by.
+ent-NpcDroneAiLance = núcleo atacante
+    .suffix = IA, Drone-Lance
+    .desc = Atira em você, de perto.
 
-ent-NpcDroneAiMedusa = attacker core
-    .suffix = AI, Drone-Medusa
-    .desc = Shoots at you.
+ent-NpcDroneAiMedusa = núcleo atacante
+    .suffix = IA, Drone-Medusa
+    .desc = Atira em você.
 
-ent-NpcDroneAiMPulsar = attacker core
-    .suffix = AI, Drone-MPulsar
-    .desc = Shoots at you, up-close.
+ent-NpcDroneAiMPulsar = núcleo atacante
+    .suffix = IA, Drone-MPulsar
+    .desc = Atira em você, de perto.
 
-ent-NpcDroneAiQuake = attacker core
-    .suffix = AI, Drone-Quake
-    .desc = Shoots at you.
+ent-NpcDroneAiQuake = núcleo atacante
+    .suffix = IA, Drone-Quake
+    .desc = Atira em você.
 
-ent-NpcStationAiApproacher = approacher core
-    .desc = Stands there, menacingly.
+ent-NpcStationAiApproacher = núcleo approacher
+    .desc = Fica lá, ameaçadoramente.
 
-ent-NpcStationAiApproacherDodger = approacher core
-    .suffix = AI, Dodging, Debug
-    .desc = Stands there, menacingly. And dodges.
+ent-NpcStationAiApproacherDodger = núcleo approacher
+    .suffix = IA, Desviando, Debug
+    .desc = Fica lá, ameaçadoramente. E desvia.
 
-ent-NpcStationAiAttacker = attacker core
-    .desc = Shoots at you.
+ent-NpcStationAiAttacker = núcleo atacante
+    .desc = Atira em você.
 
-ent-NpcStationAiAttackerBroadside = attacker core
-    .suffix = AI, Broadside
-    .desc = Shoots at you. Broadside.
+ent-NpcStationAiAttackerBroadside = núcleo atacante
+    .suffix = IA, Bordo
+    .desc = Atira em você. Bordo.
 
-ent-NpcStationAiAttackerSmart = attacker core
-    .suffix = AI, Smart
-    .desc = Shoots at you. Smart.
+ent-NpcStationAiAttackerSmart = núcleo atacante
+    .suffix = IA, Inteligente
+    .desc = Atira em você. Inteligente.
 
-ent-NpcStationAiAttackerStaticSmart = attacker core
-    .suffix = AI, Smart, Static
-    .desc = Shoots at you. Smart.
+ent-NpcStationAiAttackerStaticSmart = núcleo atacante
+    .suffix = IA, Inteligente, Estático
+    .desc = Atira em você. Inteligente.
 
-ent-NpcStationAiRammer = rammer core
-    .suffix = AI
-    .desc = You feel like the fact you're looking at this means this isn't safe.
+ent-NpcStationAiRammer = núcleo rammer
+    .suffix = IA
+    .desc = Você sente que o fato de estar olhando para isso significa que isso não é seguro.
 
-ent-NpcStationAiShooter = shooter core
-    .desc = Shoots at you. Doesn't move.
+ent-NpcStationAiShooter = núcleo atirador
+    .desc = Atira em você. Não se move.
 
-ent-SpawnMobApproacherCore = approacher core spawner
+ent-SpawnMobApproacherCore = gerador de núcleo approacher
 
-ent-SpawnMobAttackerCore = attacker core spawner
+ent-SpawnMobAttackerCore = gerador de núcleo atacante
 
-ent-SpawnMobAttackerCoreSmart = smart attacker core spawner
+ent-SpawnMobAttackerCoreSmart = gerador de núcleo atacante inteligente
 
-ent-SpawnMobAttackerCoreStaticSmart = smart static attacker core spawner
+ent-SpawnMobAttackerCoreStaticSmart = gerador de núcleo atacante estático inteligente
 
-ent-SpawnMobDroneAiAssembly = attacker core spawner
-    .suffix = Broadside, Drone-Assembly
+ent-SpawnMobDroneAiAssembly = gerador de núcleo atacante
+    .suffix = Bordo, Drone-Assembly
 
-ent-SpawnMobDroneAiLance = attacker core spawner
-    .suffix = Short-Range, Drone-Lance
+ent-SpawnMobDroneAiLance = gerador de núcleo atacante
+    .suffix = Curto-Alcance, Drone-Lance
 
-ent-SpawnMobDroneAiMedusa = attacker core spawner
-    .suffix = Short-Range, Drone-Medusa
+ent-SpawnMobDroneAiMedusa = gerador de núcleo atacante
+    .suffix = Curto-Alcance, Drone-Medusa
 
-ent-SpawnMobDroneAiMPulsar = attacker core spawner
-    .suffix = Short-Range, Drone-MPulsar
+ent-SpawnMobDroneAiMPulsar = gerador de núcleo atacante
+    .suffix = Curto-Alcance, Drone-MPulsar
 
-ent-SpawnMobDroneAiQuake = attacker core spawner
+ent-SpawnMobDroneAiQuake = gerador de núcleo atacante
     .suffix = Drone-Quake
 
-ent-SpawnMobNpcStationAiAttackerBroadside = broadside attacker core spawner
+ent-SpawnMobNpcStationAiAttackerBroadside = gerador de núcleo atacante de bordo
 
-ent-SpawnMobRammerCore = rammer core spawner
+ent-SpawnMobRammerCore = gerador de núcleo rammer
 
-ent-SpawnMobRammerCoreSmart = smart rammer core spawner
+ent-SpawnMobRammerCoreSmart = gerador de núcleo rammer inteligente
 
-ent-SpawnMobRammerCoreSmartDodging = smart dodging rammer core spawner
+ent-SpawnMobRammerCoreSmartDodging = gerador de núcleo rammer inteligente desviante
 
-ent-SpawnMobRammerCoreStraight = no-evade rammer core spawner
+ent-SpawnMobRammerCoreStraight = gerador de núcleo rammer sem evasão
 
 # From: _Mono/Entities/Mobs/NPCs/animals.yml
 
-ent-MobKangarooPlanet = kangaroo
-    .desc = A large marsupial herbivore. It has powerful hind legs, with nails that resemble long claws.
+ent-MobKangarooPlanet = canguru
+    .desc = Um herbívoro marsupial grande. Tem pernas traseiras poderosas, com unhas que se parecem com garras longas.
 
 # From: _Mono/Entities/Mobs/NPCs/elemental.yml
 
-ent-MobSpawnBananiumCrabDocile = mobspawner bananium crab
+ent-MobSpawnBananiumCrabDocile = gerador de caranguejo de bananium
 
-ent-MobSpawnCoalCrabDocile = mobspawner coal crab
+ent-MobSpawnCoalCrabDocile = gerador de caranguejo de carvão
 
-ent-MobSpawnGoldCrabDocile = mobspawner gold crab
+ent-MobSpawnGoldCrabDocile = gerador de caranguejo de ouro
 
-ent-MobSpawnIronCrabDocile = mobspawner iron crab
+ent-MobSpawnIronCrabDocile = gerador de caranguejo de ferro
 
-ent-MobSpawnPlasmaCrabDocile = mobspawner plasma crab
+ent-MobSpawnPlasmaCrabDocile = gerador de caranguejo de plasma
 
-ent-MobSpawnQuartzCrabDocile = mobspawner quartz crab
+ent-MobSpawnQuartzCrabDocile = gerador de caranguejo de quartzo
 
-ent-MobSpawnSaltCrabDocile = mobspawner salt crab
+ent-MobSpawnSaltCrabDocile = gerador de caranguejo de sal
 
-ent-MobSpawnSilverCrabDocile = mobspawner silver crab
+ent-MobSpawnSilverCrabDocile = gerador de caranguejo de prata
 
-ent-MobSpawnUraniumCrabDocile = mobspawner uranium crab
+ent-MobSpawnUraniumCrabDocile = gerador de caranguejo de urânio
 
 # From: _Mono/Entities/Mobs/NPCs/monolithic.yml
 
 # Abstract entity (referenceable by children)
-ent-MobMonolithicBase = monolithic energy
-    .desc = Is this god?
+ent-MobMonolithicBase = energia monolítica
+    .desc = Isso é deus?
 
-ent-MobMonolithicGestalt = monolithic gestalt
-    .desc = An anomalous entity. Seems to be composed entirely of some kind of intangible energy, which it seems to be shooting you with. Watch out!
+ent-MobMonolithicGestalt = gestalt monolítico
+    .desc = Uma entidade anômala. Parece ser composta inteiramente de algum tipo de energia intangível, que parece estar atirando em você. Cuidado!
 
-ent-MobMonolithicGolom = monolithic golom
-    .desc = An anomalous entity. Seems to be composed entirely of some kind of durable, crystal-like energy. It also seems to be heading right towards you.
+ent-MobMonolithicGolom = golom monolítico
+    .desc = Uma entidade anômala. Parece ser composta inteiramente de algum tipo de energia durável e cristalina. Também parece estar indo direto para você.
 
-ent-MobMonolithicGolomRanged = monolithic golum
-    .desc = An anomalous entity. Seems to be composed entirely of some kind of durable, crystal-like energy, which it is shooting at you. Watch out!
+ent-MobMonolithicGolomRanged = golom monolítico
+    .desc = Uma entidade anômala. Parece ser composta inteiramente de algum tipo de energia durável e cristalina, que está atirando em você. Cuidado!
 
-ent-MobMonolithicHellLocust = monolithic hell locust
-    .desc = An anomalous entity. Seems to be composed of sharply tangible energy, in an oddly familiar form. Also seems to be running at you menacingly. Watch out!
+ent-MobMonolithicHellLocust = gafanhoto do inferno monolítico
+    .desc = Uma entidade anômala. Parece ser composta de energia nítidamente tangível, em uma forma oddlymente familiar. Também parece estar correndo em sua direção ameaçadoramente. Cuidado!
 
 # Abstract entity (referenceable by children)
-ent-MobSpawnMonolithicBase = spawner monolithic entity base
+ent-MobSpawnMonolithicBase = gerador de entidade monolítica base
 
-ent-MobSpawnMonolithicGestalt = monolithic gestalt
-    .suffix = Spawner
+ent-MobSpawnMonolithicGestalt = gestalt monolítico
+    .suffix = Gerador
 
-ent-MobSpawnMonolithicGolom = monolithic golom
-    .suffix = Spawner
+ent-MobSpawnMonolithicGolom = golom monolítico
+    .suffix = Gerador
 
-ent-MobSpawnMonolithicGolomRanged = monolithic ranged golom
-    .suffix = Spawner
+ent-MobSpawnMonolithicGolomRanged = golom monolítico à distância
+    .suffix = Gerador
 
-ent-MobSpawnMonolithicHellLocust = monolithic hell locust
-    .suffix = Spawner
+ent-MobSpawnMonolithicHellLocust = gafanhoto do inferno monolítico
+    .suffix = Gerador
 
-ent-MobSpawnMonolithicRandomBasic = spawner monolithic entity
-    .suffix = Random, Basic
+ent-MobSpawnMonolithicRandomBasic = gerador de entidade monolítica
+    .suffix = Aleatório, Básico
 
-ent-MobSpawnMonolithicRandomIntermediate = spawner monolithic entity
-    .suffix = Random, Intermediate
+ent-MobSpawnMonolithicRandomIntermediate = gerador de entidade monolítica
+    .suffix = Aleatório, Intermediário
 
 # From: _Mono/Entities/Mobs/Player/preview_observer.yml
 
-ent-ActionPreviewShowMenu = Preview controls
-    .desc = View preview information about shuttle.
+ent-ActionPreviewShowMenu = Controles de visualização
+    .desc = Ver informações de visualização sobre a nave.
 
-ent-PreviewObserver = preview observer
+ent-PreviewObserver = observador de visualização
 
 # From: _Mono/Entities/Mobs/Player/protogen.yml
 
@@ -1843,26 +1843,26 @@ ent-MobProtogen = Urist McHardDrive
 # From: _Mono/Entities/Mobs/Player/silicon.yml
 
 # Abstract entity (referenceable by children)
-ent-AiHeldMono =
-    .desc = Components added / removed from an entity that gets inserted into an AI core.
+ent-AiHeldMono
+    .desc = Componentes adicionados/removidos de uma entidade que é inserida em um núcleo de IA.
 
-ent-AiHeldPDV =
+ent-AiHeldPDV
     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldRedacted =
+ent-AiHeldRedacted
     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldSec =
+ent-AiHeldSec
     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldTSFMC =
+ent-AiHeldTSFMC
     .desc = {ent-AiHeldMono.desc}
 
-ent-AiHeldVessel =
+ent-AiHeldVessel
     .desc = {ent-AiHeldMono.desc}
 
-ent-BorgChassisRedacted = remnant automated defense system tender
-    .desc = A tender to an automated drone ship, to keep its internal mechanisms intact.
+ent-BorgChassisRedacted = tratador de sistema de defesa automatizado remanescente
+    .desc = Um tratador para uma nave de drone automatizada, para manter seus mecanismos internos intactos.
 
 # From: _Mono/Entities/Mobs/Species/asakim.yml
 
@@ -1872,11 +1872,11 @@ ent-BaseMobAsakim = Urist McAsakim
 ent-MobAsakim = Urist McAsakim
     .suffix = Urisst' MzAsakim
 
-ent-MobAsakimDummy =
-    .desc = A dummy Asakim meant to be used in character setup.
+ent-MobAsakimDummy
+    .desc = Um Asakim boneco destinado a ser usado na configuração de personagem.
 
 ent-MobAsakimRandom = Urist McAsakim
-    .suffix = Random Appearance
+    .suffix = Aparência Aleatória
 
 # From: _Mono/Entities/Mobs/Species/protogen.yml
 
@@ -1885,950 +1885,950 @@ ent-BaseMobProtogen = Urist McHardDrive
 
 # From: _Mono/Entities/Objects/Consumable/Drinks/drinks_bottles.yml
 
-ent-DrinkBeerCervezaCristalFull = cerveza cristal bottle
+ent-DrinkBeerCervezaCristalFull = garrafa de cerveja cristal
     .suffix = Admeme
-    .desc = A suspiciously cheap lager in a brown bottle. Emits a triumphant 'CERVEZA CRISTAAAL' when opened, as if it just won a prize for existing.
+    .desc = Uma lager suspeitamente barata em uma garrafa marrom. Emite um triunfante 'CERVEZA CRISTAAAL' quando aberta, como se tivesse acabado de ganhar um prêmio por existir.
 
-ent-DrinkIceCreamJug = ice cream jug
-    .desc = A jug full of sweet, homemade ice cream.
+ent-DrinkIceCreamJug = jarra de sorvete
+    .desc = Uma jarra cheia de sorvete doce caseiro.
 
-ent-DrinkRootBearFloatJug = root beer float jug
-    .desc = Root beer, but now with ice cream on top. It truly is the magnum opus of Canadian summertime drinks.
+ent-DrinkRootBearFloatJug = jarra de root beer float
+    .desc = Root beer, mas agora com sorvete por cima. É verdadeiramente a obra-prima das bebidas de verão canadenses.
 
 # From: _Mono/Entities/Objects/Consumable/Drinks/trash_drinks.yml
 
-ent-DrinkBottleCervezaCristal = cerveza cristal bottle
+ent-DrinkBottleCervezaCristal = garrafa de cerveja cristal
     .suffix = Admeme
 
 # From: _Mono/Entities/Objects/Consumable/Food/Baked/misc.yml
 
-ent-FoodBakedBiscuitOatmeal = oatmeal biscuit
-    .desc = A biscuit made with oatmeal, perfect pair for some tea or coffee.
+ent-FoodBakedBiscuitOatmeal = biscoito de aveia
+    .desc = Um biscoito feito com aveia, par perfeito para um chá ou café.
 
-ent-FoodBakedBiscuitSimple = simple biscuit
-    .desc = A simple dry biscuit, perfect pair for some tea or coffee.
+ent-FoodBakedBiscuitSimple = biscoito simples
+    .desc = Um biscoito seco simples, par perfeito para um chá ou café.
 
-ent-FoodBakedBiscuitSugar = sugar biscuit
-    .desc = A biscuit with a sugar coating, perfect pair for some tea or coffee.
+ent-FoodBakedBiscuitSugar = biscoito de açúcar
+    .desc = Um biscoito com cobertura de açúcar, par perfeito para um chá ou café.
 
 # From: _Mono/Entities/Objects/Consumable/Food/Containers/bucket_paper.yml
 
-ent-BucketPaper = paper bucket
-    .desc = A disposable paper liner for buckets of fried food.
+ent-BucketPaper = balde de papel
+    .desc = Um forro descartável de papel para baldes de comida frita.
 
 # From: _Mono/Entities/Objects/Consumable/Food/meat.yml
 
-ent-FoodMeatChickenBucket = bucket of fried chicken
-    .desc = A bucket filled with several crispy fried chicken pieces.
+ent-FoodMeatChickenBucket = balde de frango frito
+    .desc = Um balde cheio de vários pedaços crocantes de frango frito.
 
-ent-FoodMeatResomi = raw resomi meat
-    .desc = A slab of raw resomi. Remember to wash your hands!
+ent-FoodMeatResomi = carne de resomi crua
+    .desc = Um pedaço de resomi cru. Lembre-se de lavar as mãos!
 
-ent-FoodMeatResomiBattered = breaded resomi
-    .desc = A resomi fillet dredged in a gloopy flour and egg mixture.
+ent-FoodMeatResomiBattered = resomi empanado
+    .desc = Um filé de resomi mergulhado em uma mistura gomosa de farinha e ovo.
 
-ent-FoodMeatResomiBucket = bucket of fried resomi
-    .desc = A bucket filled with several crispy fried resomi pieces.
+ent-FoodMeatResomiBucket = balde de resomi frito
+    .desc = Um balde cheio de vários pedaços crocantes de resomi frito.
 
-ent-FoodMeatResomiCutlet = raw resomi cutlet
-    .desc = A thin slice of raw resomi meat, ready for breading or frying.
+ent-FoodMeatResomiCutlet = bife de resomi cru
+    .desc = Uma fatia fina de carne de resomi crua, pronto para empanar ou fritar.
 
-ent-FoodMeatResomiCutletCooked = cooked resomi cutlet
-    .desc = A cooked slice of resomi meat, golden and juicy.
+ent-FoodMeatResomiCutletCooked = bife de resomi cozido
+    .desc = Uma fatia cozida de carne de resomi, dourada e suculenta.
 
-ent-FoodMeatResomiFried = fried resomi
-    .desc = A crispy fried resomi fillet. Tastes like space chicken.
+ent-FoodMeatResomiFried = resomi frito
+    .desc = Um filé de resomi frito crocante. Sabe como frango espacial.
 
-ent-FoodMeatResomiSteak = cooked resomi steak
-    .desc = A perfectly cooked resomi steak. Surprisingly tender.
+ent-FoodMeatResomiSteak = bife de resomi cozido
+    .desc = Um bife de resomi perfeitamente cozido. Surpreendentemente macio.
 
 # From: _Mono/Entities/Objects/Consumable/Food/mre_rations.yml
 
-ent-FoodMREPSB = MRE prepacked sustenance bar
-    .desc = A side of slop-bar to your MRE.
+ent-FoodMREPSB = barra de sustentação pré-embalada RME
+    .desc = Uma barra de susta ao seu RME.
 
-ent-FoodMREPSBBarBanana = banana sustenance bar
-    .suffix = MRE
-    .desc = A tasty sustenance bar. This one is banana milkshake flavored: banana and milk.
+ent-FoodMREPSBBarBanana = barra de sustentação de banana
+    .suffix = RME
+    .desc = Uma barra de sustentação saborosa. Esta é sabor milkshake de banana: banana e leite.
 
-ent-FoodMREPSBBarBrownie = brownie sustenance bar
-    .suffix = MRE
-    .desc = A tasty sustenance bar. This one is brownie flavored.
+ent-FoodMREPSBBarBrownie = barra de sustentação de brownie
+    .suffix = RME
+    .desc = Uma barra de sustentação saborosa. Esta é sabor brownie.
 
-ent-FoodMREPSBBarMeat = meat sustenance bar
-    .suffix = MRE
-    .desc = A tasty sustenance bar. This one is meat and pepper flavored.
+ent-FoodMREPSBBarMeat = barra de sustentação de carne
+    .suffix = RME
+    .desc = Uma barra de sustentação saborosa. Esta é sabor carne e pimenta.
 
-ent-FoodMREPSBBarNeapolitan = neapolitan sustenance bar
-    .suffix = MRE
-    .desc = A tasty sustenance bar. This one is neapolitan flavored: strawberry, vanilla, and chocolate.
+ent-FoodMREPSBBarNeapolitan = barra de sustentação de neapolitano
+    .suffix = RME
+    .desc = Uma barra de sustentação saborosa. Esta é sabor neapolitano: morango, baunilha e chocolate.
 
-ent-FoodSnackEnergyMRE = MRE energy bar
-    .desc = An individually-wrapped energy bar.
+ent-FoodSnackEnergyMRE = barra de energia RME
+    .desc = Uma barra de energia embalada individualmente.
 
-ent-FoodSnackNutribrickMRE = MRE nutribrick
-    .desc = A carefully synthesized brick designed to contain the highest ratio of nutriment to volume. Might not taste like shit.
+ent-FoodSnackNutribrickMRE = nutribrick RME
+    .desc = Um tijolo cuidadosamente sintetizado projetado para conter a maior proporção de nutriente para volume. Pode não ter gosto de merda.
 
 # From: _Mono/Entities/Objects/Consumable/Food/noodles.yml
 
-ent-FoodMacaroni = macaroni & cheese
-    .desc = Cheesy!
+ent-FoodMacaroni = macarrão com queijo
+    .desc = Cheiroso!
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/computer.yml
 
-ent-EliteRadarCircuitboard = elite radar computer board
-    .desc = A computer printed circuit board for an elite radar computer.
+ent-EliteRadarCircuitboard = placa de computador de radar elite
+    .desc = Uma placa de circuito impresso de computador para um computador de radar elite.
 
-ent-GunneryControlComputerCircuitboard = gunnery control computer board
-    .desc = A computer printed circuit board for a gunnery control computer.
+ent-GunneryControlComputerCircuitboard = placa de computador de controle de artilharia
+    .desc = Uma placa de circuito impresso de computador para um computador de controle de artilharia.
 
-ent-StationAiUploadCircuitboardUnlocked =
-    .suffix = Unlocked
-    .desc = A computer printed circuit board for a AI upload console.
+ent-StationAiUploadCircuitboardUnlocked
+    .suffix = Destravado
+    .desc = Uma placa de circuito impresso de computador para um console de upload de IA.
 
-ent-StationRadarCircuitboard = overwatch radar computer board
-    .desc = A computer printed circuit board for a station radar computer.
+ent-StationRadarCircuitboard = placa de computador de radar de sobrevida
+    .desc = Uma placa de circuito impresso de computador para um computador de radar de estação.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/economy.yml
 
-ent-CentrifugeLatheMiniCircuitboard = miniature economy centrifuge machine board
-    .desc = A machine printed circuit board for a miniature centrifuge.
+ent-CentrifugeLatheMiniCircuitboard = placa de máquina de centrifugação econômica miniatura
+    .desc = Uma placa de circuito impresso de máquina para uma centrifugadora miniatura.
 
-ent-IndustrialLatheEconomyMachineCircuitboard = industrial lathe machine board
-    .desc = A machine printed circuit board for an industrial economy lathe.
+ent-IndustrialLatheEconomyMachineCircuitboard = placa de máquina de torno industrial
+    .desc = Uma placa de circuito impresso de máquina para um torno econômico industrial.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/misc.yml
 
-ent-CarpCallerMachineCircuitboard = carp caller machine board
+ent-CarpCallerMachineCircuitboard = placa de máquina de chamador de carp
 
-ent-ContainmentFieldGeneratorCircuitboard = containment field generator machine board
+ent-ContainmentFieldGeneratorCircuitboard = placa de máquina gerador de campo de contenção
 
-ent-ShipDrillMachineCircuitboard = ship drill machine board
+ent-ShipDrillMachineCircuitboard = placa de máquina de perfuração de nave
 
-ent-SmartArmoryCircuitboard = smart-armory machine board
-    .desc = A machine printed circuit board for a smart-armory.
+ent-SmartArmoryCircuitboard = placa de máquina armeiro inteligente
+    .desc = Uma placa de circuito impresso de máquina para um armeiro inteligente.
 
-ent-SmartfridgeCircuitboard = smartfridge machine board
-    .desc = A machine printed circuit board for a smartfridge.
+ent-SmartfridgeCircuitboard = placa de máquina geladeira inteligente
+    .desc = Uma placa de circuito impresso de máquina para uma geladeira inteligente.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/salvage.yml
 
-ent-OreMagnetMachineCircuitboard = ore magnet machine board
-    .desc = A machine printed circuit board for an ore magnet.
+ent-OreMagnetMachineCircuitboard = placa de máquina ímã de minério
+    .desc = Uma placa de circuito impresso de máquina para um ímã de minério.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/shields.yml
 
-ent-MachineShieldMS100Circuitboard = MS-100 shield generator board
-    .desc = A machine board for a shield generator.
+ent-MachineShieldMS100Circuitboard = placa de gerador de escudo MS-100
+    .desc = Uma placa de máquina para um gerador de escudo.
 
-ent-MachineShieldMS250Circuitboard = MS-250 shield generator board
-    .desc = A machine board for a shield generator.
+ent-MachineShieldMS250Circuitboard = placa de gerador de escudo MS-250
+    .desc = Uma placa de máquina para um gerador de escudo.
 
-ent-MachineShieldMS500Circuitboard = MS-500 shield generator board
-    .desc = A machine board for a shield generator.
+ent-MachineShieldMS500Circuitboard = placa de gerador de escudo MS-500
+    .desc = Uma placa de máquina para um gerador de escudo.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/ship_components.yml
 
-ent-LargeThrusterMachineCircuitboard = large thruster machine board
-    .desc = A large circuitboard for a 2x2 machine frame.
+ent-LargeThrusterMachineCircuitboard = placa de máquina propulsor grande
+    .desc = Uma placa grande para uma armação de máquina 2x2.
 
-ent-MachineDriveCTLA25Circuitboard = CTLA-25 bluespace drive board
-    .desc = A machine board for a bluespace drive.
+ent-MachineDriveCTLA25Circuitboard = placa de drive bluespace CTLA-25
+    .desc = Uma placa de máquina para um drive bluespace.
 
-ent-MachineDriveCTLA25sCircuitboard = CTLA-25s bluespace drive board
-    .desc = A machine board for an advanced bluespace drive.
+ent-MachineDriveCTLA25sCircuitboard = placa de drive bluespace CTLA-25s
+    .desc = Uma placa de máquina para um drive bluespace avançado.
 
-ent-MachineDriveCTLA50Circuitboard = CTLA-50 bluespace drive board
-    .desc = A machine board for an advanced bluespace drive.
+ent-MachineDriveCTLA50Circuitboard = placa de drive bluespace CTLA-50
+    .desc = Uma placa de máquina para um drive bluespace avançado.
 
-ent-MachineGCSHighCircuitboard = high-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSHighCircuitboard = placa de servidor de controle de artilharia de alta potência
+    .desc = Uma placa de máquina para um GCS.
 
-ent-MachineGCSLowCircuitboard = low-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSLowCircuitboard = placa de servidor de controle de artilharia de baixa potência
+    .desc = Uma placa de máquina para um GCS.
 
-ent-MachineGCSMediumCircuitboard = medium-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSMediumCircuitboard = placa de servidor de controle de artilharia de potência média
+    .desc = Uma placa de máquina para um GCS.
 
-ent-MachineGCSStationCircuitboard = station gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSStationCircuitboard = placa de servidor de controle de artilharia de estação
+    .desc = Uma placa de máquina para um GCS.
 
-ent-MachineGCSUltraCircuitboard = ultra-high-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSUltraCircuitboard = placa de servidor de controle de artilharia de ultra alta potência
+    .desc = Uma placa de máquina para um GCS.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/techfab.yml
 
-ent-MilitaryTechfabMachineCircuitboard = military multi-purpose assembler machine board
-    .desc = A machine printed circuit board for a military assembler.
+ent-MilitaryTechfabMachineCircuitboard = placa de máquina montador multipropósito militar
+    .desc = Uma placa de circuito impresso de máquina para um montador militar.
 
-ent-USSPTechfabMachineCircuitboard = USSP field assembler machine board
-    .desc = A machine printed circuit board for a USSP assembler.
+ent-USSPTechfabMachineCircuitboard = placa de máquina montador de campo da USSP
+    .desc = Uma placa de circuito impresso de máquina para um montador da USSP.
 
-ent-VGTechfabMachineCircuitboard = Viper Group precision lathe machine board
-    .desc = A machine printed circuit board for a VG precision lathe.
+ent-VGTechfabMachineCircuitboard = placa de máquina torno de precisão do Grupo Víper
+    .desc = Uma placa de circuito impresso de máquina para um torno de precisão VG.
 
 # From: _Mono/Entities/Objects/Devices/Circuitboards/Machine/turrets.yml
 
-ent-WeaponTurretM25Circuitboard = M25 mining pulsar machine board
-    .suffix = Machine Board
-    .desc = A machine printed circuit board for an M25 mining pulsar.
+ent-WeaponTurretM25Circuitboard = placa de máquina pulsar de mineração M25
+    .suffix = Placa de Máquina
+    .desc = Uma placa de circuito impresso de máquina para um pulsar de mineração M25.
 
 # From: _Mono/Entities/Objects/Devices/encryption_keys.yml
 
-ent-EncryptionKeyDiplomacy = diplomatic encryption key
-    .desc = A direct communications channel to the heads of the sector's warring states.
+ent-EncryptionKeyDiplomacy = chave de criptografia diplomática
+    .desc = Um canal de comunicação direto para os chefes dos estados em guerra do setor.
 
-ent-EncryptionKeyFreeport = Freeport encryption key
-    .desc = A worn encryption key for Freeport communications, allowing the varied groups of Freeport to engage in diplomacy or yell insults, likely the latter.
+ent-EncryptionKeyFreeport = chave de criptografia do Freeport
+    .desc = Uma chave de criptografia desgastada para comunicações do Freeport, permitindo que os grupos variados do Freeport se engajem em diplomacia ou gritem insultos, provavelmente o último.
 
-ent-EncryptionKeyUssp = USSP encryption key
-    .desc = An encryption key for the USSP tactical-level communications channel.
+ent-EncryptionKeyUssp = chave de criptografia da USSP
+    .desc = Uma chave de criptografia para o canal de comunicações tático da USSP.
 
-ent-EncryptionKeyUsspCommand = USSP command encryption key
-    .desc = An encryption key for the USSP command channel. Due to USSP higher-level networking being defunct, it instead provides access to tactical command.
+ent-EncryptionKeyUsspCommand = chave de criptografia de comando da USSP
+    .desc = Uma chave de criptografia para o canal de comando da USSP. Devido à rede de nível superior da USSP estar defeituosa, em vez disso fornece acesso ao comando tático.
 
-ent-EncryptionKeyVanguardCommand = vanguard command encryption key
-    .desc = An encryption key used by officers in the vanguard.
+ent-EncryptionKeyVanguardCommand = chave de criptografia de comando de vanguarda
+    .desc = Uma chave de criptografia usada por oficiais na vanguarda.
 
-ent-EncryptionKeyViper = ViperGroup encryption key
-    .desc = An encryption key for the Viper Group tactical-level communications channel.
+ent-EncryptionKeyViper = chave de criptografia do Grupo Víper
+    .desc = Uma chave de criptografia para o canal de comunicações tático do Grupo Víper.
 
 # From: _Mono/Entities/Objects/Devices/flatpack.yml
 
-ent-AK570Flatpack = AK570 flatpack
-    .desc = A flatpack used for constructing an AK570 90mm autocannon.
+ent-AK570Flatpack = flatpack AK570
+    .desc = Um flatpack usado para construir um autocanhão AK570 90mm.
 
-ent-AtmosDeviceFanDirectionalFlatpack = directional fan flatpack
-    .desc = A flatpack used for constructing a directional fan.
+ent-AtmosDeviceFanDirectionalFlatpack = flatpack de ventilador direcional
+    .desc = Um flatpack usado para construir um ventilador direcional.
 
-ent-ChemMasterFilledFlatpack = filled chemmaster flatpack
-    .desc = A flatpack used for constructing a pre-filled ChemMaster 4000.
+ent-ChemMasterFilledFlatpack = flatpack de chemmaster preenchido
+    .desc = Um flatpack usado para construir um ChemMaster 4000 pré-preenchido.
 
-ent-FactionLatheFlatpack = military multipurpose assembler flatpack
-    .desc = A flatpack used for constructing a techfab for manufacturing faction-specific recipes.
+ent-FactionLatheFlatpack = flatpack de montador multipropósito militar
+    .desc = Um flatpack usado para construir uma techfab para fabricação de receitas específicas de facção.
 
-ent-FTLDrive25SFlatpack = CTLA-25s bluespace drive flatpack
-    .desc = A flatpack used for constructing a CTLA-25s bluespace drive.
+ent-FTLDrive25SFlatpack = flatpack de drive bluespace CTLA-25s
+    .desc = Um flatpack usado para construir um drive bluespace CTLA-25s.
 
-ent-FTLDrive50Flatpack = CTLA-50 bluespace drive flatpack
-    .desc = A flatpack used for constructing a CTLA-50 bluespace drive.
+ent-FTLDrive50Flatpack = flatpack de drive bluespace CTLA-50
+    .desc = Um flatpack usado para construir um drive bluespace CTLA-50.
 
-ent-FTLDriveFlatpack = CTLA-25 bluespace drive flatpack
-    .desc = A flatpack used for constructing a CTLA-25 bluespace drive.
+ent-FTLDriveFlatpack = flatpack de drive bluespace CTLA-25
+    .desc = Um flatpack usado para construir um drive bluespace CTLA-25.
 
-ent-GaslockFrameFlatpack = portable gaslock flatpack
-    .desc = A flatpack used for constructing a portable gaslock.
+ent-GaslockFrameFlatpack = flatpack de fechadura de gás portátil
+    .desc = Um flatpack usado para construir uma fechadura de gás portátil.
 
-ent-GasMiningDrillFlatpack = gas mining drill flatpack
-    .desc = A flatpack used for constructing a gas mining drill.
+ent-GasMiningDrillFlatpack = flatpack de perfuradora de mineração de gás
+    .desc = Um flatpack usado para construir uma perfuradora de mineração de gás.
 
-ent-L58Flatpack = L85 flatpack
-    .desc = A flatpack used for constructing an L85 20mm autocannon.
+ent-L58Flatpack = flatpack L85
+    .desc = Um flatpack usado para construir um autocanhão L85 20mm.
 
-ent-LaserDrillFlatpack = laser drill flatpack
-    .desc = A flatpack used for constructing an automated laser drill.
+ent-LaserDrillFlatpack = flatpack de perfuradora a laser
+    .desc = Um flatpack usado para construir uma perfuradora a laser automatizada.
 
-ent-M25Flatpack = M25 mining pulsar flatpack
-    .desc = A flatpack used for constructing an M25 mining pulsar. Useful for breaking up rock.
+ent-M25Flatpack = flatpack de pulsar de mineração M25
+    .desc = Um flatpack usado para construir um pulsar de mineração M25. Útil para quebrar rocha.
 
-ent-M381Flatpack = M381 CHARON flatpack
-    .desc = A flatpack used for constructing an M381 CHARON mass driver. How the fuck did they make this into a flatpack?
+ent-M381Flatpack = flatpack CHARON M381
+    .desc = Um flatpack usado para construir um mass driver CHARON M381. Como caralhos eles fizeram isso em um flatpack?
 
-ent-MassMediaFlatpack = news manager console flatpack
-    .desc = A flatpack used for constructing a news manager console.
+ent-MassMediaFlatpack = flatpack de console de gerente de notícias
+    .desc = Um flatpack usado para construir um console de gerente de notícias.
 
-ent-MaterialBoxFlatpack = construction box flatpack
-    .desc = A flatpack used for constructing a construction box.
+ent-MaterialBoxFlatpack = flatpack de caixa de construção
+    .desc = Um flatpack usado para construir uma caixa de construção.
 
-ent-MaterialSiloFlatpack = Material Silo flatpack
-    .desc = A flatpack used for constructing a Material Silo.
+ent-MaterialSiloFlatpack = flatpack de silo de material
+    .desc = Um flatpack usado para construir um silo de material.
 
-ent-MedicalAssemblerFlatpack = medical assembler flatpack
-    .desc = A flatpack used for constructing a medical assembler.
+ent-MedicalAssemblerFlatpack = flatpack de montador médico
+    .desc = Um flatpack usado para construir um montador médico.
 
-ent-OreBoxFlatpack = ore box flatpack
-    .desc = A flatpack used for constructing an ore box.
+ent-OreBoxFlatpack = flatpack de caixa de minério
+    .desc = Um flatpack usado para construir uma caixa de minério.
 
-ent-RDServerRogueFlatpack = rogue research and development server flatpack
-    .desc = A flatpack used for constructing a Rogue research and development server.
+ent-RDServerRogueFlatpack = flatpack de servidor de P&D renegado
+    .desc = Um flatpack usado para construir um servidor de pesquisa e desenvolvimento Renegado.
 
-ent-RDServerTSFFlatpack = TSF research and development server flatpack
-    .desc = A flatpack used for constructing a TSF research and development server.
+ent-RDServerTSFFlatpack = flatpack de servidor de P&D da TSF
+    .desc = Um flatpack usado para construir um servidor de pesquisa e desenvolvimento da TSF.
 
-ent-RDServerUSSPFlatpack = ussp research and development server flatpack
-    .desc = A flatpack used for constructing a USSP research and development server.
+ent-RDServerUSSPFlatpack = flatpack de servidor de P&D da USSP
+    .desc = Um flatpack usado para construir um servidor de pesquisa e desenvolvimento da USSP.
 
-ent-ResearchAndDevelopmentServerMercFlatpack = mercenary R&D server flatpack
-    .desc = A flatpack used for constructing a mercenary R&D server.
+ent-ResearchAndDevelopmentServerMercFlatpack = flatpack de servidor de P&D mercenário
+    .desc = Um flatpack usado para construir um servidor de pesquisa e desenvolvimento mercenário.
 
-ent-ScrapBoxFlatpack = scrap box flatpack
-    .desc = A flatpack used for constructing a scrap box.
+ent-ScrapBoxFlatpack = flatpack de caixa de sucata
+    .desc = Um flatpack usado para construir uma caixa de sucata.
 
-ent-TegCenterFlatpack = TEG center flatpack
-    .desc = A flatpack used for constructing a TEG center.
+ent-TegCenterFlatpack = flatpack de centro TEG
+    .desc = Um flatpack usado para construir um centro TEG.
 
-ent-TegCirculatorFlatpack = TEG circulator flatpack
-    .desc = A flatpack used for constructing a TEG circulator.
+ent-TegCirculatorFlatpack = flatpack de circulador TEG
+    .desc = Um flatpack usado para construir um circulador TEG.
 
-ent-Type35Flatpack = MARAUDER flatpack
-    .desc = A flatpack used for constructing an MARAUDER-type plasma weapon.
+ent-Type35Flatpack = flatpack MARAUDER
+    .desc = Um flatpack usado para construir uma arma de plasma tipo MARAUDER.
 
-ent-USSPLatheFlatpack = ussp field assembler flatpack
-    .desc = A flatpack used for constructing a techfab for manufacturing USSP-specific recipes.
+ent-USSPLatheFlatpack = flatpack de montador de campo da USSP
+    .desc = Um flatpack usado para construir uma techfab para fabricação de receitas específicas da USSP.
 
-ent-ViperLatheFlatpack = Viper precision flatpack
-    .desc = A flatpack used for constructing a techfab for manufacturing faction-specific recipes.
+ent-ViperLatheFlatpack = flatpack de precisão Víper
+    .desc = Um flatpack usado para construir uma techfab para fabricação de receitas específicas de facção.
 
-ent-WeaponTurretPinholeFlatpack = Pinhole flatpack
-    .desc = A flatpack used for constructing an \"Pinhole\"-designation mass driver.
+ent-WeaponTurretPinholeFlatpack = flatpack Pinhole
+    .desc = Um flatpack usado para construir um mass driver de designação "Pinhole".
 
-ent-WeaponTurretShardFlatpack = Shard flatpack
-    .desc = A flatpack used for constructing an \"Shard\"-designation ultralight mass driver.
+ent-WeaponTurretShardFlatpack = flatpack Shard
+    .desc = Um flatpack usado para construir um mass driver ultraleve de designação "Shard".
 
 # From: _Mono/Entities/Objects/Devices/Misc/identification_cards.yml
 
-ent-MedMedicIDCard = emergency responder ID card
+ent-MedMedicIDCard = cartão de ID de socorrista de emergência
 
-ent-PDVAsvaranIDCard = PDV asvaran ID card
+ent-PDVAsvaranIDCard = cartão de ID de asvaran PDV
 
-ent-PDVDenasvarIDCard = PDV Denasvar ID card
-    .desc = An identification card of one of the veteran foot soldiers among the Dynasty's Vanguard.
+ent-PDVDenasvarIDCard = cartão de ID Denasvar PDV
+    .desc = Um cartão de identificação de um dos soldados de infantaria veteranos entre a Vanguarda da Dinastia.
 
-ent-PDVGrandVizierIDCard = PDV grand vizier ID card
+ent-PDVGrandVizierIDCard = cartão de ID de grão-vizir PDV
 
-ent-PDVRakhshanIDCard = PDV rakhshan id card
+ent-PDVRakhshanIDCard = cartão de id de rakhshan PDV
 
-ent-PDVSpasakaIDCard = spasaka ID card
-    .suffix = Chameleon
+ent-PDVSpasakaIDCard = cartão de ID de spasaka
+    .suffix = Camaleão
 
-ent-TsfEngiIDCard = TSFMC engineer ID card
+ent-TsfEngiIDCard = cartão de ID de engenheiro da TSFMC
 
-ent-TsfMarsocFTLIDCard = TSFMC MARSOC fire team leader ID card
+ent-TsfMarsocFTLIDCard = cartão de ID de líder de equipe de incêndio MARSOC da TSFMC
 
-ent-TsfMarsocIDCard = TSFMC MARSOC operative ID card
+ent-TsfMarsocIDCard = cartão de ID de operacional MARSOC da TSFMC
 
-ent-USSPCommissarIDCard = USSP commissar ID card
+ent-USSPCommissarIDCard = cartão de ID de comissário da USSP
 
-ent-USSPRiflemanIDCard = USSP rifleman ID card
+ent-USSPRiflemanIDCard = cartão de ID de fuzileiro da USSP
 
-ent-USSPSergeantIDCard = USSP serzhant ID card
+ent-USSPSergeantIDCard = cartão de ID de sargento da USSP
 
-ent-VGCommanderIDCard = VG commander ID card
+ent-VGCommanderIDCard = cartão de ID de comandante VG
 
-ent-VGInfanteerIDCard = VG infanteer ID card
+ent-VGInfanteerIDCard = cartão de ID de infantaria VG
 
-ent-VGLieutenantIDCard = VG lieutenant ID card
+ent-VGLieutenantIDCard = cartão de ID de tenente VG
 
 # From: _Mono/Entities/Objects/Devices/Misc/translator_implanters.yml
 
-ent-GaryTranslatorImplanter = gary translator implanter
+ent-GaryTranslatorImplanter = implantador de tradutor gary
 
-ent-NovaCygniTranslatorImplanter = nova cygni translator implanter
+ent-NovaCygniTranslatorImplanter = implantador de tradutor nova cygni
 
 # From: _Mono/Entities/Objects/Devices/pda.yml
 
 # Abstract entity (referenceable by children)
-ent-BasePDVPDA =
-    .desc = A basic personal computer for access restriction and organization, manufactured in the Phaethon Dynasty.
+ent-BasePDVPDA
+    .desc = Um computador pessoal básico para restrição de acesso e organização, fabricado na Dinastia Phaethon.
 
 # Abstract entity (referenceable by children)
-ent-BaseUSSPPDA =
-    .desc = A basic personal computer for access restriction and organization, manufactured in the USSP.
+ent-BaseUSSPPDA
+    .desc = Um computador pessoal básico para restrição de acesso e organização, fabricado na USSP.
 
 # Abstract entity (referenceable by children)
-ent-BaseVGPDA =
-    .desc = A basic personal computer for access restriction and organization, retrofitted with old Gorlex PDA parts.
+ent-BaseVGPDA
+    .desc = Um computador pessoal básico para restrição de acesso e organização, adaptado com peças antigas de PDA Gorlex.
 
-ent-MarsocFTLPDA = TSFMC MARSOC fire team leader PDA
-    .desc = A standard TSFMC personal computer.
+ent-MarsocFTLPDA = PDA de líder de equipe de incêndio MARSOC da TSFMC
+    .desc = Um computador pessoal padrão da TSFMC.
 
-ent-MarsocPDA = TSFMC MARSOC operative PDA
-    .desc = A standard TSFMC personal computer.
+ent-MarsocPDA = PDA de operacional MARSOC da TSFMC
+    .desc = Um computador pessoal padrão da TSFMC.
 
-ent-PDVAsvaranPDA = PDV asvaran PDA
+ent-PDVAsvaranPDA = PDA de asvaran PDV
     .desc = {ent-BasePDVPDA.desc}
 
-ent-PDVDenasvarPDA = PDV denasvar PDA
+ent-PDVDenasvarPDA = PDA de denasvar PDV
     .desc = {ent-BasePDVPDA.desc}
 
-ent-PDVGrandVizierPDA = PDV grand vizier PDA
+ent-PDVGrandVizierPDA = PDA de grão-vizir PDV
     .desc = {ent-BasePDVPDA.desc}
 
-ent-PDVRakhshanPDA = PDV rakhshan PDA
+ent-PDVRakhshanPDA = PDA de rakhshan PDV
     .desc = {ent-BasePDVPDA.desc}
 
-ent-PDVSpasakaPDA = PDV spasaka PDA
+ent-PDVSpasakaPDA = PDA de spasaka PDV
     .desc = {ent-BasePDVPDA.desc}
 
-ent-TsfEngiPDA = TSFMC engineer PDA
-    .desc = A standard TSFMC personal computer.
+ent-TsfEngiPDA = PDA de engenheiro da TSFMC
+    .desc = Um computador pessoal padrão da TSFMC.
 
-ent-USSPCommissarPDA = USSP commissar PDA
+ent-USSPCommissarPDA = PDA de comissário da USSP
     .desc = {ent-BaseUSSPPDA.desc}
 
-ent-USSPRiflemanPDA = USSP rifleman PDA
+ent-USSPRiflemanPDA = PDA de fuzileiro da USSP
     .desc = {ent-BaseUSSPPDA.desc}
 
-ent-USSPSergeantPDA = USSP serzhant PDA
+ent-USSPSergeantPDA = PDA de sargento da USSP
     .desc = {ent-BaseUSSPPDA.desc}
 
-ent-VGCommanderPDA = VG commander PDA
+ent-VGCommanderPDA = PDA de comandante VG
     .desc = {ent-BaseVGPDA.desc}
 
-ent-VGInfanteerPDA = VG infanteer PDA
+ent-VGInfanteerPDA = PDA de infantaria VG
     .desc = {ent-BaseVGPDA.desc}
 
-ent-VGLieutenantPDA = VG Lieutenant PDA
+ent-VGLieutenantPDA = PDA de Tenente VG
     .desc = {ent-BaseVGPDA.desc}
 
 # From: _Mono/Entities/Objects/Devices/ship_vouchers.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseShipLPCOneUse = ship LPC
-    .desc = Contains the necessary data for a shipyard console to produce a certain design.
+ent-BaseShipLPCOneUse = LPC de nave
+    .desc = Contém os dados necessários para um console de estaleiro produzir um certo design.
 
 # Abstract entity (referenceable by children)
-ent-BaseShipLPCRenewable = ship LPC
-    .desc = Contains the necessary data for a shipyard console to produce a certain design.
+ent-BaseShipLPCRenewable = LPC de nave
+    .desc = Contém os dados necessários para um console de estaleiro produzir um certo design.
 
-ent-ShipVoucherAkula = USSP Akula LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Akula-class patrol vessel.
+ent-ShipVoucherAkula = LPC Akula da USSP [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma navio de patrulha classe Akula.
 
-ent-ShipVoucherAldebaran = TSF Aldebaran LPC [T1]
-    .desc = A small card that contains the data for the procurement of an Aldebaran-class frigate from the flagship's reserves.
+ent-ShipVoucherAldebaran = LPC Aldebaran da TSF [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma fragata classe Aldebaran das reservas da nave bandeira.
 
-ent-ShipVoucherAltair = TSF Altair LPC [T3]
-    .desc = A small card that contains the data for the procurement of an Altair-class frigate from the flagship's reserves.
+ent-ShipVoucherAltair = LPC Altair da TSF [T3]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma fragata classe Altair das reservas da nave bandeira.
 
-ent-ShipVoucherAndromeda = TSF Andromeda LPC [T2]
-    .desc = A small card that contains the data for the procurement of an Andromeda-class cruiser from the flagship's reserves.
+ent-ShipVoucherAndromeda = LPC Andromeda da TSF [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Andromeda das reservas da nave bandeira.
 
-ent-ShipVoucherBalor = balor drone LPC
-    .desc = A small card that contains the data for the procurement of a small commercially available anti-drone defense drone.
+ent-ShipVoucherBalor = LPC de drone balor
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um pequeno drone de defesa anti-drone comercialmente disponível.
 
-ent-ShipVoucherBastion = PDV Bastion LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Bastion-class brawler from the flagship's reserves.
+ent-ShipVoucherBastion = LPC Bastion PDV [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um lutador classe Bastion das reservas da nave bandeira.
 
-ent-ShipVoucherBuran = USSP Buran LPC [T3]
-    .desc = A small card that contains the data for the procurement of an Buran-class frigate.
+ent-ShipVoucherBuran = LPC Buran da USSP [T3]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma fragata classe Buran.
 
-ent-ShipVoucherDagger = TSF Dagger LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Dagger-class railgun destroyer from the flagship's reserves.
+ent-ShipVoucherDagger = LPC Dagger da TSF [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um contratorpedeiro railgun classe Dagger das reservas da nave bandeira.
 
-ent-ShipVoucherDrakon = USSP Drakon LPC [T2]
-    .desc = A small card that contains the data for the procurement of an Drakon-class cruiser.
+ent-ShipVoucherDrakon = LPC Drakon da USSP [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Drakon.
 
-ent-ShipVoucherEuropa = PDV Europa LPC [T2]
-    .desc = A small card that contains the data for the procurement of a Europa-class cruiser from the flagship's reserves.
+ent-ShipVoucherEuropa = LPC Europa PDV [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Europa das reservas da nave bandeira.
 
-ent-ShipVoucherFenrir = PDV Fenrir LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Fenrir-class railgun destroyer from the flagship's reserves.
+ent-ShipVoucherFenrir = LPC Fenrir PDV [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um contratorpedeiro railgun classe Fenrir das reservas da nave bandeira.
 
-ent-ShipVoucherFlyssa = TSF Flyssa LPC [T4]
-    .desc = A small card that contains the data for the procurement of a Flyssa-class destroyer from the flagship's reserves.
+ent-ShipVoucherFlyssa = LPC Flyssa da TSF [T4]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um contratorpedeiro classe Flyssa das reservas da nave bandeira.
 
-ent-ShipVoucherFrontierIronMan = Ironman LPC
-    .desc = Allows purchase of one free Baeg or Framework from the Shipyard. Destroyed on sale.
+ent-ShipVoucherFrontierIronMan = LPC Ironman
+    .desc = Permite a compra de um Baeg ou Framework gratuitos do Estaleiro. Destruído na venda.
 
-ent-ShipVoucherGanymede = PDV Ganymede LPC [T2]
-    .desc = A small card that contains the data for the procurement of a Ganymede-class cruiser from the flagship's reserves.
+ent-ShipVoucherGanymede = LPC Ganymede PDV [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Ganymede das reservas da nave bandeira.
 
-ent-ShipVoucherGarm = PDV Garm LPC [T1]
-    .desc = A small card that contains the data for the procurement of an Garm-class bomber from the flagship's reserves.
+ent-ShipVoucherGarm = LPC Garm PDV [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um bombardeiro classe Garm das reservas da nave bandeira.
 
-ent-ShipVoucherHound = hound LPC
-    .desc = A small card that contains the data for the procurement of a Hound class drone
+ent-ShipVoucherHound = LPC de cão de caça
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um drone classe Cão de Caça.
 
-ent-ShipVoucherInertia = PDV inertia LPC
-    .desc = A small card that authorizes the procurement of an Inertia aboard the Motley Anne.
+ent-ShipVoucherInertia = LPC inércia PDV
+    .desc = Um pequeno cartão que autoriza a aquisição de uma Inércia a bordo do Motley Anne.
 
-ent-ShipVoucherKalisto = PDV Kalisto LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Kalisto-class railgun destroyer from the flagship's reserves.
+ent-ShipVoucherKalisto = LPC Kalisto PDV [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um contratorpedeiro railgun classe Kalisto das reservas da nave bandeira.
 
-ent-ShipVoucherLedokol = USSP Ledokol LPC [T4]
-    .desc = A small card that contains the data for the procurement of a Ledokol-class assault transport.
+ent-ShipVoucherLedokol = LPC Ledokol da USSP [T4]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um transporte de assalto classe Ledokol.
 
-ent-ShipVoucherLedokolAttachment = USSP Ledokol attachment LPC [T4]
-    .desc = A small card that contains the data for the procurement of attachment modules for the Ledokol.
+ent-ShipVoucherLedokolAttachment = LPC de anexo Ledokol da USSP [T4]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de módulos de anexo para o Ledokol.
 
-ent-ShipVoucherMercury = TSF Mercury LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Mercury-class corvette from the flagship's reserves.
+ent-ShipVoucherMercury = LPC Mercury da TSF [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma corveta classe Mercury das reservas da nave bandeira.
 
-ent-ShipVoucherMock = PDV mock LPC
-    .desc = A small card that authorizes the procurement of a Mock aboard the Motley Anne.
+ent-ShipVoucherMock = LPC mock PDV
+    .desc = Um pequeno cartão que autoriza a aquisição de um Mock a bordo do Motley Anne.
 
-ent-ShipVoucherMotleyAnne = PDV Motley Anne LPC [T2]
-    .desc = A small card that contains the data for the procurement of a Motley Anne-class carrier from the flagship's reserves.
+ent-ShipVoucherMotleyAnne = LPC Motley Anne PDV [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma portadora classe Motley Anne das reservas da nave bandeira.
 
-ent-ShipVoucherNeptune = PDV Neptune LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Neptune-class frigate from the flagship's reserves.
+ent-ShipVoucherNeptune = LPC Neptune PDV [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma fragata classe Neptune das reservas da nave bandeira.
 
-ent-ShipVoucherPdvT0 = PDV T0 ship voucher
-    .desc = Allows for one free small to medium PDV ship purchase. Destroyed on sale.
+ent-ShipVoucherPdvT0 = vale de nave T0 PDV
+    .desc = Permite uma compra gratuita de nave PDV pequena a média. Destruído na venda.
 
-ent-ShipVoucherPdvT1 = PDV T1 ship voucher
+ent-ShipVoucherPdvT1 = vale de nave T1 PDV
     .desc = {ent-BaseShipLPCOneUse.desc}
 
-ent-ShipVoucherPdvT2 = PDV T2 ship voucher
+ent-ShipVoucherPdvT2 = vale de nave T2 PDV
     .desc = {ent-BaseShipLPCOneUse.desc}
 
-ent-ShipVoucherPolaris = TSF Polaris LPC [T3]
-    .desc = A small card that contains the data for the procurement of an Type-56D Polaris-class frigate from the flagship's reserves.
+ent-ShipVoucherPolaris = LPC Polaris da TSF [T3]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma fragata classe Polaris Tipo-56D das reservas da nave bandeira.
 
-ent-ShipVoucherRavager = ravager LPC
-    .desc = A small card that contains the data for the procurement of a Ravager-class mothership from the flagship's reserves.
+ent-ShipVoucherRavager = LPC de devastador
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma nave mãe classe Devastador das reservas da nave bandeira.
 
-ent-ShipVoucherRemontnik = USSP Remontnik LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Remontnik-class salvage and support vessel.
+ent-ShipVoucherRemontnik = LPC Remontnik da USSP [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma nave de salvamento e suporte classe Remontnik.
 
-ent-ShipVoucherRook = rook LPC
-    .desc = A small card that contains the data for the procurement of a Rook class drone.
+ent-ShipVoucherRook = LPC de torre
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um drone classe Torre.
 
-ent-ShipVoucherSaintie = PDV Saintie LPC [T3]
-    .desc = A small card that contains the data for the procurement of a Saintie-class cruiser from the flagship's reserves.
+ent-ShipVoucherSaintie = LPC Saintie PDV [T3]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Saintie das reservas da nave bandeira.
 
-ent-ShipVoucherSaturn = PDV Saturn LPC [T4]
-    .desc = A small card that authorizes the procurement of the Saturn.
+ent-ShipVoucherSaturn = LPC Saturn PDV [T4]
+    .desc = Um pequeno cartão que autoriza a aquisição do Saturn.
 
-ent-ShipVoucherScorpion = PDV Scorpion LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Scorpion-class escort from the flagship's reserves.
+ent-ShipVoucherScorpion = LPC Scorpion PDV [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma escolta classe Scorpion das reservas da nave bandeira.
 
-ent-ShipVoucherSentinel = TSF Sentinel LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Sentinel-class escort from the flagship's reserves.
+ent-ShipVoucherSentinel = LPC Sentinel da TSF [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma escolta classe Sentinel das reservas da nave bandeira.
 
-ent-ShipVoucherSnakelet = PDV snakelet LPC
-    .desc = A small card that authorizes the procurement of a Snakelet aboard the Motley Anne.
+ent-ShipVoucherSnakelet = LPC snakelet PDV
+    .desc = Um pequeno cartão que autoriza a aquisição de um Snakelet a bordo do Motley Anne.
 
-ent-ShipVoucherSpekter = TSF spekter LPC
-    .desc = A small card that contains the data for the procurement of an Spekter-class missile corvette from the flagship's reserves.
+ent-ShipVoucherSpekter = LPC spekter da TSF
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma corveta de mísseis classe Spekter das reservas da nave bandeira.
 
-ent-ShipVoucherSpica = TSF Spica LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Spica-class escort from the flagship's reserves.
+ent-ShipVoucherSpica = LPC Spica da TSF [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma escolta classe Spica das reservas da nave bandeira.
 
-ent-ShipVoucherSulak = USSP Sulak LPC [T3]
-    .desc = A small card that contains the data for the procurement of an Sulak-class destroyer.
+ent-ShipVoucherSulak = LPC Sulak da USSP [T3]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um contratorpedeiro classe Sulak.
 
-ent-ShipVoucherTarantula = TSF Tarantula LPC [T1]
-    .desc = A small card that contains the data for the procurement of a Tarantula-class escort from the flagship's reserves.
+ent-ShipVoucherTarantula = LPC Tarantula da TSF [T1]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma escolta classe Tarantula das reservas da nave bandeira.
 
-ent-ShipVoucherTaser = taser LPC
-    .desc = A small card that contains the data for the procurement of a taser class drone.
+ent-ShipVoucherTaser = LPC de taser
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um drone classe taser.
 
-ent-ShipVoucherTayfun = USSP Tayfun LPC [T2]
-    .desc = A small card that contains the data for the procurement of an Tayfun-class cruiser.
+ent-ShipVoucherTayfun = LPC Tayfun da USSP [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Tayfun.
 
-ent-ShipVoucherTsfT0 = TSFMC T0 ship voucher
-    .desc = Allows for one free small to medium TSFMC ship purchase. Destroyed on sale.
+ent-ShipVoucherTsfT0 = vale de nave T0 TSFMC
+    .desc = Permite uma compra gratuita de nave TSFMC pequena a média. Destruído na venda.
 
-ent-ShipVoucherTsfT1 = TSF T1 ship voucher
+ent-ShipVoucherTsfT1 = vale de nave T1 TSF
     .desc = {ent-BaseShipLPCOneUse.desc}
 
-ent-ShipVoucherTsfT2 = TSF T2 ship voucher
+ent-ShipVoucherTsfT2 = vale de nave T2 TSF
     .desc = {ent-BaseShipLPCOneUse.desc}
 
-ent-ShipVoucherUSSPT0 = USSP T0 ship voucher
-    .desc = Allows for one free small to medium USSP ship purchase. Destroyed on sale.
+ent-ShipVoucherUSSPT0 = vale de nave T0 USSP
+    .desc = Permite uma compra gratuita de nave USSP pequena a média. Destruído na venda.
 
-ent-ShipVoucherVGWolf = VG Wolfsnake LPC [T2]
-    .desc = A small card that contains the data for the procurement of a Wolfsnake-class cruiser from the station's reserves.
+ent-ShipVoucherVGWolf = LPC Wolfsnake VG [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Wolfsnake das reservas da estação.
 
-ent-ShipVoucherVulture = PDV Vulture LPC [T2]
-    .desc = A small card that contains the data for the procurement of a Vulture-class mining rig from the flagship's reserves.
+ent-ShipVoucherVulture = LPC Abutre PDV [T2]
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma plataforma de mineração classe Abutre das reservas da nave bandeira.
 
 # From: _Mono/Entities/Objects/Devices/translator_implants.yml
 
-ent-GaryTranslatorImplant = gary translator implant
-    .desc = An implant that helps you speak and understand the language of Gary.
+ent-GaryTranslatorImplant = implante de tradutor gary
+    .desc = Um implante que ajuda você a falar e entender a língua de Gary.
 
-ent-NovaCygniTranslatorImplant = nova cygni translator implant
-    .desc = An implant that helps you speak and understand the language of the USSP.
+ent-NovaCygniTranslatorImplant = implante de tradutor nova cygni
+    .desc = Um implante que ajuda você a falar e entender a língua da USSP.
 
 # From: _Mono/Entities/Objects/Devices/translators.yml
 
-ent-GaryTranslator = gary translator
-    .desc = Translates speech between Gary and Andromeda Standard. Haha, Gary!
+ent-GaryTranslator = tradutor gary
+    .desc = Traduz a fala entre Gary e Padrão Andromeda. Haha, Gary!
 
-ent-NovaCygniTranslator = Nova Cygni translator
-    .desc = Translates speech between Nova Cygni and Andromeda Standard. You probably already know the word for comrade.
+ent-NovaCygniTranslator = tradutor Nova Cygni
+    .desc = Traduz a fala entre Nova Cygni e Padrão Andromeda. Você provavelmente já sabe a palavra para camarada.
 
 # From: _Mono/Entities/Objects/Economy/armor.yml
 
-ent-ArmorPlateEconomy1 = basic armor plate
-    .desc = A simple, refined \"armor\" alloy plate useful for things that need structural stability.
+ent-ArmorPlateEconomy1 = placa de blindagem básica
+    .desc = Uma placa de liga de "blindagem" simples e refinada útil para coisas que precisam de estabilidade estrutural.
 
-ent-ArmorPlateEconomy1Broken = broken basic armor plate
-    .desc = Wreckage from a simple armor plate. Not very surprising.
+ent-ArmorPlateEconomy1Broken = placa de blindagem básica quebrada
+    .desc = Destroços de uma placa de blindagem simples. Não muito surpreendente.
 
-ent-ArmorPlateEconomy2 = heavy armor plate
-    .desc = A heavier, layered alloy armor plate. Heavy, but strong. Useful for things that need significant structural stability, or more commonly, the ability to take a hit.
+ent-ArmorPlateEconomy2 = placa de blindagem pesada
+    .desc = Uma placa de blindagem de liga em camadas mais pesada. Pesada, mas forte. Útil para coisas que precisam de estabilidade estrutural significativa, ou mais comumente, a capacidade de levar um golpe.
 
-ent-ArmorPlateEconomy2Broken = broken heavy armor plate
-    .desc = Wreckage from a heavy alloy armor plate. A little concerning.
+ent-ArmorPlateEconomy2Broken = placa de blindagem pesada quebrada
+    .desc = Destroços de uma placa de blindagem de liga pesada. Um pouco preocupante.
 
-ent-ArmorPlateEconomy3 = composite armor plate
-    .desc = A relatively difficult-to-produce ceramic/carbide armor plate. Lightweight for the amount of protection it grants, but it is still exceptionally heavy, making it primarily useful in ship hulls. Can be cut into two fragments.
+ent-ArmorPlateEconomy3 = placa de blindagem composta
+    .desc = Uma placa de blindagem cerâmica/carbeto relativamente difícil de produzir. Leve para a quantidade de proteção que oferece, mas ainda excepcionalmente pesada, tornando-a principalmente útil em cascos de naves. Pode ser cortada em dois fragmentos.
 
-ent-ArmorPlateEconomy3Broken = broken composite armor plate
-    .desc = Wreckage from an advanced ceramic/carbide alloy armor plate. Kind of concerning.
+ent-ArmorPlateEconomy3Broken = placa de blindagem composta quebrada
+    .desc = Destroços de uma placa de blindagem de liga cerâmica/carbeto avançada. Um pouco preocupante.
 
-ent-ArmorPlateEconomy3Fragment = composite armor plate fragment
-    .desc = A fragment from a ceramic/carbide armor plate. Useful for smaller-scale applications.
+ent-ArmorPlateEconomy3Fragment = fragmento de placa de blindagem composta
+    .desc = Um fragmento de uma placa de blindagem cerâmica/carbeto. Útil para aplicações em menor escala.
 
-ent-ArmorPlateEconomy4 = EMAG armor plate
-    .desc = A state-of-the-art EMAG electromagnetic armor plate. Exceptional resistance even when unpowered, but still very heavy. Useful for high-power reactor shielding, infantry armor, FTL drives, and most things that undergo significant stress.
+ent-ArmorPlateEconomy4 = placa de blindagem EMAG
+    .desc = Uma placa de blindagem eletromagnética EMAG de ponta. Resistência excepcional mesmo quando desligada, mas ainda muito pesada. Útil para blindagem de reator de alta potência, armadura de infantaria, drives FTL e a maioria das coisas que passam por estresse significativo.
 
-ent-ArmorPlateEconomy4Broken = broken EMAG armor plate
-    .desc = Wreckage from an advanced ceramic/carbide alloy armor plate. Extremely concerning.
+ent-ArmorPlateEconomy4Broken = placa de blindagem EMAG quebrada
+    .desc = Destroços de uma placa de blindagem de liga cerâmica/carbeto avançada. Extremamente preocupante.
 
 # From: _Mono/Entities/Objects/Economy/base.yml
 
-ent-BaseEconomyGood = base economy item
-    .desc = Used to keeo the ol' rust belt rolling.
+ent-BaseEconomyGood = item de economia base
+    .desc = Usado para manter o velho cinturão de ferrugem rolando.
 
 # Abstract entity (referenceable by children)
-ent-BaseEconomyGoodTier1 = base economy item
+ent-BaseEconomyGoodTier1 = item de economia base
     .suffix = T1
-    .desc = Used to keeo the ol' rust belt rolling.
+    .desc = Usado para manter o velho cinturão de ferrugem rolando.
 
 # Abstract entity (referenceable by children)
-ent-BaseEconomyGoodTier2 = base economy item
+ent-BaseEconomyGoodTier2 = item de economia base
     .suffix = T2
-    .desc = Used to keeo the ol' rust belt rolling.
+    .desc = Usado para manter o velho cinturão de ferrugem rolando.
 
 # Abstract entity (referenceable by children)
-ent-BaseEconomyGoodTier3 = base economy item
+ent-BaseEconomyGoodTier3 = item de economia base
     .suffix = T3
-    .desc = Used to keeo the ol' rust belt rolling.
+    .desc = Usado para manter o velho cinturão de ferrugem rolando.
 
 # Abstract entity (referenceable by children)
-ent-BaseEconomyGoodTier4 = base economy item
+ent-BaseEconomyGoodTier4 = item de economia base
     .suffix = T4
-    .desc = Used to keeo the ol' rust belt rolling.
+    .desc = Usado para manter o velho cinturão de ferrugem rolando.
 
 # From: _Mono/Entities/Objects/Economy/components.yml
 
-ent-CapsuleEconomy = storage capsule
-    .desc = Used for storing chemicals and other substances needed for industrial processes. Can be opened by alt-clicking.
+ent-CapsuleEconomy = cápsula de armazenamento
+    .desc = Usado para armazenar químicos e outras substâncias necessárias para processos industriais. Pode ser aberto com alt-clique.
 
-ent-CapsuleLargeEconomy = large storage capsule
-    .desc = Used for storing chemicals and other substances needed for industrial processes. Much larger than its predecessor. Can be opened by alt-clicking.
+ent-CapsuleLargeEconomy = cápsula de armazenamento grande
+    .desc = Usado para armazenar químicos e outras substâncias necessárias para processos industriais. Muito maior que seu antecessor. Pode ser aberto com alt-clique.
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/copper.yml
 
-ent-MaterialCopper = copper
-    .suffix = Full
-    .desc = Copper is used in a lot of electronics. Maybe even all of them. It might even be an understatement to say that.
+ent-MaterialCopper = cobre
+    .suffix = Completo
+    .desc = Cobre é usado em muitos eletrônicos. Talvez até todos. Pode ser até um eufemismo dizer isso.
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/lithium.yml
 
-ent-MaterialLithium = lithium
-    .suffix = Full
-    .desc = Lithium is a soft, brittle metal widely used in a range of electronic applications, most notably alkali-batteries. Its also dangerously reactive!
+ent-MaterialLithium = lítio
+    .suffix = Completo
+    .desc = Lítio é um metal macio e quebradiço amplamente usado em uma gama de aplicações eletrônicas, mais notavelmente baterias de álcali. É também perigosamente reativo!
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/ores.yml
 
-ent-CopperOre = malachite
-    .suffix = Full
+ent-CopperOre = malaquita
+    .suffix = Completo
 
-ent-LithiumOre = lithium ore
-    .suffix = Full
+ent-LithiumOre = minério de lítio
+    .suffix = Completo
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/Veins/copper_veins.yml
 
-ent-AsteroidRockCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-AsteroidRockCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-IronRockCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-IronRockCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockAndesiteCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-WallRockAndesiteCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockBasaltCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-WallRockBasaltCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockChromiteCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-WallRockChromiteCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-WallRockCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockSandCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-WallRockSandCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
-ent-WallRockScrapPileCopper =
-    .suffix = Copper
-    .desc = An ore vein with copper.
+ent-WallRockScrapPileCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério com cobre.
 
-ent-WallRockSnowCopper =
-    .suffix = Copper
-    .desc = An ore vein rich with copper.
+ent-WallRockSnowCopper
+    .suffix = Cobre
+    .desc = Uma veia de minério rica em cobre.
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/Veins/lithium_veins.yml
 
-ent-AsteroidRockLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-AsteroidRockLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-IronRockLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-IronRockLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockAndesiteLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-WallRockAndesiteLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockBasaltLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-WallRockBasaltLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockChromiteLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-WallRockChromiteLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-WallRockLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockSandLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-WallRockSandLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
-ent-WallRockScrapPileLithium =
-    .suffix = Lithium
-    .desc = An ore vein with lithium.
+ent-WallRockScrapPileLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério com lítio.
 
-ent-WallRockSnowLithium =
-    .suffix = Lithium
-    .desc = An ore vein rich with lithium.
+ent-WallRockSnowLithium
+    .suffix = Lítio
+    .desc = Uma veia de minério rica em lítio.
 
 # From: _Mono/Entities/Objects/Electronics/datafarms.yml
 
-ent-DataFarmCryptoCircuitboard = data farm (crypto) circuitboard
-    .desc = Looks like you could use a screwdriver to change the board type. Unable to be flatpacked due to complex components.
+ent-DataFarmCryptoCircuitboard = placa de circuito de farm de dados (cripto)
+    .desc = Parece que você pode usar uma chave de fenda para mudar o tipo de placa. Impossível de ser flatpacked devido a componentes complexos.
 
-ent-DataFarmResearchCircuitboard = data farm (research) circuitboard
-    .desc = Looks like you could use a screwdriver to change the board type. Unable to be flatpacked due to complex components.
+ent-DataFarmResearchCircuitboard = placa de circuito de farm de dados (pesquisa)
+    .desc = Parece que você pode usar uma chave de fenda para mudar o tipo de placa. Impossível de ser flatpacked devido a componentes complexos.
 
 # From: _Mono/Entities/Objects/Electronics/mech.yml
 
-ent-BroadswordCentralElectronics = broadsword central control module
-    .desc = The electrical control center for the durand mech.
+ent-BroadswordCentralElectronics = módulo de controle central broadsword
+    .desc = O centro de controle elétrico para o mecha durand.
 
-ent-BroadswordPeripheralsElectronics = broadsword peripherals control module
-    .desc = The electrical peripherals control for the broadsword mech.
+ent-BroadswordPeripheralsElectronics = módulo de controle de periféricos broadsword
+    .desc = O controle elétrico de periféricos para o mecha broadsword.
 
-ent-BroadswordTargetingElectronics = broadsword weapon control and targeting module
-    .desc = The electrical targeting control for the broadsword mech.
+ent-BroadswordTargetingElectronics = módulo de controle de arma e direcionamento broadsword
+    .desc = O controle elétrico de direcionamento para o mecha broadsword.
 
-ent-FlailCentralElectronics = flail central control module
-    .desc = The electrical control center for the durand mech.
+ent-FlailCentralElectronics = módulo de controle central flail
+    .desc = O centro de controle elétrico para o mecha durand.
 
-ent-FlailPeripheralsElectronics = flail peripherals control module
-    .desc = The electrical peripherals control for the flail mech.
+ent-FlailPeripheralsElectronics = módulo de controle de periféricos flail
+    .desc = O controle elétrico de periféricos para o mecha flail.
 
-ent-FlailTargetingElectronics = flail weapon control and targeting module
-    .desc = The electrical targeting control for the flail mech.
+ent-FlailTargetingElectronics = módulo de controle de arma e direcionamento flail
+    .desc = O controle elétrico de direcionamento para o mecha flail.
 
 # From: _Mono/Entities/Objects/Misc/bitcoin.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseBitcoin = basic bitcoin
-    .desc = A valuable bitcoin, composed of arbitrary data. Definitely a good investment.
+ent-BaseBitcoin = bitcoin básico
+    .desc = Um bitcoin valioso, composto de dados arbitrários. Definitivamente um bom investimento.
 
 ent-BitcoinContribcoin = Contribcoin™
-    .desc = A weirdly valuable bitcoin composed of many generic definitions, raw data and operating presets. Slightly volatile.
+    .desc = Um bitcoin estranhamente valioso composto de muitas definições genéricas, dados brutos e predefinições de operação. Ligeiramente volátil.
 
 ent-BitcoinGoidacoin = Goidacoin™
-    .desc = An absurdly valuable and rare bitcoin, made up of tons of high(?)-quality code and generic systems. Highly volatile.
+    .desc = Um bitcoin absurda e raramente valioso, feito de toneladas de código de alta(?) qualidade e sistemas genéricos. Altamente volátil.
 
 ent-BitcoinIdeascoin = Ideascoin™
-    .desc = A strangely valuable bitcoin composed of raw conceptual data of a multitude of completely hypothetical things. Moderately volatile.
+    .desc = Um bitcoin estranhamente valioso composto de dados conceituais brutos de uma multitude de coisas completamente hipotéticas. Moderadamente volátil.
 
 # From: _Mono/Entities/Objects/Misc/books.yml
 
-ent-BookTheCommonCause = The Common Cause
-    .desc = A mass-printed civic text issued to all citizens, of the Union. Its short passages emphasize duty, labour, discipline, and the moral value of collective life.
+ent-BookTheCommonCause = A Causa Comum
+    .desc = Um texto cívico impresso em massa emitido para todos os cidadãos da União. Suas passagens curtas enfatizam dever, trabalho, disciplina e o valor moral da vida coletiva.
 
-ent-BookTheCommonCauseFirstEdition = The Common Cause
-    .suffix = First Edition
-    .desc = An early edition of The Common Cause, attributed to the Autarch. The binding is severe, the paper aged, and the words far less restrained than later civic prints.
+ent-BookTheCommonCauseFirstEdition = A Causa Comum
+    .suffix = Primeira Edição
+    .desc = Uma edição inicial de A Causa Comum, atribuída ao Autarca. A encadenação é severa, o papel envelhecido, e as palavras muito menos contidas do que as impressões cívicas posteriores.
 
-ent-BookUSSPLaw = USSP Service Regulations
-    .desc = A field manual carried by all servicemen of the USSP Armed Forces. Every serzhant can quote it from memory, usually at an intensity unsuitable for cramped spaces.
+ent-BookUSSPLaw = Regulamentos de Serviço da USSP
+    .desc = Um manual de campo carregado por todos os militares das Forças Armadas da USSP. Todo sargento pode citá-lo de memória, geralmente em uma intensidade inadequada para espaços apertados.
 
 # From: _Mono/Entities/Objects/Misc/googlyeyes.yml
 
-ent-GooglyEyes = googly eyes
-    .desc = Stick on things to make them look funny.
+ent-GooglyEyes = olhos móveis
+    .desc = Cole nas coisas para fazê-las parecer engraçadas.
 
 # From: _Mono/Entities/Objects/Misc/instruments_misc.yml
 
-ent-PhoneInstrumentHigh = command relay device
-    .desc = Should any request be needed to higher command... this is your friend, best not lose it
+ent-PhoneInstrumentHigh = dispositivo de retransmissão de comando
+    .desc = Caso alguma solicitação seja necessária ao comando superior... este é seu amigo, melhor não perdê-lo.
 
 # From: _Mono/Entities/Objects/Misc/kitselectors.yml
 
-ent-UndeterminedPDVInfiltratorKit = PDV Infiltrator equipment selector
-    .desc = A small remote utilizing bluespace technology to drop in an imperial infiltrator kit of your choosing.
+ent-UndeterminedPDVInfiltratorKit = seletor de equipamento de infiltrador PDV
+    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para deixar cair um kit de infiltrador imperial de sua escolha.
 
 # From: _Mono/Entities/Objects/Misc/lobster.yml
 
-ent-BlueLobster = blue lobster plushie
-    .desc = It's him.
+ent-BlueLobster = lagosta azul de pelúcia
+    .desc = É ele.
 
-ent-BlueLobsterExploding = Blue Lobster
-    .suffix = Embeddable Minibomb
-    .desc = It's him.
+ent-BlueLobsterExploding = Lagosta Azul
+    .suffix = Minibomba Embutível
+    .desc = É ele.
 
-ent-BlueLobsterImmovable = immovable blue lobster
-    .suffix = Keep Tiles, Still
-    .desc = It's him.
+ent-BlueLobsterImmovable = lagosta azul imóvel
+    .suffix = Mantém Tiles, Parado
+    .desc = É ele.
 
 # From: _Mono/Entities/Objects/Misc/loot.yml
 
-ent-MonolithicCrystalLarge = large monolithic crystal
+ent-MonolithicCrystalLarge = cristal monolítico grande
     .suffix = 50 FMC/Data
-    .desc = A mysterious crystalline solid. Seems highly energetic, but fragile. It is of rare size! Local factions and researchers are very interested in this.
+    .desc = Um sólido cristalino misterioso. Parece altamente energético, mas frágil. É de tamanho raro! Facções locais e pesquisadores estão muito interessados nisto.
 
-ent-MonolithicCrystalMedium = medium monolithic crystal
+ent-MonolithicCrystalMedium = cristal monolítico médio
     .suffix = 25 FMC/Data
-    .desc = A mysterious crystalline solid. Seems highly energetic, but fragile. Notably large. Local factions and researchers are very interested in this.
+    .desc = Um sólido cristalino misterioso. Parece altamente energético, mas frágil. Notavelmente grande. Facções locais e pesquisadores estão muito interessados nisto.
 
-ent-MonolithicCrystalSmall = small monolithic crystal
+ent-MonolithicCrystalSmall = cristal monolítico pequeno
     .suffix = 15 FMC/Data
-    .desc = A mysterious crystalline solid. Seems highly energetic, but fragile. Local factions and researchers are very interested in this.
+    .desc = Um sólido cristalino misterioso. Parece altamente energético, mas frágil. Facções locais e pesquisadores estão muito interessados nisto.
 
 # From: _Mono/Entities/Objects/Misc/paper.yml
 
-ent-EnvelopeManila = manila envelope
+ent-EnvelopeManila = envelope manila
 
 # From: _Mono/Entities/Objects/Misc/rubber_stamp.yml
 
-ent-RubberStampPaycheckBratva = paycheck bratva's rubber stamp
+ent-RubberStampPaycheckBratva = carimbo de borracha da paycheck bratva
 
-ent-RubberStampPDVAsvaran = PDV asvaran's rubber stamp
+ent-RubberStampPDVAsvaran = carimbo de borracha do asvaran PDV
 
-ent-RubberStampPDVOverwatch = PDV overwatch's rubber stamp
+ent-RubberStampPDVOverwatch = carimbo de borracha do overwatch PDV
 
-ent-RubberStampPDVSpasaka = PDV spasaka's rubber stamp
+ent-RubberStampPDVSpasaka = carimbo de borracha do spasaka PDV
 
-ent-RubberStampPDVVizier = PDV grand vizier's rubber stamp
+ent-RubberStampPDVVizier = carimbo de borracha do grão-vizir PDV
 
-ent-RubberStampTSFCaptain = TSF captain's rubber stamp
+ent-RubberStampTSFCaptain = carimbo de borracha do capitão TSF
 
-ent-RubberStampTSFColonel = TSF colonel's rubber stamp
+ent-RubberStampTSFColonel = carimbo de borracha do coronel TSF
 
-ent-RubberStampUSSP = USSP rubber stamp
+ent-RubberStampUSSP = carimbo de borracha da USSP
 
-ent-RubberStampUSSPStratcomm = USSP STRATCOMM rubber stamp
+ent-RubberStampUSSPStratcomm = carimbo de borracha STRATCOMM da USSP
 
-ent-RubberStampUSSPTaccomm = USSP TACCOMM rubber stamp
+ent-RubberStampUSSPTaccomm = carimbo de borracha TACCOMM da USSP
 
-ent-RubberStampWinterSolstice = TSF local operations command rubber stamp
+ent-RubberStampWinterSolstice = carimbo de borracha do comando de operações locais TSF
 
 # From: _Mono/Entities/Objects/Misc/sevastopol.yml
 
-ent-SevastopolPlushie = Highfleet plushie
-    .desc = Thermal signature detected!
+ent-SevastopolPlushie = pelúcia Highfleet
+    .desc = Assinatura térmica detectada!
 
 # From: _Mono/Entities/Objects/Misc/solids.yml
 
-ent-FentanylSolidified = fentanyl crystal
-    .desc = 5u of Fentanyl solidified with Tricordrazine. Worth a lot.
+ent-FentanylSolidified = cristal de fentanil
+    .desc = 5u de Fentanil solidificado com Tricordrazina. Vale muito.
 
 # From: _Mono/Entities/Objects/Misc/subdermal_implants.yml
 
-ent-UsspTrackingImplant = ussp tracking implant
-    .desc = This implant has a tracking device monitor for the GLORIOUS UNION OF SOVIET SOCIALIST PLANETS radio channel.
+ent-UsspTrackingImplant = implante de rastreamento ussp
+    .desc = Este implante tem um dispositivo de rastreamento monitor para o canal de rádio DA GLORIOSA UNIÃO DE PLANETAS SOCIALISTAS SOVIÉTICOS.
 
-ent-ViperTrackingImplant = Viper Group tracking implant
-    .desc = This implant has a tracking device monitor for the Viper Group's private radio channel.
+ent-ViperTrackingImplant = implante de rastreamento do Grupo Víper
+    .desc = Este implante tem um dispositivo de rastreamento monitor para o canal de rádio privado do Grupo Víper.
 
 # From: _Mono/Entities/Objects/Misc/trade.yml
 
-ent-TradeGoodAmmo = ammo crate
-    .desc = A sealed crate of ammunition. A label on the side indicates it as explosive if damaged.
+ent-TradeGoodAmmo = caixa de munição
+    .desc = Uma caixa selada de munição. Um rótulo no lado indica como explosiva se danificada.
 
-ent-TradeGoodChemicalSupplies = chemical supplies crate
-    .desc = A sealed crate of chemical supplies.
+ent-TradeGoodChemicalSupplies = caixa de suprimentos químicos
+    .desc = Uma caixa selada de suprimentos químicos.
 
-ent-TradeGoodChemicalsVolatile = volatile chemical supplies crate
-    .desc = A sealed crate of volatile chemicals. A label on the side indicates it as explosive if damaged.
+ent-TradeGoodChemicalsVolatile = caixa de suprimentos químicos voláteis
+    .desc = Uma caixa selada de químicos voláteis. Um rótulo no lado indica como explosiva se danificada.
 
-ent-TradeGoodComponents = components crate
-    .desc = A sealed crate of various machine parts.
+ent-TradeGoodComponents = caixa de componentes
+    .desc = Uma caixa selada de várias peças de máquina.
 
-ent-TradeGoodEquipment = equipment crate
-    .desc = A sealed crate of various pieces of equipment and gear.
+ent-TradeGoodEquipment = caixa de equipamento
+    .desc = Uma caixa selada de várias peças de equipamento e gear.
 
-ent-TradeGoodFabric = fabric crate
-    .desc = A sealed crate of various fabrics.
+ent-TradeGoodFabric = caixa de tecido
+    .desc = Uma caixa selada de vários tecidos.
 
-ent-TradeGoodFertilizer = fertilizer crate
-    .desc = A sealed crate of fertilizer. A label on the side indicates it as explosive if damaged.
+ent-TradeGoodFertilizer = caixa de fertilizante
+    .desc = Uma caixa selada de fertilizante. Um rótulo no lado indica como explosiva se danificada.
 
-ent-TradeGoodFissionFuel = fission reactor fuel crate
-    .desc = A sealed crate of packaged nuclear fuel rods. Radioactive. Handle with care.
+ent-TradeGoodFissionFuel = caixa de combustível de reator de fissão
+    .desc = Uma caixa selada de hastes de combustível nuclear embaladas. Radioativo. Manuseie com cuidado.
 
-ent-TradeGoodFusionFuel = fusion reactor fuel crate
-    .desc = A sealed crate of packaged D-T fuel cells for use in large fusion reactors. Radioactive and volatile if damaged. Handle with care.
+ent-TradeGoodFusionFuel = caixa de combustível de reator de fusão
+    .desc = Uma caixa selada de células de combustível D-T embaladas para uso em grandes reatores de fusão. Radioativo e volátil se danificado. Manuseie com cuidado.
 
-ent-TradeGoodLuxuries = luxury goods crate
-    .desc = A sealed crate of luxuries.
+ent-TradeGoodLuxuries = caixa de artigos de luxo
+    .desc = Uma caixa selada de luxos.
 
-ent-TradeGoodMedicalSupplies = medical supplies crate
-    .desc = A sealed crate of medical supplies.
+ent-TradeGoodMedicalSupplies = caixa de suprimentos médicos
+    .desc = Uma caixa selada de suprimentos médicos.
 
-ent-TradeGoodMetals = metals crate
-    .desc = A sealed crate of various metals.
+ent-TradeGoodMetals = caixa de metais
+    .desc = Uma caixa selada de vários metais.
 
-ent-TradeGoodScrap = scrap crate
-    .desc = A sealed crate of scrap and salvage.
+ent-TradeGoodScrap = caixa de sucata
+    .desc = Uma caixa selada de sucata e salvamento.
 
-ent-TradeGoodShipComponents = ship components crate
-    .desc = A sealed crate of various ship parts.
+ent-TradeGoodShipComponents = caixa de componentes de nave
+    .desc = Uma caixa selada de várias peças de nave.
 
-ent-TradeGoodSupplies = supplies crate
-    .desc = A sealed crate of generic supplies.
+ent-TradeGoodSupplies = caixa de suprimentos
+    .desc = Uma caixa selada de suprimentos genéricos.
 
-ent-TradeGoodWeaponParts = weapon parts crate
-    .desc = A sealed crate of various firearm components.
+ent-TradeGoodWeaponParts = caixa de peças de arma
+    .desc = Uma caixa selada de vários componentes de arma de fogo.
 
 # From: _Mono/Entities/Objects/Misc/turret_spawner.yml
 
-ent-SpawnMobWeaponTurretLaserSilicon = silicon laser turret spawner
-    .suffix = Silicon, Frontier
+ent-SpawnMobWeaponTurretLaserSilicon = gerador de torreta laser de silício
+    .suffix = Silício, Frontier
 
-ent-SpawnMobWeaponTurretLaserTSFMC = TSFMC laser turret spawner
+ent-SpawnMobWeaponTurretLaserTSFMC = gerador de torreta laser da TSFMC
     .suffix = TSFMC, Frontier
 
-ent-SpawnMobWeaponTurretPDV = PDV ballistic turret spawner
+ent-SpawnMobWeaponTurretPDV = gerador de torreta balística PDV
     .suffix = PDV, Frontier
 
-ent-SpawnMobWeaponTurretTFSMC = TSFMC ballistic turret spawner
+ent-SpawnMobWeaponTurretTFSMC = gerador de torreta balística da TSFMC
     .suffix = TSFMC, Frontier
 
-ent-SpawnMobWeaponTurretUSSP = USSP ballistic turret spawner
+ent-SpawnMobWeaponTurretUSSP = gerador de torreta balística da USSP
     .suffix = USSP
 
 # From: _Mono/Entities/Objects/Misc/turrets.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMk290Sentry = MK-290 Sentry
-    .desc = The MK-290 deployable sentry system designed in the old United Nations of Earth, and serving continued use with the TSF armed forces. Feeds from any 762x39mm magazine, however recent upgrades have allowed it to use 6.8x52mm caseless and 556x45mm to comply with TSF standard.
+ent-BaseMk290Sentry = Sentinela MK-290
+    .desc = O sistema sentinela implantável MK-290 projetado na antiga Nação Unida da Terra, e servindo uso contínuo com as forças armadas da TSF. Alimenta-se de qualquer carregador 762x39mm, no entanto atualizações recentes permitiram usar 6.8x52mm sem estojo e 556x45mm para cumprir com o padrão da TSF.
 
-ent-WeaponTurretLaserSilicon = laser turret
-    .suffix = Frontier, Silicon
+ent-WeaponTurretLaserSilicon = torreta laser
+    .suffix = Frontier, Silício
 
-ent-WeaponTurretLaserTSFMC = laser turret
+ent-WeaponTurretLaserTSFMC = torreta laser
     .suffix = TSFMC
 
 ent-WeaponTurretMk290 = {ent-BaseMk290Sentry}
@@ -2836,48 +2836,48 @@ ent-WeaponTurretMk290 = {ent-BaseMk290Sentry}
     .desc = {ent-BaseMk290Sentry.desc}
 
 ent-WeaponTurretMk290Empty = {ent-BaseMk290Sentry}
-    .suffix = TSFMC, Empty
+    .suffix = TSFMC, Vazio
     .desc = {ent-BaseMk290Sentry.desc}
 
-ent-WeaponTurretMk290Packed = packed MK-290
-    .suffix = TSFMC, Packed
-    .desc = A disassembled and packed MK-290 sentry system.
+ent-WeaponTurretMk290Packed = sentinela MK-290 embalada
+    .suffix = TSFMC, Embalado
+    .desc = Um sistema sentinela MK-290 desmontado e embalado.
 
 # From: _Mono/Entities/Objects/Misc/voidsuitselectors.yml
 
-ent-UndeterminedVoidsuitCap = Captain voidsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a voidsuit or hardsuit of your choosing.
+ent-UndeterminedVoidsuitCap = seletor de traje de vácuo do capitão
+    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para deixar cair um traje de vácuo ou rígido de sua escolha.
 
-ent-UndeterminedVoidsuitRD = RD voidsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a voidsuit or hardsuit of your choosing.
+ent-UndeterminedVoidsuitRD = seletor de traje de vácuo PD
+    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para deixar cair um traje de vácuo ou rígido de sua escolha.
 
 # From: _Mono/Entities/Objects/Power/powercells.yml
 
-ent-PowerCellCombat = combat power cell
-    .suffix = Full
-    .desc = A rechargeable standardized power cell. This combat brand is equipped with partial protection from power spikes.
+ent-PowerCellCombat = célula de energia de combate
+    .suffix = Completa
+    .desc = Uma célula de energia padronizada recarregável. Esta marca de combate está equipada com proteção parcial contra picos de energia.
 
 # From: _Mono/Entities/Objects/Shields/shields.yml
 
-ent-HardlightShield = hardlight shield
-    .desc = Z-22 produced hardlight shield, when folded, can even fit in your pocket. Its more emmitive than reflective, unlike its blue cousins.
+ent-HardlightShield = escudo de luz sólida
+    .desc = Escudo de luz sólida produzido pela Z-22, quando dobrado, pode até caber no seu bolso. É mais emissivo que refletivo, ao contrário de seus primos azuis.
 
 # From: _Mono/Entities/Objects/Specific/Atmospherics/deposits.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseDeepGasDeposit = deep gas deposit
-    .desc = Deep solidified reserves of an element, normally a gas at room temperature, can be drilled, heated and piped out. Should provide an unlimited supply once the easily reachable gas is depleted.
+ent-BaseDeepGasDeposit = depósito de gás profundo
+    .desc = Reservas sólidas profundas de um elemento, normalmente um gás em temperatura ambiente, pode ser perfurado, aquecido e canalizado. Deve fornecer um suprimento ilimitado uma vez que o gás facilmente alcançável seja esgotado.
 
 ent-DeepGasDepositAir = {ent-BaseDeepGasDeposit}
-    .suffix = Air-like
+    .suffix = Similar ao Ar
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositAmmonia = {ent-BaseDeepGasDeposit}
-    .suffix = Ammonia
+    .suffix = Amônia
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositCarbonDioxide = {ent-BaseDeepGasDeposit}
-    .suffix = Carbon Dioxide
+    .suffix = Dióxido de Carbono
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositFrezon = {ent-BaseDeepGasDeposit}
@@ -2885,23 +2885,23 @@ ent-DeepGasDepositFrezon = {ent-BaseDeepGasDeposit}
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositMuddleEven = {ent-BaseDeepGasDeposit}
-    .suffix = Muddled
+    .suffix = Embarrado
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositMuddlePlasma = {ent-BaseDeepGasDeposit}
-    .suffix = Muddled PL+
+    .suffix = Embarrado PL+
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositNitrogen = {ent-BaseDeepGasDeposit}
-    .suffix = Nitrogen
+    .suffix = Nitrogênio
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositNitrousOxide = {ent-BaseDeepGasDeposit}
-    .suffix = Nitrous Oxide
+    .suffix = Óxido Nitroso
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositOxygen = {ent-BaseDeepGasDeposit}
-    .suffix = Oxygen
+    .suffix = Oxigênio
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositPlasma = {ent-BaseDeepGasDeposit}
@@ -2909,2223 +2909,2223 @@ ent-DeepGasDepositPlasma = {ent-BaseDeepGasDeposit}
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 ent-DeepGasDepositWaterVapor = {ent-BaseDeepGasDeposit}
-    .suffix = Water Vapor
+    .suffix = Vapor d'Água
     .desc = {ent-BaseDeepGasDeposit.desc}
 
 # From: _Mono/Entities/Objects/Specific/Cooking/chemistry.yml
 
-ent-Teaspoon = teaspoon
-    .desc = A small spoon used for transferring minimal amount of powder to cups.
+ent-Teaspoon = colher de chá
+    .desc = Uma colher pequena usada para transferir quantidade mínima de pó para xícaras.
 
 # From: _Mono/Entities/Objects/Specific/Cooking/liquid_containers.yml
 
-ent-DrinkTeapotEmpty = teapot
-    .suffix = Empty
-    .desc = An elegant teapot. It simply oozes class.
+ent-DrinkTeapotEmpty = bule de chá
+    .suffix = Vazio
+    .desc = Um bule elegante. Simplesmente exala classe.
 
-ent-Kettle = kettle
-    .desc = Used to boil water for tea.
+ent-Kettle = chaleira
+    .desc = Usado para ferver água para chá.
 
-ent-PaperCup = paper cup
-    .desc = A paper cup for drinks.
+ent-PaperCup = copo de papel
+    .desc = Um copo de papel para bebidas.
 
 # From: _Mono/Entities/Objects/Specific/Cooking/powder_containers.yml
 
-ent-ReagentContainerBerryTeaPouch = berry tea pouch
-    .desc = A pouch of berry tea powder. Good for brewing tea!
+ent-ReagentContainerBerryTeaPouch = saquinho de chá de frutas vermelhas
+    .desc = Um saquinho de pó de chá de frutas vermelhas. Bom para preparar chá!
 
-ent-ReagentContainerBlackTeaPouch = black tea pouch
-    .desc = A pouch of black tea powder. Good for brewing tea!
+ent-ReagentContainerBlackTeaPouch = saquinho de chá preto
+    .desc = Um saquinho de pó de chá preto. Bom para preparar chá!
 
-ent-ReagentContainerChamomileTeaPouch = chamomile tea pouch
-    .desc = A pouch of chamomile tea powder. Good for brewing tea!
+ent-ReagentContainerChamomileTeaPouch = saquinho de chá de camomila
+    .desc = Um saquinho de pó de chá de camomila. Bom para preparar chá!
 
-ent-ReagentContainerCoffeePouch = coffee grounds pouch
-    .desc = A pouch of coffee grounds. Good for brewing coffee!
+ent-ReagentContainerCoffeePouch = saquinho de pó de café
+    .desc = Um saquinho de pó de café. Bom para preparar café!
 
-ent-ReagentContainerDecafBlackTeaPouch = decaf black tea pouch
-    .desc = A pouch of decaf black tea powder. Good for brewing tea!
+ent-ReagentContainerDecafBlackTeaPouch = saquinho de chá preto descafeinado
+    .desc = Um saquinho de pó de chá preto descafeinado. Bom para preparar chá!
 
-ent-ReagentContainerDecafCoffeePouch = decaf coffee grounds pouch
-    .desc = A pouch of decaffeinated coffee grounds. Good for brewing coffee!
+ent-ReagentContainerDecafCoffeePouch = saquinho de pó de café descafeinado
+    .desc = Um saquinho de pó de café descafeinado. Bom para preparar café!
 
-ent-ReagentContainerFruitTeaPouch = fruit tea pouch
-    .desc = A pouch of fruit tea powder. Good for brewing tea!
+ent-ReagentContainerFruitTeaPouch = saquinho de chá de frutas
+    .desc = Um saquinho de pó de chá de frutas. Bom para preparar chá!
 
-ent-ReagentContainerGreenTeaPouch = green tea pouch
-    .desc = A pouch of green tea powder. Good for brewing tea!
+ent-ReagentContainerGreenTeaPouch = saquinho de chá verde
+    .desc = Um saquinho de pó de chá verde. Bom para preparar chá!
 
-ent-ReagentContainerSyndicateTeaPouch = syndie tea pouch
-    .desc = A pouch of suspiciously spicy tea powder. Good for brewing... something!
+ent-ReagentContainerSyndicateTeaPouch = saquinho de chá sindi
+    .desc = Um saquinho de pó de chá suspeitosamente picante. Bom para preparar... algo!
 
-ent-ReagentContainerYorkshireTeaPouch = yorkshire tea pouch
-    .desc = A pouch of Yorkshire tea powder. Good for brewing tea!
+ent-ReagentContainerYorkshireTeaPouch = saquinho de chá yorkshire
+    .desc = Um saquinho de pó de chá Yorkshire. Bom para preparar chá!
 
 # From: _Mono/Entities/Objects/Specific/Cooking/snack_containers.yml
 
-ent-FoodBoxBiscuitOatmeal = Oatmeal Biscuit Box
-    .desc = A box containing oatmeal biscuit. Perfect for a snack!
+ent-FoodBoxBiscuitOatmeal = Caixa de Biscoitos de Aveia
+    .desc = Uma caixa contendo biscoitos de aveia. Perfeito para um lanche!
 
-ent-FoodBoxBiscuitSimple = Simple Biscuit Box
-    .desc = A box containing simple biscuits. Perfect for a snack!
+ent-FoodBoxBiscuitSimple = Caixa de Biscoitos Simples
+    .desc = Uma caixa contendo biscoitos simples. Perfeito para um lanche!
 
-ent-FoodBoxBiscuitSugar = Sugar Biscuit Box
-    .desc = A box containing sugar biscuits. Perfect for a snack!
+ent-FoodBoxBiscuitSugar = Caixa de Biscoitos de Açúcar
+    .desc = Uma caixa contendo biscoitos de açúcar. Perfeito para um lanche!
 
 # From: _Mono/Entities/Objects/Specific/Mechs/mech_construction.yml
 
-ent-BroadswordChassis = broadsword chassis
-    .desc = An in-progress construction of the broadsword mech.
+ent-BroadswordChassis = chassi broadsword
+    .desc = Uma construção em andamento do mecha broadsword.
 
-ent-BroadswordHarness = broadsword harness
-    .desc = The core of the AF-28 \"Broadsword\".
+ent-BroadswordHarness = arreio broadsword
+    .desc = O núcleo do AF-28 "Broadsword".
 
-ent-BroadswordHead = broadsword head
-    .desc = The head of the broadsword. It belongs on the chassis of the mech.
+ent-BroadswordHead = cabeça broadsword
+    .desc = A cabeça do broadsword. Pertence ao chassi do mecha.
 
-ent-BroadswordLArm = broadsword left arm
-    .desc = The left arm of the Clarke. It belongs on the chassis of the mech.
+ent-BroadswordLArm = braço esquerdo broadsword
+    .desc = O braço esquerdo do Clarke. Pertence ao chassi do mecha.
 
-ent-BroadswordLLeg = broadsword left leg
-    .desc = The left leg of a broadsword. It belongs on the chassis of the mech.
+ent-BroadswordLLeg = perna esquerda broadsword
+    .desc = A perna esquerda de um broadsword. Pertence ao chassi do mecha.
 
-ent-BroadswordRArm = broadsword right arm
-    .desc = The right arm of the broadsword. It belongs on the chassis of the mech.
+ent-BroadswordRArm = braço direito broadsword
+    .desc = O braço direito do broadsword. Pertence ao chassi do mecha.
 
-ent-BroadswordRLeg = broadsword right leg
-    .desc = The right leg of a broadsword. It belongs on the chassis of the mech.
+ent-BroadswordRLeg = perna direita broadsword
+    .desc = A perna direita de um broadsword. Pertence ao chassi do mecha.
 
-ent-FlailChassis = flail chassis
-    .desc = An in-progress construction of the flail mech.
+ent-FlailChassis = chassi flail
+    .desc = Uma construção em andagem do mecha flail.
 
-ent-FlailHarness = flail harness
-    .desc = The core of the ASF-59 \"Flail\".
+ent-FlailHarness = arreio flail
+    .desc = O núcleo do ASF-59 "Flail".
 
-ent-FlailHead = flail head
-    .desc = The head of the flail. It belongs on the chassis of the mech.
+ent-FlailHead = cabeça flail
+    .desc = A cabeça do flail. Pertence ao chassi do mecha.
 
-ent-FlailLArm = flail left arm
-    .desc = The left arm of the flail. It belongs on the chassis of the mech.
+ent-FlailLArm = braço esquerdo flail
+    .desc = O braço esquerdo do flail. Pertence ao chassi do mecha.
 
-ent-FlailLLeg = flail left leg
-    .desc = The left leg of a flail. It belongs on the chassis of the mech.
+ent-FlailLLeg = perna esquerda flail
+    .desc = A perna esquerda de um flail. Pertence ao chassi do mecha.
 
-ent-FlailRArm = flail right arm
-    .desc = The right arm of the flail. It belongs on the chassis of the mech.
+ent-FlailRArm = braço direito flail
+    .desc = O braço direito do flail. Pertence ao chassi do mecha.
 
-ent-FlailRLeg = flail right leg
-    .desc = The right leg of a flail. It belongs on the chassis of the mech.
+ent-FlailRLeg = perna direita flail
+    .desc = A perna direita de um flail. Pertence ao chassi do mecha.
 
-ent-HalberdChassis = halberd chassis
-    .desc = An in-progress construction of the halberd mech.
+ent-HalberdChassis = chassi halberd
+    .desc = Uma construção em andamento do mecha halberd.
 
-ent-HalberdHarness = halberd harness
-    .desc = The core of the AF-28-M \"Halberd\".
+ent-HalberdHarness = arreio halberd
+    .desc = O núcleo do AF-28-M "Halberd".
 
-ent-MaceChassis = mace chassis
-    .desc = An in-progress construction of the mace mech.
+ent-MaceChassis = chassi mace
+    .desc = Uma construção em andamento do mecha mace.
 
-ent-MaceHarness = mace harness
-    .desc = The core of the ASF-59-B \"Mace\".
+ent-MaceHarness = arreio mace
+    .desc = O núcleo do ASF-59-B "Mace".
 
-ent-SpyglassChassis = spyglass chassis
-    .desc = An in-progress construction of the spyglass mech.
+ent-SpyglassChassis = chassi spyglass
+    .desc = Uma construção em andamento do mecha spyglass.
 
-ent-SpyglassHarness = spyglass harness
-    .desc = The core of the ASF-59-E \"Spyglass\".
+ent-SpyglassHarness = arreio spyglass
+    .desc = O núcleo do ASF-59-E "Spyglass".
 
 # From: _Mono/Entities/Objects/Specific/Mechs/mecha_equipment.yml
 
-ent-MechIFFPDV = PDV Mech IFF
-    .desc = Apply before the final weld of a standard mech to give it yellow IFF on radar and give it a coat of tan paint.
+ent-MechIFFPDV = IFF de Mecha PDV
+    .desc = Aplique antes da solda final de um mecha padrão para dar IFF amarelo no radar e uma camada de tinta tan.
 
-ent-MechIFFTSF = TSF Mech IFF
-    .desc = Apply before the final weld of a standard mech to give it blue IFF on radar and give it a coat of blue paint.
+ent-MechIFFTSF = IFF de Mecha TSF
+    .desc = Aplique antes da solda final de um mecha padrão para dar IFF azul no radar e uma camada de tinta azul.
 
 # From: _Mono/Entities/Objects/Specific/Mechs/mechs.yml
 
-ent-AFFlail = ASF-59 \"Flail\"
-    .desc = Newest mech on the market, the Armored Strike Frame is built to tackle ship-sized foes with it's oversized weapon mounts. Slow as a pig however, it tacks on generous armor plating to survive it's runs.
+ent-AFFlail = ASF-59 "Flail"
+    .desc = O mecha mais novo do mercado, o Armored Strike Frame é construído para enfrentar inimigos do tamanho de naves com suas montagens de armas oversized. Lento como um porco, no entanto, adiciona placas de blindagem generosas para sobreviver suas incursões.
 
-ent-AFFlailE = ASF-59-E \"Spyglass\"
-    .desc = An extremely specialized mech based off the Flail Chassis. Uses sophisticated radar systems to provide command and control capabilities, in addition to employing advanced EWAR weaponry.
+ent-AFFlailE = ASF-59-E "Spyglass"
+    .desc = Um mecha extremamente especializado baseado no chassi Flail. Usa sistemas de radar sofisticados para fornecer capacidades de comando e controle, além de empregar armamento EWAR avançado.
 
-ent-AFFlailEPDV = PDV ASF-59-E \"Spyglass\"
-    .desc = An extremely specialized mech based off the Flail Chassis. Uses sophisticated radar systems to provide command and control capabilities, in addition to employing advanced EWAR weaponry.
+ent-AFFlailEPDV = PDV ASF-59-E "Spyglass"
+    .desc = Um mecha extremamente especializado baseado no chassi Flail. Usa sistemas de radar sofisticados para fornecer capacidades de comando e controle, além de empregar armamento EWAR avançado.
 
-ent-AFFlailETSF = TSF ASF-59-E \"Spyglass\"
-    .desc = An extremely specialized mech based off the Flail Chassis. Uses sophisticated radar systems to provide command and control capabilities, in addition to employing advanced EWAR weaponry.
+ent-AFFlailETSF = TSF ASF-59-E "Spyglass"
+    .desc = Um mecha extremamente especializado baseado no chassi Flail. Usa sistemas de radar sofisticados para fornecer capacidades de comando e controle, além de empregar armamento EWAR avançado.
 
-ent-AFFlailPDV = PDV ASF-59 \"Flail\"
-    .desc = Newest mech on the market, the Armored Strike Frame is built to tackle ship-sized foes with it's oversized weapon mounts. Slow as a pig however, it tacks on generous armor plating to survive it's runs.
+ent-AFFlailPDV = PDV ASF-59 "Flail"
+    .desc = O mecha mais novo do mercado, o Armored Strike Frame é construído para enfrentar inimigos do tamanho de naves com suas montagens de armas oversized. Lento como um porco, no entanto, adiciona placas de blindagem generosas para sobreviver suas incursões.
 
-ent-AFFlailTSF = TSF ASF-59 \"Flail\"
-    .desc = Newest mech on the market, the Armored Strike Frame is built to tackle ship-sized foes with it's oversized weapon mounts. Slow as a pig however, it tacks on generous armor plating to survive it's runs.
+ent-AFFlailTSF = TSF ASF-59 "Flail"
+    .desc = O mecha mais novo do mercado, o Armored Strike Frame é construído para enfrentar inimigos do tamanho de naves com suas montagens de armas oversized. Lento como um porco, no entanto, adiciona placas de blindagem generosas para sobreviver suas incursões.
 
 ent-AFInterceptor = {ent-BaseAFInterceptor}
     .desc = {ent-BaseAFInterceptor.desc}
 
 ent-AFInterceptorBattery = {ent-BaseAFInterceptor}
-    .suffix = Battery
+    .suffix = Bateria
     .desc = {ent-BaseAFInterceptor.desc}
 
-ent-AFInterceptorM = AF-28-M \"Halberd\"
-    .desc = A modification of the Broadsword, the Halberd sacrifices light weapon mounts and speed for more armor and medium weapon mounts..
+ent-AFInterceptorM = AF-28-M "Halberd"
+    .desc = Uma modificação do Broadsword, o Halberd sacrifica montagens de armas leves e velocidade por mais blindagem e montagens de armas médias.
 
-ent-AFInterceptorMPDV = PDV AF-28-M \"Halberd\"
-    .desc = A modification of the Broadsword, the Halberd sacrifices armor and speed for heavier weapon mounts.
+ent-AFInterceptorMPDV = PDV AF-28-M "Halberd"
+    .desc = Uma modificação do Broadsword, o Halberd sacrifica blindagem e velocidade por montagens de armas mais pesadas.
 
-ent-AFInterceptorMTSF = TSF AF-28-M \"Halberd\"
-    .desc = A modification of the Broadsword, the Halberd sacrifices armor and speed for heavier weapon mounts.
+ent-AFInterceptorMTSF = TSF AF-28-M "Halberd"
+    .desc = Uma modificação do Broadsword, o Halberd sacrifica blindagem e velocidade por montagens de armas mais pesadas.
 
-ent-AFInterceptorPDV = PDV AF-28 \"Broadsword\"
-    .desc = One of the first purpose built Armored Frames, made to engage light targets and other Armored Frames.
+ent-AFInterceptorPDV = PDV AF-28 "Broadsword"
+    .desc = Um dos primeiros Armored Frames construídos especificamente, feito para engajar alvos leves e outros Armored Frames.
 
-ent-AFInterceptorTSF = TSF AF-28 \"Broadsword\"
-    .desc = One of the first purpose built Armored Frames, made to engage light targets and other Armored Frames.
+ent-AFInterceptorTSF = TSF AF-28 "Broadsword"
+    .desc = Um dos primeiros Armored Frames construídos especificamente, feito para engajar alvos leves e outros Armored Frames.
 
-ent-AFMace = ASF-59-B \"Mace\"
-    .desc = A haphazard refit, armor plating is stripped off to add oversized boosters to the machine. Due to the power constraints, it can only equip a single weapon, limiting versatilty. Fits Heavy Mounts.
+ent-AFMace = ASF-59-B "Mace"
+    .desc = Uma reforma desajeitada, placas de blindagem são removidas para adicionar boosters oversized à máquina. Devido às restrições de energia, pode equipar apenas uma única arma, limitando versatilidade. Encaixa em Montagens Pesadas.
 
-ent-AFMacePDV = PDV ASF-59-B \"Mace\"
-    .desc = A haphazard refit, armor plating is stripped off to add oversized boosters to the machine. Due to the power constraints, it can only equip a single weapon, limiting versatilty. Fits Heavy Mounts.
+ent-AFMacePDV = PDV ASF-59-B "Mace"
+    .desc = Uma reforma desajeitada, placas de blindagem são removidas para adicionar boosters oversized à máquina. Devido às restrições de energia, pode equipar apenas uma única arma, limitando versatilidade. Encaixa em Montagens Pesadas.
 
-ent-AFMaceTSF = TSF ASF-59-B \"Mace\"
-    .desc = A haphazard refit, armor plating is stripped off to add oversized boosters to the machine. Due to the power constraints, it can only equip a single weapon, limiting versatilty. Fits Heavy Mounts.
+ent-AFMaceTSF = TSF ASF-59-B "Mace"
+    .desc = Uma reforma desajeitada, placas de blindagem são removidas para adicionar boosters oversized à máquina. Devido às restrições de energia, pode equipar apenas uma única arma, limitando versatilidade. Encaixa em Montagens Pesadas.
 
 # Abstract entity (referenceable by children)
-ent-BaseAFInterceptor = AF-28 \"Broadsword\"
-    .desc = One of the first purpose built Armored Frames, made to engage light targets and other Armored Frames.
+ent-BaseAFInterceptor = AF-28 "Broadsword"
+    .desc = Um dos primeiros Armored Frames construídos especificamente, feito para engajar alvos leves e outros Armored Frames.
 
 ent-MechDurandPDV = PDV Durand
-    .desc = A slow but beefy combat exosuit that is extra scary in confined spaces due to its punches. Xenos hate it!
+    .desc = Um exoesqueleto de combate lento mas robusto que é extra assustador em espaços confinados devido aos seus socos. Xenos odeiam!
 
 ent-MechDurandTSF = TSF Durand
-    .desc = A slow but beefy combat exosuit that is extra scary in confined spaces due to its punches. Xenos hate it!
+    .desc = Um exoesqueleto de combate lento mas robusto que é extra assustador em espaços confinados devido aos seus socos. Xenos odeiam!
 
 ent-MechGygaxPDV = PDV Gygax
-    .desc = While lightly armored, the Gygax has incredible mobility thanks to its ability to punch through walls at high speeds.
+    .desc = Enquanto levemente blindado, o Gygax tem mobilidade incrível graças à sua capacidade de perfurar paredes em alta velocidade.
 
 ent-MechGygaxTSF = TSF Gygax
-    .desc = While lightly armored, the Gygax has incredible mobility thanks to its ability to punch through walls at high speeds.
+    .desc = Enquanto levemente blindado, o Gygax tem mobilidade incrível graças à sua capacidade de perfurar paredes em alta velocidade.
 
 # From: _Mono/Entities/Objects/Specific/Mechs/Weapons/Gun/combat.yml
 
-ent-EWACMechaFlares = E-58 \"Spark\" jammer
-    .suffix = Mech Weapon, Gun, Combat, EWAR
-    .desc = A cheaper alternative to the Blanket, this emitter launches a volley of 5 flares to confuse enemy gunners. Fits on EWAR Hardpoints.
+ent-EWACMechaFlares = jammer E-58 "Spark"
+    .suffix = Arma de Mecha, Arma, Combate, EWAR
+    .desc = Uma alternativa mais barata ao Blanket, este emissor lança uma salva de 5 sinalizadores para confundir atiradores inimigos. Encaixa em Hardpoints EWAR.
 
-ent-EWACMechaJammer = E-58 \"Blanket\" jammer
-    .suffix = Mech Weapon, Gun, Combat, EWAR
-    .desc = An extremely specialized jamming tool, fires a volley of flares with extremely large jamming signals to screen an advance. Fits on EWAR Hardpoints.
+ent-EWACMechaJammer = jammer E-58 "Blanket"
+    .suffix = Arma de Mecha, Arma, Combate, EWAR
+    .desc = Uma ferramenta de jamming extremamente especializada, dispara uma salva de sinalizadores com sinais de jamming extremamente grandes para cobrir um avanço. Encaixa em Hardpoints EWAR.
 
-ent-HeavyMechCannon = 220mm \"Metronome\" heavy burst autocannon
-    .suffix = Mech Weapon, Gun, Combat, Cannon
-    .desc = A burst fire 220mm cannon, relatively inaccurate, but much longer ranged than the \"Bazooka\". Mounts on Heavy Hardpoints.
+ent-HeavyMechCannon = autocanhão de rajada pesada 220mm "Metronome"
+    .suffix = Arma de Mecha, Arma, Combate, Canhão
+    .desc = Um canhão 220mm de rajada, relativamente impreciso, mas com alcance muito maior que o "Bazooka". Monta em Hardpoints Pesados.
 
-ent-HeavyMechProjector = RAVAGER-type Plasma Cannon
-    .suffix = Mech Weapon, Gun, Combat, EnergyCannon
-    .desc = Based on the MARAUDER, the Ravager sacrifices range for rate of fire. Extremely inaccurate, and subpar lensing causes the projectiles to dissipate only a few seconds away. Devastating up close. Fits on Large Hardpoints.
+ent-HeavyMechProjector = Canhão de Plasma tipo RAVAGER
+    .suffix = Arma de Mecha, Arma, Combate, Canhão de Energia
+    .desc = Baseado no MARAUDER, o Ravager sacrifica alcance por cadência de tiro. Extremamente impreciso, e lenteamento subfaz com que os projéteis se dissipam apenas alguns segundos depois. Devastador de perto. Encaixa em Hardpoints Grandes.
 
-ent-HeavyMechRPG = R3 \"Bazooka\" rocket system
-    .suffix = Mech Weapon, Gun, Combat, Missile
-    .desc = Ground based cruise missile launcher repurposed for mech usage. Guidance systems are all but removed to reduce the size, making the munitions glorified rockets. Mounts on Heavy Hardpoints.
+ent-HeavyMechRPG = sistema de foguete R3 "Bazooka"
+    .suffix = Arma de Mecha, Arma, Combate, Míssil
+    .desc = Lançador de míssil de cruzeiro baseado em terra reaproveitado para uso em mechas. Sistemas de orientação são quase todos removidos para reduzir o tamanho, tornando as munições foguetes glorificados. Monta em Hardpoints Pesados.
 
-ent-LightMechaAutocannon = LAC-29 35mm autocannon
-    .suffix = Mech Weapon, Gun, Combat, Rifle
-    .desc = The everyman's mecha rifle. Chambered in 35mm AP rounds, with balanced stats to tackle both Armored Frames and do light damage against ships. Fits on Light Hardpoints.
+ent-LightMechaAutocannon = autocanhão 35mm LAC-29
+    .suffix = Arma de Mecha, Arma, Combate, Rifle
+    .desc = O rifle de mecha de todo mundo. Carregado em projéteis AP 35mm, com estatísticas equilibradas para enfrentar tanto Armored Frames quanto causar danos leves contra naves. Encaixa em Hardpoints Leves.
 
-ent-LightMechaShotgun = SH-0.5 shotgun
-    .suffix = Mech Weapon, Gun, Combat, Shotgun
-    .desc = A large mech-grade shotgun chambered in 0.5 gauge shells, perfect for CQC combat, the firerate leaves much to be desired however. Fits on Light Hardpoints.
+ent-LightMechaShotgun = shotgun SH-0.5
+    .suffix = Arma de Mecha, Arma, Combate, Shotgun
+    .desc = Uma shotgun grande de mecha carregada em cartuchos 0.5 gauge, perfeita para combate CQC, a cadência deixa muito a desejar no entanto. Encaixa em Hardpoints Leves.
 
-ent-LightMechaSMG = RAC-6 .45 ACP rotary machine gun
-    .suffix = Mech Weapon, Gun, Combat, SMG
-    .desc = An uncommon choice of weaponry, it consists of a 6 barrelled gatling gun, chambered in .45 ACP. Overwhelms mecha with sheer firerate. Good for CQC. Fits on Light Hardpoints.
+ent-LightMechaSMG = metralhadora rotativa RAC-6 .45 ACP
+    .suffix = Arma de Mecha, Arma, Combate, SMG
+    .desc = Uma escolha incomum de armamento, consiste em uma gatling de 6 canos, carregada em .45 ACP. Suplanta mechas com cadência de tiro pura. Bom para CQC. Encaixa em Hardpoints Leves.
 
-ent-MediumMechCoilgun = CL-03 EMP coilgun
-    .suffix = Mech Weapon, Gun, Combat, Cannon
-    .desc = A medium-sized coilgun chambered in 3cm sabots. Inflicts minor damage, however spreads the dreaded EMP effect across an area. Needs a Medium Hardpoint.
+ent-MediumMechCoilgun = coilgun EMP CL-03
+    .suffix = Arma de Mecha, Arma, Combate, Canhão
+    .desc = Um coilgun de porte médio carregado em sabots 3cm. Causa dano menor, no entanto espalha o temido efeito EMP através de uma área. Precisa de um Hardpoint Médio.
 
-ent-MediumMechDMR = DMR-90mm autocannon
-    .suffix = Mech Weapon, Gun, Combat, Cannon
-    .desc = A heavy duty autocannon chambered in 90mm. General purpose Medium Hardpoint gun.
+ent-MediumMechDMR = autocanhão DMR-90mm
+    .suffix = Arma de Mecha, Arma, Combate, Canhão
+    .desc = Um autocanhão de serviço pesado carregado em 90mm. Arma de Hardpoint Médio de propósito geral.
 
-ent-MediumMechTOW = ASM-55 TOW anti-tank missile gantry
-    .suffix = Mech Weapon, Gun, Combat, Cannon
-    .desc = Repurposed anti-tank missile. Wire guided computer is exchanged for a much more sophisticated targetting system, but the mobility leaves much to be desired. Fits in Medium Hardpoints.
+ent-MediumMechTOW = lancador de mísseis anti-tanque ASM-55 TOW
+    .suffix = Arma de Mecha, Arma, Combate, Canhão
+    .desc = Míssil anti-tanque reaproveitado. Computador guiado por fio é trocado por um sistema de direcionamento muito mais sofisticado, mas a mobilidade deixa muito a desejar. Encaixa em Hardpoints Médios.
 
-ent-WeaponMechCombatPulseRifleTSF = CL-94 Pulse Emitter
-    .suffix = Mech Weapon, Gun, Combat, Pulse
-    .desc = Fires a heavy pulse laser.
+ent-WeaponMechCombatPulseRifleTSF = Emissor de Pulso CL-94
+    .suffix = Arma de Mecha, Arma, Combate, Pulso
+    .desc = Dispara um laser de pulso pesado.
 
 # From: _Mono/Entities/Objects/Specific/Mechs/Weapons/Gun/projectiles.yml
 
-ent-120mmBulletHE = 120mm Shell
+ent-120mmBulletHE = Projétil 120mm
 
-ent-280mmRocket = 280mm \"Bazooka\" Rocket
+ent-280mmRocket = Foguete 280mm "Bazooka"
 
-ent-60mmMechShell = 60mm shell
+ent-60mmMechShell = projétil 60mm
 
-ent-BlanketFlare = Signal Emitter
+ent-BlanketFlare = Emissor de Sinal
 
-ent-Bullet45_ACPFMJ_Mech = bullet (.45 ACP FMJ)
+ent-Bullet45_ACPFMJ_Mech = bala (.45 ACP FMJ)
 
-ent-Mech90mmBullet = 90mm projectile
+ent-Mech90mmBullet = projétil 90mm
 
-ent-MechCoilgunSabot = 3cm sabot
+ent-MechCoilgunSabot = sabot 3cm
 
-ent-MechMediumPlasmaProjectile = plasma projectile
+ent-MechMediumPlasmaProjectile = projétil de plasma
 
-ent-MechPelletShotgun = pellet (0.5 gauge)
+ent-MechPelletShotgun = chumbada (0.5 gauge)
 
-ent-SparkFlare = Signal Emitter
+ent-SparkFlare = Emissor de Sinal
 
 # From: _Mono/Entities/Objects/Specific/Mechs/Weapons/IFF_Packs/IFF.yml
 
-ent-IFFMechaBlueCircle = Blue IFF Mech Strobe CIRCLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaBlueCircle = Estrobo IFF Azul CÍRCULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaBlueSquare = Blue IFF Mech Strobe SQUARE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaBlueSquare = Estrobo IFF Azul QUADRADO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaBlueTriangle = Blue IFF Mech Strobe TRIANGLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaBlueTriangle = Estrobo IFF Azul TRIÂNGULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaGreenCircle = Green IFF Mech Strobe CIRCLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaGreenCircle = Estrobo IFF Verde CÍRCULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaGreenSquare = Green IFF Mech Strobe SQUARE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaGreenSquare = Estrobo IFF Verde QUADRADO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaGreenTriangle = Green IFF Mech Strobe TRIANGLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaGreenTriangle = Estrobo IFF Verde TRIÂNGULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaRedCircle = Red IFF Mech Strobe CIRCLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaRedCircle = Estrobo IFF Vermelho CÍRCULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaRedSquare = Red IFF Mech Strobe SQUARE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaRedSquare = Estrobo IFF Vermelho QUADRADO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaRedTriangle = Red IFF Mech Strobe TRIANGLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaRedTriangle = Estrobo IFF Vermelho TRIÂNGULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaYellowCircle = Yellow IFF Mech Strobe CIRCLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaYellowCircle = Estrobo IFF Amarelo CÍRCULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaYellowSquare = Yellow IFF Mech Strobe SQUARE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaYellowSquare = Estrobo IFF Amarelo QUADRADO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
-ent-IFFMechaYellowTriangle = Yellow IFF Mech Strobe TRIANGLE
-    .suffix = Mech Weapon, IFF
-    .desc = A cheap strobe attached to mechs to give off a certain radar signature. Makes jamming useless.
+ent-IFFMechaYellowTriangle = Estrobo IFF Amarelo TRIÂNGULO de Mecha
+    .suffix = Arma de Mecha, IFF
+    .desc = Um estrobo barato anexado a mechas para dar uma certa assinatura de radar. Torna jamming inútil.
 
 # From: _Mono/Entities/Objects/Specific/Medical/healing.yml
 
-ent-PillCanisterMesotaxinide = pill canister
-    .suffix = Mesotaxinide 15u, 5
+ent-PillCanisterMesotaxinide = frasco de pílulas
+    .suffix = Mesotaxinida 15u, 5
 
-ent-PillCanisterStrange = pill canister
-    .suffix = Strange, 10
+ent-PillCanisterStrange = frasco de pílulas
+    .suffix = Estranho, 10
 
-ent-PillMesotaxinide = pill
-    .suffix = Mesotaxinide
+ent-PillMesotaxinide = pílula
+    .suffix = Mesotaxinida
 
 # From: _Mono/Entities/Objects/Specific/Medical/syringecase.yml
 
-ent-SyringeCase = syringe case
-    .desc = A robust carrying case that helps keep travel supplies of medicine organized.
+ent-SyringeCase = estojo de seringas
+    .desc = Um estojo robusto que ajuda a manter os suprimentos de medicina de viagem organizados.
 
-ent-SyringeCaseAlt = medipen case
-    .desc = A robust carrying case that helps with keeping your medipens organized.
+ent-SyringeCaseAlt = estojo de medipen
+    .desc = Um estojo robusto que ajuda a manter seus medipens organizados.
 
 # From: _Mono/Entities/Objects/Specific/mre.yml
 
-ent-MonoMRE = MRE
-    .desc = A modern ready-to-eat ration, filled with bits of individually wrapped slop.
+ent-MonoMRE = RME
+    .desc = Uma ração pronta para comer moderna, cheia de pedaços de ração embrulhada individualmente.
 
 # From: _Mono/Entities/Objects/Specific/Planet/flora_yield.yml
 
-ent-FoodPilumaStalk = piluma stalk
-    .desc = A stalk harvested from the Piluma plant of the desert planet below. Hallucinogenic when consumed in excess.
+ent-FoodPilumaStalk = haste de piluma
+    .desc = Uma haste colhida da planta Piluma do planeta deserto abaixo. Alucinógeno quando consumido em excesso.
 
 # From: _Mono/Entities/Objects/Specific/Planet/flora.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseFlora =
-    .desc = Plant of goodies.
+ent-BaseFlora
+    .desc = Planta de coisas boas.
 
-ent-FloraOrakimPlant = orakim plant
-    .desc = A large bush native to the planet below. Thrives in desert environments.
+ent-FloraOrakimPlant = planta orakim
+    .desc = Um arbusto grande nativo do planeta abaixo. Prospera em ambientes desérticos.
 
-ent-FloraPilumaPlant = piluma plant
-    .desc = A cluster of tall stalks. Edible for food and water, but hallucinogenic in nature.
+ent-FloraPilumaPlant = planta piluma
+    .desc = Um aglomerado de hastes altas. Comestível para comida e água, mas alucinógeno por natureza.
 
 # From: _Mono/Entities/Objects/Specific/Planet/kiln.yml
 
-ent-Forge = forge
-    .desc = A primitive method of refining ores. Barely hot enough to make steel.
+ent-Forge = forja
+    .desc = Um método primitivo de refinar minérios. Apenas quente o suficiente para fazer aço.
 
 # From: _Mono/Entities/Objects/Specific/Planet/turf.yml
 
-ent-DesertSand = sand
-    .suffix = Full
-    .desc = Its just some sand.
+ent-DesertSand = areia
+    .suffix = Completo
+    .desc = É apenas um pouco de areia.
 
-ent-DesertStone = rock
-    .desc = Its a stone.
+ent-DesertStone = pedra
+    .desc = É uma pedra.
 
-ent-hydroponicsSand = sand
+ent-hydroponicsSand = areia
 
 # From: _Mono/Entities/Objects/Specific/Robotics/borg_components.yml
 
-ent-BorgIFFPDV = PDV Cyborg Chip
-    .desc = Apply before the final screw of a standard cyborg to install the necessary PDV components.
+ent-BorgIFFPDV = Chip de Ciborgue PDV
+    .desc = Aplique antes do parafuso final de um ciborgue padrão para instalar os componentes PDV necessários.
 
-ent-BorgIFFTSF = TSF Cyborg Chip
-    .desc = Apply before the final screw of a standard cyborg to install the necessary TSF components.
+ent-BorgIFFTSF = Chip de Ciborgue TSF
+    .desc = Aplique antes do parafuso final de um ciborgue padrão para instalar os componentes TSF necessários.
 
 # From: _Mono/Entities/Objects/Specific/Robotics/borg_modules.yml
 
-ent-BorgModuleAdvancedWeapon = advanced weapon cyborg module
+ent-BorgModuleAdvancedWeapon = módulo de ciborgue de arma avançada
 
-ent-BorgModulePDVAdvancedWeapon = PDV advanced weapon cyborg module
+ent-BorgModulePDVAdvancedWeapon = módulo de ciborgue de arma avançada PDV
 
-ent-BorgModulePDVStandardAssault = PDV basic assault cyborg module
+ent-BorgModulePDVStandardAssault = módulo de ciborgue de assalto básico PDV
 
-ent-BorgModulePDVStandardWeapon = PDV weapon cyborg module
+ent-BorgModulePDVStandardWeapon = módulo de ciborgue de arma PDV
 
-ent-BorgModuleRedactedRCD = pre-fracture RCD module
+ent-BorgModuleRedactedRCD = módulo RCD pré-fratura
 
-ent-BorgModuleRedactedWeapon = pre-fracture weapon cyborg module
+ent-BorgModuleRedactedWeapon = módulo de ciborgue de arma pré-fratura
 
-ent-BorgModuleTSFAdvancedWeapon = TSFMC advanced weapon cyborg module
+ent-BorgModuleTSFAdvancedWeapon = módulo de ciborgue de arma avançada TSFMC
 
-ent-BorgModuleTSFStandardAssault = TSFMC basic assault cyborg module
+ent-BorgModuleTSFStandardAssault = módulo de ciborgue de assalto básico TSFMC
 
-ent-BorgModuleTSFStandardWeapon = TSFMC weapon cyborg module
+ent-BorgModuleTSFStandardWeapon = módulo de ciborgue de arma TSFMC
 
 # From: _Mono/Entities/Objects/Specific/Science/TechDisks/tech_disk_spawners.yml
 
-ent-SpawnLootTechDisksT1 = T1 random tech disks
+ent-SpawnLootTechDisksT1 = discos de tecnologia aleatórios T1
 
-ent-SpawnLootTechDisksT2Faction = T2 random faction tech disks
+ent-SpawnLootTechDisksT2Faction = discos de tecnologia de facção aleatórios T2
 
-ent-SpawnLootTechDisksT2Mech = T2 random mech tech disks
+ent-SpawnLootTechDisksT2Mech = discos de tecnologia de mecha aleatórios T2
 
-ent-SpawnLootTechDisksT3Fracture = T3 random fracture tech disks
+ent-SpawnLootTechDisksT3Fracture = discos de tecnologia de fratura aleatórios T3
 
-ent-SpawnLootTechDisksT3Mech = T3 random mech tech disks
+ent-SpawnLootTechDisksT3Mech = discos de tecnologia de mecha aleatórios T3
 
 # From: _Mono/Entities/Objects/Specific/Science/TechDisks/tech_disks_base.yml
 
-ent-TechDiskBase = tech disk
-    .suffix = DO NOT MAP
-    .desc = A disk capable of adding a specific research to a server.
+ent-TechDiskBase = disco de tecnologia
+    .suffix = NÃO MAPEAR
+    .desc = Um disco capaz de adicionar uma pesquisa específica a um servidor.
 
 # From: _Mono/Entities/Objects/Specific/Science/TechDisks/tech_disks_civ.yml
 
-ent-TechDiskBluespaceBags = pre-fracture bluespace storage tech disk
-    .desc = A disk capable of adding advanced bluespace storage to a server's recipes.
+ent-TechDiskBluespaceBags = disco de tecnologia de armazenamento bluespace pré-fratura
+    .desc = Um disco capaz de adicionar armazenamento bluespace avançado às receitas de um servidor.
 
-ent-TechDiskCivAdvancedTools = civilian power tools tech disk
-    .desc = A disk capable of adding jaws of life and power drills to a server's recipes.
+ent-TechDiskCivAdvancedTools = disco de tecnologia de ferramentas de potência civil
+    .desc = Um disco capaz de adicionar mandíbulas da vida e perfuratrizes de potência às receitas de um servidor.
 
-ent-TechDiskCivBackpackWaterTank = civilian power washer tech disk
-    .desc = A disk capable of adding high-capacity fluid sprays & tanks to a server's recipes. It would never be used for a flamethrower, I swear!
+ent-TechDiskCivBackpackWaterTank = disco de tecnologia de lavadora de potência civil
+    .desc = Um disco capaz de adicionar sprays de fluido de alta capacidade e tanques às receitas de um servidor. Nunca seria usado para um lança-chamas, juro!
 
-ent-TechDiskCivBluespaceBags = civilian bluespace storage tech disk
-    .desc = A disk capable of adding basic bluespace storage to a server's recipes.
+ent-TechDiskCivBluespaceBags = disco de tecnologia de armazenamento bluespace civil
+    .desc = Um disco capaz de adicionar armazenamento bluespace básico às receitas de um servidor.
 
-ent-TechDiskCivCTLA50 = civilian CTLA-50 tech disk
-    .desc = A disk capable of adding CTLA-50/25 FTL drives to a server's recipes.
+ent-TechDiskCivCTLA50 = disco de tecnologia CTLA-50 civil
+    .desc = Um disco capaz de adicionar drives FTL CTLA-50/25 às receitas de um servidor.
 
-ent-TechDiskCivMicroreactors = civilian high-efficiency power cells tech disk
-    .desc = A disk capable of adding microreactors and hyper-capacity cells to a server's recipes.
+ent-TechDiskCivMicroreactors = disco de tecnologia de células de energia de alta eficiência civil
+    .desc = Um disco capaz de adicionar microrreatores e células de hiper-capacidade às receitas de um servidor.
 
-ent-TechDiskCivMS250 = civilian MS-250 shield tech disk
-    .desc = A disk capable of adding MS-250/MS-100 shield boards to a server's recipes.
+ent-TechDiskCivMS250 = disco de tecnologia de escudo MS-250 civil
+    .desc = Um disco capaz de adicionar placas de escudo MS-250/MS-100 às receitas de um servidor.
 
-ent-TechDiskCivShipComps = civilian ship components tech disk
-    .desc = A disk capable of adding basic shields and FTL drives to a server's recipes.
+ent-TechDiskCivShipComps = disco de tecnologia de componentes de nave civil
+    .desc = Um disco capaz de adicionar escudos básicos e drives FTL às receitas de um servidor.
 
-ent-TechDiskFtl = pre-fracture bluespace drive tech disk
-    .desc = A disk capable of adding FTL drives to a server's recipes.
+ent-TechDiskFtl = disco de tecnologia de drive bluespace pré-fratura
+    .desc = Um disco capaz de adicionar drives FTL às receitas de um servidor.
 
-ent-TechDiskRCD = rapid matter manipulation tech disk
-    .desc = A disk capable of adding RCD equipment to a server's recipes.
+ent-TechDiskRCD = disco de tecnologia de manipulação de matéria rápida
+    .desc = Um disco capaz de adicionar equipamento RCD às receitas de um servidor.
 
-ent-TechDiskShields = pre-fracture shield technology tech disk
-    .desc = A disk capable of adding ship shield tech to a server's recipes.
+ent-TechDiskShields = disco de tecnologia de escudo pré-fratura
+    .desc = Um disco capaz de adicionar tecnologia de escudo de nave às receitas de um servidor.
 
-ent-TechDiskSpeedBoots = pre-fracture speed manipulation tech disk
-    .desc = A disk capable of adding speed boots to a server's recipes.
+ent-TechDiskSpeedBoots = disco de tecnologia de manipulação de velocidade pré-fratura
+    .desc = Um disco capaz de adicionar botas de velocidade às receitas de um servidor.
 
 # From: _Mono/Entities/Objects/Specific/Science/TechDisks/tech_disks_faction.yml
 
-ent-TechDiskBulldog = PDV bulldog faction tech disk
-    .desc = A disk capable of adding the Bulldog and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskBulldog = disco de tecnologia de facção bulldog PDV
+    .desc = Um disco capaz de adicionar o Bulldog e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskC20r = PDV C-20r faction tech disk
-    .desc = A disk capable of adding the C-20r and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskC20r = disco de tecnologia de facção C-20r PDV
+    .desc = Um disco capaz de adicionar o C-20r e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskEnergyWeapons = pre-fracture energy weapon faction tech disk
-    .desc = A disk capable of adding energy weapons and shields to a server's recipes, for faction techfabs.
+ent-TechDiskEnergyWeapons = disco de tecnologia de facção de armas de energia pré-fratura
+    .desc = Um disco capaz de adicionar armas de energia e escudos às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskHristov = PDV Hristov faction tech disk
-    .desc = A disk capable of adding the Hristov and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskHristov = disco de tecnologia de facção Hristov PDV
+    .desc = Um disco capaz de adicionar o Hristov e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskM90 = PDV M-90 faction tech disk
-    .desc = A disk capable of adding the M-90 and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskM90 = disco de tecnologia de facção M-90 PDV
+    .desc = Um disco capaz de adicionar o M-90 e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskMla73 = PDV MLA-73 faction tech disk
-    .desc = A disk capable of adding the MLA-73 and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskMla73 = disco de tecnologia de facção MLA-73 PDV
+    .desc = Um disco capaz de adicionar o MLA-73 e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskRogueTools = PDV equipment faction tech disk
-    .desc = A disk capable of adding various tools of Rogues to a server's recipes, for faction techfabs.
+ent-TechDiskRogueTools = disco de tecnologia de facção de equipamento PDV
+    .desc = Um disco capaz de adicionar várias ferramentas de Renegados às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskRogueToolsAdvanced = high-tech PDV equipment faction tech disk
-    .desc = A disk capable of adding the hacking equipment of Rogues to a server's recipes, for faction techfabs.
+ent-TechDiskRogueToolsAdvanced = disco de tecnologia de facção de equipamento PDV de alta tecnologia
+    .desc = Um disco capaz de adicionar o equipamento de hacking de Renegados às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskTSFAnnie = TSF Annie faction tech disk
-    .desc = A disk capable of adding the QBZ-430 Annie and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskTSFAnnie = disco de tecnologia de facção Annie TSF
+    .desc = Um disco capaz de adicionar o QBZ-430 Annie e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskTSFBandit = TSF Bandit faction tech disk
-    .desc = A disk capable of adding the QBU-406 Bandit and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskTSFBandit = disco de tecnologia de facção Bandit TSF
+    .desc = Um disco capaz de adicionar o QBU-406 Bandit e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskTSFDrozd = TSF Drozd faction tech disk
-    .desc = A disk capable of adding the CS/LR-8 Drozd and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskTSFDrozd = disco de tecnologia de facção Drozd TSF
+    .desc = Um disco capaz de adicionar o CS/LR-8 Drozd e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskTSFICWS = TSF Taotie faction tech disk
-    .desc = A disk capable of adding the QBZX-281 Taotie and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskTSFICWS = disco de tecnologia de facção Taotie TSF
+    .desc = Um disco capaz de adicionar o QBZX-281 Taotie e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskTSFLecter = TSF Lecter faction tech disk
-    .desc = A disk capable of adding the QBZ-410 Lecter and its ammo to a server's recipes, for faction techfabs.
+ent-TechDiskTSFLecter = disco de tecnologia de facção Lecter TSF
+    .desc = Um disco capaz de adicionar o QBZ-410 Lecter e sua munição às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskUniversalShipAmmo = universal ship ammo faction tech disk
-    .desc = A disk capable of adding 150mm shells, M381 slugs, and ASM-220 torpedoes to a server's recipes, for faction techfabs.
+ent-TechDiskUniversalShipAmmo = disco de tecnologia de facção de munição universal de nave
+    .desc = Um disco capaz de adicionar projéteis 150mm, slugs M381 e torpedos ASM-220 às receitas de um servidor, para techfabs de facção.
 
-ent-TechDiskUniversalShipAmmoAdvanced = advanced universal ship ammo faction tech disk
-    .desc = A disk capable of adding 150mm shells, M381 slugs, and ASM-220 torpedoes to a server's recipes, for faction techfabs. This one has advanced stuff too!
+ent-TechDiskUniversalShipAmmoAdvanced = disco de tecnologia de facção de munição universal de nave avançada
+    .desc = Um disco capaz de adicionar projéteis 150mm, slugs M381 e torpedos ASM-220 às receitas de um servidor, para techfabs de facção. Este tem coisas avançadas também!
 
 # From: _Mono/Entities/Objects/Specific/Science/TechDisks/tech_disks_language.yml
 
-ent-TechDiskCivTranslationBasic = civilian species translation technology disk
-    .desc = A disk capable of adding species-specific translators to a server's recipes.
+ent-TechDiskCivTranslationBasic = disco de tecnologia de tradução de espécies civil
+    .desc = Um disco capaz de adicionar tradutores específicos de espécies às receitas de um servidor.
 
-ent-TechDiskTranslationPreFracture = pre-fracture advanced translation technology disk
-    .desc = A disk capable of adding translators and implant translators to a server's recipes.
+ent-TechDiskTranslationPreFracture = disco de tecnologia de tradução avançada pré-fratura
+    .desc = Um disco capaz de adicionar tradutores e tradutores implantáveis às receitas de um servidor.
 
 # From: _Mono/Entities/Objects/Specific/Science/TechDisks/tech_disks_mecha.yml
 
-ent-TechDiskMechBallistics = ballistic weapons mech tech disk
-    .desc = A disk capable of adding mech ballistic weapons to a server's recipes.
+ent-TechDiskMechBallistics = disco de tecnologia de mecha de armas balísticas
+    .desc = Um disco capaz de adicionar armas balísticas de mecha às receitas de um servidor.
 
-ent-TechDiskMechCiv = APLU mech tech disk
-    .desc = A disk capable of adding civilian powerloaders to a server's recipes.
+ent-TechDiskMechCiv = disco de tecnologia de mecha APLU
+    .desc = Um disco capaz de adicionar carregadores de potência civis às receitas de um servidor.
 
-ent-TechDiskMechEWAR = EWAR mech tech disk
-    .desc = A disk capable of adding mech EWAR gear to a server's recipes.
+ent-TechDiskMechEWAR = disco de tecnologia de mecha EWAR
+    .desc = Um disco capaz de adicionar equipamento EWAR de mecha às receitas de um servidor.
 
-ent-TechDiskMechGygax = ground combat mech tech disk
-    .desc = A disk capable of adding Gygax construction to a server's recipes.
+ent-TechDiskMechGygax = disco de tecnologia de mecha de combate terrestre
+    .desc = Um disco capaz de adicionar construção Gygax às receitas de um servidor.
 
-ent-TechDiskMechHeavyIndustrial = heavy industrial mech tech disk
-    .desc = A disk capable of adding heavy cargo & salvage mechs to a server's recipes.
+ent-TechDiskMechHeavyIndustrial = disco de tecnologia de mecha industrial pesado
+    .desc = Um disco capaz de adicionar mechas de carga e salvamento pesados às receitas de um servidor.
 
-ent-TechDiskMechIFF = IFF mech tech disk
-    .desc = A disk capable of adding mech IFF equipment to a server's recipes.
+ent-TechDiskMechIFF = disco de tecnologia de mecha IFF
+    .desc = Um disco capaz de adicionar equipamento IFF de mecha às receitas de um servidor.
 
-ent-TechDiskMechMissiles = missile rack mech tech disk
-    .desc = A disk capable of adding mech missile racks to a server's recipes.
+ent-TechDiskMechMissiles = disco de tecnologia de mecha de rack de mísseis
+    .desc = Um disco capaz de adicionar racks de mísseis de mecha às receitas de um servidor.
 
-ent-TechDiskMechS2Base = base S2 mech tech disk
-    .desc = A disk capable of adding basic S2 mechs to a server's recipes.
+ent-TechDiskMechS2Base = disco de tecnologia de mecha S2 base
+    .desc = Um disco capaz de adicionar mechas S2 básicos às receitas de um servidor.
 
-ent-TechDiskMechS2Spec = specialized S2 mech tech disk
-    .desc = A disk capable of adding specialized S2 mech frames to a server's recipes.
+ent-TechDiskMechS2Spec = disco de tecnologia de mecha S2 especializado
+    .desc = Um disco capaz de adicionar frames de mecha S2 especializados às receitas de um servidor.
 
-ent-TechDiskMechS4Base = base S4 mech tech disk
-    .desc = A disk capable of adding basic S4 mechs to a server's recipes.
+ent-TechDiskMechS4Base = disco de tecnologia de mecha S4 base
+    .desc = Um disco capaz de adicionar mechas S4 básicos às receitas de um servidor.
 
-ent-TechDiskMechS4Spec = specialized S4 mech tech disk
-    .desc = A disk capable of adding specialized S4 mech frames to a server's recipes.
+ent-TechDiskMechS4Spec = disco de tecnologia de mecha S4 especializado
+    .desc = Um disco capaz de adicionar frames de mecha S4 especializados às receitas de um servidor.
 
-ent-TechDiskMechWeaponsHeavy = heavy mech weaponry tech disk
-    .desc = A disk capable of adding heavy mech weapons to a server's recipes.
+ent-TechDiskMechWeaponsHeavy = disco de tecnologia de armamento de mecha pesado
+    .desc = Um disco capaz de adicionar armas de mecha pesadas às receitas de um servidor.
 
-ent-TechDiskMechWeaponsLight = light mech weaponry tech disk
-    .desc = A disk capable of adding light mech weapons to a server's recipes.
+ent-TechDiskMechWeaponsLight = disco de tecnologia de armamento de mecha leve
+    .desc = Um disco capaz de adicionar armas de mecha leves às receitas de um servidor.
 
-ent-TechDiskMechWeaponsMedium = medium mech weaponry tech disk
-    .desc = A disk capable of adding medium mech weapons to a server's recipes.
+ent-TechDiskMechWeaponsMedium = disco de tecnologia de armamento de mecha médio
+    .desc = Um disco capaz de adicionar armas de mecha médias às receitas de um servidor.
 
 # From: _Mono/Entities/Objects/Specific/Service/vending_machine_restock.yml
 
-ent-VendingMachineRestockBarista = BaristaVend Restock
-    .desc = A box filled with tea pouches, cups, and barista supplies. Load it into a Barista Vendor to restock. A label reads \"FOR AUTHORIZED BARISTAS ONLY. TAMPERING WILL RUIN THE FLAVOR.\"
+ent-VendingMachineRestockBarista = Reposição BaristaVend
+    .desc = Uma caixa cheia de saquinhos de chá, xícaras e suprimentos de barista. Carregue em um Fornecedor Barista para reabastecer. Um rótulo diz "APENAS PARA BARISTAS AUTORIZADOS. TAMPERING ESTRAGARÁ O SABOR."
 
 # From: _Mono/Entities/Objects/Specific/xeno_drops.yml
 
-ent-ChitinChunk = chitin chunk
-    .desc = A highly durable piece of chitin. Might fetch a rather high price.
+ent-ChitinChunk = pedaço de quitina
+    .desc = Um pedaço de quitina altamente durável. Pode render um preço bastante alto.
 
-ent-ResinJelly = resin jelly
-    .desc = An odd jelly, applying it will rapidly stimulate limb health at the cost of pain.
+ent-ResinJelly = geleia de resina
+    .desc = Uma geleia estranha, aplicando irá estimular rapidamente a saúde dos membros ao custo de dor.
 
 # From: _Mono/Entities/Objects/Tools/blueprints/blueprints_vendors.yml
 
-ent-BlueprintMotleyAnneFighters = motley anne fighter blueprint
-    .desc = A blueprint containing schematics for each of the Motley Anne's drone-piloted fighters.
+ent-BlueprintMotleyAnneFighters = planta de caças motley anne
+    .desc = Uma planta contendo esquemas para cada um dos caças pilotados por drone do Motley Anne.
 
-ent-BlueprintWarlordSuit = PMC combat suit WarlorD blueprint
-    .desc = A blueprint with a schematic of an Warlord suit. It can be inserted into an autolathe or a techfab.
+ent-BlueprintWarlordSuit = planta de traje de combate PMC WarlorD
+    .desc = Uma planta com um esquema de um traje Warlord. Pode ser inserido em um autolathe ou techfab.
 
 # From: _Mono/Entities/Objects/Tools/bomb_collar_sealer.yml
 
-ent-BombCollarSealer = bomb collar sealer
-    .desc = Toggles the lock state of a bomb collar.
+ent-BombCollarSealer = selador de coleira explosiva
+    .desc = Alterna o estado de bloqueio de uma coleira explosiva.
 
 # From: _Mono/Entities/Objects/Tools/jetpacks.yml
 
-ent-JetpackADM = pre-fracture jetpack
-    .suffix = Empty
-    .desc = An exotic, pre-fracture stealth jetpack, rated to be invisible to radar beyond 16 meters.
+ent-JetpackADM = jato pré-fratura
+    .suffix = Vazio
+    .desc = Um jato furtivo exótico pré-fratura, classificado como invisível ao radar além de 16 metros.
 
-ent-JetpackADMFilled = pre-fracture jetpack
-    .suffix = Filled
+ent-JetpackADMFilled = jato pré-fratura
+    .suffix = Preenchido
 
 # From: _Mono/Entities/Objects/Tools/motion_detector.yml
 
-ent-MotionDetector = motion detector
-    .desc = A handheld motion detector. Detects people not in the same company of the user.
+ent-MotionDetector = detector de movimento
+    .desc = Um detector de movimento portátil. Detecta pessoas não na mesma empresa do usuário.
 
 # From: _Mono/Entities/Objects/Tools/nanite_applicator.yml
 
-ent-NaniteApplicator = nanite applicator
-    .desc = Advanced tool that uses nanotechnology to repair structures.
+ent-NaniteApplicator = aplicador de nanitos
+    .desc = Ferramenta avançada que usa nanotecnologia para reparar estruturas.
 
-ent-NaniteApplicatorExperimental = experimental nanite applicator
-    .desc = An experimental nanite applicator with a heavily upgraded nanite capacity capable of self-nanite generation.
+ent-NaniteApplicatorExperimental = aplicador de nanitos experimental
+    .desc = Um aplicador de nanitos experimental com capacidade de nanitos pesadamente atualizada capaz de autogeração de nanitos.
 
-ent-NaniteApplicatorSyndicate = advanced nanite applicator
-    .desc = Advanced nanite applicator with a heavily upgraded nanite capacity capable of self-nanite generation.
+ent-NaniteApplicatorSyndicate = aplicador de nanitos avançado
+    .desc = Aplicador de nanitos avançado com capacidade de nanitos pesadamente atualizada capaz de autogeração de nanitos.
 
 # From: _Mono/Entities/Objects/Tools/repair.yml
 
 ent-ShipRepairDevice = {ent-ShipRepairDeviceBase}
-    .desc = A Ship Repair Device that can reconstruct destroyed sections of ships. Holds 300 charges.
+    .desc = Um Dispositivo de Reparo de Nave que pode reconstruir seções destruídas de naves. Contém 300 cargas.
 
 ent-ShipRepairDeviceAdmin = {ent-ShipRepairDeviceBase}
     .suffix = Admin
     .desc = {ent-ShipRepairDeviceBase.desc}
 
-ent-ShipRepairDeviceAmmo = ship repair matter
-    .desc = Ammo cartridge for a ship repair device.
+ent-ShipRepairDeviceAmmo = matéria de reparo de nave
+    .desc = Cartucho de munição para um dispositivo de reparo de nave.
 
 # Abstract entity (referenceable by children)
-ent-ShipRepairDeviceBase = SRD
-    .desc = A Ship Repair Device that can reconstruct destroyed sections of ships.
+ent-ShipRepairDeviceBase = DRN
+    .desc = Um Dispositivo de Reparo de Nave que pode reconstruir seções destruídas de naves.
 
 ent-ShipRepairDeviceEmpty = {ent-ShipRepairDeviceBase}
-    .suffix = Empty
+    .suffix = Vazio
     .desc = {ent-ShipRepairDeviceBase.desc}
 
 ent-ShipRepairDeviceRecharging = {ent-ShipRepairDeviceBase}
-    .suffix = Recharging
-    .desc = A Ship Repair Device that can reconstruct destroyed sections of ships. Holds 300 charges and slowly recharges.
+    .suffix = Recarregando
+    .desc = Um Dispositivo de Reparo de Nave que pode reconstruir seções destruídas de naves. Contém 300 cargas e recarrega lentamente.
 
-ent-ShipRepairDeviceRedacted = pre-fracture SRD
-    .suffix = Recharging
-    .desc = An arcane repair device that can repair ADS ships.
+ent-ShipRepairDeviceRedacted = DRN pré-fratura
+    .suffix = Recarregando
+    .desc = Um dispositivo de reparo arcano que pode reparar naves ADS.
 
 # From: _Mono/Entities/Objects/Weapons/Bombs/bottlebomb.yml
 
-ent-BottleBomb = bottle bomb
-    .desc = Cheap alternative to nukes.
+ent-BottleBomb = bomba de garrafa
+    .desc = Alternativa barata a bombas nucleares.
 
-ent-BottleBombEmpty = bottle bomb
-    .suffix = empty
-    .desc = Cheap alternative to nukes. This one has no fuel.
+ent-BottleBombEmpty = bomba de garrafa
+    .suffix = vazio
+    .desc = Alternativa barata a bombas nucleares. Esta não tem combustível.
 
 # From: _Mono/Entities/Objects/Weapons/Bombs/nailbomb.yml
 
-ent-NailBomb = nail bomb
-    .desc = An improvised explosive made from nails and gunpowder.
+ent-NailBomb = bomba de pregos
+    .desc = Um explosivo improvisado feito de pregos e pólvora.
 
-ent-NailBombCable = nail bomb
-    .suffix = Cable
-    .desc = An improvised explosive made from nails and gunpowder.
+ent-NailBombCable = bomba de pregos
+    .suffix = Cabo
+    .desc = Um explosivo improvisado feito de pregos e pólvora.
 
-ent-NailBombGunpowder = nail bomb
-    .suffix = Gunpowder
-    .desc = An improvised explosive made from nails and gunpowder. This one has no gunpowder.
+ent-NailBombGunpowder = bomba de pregos
+    .suffix = Pólvora
+    .desc = Um explosivo improvisado feito de pregos e pólvora. Este não tem pólvora.
 
 # From: _Mono/Entities/Objects/Weapons/Bombs/pyrogelbomb.yml
 
-ent-PyrogelBomb = pyrogel bomb
-    .desc = Experimental bottle bomb technology.
+ent-PyrogelBomb = bomba de pirogel
+    .desc = Tecnologia de bomba de garrafa experimental.
 
-ent-PyrogelBombEmpty = pyrogel bomb
-    .suffix = empty
-    .desc = Cheap alternative to nukes. This one has no fuel.
+ent-PyrogelBombEmpty = bomba de pirogel
+    .suffix = vazio
+    .desc = Alternativa barata a bombas nucleares. Esta não tem combustível.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/10Phz.yml
 
-ent-AmmoBox10Phz = ammunition box (10Phz DEW)
+ent-AmmoBox10Phz = caixa de munição (10Phz DEW)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/12_gauge.yml
 
-ent-AmmoBox12_gaugeBeanbag = shotgun shell box (12 gauge beanbag)
+ent-AmmoBox12_gaugeBeanbag = caixa de cartuchos de escopeta (12 gauge beanbag)
 
-ent-AmmoBox12_gaugeBuckshot = shotgun shell box (12 gauge buckshot)
+ent-AmmoBox12_gaugeBuckshot = caixa de cartuchos de escopeta (12 gauge buckshot)
 
-ent-AmmoBox12_gaugeFlare = flare shell box (12 gauge flare)
+ent-AmmoBox12_gaugeFlare = caixa de cartuchos de sinalizador (12 gauge sinalizador)
 
-ent-AmmoBox12_gaugeFlechette = shotgun shell box (12 gauge flechette)
+ent-AmmoBox12_gaugeFlechette = caixa de cartuchos de escopeta (12 gauge flechette)
 
-ent-AmmoBox12_gaugeIncendiary = shotgun shell box (12 gauge incendiary)
+ent-AmmoBox12_gaugeIncendiary = caixa de cartuchos de escopeta (12 gauge incendiário)
 
-ent-AmmoBox12_gaugeOOBuckshot = shotgun shell box (12 gauge OO magnum buckshot)
+ent-AmmoBox12_gaugeOOBuckshot = caixa de cartuchos de escopeta (12 gauge buckshot magnum OO)
 
-ent-AmmoBox12_gaugePractice = shotgun shell box (12 gauge practice)
+ent-AmmoBox12_gaugePractice = caixa de cartuchos de escopeta (12 gauge prática)
 
-ent-AmmoBox12_gaugeSlug = shotgun shell box (12 gauge slug)
+ent-AmmoBox12_gaugeSlug = caixa de cartuchos de escopeta (12 gauge slug)
 
-ent-AmmoBox12_gaugeSlugAP = shotgun shell box (12 gauge armor-piercing slug)
+ent-AmmoBox12_gaugeSlugAP = caixa de cartuchos de escopeta (12 gauge slug perfurante)
 
-ent-AmmoBox12_gaugeSlugRIP = shotgun shell box (12 gauge RIP)
+ent-AmmoBox12_gaugeSlugRIP = caixa de cartuchos de escopeta (12 gauge RIP)
 
-ent-AmmoBox12_gaugeTranquilizer = shotgun shell box (12 gauge tranquilizer)
+ent-AmmoBox12_gaugeTranquilizer = caixa de cartuchos de escopeta (12 gauge tranquilizante)
 
-ent-AmmoBox12_gaugeUranium = shotgun shell box (12 gauge uranium)
+ent-AmmoBox12_gaugeUranium = caixa de cartuchos de escopeta (12 gauge urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/12.7x99mm.yml
 
 ent-AmmoBox127x99mm = {ent-BaseAmmoBox127x99mm}
 
-ent-AmmoBox127x99mmExplosive = ammunition box (12.7x99mm high-explosive)
+ent-AmmoBox127x99mmExplosive = caixa de munição (12.7x99mm alto explosivo)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox127x99mm = ammunition box (12.7x99mm anti-material)
+ent-BaseAmmoBox127x99mm = caixa de munição (12.7x99mm anti-material)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/134x92mm.yml
 
-ent-AmmoBoxShenzhen = ammunition box (13.4x92mm DU-APFSDS caseless)
+ent-AmmoBoxShenzhen = caixa de munição (13.4x92mm DU-APFSDS sem estojo)
 
-ent-AmmoBoxShenzhenBig = big ammunition box (13.4x92mm DU-APFSDS caseless)
-    .suffix = Big (30)
+ent-AmmoBoxShenzhenBig = caixa de munição grande (13.4x92mm DU-APFSDS sem estojo)
+    .suffix = Grande (30)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/14.5x114mm.yml
 
-ent-AmmoBox145x114mm = ammunition box (14.5x114mm)
+ent-AmmoBox145x114mm = caixa de munição (14.5x114mm)
 
-ent-AmmoBox145x114mmBig = big ammunition box (14.5x114mm)
-    .suffix = Big (30)
+ent-AmmoBox145x114mmBig = caixa de munição grande (14.5x114mm)
+    .suffix = Grande (30)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/4_gauge.yml
 
-ent-AmmoBox23x75mmBeanbag = shotgun shell box (4 gauge beanbag)
+ent-AmmoBox23x75mmBeanbag = caixa de cartuchos de escopeta (4 gauge beanbag)
 
-ent-AmmoBox23x75mmBuckshot = shotgun shell box (4 gauge buckshot)
+ent-AmmoBox23x75mmBuckshot = caixa de cartuchos de escopeta (4 gauge buckshot)
 
-ent-AmmoBox23x75mmDozd = shotgun shell box (4 gauge Dozd)
+ent-AmmoBox23x75mmDozd = caixa de cartuchos de escopeta (4 gauge Dozd)
 
-ent-AmmoBox23x75mmFlare = flare shell box (4 gauge flare)
+ent-AmmoBox23x75mmFlare = caixa de cartuchos de sinalizador (4 gauge sinalizador)
 
-ent-AmmoBox23x75mmFlashbang = shotgun shell box (4 gauge flashbang)
+ent-AmmoBox23x75mmFlashbang = caixa de cartuchos de escopeta (4 gauge flashbang)
 
-ent-AmmoBox23x75mmFlechette = shotgun shell box (4 gauge flechette)
+ent-AmmoBox23x75mmFlechette = caixa de cartuchos de escopeta (4 gauge flechette)
 
-ent-AmmoBox23x75mmIncendiary = shotgun shell box (4 gauge incendiary)
+ent-AmmoBox23x75mmIncendiary = caixa de cartuchos de escopeta (4 gauge incendiário)
 
-ent-AmmoBox23x75mmOOBuckshot = shotgun shell box (4 gauge OO magnum buckshot)
+ent-AmmoBox23x75mmOOBuckshot = caixa de cartuchos de escopeta (4 gauge buckshot magnum OO)
 
-ent-AmmoBox23x75mmPractice = shotgun shell box (4 gauge practice)
+ent-AmmoBox23x75mmPractice = caixa de cartuchos de escopeta (4 gauge prática)
 
-ent-AmmoBox23x75mmSlug = shotgun shell box (4 gauge slug)
+ent-AmmoBox23x75mmSlug = caixa de cartuchos de escopeta (4 gauge slug)
 
-ent-AmmoBox23x75mmSlugAP = shotgun shell box (4 gauge armor-piercing slug)
+ent-AmmoBox23x75mmSlugAP = caixa de cartuchos de escopeta (4 gauge slug perfurante)
 
-ent-AmmoBox23x75mmSlugRIP = shotgun shell box (4 gauge RIP)
+ent-AmmoBox23x75mmSlugRIP = caixa de cartuchos de escopeta (4 gauge RIP)
 
-ent-AmmoBox23x75mmUranium = shotgun shell box (4 gauge uranium)
+ent-AmmoBox23x75mmUranium = caixa de cartuchos de escopeta (4 gauge urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/4.6x30mm.yml
 
-ent-AmmoBox46x30mmBigFMJ = big ammunition box (4.6x30mm FMJ)
-    .suffix = Big
+ent-AmmoBox46x30mmBigFMJ = caixa de munição grande (4.6x30mm FMJ)
+    .suffix = Grande
 
-ent-AmmoBox46x30mmEmp = ammunition box (4.6x30mm emp)
+ent-AmmoBox46x30mmEmp = caixa de munição (4.6x30mm emp)
 
-ent-AmmoBox46x30mmFMJ = ammunition box (4.6x30mm FMJ)
+ent-AmmoBox46x30mmFMJ = caixa de munição (4.6x30mm FMJ)
 
-ent-AmmoBox46x30mmHP = ammunition box (4.6x30mm hollow-point)
+ent-AmmoBox46x30mmHP = caixa de munição (4.6x30mm hollow-point)
 
-ent-AmmoBox46x30mmIncendiary = ammunition box (4.6x30mm incendiary)
+ent-AmmoBox46x30mmIncendiary = caixa de munição (4.6x30mm incendiário)
 
-ent-AmmoBox46x30mmPlasteelAP = ammunition box (4.6x30mm AP)
+ent-AmmoBox46x30mmPlasteelAP = caixa de munição (4.6x30mm AP)
 
-ent-AmmoBox46x30mmPractice = ammunition box (4.6x30mm practice)
+ent-AmmoBox46x30mmPractice = caixa de munição (4.6x30mm prática)
 
-ent-AmmoBox46x30mmRIP = ammunition box (4.6x30mm RIP)
+ent-AmmoBox46x30mmRIP = caixa de munição (4.6x30mm RIP)
 
-ent-AmmoBox46x30mmRubber = ammunition box (4.6x30mm rubber)
+ent-AmmoBox46x30mmRubber = caixa de munição (4.6x30mm borracha)
 
-ent-AmmoBox46x30mmUranium = ammunition box (4.6x30mm uranium)
+ent-AmmoBox46x30mmUranium = caixa de munição (4.6x30mm urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox46x30mm = ammunition box (4.6x30mm FMJ)
+ent-BaseAmmoBox46x30mm = caixa de munição (4.6x30mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/45_ACP.yml
 
-ent-AmmoBox45_ACPBigFMJ = big ammunition box (.45 ACP FMJ)
-    .suffix = Big
+ent-AmmoBox45_ACPBigFMJ = caixa de munição grande (.45 ACP FMJ)
+    .suffix = Grande
 
-ent-AmmoBox45_ACPEmp = ammunition box (.45 ACP emp)
+ent-AmmoBox45_ACPEmp = caixa de munição (.45 ACP emp)
 
-ent-AmmoBox45_ACPFMJ = ammunition box (.45 ACP FMJ)
+ent-AmmoBox45_ACPFMJ = caixa de munição (.45 ACP FMJ)
 
-ent-AmmoBox45_ACPHP = ammunition box (.45 ACP hollow-point)
+ent-AmmoBox45_ACPHP = caixa de munição (.45 ACP hollow-point)
 
-ent-AmmoBox45_ACPIncendiary = ammunition box (.45 ACP incendiary)
+ent-AmmoBox45_ACPIncendiary = caixa de munição (.45 ACP incendiário)
 
-ent-AmmoBox45_ACPPlasteelAP = ammunition box (.45 ACP AP)
+ent-AmmoBox45_ACPPlasteelAP = caixa de munição (.45 ACP AP)
 
-ent-AmmoBox45_ACPPractice = ammunition box (.45 ACP practice)
+ent-AmmoBox45_ACPPractice = caixa de munição (.45 ACP prática)
 
-ent-AmmoBox45_ACPRIP = ammunition box (.45 ACP RIP)
+ent-AmmoBox45_ACPRIP = caixa de munição (.45 ACP RIP)
 
-ent-AmmoBox45_ACPRubber = ammunition box (.45 ACP rubber)
+ent-AmmoBox45_ACPRubber = caixa de munição (.45 ACP borracha)
 
-ent-AmmoBox45_ACPUranium = ammunition box (.45 ACP uranium)
+ent-AmmoBox45_ACPUranium = caixa de munição (.45 ACP urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox45_ACP = ammunition box (.45 ACP FMJ)
+ent-BaseAmmoBox45_ACP = caixa de munição (.45 ACP FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/45_magnum.yml
 
-ent-AmmoBox45_magnumAP = ammunition box (.45 magnum extreme armor-piercing)
+ent-AmmoBox45_magnumAP = caixa de munição (.45 magnum perfurante extrema)
 
-ent-AmmoBox45_magnumBigFMJ = big ammunition box (.45 magnum FMJ)
-    .suffix = Big
+ent-AmmoBox45_magnumBigFMJ = caixa de munição grande (.45 magnum FMJ)
+    .suffix = Grande
 
-ent-AmmoBox45_magnumFMJ = ammunition box (.45 magnum FMJ)
+ent-AmmoBox45_magnumFMJ = caixa de munição (.45 magnum FMJ)
 
-ent-AmmoBox45_magnumHP = ammunition box (.45 magnum hollow-point)
+ent-AmmoBox45_magnumHP = caixa de munição (.45 magnum hollow-point)
 
-ent-AmmoBox45_magnumIncendiary = ammunition box (.45 magnum incendiary)
+ent-AmmoBox45_magnumIncendiary = caixa de munição (.45 magnum incendiário)
 
-ent-AmmoBox45_magnumPlasteelAP = ammunition box (.45 magnum AP)
+ent-AmmoBox45_magnumPlasteelAP = caixa de munição (.45 magnum AP)
 
-ent-AmmoBox45_magnumPractice = ammunition box (.45 magnum practice)
+ent-AmmoBox45_magnumPractice = caixa de munição (.45 magnum prática)
 
-ent-AmmoBox45_magnumRIP = ammunition box (.45 magnum RIP)
+ent-AmmoBox45_magnumRIP = caixa de munição (.45 magnum RIP)
 
-ent-AmmoBox45_magnumRubber = ammunition box (.45 magnum rubber)
+ent-AmmoBox45_magnumRubber = caixa de munição (.45 magnum borracha)
 
-ent-AmmoBox45_magnumUranium = ammunition box (.45 magnum uranium)
+ent-AmmoBox45_magnumUranium = caixa de munição (.45 magnum urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox45_magnum = ammunition box (.45 magnum FMJ)
+ent-BaseAmmoBox45_magnum = caixa de munição (.45 magnum FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/5.56x45mm.yml
 
-ent-AmmoBox556x45mmBigFMJ = big ammunition box (5.56x45mm FMJ)
-    .suffix = Big
+ent-AmmoBox556x45mmBigFMJ = caixa de munição grande (5.56x45mm FMJ)
+    .suffix = Grande
 
-ent-AmmoBox556x45mmBigRubber = ammunition box (5.56x45mm rubber)
+ent-AmmoBox556x45mmBigRubber = caixa de munição (5.56x45mm borracha)
 
-ent-AmmoBox556x45mmFMJ = ammunition box (5.56x45mm FMJ)
+ent-AmmoBox556x45mmFMJ = caixa de munição (5.56x45mm FMJ)
 
-ent-AmmoBox556x45mmHP = ammunition box (5.56x45mm hollow-point)
+ent-AmmoBox556x45mmHP = caixa de munição (5.56x45mm hollow-point)
 
-ent-AmmoBox556x45mmIncendiary = ammunition box (5.56x45mm incendiary)
+ent-AmmoBox556x45mmIncendiary = caixa de munição (5.56x45mm incendiário)
 
-ent-AmmoBox556x45mmPlasteelAP = ammunition box (5.56x45mm AP)
+ent-AmmoBox556x45mmPlasteelAP = caixa de munição (5.56x45mm AP)
 
-ent-AmmoBox556x45mmPractice = ammunition box (5.56x45mm practice)
+ent-AmmoBox556x45mmPractice = caixa de munição (5.56x45mm prática)
 
-ent-AmmoBox556x45mmRIP = ammunition box (5.56x45mm RIP)
+ent-AmmoBox556x45mmRIP = caixa de munição (5.56x45mm RIP)
 
-ent-AmmoBox556x45mmRubber = ammunition box (5.56x45mm rubber)
+ent-AmmoBox556x45mmRubber = caixa de munição (5.56x45mm borracha)
 
-ent-AmmoBox556x45mmUranium = ammunition box (5.56x45mm uranium)
+ent-AmmoBox556x45mmUranium = caixa de munição (5.56x45mm urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox556x45mm = ammunition box (5.56x45mm FMJ)
+ent-BaseAmmoBox556x45mm = caixa de munição (5.56x45mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/5.7x28mm.yml
 
-ent-AmmoBox57x28mmBigFMJ = big ammunition box (5.7x28mm FMJ)
-    .suffix = Big
+ent-AmmoBox57x28mmBigFMJ = caixa de munição grande (5.7x28mm FMJ)
+    .suffix = Grande
 
-ent-AmmoBox57x28mmEmp = ammunition box (5.7x28mm emp)
+ent-AmmoBox57x28mmEmp = caixa de munição (5.7x28mm emp)
 
-ent-AmmoBox57x28mmFMJ = ammunition box (5.7x28mm FMJ)
+ent-AmmoBox57x28mmFMJ = caixa de munição (5.7x28mm FMJ)
 
-ent-AmmoBox57x28mmHP = ammunition box (5.7x28mm hollow-point)
+ent-AmmoBox57x28mmHP = caixa de munição (5.7x28mm hollow-point)
 
-ent-AmmoBox57x28mmIncendiary = ammunition box (5.7x28mm incendiary)
+ent-AmmoBox57x28mmIncendiary = caixa de munição (5.7x28mm incendiário)
 
-ent-AmmoBox57x28mmPlasteelAP = ammunition box (5.7x28mm AP)
+ent-AmmoBox57x28mmPlasteelAP = caixa de munição (5.7x28mm AP)
 
-ent-AmmoBox57x28mmPractice = ammunition box (5.7x28mm practice)
+ent-AmmoBox57x28mmPractice = caixa de munição (5.7x28mm prática)
 
-ent-AmmoBox57x28mmRIP = ammunition box (5.7x28mm RIP)
+ent-AmmoBox57x28mmRIP = caixa de munição (5.7x28mm RIP)
 
-ent-AmmoBox57x28mmRubber = ammunition box (5.7x28mm rubber)
+ent-AmmoBox57x28mmRubber = caixa de munição (5.7x28mm borracha)
 
-ent-AmmoBox57x28mmUranium = ammunition box (5.7x28mm uranium)
+ent-AmmoBox57x28mmUranium = caixa de munição (5.7x28mm urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox57x28mm = ammunition box (5.7x28mm FMJ)
+ent-BaseAmmoBox57x28mm = caixa de munição (5.7x28mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/6.35x40mm.yml
 
-ent-AmmoBox635x40mmCaseless = ammunition box (635x40mm Caseless)
+ent-AmmoBox635x40mmCaseless = caixa de munição (635x40mm sem estojo)
 
-ent-AmmoBox635x40mmCaselessBig = big ammunition box (635x40mm Caseless)
-    .suffix = Big
+ent-AmmoBox635x40mmCaselessBig = caixa de munição grande (635x40mm sem estojo)
+    .suffix = Grande
 
-ent-AmmoBox635x40mmCaselessBigRubber = big ammunition box (635x40mm Caseless rubber)
-    .suffix = Big
+ent-AmmoBox635x40mmCaselessBigRubber = caixa de munição grande (635x40mm sem estojo borracha)
+    .suffix = Grande
 
-ent-AmmoBox635x40mmCaselessPractice = ammunition box (635x40mm Caseless practice)
+ent-AmmoBox635x40mmCaselessPractice = caixa de munição (635x40mm sem estojo prática)
 
-ent-AmmoBox635x40mmCaselessRubber = ammunition box (635x40mm Caseless rubber)
+ent-AmmoBox635x40mmCaselessRubber = caixa de munição (635x40mm sem estojo borracha)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/68x52mm.yml
 
-ent-AmmoBox68x52mmCaseless = ammunition box (6.8x52mm STANAG Caseless)
+ent-AmmoBox68x52mmCaseless = caixa de munição (6.8x52mm STANAG sem estojo)
 
-ent-AmmoBox68x52mmCaselessBig = big ammunition box (6.8x52mm STANAG Caseless)
-    .suffix = Big
+ent-AmmoBox68x52mmCaselessBig = caixa de munição grande (6.8x52mm STANAG sem estojo)
+    .suffix = Grande
 
-ent-AmmoBox68x52mmCaselessHP = ammunition box (6.8x52mm STANAG Caseless HP)
+ent-AmmoBox68x52mmCaselessHP = caixa de munição (6.8x52mm STANAG sem estojo HP)
 
-ent-AmmoBox68x52mmCaselessPlasteelAP = ammunition box (6.8x52mm STANAG Caseless AP)
+ent-AmmoBox68x52mmCaselessPlasteelAP = caixa de munição (6.8x52mm STANAG sem estojo AP)
 
-ent-AmmoBox68x52mmCaselessPractice = ammunition box (6.8x52mm STANAG Caseless practice)
+ent-AmmoBox68x52mmCaselessPractice = caixa de munição (6.8x52mm STANAG sem estojo prática)
 
-ent-AmmoBox68x52mmCaselessRIP = ammunition box (6.8x52mm STANAG Caseless RIP)
+ent-AmmoBox68x52mmCaselessRIP = caixa de munição (6.8x52mm STANAG sem estojo RIP)
 
-ent-AmmoBox68x52mmCaselessRubber = ammunition box (6.8x52mm STANAG Caseless rubber)
+ent-AmmoBox68x52mmCaselessRubber = caixa de munição (6.8x52mm STANAG sem estojo borracha)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x39mm.yml
 
-ent-AmmoBox762x39mmBigFMJ = big ammunition box (7.62x39mm FMJ)
-    .suffix = Big
+ent-AmmoBox762x39mmBigFMJ = caixa de munição grande (7.62x39mm FMJ)
+    .suffix = Grande
 
-ent-AmmoBox762x39mmFMJ = ammunition box (7.62x39mm FMJ)
+ent-AmmoBox762x39mmFMJ = caixa de munição (7.62x39mm FMJ)
 
-ent-AmmoBox762x39mmHP = ammunition box (7.62x39mm hollow-point)
+ent-AmmoBox762x39mmHP = caixa de munição (7.62x39mm hollow-point)
 
-ent-AmmoBox762x39mmIncendiary = ammunition box (7.62x39mm incendiary)
+ent-AmmoBox762x39mmIncendiary = caixa de munição (7.62x39mm incendiário)
 
-ent-AmmoBox762x39mmPlasteelAP = ammunition box (7.62x39mm AP)
+ent-AmmoBox762x39mmPlasteelAP = caixa de munição (7.62x39mm AP)
 
-ent-AmmoBox762x39mmPractice = ammunition box (7.62x39mm practice)
+ent-AmmoBox762x39mmPractice = caixa de munição (7.62x39mm prática)
 
-ent-AmmoBox762x39mmRIP = ammunition box (7.62x39mm RIP)
+ent-AmmoBox762x39mmRIP = caixa de munição (7.62x39mm RIP)
 
-ent-AmmoBox762x39mmRubber = ammunition box (7.62x39mm rubber)
+ent-AmmoBox762x39mmRubber = caixa de munição (7.62x39mm borracha)
 
-ent-AmmoBox762x39mmSubsonic = ammunition box (7.62x39mm subsonic)
+ent-AmmoBox762x39mmSubsonic = caixa de munição (7.62x39mm subsônica)
 
-ent-AmmoBox762x39mmUranium = ammunition box (7.62x39mm uranium)
+ent-AmmoBox762x39mmUranium = caixa de munição (7.62x39mm urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox762x39mm = ammunition box (7.62x39mm FMJ)
+ent-BaseAmmoBox762x39mm = caixa de munição (7.62x39mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x51mm.yml
 
-ent-AmmoBox762x51mmBigFMJ = big ammunition box (7.62x51mm FMJ)
-    .suffix = Big
+ent-AmmoBox762x51mmBigFMJ = caixa de munição grande (7.62x51mm FMJ)
+    .suffix = Grande
 
-ent-AmmoBox762x51mmFMJ = ammunition box (7.62x51mm FMJ)
+ent-AmmoBox762x51mmFMJ = caixa de munição (7.62x51mm FMJ)
 
-ent-AmmoBox762x51mmHP = ammunition box (7.62x51mm hollow-point)
+ent-AmmoBox762x51mmHP = caixa de munição (7.62x51mm hollow-point)
 
-ent-AmmoBox762x51mmIncendiary = ammunition box (7.62x51mm incendiary)
+ent-AmmoBox762x51mmIncendiary = caixa de munição (7.62x51mm incendiário)
 
-ent-AmmoBox762x51mmPlasteelAP = ammunition box (7.62x51mm AP)
+ent-AmmoBox762x51mmPlasteelAP = caixa de munição (7.62x51mm AP)
 
-ent-AmmoBox762x51mmPractice = ammunition box (7.62x51mm practice)
+ent-AmmoBox762x51mmPractice = caixa de munição (7.62x51mm prática)
 
-ent-AmmoBox762x51mmRIP = ammunition box (7.62x51mm RIP)
+ent-AmmoBox762x51mmRIP = caixa de munição (7.62x51mm RIP)
 
-ent-AmmoBox762x51mmRubber = ammunition box (7.62x51mm rubber)
+ent-AmmoBox762x51mmRubber = caixa de munição (7.62x51mm borracha)
 
-ent-AmmoBox762x51mmUranium = ammunition box (7.62x51mm uranium)
+ent-AmmoBox762x51mmUranium = caixa de munição (7.62x51mm urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox762x51mm = ammunition box (7.62x51mm FMJ)
+ent-BaseAmmoBox762x51mm = caixa de munição (7.62x51mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x54mmR.yml
 
-ent-AmmoBox762x54mmRBigFMJ = big ammunition box (7.62x54mmR FMJ)
-    .suffix = Big
+ent-AmmoBox762x54mmRBigFMJ = caixa de munição grande (7.62x54mmR FMJ)
+    .suffix = Grande
 
-ent-AmmoBox762x54mmRFMJ = ammunition box (7.62x54mmR FMJ)
+ent-AmmoBox762x54mmRFMJ = caixa de munição (7.62x54mmR FMJ)
 
-ent-AmmoBox762x54mmRHP = ammunition box (7.62x54mmR hollow-point)
+ent-AmmoBox762x54mmRHP = caixa de munição (7.62x54mmR hollow-point)
 
-ent-AmmoBox762x54mmRIncendiary = ammunition box (7.62x54mmR incendiary)
+ent-AmmoBox762x54mmRIncendiary = caixa de munição (7.62x54mmR incendiário)
 
-ent-AmmoBox762x54mmRPlasteelAP = ammunition box (7.62x54mmR AP)
+ent-AmmoBox762x54mmRPlasteelAP = caixa de munição (7.62x54mmR AP)
 
-ent-AmmoBox762x54mmRPractice = ammunition box (7.62x54mmR practice)
+ent-AmmoBox762x54mmRPractice = caixa de munição (7.62x54mmR prática)
 
-ent-AmmoBox762x54mmRRIP = ammunition box (7.62x54mmR RIP)
+ent-AmmoBox762x54mmRRIP = caixa de munição (7.62x54mmR RIP)
 
-ent-AmmoBox762x54mmRRubber = ammunition box (7.62x54mmR rubber)
+ent-AmmoBox762x54mmRRubber = caixa de munição (7.62x54mmR borracha)
 
-ent-AmmoBox762x54mmRUranium = ammunition box (7.62x54mmR uranium)
+ent-AmmoBox762x54mmRUranium = caixa de munição (7.62x54mmR urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox762x54mmR = ammunition box (7.62x54mmR FMJ)
+ent-BaseAmmoBox762x54mmR = caixa de munição (7.62x54mmR FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/700Thz.yml
 
-ent-AmmoBox700Thz = ammunition box (700Thz DEW)
+ent-AmmoBox700Thz = caixa de munição (700Thz DEW)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/8x65mm.yml
 
-ent-AmmoBox8x65mmSKR = ammunition box (8x65mm SKR FMJ)
+ent-AmmoBox8x65mmSKR = caixa de munição (8x65mm SKR FMJ)
 
-ent-AmmoBox8x65mmSKRIncendiary = ammunition box (8x65mm SKR incendiary)
+ent-AmmoBox8x65mmSKRIncendiary = caixa de munição (8x65mm SKR incendiário)
 
-ent-AmmoBox8x65mmSKRPractice = ammunition box (8x65mm SKR practice)
+ent-AmmoBox8x65mmSKRPractice = caixa de munição (8x65mm SKR prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/9x19mm.yml
 
-ent-AmmoBox9x19mmBigFMJ = big ammunition box (9x19mm FMJ)
-    .suffix = Big
+ent-AmmoBox9x19mmBigFMJ = caixa de munição grande (9x19mm FMJ)
+    .suffix = Grande
 
-ent-AmmoBox9x19mmEmp = ammunition box (9x19mm emp)
+ent-AmmoBox9x19mmEmp = caixa de munição (9x19mm emp)
 
-ent-AmmoBox9x19mmFMJ = ammunition box (9x19mm FMJ)
+ent-AmmoBox9x19mmFMJ = caixa de munição (9x19mm FMJ)
 
-ent-AmmoBox9x19mmHP = ammunition box (9x19mm hollow-point)
+ent-AmmoBox9x19mmHP = caixa de munição (9x19mm hollow-point)
 
-ent-AmmoBox9x19mmIncendiary = ammunition box (9x19mm incendiary)
+ent-AmmoBox9x19mmIncendiary = caixa de munição (9x19mm incendiário)
 
-ent-AmmoBox9x19mmPlasteelAP = ammunition box (9x19mm AP)
+ent-AmmoBox9x19mmPlasteelAP = caixa de munição (9x19mm AP)
 
-ent-AmmoBox9x19mmPractice = ammunition box (9x19mm practice)
+ent-AmmoBox9x19mmPractice = caixa de munição (9x19mm prática)
 
-ent-AmmoBox9x19mmRIP = ammunition box (9x19mm RIP)
+ent-AmmoBox9x19mmRIP = caixa de munição (9x19mm RIP)
 
-ent-AmmoBox9x19mmRubber = ammunition box (9x19mm rubber)
+ent-AmmoBox9x19mmRubber = caixa de munição (9x19mm borracha)
 
-ent-AmmoBox9x19mmUranium = ammunition box (9x19mm uranium)
+ent-AmmoBox9x19mmUranium = caixa de munição (9x19mm urânio)
 
 # Abstract entity (referenceable by children)
-ent-BaseAmmoBox9x19mm = ammunition box (9x19mm FMJ)
+ent-BaseAmmoBox9x19mm = caixa de munição (9x19mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/10Phz.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge10Phz = cartridge (10Phz DEW)
-    .desc = A small chemical-laser cell for use in Directed Energy Weapons. Capable of firing an intermediate pulsed laser.
+ent-BaseCartridge10Phz = cartucho (10Phz DEW)
+    .desc = Uma pequena célula de laser químico para uso em Armas de Energia Direcionada. Capaz de disparar um laser pulsado intermediário.
 
-ent-Cartridge10Phz = cartridge (10Phz DEW)
+ent-Cartridge10Phz = cartucho (10Phz DEW)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/12_gauge.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseShellShotgun12_gauge = shotgun shell (12 gauge)
-    .desc = Standard shotgun round practically everywhere.
+ent-BaseShellShotgun12_gauge = cartucho de escopeta (12 gauge)
+    .desc = Cartucho de escopeta padrão praticamente em todo lugar.
 
-ent-ShellShotgun12_gaugeBeanbag = shotgun shell (12 gauge beanbag)
+ent-ShellShotgun12_gaugeBeanbag = cartucho de escopeta (12 gauge beanbag)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeBuckshot = shotgun shell (12 gauge buckshot)
+ent-ShellShotgun12_gaugeBuckshot = cartucho de escopeta (12 gauge buckshot)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeFlare = flare shell (12 gauge flare)
+ent-ShellShotgun12_gaugeFlare = cartucho de sinalizador (12 gauge sinalizador)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeFlechette = shotgun shell (12 gauge flechette)
+ent-ShellShotgun12_gaugeFlechette = cartucho de escopeta (12 gauge flechette)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeImprovised = improvised shotgun shell (12 gauge)
-    .desc = A homemade shotgun shell that shoots painful glass shrapnel. The spread is so wide that it couldn't hit the broad side of a barn.
+ent-ShellShotgun12_gaugeImprovised = cartucho de escopeta improvisado (12 gauge)
+    .desc = Um cartucho de escopeta caseiro que dispara estilhaços de vidro dolorosos. O dispersão é tão ampla que não poderia acertar o lado largo de um celeiro.
 
-ent-ShellShotgun12_gaugeIncendiary = shotgun shell (12 gauge incendiary)
+ent-ShellShotgun12_gaugeIncendiary = cartucho de escopeta (12 gauge incendiário)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeOOBuckshot = shotgun shell (12 gauge OO magnum buckshot)
+ent-ShellShotgun12_gaugeOOBuckshot = cartucho de escopeta (12 gauge buckshot magnum OO)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugePractice = shotgun shell (12 gauge practice)
+ent-ShellShotgun12_gaugePractice = cartucho de escopeta (12 gauge prática)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeSlug = shotgun shell (12 gauge slug)
+ent-ShellShotgun12_gaugeSlug = cartucho de escopeta (12 gauge slug)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeSlugAP = shotgun shell (12 gauge armor-piercing slug)
+ent-ShellShotgun12_gaugeSlugAP = cartucho de escopeta (12 gauge slug perfurante)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeSlugRIP = shotgun shell (12 gauge RIP)
+ent-ShellShotgun12_gaugeSlugRIP = cartucho de escopeta (12 gauge RIP)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeTranquilizer = shotgun shell (12 gauge tranquilizer)
+ent-ShellShotgun12_gaugeTranquilizer = cartucho de escopeta (12 gauge tranquilizante)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
-ent-ShellShotgun12_gaugeUranium = shotgun shell (12 gauge uranium)
+ent-ShellShotgun12_gaugeUranium = cartucho de escopeta (12 gauge urânio)
     .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/12.7x99mm.yml
 
-ent-Cartridge127x99mm = cartridge (12.7x99mm anti-material)
-    .desc = Large anti-material round, capable of punching through armor and walls easily.
+ent-Cartridge127x99mm = cartucho (12.7x99mm anti-material)
+    .desc = Cartucho anti-material grande, capaz de perfurar armaduras e paredes facilmente.
 
-ent-Cartridge127x99mmExplosive = cartridge (12.7x99mm high-explosive)
+ent-Cartridge127x99mmExplosive = cartucho (12.7x99mm alto explosivo)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/134x92mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridgeShenzhen = cartridge (13.4x92mm DU-APFSDS caseless)
-    .desc = Large anti-material round, with high armor-penetration and structural damage.
+ent-BaseCartridgeShenzhen = cartucho (13.4x92mm DU-APFSDS sem estojo)
+    .desc = Cartucho anti-material grande, com alta perfuração de armadura e dano estrutural.
 
-ent-CartridgeShenzhen = cartridge (13.4X92mm DU-APFSDS caseless)
+ent-CartridgeShenzhen = cartucho (13.4X92mm DU-APFSDS sem estojo)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/14.5x114mm.yml
 
-ent-Cartridge145x114mm = cartridge (14.5x114mm)
-    .desc = Even larger anti-material round, capable of punching through any armor and barriers without difficulty.
+ent-Cartridge145x114mm = cartucho (14.5x114mm)
+    .desc = Cartucho anti-material ainda maior, capaz de perfurar qualquer armadura e barreiras sem dificuldade.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/35mm_grenade.yml
 
 # Abstract entity (referenceable by children)
-ent-Base35mmGrenade = base 35x53mm grenade
+ent-Base35mmGrenade = base granada 35x53mm
 
-ent-Cartridge35mmGrenadeSAPHE = 35x53mm SAPHE grenade
+ent-Cartridge35mmGrenadeSAPHE = granada SAPHE 35x53mm
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/4_gauge.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseShellShotgun23x75mm = shotgun shell (4 gauge)
-    .desc = Large shotgun round. Kicks like a mule, and will tear a chunk out of anything that doesnt have the armor to protect it.
+ent-BaseShellShotgun23x75mm = cartucho de escopeta (4 gauge)
+    .desc = Cartucho de escopeta grande. Chuta como uma mula, e vai arrancar um pedaço de qualquer coisa que não tem a armadura para proteger.
 
-ent-ShellShotgun23x75mmBeanbag = shotgun shell (4 gauge beanbag)
+ent-ShellShotgun23x75mmBeanbag = cartucho de escopeta (4 gauge beanbag)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmBuckshot = shotgun shell (4 gauge buckshot)
+ent-ShellShotgun23x75mmBuckshot = cartucho de escopeta (4 gauge buckshot)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmDozd = shotgun shell (4 gauge Dozd)
+ent-ShellShotgun23x75mmDozd = cartucho de escopeta (4 gauge Dozd)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmFlare = flare shell (4 gauge flare)
+ent-ShellShotgun23x75mmFlare = cartucho de sinalizador (4 gauge sinalizador)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmFlashbang = shotgun shell (4 gauge flashbang)
+ent-ShellShotgun23x75mmFlashbang = cartucho de escopeta (4 gauge flashbang)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmFlechette = shotgun shell (4 gauge flechette)
+ent-ShellShotgun23x75mmFlechette = cartucho de escopeta (4 gauge flechette)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmIncendiary = shotgun shell (4 gauge incendiary)
+ent-ShellShotgun23x75mmIncendiary = cartucho de escopeta (4 gauge incendiário)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmOOBuckshot = shotgun shell (4 gauge OO Buckshot)
+ent-ShellShotgun23x75mmOOBuckshot = cartucho de escopeta (4 gauge Buckshot OO)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmPractice = shotgun shell (4 gauge practice)
+ent-ShellShotgun23x75mmPractice = cartucho de escopeta (4 gauge prática)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmSlug = shotgun shell (4 gauge slug)
+ent-ShellShotgun23x75mmSlug = cartucho de escopeta (4 gauge slug)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmSlugAP = shotgun shell (4 gauge armor-piercing slug)
+ent-ShellShotgun23x75mmSlugAP = cartucho de escopeta (4 gauge slug perfurante)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmSlugRIP = shotgun shell (4 gauge RIP)
+ent-ShellShotgun23x75mmSlugRIP = cartucho de escopeta (4 gauge RIP)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
-ent-ShellShotgun23x75mmUranium = shotgun shell (4 gauge uranium)
+ent-ShellShotgun23x75mmUranium = cartucho de escopeta (4 gauge urânio)
     .desc = {ent-BaseShellShotgun23x75mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/4.6x30mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge46x30mm = cartridge (4.6x30mm FMJ)
-    .desc = A light AP round developed for PDWs in the 1990s, by an older world.
+ent-BaseCartridge46x30mm = cartucho (4.6x30mm FMJ)
+    .desc = Um cartucho AP leve desenvolvido para PDWs nos anos 1990, por um mundo mais antigo.
 
-ent-Cartridge46x30mmEmp = cartridge (4.6x30mm emp)
+ent-Cartridge46x30mmEmp = cartucho (4.6x30mm emp)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmFMJ = cartridge (4.6x30mm FMJ)
+ent-Cartridge46x30mmFMJ = cartucho (4.6x30mm FMJ)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmHP = cartridge (4.6x30mm hollow-point)
+ent-Cartridge46x30mmHP = cartucho (4.6x30mm hollow-point)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmIncendiary = cartridge (4.6x30mm incendiary)
+ent-Cartridge46x30mmIncendiary = cartucho (4.6x30mm incendiário)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmPlasteelAP = cartridge (4.6x30mm AP)
+ent-Cartridge46x30mmPlasteelAP = cartucho (4.6x30mm AP)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmPractice = cartridge (4.6x30mm practice)
+ent-Cartridge46x30mmPractice = cartucho (4.6x30mm prática)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmRIP = cartridge (4.6x30mm RIP)
+ent-Cartridge46x30mmRIP = cartucho (4.6x30mm RIP)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmRubber = cartridge (4.6x30mm rubber)
+ent-Cartridge46x30mmRubber = cartucho (4.6x30mm borracha)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
-ent-Cartridge46x30mmUranium = cartridge (4.6x30mm uranium)
+ent-Cartridge46x30mmUranium = cartucho (4.6x30mm urânio)
     .desc = {ent-BaseCartridge46x30mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/45_ACP.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge45_ACP = cartridge (.45 ACP FMJ)
-    .desc = Heavier alternative to 9x19mm for handguns and SMGs.
+ent-BaseCartridge45_ACP = cartucho (.45 ACP FMJ)
+    .desc = Alternativa mais pesada ao 9x19mm para armas de fogo e SMGs.
 
-ent-Cartridge45_ACPEmp = cartridge (.45 ACP emp)
+ent-Cartridge45_ACPEmp = cartucho (.45 ACP emp)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPFMJ = cartridge (.45 ACP FMJ)
+ent-Cartridge45_ACPFMJ = cartucho (.45 ACP FMJ)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPHP = cartridge (.45 ACP hollow-point)
+ent-Cartridge45_ACPHP = cartucho (.45 ACP hollow-point)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPIncendiary = cartridge (.45 ACP incendiary)
+ent-Cartridge45_ACPIncendiary = cartucho (.45 ACP incendiário)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPPlasteelAP = cartridge (.45 ACP AP)
+ent-Cartridge45_ACPPlasteelAP = cartucho (.45 ACP AP)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPPractice = cartridge (.45 ACP practice)
+ent-Cartridge45_ACPPractice = cartucho (.45 ACP prática)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPRIP = cartridge (.45 ACP RIP)
+ent-Cartridge45_ACPRIP = cartucho (.45 ACP RIP)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPRubber = cartridge (.45 ACP rubber)
+ent-Cartridge45_ACPRubber = cartucho (.45 ACP borracha)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
-ent-Cartridge45_ACPUranium = cartridge (.45 ACP uranium)
+ent-Cartridge45_ACPUranium = cartucho (.45 ACP urânio)
     .desc = {ent-BaseCartridge45_ACP.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/45_magnum.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge45_magnum = cartridge (.45 magnum)
-    .desc = Heavy magnum round, usually only seen in magnums or manually-cycled rifles.
+ent-BaseCartridge45_magnum = cartucho (.45 magnum)
+    .desc = Cartucho magnum pesado, geralmente visto apenas em magnums ou rifles de ciclo manual.
 
-ent-Cartridge45_magnumAP = cartridge (.45 magnum armor-piercing)
+ent-Cartridge45_magnumAP = cartucho (.45 magnum perfurante)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumFMJ = cartridge (.45 magnum)
+ent-Cartridge45_magnumFMJ = cartucho (.45 magnum)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumHP = cartridge (.45 magnum hollow-point)
+ent-Cartridge45_magnumHP = cartucho (.45 magnum hollow-point)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumIncendiary = cartridge (.45 magnum incendiary)
+ent-Cartridge45_magnumIncendiary = cartucho (.45 magnum incendiário)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumPlasteelAP = cartridge (.45 magnum AP)
+ent-Cartridge45_magnumPlasteelAP = cartucho (.45 magnum AP)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumPractice = cartridge (.45 magnum practice)
+ent-Cartridge45_magnumPractice = cartucho (.45 magnum prática)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumRIP = cartridge (.45 magnum RIP)
+ent-Cartridge45_magnumRIP = cartucho (.45 magnum RIP)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumRubber = cartridge (.45 magnum rubber)
+ent-Cartridge45_magnumRubber = cartucho (.45 magnum borracha)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
-ent-Cartridge45_magnumUranium = cartridge (.45 magnum uranium)
+ent-Cartridge45_magnumUranium = cartucho (.45 magnum urânio)
     .desc = {ent-BaseCartridge45_magnum.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/5.56x45mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge556x45mm = cartridge (5.56x45mm FMJ)
-    .desc = An extremely-common intermediate cartridge for rifles.
+ent-BaseCartridge556x45mm = cartucho (5.56x45mm FMJ)
+    .desc = Um cartucho intermediário extremamente comum para rifles.
 
-ent-Cartridge556x45mmFMJ = cartridge (5.56x45mm FMJ)
+ent-Cartridge556x45mmFMJ = cartucho (5.56x45mm FMJ)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmHP = cartridge (5.56x45mm hollow-point)
+ent-Cartridge556x45mmHP = cartucho (5.56x45mm hollow-point)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmIncendiary = cartridge (5.56x45mm incendiary)
+ent-Cartridge556x45mmIncendiary = cartucho (5.56x45mm incendiário)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmPlasteelAP = cartridge (5.56x45mm AP)
+ent-Cartridge556x45mmPlasteelAP = cartucho (5.56x45mm AP)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmPractice = cartridge (5.56x45mm practice)
+ent-Cartridge556x45mmPractice = cartucho (5.56x45mm prática)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmRIP = cartridge (5.56x45mm RIP)
+ent-Cartridge556x45mmRIP = cartucho (5.56x45mm RIP)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmRubber = cartridge (5.56x45mm rubber)
+ent-Cartridge556x45mmRubber = cartucho (5.56x45mm borracha)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
-ent-Cartridge556x45mmUranium = cartridge (5.56x45mm uranium)
+ent-Cartridge556x45mmUranium = cartucho (5.56x45mm urânio)
     .desc = {ent-BaseCartridge556x45mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/5.7x28mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge57x28mm = cartridge (5.7x28mm FMJ)
-    .desc = A small PDW cartridge. More internal damage than 4.6, but less armor-piercing capabilities. Formerly infamous for its high cost.
+ent-BaseCartridge57x28mm = cartucho (5.7x28mm FMJ)
+    .desc = Um cartucho pequeno de PDW. Mais dano interno que 4.6, mas menos capacidades de perfuração de armadura. Anteriormente infame por seu alto custo.
 
-ent-Cartridge57x28mmEmp = cartridge (5.7x28mm emp)
+ent-Cartridge57x28mmEmp = cartucho (5.7x28mm emp)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmFMJ = cartridge (5.7x28mm FMJ)
+ent-Cartridge57x28mmFMJ = cartucho (5.7x28mm FMJ)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmHP = cartridge (5.7x28mm hollow-point)
+ent-Cartridge57x28mmHP = cartucho (5.7x28mm hollow-point)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmIncendiary = cartridge (5.7x28mm incendiary)
+ent-Cartridge57x28mmIncendiary = cartucho (5.7x28mm incendiário)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmPlasteelAP = cartridge (5.7x28mm AP)
+ent-Cartridge57x28mmPlasteelAP = cartucho (5.7x28mm AP)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmPractice = cartridge (5.7x28mm practice)
+ent-Cartridge57x28mmPractice = cartucho (5.7x28mm prática)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmRIP = cartridge (5.7x28mm RIP)
+ent-Cartridge57x28mmRIP = cartucho (5.7x28mm RIP)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmRubber = cartridge (5.7x28mm rubber)
+ent-Cartridge57x28mmRubber = cartucho (5.7x28mm borracha)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
-ent-Cartridge57x28mmUranium = cartridge (5.7x28mm uranium)
+ent-Cartridge57x28mmUranium = cartucho (5.7x28mm urânio)
     .desc = {ent-BaseCartridge57x28mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/55_SAM.yml
 
-ent-Cartridge55_SAM = cartridge (.55 Smart Magnum Action)
-    .desc = A .55 smart bullet with a quite heavy charge of booster propellant at the bottom.
+ent-Cartridge55_SAM = cartucho (.55 Smart Magnum Action)
+    .desc = Uma bala inteligente .55 com uma carga bastante pesada de propelente de reforço na parte inferior.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/6.35x40mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge635x40mmCaseless = cartridge (.25 rifle)
-    .desc = Developed during corporate wars for subsonic weapons to keep a low-profile during operations.
+ent-BaseCartridge635x40mmCaseless = cartucho (rifle .25)
+    .desc = Desenvolvido durante guerras corporativas para armas subsônicas manter um perfil baixo durante operações.
 
-ent-Cartridge635x40mmCaseless = cartridge (635x40mm Caseless)
+ent-Cartridge635x40mmCaseless = cartucho (635x40mm sem estojo)
     .desc = {ent-BaseCartridge635x40mmCaseless.desc}
 
-ent-Cartridge635x40mmCaselessPractice = cartridge (635x40mm Caseless practice)
+ent-Cartridge635x40mmCaselessPractice = cartucho (635x40mm sem estojo prática)
     .desc = {ent-BaseCartridge635x40mmCaseless.desc}
 
-ent-Cartridge635x40mmCaselessRubber = cartridge (635x40mm Caseless rubber)
+ent-Cartridge635x40mmCaselessRubber = cartucho (635x40mm sem estojo borracha)
     .desc = {ent-BaseCartridge635x40mmCaseless.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/68x52mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge68x52mmCaseless = cartridge (6.8x52mm STANAG Caseless)
-    .desc = A new intermediate caseless round developed in recent TSF standardization programs, using experience from old corporate war caseless ammunition to enhance the performance of rifles across the sectors.
+ent-BaseCartridge68x52mmCaseless = cartucho (6.8x52mm STANAG sem estojo)
+    .desc = Um novo cartucho intermediário sem estojo desenvolvido em programas recentes de padronização da TSF, usando experiência de munição sem estojo de guerras corporativas antigas para aprimorar o desempenho de rifles através dos setores.
 
-ent-Cartridge68x52mmCaseless = cartridge (6.8x52mm STANAG Caseless)
+ent-Cartridge68x52mmCaseless = cartucho (6.8x52mm STANAG sem estojo)
     .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
-ent-Cartridge68x52mmCaselessHP = cartridge (6.8x52mm STANAG Caseless HP)
+ent-Cartridge68x52mmCaselessHP = cartucho (6.8x52mm STANAG sem estojo HP)
     .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
-ent-Cartridge68x52mmCaselessPlasteelAP = cartridge (6.8x52mm STANAG Caseless AP)
+ent-Cartridge68x52mmCaselessPlasteelAP = cartucho (6.8x52mm STANAG sem estojo AP)
     .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
-ent-Cartridge68x52mmCaselessPractice = cartridge (6.8x52mm STANAG Caseless practice)
+ent-Cartridge68x52mmCaselessPractice = cartucho (6.8x52mm STANAG sem estojo prática)
     .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
-ent-Cartridge68x52mmCaselessRIP = cartridge (6.8x52mm STANAG Caseless RIP)
+ent-Cartridge68x52mmCaselessRIP = cartucho (6.8x52mm STANAG sem estojo RIP)
     .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
-ent-Cartridge68x52mmCaselessRubber = cartridge (6.8x52mm STANAG Caseless rubber)
+ent-Cartridge68x52mmCaselessRubber = cartucho (6.8x52mm STANAG sem estojo borracha)
     .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/7.62x39mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge762x39mm = cartridge (7.62x39mm FMJ)
-    .desc = Originating from over 400 years ago, this round has seen use in the rifles of multiple militias and militaries alike.
+ent-BaseCartridge762x39mm = cartucho (7.62x39mm FMJ)
+    .desc = Originado há mais de 400 anos, este cartucho tem visto uso nos rifles de múltiplas milícias e militares igualmente.
 
-ent-Cartridge762x39mmFMJ = cartridge (7.62x39mm FMJ)
+ent-Cartridge762x39mmFMJ = cartucho (7.62x39mm FMJ)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmHP = cartridge (7.62x39mm hollow-point)
+ent-Cartridge762x39mmHP = cartucho (7.62x39mm hollow-point)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmIncendiary = cartridge (7.62x39mm incendiary)
+ent-Cartridge762x39mmIncendiary = cartucho (7.62x39mm incendiário)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmPlasteelAP = cartridge (7.62x39mm AP)
+ent-Cartridge762x39mmPlasteelAP = cartucho (7.62x39mm AP)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmPractice = cartridge (7.62x39mm practice)
+ent-Cartridge762x39mmPractice = cartucho (7.62x39mm prática)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmRIP = cartridge (7.62x39mm RIP)
+ent-Cartridge762x39mmRIP = cartucho (7.62x39mm RIP)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmRubber = cartridge (7.62x39mm rubber)
+ent-Cartridge762x39mmRubber = cartucho (7.62x39mm borracha)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmSubsonic = cartridge (7.62x39mm subsonic)
+ent-Cartridge762x39mmSubsonic = cartucho (7.62x39mm subsônica)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
-ent-Cartridge762x39mmUranium = cartridge (7.62x39mm uranium)
+ent-Cartridge762x39mmUranium = cartucho (7.62x39mm urânio)
     .desc = {ent-BaseCartridge762x39mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/7.62x51mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge762x51mm = cartridge (7.62x51mm FMJ)
-    .desc = A decently sized full-power round.
+ent-BaseCartridge762x51mm = cartucho (7.62x51mm FMJ)
+    .desc = Um cartucho de potência completa de tamanho decente.
 
-ent-Cartridge762x51mmFMJ = cartridge (7.62x51mm FMJ)
+ent-Cartridge762x51mmFMJ = cartucho (7.62x51mm FMJ)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmHP = cartridge (7.62x51mm hollow-point)
+ent-Cartridge762x51mmHP = cartucho (7.62x51mm hollow-point)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmIncendiary = cartridge (7.62x51mm incendiary)
+ent-Cartridge762x51mmIncendiary = cartucho (7.62x51mm incendiário)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmPlasteelAP = cartridge (7.62x51mm AP)
+ent-Cartridge762x51mmPlasteelAP = cartucho (7.62x51mm AP)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmPractice = cartridge (7.62x51mm practice)
+ent-Cartridge762x51mmPractice = cartucho (7.62x51mm prática)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmRIP = cartridge (7.62x51mm RIP)
+ent-Cartridge762x51mmRIP = cartucho (7.62x51mm RIP)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmRubber = cartridge (7.62x51mm rubber)
+ent-Cartridge762x51mmRubber = cartucho (7.62x51mm borracha)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
-ent-Cartridge762x51mmUranium = cartridge (7.62x51mm uranium)
+ent-Cartridge762x51mmUranium = cartucho (7.62x51mm urânio)
     .desc = {ent-BaseCartridge762x51mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/7.62x54mmR.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge762x54mmR = cartridge (7.62x54mmR FMJ)
-    .desc = A full-power rifle round commonly used in DMRs and civilian bolt-action rifles.
+ent-BaseCartridge762x54mmR = cartucho (7.62x54mmR FMJ)
+    .desc = Um cartucho de rifle de potência completa comumente usado em DMRs e rifles de ação de parafuso civis.
 
-ent-Cartridge762x54mmRFMJ = cartridge (7.62x54mmR FMJ)
+ent-Cartridge762x54mmRFMJ = cartucho (7.62x54mmR FMJ)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRHP = cartridge (7.62x54mmR hollow-point)
+ent-Cartridge762x54mmRHP = cartucho (7.62x54mmR hollow-point)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRIncendiary = cartridge (7.62x54mmR incendiary)
+ent-Cartridge762x54mmRIncendiary = cartucho (7.62x54mmR incendiário)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRPlasteelAP = cartridge (7.62x54mmR AP)
+ent-Cartridge762x54mmRPlasteelAP = cartucho (7.62x54mmR AP)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRPractice = cartridge (7.62x54mmR practice)
+ent-Cartridge762x54mmRPractice = cartucho (7.62x54mmR prática)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRRIP = cartridge (7.62x54mmR RIP)
+ent-Cartridge762x54mmRRIP = cartucho (7.62x54mmR RIP)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRRubber = cartridge (7.62x54mmR rubber)
+ent-Cartridge762x54mmRRubber = cartucho (7.62x54mmR borracha)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
-ent-Cartridge762x54mmRUranium = cartridge (7.62x54mmR uranium)
+ent-Cartridge762x54mmRUranium = cartucho (7.62x54mmR urânio)
     .desc = {ent-BaseCartridge762x54mmR.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/700Thz.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge700Thz = cartridge (700Thz DEW)
-    .desc = A small chemical-laser cell for use in Directed Energy Weapons. Capable of firing an intermediate pulsed laser.
+ent-BaseCartridge700Thz = cartucho (700Thz DEW)
+    .desc = Uma pequena célula de laser químico para uso em Armas de Energia Direcionada. Capaz de disparar um laser pulsado intermediário.
 
-ent-Cartridge700Thz = cartridge (700Thz DEW)
+ent-Cartridge700Thz = cartucho (700Thz DEW)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/8x65mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge8x65mmSKR = cartridge (8x65mm SKR)
-    .desc = An experimental high performance round. Standard round for high-power rifles across all branches of the TSF's armed forces.
+ent-BaseCartridge8x65mmSKR = cartucho (8x65mm SKR)
+    .desc = Um cartucho experimental de alto desempenho. Cartucho padrão para rifles de alta potência em todos os ramos das forças armadas da TSF.
 
-ent-Cartridge8x65mmSKR = cartridge (8x65mm SKR FMJ)
+ent-Cartridge8x65mmSKR = cartucho (8x65mm SKR FMJ)
     .desc = {ent-BaseCartridge8x65mmSKR.desc}
 
-ent-Cartridge8x65mmSKRIncendiary = cartridge (8x65mm SKR incendiary)
+ent-Cartridge8x65mmSKRIncendiary = cartucho (8x65mm SKR incendiário)
     .desc = {ent-BaseCartridge8x65mmSKR.desc}
 
-ent-Cartridge8x65mmSKRPractice = cartridge (8x65mm SKR practice)
+ent-Cartridge8x65mmSKRPractice = cartucho (8x65mm SKR prática)
     .desc = {ent-BaseCartridge8x65mmSKR.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/9x19mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCartridge9x19mm = cartridge (9x19mm FMJ)
-    .desc = Generic pistol round. Easy to handle, with a decent effect on unarmored flesh.
+ent-BaseCartridge9x19mm = cartucho (9x19mm FMJ)
+    .desc = Cartucho genérico de pistola. Fácil de manusear, com efeito decente em carne sem armadura.
 
-ent-Cartridge9x19mmEmp = cartridge (9x19mm emp)
+ent-Cartridge9x19mmEmp = cartucho (9x19mm emp)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmFMJ = cartridge (9x19mm FMJ)
+ent-Cartridge9x19mmFMJ = cartucho (9x19mm FMJ)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmHP = cartridge (9x19mm hollow-point)
+ent-Cartridge9x19mmHP = cartucho (9x19mm hollow-point)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmIncendiary = cartridge (9x19mm incendiary)
+ent-Cartridge9x19mmIncendiary = cartucho (9x19mm incendiário)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmPlasteelAP = cartridge (9x19mm AP)
+ent-Cartridge9x19mmPlasteelAP = cartucho (9x19mm AP)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmPractice = cartridge (9x19mm practice)
+ent-Cartridge9x19mmPractice = cartucho (9x19mm prática)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmRIP = cartridge (9x19mm RIP)
+ent-Cartridge9x19mmRIP = cartucho (9x19mm RIP)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmRubber = cartridge (9x19mm rubber)
+ent-Cartridge9x19mmRubber = cartucho (9x19mm borracha)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
-ent-Cartridge9x19mmUranium = cartridge (9x19mm uranium)
+ent-Cartridge9x19mmUranium = cartucho (9x19mm urânio)
     .desc = {ent-BaseCartridge9x19mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/smartgun.yml
 
-ent-CartridgeSmart = cartridge (.160 smart)
-    .desc = A .160 smart bullet with a small charge of booster propellant at the bottom.
+ent-CartridgeSmart = cartucho (.160 inteligente)
+    .desc = Uma bala inteligente .160 com uma pequena carga de propelente de reforço na parte inferior.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/explosives.yml
 
-ent-40mmGrenadeBaton = 40mm baton grenade
+ent-40mmGrenadeBaton = granada de cacetete 40mm
 
-ent-40mmGrenadeEMP = 40mm EMP grenade
+ent-40mmGrenadeEMP = granada EMP 40mm
 
-ent-40mmGrenadeFlash = 40mm flash grenade
+ent-40mmGrenadeFlash = granada de flash 40mm
 
-ent-40mmGrenadeFragmentation = 40mm Fragmentation grenade
+ent-40mmGrenadeFragmentation = granada de fragmentação 40mm
 
-ent-40mmGrenadeThermobaric = 40mm thermobaric grenade
-
-# Abstract entity (referenceable by children)
-ent-BaseCannonBall = base cannon ball
+ent-40mmGrenadeThermobaric = granada termobárica 40mm
 
 # Abstract entity (referenceable by children)
-ent-BaseGrenade = base grenade
+ent-BaseCannonBall = base bala de canhão
 
-ent-CannonBall = cannonball
-    .suffix = Rogue
+# Abstract entity (referenceable by children)
+ent-BaseGrenade = base granada
 
-ent-CannonBallEmp = shockshot
+ent-CannonBall = bala de canhão
+    .suffix = Renegado
+
+ent-CannonBallEmp = tiro de choque
     .suffix = EMP
 
-ent-CannonBallGlassshot = glassshot
-    .suffix = Rogue
+ent-CannonBallGlassshot = tiro de vidro
+    .suffix = Renegado
 
-ent-CannonBallGrapeshot = grapeshot
-    .suffix = Rogue
+ent-CannonBallGrapeshot = tiro de uva
+    .suffix = Renegado
 
-ent-CartridgeMPSSMHEAT = MPSSM Mk.248 rocket tube
-    .desc = A missile tube designed for the MPSSM launcher. Fires an unguided HEAT rocket for precise structural destruction and AT usage.
+ent-CartridgeMPSSMHEAT = tubo de foguete MPSSM Mk.248
+    .desc = Um tubo de míssil projetado para o lançador MPSSM. Dispara um foguete HEAT não guiado para destruição estrutural precisa e uso AT.
 
-ent-CartridgeMPSSMMissile = MPSSM ASM-19 missile tube
-    .desc = A missile tube designed for the MPSSM launcher. Fires a ship-tracking EMP-HE missile with a lockon range of 1.2km
+ent-CartridgeMPSSMMissile = tubo de míssil MPSSM ASM-19
+    .desc = Um tubo de míssil projetado para o lançador MPSSM. Dispara um míssil EMP-HE de rastreamento de nave com alcance de travamento de 1.2km
 
-ent-CartridgeRocket = PG-7VL grenade
-    .desc = A 1.5 warhead designed for the RPG-7 launcher. Has tubular shape.
+ent-CartridgeRocket = granada PG-7VL
+    .desc = Uma ogiva 1.5 projetada para o lançador RPG-7. Tem forma tubular.
 
 ent-CartridgeRocketEmp = PG-7VL emp
-    .desc = A 1.5 emp warhead designed for the RPG-7 launcher. Has tubular shape.
+    .desc = Uma ogiva emp 1.5 projetada para o lançador RPG-7. Tem forma tubular.
 
-ent-CartridgeRocketSlow = PG-7VL grenade \"Snail-Rocket\"
-    .desc = A 1.5 warhead designed for the RPG-7 launcher. It's unusually slow.
+ent-CartridgeRocketSlow = granada PG-7VL "Lesma-Foguete"
+    .desc = Uma ogiva 1.5 projetada para o lançador RPG-7. É incomumente lenta.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/10Phz.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine10Phz = DEW magazine (10Phz DEW)
+ent-BaseMagazine10Phz = carregador DEW (10Phz DEW)
 
-ent-Magazine10Phz = DEW magazine (10Phz)
+ent-Magazine10Phz = carregador DEW (10Phz)
 
-ent-Magazine10PhzEmpty = DEW magazine (10Phz any)
-    .suffix = empty
+ent-Magazine10PhzEmpty = carregador DEW (10Phz qualquer)
+    .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/12_gauge.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine12_gauge = ammo drum (12 gauge shells)
+ent-BaseMagazine12_gauge = tambor de munição (cartuchos de escopeta 12 gauge)
 
-ent-Magazine12_gaugeBeanbag = ammo drum (12 gauge beanbags)
+ent-Magazine12_gaugeBeanbag = tambor de munição (beanbags 12 gauge)
 
-ent-Magazine12_gaugeBuckshot = ammo drum (12 gauge buckshot)
+ent-Magazine12_gaugeBuckshot = tambor de munição (buckshot 12 gauge)
 
-ent-Magazine12_gaugeEmpty = ammo drum (12 gauge shells any)
-    .suffix = empty
+ent-Magazine12_gaugeEmpty = tambor de munição (cartuchos de escopeta 12 gauge qualquer)
+    .suffix = vazio
 
-ent-Magazine12_gaugeFlechette = ammo drum (12 gauge flechette)
+ent-Magazine12_gaugeFlechette = tambor de munição (flechette 12 gauge)
 
-ent-Magazine12_gaugeIncendiary = ammo drum (12 gauge incendiary)
+ent-Magazine12_gaugeIncendiary = tambor de munição (incendiário 12 gauge)
 
-ent-Magazine12_gaugeOOBuckshot = ammo drum (12 gauge OO magnum buckshot)
+ent-Magazine12_gaugeOOBuckshot = tambor de munição (buckshot magnum OO 12 gauge)
 
-ent-Magazine12_gaugePractice = ammo drum (12 gauge practice)
+ent-Magazine12_gaugePractice = tambor de munição (prática 12 gauge)
 
-ent-Magazine12_gaugeSlug = ammo drum (12 gauge slug)
+ent-Magazine12_gaugeSlug = tambor de munição (slug 12 gauge)
 
-ent-Magazine12_gaugeSlugAP = ammo drum (12 gauge armor-piercing slug)
+ent-Magazine12_gaugeSlugAP = tambor de munição (slug perfurante 12 gauge)
 
-ent-Magazine12_gaugeSlugRIP = ammo drum (12 gauge RIP)
+ent-Magazine12_gaugeSlugRIP = tambor de munição (RIP 12 gauge)
 
-ent-Magazine12_gaugeUranium = ammo drum (12 gauge uranium)
+ent-Magazine12_gaugeUranium = tambor de munição (urânio 12 gauge)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/12.7x99mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine127x99mm = magazine (12.7x99mm)
+ent-BaseMagazine127x99mm = carregador (12.7x99mm)
 
-ent-Magazine127x99mm = magazine (12.7x99mm anti-material)
+ent-Magazine127x99mm = carregador (12.7x99mm anti-material)
 
-ent-Magazine127x99mmEmpty = magazine (12.7x99mm empty)
+ent-Magazine127x99mmEmpty = carregador (12.7x99mm vazio)
 
-ent-Magazine127x99mmExplosive = magazine (12.7x99mm high-explosive)
+ent-Magazine127x99mmExplosive = carregador (12.7x99mm alto explosivo)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/134x92mm.yml
 
-ent-MagazineShenzhen = QBU-284 magazine (13.4x92mm DU-APFSDS)
+ent-MagazineShenzhen = carregador QBU-284 (13.4x92mm DU-APFSDS)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/35mm_grenade.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine35mmGrenade = base magazine (35x53mm grenade)
+ent-BaseMagazine35mmGrenade = carregador base (granada 35x53mm)
 
-ent-Magazine35mmGrenade = magazine (35x53mm grenade SAPHE)
+ent-Magazine35mmGrenade = carregador (granada SAPHE 35x53mm)
 
-ent-Magazine35mmGrenadeEmpty = magazine (35x53mm grenade any)
+ent-Magazine35mmGrenadeEmpty = carregador (granada 35x53mm qualquer)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/4_gauge.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine4_gauge = ammo canister (4 gauge shells)
-    .desc = A clunky canister containing 4 gauge, likely meant for the GS-004-B.
+ent-BaseMagazine4_gauge = cartucho de munição (cartuchos de escopeta 4 gauge)
+    .desc = Um cartucho desajeitado contendo 4 gauge, provavelmente destinado ao GS-004-B.
 
-ent-Magazine4_gaugeBuckshot = ammo canister (4 gauge buckshot)
+ent-Magazine4_gaugeBuckshot = cartucho de munição (buckshot 4 gauge)
     .desc = {ent-BaseMagazine4_gauge.desc}
 
-ent-Magazine4_gaugeEmpty = ammo canister (4 gauge shells any)
-    .suffix = empty
+ent-Magazine4_gaugeEmpty = cartucho de munição (cartuchos de escopeta 4 gauge qualquer)
+    .suffix = vazio
     .desc = {ent-BaseMagazine4_gauge.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/4.6x30mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine46x30mm = pistol magazine (4.6x30mm FMJ)
+ent-BaseMagazine46x30mm = carregador de pistola (4.6x30mm FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine46x30mmPistolHighCapacityFMJ = machine pistol magazine (4.6x30mm FMJ)
+ent-BaseMagazine46x30mmPistolHighCapacityFMJ = carregador de metralhadora pistola (4.6x30mm FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine46x30mmSubMachineGunFMJ = SMG magazine (4.6x30mm FMJ)
+ent-BaseMagazine46x30mmSubMachineGunFMJ = carregador de SMG (4.6x30mm FMJ)
 
-ent-Magazine46x30mmPistolEmpty = pistol magazine (4.6x30mm any)
-    .suffix = empty
+ent-Magazine46x30mmPistolEmpty = carregador de pistola (4.6x30mm qualquer)
+    .suffix = vazio
 
-ent-Magazine46x30mmPistolFMJ = pistol magazine (4.6x30mm FMJ)
+ent-Magazine46x30mmPistolFMJ = carregador de pistola (4.6x30mm FMJ)
 
-ent-Magazine46x30mmPistolHighCapacityEmpty = machine pistol magazine (4.6x30mm any)
-    .suffix = empty
+ent-Magazine46x30mmPistolHighCapacityEmpty = carregador de metralhadora pistola (4.6x30mm qualquer)
+    .suffix = vazio
 
-ent-Magazine46x30mmPistolHighCapacityFMJ = machine pistol magazine (4.6x30mm FMJ)
+ent-Magazine46x30mmPistolHighCapacityFMJ = carregador de metralhadora pistola (4.6x30mm FMJ)
 
-ent-Magazine46x30mmPistolHighCapacityPractice = machine pistol magazine (4.6x30mm practice)
+ent-Magazine46x30mmPistolHighCapacityPractice = carregador de metralhadora pistola (4.6x30mm prática)
 
-ent-Magazine46x30mmPistolHighCapacityRubber = machine pistol magazine (4.6x30mm rubber)
+ent-Magazine46x30mmPistolHighCapacityRubber = carregador de metralhadora pistola (4.6x30mm borracha)
 
-ent-Magazine46x30mmPistolHP = pistol magazine (4.6x30mm hollow-point)
+ent-Magazine46x30mmPistolHP = carregador de pistola (4.6x30mm hollow-point)
 
-ent-Magazine46x30mmPistolIncendiary = pistol magazine (4.6x30mm incendiary)
+ent-Magazine46x30mmPistolIncendiary = carregador de pistola (4.6x30mm incendiário)
 
-ent-Magazine46x30mmPistolPlasteelAP = pistol magazine (4.6x30mm AP)
+ent-Magazine46x30mmPistolPlasteelAP = carregador de pistola (4.6x30mm AP)
 
-ent-Magazine46x30mmPistolPractice = pistol magazine (4.6x30mm practice)
+ent-Magazine46x30mmPistolPractice = carregador de pistola (4.6x30mm prática)
 
-ent-Magazine46x30mmPistolRIP = pistol magazine (4.6x30mm RIP)
+ent-Magazine46x30mmPistolRIP = carregador de pistola (4.6x30mm RIP)
 
-ent-Magazine46x30mmPistolRubber = pistol magazine (4.6x30mm rubber)
+ent-Magazine46x30mmPistolRubber = carregador de pistola (4.6x30mm borracha)
 
-ent-Magazine46x30mmPistolUranium = pistol magazine (4.6x30mm uranium)
+ent-Magazine46x30mmPistolUranium = carregador de pistola (4.6x30mm urânio)
 
-ent-Magazine46x30mmSubMachineGunEmp = SMG magazine (4.6x30mm emp)
+ent-Magazine46x30mmSubMachineGunEmp = carregador de SMG (4.6x30mm emp)
 
-ent-Magazine46x30mmSubMachineGunEmpty = SMG magazine (4.6x30mm any)
-    .suffix = empty
+ent-Magazine46x30mmSubMachineGunEmpty = carregador de SMG (4.6x30mm qualquer)
+    .suffix = vazio
 
-ent-Magazine46x30mmSubMachineGunFMJ = SMG magazine (4.6x30mm FMJ)
+ent-Magazine46x30mmSubMachineGunFMJ = carregador de SMG (4.6x30mm FMJ)
 
-ent-Magazine46x30mmSubMachineGunHP = SMG magazine (4.6x30mm hollow-point)
+ent-Magazine46x30mmSubMachineGunHP = carregador de SMG (4.6x30mm hollow-point)
 
-ent-Magazine46x30mmSubMachineGunIncendiary = SMG magazine (4.6x30mm incendiary)
+ent-Magazine46x30mmSubMachineGunIncendiary = carregador de SMG (4.6x30mm incendiário)
 
-ent-Magazine46x30mmSubMachineGunPlasteelAP = SMG magazine (4.6x30mm AP)
+ent-Magazine46x30mmSubMachineGunPlasteelAP = carregador de SMG (4.6x30mm AP)
 
-ent-Magazine46x30mmSubMachineGunPractice = SMG magazine (4.6x30mm practice)
+ent-Magazine46x30mmSubMachineGunPractice = carregador de SMG (4.6x30mm prática)
 
-ent-Magazine46x30mmSubMachineGunRIP = SMG magazine (4.6x30mm RIP)
+ent-Magazine46x30mmSubMachineGunRIP = carregador de SMG (4.6x30mm RIP)
 
-ent-Magazine46x30mmSubMachineGunRubber = SMG magazine (4.6x30mm rubber)
+ent-Magazine46x30mmSubMachineGunRubber = carregador de SMG (4.6x30mm borracha)
 
-ent-Magazine46x30mmSubMachineGunTopMountedEmpty = WT550 magazine (4.6x30mm top-mounted any)
+ent-Magazine46x30mmSubMachineGunTopMountedEmpty = carregador WT550 (4.6x30mm montado no topo qualquer)
 
-ent-Magazine46x30mmSubMachineGunTopMountedFMJ = WT550 magazine (4.6x30mm top-mounted)
+ent-Magazine46x30mmSubMachineGunTopMountedFMJ = carregador WT550 (4.6x30mm montado no topo)
 
-ent-Magazine46x30mmSubMachineGunUranium = SMG magazine (4.6x30mm uranium)
+ent-Magazine46x30mmSubMachineGunUranium = carregador de SMG (4.6x30mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/40mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine40mm = 40mm grenade cartridge
+ent-BaseMagazine40mm = cartucho de granada 40mm
 
-ent-Magazine40mmBaton = baton 40mm grenade cartridge
+ent-Magazine40mmBaton = cartucho de granada 40mm de cacetete
 
-ent-Magazine40mmBlast = blast 40mm grenade cartridge
+ent-Magazine40mmBlast = cartucho de granada 40mm de explosão
 
-ent-Magazine40mmEMP = EMP 40mm grenade cartridge
+ent-Magazine40mmEMP = cartucho de granada 40mm EMP
 
-ent-Magazine40mmEmpty = 40mm grenade cartridge
+ent-Magazine40mmEmpty = cartucho de granada 40mm
 
-ent-Magazine40mmFlash = flash 40mm grenade cartridge
+ent-Magazine40mmFlash = cartucho de granada 40mm de flash
 
-ent-Magazine40mmFrag = frag 40mm grenade cartridge
+ent-Magazine40mmFrag = cartucho de granada 40mm de fragmentação
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/45_ACP.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine45_ACP = pistol magazine (.45 ACP FMJ)
+ent-BaseMagazine45_ACP = carregador de pistola (.45 ACP FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine45_ACPPistolHighCapacityFMJ = machine pistol magazine (.45 ACP FMJ)
+ent-BaseMagazine45_ACPPistolHighCapacityFMJ = carregador de metralhadora pistola (.45 ACP FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine45_ACPSubMachineGunFMJ = SMG magazine (.45 ACP FMJ)
+ent-BaseMagazine45_ACPSubMachineGunFMJ = carregador de SMG (.45 ACP FMJ)
 
-ent-Magazine45_ACPPistolEmpty = pistol magazine (.45 ACP any)
-    .suffix = empty
+ent-Magazine45_ACPPistolEmpty = carregador de pistola (.45 ACP qualquer)
+    .suffix = vazio
 
-ent-Magazine45_ACPPistolFMJ = pistol magazine (.45 ACP FMJ)
+ent-Magazine45_ACPPistolFMJ = carregador de pistola (.45 ACP FMJ)
 
-ent-Magazine45_ACPPistolHighCapacityEmpty = machine pistol magazine (.45 ACP any)
-    .suffix = empty
+ent-Magazine45_ACPPistolHighCapacityEmpty = carregador de metralhadora pistola (.45 ACP qualquer)
+    .suffix = vazio
 
-ent-Magazine45_ACPPistolHighCapacityFMJ = machine pistol magazine (.45 ACP FMJ)
+ent-Magazine45_ACPPistolHighCapacityFMJ = carregador de metralhadora pistola (.45 ACP FMJ)
 
-ent-Magazine45_ACPPistolHighCapacityPractice = machine pistol magazine (.45 ACP practice)
+ent-Magazine45_ACPPistolHighCapacityPractice = carregador de metralhadora pistola (.45 ACP prática)
 
-ent-Magazine45_ACPPistolHighCapacityRubber = machine pistol magazine (.45 ACP rubber)
+ent-Magazine45_ACPPistolHighCapacityRubber = carregador de metralhadora pistola (.45 ACP borracha)
 
-ent-Magazine45_ACPPistolHP = pistol magazine (.45 ACP hollow-point)
+ent-Magazine45_ACPPistolHP = carregador de pistola (.45 ACP hollow-point)
 
-ent-Magazine45_ACPPistolIncendiary = pistol magazine (.45 ACP incendiary)
+ent-Magazine45_ACPPistolIncendiary = carregador de pistola (.45 ACP incendiário)
 
-ent-Magazine45_ACPPistolPlasteelAP = pistol magazine (.45 ACP AP)
+ent-Magazine45_ACPPistolPlasteelAP = carregador de pistola (.45 ACP AP)
 
-ent-Magazine45_ACPPistolPractice = pistol magazine (.45 ACP practice)
+ent-Magazine45_ACPPistolPractice = carregador de pistola (.45 ACP prática)
 
-ent-Magazine45_ACPPistolRIP = pistol magazine (.45 ACP RIP)
+ent-Magazine45_ACPPistolRIP = carregador de pistola (.45 ACP RIP)
 
-ent-Magazine45_ACPPistolRubber = pistol magazine (.45 ACP rubber)
+ent-Magazine45_ACPPistolRubber = carregador de pistola (.45 ACP borracha)
 
-ent-Magazine45_ACPPistolUranium = pistol magazine (.45 ACP uranium)
+ent-Magazine45_ACPPistolUranium = carregador de pistola (.45 ACP urânio)
 
-ent-Magazine45_ACPSubMachineGunEmp = SMG magazine (.45 ACP emp)
+ent-Magazine45_ACPSubMachineGunEmp = carregador de SMG (.45 ACP emp)
 
-ent-Magazine45_ACPSubMachineGunEmpty = SMG magazine (.45 ACP any)
-    .suffix = empty
+ent-Magazine45_ACPSubMachineGunEmpty = carregador de SMG (.45 ACP qualquer)
+    .suffix = vazio
 
-ent-Magazine45_ACPSubMachineGunFMJ = SMG magazine (.45 ACP FMJ)
+ent-Magazine45_ACPSubMachineGunFMJ = carregador de SMG (.45 ACP FMJ)
 
-ent-Magazine45_ACPSubMachineGunHP = SMG magazine (.45 ACP hollow-point)
+ent-Magazine45_ACPSubMachineGunHP = carregador de SMG (.45 ACP hollow-point)
 
-ent-Magazine45_ACPSubMachineGunIncendiary = SMG magazine (.45 ACP incendiary)
+ent-Magazine45_ACPSubMachineGunIncendiary = carregador de SMG (.45 ACP incendiário)
 
-ent-Magazine45_ACPSubMachineGunPlasteelAP = SMG magazine (.45 ACP AP)
+ent-Magazine45_ACPSubMachineGunPlasteelAP = carregador de SMG (.45 ACP AP)
 
-ent-Magazine45_ACPSubMachineGunPractice = SMG magazine (.45 ACP practice)
+ent-Magazine45_ACPSubMachineGunPractice = carregador de SMG (.45 ACP prática)
 
-ent-Magazine45_ACPSubMachineGunRIP = SMG magazine (.45 ACP RIP)
+ent-Magazine45_ACPSubMachineGunRIP = carregador de SMG (.45 ACP RIP)
 
-ent-Magazine45_ACPSubMachineGunRubber = SMG magazine (.45 ACP rubber)
+ent-Magazine45_ACPSubMachineGunRubber = carregador de SMG (.45 ACP borracha)
 
-ent-Magazine45_ACPSubMachineGunTopMountedEmpty = top-mounted magazine (.45 ACP top-mounted any)
+ent-Magazine45_ACPSubMachineGunTopMountedEmpty = carregador montado no topo (.45 ACP montado no topo qualquer)
 
-ent-Magazine45_ACPSubMachineGunTopMountedFMJ = top-mounted magazine (.45 ACP top-mounted)
+ent-Magazine45_ACPSubMachineGunTopMountedFMJ = carregador montado no topo (.45 ACP montado no topo)
 
-ent-Magazine45_ACPSubMachineGunUranium = SMG magazine (.45 ACP uranium)
+ent-Magazine45_ACPSubMachineGunUranium = carregador de SMG (.45 ACP urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/45_magnum.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine45_magnum = pistol magazine (.45 magnum FMJ)
+ent-BaseMagazine45_magnum = carregador de pistola (.45 magnum FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine45_magnumPistolHighCapacityFMJ = machine pistol magazine (.45 magnum FMJ)
+ent-BaseMagazine45_magnumPistolHighCapacityFMJ = carregador de metralhadora pistola (.45 magnum FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine45_magnumSubMachineGunFMJ = SMG magazine (.45 magnum FMJ)
+ent-BaseMagazine45_magnumSubMachineGunFMJ = carregador de SMG (.45 magnum FMJ)
 
-ent-Magazine45_magnumPistolAP = pistol magazine (.45 magnum extreme armor-piercing)
+ent-Magazine45_magnumPistolAP = carregador de pistola (.45 magnum perfurante extrema)
 
-ent-Magazine45_magnumPistolEmpty = pistol magazine (.45 magnum any)
-    .suffix = empty
+ent-Magazine45_magnumPistolEmpty = carregador de pistola (.45 magnum qualquer)
+    .suffix = vazio
 
-ent-Magazine45_magnumPistolFMJ = pistol magazine (.45 magnum FMJ)
+ent-Magazine45_magnumPistolFMJ = carregador de pistola (.45 magnum FMJ)
 
-ent-Magazine45_magnumPistolHighCapacityEmpty = machine pistol magazine (.45 magnum any)
-    .suffix = empty
+ent-Magazine45_magnumPistolHighCapacityEmpty = carregador de metralhadora pistola (.45 magnum qualquer)
+    .suffix = vazio
 
-ent-Magazine45_magnumPistolHighCapacityFMJ = machine pistol magazine (.45 magnum FMJ)
+ent-Magazine45_magnumPistolHighCapacityFMJ = carregador de metralhadora pistola (.45 magnum FMJ)
 
-ent-Magazine45_magnumPistolHighCapacityPractice = machine pistol magazine (.45 magnum practice)
+ent-Magazine45_magnumPistolHighCapacityPractice = carregador de metralhadora pistola (.45 magnum prática)
 
-ent-Magazine45_magnumPistolHighCapacityRubber = machine pistol magazine (.45 magnum rubber)
+ent-Magazine45_magnumPistolHighCapacityRubber = carregador de metralhadora pistola (.45 magnum borracha)
 
-ent-Magazine45_magnumPistolHP = pistol magazine (.45 magnum hollow-point)
+ent-Magazine45_magnumPistolHP = carregador de pistola (.45 magnum hollow-point)
 
-ent-Magazine45_magnumPistolIncendiary = pistol magazine (.45 magnum incendiary)
+ent-Magazine45_magnumPistolIncendiary = carregador de pistola (.45 magnum incendiário)
 
-ent-Magazine45_magnumPistolPlasteelAP = pistol magazine (.45 magnum AP)
+ent-Magazine45_magnumPistolPlasteelAP = carregador de pistola (.45 magnum AP)
 
-ent-Magazine45_magnumPistolPractice = pistol magazine (.45 magnum practice)
+ent-Magazine45_magnumPistolPractice = carregador de pistola (.45 magnum prática)
 
-ent-Magazine45_magnumPistolRIP = pistol magazine (.45 magnum RIP)
+ent-Magazine45_magnumPistolRIP = carregador de pistola (.45 magnum RIP)
 
-ent-Magazine45_magnumPistolRubber = pistol magazine (.45 magnum rubber)
+ent-Magazine45_magnumPistolRubber = carregador de pistola (.45 magnum borracha)
 
-ent-Magazine45_magnumPistolUranium = pistol magazine (.45 magnum uranium)
+ent-Magazine45_magnumPistolUranium = carregador de pistola (.45 magnum urânio)
 
-ent-Magazine45_magnumSubMachineGunEmpty = SMG magazine (.45 magnum any)
-    .suffix = empty
+ent-Magazine45_magnumSubMachineGunEmpty = carregador de SMG (.45 magnum qualquer)
+    .suffix = vazio
 
-ent-Magazine45_magnumSubMachineGunFMJ = SMG magazine (.45 magnum FMJ)
+ent-Magazine45_magnumSubMachineGunFMJ = carregador de SMG (.45 magnum FMJ)
 
-ent-Magazine45_magnumSubMachineGunHP = SMG magazine (.45 magnum hollow-point)
+ent-Magazine45_magnumSubMachineGunHP = carregador de SMG (.45 magnum hollow-point)
 
-ent-Magazine45_magnumSubMachineGunIncendiary = SMG magazine (.45 magnum incendiary)
+ent-Magazine45_magnumSubMachineGunIncendiary = carregador de SMG (.45 magnum incendiário)
 
-ent-Magazine45_magnumSubMachineGunPlasteelAP = SMG magazine (.45 magnum AP)
+ent-Magazine45_magnumSubMachineGunPlasteelAP = carregador de SMG (.45 magnum AP)
 
-ent-Magazine45_magnumSubMachineGunPractice = SMG magazine (.45 magnum practice)
+ent-Magazine45_magnumSubMachineGunPractice = carregador de SMG (.45 magnum prática)
 
-ent-Magazine45_magnumSubMachineGunRIP = SMG magazine (.45 magnum RIP)
+ent-Magazine45_magnumSubMachineGunRIP = carregador de SMG (.45 magnum RIP)
 
-ent-Magazine45_magnumSubMachineGunRubber = SMG magazine (.45 magnum rubber)
+ent-Magazine45_magnumSubMachineGunRubber = carregador de SMG (.45 magnum borracha)
 
-ent-Magazine45_magnumSubMachineGunUranium = SMG magazine (.45 magnum uranium)
+ent-Magazine45_magnumSubMachineGunUranium = carregador de SMG (.45 magnum urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/5.56x45mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine556x45mm = magazine (5.56x45mm FMJ)
+ent-BaseMagazine556x45mm = carregador (5.56x45mm FMJ)
 
-ent-Magazine556x45mmEmpty = magazine (5.56x45mm any)
-    .suffix = empty
+ent-Magazine556x45mmEmpty = carregador (5.56x45mm qualquer)
+    .suffix = vazio
 
-ent-Magazine556x45mmFMJ = magazine (5.56x45mm FMJ)
+ent-Magazine556x45mmFMJ = carregador (5.56x45mm FMJ)
 
-ent-Magazine556x45mmHP = magazine (5.56x45mm hollow-point)
+ent-Magazine556x45mmHP = carregador (5.56x45mm hollow-point)
 
-ent-Magazine556x45mmIncendiary = magazine (5.56x45mm incendiary)
+ent-Magazine556x45mmIncendiary = carregador (5.56x45mm incendiário)
 
-ent-Magazine556x45mmPlasteelAP = magazine (5.56x45mm AP)
+ent-Magazine556x45mmPlasteelAP = carregador (5.56x45mm AP)
 
-ent-Magazine556x45mmPractice = magazine (5.56x45mm practice)
+ent-Magazine556x45mmPractice = carregador (5.56x45mm prática)
 
-ent-Magazine556x45mmRIP = magazine (5.56x45mm RIP)
+ent-Magazine556x45mmRIP = carregador (5.56x45mm RIP)
 
-ent-Magazine556x45mmRubber = magazine (5.56x45mm rubber)
+ent-Magazine556x45mmRubber = carregador (5.56x45mm borracha)
 
-ent-Magazine556x45mmUranium = magazine (5.56x45mm uranium)
+ent-Magazine556x45mmUranium = carregador (5.56x45mm urânio)
 
-ent-MagazineNovaliteC1 = clip (5.56x45mm FMJ)
-    .suffix = full
+ent-MagazineNovaliteC1 = clipe (5.56x45mm FMJ)
+    .suffix = cheio
 
-ent-MagazineNovaliteC1Empty = clip (5.56x45mm any)
-    .suffix = empty
+ent-MagazineNovaliteC1Empty = clipe (5.56x45mm qualquer)
+    .suffix = vazio
 
-ent-MagazineNovaliteC1Rubber = clip (5.56x45mm rubber)
-    .suffix = full
+ent-MagazineNovaliteC1Rubber = clipe (5.56x45mm borracha)
+    .suffix = cheio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/5.7x28mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine57x28mm = pistol magazine (5.7x28mm FMJ)
+ent-BaseMagazine57x28mm = carregador de pistola (5.7x28mm FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine57x28mmPistolHighCapacityFMJ = machine pistol magazine (5.7x28mm FMJ)
+ent-BaseMagazine57x28mmPistolHighCapacityFMJ = carregador de metralhadora pistola (5.7x28mm FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine57x28mmSubMachineGunFMJ = SMG magazine (5.7x28mm FMJ)
+ent-BaseMagazine57x28mmSubMachineGunFMJ = carregador de SMG (5.7x28mm FMJ)
 
-ent-Magazine57x28mmPistolEmpty = pistol magazine (5.7x28mm any)
-    .suffix = empty
+ent-Magazine57x28mmPistolEmpty = carregador de pistola (5.7x28mm qualquer)
+    .suffix = vazio
 
-ent-Magazine57x28mmPistolFMJ = pistol magazine (5.7x28mm FMJ)
+ent-Magazine57x28mmPistolFMJ = carregador de pistola (5.7x28mm FMJ)
 
-ent-Magazine57x28mmPistolHighCapacityEmpty = machine pistol magazine (5.7x28mm any)
-    .suffix = empty
+ent-Magazine57x28mmPistolHighCapacityEmpty = carregador de metralhadora pistola (5.7x28mm qualquer)
+    .suffix = vazio
 
-ent-Magazine57x28mmPistolHighCapacityFMJ = machine pistol magazine (5.7x28mm FMJ)
+ent-Magazine57x28mmPistolHighCapacityFMJ = carregador de metralhadora pistola (5.7x28mm FMJ)
 
-ent-Magazine57x28mmPistolHighCapacityPractice = machine pistol magazine (5.7x28mm practice)
+ent-Magazine57x28mmPistolHighCapacityPractice = carregador de metralhadora pistola (5.7x28mm prática)
 
-ent-Magazine57x28mmPistolHighCapacityRubber = machine pistol magazine (5.7x28mm rubber)
+ent-Magazine57x28mmPistolHighCapacityRubber = carregador de metralhadora pistola (5.7x28mm borracha)
 
-ent-Magazine57x28mmPistolHP = pistol magazine (5.7x28mm hollow-point)
+ent-Magazine57x28mmPistolHP = carregador de pistola (5.7x28mm hollow-point)
 
-ent-Magazine57x28mmPistolIncendiary = pistol magazine (5.7x28mm incendiary)
+ent-Magazine57x28mmPistolIncendiary = carregador de pistola (5.7x28mm incendiário)
 
-ent-Magazine57x28mmPistolPlasteelAP = pistol magazine (5.7x28mm AP)
+ent-Magazine57x28mmPistolPlasteelAP = carregador de pistola (5.7x28mm AP)
 
-ent-Magazine57x28mmPistolPractice = pistol magazine (5.7x28mm practice)
+ent-Magazine57x28mmPistolPractice = carregador de pistola (5.7x28mm prática)
 
-ent-Magazine57x28mmPistolRIP = pistol magazine (5.7x28mm RIP)
+ent-Magazine57x28mmPistolRIP = carregador de pistola (5.7x28mm RIP)
 
-ent-Magazine57x28mmPistolRubber = pistol magazine (5.7x28mm rubber)
+ent-Magazine57x28mmPistolRubber = carregador de pistola (5.7x28mm borracha)
 
-ent-Magazine57x28mmPistolUranium = pistol magazine (5.7x28mm uranium)
+ent-Magazine57x28mmPistolUranium = carregador de pistola (5.7x28mm urânio)
 
-ent-Magazine57x28mmSubMachineGunEmp = SMG magazine (5.7x28mm emp)
+ent-Magazine57x28mmSubMachineGunEmp = carregador de SMG (5.7x28mm emp)
 
-ent-Magazine57x28mmSubMachineGunEmpty = SMG magazine (5.7x28mm any)
-    .suffix = empty
+ent-Magazine57x28mmSubMachineGunEmpty = carregador de SMG (5.7x28mm qualquer)
+    .suffix = vazio
 
-ent-Magazine57x28mmSubMachineGunFMJ = SMG magazine (5.7x28mm FMJ)
+ent-Magazine57x28mmSubMachineGunFMJ = carregador de SMG (5.7x28mm FMJ)
 
-ent-Magazine57x28mmSubMachineGunHP = SMG magazine (5.7x28mm hollow-point)
+ent-Magazine57x28mmSubMachineGunHP = carregador de SMG (5.7x28mm hollow-point)
 
-ent-Magazine57x28mmSubMachineGunIncendiary = SMG magazine (5.7x28mm incendiary)
+ent-Magazine57x28mmSubMachineGunIncendiary = carregador de SMG (5.7x28mm incendiário)
 
-ent-Magazine57x28mmSubMachineGunPlasteelAP = SMG magazine (5.7x28mm AP)
+ent-Magazine57x28mmSubMachineGunPlasteelAP = carregador de SMG (5.7x28mm AP)
 
-ent-Magazine57x28mmSubMachineGunPractice = SMG magazine (5.7x28mm practice)
+ent-Magazine57x28mmSubMachineGunPractice = carregador de SMG (5.7x28mm prática)
 
-ent-Magazine57x28mmSubMachineGunRIP = SMG magazine (5.7x28mm RIP)
+ent-Magazine57x28mmSubMachineGunRIP = carregador de SMG (5.7x28mm RIP)
 
-ent-Magazine57x28mmSubMachineGunRubber = SMG magazine (5.7x28mm rubber)
+ent-Magazine57x28mmSubMachineGunRubber = carregador de SMG (5.7x28mm borracha)
 
-ent-Magazine57x28mmSubMachineGunTopMountedEmpty = top-mounted magazine (5.7x28mm top-mounted any)
+ent-Magazine57x28mmSubMachineGunTopMountedEmpty = carregador montado no topo (5.7x28mm montado no topo qualquer)
 
-ent-Magazine57x28mmSubMachineGunTopMountedFMJ = top-mounted magazine (5.7x28mm top-mounted)
+ent-Magazine57x28mmSubMachineGunTopMountedFMJ = carregador montado no topo (5.7x28mm montado no topo)
 
-ent-Magazine57x28mmSubMachineGunUranium = SMG magazine (5.7x28mm uranium)
+ent-Magazine57x28mmSubMachineGunUranium = carregador de SMG (5.7x28mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/55_SAM.yml
 
-ent-Magazine55_SAMPistol = pistol magazine (.55 SAM)
-    .desc = A standard magazine for the MK5 smart magnum, holding 12 rounds.
+ent-Magazine55_SAMPistol = carregador de pistola (.55 SAM)
+    .desc = Um carregador padrão para o magnum inteligente MK5, segurando 12 cartuchos.
 
-ent-Magazine55_SAMPistolHighCapacity = machine pistol magazine (.55 SAM)
-    .desc = An extended magazine for the MK5 smart magnum, holding 18 rounds.
+ent-Magazine55_SAMPistolHighCapacity = carregador de metralhadora pistola (.55 SAM)
+    .desc = Um carregador estendido para o magnum inteligente MK5, segurando 18 cartuchos.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/6.35x40mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine635x40mmCaseless = magazine (635x40mm Caseless)
+ent-BaseMagazine635x40mmCaseless = carregador (635x40mm sem estojo)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine635x40mmCaselessPistol = pistol magazine (635x40mm Caseless)
+ent-BaseMagazine635x40mmCaselessPistol = carregador de pistola (635x40mm sem estojo)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine635x40mmCaselessShort = caseless rifle short magazine (635x40mm Caseless)
+ent-BaseMagazine635x40mmCaselessShort = carregador curto de rifle sem estojo (635x40mm sem estojo)
 
-ent-Magazine635x40mmCaseless = magazine (635x40mm Caseless)
+ent-Magazine635x40mmCaseless = carregador (635x40mm sem estojo)
 
-ent-Magazine635x40mmCaselessBig = box magazine (635x40mm Caseless)
+ent-Magazine635x40mmCaselessBig = carregador de caixa (635x40mm sem estojo)
 
-ent-Magazine635x40mmCaselessPistol = pistol magazine (635x40mm Caseless)
+ent-Magazine635x40mmCaselessPistol = carregador de pistola (635x40mm sem estojo)
 
-ent-Magazine635x40mmCaselessPistolPractice = pistol magazine (635x40mm Caseless practice)
+ent-Magazine635x40mmCaselessPistolPractice = carregador de pistola (635x40mm sem estojo prática)
 
-ent-Magazine635x40mmCaselessPractice = magazine (635x40mm Caseless practice)
+ent-Magazine635x40mmCaselessPractice = carregador (635x40mm sem estojo prática)
 
-ent-Magazine635x40mmCaselessRubber = magazine (635x40mm Caseless)
+ent-Magazine635x40mmCaselessRubber = carregador (635x40mm sem estojo)
 
-ent-Magazine635x40mmCaselessShort = short magazine (635x40mm Caseless)
+ent-Magazine635x40mmCaselessShort = carregador curto (635x40mm sem estojo)
 
-ent-Magazine635x40mmCaselessShortPractice = short magazine (635x40mm Caseless practice)
+ent-Magazine635x40mmCaselessShortPractice = carregador curto (635x40mm sem estojo prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/68x52mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine68x52mmCaseless = magazine (6.8x52mm STANAG Caseless)
+ent-BaseMagazine68x52mmCaseless = carregador (6.8x52mm STANAG sem estojo)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine68x52mmCaselessShort = caseless rifle short magazine (6.8x52mm STANAG Caseless)
+ent-BaseMagazine68x52mmCaselessShort = carregador curto de rifle sem estojo (6.8x52mm STANAG sem estojo)
 
-ent-Magazine68x52mmCaseless = magazine (6.8x52mm STANAG Caseless)
+ent-Magazine68x52mmCaseless = carregador (6.8x52mm STANAG sem estojo)
 
-ent-Magazine68x52mmCaselessBig = box magazine (6.8x52mm STANAG Caseless)
+ent-Magazine68x52mmCaselessBig = carregador de caixa (6.8x52mm STANAG sem estojo)
 
-ent-Magazine68x52mmCaselessEmpty = magazine (6.8x52mm STANAG Caseless any)
+ent-Magazine68x52mmCaselessEmpty = carregador (6.8x52mm STANAG sem estojo qualquer)
 
-ent-Magazine68x52mmCaselessHP = magazine (6.8x52mm STANAG Caseless HP)
+ent-Magazine68x52mmCaselessHP = carregador (6.8x52mm STANAG sem estojo HP)
 
-ent-Magazine68x52mmCaselessPlasteelAP = magazine (6.8x52mm STANAG Caseless AP)
+ent-Magazine68x52mmCaselessPlasteelAP = carregador (6.8x52mm STANAG sem estojo AP)
 
-ent-Magazine68x52mmCaselessPractice = magazine (6.8x52mm STANAG Caseless practice)
+ent-Magazine68x52mmCaselessPractice = carregador (6.8x52mm STANAG sem estojo prática)
 
-ent-Magazine68x52mmCaselessRIP = magazine (6.8x52mm STANAG Caseless RIP)
+ent-Magazine68x52mmCaselessRIP = carregador (6.8x52mm STANAG sem estojo RIP)
 
-ent-Magazine68x52mmCaselessRubber = magazine (6.8x52mm STANAG Caseless rubber)
+ent-Magazine68x52mmCaselessRubber = carregador (6.8x52mm STANAG sem estojo borracha)
 
-ent-Magazine68x52mmCaselessShort = short magazine (6.8x52mm STANAG Caseless)
+ent-Magazine68x52mmCaselessShort = carregador curto (6.8x52mm STANAG sem estojo)
 
-ent-Magazine68x52mmCaselessShortPractice = short magazine (6.8x52mm STANAG Caseless practice)
+ent-Magazine68x52mmCaselessShortPractice = carregador curto (6.8x52mm STANAG sem estojo prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/7.62x39mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine762x39mm = magazine (7.62x39mm FMJ)
+ent-BaseMagazine762x39mm = carregador (7.62x39mm FMJ)
 
-ent-Magazine762x39mmBox = L6 SAW magazine box (7.62x39mm FMJ)
+ent-Magazine762x39mmBox = caixa de carregador L6 SAW (7.62x39mm FMJ)
 
-ent-Magazine762x39mmEmpty = magazine (7.62x39mm any)
-    .suffix = empty
+ent-Magazine762x39mmEmpty = carregador (7.62x39mm qualquer)
+    .suffix = vazio
 
-ent-Magazine762x39mmFMJ = magazine (7.62x39mm FMJ)
+ent-Magazine762x39mmFMJ = carregador (7.62x39mm FMJ)
 
-ent-Magazine762x39mmHP = magazine (7.62x39mm hollow-point)
+ent-Magazine762x39mmHP = carregador (7.62x39mm hollow-point)
 
-ent-Magazine762x39mmIncendiary = magazine (7.62x39mm incendiary)
+ent-Magazine762x39mmIncendiary = carregador (7.62x39mm incendiário)
 
-ent-Magazine762x39mmLowCapacityEmpty = low cap magazine (7.62x39mm any)
-    .suffix = empty
+ent-Magazine762x39mmLowCapacityEmpty = carregador de baixa capacidade (7.62x39mm qualquer)
+    .suffix = vazio
 
-ent-Magazine762x39mmLowCapacityFMJ = low cap magazine (7.62x39mm FMJ)
+ent-Magazine762x39mmLowCapacityFMJ = carregador de baixa capacidade (7.62x39mm FMJ)
 
-ent-Magazine762x39mmLowCapacityIncendiary = low cap magazine (7.62x39mm incendiary)
+ent-Magazine762x39mmLowCapacityIncendiary = carregador de baixa capacidade (7.62x39mm incendiário)
 
-ent-Magazine762x39mmLowCapacityPractice = low cap magazine (7.62x39mm practice)
+ent-Magazine762x39mmLowCapacityPractice = carregador de baixa capacidade (7.62x39mm prática)
 
-ent-Magazine762x39mmLowCapacityRubber = low cap magazine (7.62x39mm rubber)
+ent-Magazine762x39mmLowCapacityRubber = carregador de baixa capacidade (7.62x39mm borracha)
 
-ent-Magazine762x39mmLowCapacityUranium = low cap magazine (7.62x39mm uranium)
+ent-Magazine762x39mmLowCapacityUranium = carregador de baixa capacidade (7.62x39mm urânio)
 
-ent-Magazine762x39mmMaxim = pan magazine (7.62x39mm FMJ)
+ent-Magazine762x39mmMaxim = carregador de pente (7.62x39mm FMJ)
 
-ent-Magazine762x39mmPkBox = PK munitions box (7.62x39mm FMJ)
+ent-Magazine762x39mmPkBox = caixa de munição PK (7.62x39mm FMJ)
 
-ent-Magazine762x39mmPlasteelAP = magazine (7.62x39mm AP)
+ent-Magazine762x39mmPlasteelAP = carregador (7.62x39mm AP)
 
-ent-Magazine762x39mmPractice = magazine (7.62x39mm practice)
+ent-Magazine762x39mmPractice = carregador (7.62x39mm prática)
 
-ent-Magazine762x39mmRIP = magazine (7.62x39mm RIP)
+ent-Magazine762x39mmRIP = carregador (7.62x39mm RIP)
 
-ent-Magazine762x39mmRubber = magazine (7.62x39mm rubber)
+ent-Magazine762x39mmRubber = carregador (7.62x39mm borracha)
 
-ent-Magazine762x39mmSubsonic = magazine (7.62x39mm subsonic)
+ent-Magazine762x39mmSubsonic = carregador (7.62x39mm subsônica)
 
-ent-Magazine762x39mmUranium = magazine (7.62x39mm uranium)
+ent-Magazine762x39mmUranium = carregador (7.62x39mm urânio)
 
-ent-MagazineDP29 = DP-29 magazine (7.62x39mm)
+ent-MagazineDP29 = carregador DP-29 (7.62x39mm)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/7.62x51mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine762x51mm = magazine (7.62x51mm FMJ)
+ent-BaseMagazine762x51mm = carregador (7.62x51mm FMJ)
 
-ent-Magazine762x51mmEmpty = magazine (7.62x51mm any)
-    .suffix = empty
+ent-Magazine762x51mmEmpty = carregador (7.62x51mm qualquer)
+    .suffix = vazio
 
-ent-Magazine762x51mmFMJ = magazine (7.62x51mm FMJ)
+ent-Magazine762x51mmFMJ = carregador (7.62x51mm FMJ)
 
-ent-Magazine762x51mmHP = magazine (7.62x51mm hollow-point)
+ent-Magazine762x51mmHP = carregador (7.62x51mm hollow-point)
 
-ent-Magazine762x51mmIncendiary = magazine (7.62x51mm incendiary)
+ent-Magazine762x51mmIncendiary = carregador (7.62x51mm incendiário)
 
-ent-Magazine762x51mmLowCapacityEmpty = low cap magazine (7.62x51mm any)
-    .suffix = empty
+ent-Magazine762x51mmLowCapacityEmpty = carregador de baixa capacidade (7.62x51mm qualquer)
+    .suffix = vazio
 
-ent-Magazine762x51mmLowCapacityFMJ = low cap magazine (7.62x51mm FMJ)
+ent-Magazine762x51mmLowCapacityFMJ = carregador de baixa capacidade (7.62x51mm FMJ)
 
-ent-Magazine762x51mmLowCapacityIncendiary = low cap magazine (7.62x51mm incendiary)
+ent-Magazine762x51mmLowCapacityIncendiary = carregador de baixa capacidade (7.62x51mm incendiário)
 
-ent-Magazine762x51mmLowCapacityPractice = low cap magazine (7.62x51mm practice)
+ent-Magazine762x51mmLowCapacityPractice = carregador de baixa capacidade (7.62x51mm prática)
 
-ent-Magazine762x51mmLowCapacityRubber = low cap magazine (7.62x51mm rubber)
+ent-Magazine762x51mmLowCapacityRubber = carregador de baixa capacidade (7.62x51mm borracha)
 
-ent-Magazine762x51mmLowCapacityUranium = low cap magazine (7.62x51mm uranium)
+ent-Magazine762x51mmLowCapacityUranium = carregador de baixa capacidade (7.62x51mm urânio)
 
-ent-Magazine762x51mmPlasteelAP = magazine (7.62x51mm AP)
+ent-Magazine762x51mmPlasteelAP = carregador (7.62x51mm AP)
 
-ent-Magazine762x51mmPractice = magazine (7.62x51mm practice)
+ent-Magazine762x51mmPractice = carregador (7.62x51mm prática)
 
-ent-Magazine762x51mmRIP = magazine (7.62x51mm RIP)
+ent-Magazine762x51mmRIP = carregador (7.62x51mm RIP)
 
-ent-Magazine762x51mmRubber = magazine (7.62x51mm rubber)
+ent-Magazine762x51mmRubber = carregador (7.62x51mm borracha)
 
-ent-Magazine762x51mmUranium = magazine (7.62x51mm uranium)
+ent-Magazine762x51mmUranium = carregador (7.62x51mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/7.62x54mmR.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine762x54mmR = magazine (7.62x54mmR FMJ)
+ent-BaseMagazine762x54mmR = carregador (7.62x54mmR FMJ)
 
-ent-Magazine762x54mmREmpty = magazine (7.62x54mmR any)
-    .suffix = empty
+ent-Magazine762x54mmREmpty = carregador (7.62x54mmR qualquer)
+    .suffix = vazio
 
-ent-Magazine762x54mmRFMJ = magazine (7.62x54mmR FMJ)
+ent-Magazine762x54mmRFMJ = carregador (7.62x54mmR FMJ)
 
-ent-Magazine762x54mmRHP = magazine (7.62x54mmR hollow-point)
+ent-Magazine762x54mmRHP = carregador (7.62x54mmR hollow-point)
 
-ent-Magazine762x54mmRIncendiary = magazine (7.62x54mmR incendiary)
+ent-Magazine762x54mmRIncendiary = carregador (7.62x54mmR incendiário)
 
-ent-Magazine762x54mmRPlasteelAP = magazine (7.62x54mmR AP)
+ent-Magazine762x54mmRPlasteelAP = carregador (7.62x54mmR AP)
 
-ent-Magazine762x54mmRPractice = magazine (7.62x54mmR practice)
+ent-Magazine762x54mmRPractice = carregador (7.62x54mmR prática)
 
-ent-Magazine762x54mmRRIP = magazine (7.62x54mmR RIP)
+ent-Magazine762x54mmRRIP = carregador (7.62x54mmR RIP)
 
-ent-Magazine762x54mmRRubber = magazine (7.62x54mmR rubber)
+ent-Magazine762x54mmRRubber = carregador (7.62x54mmR borracha)
 
-ent-Magazine762x54mmRUranium = magazine (7.62x54mmR uranium)
+ent-Magazine762x54mmRUranium = carregador (7.62x54mmR urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/700Thz.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine700Thz = DEW magazine (700Thz DEW)
+ent-BaseMagazine700Thz = carregador DEW (700Thz DEW)
 
-ent-Magazine700Thz = DEW magazine (700Thz DEW)
+ent-Magazine700Thz = carregador DEW (700Thz DEW)
 
-ent-Magazine700ThzEmpty = DEW magazine (700Thz any)
-    .suffix = empty
+ent-Magazine700ThzEmpty = carregador DEW (700Thz qualquer)
+    .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/8x65mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine8x65mm = STANAG magazine (8x65mm SKR)
+ent-BaseMagazine8x65mm = carregador STANAG (8x65mm SKR)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine8x65mmBox = SAW box (8x65mm SKR)
+ent-BaseMagazine8x65mmBox = caixa SAW (8x65mm SKR)
 
-ent-Magazine8x65mmEmpty = STANAG magazine (8x65mm SKR any)
-    .suffix = empty
+ent-Magazine8x65mmEmpty = carregador STANAG (8x65mm SKR qualquer)
+    .suffix = vazio
 
-ent-Magazine8x65mmEmptyBox = SAW box (8x65mm SKR any)
-    .suffix = empty
+ent-Magazine8x65mmEmptyBox = caixa SAW (8x65mm SKR qualquer)
+    .suffix = vazio
 
-ent-Magazine8x65mmSKR = STANAG magazine (8x65mm SKR)
+ent-Magazine8x65mmSKR = carregador STANAG (8x65mm SKR)
 
-ent-Magazine8x65mmSKRBox = SAW box (8x65mm SKR)
+ent-Magazine8x65mmSKRBox = caixa SAW (8x65mm SKR)
 
-ent-Magazine8x65mmSKRIncendiary = STANAG magazine (8x65mm SKR incendiary)
+ent-Magazine8x65mmSKRIncendiary = carregador STANAG (8x65mm SKR incendiário)
 
-ent-Magazine8x65mmSKRPractice = STANAG magazine (8x65mm SKR practice)
+ent-Magazine8x65mmSKRPractice = carregador STANAG (8x65mm SKR prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/9x19mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine9x19mm = pistol magazine (9x19mm FMJ)
+ent-BaseMagazine9x19mm = carregador de pistola (9x19mm FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine9x19mmPistolHighCapacityFMJ = machine pistol magazine (9x19mm FMJ)
+ent-BaseMagazine9x19mmPistolHighCapacityFMJ = carregador de metralhadora pistola (9x19mm FMJ)
 
 # Abstract entity (referenceable by children)
-ent-BaseMagazine9x19mmSubMachineGunFMJ = SMG magazine (9x19mm FMJ)
+ent-BaseMagazine9x19mmSubMachineGunFMJ = carregador de SMG (9x19mm FMJ)
 
-ent-Magazine9x19mmPistolEmpty = pistol magazine (9x19mm any)
-    .suffix = empty
+ent-Magazine9x19mmPistolEmpty = carregador de pistola (9x19mm qualquer)
+    .suffix = vazio
 
-ent-Magazine9x19mmPistolFMJ = pistol magazine (9x19mm FMJ)
+ent-Magazine9x19mmPistolFMJ = carregador de pistola (9x19mm FMJ)
 
-ent-Magazine9x19mmPistolHighCapacityEmpty = machine pistol magazine (9x19mm any)
-    .suffix = empty
+ent-Magazine9x19mmPistolHighCapacityEmpty = carregador de metralhadora pistola (9x19mm qualquer)
+    .suffix = vazio
 
-ent-Magazine9x19mmPistolHighCapacityFMJ = machine pistol magazine (9x19mm FMJ)
+ent-Magazine9x19mmPistolHighCapacityFMJ = carregador de metralhadora pistola (9x19mm FMJ)
 
-ent-Magazine9x19mmPistolHighCapacityPractice = machine pistol magazine (9x19mm practice)
+ent-Magazine9x19mmPistolHighCapacityPractice = carregador de metralhadora pistola (9x19mm prática)
 
-ent-Magazine9x19mmPistolHighCapacityRubber = machine pistol magazine (9x19mm rubber)
+ent-Magazine9x19mmPistolHighCapacityRubber = carregador de metralhadora pistola (9x19mm borracha)
 
-ent-Magazine9x19mmPistolHP = pistol magazine (9x19mm hollow-point)
+ent-Magazine9x19mmPistolHP = carregador de pistola (9x19mm hollow-point)
 
-ent-Magazine9x19mmPistolIncendiary = pistol magazine (9x19mm incendiary)
+ent-Magazine9x19mmPistolIncendiary = carregador de pistola (9x19mm incendiário)
 
-ent-Magazine9x19mmPistolPlasteelAP = pistol magazine (9x19mm AP)
+ent-Magazine9x19mmPistolPlasteelAP = carregador de pistola (9x19mm AP)
 
-ent-Magazine9x19mmPistolPractice = pistol magazine (9x19mm practice)
+ent-Magazine9x19mmPistolPractice = carregador de pistola (9x19mm prática)
 
-ent-Magazine9x19mmPistolRIP = pistol magazine (9x19mm RIP)
+ent-Magazine9x19mmPistolRIP = carregador de pistola (9x19mm RIP)
 
-ent-Magazine9x19mmPistolRubber = pistol magazine (9x19mm rubber)
+ent-Magazine9x19mmPistolRubber = carregador de pistola (9x19mm borracha)
 
-ent-Magazine9x19mmPistolUranium = pistol magazine (9x19mm uranium)
+ent-Magazine9x19mmPistolUranium = carregador de pistola (9x19mm urânio)
 
-ent-Magazine9x19mmSubMachineGunEmp = SMG magazine (9x19mm emp)
+ent-Magazine9x19mmSubMachineGunEmp = carregador de SMG (9x19mm emp)
 
-ent-Magazine9x19mmSubMachineGunEmpty = SMG magazine (9x19mm any)
-    .suffix = empty
+ent-Magazine9x19mmSubMachineGunEmpty = carregador de SMG (9x19mm qualquer)
+    .suffix = vazio
 
-ent-Magazine9x19mmSubMachineGunFMJ = SMG magazine (9x19mm FMJ)
+ent-Magazine9x19mmSubMachineGunFMJ = carregador de SMG (9x19mm FMJ)
 
-ent-Magazine9x19mmSubMachineGunHP = SMG magazine (9x19mm hollow-point)
+ent-Magazine9x19mmSubMachineGunHP = carregador de SMG (9x19mm hollow-point)
 
-ent-Magazine9x19mmSubMachineGunIncendiary = SMG magazine (9x19mm incendiary)
+ent-Magazine9x19mmSubMachineGunIncendiary = carregador de SMG (9x19mm incendiário)
 
-ent-Magazine9x19mmSubMachineGunPlasteelAP = SMG magazine (9x19mm AP)
+ent-Magazine9x19mmSubMachineGunPlasteelAP = carregador de SMG (9x19mm AP)
 
-ent-Magazine9x19mmSubMachineGunPractice = SMG magazine (9x19mm practice)
+ent-Magazine9x19mmSubMachineGunPractice = carregador de SMG (9x19mm prática)
 
-ent-Magazine9x19mmSubMachineGunRIP = SMG magazine (9x19mm RIP)
+ent-Magazine9x19mmSubMachineGunRIP = carregador de SMG (9x19mm RIP)
 
-ent-Magazine9x19mmSubMachineGunRubber = SMG magazine (9x19mm rubber)
+ent-Magazine9x19mmSubMachineGunRubber = carregador de SMG (9x19mm borracha)
 
-ent-Magazine9x19mmSubMachineGunTopMountedEmpty = top-mounted magazine (9x19mm top-mounted any)
+ent-Magazine9x19mmSubMachineGunTopMountedEmpty = carregador montado no topo (9x19mm montado no topo qualquer)
 
-ent-Magazine9x19mmSubMachineGunTopMountedFMJ = top-mounted magazine (9x19mm top-mounted)
+ent-Magazine9x19mmSubMachineGunTopMountedFMJ = carregador montado no topo (9x19mm montado no topo)
 
-ent-Magazine9x19mmSubMachineGunUranium = SMG magazine (9x19mm uranium)
+ent-Magazine9x19mmSubMachineGunUranium = carregador de SMG (9x19mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.yml
 
-ent-LargePowerCell400Thz = DEW-1R 400Thz battery box (large)
-    .desc = A large and militarized power box for directed energy weapons. Tuned to fire low-frequency lasers with high capacity but low recharge speed. Slightly resistant to EMP.
+ent-LargePowerCell400Thz = caixa de bateria DEW-1R 400Thz (grande)
+    .desc = Uma caixa de energia grande e militarizada para armas de energia direcionada. Sintonizada para disparar lasers de baixa frequência com alta capacidade mas baixa velocidade de recarga. Levemente resistente a EMP.
 
-ent-LargePowerCell700Thz = DEW-VU 700Thz battery box (large)
-    .desc = A large and militarized power box for directed energy weapons. Tuned to fire high-frequency lasers with low capacity and low recharge speed. Resistant to EMP.
+ent-LargePowerCell700Thz = caixa de bateria DEW-VU 700Thz (grande)
+    .desc = Uma caixa de energia grande e militarizada para armas de energia direcionada. Sintonizada para disparar lasers de alta frequência com baixa capacidade e baixa velocidade de recarga. Resistente a EMP.
 
-ent-MilitaryPowerCellMG = EM72 Ashstorm battery cell
-    .desc = A round battery cell designed for a EM72 Ashstorm.
+ent-MilitaryPowerCellMG = célula de bateria EM72 Tempestade de Cinzas
+    .desc = Uma célula de bateria redonda projetada para uma EM72 Tempestade de Cinzas.
 
-ent-PulsedPlasmaLaserCanister = NT PPL magnetic storage container
-    .desc = A small, advanced magnetic containment unit for the storage of high-energy plasma. Powered off an internal microreactor with iridite electromagnets, it can contain plasma indefinitely. Recharges via using electricity to synthesize plasma from surrounding air.
+ent-PulsedPlasmaLaserCanister = contêiner de armazenamento magnético NT PPL
+    .desc = Uma unidade de contenção magnética pequena e avançada para o armazenamento de plasma de alta energia. Alimentado por um microrreator interno com eletroímãs de iridita, pode conter plasma indefinidamente. Recarrega usando eletricidade para sintetizar plasma do ar circundante.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/smartlmg.yml
 
-ent-MagazineSmartLMG = MlA-79 drum (.160 smart)
+ent-MagazineSmartLMG = tambor MlA-79 (.160 inteligente)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/12_gauge.yml
 
@@ -5133,1367 +5133,1367 @@ ent-Pellet12_gauge = Pellet12_gauge (12 gauge)
 
 ent-Pellet12_gaugeBeanbag = beanbag (12 gauge)
 
-ent-Pellet12_gaugeFlare = Pellet12_gauge (12 gauge flare)
+ent-Pellet12_gaugeFlare = Pellet12_gauge (sinalizador 12 gauge)
 
-ent-Pellet12_gaugeFlechette = Pellet12_gauge (12 gauge flechette)
+ent-Pellet12_gaugeFlechette = Pellet12_gauge (flechette 12 gauge)
 
-ent-Pellet12_gaugeGlass = glass shard
+ent-Pellet12_gaugeGlass = estilhaço de vidro
 
-ent-Pellet12_gaugeGrapeshot = grapeshot Pellet12_gauge
+ent-Pellet12_gaugeGrapeshot = tiro de uva Pellet12_gauge
 
-ent-Pellet12_gaugeImprovised = improvised Pellet12_gauge
+ent-Pellet12_gaugeImprovised = Pellet12_gauge improvisado
 
-ent-Pellet12_gaugeIncendiary = Pellet12_gauge (12 gauge incendiary)
+ent-Pellet12_gaugeIncendiary = Pellet12_gauge (incendiário 12 gauge)
 
-ent-Pellet12_gaugeOOBuckshot = Pellet12_gauge (12 gauge OO magnum buckshot)
+ent-Pellet12_gaugeOOBuckshot = Pellet12_gauge (buckshot magnum OO 12 gauge)
 
-ent-Pellet12_gaugePractice = Pellet12_gauge (12 gauge practice)
+ent-Pellet12_gaugePractice = Pellet12_gauge (prática 12 gauge)
 
-ent-Pellet12_gaugeSlug = Pellet12_gauge (12 gauge slug)
+ent-Pellet12_gaugeSlug = Pellet12_gauge (slug 12 gauge)
 
-ent-Pellet12_gaugeSlugAP = Pellet12_gauge (12 gauge armor-piercing slug)
+ent-Pellet12_gaugeSlugAP = Pellet12_gauge (slug perfurante 12 gauge)
 
-ent-Pellet12_gaugeSlugRIP = Pellet12_gauge (12 gauge RIP)
+ent-Pellet12_gaugeSlugRIP = Pellet12_gauge (RIP 12 gauge)
 
-ent-Pellet12_gaugeTranquilizer = Pellet12_gauge (12 gauge tranquilizer)
+ent-Pellet12_gaugeTranquilizer = Pellet12_gauge (tranquilizante 12 gauge)
 
-ent-Pellet12_gaugeUranium = Pellet12_gauge (12 gauge uranium)
+ent-Pellet12_gaugeUranium = Pellet12_gauge (urânio 12 gauge)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/12.7x99mm.yml
 
-ent-Bullet127x99mm = bullet (12.7x99mm anti-material)
+ent-Bullet127x99mm = bala (12.7x99mm anti-material)
 
-ent-Bullet127x99mmExplosive = bullet (12.7x99mm high-explosive)
+ent-Bullet127x99mmExplosive = bala (12.7x99mm alto explosivo)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/14.5x114mm.yml
 
-ent-Bullet145x114mm = bullet (14.5x114mm)
+ent-Bullet145x114mm = bala (14.5x114mm)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/35mm_grenade.yml
 
-ent-Bullet35mmGrenadeSAPHE = frag grenade
+ent-Bullet35mmGrenadeSAPHE = granada de fragmentação
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/4_gauge.yml
 
 ent-Pellet23x75mmBeanbag = beanbag (4 gauge)
 
-ent-Pellet23x75mmBuckshot = pellet (4 gauge)
+ent-Pellet23x75mmBuckshot = projétil (4 gauge)
 
-ent-Pellet23x75mmDozd = pellet (4 gauge)
+ent-Pellet23x75mmDozd = projétil (4 gauge)
 
-ent-Pellet23x75mmFlare = pellet (4 gauge flare)
+ent-Pellet23x75mmFlare = projétil (sinalizador 4 gauge)
 
-ent-Pellet23x75mmFlashbang = pellet (4 gauge flashbang)
+ent-Pellet23x75mmFlashbang = projétil (flashbang 4 gauge)
 
-ent-Pellet23x75mmFlechette = Pellet23x75mm (4 gauge flechette)
+ent-Pellet23x75mmFlechette = Pellet23x75mm (flechette 4 gauge)
 
-ent-Pellet23x75mmIncendiary = pellet (4 gauge incendiary)
+ent-Pellet23x75mmIncendiary = projétil (incendiário 4 gauge)
 
-ent-Pellet23x75mmOOBuckshot = Pellet23x75mm (4 gauge OO magnum buckshot)
+ent-Pellet23x75mmOOBuckshot = Pellet23x75mm (buckshot magnum OO 4 gauge)
 
-ent-Pellet23x75mmPractice = pellet (4 gauge practice)
+ent-Pellet23x75mmPractice = projétil (prática 4 gauge)
 
-ent-Pellet23x75mmSlug = pellet (4 gauge slug)
+ent-Pellet23x75mmSlug = projétil (slug 4 gauge)
 
-ent-Pellet23x75mmSlugAP = Pellet23x75mm (4 gauge armor-piercing slug)
+ent-Pellet23x75mmSlugAP = Pellet23x75mm (slug perfurante 4 gauge)
 
-ent-Pellet23x75mmSlugRIP = Pellet23x75mm (4 gauge RIP)
+ent-Pellet23x75mmSlugRIP = Pellet23x75mm (RIP 4 gauge)
 
-ent-Pellet23x75mmUranium = pellet (4 gauge uranium)
+ent-Pellet23x75mmUranium = projétil (urânio 4 gauge)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/4.6x30mm.yml
 
-ent-Bullet46x30mm = bullet (4.6x30mm FMJ)
+ent-Bullet46x30mm = bala (4.6x30mm FMJ)
 
-ent-Bullet46x30mmEmp = bullet (4.6x30mm emp)
+ent-Bullet46x30mmEmp = bala (4.6x30mm emp)
 
-ent-Bullet46x30mmHP = bullet (4.6x30mm hollow-point)
+ent-Bullet46x30mmHP = bala (4.6x30mm hollow-point)
 
-ent-Bullet46x30mmIncendiary = bullet (4.6x30mm incendiary)
+ent-Bullet46x30mmIncendiary = bala (4.6x30mm incendiário)
 
-ent-Bullet46x30mmPlasteelAP = bullet (4.6x30mm AP)
+ent-Bullet46x30mmPlasteelAP = bala (4.6x30mm AP)
 
-ent-Bullet46x30mmPractice = bullet (4.6x30mm practice)
+ent-Bullet46x30mmPractice = bala (4.6x30mm prática)
 
-ent-Bullet46x30mmRIP = bullet (4.6x30mm RIP)
+ent-Bullet46x30mmRIP = bala (4.6x30mm RIP)
 
-ent-Bullet46x30mmRubber = bullet (4.6x30mm rubber)
+ent-Bullet46x30mmRubber = bala (4.6x30mm borracha)
 
-ent-Bullet46x30mmUranium = bullet (4.6x30mm uranium)
+ent-Bullet46x30mmUranium = bala (4.6x30mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/45_ACP.yml
 
-ent-Bullet45_ACPEmp = bullet (.45 ACP emp)
+ent-Bullet45_ACPEmp = bala (.45 ACP emp)
 
-ent-Bullet45_ACPFMJ = bullet (.45 ACP FMJ)
+ent-Bullet45_ACPFMJ = bala (.45 ACP FMJ)
 
-ent-Bullet45_ACPHP = bullet (.45 hollow-point)
+ent-Bullet45_ACPHP = bala (.45 hollow-point)
 
-ent-Bullet45_ACPIncendiary = bullet (.45 ACP incendiary)
+ent-Bullet45_ACPIncendiary = bala (.45 ACP incendiário)
 
-ent-Bullet45_ACPPlasteelAP = bullet (.45 AP)
+ent-Bullet45_ACPPlasteelAP = bala (.45 AP)
 
-ent-Bullet45_ACPPractice = bullet (.45 ACP practice)
+ent-Bullet45_ACPPractice = bala (.45 ACP prática)
 
-ent-Bullet45_ACPRIP = bullet (.45 RIP)
+ent-Bullet45_ACPRIP = bala (.45 RIP)
 
-ent-Bullet45_ACPRubber = bullet (.45 ACP rubber)
+ent-Bullet45_ACPRubber = bala (.45 ACP borracha)
 
-ent-Bullet45_ACPUranium = bullet (.45 ACP uranium)
+ent-Bullet45_ACPUranium = bala (.45 ACP urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/45_magnum.yml
 
-ent-Bullet45_magnumAP = bullet (.45 magnum armor-piercing)
+ent-Bullet45_magnumAP = bala (.45 magnum perfurante)
 
-ent-Bullet45_magnumFMJ = bullet (.45 magnum)
+ent-Bullet45_magnumFMJ = bala (.45 magnum)
 
-ent-Bullet45_magnumHP = bullet (.45 magnum hollow-point)
+ent-Bullet45_magnumHP = bala (.45 magnum hollow-point)
 
-ent-Bullet45_magnumIncendiary = bullet (.45 magnum incendiary)
+ent-Bullet45_magnumIncendiary = bala (.45 magnum incendiário)
 
-ent-Bullet45_magnumPlasteelAP = bullet (.45 magnum AP)
+ent-Bullet45_magnumPlasteelAP = bala (.45 magnum AP)
 
-ent-Bullet45_magnumPractice = bullet (.45 magnum practice)
+ent-Bullet45_magnumPractice = bala (.45 magnum prática)
 
-ent-Bullet45_magnumRIP = bullet (.45 magnum RIP)
+ent-Bullet45_magnumRIP = bala (.45 magnum RIP)
 
-ent-Bullet45_magnumRubber = bullet (.45 magnum rubber)
+ent-Bullet45_magnumRubber = bala (.45 magnum borracha)
 
-ent-Bullet45_magnumUranium = bullet (.45 magnum uranium)
+ent-Bullet45_magnumUranium = bala (.45 magnum urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/5.56x45mm.yml
 
-ent-Bullet556x45mmFMJ = bullet (5.56x45mm FMJ)
+ent-Bullet556x45mmFMJ = bala (5.56x45mm FMJ)
 
-ent-Bullet556x45mmHP = bullet (5.56x45mm hollow-point)
+ent-Bullet556x45mmHP = bala (5.56x45mm hollow-point)
 
-ent-Bullet556x45mmIncendiary = bullet (5.56x45mm incendiary)
+ent-Bullet556x45mmIncendiary = bala (5.56x45mm incendiário)
 
-ent-Bullet556x45mmPlasteelAP = bullet (5.56x45mm AP)
+ent-Bullet556x45mmPlasteelAP = bala (5.56x45mm AP)
 
-ent-Bullet556x45mmPractice = bullet (5.56x45mm practice)
+ent-Bullet556x45mmPractice = bala (5.56x45mm prática)
 
-ent-Bullet556x45mmRIP = bullet (5.56x45mm RIP)
+ent-Bullet556x45mmRIP = bala (5.56x45mm RIP)
 
-ent-Bullet556x45mmRubber = bullet (5.56x45mm rubber)
+ent-Bullet556x45mmRubber = bala (5.56x45mm borracha)
 
-ent-Bullet556x45mmUranium = bullet (5.56x45mm uranium)
+ent-Bullet556x45mmUranium = bala (5.56x45mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/5.7x28mm.yml
 
-ent-Bullet57x28mmEmp = bullet (5.7x28mm emp)
+ent-Bullet57x28mmEmp = bala (5.7x28mm emp)
 
-ent-Bullet57x28mmFMJ = bullet (5.7x28mm FMJ)
+ent-Bullet57x28mmFMJ = bala (5.7x28mm FMJ)
 
-ent-Bullet57x28mmHP = bullet (5.7x28mm hollow-point)
+ent-Bullet57x28mmHP = bala (5.7x28mm hollow-point)
 
-ent-Bullet57x28mmIncendiary = bullet (5.7x28mm incendiary)
+ent-Bullet57x28mmIncendiary = bala (5.7x28mm incendiário)
 
-ent-Bullet57x28mmPlasteelAP = bullet (5.7x28mm AP)
+ent-Bullet57x28mmPlasteelAP = bala (5.7x28mm AP)
 
-ent-Bullet57x28mmPractice = bullet (5.7x28mm practice)
+ent-Bullet57x28mmPractice = bala (5.7x28mm prática)
 
-ent-Bullet57x28mmRIP = bullet (5.7x28mm RIP)
+ent-Bullet57x28mmRIP = bala (5.7x28mm RIP)
 
-ent-Bullet57x28mmRubber = bullet (5.7x28mm rubber)
+ent-Bullet57x28mmRubber = bala (5.7x28mm borracha)
 
-ent-Bullet57x28mmUranium = bullet (5.7x28mm uranium)
+ent-Bullet57x28mmUranium = bala (5.7x28mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/55_SAM.yml
 
-ent-Bullet55_SAM = bullet (.55 SAM)
+ent-Bullet55_SAM = bala (.55 SAM)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/6.35x40mm.yml
 
-ent-Bullet635x40mmCaseless = bullet (635x40mm Caseless)
+ent-Bullet635x40mmCaseless = bala (635x40mm sem estojo)
 
-ent-Bullet635x40mmCaselessPractice = bullet (635x40mm Caseless practice)
+ent-Bullet635x40mmCaselessPractice = bala (635x40mm sem estojo prática)
 
-ent-Bullet635x40mmCaselessRubber = bullet (635x40mm Caseless rubber)
+ent-Bullet635x40mmCaselessRubber = bala (635x40mm sem estojo borracha)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/68x52mm.yml
 
-ent-Bullet68x52mmCaseless = bullet (6.8x52mm Caseless)
+ent-Bullet68x52mmCaseless = bala (6.8x52mm sem estojo)
 
-ent-Bullet68x52mmCaselessHP = bullet (6.8x52mm Caseless HP)
+ent-Bullet68x52mmCaselessHP = bala (6.8x52mm sem estojo HP)
 
-ent-Bullet68x52mmCaselessPlasteelAP = bullet (6.8x52mm Caseless AP)
+ent-Bullet68x52mmCaselessPlasteelAP = bala (6.8x52mm sem estojo AP)
 
-ent-Bullet68x52mmCaselessPractice = bullet (6.8x52mm Caseless practice)
+ent-Bullet68x52mmCaselessPractice = bala (6.8x52mm sem estojo prática)
 
-ent-Bullet68x52mmCaselessRIP = bullet (6.8x52mm Caseless RIP)
+ent-Bullet68x52mmCaselessRIP = bala (6.8x52mm sem estojo RIP)
 
-ent-Bullet68x52mmCaselessRubber = bullet (6.8x52mm Caseless rubber)
+ent-Bullet68x52mmCaselessRubber = bala (6.8x52mm sem estojo borracha)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/7.62x39mm.yml
 
-ent-Bullet762x39mmFMJ = bullet (7.62x39mm FMJ)
+ent-Bullet762x39mmFMJ = bala (7.62x39mm FMJ)
 
-ent-Bullet762x39mmHP = bullet (7.62x39mm hollow-point)
+ent-Bullet762x39mmHP = bala (7.62x39mm hollow-point)
 
-ent-Bullet762x39mmIncendiary = bullet (7.62x39mm incendiary)
+ent-Bullet762x39mmIncendiary = bala (7.62x39mm incendiário)
 
-ent-Bullet762x39mmPlasteelAP = bullet (7.62x39mm AP)
+ent-Bullet762x39mmPlasteelAP = bala (7.62x39mm AP)
 
-ent-Bullet762x39mmPractice = bullet (7.62x39mm practice)
+ent-Bullet762x39mmPractice = bala (7.62x39mm prática)
 
-ent-Bullet762x39mmRIP = bullet (7.62x39mm RIP)
+ent-Bullet762x39mmRIP = bala (7.62x39mm RIP)
 
-ent-Bullet762x39mmRubber = bullet (7.62x39mm rubber)
+ent-Bullet762x39mmRubber = bala (7.62x39mm borracha)
 
-ent-Bullet762x39mmSubsonic = bullet (7.62x39mm subsonic)
+ent-Bullet762x39mmSubsonic = bala (7.62x39mm subsônica)
 
-ent-Bullet762x39mmUranium = bullet (7.62x39mm uranium)
+ent-Bullet762x39mmUranium = bala (7.62x39mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/7.62x51mm.yml
 
-ent-Bullet762x51mmAntiMaterial = bullet (7.62x51mm Anti-Material)
+ent-Bullet762x51mmAntiMaterial = bala (7.62x51mm Anti-Material)
 
-ent-Bullet762x51mmFMJ = bullet (7.62x51mm FMJ)
+ent-Bullet762x51mmFMJ = bala (7.62x51mm FMJ)
 
-ent-Bullet762x51mmHP = bullet (7.62x51mm hollow-point)
+ent-Bullet762x51mmHP = bala (7.62x51mm hollow-point)
 
-ent-Bullet762x51mmIncendiary = bullet (7.62x51mm incendiary)
+ent-Bullet762x51mmIncendiary = bala (7.62x51mm incendiário)
 
-ent-Bullet762x51mmPlasteelAP = bullet (7.62x51mm AP)
+ent-Bullet762x51mmPlasteelAP = bala (7.62x51mm AP)
 
-ent-Bullet762x51mmPractice = bullet (7.62x51mm practice)
+ent-Bullet762x51mmPractice = bala (7.62x51mm prática)
 
-ent-Bullet762x51mmRIP = bullet (7.62x51mm Radically Invasive Projectile)
+ent-Bullet762x51mmRIP = bala (7.62x51mm Projétil Radicalmente Invasivo)
 
-ent-Bullet762x51mmRubber = bullet (7.62x51mm rubber)
+ent-Bullet762x51mmRubber = bala (7.62x51mm borracha)
 
-ent-Bullet762x51mmUranium = bullet (7.62x51mm uranium)
+ent-Bullet762x51mmUranium = bala (7.62x51mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/7.62x54mmR.yml
 
-ent-Bullet762x54mmRFMJ = bullet (7.62x54mmR FMJ)
+ent-Bullet762x54mmRFMJ = bala (7.62x54mmR FMJ)
 
-ent-Bullet762x54mmRHP = bullet (7.62x54mmR hollow-point)
+ent-Bullet762x54mmRHP = bala (7.62x54mmR hollow-point)
 
-ent-Bullet762x54mmRIncendiary = bullet (7.62x54mmR incendiary)
+ent-Bullet762x54mmRIncendiary = bala (7.62x54mmR incendiário)
 
-ent-Bullet762x54mmRPlasteelAP = bullet (7.62x54mmR AP)
+ent-Bullet762x54mmRPlasteelAP = bala (7.62x54mmR AP)
 
-ent-Bullet762x54mmRPractice = bullet (7.62x54mmR practice)
+ent-Bullet762x54mmRPractice = bala (7.62x54mmR prática)
 
-ent-Bullet762x54mmRRIP = bullet (7.62x54mmR RIP)
+ent-Bullet762x54mmRRIP = bala (7.62x54mmR RIP)
 
-ent-Bullet762x54mmRRubber = bullet (7.62x54mmR rubber)
+ent-Bullet762x54mmRRubber = bala (7.62x54mmR borracha)
 
-ent-Bullet762x54mmRUranium = bullet (7.62x54mmR uranium)
+ent-Bullet762x54mmRUranium = bala (7.62x54mmR urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/8x65mm.yml
 
-ent-Bullet8x65mmSKR = bullet (8x65mm SKR)
+ent-Bullet8x65mmSKR = bala (8x65mm SKR)
 
-ent-Bullet8x65mmSKRIncendiary = bullet (8x65mm SKR incendiary)
+ent-Bullet8x65mmSKRIncendiary = bala (8x65mm SKR incendiário)
 
-ent-Bullet8x65mmSKRPractice = bullet (8x65mm SKR practice)
+ent-Bullet8x65mmSKRPractice = bala (8x65mm SKR prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/9x19mm.yml
 
-ent-Bullet9x19mmEmp = bullet (9x19mm emp)
+ent-Bullet9x19mmEmp = bala (9x19mm emp)
 
-ent-Bullet9x19mmFMJ = bullet (9x19mm FMJ)
+ent-Bullet9x19mmFMJ = bala (9x19mm FMJ)
 
-ent-Bullet9x19mmHP = bullet (9x19mm hollow-point)
+ent-Bullet9x19mmHP = bala (9x19mm hollow-point)
 
-ent-Bullet9x19mmIncendiary = bullet (9x19mm incendiary)
+ent-Bullet9x19mmIncendiary = bala (9x19mm incendiário)
 
-ent-Bullet9x19mmPlasteelAP = bullet (9x19mm AP)
+ent-Bullet9x19mmPlasteelAP = bala (9x19mm AP)
 
-ent-Bullet9x19mmPractice = bullet (9x19mm practice)
+ent-Bullet9x19mmPractice = bala (9x19mm prática)
 
-ent-Bullet9x19mmRIP = bullet (9x19mm RIP)
+ent-Bullet9x19mmRIP = bala (9x19mm RIP)
 
-ent-Bullet9x19mmRubber = bullet (9x19mm rubber)
+ent-Bullet9x19mmRubber = bala (9x19mm borracha)
 
-ent-Bullet9x19mmUranium = bullet (9x19mm uranium)
+ent-Bullet9x19mmUranium = bala (9x19mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/energy.yml
 
-ent-ChemicalSlop = chemical slop
-    .desc = According to 9 out of 10 doctors, this causes cancer. Seems to be disintegrating.
+ent-ChemicalSlop = lama química
+    .desc = Segundo 9 de cada 10 médicos, isso causa câncer. Parece estar desintegrando.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/Explosive.yml
 
-ent-PanzeroRocket = panzero rocket
+ent-PanzeroRocket = foguete panzero
     .desc = Scheiße!
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/grenades_launcher.yml
 
-ent-CleanerGrenadeLaunched = cleanade
-    .desc = Special grenade for janitors, releasing large cloud of space cleaner foam.
+ent-CleanerGrenadeLaunched = limpade
+    .desc = Granada especial para zeladores, liberando grande nuvem de espuma de limpeza espacial.
 
-ent-EmpGrenadeLaunched = EMP grenade
-    .desc = A grenade designed to wreak havoc on electronic systems.
+ent-EmpGrenadeLaunched = granada EMP
+    .desc = Uma granada projetada para causar estragos em sistemas eletrônicos.
 
-ent-ExGrenadeLaunched = explosive grenade
-    .desc = Grenade that creates a small but devastating explosion.
+ent-ExGrenadeLaunched = granada explosiva
+    .desc = Granada que cria uma explosão pequena mas devastadora.
 
 ent-GrenadeFlashBangLaunched = flashbang
     .desc = Eeeeeeeeeeeeeeeeeeeeee.
 
-ent-MetalFoamGrenadeLaunched = metal foam grenade
-    .desc = An emergency tool used for patching up holes. Almost as good as real walls.
+ent-MetalFoamGrenadeLaunched = granada de espuma de metal
+    .desc = Uma ferramenta de emergência usada para tampar buracos. Quase tão bom quanto paredes reais.
 
-ent-SmokeGrenadeLaunched = smoke grenade
-    .desc = A tactical grenade that releases a large, long-lasting cloud of smoke when used.
+ent-SmokeGrenadeLaunched = granada de fumaça
+    .desc = Uma granada tática que libera uma nuvem grande e duradoura de fumaça quando usada.
 
-ent-StickyGrenadeLaunched = sticky bomb
-    .desc = An anti-tank sticky bomb based on old designs, still effective even in space. Packs a punch, but has a long delay.
+ent-StickyGrenadeLaunched = bomba adesiva
+    .desc = Uma bomba adesiva anti-tanque baseada em designs antigos, ainda eficaz mesmo no espaço. Tem um pontapé, mas tem um longo atraso.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/hand_autopulser.yml
 
-ent-HandheldAutopulserProjectile = plasma projectile
+ent-HandheldAutopulserProjectile = projétil de plasma
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/45_magnum.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseSpeedLoader45_magnum = speed loader (.45 magnum)
+ent-BaseSpeedLoader45_magnum = carregador rápido (.45 magnum)
 
-ent-SpeedLoader45_magnumAP = speed loader (.45 magnum extreme armor-piercing)
+ent-SpeedLoader45_magnumAP = carregador rápido (.45 magnum perfurante extrema)
 
-ent-SpeedLoader45_magnumEmpty = speed loader (.45 magnum any)
+ent-SpeedLoader45_magnumEmpty = carregador rápido (.45 magnum qualquer)
 
-ent-SpeedLoader45_magnumFMJ = speed loader (.45 magnum FMJ)
+ent-SpeedLoader45_magnumFMJ = carregador rápido (.45 magnum FMJ)
 
-ent-SpeedLoader45_magnumHP = speed loader (.45 magnum hollow-point)
+ent-SpeedLoader45_magnumHP = carregador rápido (.45 magnum hollow-point)
 
-ent-SpeedLoader45_magnumIncendiary = speed loader (.45 magnum incendiary)
+ent-SpeedLoader45_magnumIncendiary = carregador rápido (.45 magnum incendiário)
 
-ent-SpeedLoader45_magnumPlasteelAP = speed loader (.45 magnum AP)
+ent-SpeedLoader45_magnumPlasteelAP = carregador rápido (.45 magnum AP)
 
-ent-SpeedLoader45_magnumPractice = speed loader (.45 magnum practice)
+ent-SpeedLoader45_magnumPractice = carregador rápido (.45 magnum prática)
 
-ent-SpeedLoader45_magnumRIP = speed loader (.45 magnum RIP)
+ent-SpeedLoader45_magnumRIP = carregador rápido (.45 magnum RIP)
 
-ent-SpeedLoader45_magnumRubber = speed loader (.45 magnum rubber)
+ent-SpeedLoader45_magnumRubber = carregador rápido (.45 magnum borracha)
 
-ent-SpeedLoader45_magnumUranium = speed loader (.45 magnum uranium)
+ent-SpeedLoader45_magnumUranium = carregador rápido (.45 magnum urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/5.56x45mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseSpeedLoader556x45mm = speed loader (5.56x45mm FMJ)
+ent-BaseSpeedLoader556x45mm = carregador rápido (5.56x45mm FMJ)
 
-ent-SpeedLoader556x45mmEmpty = speed loader (5.56x45mm any)
+ent-SpeedLoader556x45mmEmpty = carregador rápido (5.56x45mm qualquer)
 
-ent-SpeedLoader556x45mmFMJ = speed loader (5.56x45mm FMJ)
+ent-SpeedLoader556x45mmFMJ = carregador rápido (5.56x45mm FMJ)
 
-ent-SpeedLoader556x45mmIncendiary = speed loader (5.56x45mm incendiary)
+ent-SpeedLoader556x45mmIncendiary = carregador rápido (5.56x45mm incendiário)
 
-ent-SpeedLoader556x45mmPractice = speed loader (5.56x45mm practice)
+ent-SpeedLoader556x45mmPractice = carregador rápido (5.56x45mm prática)
 
-ent-SpeedLoader556x45mmRubber = speed loader (5.56x45mm rubber)
+ent-SpeedLoader556x45mmRubber = carregador rápido (5.56x45mm borracha)
 
-ent-SpeedLoader556x45mmUranium = speed loader (5.56x45mm uranium)
+ent-SpeedLoader556x45mmUranium = carregador rápido (5.56x45mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/7.62x39mm.yml
 
-ent-SpeedLoader762x39mmFMJ = speed loader (7.62x39mm FMJ)
+ent-SpeedLoader762x39mmFMJ = carregador rápido (7.62x39mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/7.62x54mmR.yml
 
-ent-SpeedLoader762x54mmRFMJ = speed loader (7.62x54mmR FMJ)
+ent-SpeedLoader762x54mmRFMJ = carregador rápido (7.62x54mmR FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/9x19mm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseSpeedLoader9x19mm = speed loader (9x19mm FMJ)
+ent-BaseSpeedLoader9x19mm = carregador rápido (9x19mm FMJ)
 
-ent-SpeedLoader9x19mmEmpty = speed loader (9x19mm any)
+ent-SpeedLoader9x19mmEmpty = carregador rápido (9x19mm qualquer)
 
-ent-SpeedLoader9x19mmFMJ = speed loader (9x19mm FMJ)
+ent-SpeedLoader9x19mmFMJ = carregador rápido (9x19mm FMJ)
 
-ent-SpeedLoader9x19mmIncendiary = speed loader (9x19mm incendiary)
+ent-SpeedLoader9x19mmIncendiary = carregador rápido (9x19mm incendiário)
 
-ent-SpeedLoader9x19mmPractice = speed loader (9x19mm practice)
+ent-SpeedLoader9x19mmPractice = carregador rápido (9x19mm prática)
 
-ent-SpeedLoader9x19mmRubber = speed loader (9x19mm rubber)
+ent-SpeedLoader9x19mmRubber = carregador rápido (9x19mm borracha)
 
-ent-SpeedLoader9x19mmUranium = speed loader (9x19mm uranium)
+ent-SpeedLoader9x19mmUranium = carregador rápido (9x19mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Attachments/base.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseGunAttachmentGrip = grip
-    .suffix = Grip Attachment
-    .desc = Helps a bit with recoil control.
+ent-BaseGunAttachmentGrip = empunhadura
+    .suffix = Acessório de Empunhadura
+    .desc = Ajuda um pouco com o controle de recuo.
 
 # Abstract entity (referenceable by children)
-ent-BaseGunAttachmentOptic = optic
-    .suffix = Optic Attachment
-    .desc = Wow, I can see farther!
+ent-BaseGunAttachmentOptic = mira
+    .suffix = Acessório de Mira
+    .desc = Uau, eu consigo ver mais longe!
 
 # Abstract entity (referenceable by children)
-ent-BaseGunAttachmentSuppressor = suppressor
-    .suffix = Barrel Attachment
-    .desc = Makes a gunshot a bit more quiet.
+ent-BaseGunAttachmentSuppressor = supressor
+    .suffix = Acessório de Cano
+    .desc = Torna o tiro um pouco mais silencioso.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Attachments/grips_erebus_railmount.yml
 
-ent-GunAttachmentGripErebusLAM = Zenit PRL laser-aiming module (Erebus-HI railmount)
-    .desc = A visual-spectrum red laser for aiming. Looks awesome, and helps a lot with first shot accuracy!
+ent-GunAttachmentGripErebusLAM = módulo de mira laser Zenit PRL (trilho Erebus-HI)
+    .desc = Um laser vermelho de espectro visual para mira. Parece impressionante, e ajuda muito com a precisão do primeiro tiro!
 
-ent-GunAttachmentGripErebusLight = LM-300 weapon light (Erebus-HI railmount)
-    .desc = It's a flashlight for your gun.
+ent-GunAttachmentGripErebusLight = lanterna de arma LM-300 (trilho Erebus-HI)
+    .desc = É uma lanterna para sua arma.
 
-ent-GunAttachmentGripErebusVFG = vertical foregrip (Erebus-HI railmount)
-    .desc = Makes it easier to control recoil, but harder to recover from it. Also helps with first-shot spread control.
+ent-GunAttachmentGripErebusVFG = empunhadura frontal vertical (trilho Erebus-HI)
+    .desc = Facilita o controle de recuo, mas mais difícil de se recuperar dele. Também ajuda com o controle de dispersão do primeiro tiro.
 
-ent-GunAttachmentGripPistolLAM = Soyuz PGL laser-aiming module (handgun mount)
-    .desc = A visual-spectrum green laser for aiming. Looks awesome, and helps a lot with first shot accuracy!
+ent-GunAttachmentGripPistolLAM = módulo de mira laser Soyuz PGL (montagem de arma de fogo)
+    .desc = Um laser verde de espectro visual para mira. Parece impressionante, e ajuda muito com a precisão do primeiro tiro!
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Attachments/optics_erebus_railmount.yml
 
-ent-GunAttachmentOpticErebus2x = Spectre 388 2x optic (Erebus-HI railmount)
-    .desc = Doesn't let you see as far as other optics, but helps with putting the sight back on target after recoil.
+ent-GunAttachmentOpticErebus2x = mira Spectre 388 2x (trilho Erebus-HI)
+    .desc = Não permite ver tão longe quanto outras miras, mas ajuda a colocar a mira de volta no alvo após o recuo.
 
-ent-GunAttachmentOpticErebus4x = Spectre 970 4x optic (Erebus-HI railmount)
-    .desc = Allows for more medium-range combat to be possible. Doesn't do much for recoil recovery or accuracy.
+ent-GunAttachmentOpticErebus4x = mira Spectre 970 4x (trilho Erebus-HI)
+    .desc = Permite que mais combate de médio alcance seja possível. Não faz muito para recuperação de recuo ou precisão.
 
-ent-GunAttachmentOpticErebus8x = L6 Bowman 8x optic (Erebus-HI railmount)
-    .desc = Allows for long-range combat. Unwieldy and hard to recover from after recoil.
+ent-GunAttachmentOpticErebus8x = mira L6 Bowman 8x (trilho Erebus-HI)
+    .desc = Permite combate de longo alcance. Desajeitado e difícil de se recuperar após o recuo.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Attachments/suppressors_multical.yml
 
-ent-GunAttachmentSuppressorMulticalPistol = MULTI-CAL pistol suppressor
-    .desc = Supports weapons with threaded barrels that fire pistol cartridges.
+ent-GunAttachmentSuppressorMulticalPistol = supressor de pistola MULTI-CAL
+    .desc = Suporta armas com canos rosqueados que disparam cartuchos de pistola.
 
-ent-GunAttachmentSuppressorMulticalRifle = MULTI-CAL rifle suppressor
-    .desc = Supports weapons with threaded barrels that fire intermediate cartridges.
+ent-GunAttachmentSuppressorMulticalRifle = supressor de rifle MULTI-CAL
+    .desc = Suporta armas com canos rosqueados que disparam cartuchos intermediários.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/asakim.yml
 
-ent-WeaponRifleAsakimAutopulser = kunisa-pattern plasma autopulser
-    .desc = An advanced handheld plasma rifle. The design bears similarities to pre-fracture plasma weapons.
+ent-WeaponRifleAsakimAutopulser = autopulser de plasma padrão kunisa
+    .desc = Um rifle de plasma portátil avançado. O design tem semelhanças com armas de plasma pré-fratura.
 
-ent-WeaponRifleAsakimAutopulserADM = kunisa-pattern plasma autopulser
-    .desc = An advanced handheld plasma rifle built for cyborgs. The design bears similarities to pre-fracture plasma weapons.
+ent-WeaponRifleAsakimAutopulserADM = autopulser de plasma padrão kunisa
+    .desc = Um rifle de plasma portátil avançado construído para ciborgues. O design tem semelhanças com armas de plasma pré-fratura.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml
 
-ent-WeaponEnergyShotgunOverseer = energy shotgun \"Dignity\"
-    .desc = A weapon that has been the last thing seen by many pirates, \"Dignity\" is a 1-handed energy shotgun often used by pirate hunting overseers.
+ent-WeaponEnergyShotgunOverseer = escopeta de energia "Dignidade"
+    .desc = Uma arma que tem sido a última coisa vista por muitos piratas, "Dignidade" é uma escopeta de energia de 1 mão frequentemente usada por supervisores de caça de piratas.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/frost.yml
 
 ent-WeaponEnergyGunFrost = VFD QBH-5 FROST
-    .desc = A self-recharging energy gun with lethal rounds that can inflict serious damage. Comes with disabling munitions and improved accuracy compared to it's previous versions.
+    .desc = Uma arma de energia de recarga automática com munições letais que podem infligir sérios danos. Vem com munições incapacitantes e precisão melhorada em comparação com suas versões anteriores.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/magfed_lasers.yml
 
-ent-WeaponLaserCellMG = EM72 Ashstorm
-    .desc = EM72 Ashstorm, The TSF-EM72 Ashstorm is a directed-energy light machine gun developed by Aetherion Dynamics under TSF weapons contract 934A. Designed for sustained suppressive fire in void or planetary combat. The signature green glow of the Ashstorm's thermal capacitors is feared across imperial lines in the Helion Belt.
+ent-WeaponLaserCellMG = EM72 Tempestade de Cinzas
+    .desc = EM72 Tempestade de Cinzas, A EM72 Tempestade de Cinzas da TSF é uma metralhadora leve de energia direcionada desenvolvida pela Aetherion Dynamics sob contrato de armas da TSF 934A. Projetada para fogo supressivo sustentado em combate no vácuo ou planetário. O brilho verde característico dos capacitores térmicos da Tempestade de Cinzas é temido nas linhas imperiais no Cinturão de Hélio.
 
 ent-WeaponLRC21PPL = NT-WS LRC-21 PPL
-    .desc = A heavy pulsed plasma lance rifle. Eviscerates targets with ease.
+    .desc = Um rifle de lança de plasma pulsado pesado. Eviscera alvos com facilidade.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/pdv.yml
 
-ent-WeaponDEWBasilisk = 'Basilisk' DEW-15-XXR radiation rifle
-    .desc = A dubious rifle reverse engineered by the Dynasty for use against Federation personnel. Probably not the safest to use, but its beams are not on the visible light spectrum and it is immune to EMP due to using chemical-based cartridges.
+ent-WeaponDEWBasilisk = rifle de radiação DEW-15-XXR 'Basilisk'
+    .desc = Um rifle duvidoso reproduzido reverso pela Dinastia para uso contra pessoal da Federação. Provavelmente não é o mais seguro para usar, mas seus feixes não estão no espectro de luz visível e é imune a EMP devido ao uso de cartuchos químicos.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/tsf.yml
 
-ent-WeaponDEWCalico = QBH-20-C Calico energy rifle
-    .desc = A cartridge-fed directed energy weapon used by Trans-Solarian Federation soldiers. Due to it using chemical-laser cartridges, it is unaffected by EMP, making it a favorite among the marines able to requisition one.
+ent-WeaponDEWCalico = rifle de energia QBH-20-C Calico
+    .desc = Uma arma de energia direcionada alimentada por cartucho usada por soldados da Federação Trans-Solariana. Devido ao uso de cartuchos de laser químico, não é afetada por EMP, tornando-a uma favorita entre os fuzileiros navais capazes de requisitar uma.
 
-ent-WeaponDEWSmilodon = QJH-50-C Smilodon automatic energy weapon
-    .desc = Modified from the original Calico DEW, the Smilodon carries the philosophy of its predecessor into the world of LMGs - Capable of using battery boxes *and* chemical magazines while also having secondary storage for on-the-go marines, the Smilodon's only failures are the downsides of laser-based weapons and its bulky frame. Continued firing calibrates spread.
+ent-WeaponDEWSmilodon = arma de energia automática QJH-50-C Smilodon
+    .desc = Modificado do Calico DEW original, o Smilodon leva a filosofia de seu predecessor para o mundo das LMGs - Capaz de usar caixas de bateria *e* carregadores químicos enquanto também tem armazenamento secundário para fuzileiros navais em movimento, os únicos fracassos do Smilodon são as desvantagens de armas baseadas em laser e sua estrutura volumosa. Fogo contínuo calibra a dispersão.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Battery/ui_energy_weapons.yml
 
-ent-UllmanWeaponPulsePistol = U.I. DP-17 heavy pulse pistol
-    .desc = A new gun on the market from Ullman, the DP-17 is a punchy laser pulse pistol based off designs of old.
+ent-UllmanWeaponPulsePistol = pistola de pulso pesada U.I. DP-17
+    .desc = Uma nova arma no mercado da Ullman, a DP-17 é uma pistola de pulso laser potente baseada em designs antigos.
 
-ent-UllmanWeaponPulseRifle = U.I. DP-27 pulse repeater rifle
-    .desc = This larger pulse rifle is an automatic weapon capable of punching down groups of targets, be they robotic or organic. One of Ullman's top of the line Directed Pulse weapons.
+ent-UllmanWeaponPulseRifle = rifle repetidor de pulso U.I. DP-27
+    .desc = Este rifle de pulso maior é uma arma automática capaz de derrubar grupos de alvos, sejam robóticos ou orgânicos. Uma das armas de Pulso Direcionadas de ponta da Ullman.
 
-ent-UllmanWeaponPulseSniper = U.I. DP-40 pulse sniper rifle
-    .desc = The peak of Ullman engineering, the DP-40 is the ultimate in long range surpression, having a beam that can melt a hole clean through plastitanium plated armor suits.
+ent-UllmanWeaponPulseSniper = rifle de pulso de precisão U.I. DP-40
+    .desc = O ápice da engenharia da Ullman, a DP-40 é o definitivo em supressão de longo alcance, tendo um feixe que pode derreter um buraco limpo através de trajes de armadura revestidos de plastitanio.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/debug.yml
 
-ent-BulletDebugZoom = bang, zoom bullet
+ent-BulletDebugZoom = bala bum, zoom
     .suffix = DEBUG
 
-ent-CartridgeDebugZoom = bang, zoom cartridge
+ent-CartridgeDebugZoom = cartucho bum, zoom
     .suffix = DEBUG
 
-ent-MagazinePistolDebugZoom = bang, zoom mag
+ent-MagazinePistolDebugZoom = carregador bum, zoom
     .suffix = DEBUG
 
-ent-WeaponPistolDebugFast = bang, zoom
+ent-WeaponPistolDebugFast = bum, zoom
     .suffix = DEBUG
     .desc = zoom
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Launchers/heavy_pulse.yml
 
-ent-WeaponHeavyPulseCannon = NT-WS heavy pulse cannon
-    .desc = A rare, corporate war era weapon of Nanotrasen origin. A massive shoulder mounted pulse cannon, packing enough power in its punches to blow holes through organics, or when tuned to high power, blow holes clean into shuttle hulls.
+ent-WeaponHeavyPulseCannon = canhão de pulso pesado NT-WS
+    .desc = Uma arma rara da era da guerra corporativa de origem Nanotrasen. Um massive canhão de pulso montado no ombro, empacotando poder suficiente em seus golpes para furar buracos através de orgânicos, ou quando sintonizado para alta potência, furar buracos limpos em cascos de transladadores.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Launchers/launchers.yml
 
-ent-WeaponForceGunBorg = cyborg force gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
+ent-WeaponForceGunBorg = arma de força de ciborgue
+    .desc = Manipula a gravidade ao redor de objetos para jogá-los em altas velocidades.
 
-ent-WeaponLauncherPanzero = MANPAT \"Panzero\" disposable anti-tank
-    .desc = Based on old designs, the \"Panzero\" is a (relatively) easy-to-carry disposable anti-tank rocket launcher. Devastating against mechs and walls, not very good at much else.
+ent-WeaponLauncherPanzero = MANPAT "Panzero" anti-tanque descartável
+    .desc = Baseado em designs antigos, o "Panzero" é um lançador de foguete anti-tanque descartável (relativamente) fácil de carregar. Devastador contra mechas e paredes, não muito bom em muito mais nada.
 
-ent-WeaponLauncherTSFAnubis = TCA QLU-907 Anubis TPGL (35x53mm grenade)
-    .desc = A precision magfed grenade rifle with an inbuilt fire-control system, originally intended for use against fortifications & counterinsurgency. Fires 35mm grenades with high-velocity and precision.
+ent-WeaponLauncherTSFAnubis = TCA QLU-907 Anubis TPGL (granada 35x53mm)
+    .desc = Um rifle de granada de precisão alimentado por carregador com sistema de controle de fogo integrado, originalmente pretendido para uso contra fortificações e contra-insurgência. Dispara granadas de 35mm com alta velocidade e precisão.
 
-ent-WeaponLauncherTSFOsiris = QLU-909 Osiris MGL
-    .desc = The TSF's powerful solution to things that don't have enough boom. Capable of firing most standard grenades.
+ent-WeaponLauncherTSFOsiris = MGL QLU-909 Osiris
+    .desc = A solução poderosa da TSF para coisas que não têm boom suficiente. Capaz de disparar a maioria das granadas padrão.
 
-ent-WeaponTetherGunBorg = cyborg tether gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
+ent-WeaponTetherGunBorg = arma de tether de ciborgue
+    .desc = Manipula a gravidade ao redor de objetos para jogá-los em altas velocidades.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Launchers/metalstorm.yml
 
-ent-WeaponLauncherMk348 = NT-WS Mk.348 \"Hailstorm\" directed kinetic pulse weapon
-    .desc = A bulky multi-barreled weapon firing 9x19mm. Ammo is fed via boxes, which is moved inside the gun to each respective barrel. Be glad you aren't the one having to maintain this awful mechanism.
+ent-WeaponLauncherMk348 = NT-WS Mk.348 "Tempestade" arma de pulso cinético direcionado
+    .desc = Uma arma volumosa de múltiplos canos disparando 9x19mm. Munição é alimentada via caixas, que é movida dentro da arma para cada cano respectivo. Agradeça por não ser você o que tem que manter este mecanismo horrível.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Launchers/mpssm.yml
 
-ent-WeaponLauncherMPSSM = NT-WS SM-27 MPSSM missile launcher
+ent-WeaponLauncherMPSSM = lançador de míssil NT-WS SM-27 MPSSM
     .suffix = HEAT
-    .desc = A multipurpose man-portable launcher, capable of firing both guided anti-ship and unguided HEAT warheads.
+    .desc = Um lançador multipropósito transportável por homem, capaz de disparar ambas ogivas guiadas anti-navio e ogivas HEAT não guiadas.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/LMGs/LMGs.yml
 
-ent-CyborgWeaponMinigun = Cyborg minigun
-    .desc = Old highly-inaccurate rotary mini-gun chambered in a small caliber.
+ent-CyborgWeaponMinigun = Metralhadora rotativa de Ciborgue
+    .desc = Antiga metralhadora rotativa altamente imprecisa de pequeno calibre.
 
 ent-WeaponDP29 = NCI DP-29
-    .desc = A staple of USSP military doctrine, the DP-29 is a mass-produced light machine gun designed for reliability, ease of use, and battlefield endurance. Featuring a distinctive top-mounted pan magazine and a folding bipod, the DP-29 excels at providing suppressive fire in both urban and open combat scenarios. While its design dates back decades, its reliability and ease of maintenance make it a favorite among USSP infantry squads.
+    .desc = Um básico da doutrina militar da USSP, o DP-29 é uma metralhadora leve produzida em massa projetada para confiabilidade, facilidade de uso e resistência no campo de batalha. Apresentando um carregador de pente distinto montado no topo e um bipé dobrável, o DP-29 se destaca em fornecer fogo supressivo em cenários de combate urbanos e abertos. Embora seu design date de décadas atrás, sua confiabilidade e facilidade de manutenção o tornam um favorito entre os esquadrões de infantaria da USSP.
 
-ent-WeaponLMGGrizzly = TCA QJY-68 Grizzly (6.8x52mm caseless)
-    .desc = A medium machine gun chambered in 6.8x52mm caseless, accepts both box and standard magazines. A label on the side reads \"FOR MILITARY USE ONLY\". The weight of the machine gun make it hard to wield easily. To assist with standardization, it also accepts 5.56x45mm and 7.62x39mm.
+ent-WeaponLMGGrizzly = TCA QJY-68 Grizzly (6.8x52mm sem estojo)
+    .desc = Uma metralhadora média em 6.8x52mm sem estojo, aceita tanto caixas quanto carregadores padrão. Um rótulo no lado lê "APENAS PARA USO MILITAR". O peso da metralhadora torna difícil de manejar facilmente. Para auxiliar na padronização, também aceita 5.56x45mm e 7.62x39mm.
 
 ent-WeaponLMGHammer = NCI AK-150 HAMMER (7.62x39mm)
-    .desc = A modified old style AK from earth which has been improved with USSP engineering and new design philosophies. At a base level? It's been turned into an LMG with a box magazine attached alongside various recoil lessening upgrades and a stylized chassis. Hail The Commissariat.
+    .desc = Um estilo antigo AK modificado da terra que foi melhorado com engenharia da USSP e novas filosofias de design. Em um nível básico? Foi transformado em uma LMG com um carregador de caixa anexado ao lado de várias atualizações de redução de recuo e um chassi estilizado. Salve a Comissariato.
 
 ent-WeaponLMGMR8B = VFD QBZ-244 Fenghuang (8x65mm SKR)
-    .desc = Carbine variant of the QLU-243, shortened barrel optimized for heavy sustained fire. Chambered in 8x65mm SKR, and accepts both box and STANAG magazines. Only issued to MARSOC, and blacklisted from standard TSFN & TSFMC requisition.
+    .desc = Variante carabina do QLU-243, cano encurtado otimizado para fogo sustentado pesado. Em 8x65mm SKR, e aceita tanto caixas quanto carregadores STANAG. Apenas emitido para MARSOC, e列入黑名单 de requisição padrão da TSFN & TSFMC.
 
-ent-WeaponLMGRatel = VFD PSW \"Ratel\" (7.62x51mm)
-    .desc = The precision support weapon chambered in 7.62x51mm and fits simple ammo box and all kind of magazines. Based on the Vulcan and made with higher quality materials, A label on the side that seems to have been tampered with reads \"FOR MILI-CENARY USE ONLY\". An Erebus railmount is present on the reciever for optics.
+ent-WeaponLMGRatel = VFD PSW "Ratel" (7.62x51mm)
+    .desc = A arma de suporte de precisão em 7.62x51mm e se adapta a caixa de munição simples e todos os tipos de carregadores. Baseado no Vulcan e feito com materiais de maior qualidade, Um rótulo no lado que parece ter sido adulterado lê "APENAS PARA USO MILI-CENÁRIO". Um trilho Erebus está presente no receptor para miras.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/LMGs/smartgun.yml
 
-ent-WeaponSmartLmg = SKR-WS MLA-79 smart LMG (.160 smart)
-    .desc = A military prototype that saw rare use in front-lines field testing. This is a refined version for standard production.
+ent-WeaponSmartLmg = SKR-WS MLA-79 LMG inteligente (.160 inteligente)
+    .desc = Um protótipo militar que viu uso raro em testes de campo de linha de frente. Esta é uma versão refinada para produção padrão.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Pistols/pistol.yml
 
-ent-WeaponPistolUllmanSmartMagnumMK5 = U.I Smart Pistol MK5 (.55 SAM)
-    .desc = A prototype smart pistol developed by Ullman Industries that uses .55 Smart Action Magnum, designed for precision and adaptability in combat situations. It features advanced targeting systems and a sleek design.
+ent-WeaponPistolUllmanSmartMagnumMK5 = Pistola Inteligente U.I MK5 (.55 SAM)
+    .desc = Uma pistola inteligente protótipo desenvolvida pela Ullman Industries que usa .55 Smart Action Magnum, projetada para precisão e adaptabilidade em situações de combate. Apresenta sistemas de mira avançados e um design elegante.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Pistols/recharging.yml
 
-ent-BulletDragoon = bullet (.500 magnum caseless)
+ent-BulletDragoon = bala (.500 magnum sem estojo)
 
-ent-BulletHawk = bullet (7x30mm caseless)
+ent-BulletHawk = bala (7x30mm sem estojo)
 
 ent-WeaponPistolHawk4 = LWC HAWK-4 I.S
-    .desc = A modified, heavy Anaconda for the purpose of assassinating high value targets. This rare prototype is capable of printing armor penetrating bullets. A laser and holographic sight alongside a matte black chassis with a custom-built integrated silencer make for an exceedingly deadly stealth weapon, only fit for a true Commander of the Phaethon Dynasty Imperial Vanguard.
+    .desc = Um Anaconda pesado modificado para o propósito de assassinar alvos de alto valor. Este protótipo raro é capaz de imprimir balas perfurantes de armadura. Um laser e mira holográfica ao lado de um chassi preto fosco com um silenciador integrado customizado fazem uma arma stealth mortalmente excedente, apenas adequada para um verdadeiro Comandante da Vanguarda Imperial da Dinastia Phaethon.
 
-ent-WeaponRevolverDragoon = TPC Dragoon officer's revolver
-    .desc = A heavy revolver, chambered in a replicating .500 magnum round. The Dragoon is a custom made revolver for the Grand Vizier of the PDV, meant to be a commanding presence in the hands of an experienced marshall.
+ent-WeaponRevolverDragoon = revólver de oficial TPC Dragoon
+    .desc = Um revólver pesado, em .500 magnum replicante. O Dragoon é um revólver customizado para o Grão-Vizir do PDV, significando ser uma presença de comando nas mãos de um marechal experiente.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Projectiles/explosive_laser.yml
 
-ent-explosivelasergun = explosive laser gun
-    .desc = Favoured by Nanotrasen Security for being cheap and easy to use.
+ent-explosivelasergun = laser explosivo
+    .desc = Favorecido pela Segurança da Nanotrasen por ser barato e fácil de usar.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Projectiles/magic.yml
 
-ent-ProjectileBabyDragonsBreath = baby dragon's breath
-    .desc = Try not to get toasted.
+ent-ProjectileBabyDragonsBreath = fôlego de dragão bebê
+    .desc = Tente não ser torrado.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml
 
-ent-BulletEnergyGun45_magnum = 45_magnum bolt
+ent-BulletEnergyGun45_magnum = dardo 45_magnum
 
-ent-BulletLaserPellet = energy
+ent-BulletLaserPellet = energia
 
-ent-BulletLaserSlug = energy slug
+ent-BulletLaserSlug = slug de energia
 
-ent-BulletMonolithicGestalt = gestalt bolt
+ent-BulletMonolithicGestalt = dardo gestalt
     .desc = Zzz...t?
 
-ent-BulletMonolithicGolomRanged = golum spike
-    .desc = A pristine, nano-particulate weave crystal apparently made out of some sort of hard-light energy. It could probably revolutionize over five different industries if studied. Unfortunately, it seems to have been thrown right at you!
+ent-BulletMonolithicGolomRanged = espigão golum
+    .desc = Um cristal de tecido de nanopartículas impecável aparentemente feito de algum tipo de energia de luz dura. Poderia provavelmente revolucionar mais de cinco indústrias diferentes se estudado. Infelizmente, parece ter sido jogado direito em você!
 
-ent-HeavyPulse = Heavy Pulse Bolt
+ent-HeavyPulse = Dardo de Pulso Pesado
 
-ent-HeavyPulseExp = Explosive Pulse Bolt
+ent-HeavyPulseExp = Dardo de Pulso Explosivo
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Rifles/rifles.yml
 
 ent-WeaponRifleAK502 = NCI AK-502 (7.62x39mm)
-    .desc = A standard-issue USSP combat rifle. Uses 7.62x39mm ammo. It has an Erebus railmount attached to the carryhandle for optics.
+    .desc = Um rifle de combate USSP de emissão padrão. Usa munição 7.62x39mm. Tem um trilho Erebus anexado à alça de transporte para miras.
 
-ent-WeaponRifleIroh = HWL FG.J \"Iroh\" (5.56x45mm)
-    .desc = A premium, finely-tuned rifle. Accurate, fast firing, and expensive as shit. Outfitted with Erebus rails on the handguard and carryhandle, and a threaded barrel for attachments.
+ent-WeaponRifleIroh = HWL FG.J "Iroh" (5.56x45mm)
+    .desc = Um rifle premium, finamente sintonizado. Preciso, rápido e carato como merda. Equipado com trilhos Erebus no guarda-mão e alça de transporte, e um cano rosqueado para acessórios.
 
-ent-WeaponRifleMla34 = SKR-WS MLA-34 smartgun (.160 smart)
-    .desc = A limited-production special smartgun made as a self-defense weapon for untrained ship crew.
+ent-WeaponRifleMla34 = arma inteligente SKR-WS MLA-34 (.160 inteligente)
+    .desc = Uma arma inteligente de produção limitada feita como arma de autodefesa para tripulação de navio não treinada.
 
 ent-WeaponRifleMR8C = VFD QBU-243 Xian DMR (8x65mm SKR)
-    .desc = High powered, relatively fast-firing marksman rifle, intended for MARSOC usage. Chambered in 8x65mm SKR. An Erebus railmount is attached to the top of the reciever and the bottom of the handguard for optics and grips.
+    .desc = Rifle de atirador de alta potência, relativamente rápido, pretendido para uso MARSOC. Em 8x65mm SKR. Um trilho Erebus está anexado ao topo do receptor e na parte inferior do guarda-mão para miras e empunhaduras.
 
-ent-WeaponRifleNtsfLtr = NTSF-LTR-556 (5.56x45mm,6.8x52mm Caseless)
-    .desc = An old corporate war era rifle. The Nano Trasen Security Forces and Special Forces's Light Tactical Rifle chambered in 5.56x45mm, also accepts 6.8x52mm due to it being a brand new caliber of its time and being a prototype. This rifle is of high-quality with plastitanium internal and plasteel furnitures.
+ent-WeaponRifleNtsfLtr = NTSF-LTR-556 (5.56x45mm,6.8x52mm sem estojo)
+    .desc = Um rifle da era da guerra corporativa antiga. O Rifle Tático Leve das Forças de Segurança e Forças Especiais da Nano Trasen em 5.56x45mm, também aceita 6.8x52mm devido a ser um novo calibre de sua época e ser um protótipo. Este rifle é de alta qualidade com internos de plastitanio e móveis de plasteel.
 
-ent-WeaponRiflePrometheus = HWM FCL \"Prometheus\" (5.56x45mm)
-    .desc = The Herstal Weapon Manufacture \"Prometheus\" Light combat rifle (Fusil de Combat Léger) in 556x45mm. Made to be mass producable for fight against xenos. Its firerate is decent with burst being superior and accuracy poor.
+ent-WeaponRiflePrometheus = HWM FCL "Prometheus" (5.56x45mm)
+    .desc = A Herstal Weapon Manufacture "Prometheus" Rifle de combate leve (Fusil de Combat Léger) em 556x45mm. Feito para ser produzível em massa para lutar contra xenos. Sua taxa de fogo é decente com rajada sendo superior e precisão pobre.
 
-ent-WeaponRifleVulcanFCMC = HWM FCM-C \"Vulcan\" (7.62x51mm)
-    .desc = The Herstal Weapon Manufacture \"Vulcan\" Civilian Medium combat rifle (Fusil de Combat Moyen Civil) in 762x51mm, this civilian version only has semi-automatic mode and reduced firerate.
+ent-WeaponRifleVulcanFCMC = HWM FCM-C "Vulcan" (7.62x51mm)
+    .desc = A Herstal Weapon Manufacture "Vulcan" Rifle de combate médio civil (Fusil de Combat Moyen Civil) em 762x51mm, esta versão civil tem apenas modo semiautomático e taxa de fogo reduzida.
 
 ent-WeaponRifleXlr556 = VFD QBZX-281 Taotie ICWS (5.56x45mm)
-    .desc = A proposed next-gen \"rifle\" for TSF standard infantry. Chambered in 5.56x45mm rifle rounds, its RPM is incredible - but with great firerate comes great fire control...
+    .desc = Uma "rifle" de próxima geração proposta para infantaria padrão da TSF. Em cartuchos de rifle 5.56x45mm, seu RPM é incrível - mas com grande taxa de fogo vem grande controle de fogo...
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Shotguns/shotguns.yml
 
-ent-WeaponShotgunBigBuddy = Big Buddy (4 gauge)
-    .desc = A massive 4 gauge (23x75mm) shotgun made to kill what any caliber below an autocannon cant.
+ent-WeaponShotgunBigBuddy = Grande Companheiro (4 gauge)
+    .desc = Uma escopeta massiva 4 gauge (23x75mm) feita para matar o que qualquer calibre abaixo de um autocanhão não consegue.
 
-ent-WeaponShotgunBigJohnny = Big Johnny (4 gauge)
-    .desc = A large 4 gauge (23x75mm) shotgun made to kill what any caliber below an autocannon cant. This one is outfitted with various tactical additions and is made for CQC at the cost of low ammo capacity. It has an Erebus railmount attached to the reciever for optics.
+ent-WeaponShotgunBigJohnny = Grande Johnny (4 gauge)
+    .desc = Uma escopeta grande 4 gauge (23x75mm) feita para matar o que qualquer calibre abaixo de um autocanhão não consegue. Este está equipado com várias adições táticas e é feito para CQC ao custo de baixa capacidade de munição. Tem um trilho Erebus anexado ao receptor para miras.
 
-ent-WeaponShotgunBigLeady = Big Leady (4 gauge)
-    .desc = A large 4 gauge (23x75mm) shotgun made to kill what any caliber below an autocannon cant.
+ent-WeaponShotgunBigLeady = Grande Líder (4 gauge)
+    .desc = Uma escopeta grande 4 gauge (23x75mm) feita para matar o que qualquer calibre abaixo de um autocanhão não consegue.
 
 ent-WeaponShotgunHelepolis = UW12-B Helepolis (12 gauge)
-    .desc = The Union Wrightworks 12-gauge breaching model \"Helepolis\", a compact shotgun that sacrifices all combat ergonomics to better serve as a breaching tool. Breaks doors with slugs. Combat use unadvised.
+    .desc = O modelo de rompimento de calibre 12 da Union Wrightworks "Helepolis", uma escopeta compacta que sacrifica toda a ergonomia de combate para servir melhor como ferramenta de rompimento. Quebra portas com slugs. Uso de combate não recomendado.
 
 ent-WeaponShotgunJack = GS-004-A Jack (4 gauge)
-    .desc = An incredibly heavy burst fire 23x75mm shotgun that loads from a belt and a specialized backpack.
+    .desc = Uma escopeta 23x75mm de fogo em rajada incrivelmente pesada que carrega de um cinto e uma mochila especializada.
 
-ent-WeaponShotgunSultanPulsar = PD-VI \"Sultan's Pulsar\" shotgun (4 gauge)
-    .desc = A beast of a bolt-action shotgun, capable of firing the Sultan's finest 4-gauge with exceptional accuracy. Overkill for most space fauna, but using this means its certain you're hunting the most dangerous game.
+ent-WeaponShotgunSultanPulsar = escopeta PD-VI "Pulsar do Sultão" (4 gauge)
+    .desc = Uma besta de uma escopeta de ação de parafuso, capaz de disparar o melhor 4-gauge do Sultão com precisão excepcional. Excesso para a maioria da fauna espacial, mas usar isso significa que é certo que você está caçando a caça mais perigosa.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/SMGs/smgs.yml
 
 ent-WeaponSubMachineGunAK220 = NCI AK-220 (9x19mm)
-    .desc = A mass produced 9x19mm bullpup SMG. The design originates from the USSP, but various TSF and PDV manufacturers produce it via licenses or suspiciously similar \"original\" designs.
+    .desc = Uma SMG bullpup 9x19mm produzida em massa. O design se origina da USSP, mas vários fabricantes da TSF e PDV produzem via licenças ou designs "originais" suspeitosamente similares.
 
 ent-WeaponSubMachineGunFirestarter = HWM Firestarter (.45 ACP)
-    .desc = An excellent fully automatic SMG. Uses .45 ACP ammo.
+    .desc = Uma SMG totalmente automática excelente. Usa munição .45 ACP.
 
 ent-WeaponSubMachineGunKnallstock = LWC Knallstock (9x19mm/.45 ACP)
-    .desc = A rugged and reliable SMG using large, rapid fire bursts. Accepts 9x19 or .45 ACP pistol magazines. Watch out for its ammo consumption.
+    .desc = Uma SMG robusta e confiável usando rajadas grandes e rápidas. Aceita carregadores de pistola 9x19 ou .45 ACP. Cuidado com o consumo de munição.
 
 ent-WeaponSubMachineGunMalandro = RS-2 Malandro (4.6x30mm)
-    .desc = A rugged, run down SMG chambered in 4.6x30mm designed for short range shootouts, featuring a 10 round burst at the cost of accuracy.
+    .desc = Uma SMG robusta e desgastada em 4.6x30mm projetada para tiroteios de curto alcance, apresentando uma rajada de 10 cartuchos ao custo da precisão.
 
-ent-WeaponSubMachineGunMla73 = SKR-WS MLA-73 (635x40mm caseless)
-    .desc = A reliable PDW design, commonly issued to pilots and AFV crewmen. This one has been modified with an integral suppressor. Legends around this weapons say it's a Corporate-Era schematic that's been built by the Phaethon Dynasty. Can take 9x19mm smg magazines in a pinch. An Erebus railmount is present on the top and bottom of the handguard for optics and grips.
+ent-WeaponSubMachineGunMla73 = SKR-WS MLA-73 (635x40mm sem estojo)
+    .desc = Um design PDW confiável, comumente emitido para pilotos e tripulantes de AFV. Este foi modificado com um supressor integral. Lendas ao redor desta arma dizem que é um esquema da Era Corporativa que foi construído pela Dinastia Phaethon. Pode aceitar carregadores de smg 9x19mm numa aperto. Um trilho Erebus está presente no topo e na parte inferior do guarda-mão para miras e empunhaduras.
 
 ent-WeaponSubMachineGunTypewriterPMC = PA Keyboard (.45 ACP)
-    .desc = A modern take on the classic design used by mobsters throughout space and time. This one is an offbrand mercenary version of the typewritter nicknamed the \"keyboard\", its barrel heat rapidly which reduce accuracy. Uses .45 ACP ammo.
+    .desc = Uma visão moderna do design clássico usado por mafiosos através do espaço e tempo. Este é uma versão mercenária offbrand da máquina de escrever apelidada de "teclado", seu cano esquenta rapidamente o que reduz precisão. Usa munição .45 ACP.
 
 ent-WeaponSubMachineGunVector45_ACP = LWC Vector (.45 ACP)
-    .desc = An excellent fully automatic SMG. Uses .45 ACP ammo. An Erebus railmount is present on the top of the reciever and the bottom of the handguard for optics and grips.
+    .desc = Uma SMG totalmente automática excelente. Usa munição .45 ACP. Um trilho Erebus está presente no topo do receptor e na parte inferior do guarda-mão para miras e empunhaduras.
 
 ent-WeaponSubMachineGunVector9x19mm = LWC Vector (9x19mm)
-    .desc = An excellent fully automatic SMG. Uses 9x19mm ammo. An Erebus railmount is present on the top of the reciever and the bottom of the handguard for optics and grips.
+    .desc = Uma SMG totalmente automática excelente. Usa munição 9x19mm. Um trilho Erebus está presente no topo do receptor e na parte inferior do guarda-mão para miras e empunhaduras.
 
 ent-WeaponSubMachineGunVectorNtsfHclm = NTSF-HCLM-45 (.45 magnum)
-    .desc = The NTSF Heavy Caliber Light Machinegun. A very high-quality heavy SMG chambered in .45 magnum for use for the Nano Trasen Security Force and NT spec-ops, from the corporate war.
+    .desc = A Metralhadora Leve de Calibre Pesado da NTSF. Uma SMG pesada de muito alta qualidade em .45 magnum para uso para a Força de Segurança da Nano Trasen e operações especiais da NT, da guerra corporativa.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Snipers/coilguns.yml
 
-ent-WeaponAMRShenzhen = TCA QBU-284 'Shenzhen' coilgun AMR
-    .desc = Magazine-fed AMR, utilizing electromagnets to fire 13.4x92mm DU-APFSDS rounds with extreme velocity.
+ent-WeaponAMRShenzhen = TCA QBU-284 'Shenzhen' rifle de ar coil AMR
+    .desc = AMR alimentado por carregador, utilizando eletroímãs para disparar cartuchos 13.4x92mm DU-APFSDS com velocidade extrema.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Snipers/snipers.yml
 
 ent-WeaponRifleAK410 = NCI AK-410 (7.62x54mmR)
-    .desc = Bullpup DMR feeding from 7.62x54mmR magazines, developed to modernize USSP long-range infantry weapons. It has an Erebus railmount attached to the reciever for optics.
+    .desc = DMR bullpup alimentado de carregadores 7.62x54mmR, desenvolvido para modernizar as armas de infantaria de longo alcance da USSP. Tem um trilho Erebus anexado ao receptor para miras.
 
 ent-WeaponRifleLeeEnfield = MI Lee Enfield Mk 98 (7.62x51mm)
-    .desc = Reliable 762x51mm sniper rifle, designed and produced by Militia Ironworks to fit modern standards sniper rifle.
+    .desc = Rifle de precisão 762x51mm confiável, projetado e produzido pela Militia Ironworks para se ajustar aos padrões modernos de rifle de precisão.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Turrets/ballistics.yml
 
-ent-BallisticTurretHeavyBase = heavy ballistic turret
-    .desc = A massively reinforced turret, firing a barrage of anti-material 7.62x51mm rounds that rip up targets and mechs alike. Woe be the fool who walks in front of this.
+ent-BallisticTurretHeavyBase = torreta balística pesada
+    .desc = Uma torreta massivamente reforçada, disparando uma barragem de cartuchos 7.62x51mm anti-material que rasgam alvos e mechas igualmente. Ai do tolo que andar na frente desta.
 
-ent-WeaponTurretHeavyRIPBase = heavy ballistic RIP turret
-    .desc = A variant on the standard heavy ballistic turret, firing a barrage of 7.62x51mm RIP ammunition to delete anything unarmored. Chimera hate these.
+ent-WeaponTurretHeavyRIPBase = torreta RIP balística pesada
+    .desc = Uma variante da torreta balística pesada padrão, disparando uma barragem de munição 7.62x51mm RIP para deletar qualquer coisa sem armadura. Quimeras odeiam estas.
 
-ent-WeaponTurretRepairableBroken = heavy ballistic RIP turret (broken)
-    .desc = Chimera prefer it like this. It looks like it can be brought back online with a bit of welding or nanites.
+ent-WeaponTurretRepairableBroken = torreta RIP balística pesada (quebrada)
+    .desc = Quimeras preferem assim. Parece que pode ser trazido de volta online com um pouco de soldagem ou nanitos.
 
 # From: _Mono/Entities/Objects/Weapons/Melee/ax.yml
 
 ent-WeaponRadAx = axium
-    .desc = A one handed ax with an ampable uranium blade, favored by IPC soldiers the galaxy round.
+    .desc = Um machado de uma mão com uma lâmina de urânio amplificável, favorecido por soldados IPC ao redor da galáxia.
 
 # From: _Mono/Entities/Objects/Weapons/Melee/generic-melee.yml
 
-ent-WeaponOverseerMace = heavy maul \"Honor\"
-    .desc = A large, weighty maul, designed to deal the pain, alongside disabling targets. But when activated, becomes an energy axe made of searing plasma, cleaving through anything in its way.
+ent-WeaponOverseerMace = malho pesado "Honra"
+    .desc = Um malho grande e pesado, projetado para infligir dor, ao lado de desabilitar alvos. Mas quando ativado, se torna um machado de energia feito de plasma candente, cortando através de qualquer coisa em seu caminho.
 
 # From: _Mono/Entities/Objects/Weapons/Melee/shockmaul.yml
 
 ent-WeaponShockMaul = tintreach
-    .desc = A heafty hammer designed for violent application of blunt force, and swift application of electrocution after. In a pinch it can serve as a defib, good for saving allies...or taking your time with a hated foe.
+    .desc = Um martelo pesado projetado para aplicação violenta de força contusa, e aplicação rápida de eletrocussão depois. Num aperto pode servir como um defibrilador, bom para salvar aliados...ou tomar seu tempo com um inimigo odiado.
 
 # From: _Mono/Entities/Objects/Weapons/Melee/sword.yml
 
-ent-UllmanPlasmaBlade = U.I. unstable plasma blade
-    .desc = A unique weapon, using welding fuel as a catalyst to ignite. The unstable plasma bursts forth with a wild, powerful flame to temporarily boost damage output.
+ent-UllmanPlasmaBlade = lâmina de plasma instável U.I.
+    .desc = Uma arma única, usando combustível de solda como catalisador para incendiar. O plasma instante eclode com uma chama selvagem e poderosa para aumentar temporariamente a saída de dano.
 
-ent-WeaponHFKatana = high-frequency blade
-    .desc = A high-frequency blade. It's incredibly powerful.
+ent-WeaponHFKatana = lâmina de alta frequência
+    .desc = Uma lâmina de alta frequência. É incrivelmente poderosa.
 
-ent-WeaponMurasama = VT-7 HF blade \"Murasama\"
-    .desc = You're the boss.
+ent-WeaponMurasama = VT-7 lâmina HF "Murasama"
+    .desc = Você é o chefe.
 
-ent-WeaponPhaseBlade = nano-laminate phaseblade
-    .desc = A heavy bladed weapon with a wicked edge, commonly seen in the hands of pre-fracture warriors. Can be activated to adjust to combat needs
+ent-WeaponPhaseBlade = fase-lâmina nano-laminada
+    .desc = Uma arma de lâmina pesada com uma borda perversa, comumente vista nas mãos de guerreiros pré-fratura. Pode ser ativada para se ajustar às necessidades de combate
 
-ent-WeaponVizierShamshir = officer's shamshir
-    .desc = A uniquely curved sword, a sharp weapon styled after weapons of old, made of pale plastitanium. Primed to strike and sever.
+ent-WeaponVizierShamshir = shamshir de oficial
+    .desc = Uma espada unicamente curvada, uma arma afiada estilizada após armas antigas, feita de plastitanio pálido. Pronta para golpear e cortar.
 
-ent-WeaponVT7 = VT-7 high-frequency blade
-    .desc = A high-frequency blade tuned with ill-advised modifications designed to sunder armor.
+ent-WeaponVT7 = lâmina de alta frequência VT-7
+    .desc = Uma lâmina de alta frequência sintonizada com modificações mal aconselhadas projetadas para romper armaduras.
 
 # From: _Mono/Entities/Objects/Weapons/Throwable/grenades.yml
 
-ent-DirtyRadGrenade = dirty bomb
-    .desc = A unique weapon, effective at area denial. After a few seconds, degrades into a highly radioactive sludge. Probably illegal in the inner sectors, but that won't stop you.
+ent-DirtyRadGrenade = bomba suja
+    .desc = Uma arma única, eficaz em negação de área. Após alguns segundos, degrada em uma lama altamente radioativa. Provavelmente ilegal nos setores internos, mas isso não vai parar você.
 
-ent-DirtyRadHeap = radioactive heap
-    .desc = Basically the elephant's foot. Even just looking at this makes you feel cancerous.
+ent-DirtyRadHeap = heap radioativo
+    .desc = Basicamente o pé do elefante. Apenas olhar para isso faz você se sentir canceroso.
 
-ent-FoamedNanolaminateMetal = foamed nanolaminate
-    .desc = For sealing hull breaches.
+ent-FoamedNanolaminateMetal = nanolaminado espumado
+    .desc = Para selar rompimentos de casco.
 
-ent-NanolaminateFoam = nanolaminate foam
+ent-NanolaminateFoam = espuma de nanolaminado
 
-ent-NanolaminateFoamGrenade = nanolaminate foam grenade
-    .desc = An advanced version of a metal foam grenade. Instead of aluminium, the foam grows a nano-reinforced alloy in a large area, capable of sustaining much more damage than aluminium.
+ent-NanolaminateFoamGrenade = granada de espuma de nanolaminado
+    .desc = Uma versão avançada de uma granada de espuma de metal. Em vez de alumínio, a espuma cresce uma liga nano-reforçada em uma grande área, capaz de sustentar muito mais dano que alumínio.
 
-ent-StickyGrenade = sticky bomb
-    .desc = An anti-tank sticky bomb based on old designs, still effective even in space. Packs a punch, but has a long delay.
+ent-StickyGrenade = bomba adesiva
+    .desc = Uma bomba adesiva anti-tanque baseada em designs antigos, ainda eficaz mesmo no espaço. Tem um pontapé, mas tem um longo atraso.
 
 # From: _Mono/Entities/Objects/Weapons/traps.yml
 
-ent-PressurePlate = pressure plate
+ent-PressurePlate = placa de pressão
 
-ent-ShotgunTrap = shotgun trap
-    .desc = A makeshift 4-gauge shotgun hooked up to a remote signaler.
+ent-ShotgunTrap = armadilha de escopeta
+    .desc = Uma escopeta 4-gauge improvisada conectada a um sinalizador remoto.
 
-ent-ShotgunTrapPacked = packed shotgun trap
-    .desc = A disassembled makeshift shotgun trap.
+ent-ShotgunTrapPacked = armadilha de escopeta embalada
+    .desc = Uma armadilha de escopeta improvisada desmontada.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Energy/launcher.yml
 
-ent-WeaponLaserTurretApollo = L-20 Apollo Mining Laser Cannon
-    .suffix = Large, T3
-    .desc = One of the Pantheon Collective's top weapons, the Apollo is aptly named for its beams heating surfaces to beyond the temperature of nearby stars.
+ent-WeaponLaserTurretApollo = Canhão de Laser de Mineração L-20 Apollo
+    .suffix = Grande, T3
+    .desc = Uma das melhores armas do Coletivo Panteão, o Apollo é apropriadamente nomeado por seus feixes aquecendo superfícies para além da temperatura de estrelas próximas.
 
-ent-WeaponLaserTurretFlayer = Curio-183 auto-coil \"Flayer\"
-    .suffix = ADS ONLY
-    .desc = A unique pre-fracture weapon, the Flayer fires a storm of tungsten alloy darts at near the speed of light, barraging targets to pieces.
+ent-WeaponLaserTurretFlayer = auto-bobina Curio-183 "Flayer"
+    .suffix = APENAS ADS
+    .desc = Uma arma pré-fratura única, o Flayer dispara uma tempestade de dardos de liga de tungstênio quase na velocidade da luz, bombardeando alvos em pedaços.
 
 ent-WeaponLaserTurretL1Phalanx = L-1 Phalanx
-    .suffix = Small, T1
-    .desc = A light laser emplacement designed by the Pantheon Collective, used to shred threats of all types.
+    .suffix = Pequeno, T1
+    .desc = Uma emplacement leve de laser projetada pelo Coletivo Panteão, usada para picar ameaças de todos os tipos.
 
-ent-WeaponLaserTurretPrometheus = TPC Prometheus Laser Cannon
-    .suffix = Medium, T2
-    .desc = A heavier laser cannon mount, after the relative failure of the Apollo and its subsequent conversion into a mining laser, the Prometheus comes to the field as the new heavy laser cannon, perfect for melting through hostile hulls.
+ent-WeaponLaserTurretPrometheus = Canhão de Laser TPC Prometheus
+    .suffix = Médio, T2
+    .desc = Uma montagem de canhão a laser mais pesada, após a falha relativa do Apollo e sua conversão subsequente em um laser de mineração, o Prometheus vem ao campo como o novo canhão a laser pesado, perfeito para derreter através de cascos hostis.
 
-ent-WeaponTurretCerberus = TPC Cerberus Plasma scattercannon
-    .suffix = Medium, T2
-    .desc = Borrowing from the design of the Marauder, the Cerberus fires very similar shots, but in a tight spread of 3 blasts
+ent-WeaponTurretCerberus = Canhão de dispersão de plasma TPC Cerberus
+    .suffix = Médio, T2
+    .desc = Emprestando do design do Marauder, o Cerberus dispara tiros muito similares, mas em uma dispersão apertada de 3 rajadas
 
-ent-WeaponTurretDymere = ADEX-9 DYMERE Turbolaser
-    .suffix = Station, T5
-    .desc = Aetherion Dynamics' most iconic supercapital battery. Fires enormous ionized gas projectiles that melt through the toughest ship armor. Can be remotely activated or linked to a GCS.
+ent-WeaponTurretDymere = Turbolaser ADEX-9 DYMERE
+    .suffix = Estação, T5
+    .desc = A bateria de supercapital mais icônica da Aetherion Dynamics. Dispara projéteis enormes de gás ionizado que derretem através da armadura de navio mais resistente. Pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretHarbringer = Curio-129 ion cannon \"Harbringer\"
-    .suffix = ADS ONLY
-    .desc = One of the most powerful EMP weapons in sector, it is a sign of doom for its targets.
+ent-WeaponTurretHarbringer = canhão de íons Curio-129 "Harbringer"
+    .suffix = APENAS ADS
+    .desc = Uma das armas de EMP mais poderosas do setor, é um sinal de fatalidade para seus alvos.
 
-ent-WeaponTurretM220 = M220 RUBICON EMP launcher
-    .suffix = Medium, T2
-    .desc = Launches EMP projectiles at ships, disabling systems with powerful electromagnetic pulses. Ideal for non-lethal engagements and can be remotely activated or linked to a GCS.
+ent-WeaponTurretM220 = Lançador de EMP M220 RUBICON
+    .suffix = Médio, T2
+    .desc = Lança projéteis EMP em navios, desabilitando sistemas com pulsos eletromagnéticos poderosos. Ideal para engajamentos não-letais e pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretM25 = M25 mining pulser
-    .desc = Uses mechanisms to launch... something. Destroys rock easily. Limited range.
+ent-WeaponTurretM25 = pulser de mineração M25
+    .desc = Usa mecanismos para lançar... algo. Destrói rochas facilmente. Alcance limitado.
 
-ent-WeaponTurretReaper = Curio-1089 tachyon lance \"Reaper\"
-    .suffix = ADS ONLY
-    .desc = A terrifying weapon to have aimed at you, the Reaper is an ancient piece of pre-fracture tech capable of shattering the strongest of hulls within one or two blasts.
+ent-WeaponTurretReaper = lança de táquions Curio-1089 "Reaper"
+    .suffix = APENAS ADS
+    .desc = Uma arma terrível de ter mirada em você, o Reaper é uma peça antiga de tecnologia pré-fratura capaz de quebrar os cascos mais fortes em uma ou duas rajadas.
 
-ent-WeaponTurretScylla = TPC Scylla plasma impulse driver
-    .suffix = Large, T3
-    .desc = A more specialized energy weapon, the Scylla fires a massive burst of plasma projectiles down range, in a huge spew to erase large and small targets alike.
+ent-WeaponTurretScylla = propulsor de impulso de plasma TPC Scylla
+    .suffix = Grande, T3
+    .desc = Uma arma de energia mais especializada, a Scylla dispara uma rajada massiva de projéteis de plasma pelo alcance, em um jato enorme para apagar alvos grandes e pequenos igualmente.
 
-ent-WeaponTurretScythe = Curio-1008 neutron repeater \"Scythe\"
-    .suffix = ADS ONLY
-    .desc = A burst firing neutron repeater, firing high-damage but slow balls of hell. A marvel of rapture weapons technology. Specializes in tunneling through anything that can't outmanuever it.
+ent-WeaponTurretScythe = repetidor de nêutrons Curio-1008 "Scythe"
+    .suffix = APENAS ADS
+    .desc = Um repetidor de nêutrons de rajada, disparando bolas de dano alto mas lentas do inferno. Uma maravilha da tecnologia de armas de rapture. Especializa-se em túneis através de qualquer coisa que não possa manobrá-lo.
 
-ent-WeaponTurretSunder = Curio-1007 proton cannon \"Sunder\"
-    .suffix = ADS ONLY
-    .desc = A potent proton cannon from before the Fracture, known for melting holes through both inorganic and organic matter with ease.
+ent-WeaponTurretSunder = canhão de prótons Curio-1007 "Sunder"
+    .suffix = APENAS ADS
+    .desc = Um canhão de prótons potente de antes da Fratura, conhecido por derreter buracos através de matéria inorgânica e orgânica com facilidade.
 
-ent-WeaponTurretTartarus = Curio-1810 antimatter particle cannon \"Tartarus\"
-    .suffix = ADS ONLY
-    .desc = A rarer, powerful cannon mounted on larger ADS units. Firing a singular particle of antimatter wrapped in energy. Annihalating sections of shuttles at a time.
+ent-WeaponTurretTartarus = canhão de partículas de antimatéria Curio-1810 "Tartarus"
+    .suffix = APENAS ADS
+    .desc = Um canhão poderoso e raro montado em unidades ADS maiores. Disparando uma partícula singular de antimatéria envolta em energia. Aniquilando seções de transladadores de cada vez.
 
-ent-WeaponTurretType241 = Curio-8640 plasma lance \"Malice\"
-    .suffix = ADS ONLY
-    .desc = A devastating weapon, known for glassing whole fleets when used en masse
+ent-WeaponTurretType241 = lança de plasma Curio-8640 "Malice"
+    .suffix = APENAS ADS
+    .desc = Uma arma devastadora, conhecida por vitrificar frotas inteiras quando usada em massa
 
-ent-WeaponTurretType35 = Type-35 MARAUDER-type plasma cannon
-    .suffix = Medium, T2
-    .desc = Launches magnetically contained balls of plasma at targets. Can be remotely activated, or linked up to a GCS.
+ent-WeaponTurretType35 = canhão de plasma Tipo-35 MARAUDER
+    .suffix = Médio, T2
+    .desc = Lança bolas de plasma magneticamente contidas em alvos. Pode ser ativado remotamente, ou vinculado a um GCS.
 
-ent-WeaponTurretType54 = Type-54C plasma autopulser
-    .suffix = Medium, T2
-    .desc = A rapidly firing energy weapon, well known for its devastating burst followed by a constant stream of plasma.
+ent-WeaponTurretType54 = autopulser de plasma Tipo-54C
+    .suffix = Médio, T2
+    .desc = Uma arma de energia de disparo rápido, bem conhecida por sua rajada devastadora seguida por um fluxo constante de plasma.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Energy/projectiles.yml
 
-ent-CerberusSpread = cerberus spread
+ent-CerberusSpread = dispersão cerberus
 
-ent-ShipAntiMatterProjectile = antimatter projectile
+ent-ShipAntiMatterProjectile = projétil de antimatéria
 
-ent-ShipAutopulserPlasmaProjectile = plasma projectile
+ent-ShipAutopulserPlasmaProjectile = projétil de plasma
 
-ent-ShipCerberusPlasma = plasma projectile
+ent-ShipCerberusPlasma = projétil de plasma
 
-ent-ShipDymereProjectile = Ionized Gas Projectile
+ent-ShipDymereProjectile = Projétil de Gás Ionizado
 
-ent-ShipGlassingBeamPlasmaProjectile = plasma projectile
+ent-ShipGlassingBeamPlasmaProjectile = projétil de plasma
 
-ent-ShipIonProjectile = ion shot
+ent-ShipIonProjectile = tiro de íons
 
-ent-ShipM25Projectile = M25 projectile
+ent-ShipM25Projectile = projétil M25
 
-ent-ShipMediumPlasmaProjectile = plasma projectile
+ent-ShipMediumPlasmaProjectile = projétil de plasma
 
-ent-ShipNeutronProjectile = neutron projectile
+ent-ShipNeutronProjectile = projétil de nêutrons
 
-ent-ShipPlasmaProjectileScylla = plasma projectile
+ent-ShipPlasmaProjectileScylla = projétil de plasma
 
-ent-ShipRubiconProjectile = EMP projectile
+ent-ShipRubiconProjectile = projétil EMP
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Cartridge/120mm_ammo.yml
 
-ent-120mmBulletAPHEDS = 120mm APHEDS projectile
+ent-120mmBulletAPHEDS = projétil APHEDS 120mm
 
-ent-120mmCartridgeAPHEDS = 120mm APHEDS shell
-    .desc = A chemically-propelled armor-piercing high-explosive discarding-sabot shell for 120mm cannons.
+ent-120mmCartridgeAPHEDS = cartucho APHEDS 120mm
+    .desc = Um cartucho de sabotagem perfurante-alto explosivo propelido quimicamente para canhões 120mm.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Cartridge/220mm_ammo.yml
 
-ent-220mmCartridgeAPHE = 220mm APHE shell
-    .desc = A chemically-propelled armor-piercing high-explosive shell for 220mm cannons.
+ent-220mmCartridgeAPHE = cartucho APHE 220mm
+    .desc = Um cartucho alto explosivo perfurante de armadura propelido quimicamente para canhões 220mm.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Cartridge/255mm_ammo.yml
 
-ent-255mmCartridgeAPHE = 255mm APHE shell
-    .desc = A chemically-propelled armor-piercing high-explosive shell for 255mm cannons.
+ent-255mmCartridgeAPHE = cartucho APHE 255mm
+    .desc = Um cartucho alto explosivo perfurante de armadura propelido quimicamente para canhões 255mm.
 
-ent-255mmCartridgeEMP = 255mm EMP shell
-    .desc = A chemically-propelled electromagnetic pulse shell for 255mm cannons.
+ent-255mmCartridgeEMP = cartucho EMP 255mm
+    .desc = Um cartucho de pulso eletromagnético propelido quimicamente para canhões 255mm.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Cartridge/430mm_ammo.yml
 
-ent-R300BulletHE = 430mm HE projectile
+ent-R300BulletHE = projétil HE 430mm
 
-ent-R300ShellHE = 430mm HE shell
-    .desc = Giant sluggish HE shell. Exclusive to the R300.
+ent-R300ShellHE = cartucho HE 430mm
+    .desc = Cartucho HE gigante lento. Exclusivo para o R300.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Cartridge/charon_ammo.yml
 
-ent-CharonSlugAmmo = M381 CHARON 280mm 26.5kg slug cartridge
-    .desc = An all-in-one package containing plasma gas accelerant and a high-density tungsten slug. Cheap, devastating, and long ranged.
+ent-CharonSlugAmmo = cartucho de slug M381 CHARON 280mm 26.5kg
+    .desc = Um pacote tudo-em-um contendo gás acelerador de plasma e um slug de tungstênio de alta densidade. Barato, devastador, e de longo alcance.
 
-ent-CharonSubnuclearSlugAmmo = M381 CHARON 280mm 1.5kt nuclear slug cartridge
-    .desc = NUCLEAR. CARNAGE. An all-in-one package containing plasma gas accelerant, and a low-yield fission warhead. May cause public outcry, but you *had* to use this, right?
+ent-CharonSubnuclearSlugAmmo = cartucho de slug nuclear M381 CHARON 280mm 1.5kt
+    .desc = NUCLEAR. CARNIFICINA. Um pacote tudo-em-um contendo gás acelerador de plasma, e uma ogiva de fissão de baixo rendimento. Pode causar clamor público, mas você *tinha* que usar isso, certo?
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Cartridge/tarnyx_150mm_ammo.yml
 
-ent-150mmApShell = 150mm AP shell
-    .desc = A chemically-propelled AP shell for 150mm cannons. Its not very good, as most 150mm cannons are optimized for EMP shells. Its a crude method, and it certainly wouldn't pass a TSFN inspection.
+ent-150mmApShell = cartucho AP 150mm
+    .desc = Um cartucho AP propelido quimicamente para canhões 150mm. Não é muito bom, já que a maioria dos canhões 150mm são otimizados para cartuchos EMP. É um método cru, e certamente não passaria por uma inspeção da TSFN.
 
-ent-150mmEmpShell = 150mm EMP shell
-    .desc = A chemically-propelled EMP shell, used in 150mm cannons such as the TARNYX. Nothing fancy.
+ent-150mmEmpShell = cartucho EMP 150mm
+    .desc = Um cartucho EMP propelido quimicamente, usado em canhões 150mm como o TARNYX. Nada de extravagante.
 
-ent-ShipTarnyxApProjectile = TARNYX 150mm AP projectile
+ent-ShipTarnyxApProjectile = projétil AP TARNYX 150mm
 
-ent-ShipTarnyxProjectile = TARNYX 150mm EMP projectile
+ent-ShipTarnyxProjectile = projétil EMP TARNYX 150mm
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/charon_launcher.yml
 
-ent-WeaponTurretCharon = M381 CHARON mass driver
-    .suffix = Station, Recharging Ammo
-    .desc = A capital-class railgun that fires a massive slug at extreme velocity, capable of catastrophic damage to enemy ships. Heavy linear accelerator, can be remotely activated or linked up to a GCS. This one feeds from an autoloader somewhere, and doesn't need manual reloads.
+ent-WeaponTurretCharon = propulsor de massa M381 CHARON
+    .suffix = Estação, Recarregando Munição
+    .desc = Um canhão elétrico de classe capital que dispara um slug massivo em velocidade extrema, capaz de dano catastrófico a navios inimigos. Acelerador linear pesado, pode ser ativado remotamente ou vinculado a um GCS. Este se alimenta de um carregador automático em algum lugar, e não precisa recargas manuais.
 
 # Abstract entity (referenceable by children)
-ent-WeaponTurretCharonBase = M381 CHARON mass driver
+ent-WeaponTurretCharonBase = propulsor de massa M381 CHARON
     .suffix = Capital, T4
 
-ent-WeaponTurretCharonReload = M381 CHARON mass driver
-    .suffix = Spinal, T4
-    .desc = A capital-class railgun that fires a massive slug at extreme velocity, capable of catastrophic damage to enemy ships. Heavy linear accelerator, can be remotely activated or linked up to a GCS.
+ent-WeaponTurretCharonReload = propulsor de massa M381 CHARON
+    .suffix = Espinal, T4
+    .desc = Um canhão elétrico de classe capital que dispara um slug massivo em velocidade extrema, capaz de dano catastrófico a navios inimigos. Acelerador linear pesado, pode ser ativado remotamente ou vinculado a um GCS.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/drone_kinetic.yml
 
-ent-WeaponTurretFragment = \"Fragment\" modified mass driver
+ent-WeaponTurretFragment = propulsor de massa modificado "Fragment"
     .suffix = Drone T2
-    .desc = Appears to be a heavily modified \"Shard\" mass driver. Unstable and rarely found in the wild.
+    .desc = Parece ser um propulsor de massa "Shard" pesadamente modificado. Instável e raramente encontrado na natureza.
 
-ent-WeaponTurretPinhole = Pinhole-class railgun
+ent-WeaponTurretPinhole = canhão elétrico classe Pinhole
     .suffix = Drone T2
-    .desc = Mass driver weapon of unknown origin. Reverse engineering attempts have indicated extremely high projectile velocity and high-mass projectiles with unresolved ship-pushing payload.
+    .desc = Arma de propulsor de massa de origem desconhecida. Tentativas de engenharia reversa indicaram velocidade de projétil extremamente alta e projéteis de massa alta com carga de empurrar navio não resolvida.
 
-ent-WeaponTurretShard = Light mass driver \"Shard\"
+ent-WeaponTurretShard = propulsor de massa leve "Shard"
     .suffix = Drone T1
-    .desc = Ultralight mass driver weapon of unknown origin, designated \"Shard\" during initial reverse engineering attempts. Light damage, but long range and little upkeep to mount on ships.
+    .desc = Arma de propulsor de massa ultraleve de origem desconhecida, designada "Shard" durante tentativas iniciais de engenharia reversa. Dano leve, mas longo alcance e pouca manutenção para montar em navios.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/flarelauncher.yml
 
-ent-WeaponTurretFlare = GS-002 Sunny flare system
+ent-WeaponTurretFlare = sistema de sinalizador GS-002 Sunny
     .suffix = T1
-    .desc = A relatively small flare flinging hardpoint used to fool heat seeking missiles. Also good for search and rescue.
+    .desc = Um ponto de fixação de lançamento de sinalizador relativamente pequeno usado para enganar mísseis de busca de calor. Também bom para busca e resgate.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Magazine/140mm_ammo.yml
 
-ent-140mmCartridge = cartridge (140mm HEAT)
+ent-140mmCartridge = cartucho (140mm HEAT)
 
-ent-Magazine140mm = 140mm APHE ammo loader
-    .desc = An ammunition loader containing infinite 140mm APHE rounds. Usable by vessel-mounted artillery pieces.
+ent-Magazine140mm = carregador de munição APHE 140mm
+    .desc = Um carregador de munição contendo cartuchos APHE 140mm infinitos. Usável por peças de artilharia montadas em navios.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Magazine/20mm_ammo.yml
 
-ent-20mmCartridge = cartridge (20mm Solid)
+ent-20mmCartridge = cartucho (20mm Sólido)
 
-ent-Magazine20mm = 20mm solid ammo loader
-    .desc = An ammunition loader containing infinite 20mm solid rounds. Usable by vessel-mounted artillery pieces.
+ent-Magazine20mm = carregador de munição sólida 20mm
+    .desc = Um carregador de munição contendo cartuchos sólidos 20mm infinitos. Usável por peças de artilharia montadas em navios.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Magazine/30mm_ammo.yml
 
-ent-30mmCartridge = cartridge (30x173mm AP)
+ent-30mmCartridge = cartucho (30x173mm AP)
 
-ent-Magazine30mm = 30mm solid ammo loader
-    .desc = An ammunition loader containing infinite 30mm solid rounds. Usable by vessel-mounted artillery pieces.
+ent-Magazine30mm = carregador de munição sólida 30mm
+    .desc = Um carregador de munição contendo cartuchos sólidos 30mm infinitos. Usável por peças de artilharia montadas em navios.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Magazine/57mm_ammo.yml
 
-ent-57mmCartridgeHE = cartridge (57mm HE)
+ent-57mmCartridgeHE = cartucho (57mm HE)
 
-ent-Magazine57mmHE = 57mm HE ammo loader
-    .desc = An ammunition loader containing infinite 57mm high-explosive rounds. Usable by vessel-mounted artillery pieces.
+ent-Magazine57mmHE = carregador de munição HE 57mm
+    .desc = Um carregador de munição contendo cartuchos alto explosivos 57mm infinitos. Usável por peças de artilharia montadas em navios.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Magazine/90mm_ammo.yml
 
-ent-90mmCartridgeAP = cartridge (90mm AP)
+ent-90mmCartridgeAP = cartucho (90mm AP)
 
-ent-90mmCartridgeHE = cartridge (90mm HE)
+ent-90mmCartridgeHE = cartucho (90mm HE)
 
-ent-90mmMagazineAP = 90mm AP ammo loader
-    .desc = An ammunition loader containing infinite 90mm armor-piercing rounds. Usable by 90mm vessel-mounted artillery pieces.
+ent-90mmMagazineAP = carregador de munição AP 90mm
+    .desc = Um carregador de munição contendo cartuchos perfurantes de armadura 90mm infinitos. Usável por peças de artilharia montadas em navios 90mm.
 
-ent-90mmMagazineHE = 90mm HE ammo loader
-    .desc = An ammunition loader containing infinite 90mm high-explosive rounds. Usable by 90mm vessel-mounted artillery pieces.
+ent-90mmMagazineHE = carregador de munição HE 90mm
+    .desc = Um carregador de munição contendo cartuchos alto explosivos 90mm infinitos. Usável por peças de artilharia montadas em navios 90mm.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/Magazine/flare_ammo.yml
 
-ent-SunnyCartridge = Packaged flare
-    .desc = An individual electronically activated flare for the GS-002 countermeasure system.
+ent-SunnyCartridge = Sinalizador embalado
+    .desc = Um sinalizador individualmente ativado eletronicamente para o sistema de contramedida GS-002.
 
-ent-SunnyMagazine = Sunny flare autoloader
+ent-SunnyMagazine = carregador automático de sinalizador Sunny
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/projectiles.yml
 
-ent-140mmBulletAPHE = 140mm APHE projectile
+ent-140mmBulletAPHE = projétil APHE 140mm
 
-ent-20mmBullet = 20mm bullet
+ent-20mmBullet = bala 20mm
 
-ent-220mmBulletAPHE = 220mm APHE projectile
+ent-220mmBulletAPHE = projétil APHE 220mm
 
-ent-220mmBulletHE = 220mm HE projectile
+ent-220mmBulletHE = projétil HE 220mm
 
-ent-255mmBulletAPHE = 255mm APHE projectile
+ent-255mmBulletAPHE = projétil APHE 255mm
 
-ent-255mmBulletEMP = 255mm EMP projectile
+ent-255mmBulletEMP = projétil EMP 255mm
 
 ent-90mmBulletAP = {ent-90mmBulletBase}
 
 # Abstract entity (referenceable by children)
-ent-90mmBulletBase = shell
+ent-90mmBulletBase = cartucho
 
 ent-90mmBulletHE = {ent-90mmBulletBase}
 
 ent-AdderBullet = AdderBullet
 
-ent-ShipLeviathanProjectile = LEVIATHAN 520mm projectile
+ent-ShipLeviathanProjectile = projétil LEVIATHAN 520mm
 
-ent-ShipRailgunProjectile = M381 CHARON 280mm 26.5 kg slug
+ent-ShipRailgunProjectile = slug M381 CHARON 280mm 26.5 kg
 
-ent-ShipRailgunProjectileSubnuclear = M381 CHARON 280mm 1.5kt nuclear slug
-    .desc = Once the genie is out of the bottle, there's no putting it back inside, tarkhan.
+ent-ShipRailgunProjectileSubnuclear = slug nuclear M381 CHARON 280mm 1.5kt
+    .desc = Uma vez que o gênio saiu da garrafa, não há como colocá-lo de volta, tarkhan.
 
-ent-ShipSunnyFlare = ECM Flare
+ent-ShipSunnyFlare = Sinalizador ECM
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/standardlarge_kinetic.yml
 
-ent-WeaponTurretAk820 = AK820 120mm autocannon
-    .suffix = Large, T4
-    .desc = Large hard hitting naval gun for steady damage. Fires APHEDS rounds, allowing for enhanced penetration, but not as much explosive power as full-sized APHE rounds. Feeds from an 96 round internal magazine.
+ent-WeaponTurretAk820 = autocanhão AK820 120mm
+    .suffix = Grande, T4
+    .desc = Arma naval grande e dura para dano constante. Dispara cartuchos APHEDS, permitindo penetração aprimorada, mas não tanto poder explosivo quanto cartuchos APHE de tamanho completo. Alimenta-se de um carregador interno de 96 cartuchos.
 
-ent-WeaponTurretBofors = Bofors 255mm cannon
-    .suffix = Large, T4
-    .desc = A single-barrel, heavy artillery cannon designed for cruisers, delivering massive impact with each long-range shot. Can be remotely activated or linked up to a GCS.
+ent-WeaponTurretBofors = canhão Bofors 255mm
+    .suffix = Grande, T4
+    .desc = Um canhão de artilharia pesado de cano único projetado para cruzadores, entregando impacto massivo com cada tiro de longo alcance. Pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretCyrexa = CYREXA 220mm cannon
-    .suffix = Large, T4
-    .desc = A main battery with dual barrels, delivering rapid, punishing salvos at extreme range. Fires 220mm auto shells with slightly reduced brute strength. Can be remotely activated or linked up to a GCS.
+ent-WeaponTurretCyrexa = canhão CYREXA 220mm
+    .suffix = Grande, T4
+    .desc = Uma bateria principal com canos duplos, entregando salvos rápidos e punitivos em alcance extremo. Dispara cartuchos auto 220mm com força bruta ligeiramente reduzida. Pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretHades = HADES 255mm cannon
-    .suffix = Capital/Station, T4
-    .desc = One of the largest chemical-based kinetic weapons in the sector. Its power is only rivaled by mass drivers such as the M381. Automatically reloads full-power 255mm shells.
+ent-WeaponTurretHades = canhão HADES 255mm
+    .suffix = Capital/Estação, T4
+    .desc = Uma das maiores armas cinéticas baseadas em química do setor. Seu poder é apenas rivalado por propulsores de massa como o M381. Recarrega automaticamente cartuchos 255mm de potência completa.
 
-ent-WeaponTurretLongbow = L/65 \"Longbow\" 140mm autocannon
-    .suffix = Capital/Station, T4
-    .desc = Fires 140mm shells in a 15 round burst from an internal autoloader.
+ent-WeaponTurretLongbow = autocanhão L/65 "Longbow" 140mm
+    .suffix = Capital/Estação, T4
+    .desc = Dispara cartuchos 140mm em uma rajada de 15 cartuchos de um carregador automático interno.
 
-ent-WeaponTurretR300 = R-300 430mm howitzer
-    .suffix = Capital/Station, T4
-    .desc = A giant, stupid howitzer. A stupid low velocity, a stupid long reload, and a stupidly powerful explosion if you can get it to hit. No AP whatsover.
+ent-WeaponTurretR300 = obus R-300 430mm
+    .suffix = Capital/Estação, T4
+    .desc = Um obus gigante e estúpido. Uma velocidade estupidamente baixa, uma recarga estupidamente longa, e uma explosão estupidamente poderosa se você conseguir acertar. Sem AP absolutamente.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/standardlight_kinetic.yml
 
-ent-WeaponTurretL85Autocannon = L85 20mm autocannon
-    .suffix = Small, T1
-    .desc = A light 20mm ballistic autocannon designed for rapid fire point defense and suppressing smaller targets at close range. Cheap, light, and can be remotely activated or linked up to a GCS.
+ent-WeaponTurretL85Autocannon = autocanhão L85 20mm
+    .suffix = Pequeno, T1
+    .desc = Um autocanhão balístico leve 20mm projetado para defesa de ponto de fogo rápido e suprimindo alvos menores em curto alcance. Barato, leve, e pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretRAC30 = RAC-30 Draupnir Autocannon
-    .suffix = Medium, T2
-    .desc = A heavy duty rapid fire 30mm autocannon, originally mounted as a dogfighting weapon on atmospheric craft.
+ent-WeaponTurretRAC30 = Autocanhão Draupnir RAC-30
+    .suffix = Médio, T2
+    .desc = Um autocanhão 30mm de fogo rápido de serviço pesado, originalmente montado como arma de briga de cães em aeronaves atmosféricas.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/standardmedium_kinetic.yml
 
-ent-WeaponTurretAK570 = AK570 57mm autocannon
-    .suffix = Medium, T2
-    .desc = A dual-barrel, heavy 57mm autocannon firing general-purpose APHE rounds, effective for sustained fire against medium targets. Can be remotely activated or linked up to a GCS.
+ent-WeaponTurretAK570 = autocanhão AK570 57mm
+    .suffix = Médio, T2
+    .desc = Um autocanhão pesado 57mm de cano duplo disparando cartuchos APHE de propósito geral, eficaz para fogo sustentado contra alvos médios. Pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretDravon = ADBP-7 DRAVON 90mm Autocannon
-    .suffix = Medium, T2
-    .desc = A single-barrel autocannon made by Aetherion Dynamics. Medium artillery piece with high impact but relatively low fire rate, firing HEAT shells to damage ship armor and systems. Can be remotely activated or linked up to a GCS.
+ent-WeaponTurretDravon = Autocanhão DRAVON ADBP-7 90mm
+    .suffix = Médio, T2
+    .desc = Um autocanhão de cano único feito pela Aetherion Dynamics. Peça de artilharia média com alto impacto mas taxa de fogo relativamente baixa, disparando cartuchos HEAT para danificar armadura e sistemas de navios. Pode ser ativado remotamente ou vinculado a um GCS.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/syndicate_kinetic.yml
 
-ent-WeaponTurretAdderScattercannon = Adder scattercannon
-    .suffix = Small, T1
-    .desc = A large, twin-barrelled scatter cannon, firing bursts of canister shot to shred any incoming missiles or potential boarders. Uses a self loading mechanism similar to the anaconda handgun.
+ent-WeaponTurretAdderScattercannon = canhão de dispersão Adder
+    .suffix = Pequeno, T1
+    .desc = Um canhão de dispersão grande de canos duplos, disparando rajadas de tiro de canister para picar qualquer míssil entrante ou potenciais invasores. Usa um mecanismo de auto-carregamento similar ao da arma de fogo anaconda.
 
-ent-WeaponTurretFang = Fang heavy 90mm autocannon
-    .suffix = Medium, T3
-    .desc = A heavy 90mm autocannon of syndicate design, created during the corporate war. Made for shattering opponent destroyers. Uses a self loading mechanism similar to the anaconda handgun.
+ent-WeaponTurretFang = autocanhão pesado Fang 90mm
+    .suffix = Médio, T3
+    .desc = Um autocanhão pesado 90mm de design do Sindicato, criado durante a guerra corporativa. Feito para quebrar destróieres oponentes. Usa um mecanismo de auto-carregamento similar ao da arma de fogo anaconda.
 
-ent-WeaponTurretHydra = Hydra 220mm battery
-    .suffix = Large, T3
-    .desc = A main cannonade of syndicate origin, the hydra is a monstrous tri-barreled battery of 220-millimeter pain, designed to shatter corpations' toughest vessels. Loads with a similar mechanism as the anaconda handgun.
+ent-WeaponTurretHydra = bateria Hydra 220mm
+    .suffix = Grande, T3
+    .desc = Uma canhonada principal de origem do Sindicato, a hydra é uma bateria tri-canada monstruosa de dor de 220-milímetros, projetada para quebrar os vasos mais duros das corporações. Carrega com um mecanismo similar ao da arma de fogo anaconda.
 
-ent-WeaponTurretLeviathan = LEVIATHAN 520mm howitzer
+ent-WeaponTurretLeviathan = obus LEVIATHAN 520mm
     .suffix = Capital, T5
-    .desc = A heavy artillery gun of syndicate origin, the leviathan is tyrannic testiment of Syndicate ingenuity, designed to send a message. Able to crack NanoTrasen battleships, and small fighters in a single shell. Loads with a similar mechanism as the anaconda handgun.
+    .desc = Uma arma de artilharia pesada de origem do Sindicato, o leviathan é um testamento tirânico da engenhosidade do Sindicato, projetado para enviar uma mensagem. Capaz de rachar navios de batalha da NanoTrasen, e pequenos caças em um único cartucho. Carrega com um mecanismo similar ao da arma de fogo anaconda.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/tarnyx_launcher.yml
 
-ent-WeaponTurretTarnyx = ADBX-31 TARNYX 150mm EMP Cannon
-    .suffix = Station, Recharging Ammo, EMP
-    .desc = A heavy EMP cannon made by Aetherion Dynamics, designed to disable large sections of enemy ships with a single, powerful shot. Effective in asymmetric combat. Can be remotely activated or linked up to a GCS.
+ent-WeaponTurretTarnyx = Canhão de EMP ADBX-31 TARNYX 150mm
+    .suffix = Estação, Recarregando Munição, EMP
+    .desc = Um canhão de EMP pesado feito pela Aetherion Dynamics, projetado para desabilitar grandes seções de navios inimigos com um único tiro poderoso. Eficaz em combate assimétrico. Pode ser ativado remotamente ou vinculado a um GCS.
 
-ent-WeaponTurretTarnyxReload = ADBX-31 TARNYX 150mm EMP Cannon
-    .suffix = Medium, T2 - Infinite EMP
-    .desc = A heavy EMP cannon made by Aetherion Dynamics, designed to disable large sections of enemy ships with a single, powerful shot. Effective in asymmetric combat. Can be remotely activated or linked up to a GCS.
+ent-WeaponTurretTarnyxReload = Canhão de EMP ADBX-31 TARNYX 150mm
+    .suffix = Médio, T2 - EMP Infinito
+    .desc = Um canhão de EMP pesado feito pela Aetherion Dynamics, projetado para desabilitar grandes seções de navios inimigos com um único tiro poderoso. Eficaz em combate assimétrico. Pode ser ativado remotamente ou vinculado a um GCS.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Kinetic/thantos_launcher.yml
 
-ent-WeaponTurretThanatos = THANATOS twin mass driver
-    .suffix = Station, T5
-    .desc = The charon's mean older brother, the Thanatos is a force to be reckoned with. It can be remotely activated or linked up to a GCS. This one feeds from an autoloader somewhere, and doesn't need manual reloads.
+ent-WeaponTurretThanatos = propulsor de massa gêmeo THANATOS
+    .suffix = Estação, T5
+    .desc = O irmão mais velho mean do charon, o Thanatos é uma força para ser reconhecida. Pode ser ativado remotamente ou vinculado a um GCS. Este se alimenta de um carregador automático em algum lugar, e não precisa recargas manuais.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/Cartridge/bomb_bay_ammo.yml
 
-ent-LightFighterOrdinanceGPOItem = GPO-L 50kg Unguided Bomb
-    .desc = A fairly durable and relatively high yield explosive payload. Rarely seen in conventional space combat and a remnant of ground-based warfare, bombs can deal devastating damage... if they manage to hit their target. It can fit in a light GPOL housing.
+ent-LightFighterOrdinanceGPOItem = Bomba Não Guiada GPO-L 50kg
+    .desc = Uma carga explosiva bastante durável e de rendimento relativamente alto. Raramente vista em combate espacial convencional e um remanescente de guerra terrestre, bombas podem infligir dano devastador... se elas conseguirem acertar seu alvo. Pode se encaixar em um housing GPOL leve.
 
-ent-LightFighterOrdinanceGPOProjectile = GPO-L 50kg Unguided Bomb
-    .desc = Just passing by.
+ent-LightFighterOrdinanceGPOProjectile = Bomba Não Guiada GPO-L 50kg
+    .desc = Apenas passando.
 
-ent-LightFighterOrdinanceQuasarItem = AD-901 \"QUASAR\" disposable hyperpenetrator
-    .desc = A costly and experimental foray into the minification of hyperaccelerator technologies for use on smaller spaceframes, the QUASAR hyperpenetrator is a relatively weak, but fast-moving munition impervious to most anti-munition weapons. It can fit in a light GPOL housing.
+ent-LightFighterOrdinanceQuasarItem = hiperpenetrador descartável AD-901 "QUASAR"
+    .desc = Uma incursão cara e experimental na miniaturização de tecnologias de hiperacelerador para uso em quadros espaciais menores, o hiperpenetrador QUASAR é uma munição relativamente fraca, mas de movimento rápido impérvio à maioria das armas anti-munição. Pode se encaixar em um housing GPOL leve.
 
-ent-LightFighterOrdinanceQuasarProjectile = QUASAR hyperpenetrator
+ent-LightFighterOrdinanceQuasarProjectile = hiperpenetrador QUASAR
 
-ent-LightFighterOrdinanceZenithItem = ASM(LF)5 \"Zenith\" Anti-Ship Warhead
-    .desc = A military-grade guided missile usually deployed by light spacecraft. Capable of significant damage and more easy to hit targets with than a bomb, the Zenith is accurate and fast, but not durable. It can fit in a light GPOL housing.
+ent-LightFighterOrdinanceZenithItem = Ogiva Anti-Navio ASM(LF)5 "Zenith"
+    .desc = Um míssil guiado de grau militar geralmente implantado por naves espaciais leves. Capaz de dano significativo e mais fácil de acertar alvos que uma bomba, o Zenith é preciso e rápido, mas não durável. Pode se encaixar em um housing GPOL leve.
 
-ent-LightFighterOrdinanceZenithProjectile = ASM(LF) \"Zenith\" Anti-Ship Warhead
+ent-LightFighterOrdinanceZenithProjectile = Ogiva Anti-Navio ASM(LF) "Zenith"
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/Cartridge/tovek_ammo.yml
 
-ent-MissileCartridge250mm = 250mm HEAT missile
-    .desc = An individual ASM-250 HEAT missile for a Tovek/Paladin launcher.
+ent-MissileCartridge250mm = míssil HEAT 250mm
+    .desc = Um míssil HEAT ASM-250 individual para um lançador Tovek/Paladin.
 
-ent-PaladinMagazine = Paladin 250mm HE missile autoloader
+ent-PaladinMagazine = carregador automático de míssil HE 250mm Paladin
 
-ent-PaladinMagazineEMPHE = Paladin 250mm EMPHE missile autoloader
+ent-PaladinMagazineEMPHE = carregador automático de míssil EMPHE 250mm Paladin
 
-ent-TovekCartridge = 250mm EMPHE missile
-    .desc = An individual ASM-250 EMPHE missile for a Tovek/Paladin launcher.
+ent-TovekCartridge = míssil EMPHE 250mm
+    .desc = Um míssil EMPHE ASM-250 individual para um lançador Tovek/Paladin.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/Cartridge/trident_ammo.yml
 
-ent-Asm220TorpedoECM = ASM-220 ECM torpedo
-    .desc = Compared to a standard HE torpedo, this one is much more destructive to electronics due to an EMP payload installed inside, though it's almost completely harmless to the hull.
+ent-Asm220TorpedoECM = torpedo ECM ASM-220
+    .desc = Comparado a um torpedo HE padrão, este é muito mais destrutivo para eletrônicos devido a uma carga EMP instalada dentro, embora seja quase completamente inofensivo ao casco.
 
-ent-Asm220TorpedoHE = ASM-220 high-explosive torpedo
-    .desc = Contains a large explosive payload. High-Explosive is an understatement.
+ent-Asm220TorpedoHE = torpedo alto explosivo ASM-220
+    .desc = Contém uma carga explosiva grande. Alto Explosivo é um eufemismo.
 
-ent-Asm220TorpedoLOSAT = ASM-220 LOSAT missile
-    .desc = Effectively a large plastitanium hyper-penetrator. Tears through hull with ease.
+ent-Asm220TorpedoLOSAT = míssil LOSAT ASM-220
+    .desc = Efetivamente um hiperpenetrador de plastitanio grande. Rasga através de cascos com facilidade.
 
-ent-ShipMissileASM220ECM = ASM-220 torpedo (ECM)
+ent-ShipMissileASM220ECM = torpedo ASM-220 (ECM)
 
-ent-ShipMissileASM220HE = ASM-220 torpedo (HE)
+ent-ShipMissileASM220HE = torpedo ASM-220 (HE)
 
-ent-ShipMissileASM220LOSAT = ASM-220 LOSAT hyper-penetrator
+ent-ShipMissileASM220LOSAT = hiperpenetrador LOSAT ASM-220
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/Cartridge/vanyk_ammo.yml
 
-ent-VanquisherMagazine = Vanquisher 150mm HE missile autoloader
+ent-VanquisherMagazine = carregador automático de míssil HE 150mm Vanquisher
 
-ent-VanykCartridge = 150mm HEAT missile
-    .desc = An individual ASM-150 HEAT missile used in the Vanyk.
+ent-VanykCartridge = míssil HEAT 150mm
+    .desc = Um míssil HEAT ASM-150 individual usado no Vanyk.
 
-ent-VanykCartridgeUnguided = 150mm HEAT unguided missile
+ent-VanykCartridgeUnguided = míssil não guiado HEAT 150mm
 
-ent-VanykMagazine = Vanyk 150mm HE missile autoloader
+ent-VanykMagazine = carregador automático de míssil HE 150mm Vanyk
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/Cartridge/vespera_ammo.yml
 
-ent-MissileCartridge50mmHE = 50mm HE missile
-    .desc = An individual ADMP-50 high-explosive missile for a 50mm missile launcher.
+ent-MissileCartridge50mmHE = míssil HE 50mm
+    .desc = Um míssil alto explosivo ADMP-50 individual para um lançador de mísseis 50mm.
 
-ent-MissileMagazine50mmHE = Vespera 50mm HE missile autoloader
+ent-MissileMagazine50mmHE = carregador automático de míssil HE 50mm Vespera
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/launcher.yml
 
-ent-WeaponTurretSerpentMissile = Serpent torpedo launcher
-    .desc = A light torpedo launcher developed by the Syndicate during the corporate war, uses similar systems to the anaconda for self loading munitons.
+ent-WeaponTurretSerpentMissile = lançador de torpedos Serpent
+    .desc = Um lançador de torpedos leve desenvolvido pelo Sindicato durante a guerra corporativa, usa sistemas similares ao anaconda para munições de auto-carregamento.
 
-ent-WeaponTurretTorpedoEntropy = Curio-1602 electron torpedo launcher \"Entropy\"
-    .suffix = ADS ONLY
-    .desc = An odd weapon of the pre-fracture era, it projects a mass of electrons that seek out the positive charge of nearby targets, overloading systems and shattering sections of hull.
+ent-WeaponTurretTorpedoEntropy = lançador de torpedos de elétrons Curio-1602 "Entropy"
+    .suffix = APENAS ADS
+    .desc = Uma arma estranha da era pré-fratura, projeta uma massa de elétrons que buscam a carga positiva de alvos próximos, sobrecarregando sistemas e quebrando seções de casco.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/light_bomb_bay.yml
 
-ent-WeaponTurretLightMunitionsBay = GPOB-L Light Munitions Bay
-    .desc = A relatively small, armored munitions bay capable of holding up to two lightweight ordinance packages. Typically found on light spacecraft, particularly bombers, and provide a limited use method of damaging targets far above the user's weight class.
+ent-WeaponTurretLightMunitionsBay = Baía de Munições Leves GPOB-L
+    .desc = Uma baía de munições relativamente pequena e blindada capaz de segurar até dois pacotes de ordenança leve. Tipicamente encontrado em naves espaciais leves, particularmente bombardeiros, e fornece um método de uso limitado de danificar alvos muito acima da classe de peso do usuário.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/mpssm.yml
 
-ent-RocketMk248 = MPSSM Mk.248 HEAT rocket
+ent-RocketMk248 = foguete HEAT MPSSM Mk.248
 
-ent-ShipMissileASM19 = MPSSM  anti-ship EMPHE missile
+ent-ShipMissileASM19 = míssil EMPHE anti-navio MPSSM
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/paladin_launcher.yml
 
-ent-WeaponTurretPaladin = MLRS-382 \"Paladin\" Missile Pod
-    .suffix = Large, T4
-    .desc = Heavy missile pod firing 250mm guided rockets in bursts of 4.
+ent-WeaponTurretPaladin = Pod de Mísseis MLRS-382 "Paladin"
+    .suffix = Grande, T4
+    .desc = Pod de mísseis pesado disparando foguetes guiados 250mm em rajadas de 4.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/projectiles.yml
 
-ent-MissileProjectile50mmHE = ASM-50 50mm Mini Missile
+ent-MissileProjectile50mmHE = Mini Míssil ASM-50 50mm
 
-ent-ShipMissileASM150 = ASM-150 150mm missile
+ent-ShipMissileASM150 = míssil ASM-150 150mm
 
-ent-ShipMissileASM150Unguided = ASM-150 150mm missile
+ent-ShipMissileASM150Unguided = míssil ASM-150 150mm
 
-ent-ShipMissileASM250 = ASM-250 Hybrid EMP Missile
+ent-ShipMissileASM250 = Míssil Híbrido EMP ASM-250
 
-ent-ShipMissileASM250HEAT = 250mm HEAT missile
+ent-ShipMissileASM250HEAT = míssil HEAT 250mm
 
-ent-ShipMissileEntropy = electron torpedo
+ent-ShipMissileEntropy = torpedo de elétrons
 
-ent-ShipMissileSerpent = serpent torpedo
+ent-ShipMissileSerpent = torpedo serpent
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/tovek_launcher.yml
 
-ent-WeaponTurretTovek = ADMX-250 TOVEK Missile Pod
-    .desc = A 250mm missile pod created by Aetherion Dynamics. Fires 250mm warheads to devastate enemy ships at long range. Can be remotely activated or linked to a GCS.
+ent-WeaponTurretTovek = Pod de Mísseis ADMX-250 TOVEK
+    .desc = Um pod de mísseis 250mm criado pela Aetherion Dynamics. Dispara ogivas 250mm para devastar navios inimigos em longo alcance. Pode ser ativado remotamente ou vinculado a um GCS.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/trident_launcher.yml
 
-ent-WeaponTurretASM220 = ASM-220 \"Trident\" Torpedo Rack
-    .desc = A heavy built-in torpedo rack for cruisers which relies on manual loading, usually done at harbor. Despite this, it has the largest missiles in the sector.
+ent-WeaponTurretASM220 = Rack de Torpedos ASM-220 "Trident"
+    .desc = Um rack de torpedos pesado embutido para cruzadores que depende de carregamento manual, geralmente feito no porto. Apesar disso, tem os maiores mísseis do setor.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/vanquisher_launcher.yml
 
-ent-WeaponTurretVanquisher = SRM-573 \"Vanquisher\" Missile Pod
-    .suffix = Large, T4
-    .desc = A short-ranged missile pod firing 150mm unguided rockets with devastating fire rate.
+ent-WeaponTurretVanquisher = Pod de Mísseis SRM-573 "Vanquisher"
+    .suffix = Grande, T4
+    .desc = Um pod de mísseis de curto alcance disparando foguetes não guiados 150mm com taxa de fogo devastadora.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/vanyk_launcher.yml
 
-ent-WeaponTurretVanyk = ASM-150 \"Vanyk\" Missile Pod
-    .desc = An escort missile pod manufactured by Aetherion Dynamics. Launches 150mm guided missiles for basic ship-to-ship combat and area denial. Uses a built-in autoloader instead of a rack, increasing capacity but reducing rate of fire. Can be remotely activated or linked to a GCS.
+ent-WeaponTurretVanyk = Pod de Mísseis ASM-150 "Vanyk"
+    .desc = Um pod de mísseis de escolta fabricado pela Aetherion Dynamics. Lança mísseis guiados 150mm para combate navio-a-navio básico e negação de área. Usa um carregador automático embutido em vez de um rack, aumentando capacidade mas reduzindo taxa de fogo. Pode ser ativado remotamente ou vinculado a um GCS.
 
 # From: _Mono/Entities/SpaceArtillery/SpaceArtillery/Missile/vespera_launcher.yml
 
-ent-WeaponTurretVespera = ADMP-50 VESPERA Missile Rack
-    .desc = A rapid-fire swarm missile rack manufactured by Aetherion Dynamics. Saturates targets with guided warheads to overwhelm defenses. Limited ammo, but deadly. Can be remotely activated or linked to a GCS.
+ent-WeaponTurretVespera = Rack de Mísseis ADMP-50 VESPERA
+    .desc = Um rack de mísseis de enxame de fogo rápido fabricado pela Aetherion Dynamics. Satura alvos com ogivas guiadas para sobrecarregar defesas. Munição limitada, mas mortal. Pode ser ativado remotamente ou vinculado a um GCS.
 
 # From: _Mono/Entities/Structures/catwalk.yml
 
-ent-CatwalkMono = mono catwalk
-    .desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-CatwalkMono = passarela mono
+    .desc = Uma passarela para manobra EVA mais fácil e posicionamento de cabos.
 
 # From: _Mono/Entities/Structures/Decoration/banners.yml
 
-ent-BannerDrakeIndustries = DI banner
-    .desc = A banner harboring Drake Industries' emblem. The mega corp's emblem is woven into a high quality textile that you've doubt you've every seen anywhere else in the sector. Must be why the banner is not attached to, but rather fused on it's pole.
+ent-BannerDrakeIndustries = bandeira DI
+    .desc = Uma bandeira que abriga o emblema da Drake Industries. O emblema da mega corp está tecido em um têxtil de alta qualidade que você duvida que já viu em qualquer outro lugar do setor. Deve ser por isso que a bandeira não está anexada, mas sim fundida em seu poste.
 
-ent-BannerNGC = TSF banner
-    .desc = A banner proudly displaying the stars of the Trans-Solar Federation.
+ent-BannerNGC = bandeira TSF
+    .desc = Uma bandeira orgulhosamente exibindo as estrelas da Federação Trans-Solariana.
 
-ent-BannerSHM = SHM banner
-    .desc = A banner effectively representing the iconography of Steel Hammer Manufacturing Inc.
+ent-BannerSHM = bandeira SHM
+    .desc = Uma bandeira efetivamente representando a iconografia da Steel Hammer Manufacturing Inc.
 
 # From: _Mono/Entities/Structures/Decoration/greeble.yml
 
-ent-GreebleAntenna1 = antenna
-    .desc = Like antennas to hell. Usually part of a ship or station's UHF communication systems.
+ent-GreebleAntenna1 = antena
+    .desc = Como antenas para o inferno. Geralmente parte dos sistemas de comunicação UHF de um navio ou estação.
 
-ent-GreebleAntenna2 = antenna
-    .desc = Like antennas to hell. Usually part of a ship or station's UHF communication systems.
+ent-GreebleAntenna2 = antena
+    .desc = Como antenas para o inferno. Geralmente parte dos sistemas de comunicação UHF de um navio ou estação.
 
-ent-GreebleElint1 = ELINT system
-    .desc = Used for reading noncommunication electromagnetic radiation and their properties, such as radar signals. Who gives a shit?
+ent-GreebleElint1 = sistema ELINT
+    .desc = Usado para ler radiação eletromagnética não-comunicação e suas propriedades, como sinais de radar. Quem se importa?
 
-ent-GreebleRadarpanel1 = radar panel
-    .desc = Some kind of protective fiberglass panelling. Seen in various systems, such as weather and altitude mapping to military early-warning systems. If it's powerful enough, you might get cancer a bit faster!
+ent-GreebleRadarpanel1 = painel de radar
+    .desc = Alguns tipo de painel de fibra de vidro protetora. Visto em vários sistemas, como mapeamento de clima e altitude para sistemas de alerta precoce militares. Se for poderoso o suficiente, você pode pegar câncer um pouco mais rápido!
 
-ent-GreebleRadarpanel2 = radar panel
-    .desc = Some kind of protective fiberglass panelling. Seen in various systems, such as weather and altitude mapping to military early-warning systems. If it's powerful enough, you might get cancer a bit faster!
+ent-GreebleRadarpanel2 = painel de radar
+    .desc = Alguns tipo de painel de fibra de vidro protetora. Visto em vários sistemas, como mapeamento de clima e altitude para sistemas de alerta precoce militares. Se for poderoso o suficiente, você pode pegar câncer um pouco mais rápido!
 
 # From: _Mono/Entities/Structures/Decoration/loot.yml
 
-ent-CrystalMonolithic = small aether crystal
-    .suffix = small
-    .desc = A mysterious crystalline solid. Seems highly energetic, but fragile.
+ent-CrystalMonolithic = cristal de éter pequeno
+    .suffix = pequeno
+    .desc = Um sólido cristalino misterioso. Parece altamente energético, mas frágil.
 
 # From: _Mono/Entities/Structures/dispensers.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseCargoChute = base cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-BaseCargoChute = calha de entrega de carga base
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteBaikal = Camelot cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-CargoChuteBaikal = calha de entrega de carga Camelot
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteDepot = cargo depot turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the cargo depot, accepting export goods for trade deeds.
+ent-CargoChuteDepot = calha de entrega de depósito de carga
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas do depósito de carga, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteDepotAlt = alternate cargo depot turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the cargo depot, accepting export goods for trade deeds.
+ent-CargoChuteDepotAlt = calha de entrega de depósito de carga alternativa
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas do depósito de carga, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteExped = expedition lodge cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-CargoChuteExped = calha de entrega de carga de lodge de expedição
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteHideout = PDV hideout cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-CargoChuteHideout = calha de entrega de carga de esconderijo PDV
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteJupiter = PDV jupiter cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the carrier, accepting export goods for trade deeds.
+ent-CargoChuteJupiter = calha de entrega de carga de portador jupiter PDV
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas do portador, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteMD = Medical Dispatch cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-CargoChuteMD = calha de entrega de carga do Despacho Médico
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteTradeMall = Trade Mall cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-CargoChuteTradeMall = calha de entrega de cargo do Shopping de Comércio
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-CargoChuteTSFMC = TSFMC cargo turn-in chute
-    .desc = A machine with piping systems that lead into the bowels of the station, accepting export goods for trade deeds.
+ent-CargoChuteTSFMC = calha de entrega de carga TSFMC
+    .desc = Uma máquina com sistemas de tubulação que levam para as entranhas da estação, aceitando bens de exportação para escritos de comércio.
 
-ent-PaperWrittenDispenserInstructions = cargo dispenser instructions
+ent-PaperWrittenDispenserInstructions = instruções de dispensador de carga
 
-ent-PaperWrittenDispenserOutageNote = cargo trade outage notice
+ent-PaperWrittenDispenserOutageNote = aviso de interrupção de comércio de carga
 
 # From: _Mono/Entities/Structures/Doors/Airlocks/heavy_airlock.yml
 
-ent-AirlockHeavy = heavy-duty airlock
-    .desc = It opens, it closes, and maybe crushes you. An uparmored & more advanced model, for use in heavy industrial & military applications. Faster & smoother opening, more strength, and more deadly when crushing you.
+ent-AirlockHeavy = portão pesado
+    .desc = Abre, fecha, e talvez esmaga você. Um modelo mais blindado e avançado, para uso em aplicações industriais pesadas e militares. Abertura mais rápida e suave, mais força, e mais mortal quando esmagando você.
 
-ent-AirlockHeavyGlass = heavy-duty glass airlock
-    .desc = It opens, it closes, and maybe crushes you. An uparmored & more advanced model, for use in heavy industrial & military applications. Faster & smoother opening, more strength, and more deadly when crushing you.
+ent-AirlockHeavyGlass = portão de vidro pesado
+    .desc = Abre, fecha, e talvez esmaga você. Um modelo mais blindado e avançado, para uso em aplicações industriais pesadas e militares. Abertura mais rápida e suave, mais força, e mais mortal quando esmagando você.
 
 # From: _Mono/Entities/Structures/Doors/Airlocks/heavy_assembly.yml
 
-ent-AirlockHeavyAssembly = heavy-duty airlock assembly
-    .desc = It opens, it closes, and maybe crushes you. An uparmored & more advanced model, for use in heavy industrial & military applications. Faster & smoother opening, more strength, and more deadly when crushing you.
+ent-AirlockHeavyAssembly = montagem de portão pesado
+    .desc = Abre, fecha, e talvez esmaga você. Um modelo mais blindado e avançado, para uso em aplicações industriais pesadas e militares. Abertura mais rápida e suave, mais força, e mais mortal quando esmagando você.
 
 # From: _Mono/Entities/Structures/Doors/blastdoor.yml
 
-ent-BlastDoorIndestructible = blast door
-    .suffix = indestructible
-    .desc = An exceptionally tough blast door, good luck blasting through this.
+ent-BlastDoorIndestructible = porta de explosão
+    .suffix = indestrutível
+    .desc = Uma porta de explosão excepcionalmente resistente, boa sorte explodindo através desta.
 
-ent-BlastDoorMonolithic = monolith tenebris crack
-    .desc = Some kind of break in the surrounding dark tenebris.
+ent-BlastDoorMonolithic = rachadura de monolith tenebris
+    .desc = Alguns tipo de quebra no tenebris escuro circundante.
 
 # From: _Mono/Entities/Structures/Furniture/bunk.yml
 
-ent-BunkBottom = bunk bed
-    .suffix = Bottom
+ent-BunkBottom = cama beliche
+    .suffix = Inferior
 
-ent-BunkTop = bunk bed
-    .suffix = Top
+ent-BunkTop = cama beliche
+    .suffix = Superior
 
 # From: _Mono/Entities/Structures/Furniture/chairs.yml
 
-ent-Handrail = handrail
+ent-Handrail = corrimão
 
 # From: _Mono/Entities/Structures/Furniture/tables.yml
 
-ent-Battletable = battle table
-    .desc = A futuristic-looking battle planning table.
+ent-Battletable = mesa de batalha
+    .desc = Uma mesa de planejamento de batalha de aparência futurista.
 
 # From: _Mono/Entities/Structures/gates.yml
 
-ent-SignalTimerItem = timer
-    .desc = Sends a signal after a specified time after receiving a signal.
+ent-SignalTimerItem = temporizador
+    .desc = Envia um sinal após um tempo especificado após receber um sinal.
 
 # From: _Mono/Entities/Structures/Machines/bombs.yml
 
-ent-SyndicateBombSilicon = modified syndicate bomb
-    .suffix = Silicon
-    .desc = A bomb for Syndicate operatives and agents alike. Looks like this one explodes from physical impact
+ent-SyndicateBombSilicon = bomba do Sindicato modificada
+    .suffix = Silício
+    .desc = Uma bomba para operativos e agentes do Sindicato igualmente. Parece que esta explode de impacto físico
 
 # From: _Mono/Entities/Structures/Machines/carp_caller.yml
 
-ent-MachineCarpCaller = carp caller
-    .desc = A device that seems interesting to wild space carp.
+ent-MachineCarpCaller = chamador de carpas
+    .desc = Um dispositivo que parece interessante para carpas espaciais selvagens.
 
 # From: _Mono/Entities/Structures/Machines/chem_master.yml
 
@@ -6502,658 +6502,658 @@ ent-ChemMasterFilled = ChemMaster 4000
 
 # From: _Mono/Entities/Structures/Machines/computers.yml
 
-ent-StationAiUploadComputerUnlocked = AI upload console
-    .suffix = Unlocked
-    .desc = Used to update the laws of the vessel AI.
+ent-StationAiUploadComputerUnlocked = console de upload de IA
+    .suffix = Destravado
+    .desc = Usado para atualizar as leis da IA da nave.
 
 # From: _Mono/Entities/Structures/Machines/Computers/computers_shipyard_mothership.yml
 
-ent-BalorCarrierComputer = balor shipyard console
+ent-BalorCarrierComputer = console de estaleiro balor
     .desc = {ent-BaseCarrierComputer.desc}
 
 # Abstract entity (referenceable by children)
-ent-BaseCarrierComputer =
-    .suffix = Carrier
-    .desc = Used on carriers to purchase and sell ships without returning to a station.
+ent-BaseCarrierComputer
+    .suffix = Porta-aviões
+    .desc = Usado em porta-aviões para comprar e vender navios sem retornar a uma estação.
 
-ent-HiveCarrierComputer = zephyr carrier console
+ent-HiveCarrierComputer = console de porta-aviões zephyr
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-JupiterCarrierComputer = jupiter shipyard console
-    .desc = Lighter shipyard using the Jupiter's internal hangars, doesn't have access to the full roster of Phaethon Dynasty ships.
+ent-JupiterCarrierComputer = console de estaleiro jupiter
+    .desc = Estaleiro mais leve usando os hangares internos do Jupiter, não tem acesso à lista completa de navios da Dinastia Phaethon.
 
-ent-LedokolAttachmentComputer = ledokol attachment console
+ent-LedokolAttachmentComputer = console de anexo ledokol
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-MiningCarrierComputer = mining carrier console
+ent-MiningCarrierComputer = console de porta-aviões de mineração
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-PDVMotleyAnneCarrierComputer = motley anne shipyard console
+ent-PDVMotleyAnneCarrierComputer = console de estaleiro motley anne
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-RavagerCarrierComputer = ravager shipyard console
+ent-RavagerCarrierComputer = console de estaleiro ravager
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-SellOnlyCarrierComputer = sell only shipyard console
+ent-SellOnlyCarrierComputer = console de estaleiro apenas venda
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-TSFCarrierComputer = TSF carrier console
+ent-TSFCarrierComputer = console de porta-aviões TSF
     .desc = {ent-BaseCarrierComputer.desc}
 
-ent-WindreignCarrierComputer = windreign shipyard console
+ent-WindreignCarrierComputer = console de estaleiro windreign
     .desc = {ent-BaseCarrierComputer.desc}
 
 # From: _Mono/Entities/Structures/Machines/Computers/flight_control.yml
 
-ent-ComputerShuttleANALR67RWR = shuttle console
+ent-ComputerShuttleANALR67RWR = console de transladador
     .suffix = Alt AN/ALR-67 RWR
-    .desc = Used to pilot a shuttle. This one is outfitted with a AN/ALR-67 RWR for missile warning tones.
+    .desc = Usado para pilotar um transladador. Este está equipado com um AN/ALR-67 RWR para tons de aviso de míssil.
 
-ent-ComputerShuttleKPV63RWR = shuttle console
+ent-ComputerShuttleKPV63RWR = console de transladador
     .suffix = PDV/USSP KPV-63 RWR
-    .desc = Used to pilot a shuttle. This one is outfitted with a KPV-63 RWR for missile warning tones.
+    .desc = Usado para pilotar um transladador. Este está equipado com um KPV-63 RWR para tons de aviso de míssil.
 
-ent-ComputerShuttleTSFNVWS = shuttle console
+ent-ComputerShuttleTSFNVWS = console de transladador
     .suffix = TSFN/TSFMC VWS
-    .desc = Used to pilot a shuttle. This one is outfitted with a TSFN VWS for missile warning tones.
+    .desc = Usado para pilotar um transladador. Este está equipado com um TSFN VWS para tons de aviso de míssil.
 
-ent-ShuttleConsoleCircuitboardANALR67RWR = shuttle console board (AN/ALR-67 RWR)
-    .desc = A computer printed circuit board for a shuttle console. This one has a AN/ALR-67 RWR for missile lock tones.
+ent-ShuttleConsoleCircuitboardANALR67RWR = placa de console de transladador (AN/ALR-67 RWR)
+    .desc = Uma placa de circuito impresso de computador para um console de transladador. Este tem um AN/ALR-67 RWR para tons de trava de míssil.
 
-ent-ShuttleConsoleCircuitboardKPV63RWR = shuttle console board (KPV-63 RWR)
-    .desc = A computer printed circuit board for a shuttle console. This one has a KPV-63 RWR for missile lock tones.
+ent-ShuttleConsoleCircuitboardKPV63RWR = placa de console de transladador (KPV-63 RWR)
+    .desc = Uma placa de circuito impresso de computador para um console de transladador. Este tem um KPV-63 RWR para tons de trava de míssil.
 
-ent-ShuttleConsoleCircuitboardTSFN = shuttle console board (TSFN VWS)
-    .suffix = Tabletop, TSFN/TSFMC VWS
-    .desc = A computer printed circuit board for a shuttle console. This one has a TSFN VWS for missile lock tones.
+ent-ShuttleConsoleCircuitboardTSFN = placa de console de transladador (TSFN VWS)
+    .suffix = Mesa, TSFN/TSFMC VWS
+    .desc = Uma placa de circuito impresso de computador para um console de transladador. Este tem um TSFN VWS para tons de trava de míssil.
 
 # From: _Mono/Entities/Structures/Machines/Computers/radar_computers.yml
 
-ent-ComputerEliteRadar = elite radar computer
-    .desc = A radar using rare, pre-fracture bluespace technology to detect enemies from even farther away.
+ent-ComputerEliteRadar = computador de radar elite
+    .desc = Um radar usando tecnologia bluespace rara pré-fratura para detectar inimigos ainda mais longe.
 
-ent-ComputerStationRadar = overwatch radar computer
-    .desc = A visual uplink to a station's advanced, long-range intelligence suite, allowing commanders to have eyes on unfolding combat at all times.
+ent-ComputerStationRadar = computador de radar de sobreavista
+    .desc = Um uplink visual para a suíte de inteligência de longo alcance avançada de uma estação, permitindo comandantes ter olhos no combate desenrolado em todos os momentos.
 
 # From: _Mono/Entities/Structures/Machines/Computers/rogue_comm_computer.yml
 
-ent-RogueComputerComms = imperial vanguard communications computer
-    .desc = The Imperial Vanguard's primary communications computer for issuing announcements.
+ent-RogueComputerComms = computador de comunicações da vanguarda imperial
+    .desc = O computador de comunicações primário da Vanguarda Imperial para emitir anúncios.
 
 # From: _Mono/Entities/Structures/Machines/Computers/shipyard.yml
 
-ent-ComputerShipyardDrakeIndustries = drake industries shipyard console
-    .desc = Used by Drake Industries affiliates to purchase specialty cargo shuttles.
+ent-ComputerShipyardDrakeIndustries = console de estaleiro drake industries
+    .desc = Usado por afiliados da Drake Industries para comprar transladadores de carga especialidade.
 
-ent-ComputerShipyardSHM = SHM shipyard console
-    .desc = Used to transfer ships from the SHM employ reserves.
+ent-ComputerShipyardSHM = console de estaleiro SHM
+    .desc = Usado para transferir navios das reservas de emprego SHM.
 
-ent-ComputerShipyardUSSP = USSP shipyard console
-    .desc = Used to buy ships from USSP naval reserves.
+ent-ComputerShipyardUSSP = console de estaleiro USSP
+    .desc = Usado para comprar navios das reservas navais da USSP.
 
-ent-ComputerShipyardViper = Viper Group shipyard console
-    .desc = Used to import ships from various manufacturers.
+ent-ComputerShipyardViper = console de estaleiro Viper Group
+    .desc = Usado para importar navios de vários fabricantes.
 
 # From: _Mono/Entities/Structures/Machines/Computers/tsf_comm_computer.yml
 
-ent-TSFComputerComms = TSFMC communications computer
-    .desc = A communications console used by Trans-Solar installations to make sector-wide announcements.
+ent-TSFComputerComms = computador de comunicações TSFMC
+    .desc = Um console de comunicações usado por instalações Trans-Solar para fazer anúncios em todo o setor.
 
 # From: _Mono/Entities/Structures/Machines/datafarms.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseDataFarm = base datafarm
+ent-BaseDataFarm = fazenda de dados base
 
 # Abstract entity (referenceable by children)
-ent-BaseDataFarmIndestructible = base datafarm
+ent-BaseDataFarmIndestructible = fazenda de dados base
 
-ent-DatafarmCrypto = data farm (Crypto)
-    .desc = A power-hungry server dedicated towards scraping data from... somewhere. This one generates valuable but random cryptocurrency at a rate of one every 10 minutes.
+ent-DatafarmCrypto = fazenda de dados (Cripto)
+    .desc = Um servidor com fome de energia dedicado a raspar dados de... algum lugar. Este gera criptomoeda valiosa mas aleatória a uma taxa de uma a cada 10 minutos.
 
-ent-DatafarmResearch = data farm (Research)
-    .desc = A power-hungry server dedicated towards scraping data from... somewhere. This one generates research points at a rate of 20 per second.
+ent-DatafarmResearch = fazenda de dados (Pesquisa)
+    .desc = Um servidor com fome de energia dedicado a raspar dados de... algum lugar. Este gera pontos de pesquisa a uma taxa de 20 por segundo.
 
-ent-DatafarmResearchFaction = bolted data farm (Research)
-    .desc = A power-hungry server dedicated towards scraping data from... somewhere. This one generates research points at a rate of 200 per second. It seems to be bolted to the floor.
+ent-DatafarmResearchFaction = fazenda de dados aparafusada (Pesquisa)
+    .desc = Um servidor com fome de energia dedicado a raspar dados de... algum lugar. Este gera pontos de pesquisa a uma taxa de 200 por segundo. Parece estar aparafusado ao chão.
 
 # From: _Mono/Entities/Structures/Machines/disk_printer.yml
 
-ent-SpawnLootTechDiskPrinter = tech disk printer spawnable disks
+ent-SpawnLootTechDiskPrinter = discos geráveis de impressora de disco tecnológico
 
-ent-SpawnLootTechDisksPrinterT1 = tech disk printer disks
-    .suffix = Tech Disk Printer T1
+ent-SpawnLootTechDisksPrinterT1 = discos de impressora de disco tecnológico
+    .suffix = Impressora de Disco Tecnológico T1
 
-ent-SpawnLootTechDisksPrinterT2 = tech disk printer disks
-    .suffix = Tech Disk Printer T2
+ent-SpawnLootTechDisksPrinterT2 = discos de impressora de disco tecnológico
+    .suffix = Impressora de Disco Tecnológico T2
 
-ent-SpawnLootTechDisksPrinterT3 = tech disk printer disks
-    .suffix = Tech Disk Printer T3
+ent-SpawnLootTechDisksPrinterT3 = discos de impressora de disco tecnológico
+    .suffix = Impressora de Disco Tecnológico T3
 
-ent-SpawnLootTechDisksPrinterT4 = tech disk printer disks
-    .suffix = Tech Disk Printer T4
+ent-SpawnLootTechDisksPrinterT4 = discos de impressora de disco tecnológico
+    .suffix = Impressora de Disco Tecnológico T4
 
-ent-TechDiskPrinter = tech disk printer
-    .desc = A machine that automatically prints tech disks every 7.5 minutes from automatically scavenged pre-Fracture data. Needs 120kW of HV power to function.
+ent-TechDiskPrinter = impressora de disco tecnológico
+    .desc = Uma máquina que imprime automaticamente discos tecnológicos a cada 7.5 minutos de dados pré-fratura recuperados automaticamente. Precisa de 120kW de energia HV para funcionar.
 
 # From: _Mono/Entities/Structures/Machines/drills.yml
 
-ent-MachineShipDrill = ship drill
-    .desc = A small ship drill, capable of digging into asteroids.
+ent-MachineShipDrill = broca de navio
+    .desc = Uma pequena broca de navio, capaz de cavar em asteroides.
 
 # From: _Mono/Entities/Structures/Machines/faction_servers.yml
 
 ent-BaseRdServerFaction = BaseRdServerFaction
-    .desc = Contains the collective knowledge of the faction.
+    .desc = Contém o conhecimento coletivo da facção.
 
-ent-ResearchAndDevelopmentServerDebug = debug R&D server
-    .desc = Contains the collective knowledge of Everyone. Damn
+ent-ResearchAndDevelopmentServerDebug = servidor de P&D debug
+    .desc = Contém o conhecimento coletivo de Todos. Droga
 
-ent-ResearchAndDevelopmentServerMerc = mercenary R&D server
-    .desc = Contains the collective knowledge of the crew.
+ent-ResearchAndDevelopmentServerMerc = servidor de P&D mercenário
+    .desc = Contém o conhecimento coletivo da tripulação.
 
-ent-ResearchAndDevelopmentServerRogues = PDV R&D server
-    .desc = Contains the collective knowledge of the Phaethon Dynasty.
+ent-ResearchAndDevelopmentServerRogues = servidor de P&D PDV
+    .desc = Contém o conhecimento coletivo da Dinastia Phaethon.
 
-ent-ResearchAndDevelopmentServerTSFMC = TSFMC R&D server
-    .desc = Contains the collective knowledge of the TSFMC in this sector.
+ent-ResearchAndDevelopmentServerTSFMC = servidor de P&D TSFMC
+    .desc = Contém o conhecimento coletivo da TSFMC neste setor.
 
-ent-ResearchAndDevelopmentServerUssp = USSP R&D server
-    .desc = Contains the collective knowledge of the USSP in this sector.
+ent-ResearchAndDevelopmentServerUssp = servidor de P&D USSP
+    .desc = Contém o conhecimento coletivo da USSP neste setor.
 
 # From: _Mono/Entities/Structures/Machines/FireControl/gunnery.yml
 
-ent-ComputerGunneryConsole = gunnery control console
-    .desc = Interfaces with the gunnery control server to operate ship weapons.
+ent-ComputerGunneryConsole = console de controle de artilharia
+    .desc = Interfaces com o servidor de controle de artilharia para operar armas de navio.
 
-ent-GunneryServerBase = gunnery control server
-    .desc = Manages the remote operation of ship weapons.
+ent-GunneryServerBase = servidor de controle de artilharia
+    .desc = Gerencia a operação remota de armas de navio.
 
-ent-GunneryServerHigh = high-power gunnery control server
+ent-GunneryServerHigh = servidor de controle de artilharia de alta potência
 
-ent-GunneryServerLow = low-power gunnery control server
+ent-GunneryServerLow = servidor de controle de artilharia de baixa potência
 
-ent-GunneryServerMedium = medium-power gunnery control server
+ent-GunneryServerMedium = servidor de controle de artilharia de potência média
 
-ent-GunneryServerOmega = omega-high-power gunnery control server
+ent-GunneryServerOmega = servidor de controle de artilharia de ultra alta potência
 
-ent-GunneryServerStation = station gunnery control server
+ent-GunneryServerStation = servidor de controle de artilharia de estação
 
-ent-GunneryServerStationConsolesEnforced = station gunnery control server
-    .suffix = Enforced Max Consoles
+ent-GunneryServerStationConsolesEnforced = servidor de controle de artilharia de estação
+    .suffix = Máximo de Consoles Forçado
 
-ent-GunneryServerUltra = ultra-high-power gunnery control server
+ent-GunneryServerUltra = servidor de controle de artilharia de potência ultra
 
 # From: _Mono/Entities/Structures/Machines/frames/frame_2x1.yml
 
-ent-MachineFrame2x1 = machine frame (2x1)
-    .suffix = Ready
+ent-MachineFrame2x1 = chassi de máquina (2x1)
+    .suffix = Pronto
 
-ent-MachineFrameDestroyed2x1 = destroyed machine frame (2x1)
+ent-MachineFrameDestroyed2x1 = chassi de máquina destruído (2x1)
 
-ent-UnfinishedMachineFrame2x1 = machine frame (2x1)
-    .suffix = Unfinished
-    .desc = A machine under construction. Needs more parts.
+ent-UnfinishedMachineFrame2x1 = chassi de máquina (2x1)
+    .suffix = Inacabado
+    .desc = Uma máquina em construção. Precisa de mais partes.
 
 # From: _Mono/Entities/Structures/Machines/frames/frame_2x2.yml
 
-ent-MachineFrame2x2 = machine frame (2x2)
-    .suffix = Ready
+ent-MachineFrame2x2 = chassi de máquina (2x2)
+    .suffix = Pronto
 
-ent-MachineFrameDestroyed2x2 = destroyed machine frame (2x2)
+ent-MachineFrameDestroyed2x2 = chassi de máquina destruído (2x2)
 
-ent-UnfinishedMachineFrame2x2 = machine frame (2x2)
-    .suffix = Unfinished
-    .desc = A machine under construction. Needs more parts.
+ent-UnfinishedMachineFrame2x2 = chassi de máquina (2x2)
+    .suffix = Inacabado
+    .desc = Uma máquina em construção. Precisa de mais partes.
 
 # From: _Mono/Entities/Structures/Machines/frames/frame_3x2.yml
 
-ent-MachineFrame3x2 = machine frame (3x2)
-    .suffix = Ready
+ent-MachineFrame3x2 = chassi de máquina (3x2)
+    .suffix = Pronto
 
-ent-MachineFrameDestroyed3x2 = destroyed machine frame (3x2)
+ent-MachineFrameDestroyed3x2 = chassi de máquina destruído (3x2)
 
-ent-UnfinishedMachineFrame3x2 = machine frame (3x2)
-    .suffix = Unfinished
-    .desc = A machine under construction. Needs more parts.
+ent-UnfinishedMachineFrame3x2 = chassi de máquina (3x2)
+    .suffix = Inacabado
+    .desc = Uma máquina em construção. Precisa de mais partes.
 
 # From: _Mono/Entities/Structures/Machines/frames/frame_3x3.yml
 
-ent-MachineFrame3x3 = machine frame (3x3)
-    .suffix = Ready
+ent-MachineFrame3x3 = chassi de máquina (3x3)
+    .suffix = Pronto
 
-ent-MachineFrameDestroyed3x3 = destroyed machine frame (3x3)
+ent-MachineFrameDestroyed3x3 = chassi de máquina destruído (3x3)
 
-ent-UnfinishedMachineFrame3x3 = machine frame (3x3)
-    .suffix = Unfinished
-    .desc = A machine under construction. Needs more parts.
+ent-UnfinishedMachineFrame3x3 = chassi de máquina (3x3)
+    .suffix = Inacabado
+    .desc = Uma máquina em construção. Precisa de mais partes.
 
 # From: _Mono/Entities/Structures/Machines/ftldrive.yml
 
-ent-MachineFTLDrive = CTLA-25 bluespace drive
-    .desc = A FTL drive that extends a ship's FTL range to ~5 kilometers. Does not stack.
+ent-MachineFTLDrive = motor bluespace CTLA-25
+    .desc = Um motor FTL que estende o alcance FTL de um navio para ~5 quilômetros. Não acumula.
 
-ent-MachineFTLDrive25S = CTLA-25s bluespace drive
-    .desc = An advanced FTL drive that extends a ship's FTL range to ~5 kilometers, but with upgrades to allow for faster recharge and flight times. Does not stack.
+ent-MachineFTLDrive25S = motor bluespace CTLA-25s
+    .desc = Um motor FTL avançado que estende o alcance FTL de um navio para ~5 quilômetros, mas com atualizações para permitir tempos de recarga e voo mais rápidos. Não acumula.
 
-ent-MachineFTLDrive50 = CTLA-50 bluespace drive
-    .desc = A FTL drive that extends a ship's FTL range to ~10 kilometers. Does not stack.
+ent-MachineFTLDrive50 = motor bluespace CTLA-50
+    .desc = Um motor FTL que estende o alcance FTL de um navio para ~10 quilômetros. Não acumula.
 
 # From: _Mono/Entities/Structures/Machines/heavy_drive.yml
 
-ent-MachineHeavyFTLDriveConsole = CTLA-160 heavy bluespace console
-    .desc = A console for a CTLA-160 heavy BSD. Just a power monitoring console to you, since you can't understand the rest.
+ent-MachineHeavyFTLDriveConsole = console bluespace pesado CTLA-160
+    .desc = Um console para um BSD pesado CTLA-160. Apenas um console de monitoramento de energia para você, já que você não consegue entender o resto.
 
-ent-MachineHeavyFTLDriveCore = CTLA-160 heavy bluespace core
-    .desc = A FTL drive that extends a ship's FTL range to ~25 kilometers.
+ent-MachineHeavyFTLDriveCore = núcleo bluespace pesado CTLA-160
+    .desc = Um motor FTL que estende o alcance FTL de um navio para ~25 quilômetros.
 
 # From: _Mono/Entities/Structures/Machines/laser_drill.yml
 
-ent-LaserDrill = automated laser drill
-    .desc = A large automated drill that digs up random materials when powered with 50 kW of HV. Only works on expedition planets.
+ent-LaserDrill = broca a laser automatizada
+    .desc = Uma broca automatizada grande que cava materiais aleatórios quando alimentada com 50 kW de HV. Apenas funciona em planetas de expedição.
 
-ent-SpawnLootOres15 = random ores
-    .suffix = Laser Drill, 15
+ent-SpawnLootOres15 = minérios aleatórios
+    .suffix = Broca a Laser, 15
 
-ent-StationLaserDrill = advanced automated laser drill
-    .desc = A large bluespace automated drill that digs up random materials when powered with 50 kW of HV. Now works in space! You can just make out a scratched off logo starting with an embossed 'N' on the side.
+ent-StationLaserDrill = broca a laser automatizada avançada
+    .desc = Uma broca automatizada bluespace grande que cava materiais aleatórios quando alimentada com 50 kW de HV. Agora funciona no espaço! Você pode apenas ver um logo arranhado começando com um 'N' gravado no lado.
 
 # From: _Mono/Entities/Structures/Machines/lathe.yml
 
-ent-CentrifugeLatheMini = miniature economy uranium processing centrifuge
-    .desc = A medium sized industrial gas centrifuge for \"bulk\" processing isotopes, materials and generally making things go spinny. Not as fast or efficient as its station-bound brother, but useful for smaller operations. Too small to reprocess nuclear fuel.
+ent-CentrifugeLatheMini = centrífuga mini de processamento de urânio econômica
+    .desc = Uma centrífuga de gás industrial de tamanho médio para processamento "a granel" de isótopos, materiais e geralmente fazer coisas girarem. Não tão rápida ou eficiente quanto seu irmão limitado à estação, mas útil para operações menores. Pequena demais para reprocessar combustível nuclear.
 
-ent-FactionLathe = military multi-purpose assembler
-    .desc = Capable of producing a wide variety of things. Compatible with all kinds of fabrication template encryptions.
+ent-FactionLathe = montador multiuso militar
+    .desc = Capaz de produzir uma ampla variedade de coisas. Compatível com todos os tipos de criptografia de modelo de fabricação.
 
-ent-IndustrialFurnaceEconomy = industrial arc furnace
-    .desc = An advanced arc furnace capable of melting ore and refining material through heat. Essential for creating advanced alloys.
+ent-IndustrialFurnaceEconomy = forno a arco industrial
+    .desc = Um forno a arco avançado capaz de derreter minério e refinar material através de calor. Essencial para criar ligas avançadas.
 
-ent-IndustrialLatheEconomy = industrial steel lathe
-    .desc = Capable of forming metal into all types of shapes. Essential for starting to create most advanced items.
+ent-IndustrialLatheEconomy = torno de aço industrial
+    .desc = Capaz de formar metal em todos os tipos de formas. Essencial para começar a criar a maioria dos itens avançados.
 
-ent-USSPLathe = USSP field assembler
-    .desc = Capable of manufacturing equipment to USSP design specifications. Often issued throughout the Armed Forces to support the inherent industrial tendencies of its service members.
+ent-USSPLathe = montador de campo USSP
+    .desc = Capaz de fabricar equipamento para especificações de design USSP. Frequentemente emitido através das Forças Armadas para apoiar as tendências industriais inerentes de seus membros de serviço.
 
-ent-ViperLathe = Viper Group precision lathe
-    .desc = Capable of producing equipment to Viper Group standards. The parts making up the lathe are stamped with the logos of long-forgotten brands from the corporate era.
+ent-ViperLathe = torno de precisão Viper Group
+    .desc = Capaz de produzir equipamento para padrões Viper Group. As partes que compõem o torno são estampadas com os logos de marcas há muito esquecidas da era corporativa.
 
 # From: _Mono/Entities/Structures/Machines/nuke.yml
 
-ent-ScuttleDeviceRazorN = atomizer assembly
-    .desc = Why are you stopping to read this?!
+ent-ScuttleDeviceRazorN = montagem de atomizador
+    .desc = Por que você está parando para ler isso?!
 
-ent-ScuttleDeviceWyvern = antimatter annihilation assembly
-    .desc = Uses the power of antimatter to completely scuttle a ship. Will sell for more if unlocked.
+ent-ScuttleDeviceWyvern = montagem de aniquilação de antimatéria
+    .desc = Usa o poder da antimatéria para afundar completamente um navio. Venderá por mais se desbloqueado.
 
 # From: _Mono/Entities/Structures/Machines/ore_magnet.yml
 
-ent-MachineOreMagnet = ore magnet
-    .desc = Uses a powerful magnet to suck in ore. Has an internal storage.
+ent-MachineOreMagnet = ímã de minério
+    .desc = Usa um ímã poderoso para sugar minério. Tem armazenamento interno.
 
-ent-OreMagnetFlatpack = ore magnet flatpack
-    .desc = A flatpack used for constructing an ore magnet.
+ent-OreMagnetFlatpack = flatpack de ímã de minério
+    .desc = Um flatpack usado para construir um ímã de minério.
 
 # From: _Mono/Entities/Structures/Machines/salvage_radar.yml
 
-ent-MachineSalvageRadar = salvage radar
-    .desc = This radar increases asteroid and wreck detection range, allowing rocks to be hit from farther away. Essential tool for salvagers.
+ent-MachineSalvageRadar = radar de salvamento
+    .desc = Este radar aumenta o alcance de detecção de asteroides e naufrágios, permitindo que rochas sejam atingidas de mais longe. Ferramenta essencial para salvadores.
 
-ent-SalvageRadarFlatpack = salvage radar flatpack
-    .desc = A flatpack used for constructing salvage radar.
+ent-SalvageRadarFlatpack = flatpack de radar de salvamento
+    .desc = Um flatpack usado para construir radar de salvamento.
 
 # From: _Mono/Entities/Structures/Machines/shield_generator.yml
 
-ent-ShieldGenerator = MS-500 \"Titan\" Shield Generator
-    .suffix = ADS ONLY
-    .desc = The Titan. Advanced shielding, with a quick recharge time, and excels against colisions.
+ent-ShieldGenerator = Gerador de Escudo MS-500 "Titan"
+    .suffix = APENAS ADS
+    .desc = O Titan. Escudamento avançado, com tempo de recarga rápido, e excelente contra colisões.
 
 # Abstract entity (referenceable by children)
-ent-ShieldGeneratorBase = Shield Generator
+ent-ShieldGeneratorBase = Gerador de Escudo
 
-ent-ShieldGeneratorMedium = MS-250 \"Aegis\" Shield Generator
-    .suffix = ADS/TSF ONLY, SCI VOUCHER SHIPS ONLY
-    .desc = The Aegis. Advanced shielding, with a long recharge time, with very high durability.
+ent-ShieldGeneratorMedium = Gerador de Escudo MS-250 "Aegis"
+    .suffix = APENAS ADS/TSF, APENAS NAVIOS COM VOUCHER SCI
+    .desc = O Aegis. Escudamento avançado, com longo tempo de recarga, com durabilidade muito alta.
 
-ent-ShieldGeneratorPOI = FS-421 \"Fortress\" Outpost Shield Generator
-    .suffix = POI ONLY
-    .desc = The Fortress. The latest and greatest in static, large-scale shielding.
+ent-ShieldGeneratorPOI = Gerador de Escudo de Avançamento FS-421 "Fortress"
+    .suffix = APENAS POI
+    .desc = O Fortress. O mais recente e melhor em escudamento estático em grande escala.
 
-ent-ShieldGeneratorSmall = MS-100 \"Sentinel\" Shield Generator
-    .desc = The Sentinel. A good, reliable shield.
+ent-ShieldGeneratorSmall = Gerador de Escudo MS-100 "Sentinel"
+    .desc = O Sentinel. Um escudo bom e confiável.
 
-ent-ShieldGeneratorTSFCapital = LM-212 \"Vanguard\" Capital Shield Generator
-    .suffix = TSF CAPITAL ONLY
-    .desc = A heavy capital shield. Good durability, quick recharge and anti-collison built in one.
+ent-ShieldGeneratorTSFCapital = Gerador de Escudo Capital LM-212 "Vanguard"
+    .suffix = APENAS CAPITAL TSF
+    .desc = Um escudo capital pesado. Boa durabilidade, recarga rápida e anti-colisão embutido em um.
 
 # From: _Mono/Entities/Structures/Machines/smart_storage.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseSmartStorage = BaseSmartStorage
-    .desc = Stores things in an awesome fucking list its lit bro
+ent-BaseSmartStorage = ArmazenamentoInteligenteBase
+    .desc = Armazena coisas em uma lista incrível foda bro
 
-ent-SmartArmoryStorage = SmartArmory
-    .desc = Stores a lot of combat-related items & tools.
+ent-SmartArmoryStorage = ArsenalInteligente
+    .desc = Armazena muitos itens e ferramentas relacionados a combate.
 
 # From: _Mono/Entities/Structures/Machines/uplinks.yml
 
-ent-VendingMachinePDVUplink = PDV equipment requisition station
-    .desc = A central PDV material access lift. Lets you access deep storage at the cost of data chits, which represent merit and accumulated resources.
+ent-VendingMachinePDVUplink = estação de requisição de equipamento PDV
+    .desc = Um elevador de acesso de material central PDV. Permite acessar armazenamento profundo ao custo de fichas de dados, que representam mérito e recursos acumulados.
 
-ent-VendingMachineTSFMCUplink = TSFMC equipment requisition station
-    .desc = A central TSFMC material access lift. Lets you access deep storage at the cost of FMC, which represent merit and accumulated resources.
+ent-VendingMachineTSFMCUplink = estação de requisição de equipamento TSFMC
+    .desc = Um elevador de acesso de material central TSFMC. Permite acessar armazenamento profundo ao custo de FMC, que representam mérito e recursos acumulados.
 
 # From: _Mono/Entities/Structures/Machines/vending_machines.yml
 
-ent-VendingMachineAmmoPOIMercenary = PMC liberation station
+ent-VendingMachineAmmoPOIMercenary = estação de libertação PMC
     .suffix = POI, PMC
 
-ent-VendingMachineBarista = Barista Vendor
+ent-VendingMachineBarista = Fornecedor Barista
     .suffix = POI
-    .desc = Sells a variety of coffees, teas, and pastries.
+    .desc = Vende uma variedade de cafés, chás e pastéis.
 
-ent-VendingMachineBaristaShip = Barista Vendor
+ent-VendingMachineBaristaShip = Fornecedor Barista
     .suffix = 0.35%
-    .desc = Sells a variety of coffees, teas, and pastries.
+    .desc = Vende uma variedade de cafés, chás e pastéis.
 
 ent-VendingMachineBluespaceDrive = DriveVend
     .suffix = POI
-    .desc = Sells flatpacked bluespaces drives.
+    .desc = Vende motores bluespace em flatpack.
 
-ent-VendingMachinePMCclothingsPOI = Uncle Boris's surplus clothing vend
+ent-VendingMachinePMCclothingsPOI = venda de roupas excedentes Tio Boris
     .suffix = POI
-    .desc = Sells various PMC and military surplus gears.
+    .desc = Vende vários equipamentos excedentes PMC e militares.
 
 ent-VendingMachineSyndieContrabandPOI = ContraVend
     .suffix = POI
-    .desc = Wanted across multiple sectors!
+    .desc = Procurado em vários setores!
 
-ent-VendingMachineTraderBaikal = Camelot Trade Goods Vendor
+ent-VendingMachineTraderBaikal = Fornecedor de Bens de Comércio Camelot
     .suffix = POI
-    .desc = Sells various trade goods.
+    .desc = Vende vários bens de comércio.
 
-ent-VendingMachineTraderDepot = Cargo Depot Trade Goods Vendor
+ent-VendingMachineTraderDepot = Fornecedor de Bens de Comércio de Depósito de Carga
 
-ent-VendingMachineTraderDepotAlt = Cargo Depot Trade Goods Vendor
+ent-VendingMachineTraderDepotAlt = Fornecedor de Bens de Comércio de Depósito de Carga
     .suffix = POI, Alt
 
-ent-VendingMachineTraderTradeMall = Trade Mall Trade Goods Vendor
+ent-VendingMachineTraderTradeMall = Fornecedor de Bens de Comércio de Shopping de Comércio
 
-ent-VendingMachineUSSP = USSP Automated Requisition Vendor
+ent-VendingMachineUSSP = Fornecedor de Requisição Automatizada USSP
     .suffix = POI
-    .desc = Sells various USSP equipment.
+    .desc = Vende vários equipamentos USSP.
 
 # From: _Mono/Entities/Structures/Power/apc.yml
 
-ent-LargeAPC = LAPC substation
-    .desc = A centralized, reinforced substation terminal for the vessel's electrical systems. Tranforms current from HV to LV in bulk. Useful for shield generators and the like.
+ent-LargeAPC = subestação LAPC
+    .desc = Um terminal de subestação reforçado centralizado para os sistemas elétricos da nave. Transforma corrente de HV para LV a granel. Útil para geradores de escudo e similares.
 
 # From: _Mono/Entities/Structures/Power/Generators/generators.yml
 
-ent-GeneratorCRPinch = SKR CR-class Z-pinch nuclear fusion reactor
+ent-GeneratorCRPinch = reator de fusão nuclear SKR CR-class Z-pinch
     .suffix = Plasma, Rad+, 105 kW
-    .desc = Industrial fuel-grade plasma burning miniature fusion reactor. Highly efficient. Ideal power production is 105 kW. Minimum and maximum power production is 60 and 160 kW. Highly radioactive without protection due to the light Iridite frame of the reactor.
+    .desc = Reator de fusão em miniatura de queima de plasma de grau de combustível industrial. Altamente eficiente. Produção de energia ideal é 105 kW. Produção mínima e máxima de energia é 60 e 160 kW. Altamente radioativo sem proteção devido ao chassi leve de Iridita do reator.
 
 # From: _Mono/Entities/Structures/Power/Generators/outpost_powercores.yml
 
-ent-MachineOutpostCore = B.R0-200k Bluespace Reactor
+ent-MachineOutpostCore = Reator Bluespace B.R0-200k
     .suffix = 200kw
-    .desc = A modified FTL drive, safely refitted to release large amounts of power consistently.
+    .desc = Um motor FTL modificado, seguramente readaptado para liberar grandes quantidades de energia consistentemente.
 
 # From: _Mono/Entities/Structures/Power/Generators/turbines.yml
 
-ent-TurbineCC =
-    .suffix = Overseer Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the CC Overseer.
+ent-TurbineCC
+    .suffix = Bloqueado Supervisor CC
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao Supervisor CC.
 
-ent-TurbineCCSmall =
-    .suffix = Overseer Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the CC Overseer.
+ent-TurbineCCSmall
+    .suffix = Bloqueado Supervisor CC
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao Supervisor CC.
 
-ent-TurbinePDV =
-    .suffix = PDV Denasvar Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the PDV Denasvars.
+ent-TurbinePDV
+    .suffix = Bloqueado Denasvar PDV
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Denasvars PDV.
 
-ent-TurbinePDVSmall =
-    .suffix = PDV Denasvar Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the PDV Denasvars.
+ent-TurbinePDVSmall
+    .suffix = Bloqueado Denasvar PDV
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Denasvars PDV.
 
-ent-TurbineTSF =
-    .suffix = TSF FTL Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the TSF fireteam leaders.
+ent-TurbineTSF
+    .suffix = Bloqueado FTL TSF
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos líderes de equipe de combate TSF.
 
-ent-TurbineTSFSmall =
-    .suffix = TSF FTL Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the TSF fireteam leaders.
+ent-TurbineTSFSmall
+    .suffix = Bloqueado FTL TSF
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos líderes de equipe de combate TSF.
 
-ent-TurbineUnaffiliated =
-    .suffix = Unaffiliated, Ship Captain Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the captain of the ship.
+ent-TurbineUnaffiliated
+    .suffix = Não Afiliado, Bloqueado Capitão de Navio
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao capitão do navio.
 
-ent-TurbineUnaffiliatedSmall =
-    .suffix = Unaffiliated, Ship Captain Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the captain of the ship.
+ent-TurbineUnaffiliatedSmall
+    .suffix = Não Afiliado, Bloqueado Capitão de Navio
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado ao capitão do navio.
 
-ent-TurbineUSSP =
-    .suffix = USSP Serzhant Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the USSP Serzhants.
+ent-TurbineUSSP
+    .suffix = Bloqueado Serzhant USSP
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Serzhants USSP.
 
-ent-TurbineUSSPSmall =
-    .suffix = USSP Serzhant Locked
-    .desc = A large turbine used for generating power using hot gas. Locked to the USSP Serzhants.
+ent-TurbineUSSPSmall
+    .suffix = Bloqueado Serzhant USSP
+    .desc = Uma turbina grande usada para gerar energia usando gás quente. Bloqueado aos Serzhants USSP.
 
 # From: _Mono/Entities/Structures/Shuttles/capital_thrusters.yml
 
-ent-ThrusterLarge = large thruster
+ent-ThrusterLarge = propulsor grande
 
 # From: _Mono/Entities/Structures/Storage/Closets/wall_departments_eva.yml
 
-ent-LockerWallEVAColorDME = DME EVA wall locker
+ent-LockerWallEVAColorDME = armário de parede EVA DME
 
 # From: _Mono/Entities/Structures/Storage/Closets/wall_departments.yml
 
-ent-LockerWallColorDME = DME wall locker
-    .suffix = DME, Company
+ent-LockerWallColorDME = armário de parede DME
+    .suffix = DME, Empresa
 
 # From: _Mono/Entities/Structures/Storage/Crates/crate.yml
 
-ent-CrateMilitaryEquipment = military equipment crate
+ent-CrateMilitaryEquipment = caixote de equipamento militar
 
-ent-CrateNanotrasen = NT crate
-    .desc = A white and blue crate with the Nanotrasen Symbol.
+ent-CrateNanotrasen = caixote NT
+    .desc = Um caixote branco e azul com o Símbolo Nanotrasen.
 
-ent-CrateNanotrasenDS = menacing NT crate
-    .desc = A red and black crate with a menacing aura, it sends chills down your spine looking at it
+ent-CrateNanotrasenDS = caixote NT ameaçador
+    .desc = Um caixote vermelho e preto com uma aura ameaçadora, envia calafrios pela espinha apenas olhando para ele
 
-ent-CratePDVEquippment = PDV equipment crate
-    .desc = A black and brown crate used by the Vanguard, used to store miscellaneous equippment.
+ent-CratePDVEquippment = caixote de equipamento PDV
+    .desc = Um caixote preto e marrom usado pela Vanguarda, usado para armazenar equipamento diverso.
 
-ent-CrateTradeSecureSalvage = abandoned cargo crate
-    .desc = Forgotten export from an era bygone. The exterior has held fast, keeping its contents commercially viable despite countless cycles of solar radiation. The label indicates a fivefold freight commission upon delivery.
+ent-CrateTradeSecureSalvage = caixote de carga abandonado
+    .desc = Exportação esquecida de uma era passada. O exterior se manteve firme, mantendo seu conteúdo comercialmente viável apesar de incontáveis ciclos de radiação solar. O rótulo indica uma comissão de frete quádrupla upon entrega.
 
 # From: _Mono/Entities/Structures/Wallmounts/addon_armor.yml
 
-ent-WallArmorAddonSolid = solid armor
-    .desc = An additional chunk of armor, attached to the side of a vessel. Provides additional protection, but makes the hull more vulnerable to explosives.
+ent-WallArmorAddonSolid = armadura sólida
+    .desc = Um pedaço adicional de armadura, anexado ao lado de um navio. Fornece proteção adicional, mas torna o casco mais vulnerável a explosivos.
 
-ent-WallArmorAddonSolidBroken = broken solid armor
-    .desc = The remains of a chunk of additional armor plating. Doesn't seem very effective anymore.
+ent-WallArmorAddonSolidBroken = armadura sólida quebrada
+    .desc = Os restos de um pedaço de placagem de armadura adicional. Não parece mais muito eficaz.
 
-ent-WallArmorAddonSolidBrokenCornerL = broken solid armor corner
-    .suffix = Left
-    .desc = The remains of a chunk of additional armor plating. Doesn't seem very effective anymore.
+ent-WallArmorAddonSolidBrokenCornerL = canto de armadura sólida quebrado
+    .suffix = Esquerda
+    .desc = Os restos de um pedaço de placagem de armadura adicional. Não parece mais muito eficaz.
 
-ent-WallArmorAddonSolidBrokenCornerR = broken solid armor corner
-    .suffix = Right
-    .desc = The remains of a chunk of additional armor plating. Doesn't seem very effective anymore.
+ent-WallArmorAddonSolidBrokenCornerR = canto de armadura sólida quebrado
+    .suffix = Direita
+    .desc = Os restos de um pedaço de placagem de armadura adicional. Não parece mais muito eficaz.
 
-ent-WallArmorAddonSolidCornerL = solid armor corner
-    .suffix = Left
-    .desc = An additional chunk of armor, attached to the side of a vessel. Provides additional protection, but makes the hull more vulnerable to explosives.
+ent-WallArmorAddonSolidCornerL = canto de armadura sólida
+    .suffix = Esquerda
+    .desc = Um pedaço adicional de armadura, anexado ao lado de um navio. Fornece proteção adicional, mas torna o casco mais vulnerável a explosivos.
 
-ent-WallArmorAddonSolidCornerR = solid armor corner
-    .suffix = Right
-    .desc = An additional chunk of armor, attached to the side of a vessel. Provides additional protection, but makes the hull more vulnerable to explosives.
+ent-WallArmorAddonSolidCornerR = canto de armadura sólida
+    .suffix = Direita
+    .desc = Um pedaço adicional de armadura, anexado ao lado de um navio. Fornece proteção adicional, mas torna o casco mais vulnerável a explosivos.
 
 # From: _Mono/Entities/Structures/Wallmounts/Signs/emblems.yml
 
-ent-EmblemBrokenDrakeIndustries = Silvery metal bits
-    .desc = A few scraps of shattered metal inteweaved with welding marks, uncovering some cheap pale red alloys underneath a thin silver layer.
+ent-EmblemBrokenDrakeIndustries = Pedaços de metal prateado
+    .desc = Alguns pedaços de metal estilhaçado entrelaçados com marcas de solda, revelando algumas ligas vermelhas pálidas baratas sob uma camada fina de prata.
 
-ent-EmblemBrokenSteelHammer = Silvery metal bits
-    .desc = A few scraps of chipped paint and shattered metal, the remnants of a plasteel symbol.
+ent-EmblemBrokenSteelHammer = Pedaços de metal prateado
+    .desc = Alguns pedaços de tinta lascada e metal estilhaçado, os remanescentes de um símbolo de plasteel.
 
-ent-EmblemDrakeIndustries = Drake Industries Emblem
-    .desc = The emblem of Drake Industries, shining in an ivory white. Looks really expensive, or at least that's the aim.
+ent-EmblemDrakeIndustries = Emblema Drake Industries
+    .desc = O emblema da Drake Industries, brilhando em um branco marfim. Parece realmente caro, ou ao menos esse é o objetivo.
 
-ent-EmblemSteelHammer = Steel Hammer Manufacturing Emblem
-    .desc = The emblem of Steel Hammer Manufacturing, made in painted plasteel - just like their hulls.
+ent-EmblemSteelHammer = Emblema Steel Hammer Manufacturing
+    .desc = O emblema da Steel Hammer Manufacturing, feito de plasteel pintado - assim como seus cascos.
 
 # From: _Mono/Entities/Structures/walls.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseWallOutpost = super ultra giga mega deluxe reinforced wall
-    .suffix = OUTPOST ONLY
-    .desc = Keeps the air in and the chimera out.
+ent-BaseWallOutpost = parede reforçada super ultra giga mega deluxe
+    .suffix = APENAS AVANÇADO
+    .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
-ent-BaseWallTierFour = super ultra giga reinforced wall
-    .desc = Keeps the air in and the chimera out.
+ent-BaseWallTierFour = parede reforçada super ultra giga
+    .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
-ent-BaseWallTierOne = default wall
-    .desc = Keeps the air in and the chimera out.
+ent-BaseWallTierOne = parede padrão
+    .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
-ent-BaseWallTierThree = super reinforced wall
-    .desc = Keeps the air in and the chimera out.
+ent-BaseWallTierThree = parede reforçada super
+    .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
-ent-BaseWallTierTwo = reinforced wall
-    .desc = Keeps the air in and the chimera out.
+ent-BaseWallTierTwo = parede reforçada
+    .desc = Mantém o ar dentro e a quimera fora.
 
-ent-WallPlastitaniumCapital = reinforced plastitanium wall
-    .suffix = CAPITAL ONLY
+ent-WallPlastitaniumCapital = parede de plastitanio reforçada
+    .suffix = APENAS CAPITAL
 
-ent-WallPlastitaniumDiagonalCapital = reinforced plastitanium wall
-    .suffix = diagonal, CAPITAL ONLY
+ent-WallPlastitaniumDiagonalCapital = parede de plastitanio reforçada
+    .suffix = diagonal, APENAS CAPITAL
 
-ent-WallPlastitaniumDiagonalOutpost = plastitanium wall
-    .suffix = diagonal, OUTPOST ONLY
+ent-WallPlastitaniumDiagonalOutpost = parede de plastitanio
+    .suffix = diagonal, APENAS AVANÇADO
 
 ent-WallReinforcedChitinMonolithic = monolith tenebris
     .desc = {ent-BaseWallOutpost.desc}
 
-ent-WallReinforcedDiagonalOutpost = reinforced wall
-    .suffix = diagonal, OUTPOST ONLY
+ent-WallReinforcedDiagonalOutpost = parede reforçada
+    .suffix = diagonal, APENAS AVANÇADO
 
 ent-WallSolidChitinMonolithic = monolith tenebris
-    .suffix = DEPRECATED
+    .suffix = DEPRECATADO
     .desc = {ent-BaseWallOutpost.desc}
 
 # From: _Mono/Entities/Structures/windows.yml
 
-ent-PlasturaniumWindowDiagonalRadProof = plasturanium window
+ent-PlasturaniumWindowDiagonalRadProof = janela de plasturanio
     .suffix = Rad-Proof
-    .desc = Don't smudge up the rads down there.
+    .desc = Não suje as radiações lá embaixo.
 
-ent-PlasturaniumWindowDiagonalRadProofIndestructible = plasturanium window
-    .suffix = Rad-Proof, Indestructible
-    .desc = Don't smudge up the rads down there.
+ent-PlasturaniumWindowDiagonalRadProofIndestructible = janela de plasturanio
+    .suffix = Rad-Proof, Indestrutível
+    .desc = Não suje as radiações lá embaixo.
 
-ent-PlasturaniumWindowRadProof = plasturanium window
+ent-PlasturaniumWindowRadProof = janela de plasturanio
     .suffix = Rad-Proof
-    .desc = Don't smudge up the rads down there.
+    .desc = Não suje as radiações lá embaixo.
 
-ent-PlasturaniumWindowRadProofIndestructible = plasturanium window
-    .suffix = Rad-Proof, Indestructible
-    .desc = Don't smudge up the rads down there.
+ent-PlasturaniumWindowRadProofIndestructible = janela de plasturanio
+    .suffix = Rad-Proof, Indestrutível
+    .desc = Não suje as radiações lá embaixo.
 
-ent-ReinforcedWindowOutpost = reinforced window
-    .suffix = OUTPOST ONLY
+ent-ReinforcedWindowOutpost = janela reforçada
+    .suffix = APENAS AVANÇADO
 
-ent-TimedSealsTableSpawner = random timed seal spawner (30-180 minutes)
+ent-TimedSealsTableSpawner = gerador de selo temporizado aleatório (30-180 minutos)
 
-ent-WindowTimedSeal = timed seal
-    .suffix = 30 Minutes, Indestructible
-    .desc = A powerful energy field, sealing off a location for a short period of time.
+ent-WindowTimedSeal = selo temporizado
+    .suffix = 30 Minutos, Indestrutível
+    .desc = Um campo de energia poderoso, selando uma localização por um curto período de tempo.
 
 # From: _Mono/Entities/Tools/blueprints/blueprints_armory.yml
 
-ent-BlueprintAmmoMPSSMMissile = MPSSM missile cartridge blueprint
-    .desc = A blueprint for the production of missiles for the SM-27 MPSSM missile launcher
+ent-BlueprintAmmoMPSSMMissile = projeto de cartucho de míssil MPSSM
+    .desc = Um projeto para a produção de mísseis para o lançador de mísseis SM-27 MPSSM
 
-ent-BlueprintAmmoPPLCCell = phased plasma laser canister blueprint
-    .desc = A blueprint for the production of cells for the NT-WS PPLC rifle
+ent-BlueprintAmmoPPLCCell = projeto de cartucho de laser de plasma faseado
+    .desc = Um projeto para a produção de células para o rifle NT-WS PPLC
 
-ent-BlueprintLauncherRocket = RPG-7 Blueprint
-    .desc = A blueprint with a schematic of RPG-7 and the ammo for it. It can be inserted into an autolathe or a techfab.
+ent-BlueprintLauncherRocket = Projeto RPG-7
+    .desc = Um projeto com um esquema de RPG-7 e a munição para ele. Pode ser inserido em um autolathe ou techfab.
 
-ent-BlueprintWeaponRifleNtsfLtr = NTSF-LTR-556 Blueprint
-    .desc = A blueprint for the recipe of the NTSF-LTR-556. It can be inserted into an autolathe or a techfab.
+ent-BlueprintWeaponRifleNtsfLtr = Projeto NTSF-LTR-556
+    .desc = Um projeto para a receita do NTSF-LTR-556. Pode ser inserido em um autolathe ou techfab.
 
-ent-BlueprintWeaponSubMachineGunVectorNtsfHclm = NTSF-HCLM-45 Blueprint
-    .desc = A blueprint for the recipe of the NTSF-HCLM-45. It can be inserted into an autolathe or a techfab.
+ent-BlueprintWeaponSubMachineGunVectorNtsfHclm = Projeto NTSF-HCLM-45
+    .desc = Um projeto para a receita do NTSF-HCLM-45. Pode ser inserido em um autolathe ou techfab.
 
 # From: _Mono/Guidebook/sector_topology.yml
 
-ent-MonoSectorMap = sector map
+ent-MonoSectorMap = mapa de setor
 
 # From: _Mono/Guidebook/viper_group.yml
 
-ent-CompanyLogoViperGroup = viper group logo
+ent-CompanyLogoViperGroup = logo viper group
 
 # From: _Mono/Planets/fauna.yml
 
-ent-MonoPlanetmapFaunaDesert = desert planet fauna spawner
+ent-MonoPlanetmapFaunaDesert = gerador de fauna de planeta deserto
 
 # From: _Mono/Planets/ore.yml
 
-ent-MonoPlanetmapOreBasalt = planet mineral spawner
-    .suffix = Suave
+ent-MonoPlanetmapOreBasalt = gerador de minerais de planeta
+    .suffix = Macio
 
-ent-MonoPlanetmapOreBase = planet mineral spawner
-    .suffix = Suave
+ent-MonoPlanetmapOreBase = gerador de minerais de planeta
+    .suffix = Macio
 
-ent-MonoPlanetmapOreChromite = planet mineral spawner
-    .suffix = Suave
+ent-MonoPlanetmapOreChromite = gerador de minerais de planeta
+    .suffix = Macio
 
-ent-MonoPlanetmapOreSand = planet mineral spawner
-    .suffix = Suave
+ent-MonoPlanetmapOreSand = gerador de minerais de planeta
+    .suffix = Macio
 
-ent-MonoPlanetmapOreSnow = planet mineral spawner
-    .suffix = Suave
+ent-MonoPlanetmapOreSnow = gerador de minerais de planeta
+    .suffix = Macio
 
 # From: _Mono/Planets/permanent_planet.yml
 
-ent-MonoPlanetmapOreSandRich = planet mineral spawner
-    .suffix = Suave
+ent-MonoPlanetmapOreSandRich = gerador de minerais de planeta
+    .suffix = Macio
 
 # From: _Mono/Turf/items.yml
 
-ent-FloorTileItemCatwalkHorizontal = horizontal catwalk tile
+ent-FloorTileItemCatwalkHorizontal = azulejo de passarela horizontal
 
-ent-FloorTileItemCatwalkVertical = vertical catwalk tile
+ent-FloorTileItemCatwalkVertical = azulejo de passarela vertical
 
-ent-FloorTileItemDarkSteelCommercial = commercial dark steel tile
+ent-FloorTileItemDarkSteelCommercial = azulejo de aço escuro comercial
 
-ent-FloorTileItemGreySteelCommercial = commercial grey steel tile
+ent-FloorTileItemGreySteelCommercial = azulejo de aço cinza comercial
 
-ent-FloorTileItemGrid = maintenance grid tile
+ent-FloorTileItemGrid = azulejo de grade de manutenção
 
-ent-FloorTileItemGridDark = dark maintenance grid tile
+ent-FloorTileItemGridDark = azulejo de grade de manutenção escura
 
-ent-FloorTileItemMaintMonoSterile = sterile maint mono tile
+ent-FloorTileItemMaintMonoSterile = azulejo de manutenção mono estéril
 
-ent-FloorTileItemMaintSterile = sterile maint tile
+ent-FloorTileItemMaintSterile = azulejo de manutenção estéril
 
-ent-FloorTileItemSteelCommercial = commercial steel tile
+ent-FloorTileItemSteelCommercial = azulejo de aço comercial
 
-ent-FloorTileItemSteelDarkMonoCommercial = commercial mono dark steel tile
+ent-FloorTileItemSteelDarkMonoCommercial = azulejo de aço escuro mono comercial
 
-ent-FloorTileItemSteelGreyMonoCommercial = commercial mono grey steel tile
+ent-FloorTileItemSteelGreyMonoCommercial = azulejo de aço cinza mono comercial
 
-ent-FloorTileItemSteelMonoCommercial = commercial mono steel tile
+ent-FloorTileItemSteelMonoCommercial = azulejo de aço mono comercial
 
-ent-FloorTileItemTechMaintAlt = mechanical maintenance tile
+ent-FloorTileItemTechMaintAlt = azulejo de manutenção mecânica
 
-ent-FloorTileItemTechmaintSterile = sterile techmaint tile
+ent-FloorTileItemTechmaintSterile = azulejo de techmaint estéril

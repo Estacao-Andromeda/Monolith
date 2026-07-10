@@ -6,191 +6,191 @@
 
 # From: _EinsteinEngines/Body/Organs/ipc.yml
 
-ent-OrganIPCEars = sonic receptors
+ent-OrganIPCEars = receptores sônicos
 
-ent-OrganIPCEyes = robotic olhos
+ent-OrganIPCEyes = olhos robóticos
     .desc = 01001001 00100000 01110011 01100101 01100101 00100000 01111001 01101111 01110101 00100001
 
-ent-OrganIPCPump = micro pump
-    .desc = um micro pump, used até circulate coolant.
+ent-OrganIPCPump = micro bomba
+    .desc = Uma micro bomba, usada para circular refrigerante.
 
-ent-OrganIPCTongue = vocal modulator
-    .desc = um vocal modulator, used até produce speech.
+ent-OrganIPCTongue = modulador vocal
+    .desc = Um modulador vocal, usado para produzir fala.
 
 # From: _EinsteinEngines/Body/Parts/ipc.yml
 
-ent-HeadIPC = ipc cabeça
+ent-HeadIPC = cabeça IPC
 
-ent-LeftArmIPC = esquerdo ipc braço
+ent-LeftArmIPC = braço esquerdo IPC
 
-ent-LeftFootIPC = esquerdo ipc pé
+ent-LeftFootIPC = pé esquerdo IPC
 
-ent-LeftHandIPC = esquerdo ipc mão
+ent-LeftHandIPC = mão esquerda IPC
 
-ent-LeftLegIPC = esquerdo ipc perna
+ent-LeftLegIPC = perna esquerda IPC
 
-ent-RightArmIPC = direito ipc braço
+ent-RightArmIPC = braço direito IPC
 
-ent-RightFootIPC = direito ipc pé
+ent-RightFootIPC = pé direito IPC
 
-ent-RightHandIPC = direito ipc mão
+ent-RightHandIPC = mão direita IPC
 
-ent-RightLegIPC = direito ipc perna
+ent-RightLegIPC = perna direita IPC
 
-ent-TorsoIPC = ipc tronco
+ent-TorsoIPC = torso IPC
 
 # From: _EinsteinEngines/Entities/Mobs/Player/ipc.yml
 
-ent-MobIPC = Urist McPositronic
-    .desc = um positronic cérebro em um metal body.
+ent-MobIPC = Urist McPositrônico
+    .desc = Um cérebro positrônico em um corpo metálico.
 
-ent-MobIPCDummy = Urist McPositronic
-    .desc = um dummy IPC meant até be used em character setup.
+ent-MobIPCDummy = Urist McPositrônico
+    .desc = Um boneco IPC destinado a ser usado na configuração de personagem.
 
 # From: _EinsteinEngines/Objects/Devices/translator_implants.yml
 
-ent-AzazibaTranslatorImplant = azaziba translator implant
-    .desc = um implant giving o ability até entender e falar Azaziba.
+ent-AzazibaTranslatorImplant = implante tradutor de azaziba
+    .desc = Um implante que dá a capacidade de entender e falar Azaziba.
 
-ent-BasicTauCetiBasicTranslatorImplant = basic common translator implant
-    .desc = Provides seu illiterate friends o ability até entender o common galactic língua.
+ent-BasicTauCetiBasicTranslatorImplant = implante tradutor comum básico
+    .desc = Fornece aos seus amigos analfabetos a capacidade de entender a língua galáctica comum.
 
-ent-BubblishTranslatorImplant = bubblish translator implant
-    .desc = um implant aquele helps você falar e entender o language de slimes! Special vocal chords não included.
+ent-BubblishTranslatorImplant = implante tradutor de borbulheês
+    .desc = Um implante que ajuda você a falar e entender a língua das gosmas! Cordas vocais especiais não incluídas.
 
-ent-CanilunztTranslatorImplant = canilunzt translator implant
-    .desc = um translator implant aquele helps você communicate com seu local yeepers. Yeep!
+ent-CanilunztTranslatorImplant = implante tradutor de canilunzt
+    .desc = Um implante tradutor que ajuda você a se comunicar com os yeepers locais. Yeep!
 
-ent-ChittinTranslatorImplant = chittin translator implant
-    .desc = um implant giving o ability até entender e falar Chittin.
+ent-ChittinTranslatorImplant = implante tradutor de chittin
+    .desc = Um implante que dá a capacidade de entender e falar Chittin.
 
-ent-DraconicTranslatorImplant = draconic translator implant
-    .desc = um translator implant giving o ability até falar até dragons! Subsequently, também allows até communicate com o Unathi.
+ent-DraconicTranslatorImplant = implante tradutor dracônico
+    .desc = Um implante tradutor que dá a capacidade de falar com dragões! Posteriormente, também permite se comunicar com os Unathi.
 
-ent-MarishTranslatorImplant = marish translator implant
-    .desc = um implant giving o ability até entender e falar Marish.
+ent-MarishTranslatorImplant = implante tradutor marish
+    .desc = Um implante que dá a capacidade de entender e falar Marish.
 
-ent-MofficTranslatorImplant = Moffic translator implant
-    .desc = um implant designed até ajudar domesticate mothroaches. Subsequently, allows você até communicate com o mariposa people.
+ent-MofficTranslatorImplant = implante tradutor de moffic
+    .desc = Um implante projetado para ajudar a domesticar mariposas-barata. Posteriormente, permite que você se comunique com o povo mariposa.
 
-ent-NekomimeticTranslatorImplant = nekomimetic translator implant
-    .desc = um translator implant intially designed até ajudar domestic cat owners entender seu pets, agora granting o ability até entender e falar até Felinids!
+ent-NekomimeticTranslatorImplant = implante tradutor nekomimético
+    .desc = Um implante tradutor inicialmente projetado para ajudar proprietários de gatos domésticos a entenderem seus animais de estimação, agora concedendo a capacidade de entender e falar com felinídeos!
 
-ent-NewKinPidginTranslatorImplant = ka'rakk translator implant
-    .desc = um implant giving o ability até entender e falar Ka'rakk.
+ent-NewKinPidginTranslatorImplant = implante tradutor ka'rakk
+    .desc = Um implante que dá a capacidade de entender e falar Ka'rakk.
 
-ent-NovuNedericTranslatorImplant = novu-nederic translator implant
-    .desc = um implant giving o ability até entender e falar Novu-Nederic. Hoezee!
+ent-NovuNedericTranslatorImplant = implante tradutor novu-nederic
+    .desc = Um implante que dá a capacidade de entender e falar Novu-Nederic. Hoezee!
 
-ent-RootSpeakTranslatorImplant = root-falar translator implant
-    .desc = um implant aquele lets você falar para o trees. ou até o trees.
+ent-RootSpeakTranslatorImplant = implante tradutor raiz-fala
+    .desc = Um implante que permite falar pelas árvores. Ou com as árvores.
 
-ent-SiikMaasTranslatorImplant = siik'maas translator implant
-    .desc = um implant giving o ability até entender e falar Siik'maas.
+ent-SiikMaasTranslatorImplant = implante tradutor siik'maas
+    .desc = Um implante que dá a capacidade de entender e falar Siik'maas.
 
-ent-SolCommonTranslatorImplant = sol-common translator implant
-    .desc = um implant giving o ability até entender e falar SolCommon. Raaagh!
+ent-SolCommonTranslatorImplant = implante tradutor sol-comum
+    .desc = Um implante que dá a capacidade de entender e falar SolComum. Raaagh!
 
-ent-TauCetiBasicTranslatorImplant = advanced common translator implant
-    .desc = um more advanced version de o translator implant, teaches seu illiterate friends o ability até ambos falar e entender o galactic língua!
+ent-TauCetiBasicTranslatorImplant = implante tradutor comum avançado
+    .desc = Uma versão mais avançada do implante tradutor, ensina a seus amigos analfabetos a capacidade de falar e entender a língua galáctica!
 
-ent-ValyrianStandardTranslatorImplant = valyrian standard translator implant
-    .desc = um implant giving o ability até entender e falar Valyrian Standard. Chirp!
+ent-ValyrianStandardTranslatorImplant = implante tradutor valyrian padrão
+    .desc = Um implante que dá a capacidade de entender e falar Padrão Valyriano. Chirp!
 
 # From: _EinsteinEngines/Objects/Devices/translators.yml
 
-ent-AnimalTranslator = Animal translator
-    .desc = Translates todos o cutes noises aquele most animals fazer into um more understandable form!
+ent-AnimalTranslator = Tradutor de animais
+    .desc = Traduz todos os barulinhos fofos que a maioria dos animais faz para uma forma mais compreensível!
 
-ent-AzazibaTranslator = Azaziba translator
-    .desc = Translates speech entre Unathi e Azaziba. para Unathi até falar o Archaic form de seu native língua!
+ent-AzazibaTranslator = Tradutor Azaziba
+    .desc = Traduz fala entre Unathi e Azaziba. Para Unathi falarem a forma Arcaica de sua língua nativa!
 
-ent-BubblishTranslator = Bubblish translator
-    .desc = Translates speech entre Bubblish e Galactic Common, helping communicate com slimes e slime people.
+ent-BubblishTranslator = Tradutor Borbulheês
+    .desc = Traduz fala entre Borbulheês e Comum Galáctico, ajudando a se comunicar com gosmas e povo gosma.
 
-ent-CanilunztTranslator = Canilunzt translator
-    .desc = Translates speech entre Canilunzt e Galactic Common, allowing seu local yeepers até communicate com o locals e vice versa!
+ent-CanilunztTranslator = Tradutor Canilunzt
+    .desc = Traduz fala entre Canilunzt e Comum Galáctico, permitindo que os yeepers locais se comuniquem com os locais e vice-versa!
 
-ent-ChittinTranslator = Chittin translator
-    .desc = Translates speech entre Chittin e Tau-Ceti Basic. para talking até Chitinids!
+ent-ChittinTranslator = Tradutor Chittin
+    .desc = Traduz fala entre Chittin e Básico Tau-Ceti. Para falar com quitinídeos!
 
-ent-DraconicTranslator = Sinta'Unathi translator
-    .desc = Translates speech entre Sinta'Unathi e Tau-Ceti Basic, making ele easier até entender seu local Unathi.
+ent-DraconicTranslator = Tradutor Sinta'Unathi
+    .desc = Traduz fala entre Sinta'Unathi e Básico Tau-Ceti, facilitando entender seus Unathis locais.
 
-ent-MarishTranslator = Marish translator
-    .desc = Translates speech entre Marish e Tau-Ceti Basic. para talking até Shadowkin!
+ent-MarishTranslator = Tradutor Marish
+    .desc = Traduz fala entre Marish e Básico Tau-Ceti. Para falar com Sombrakin!
 
-ent-MofficTranslator = Moffic translator
-    .desc = Translates speech entre Moffic e Galactic Common, helping você entender o buzzes de seu pet mothroach!
+ent-MofficTranslator = Tradutor Moffic
+    .desc = Traduz fala entre Moffic e Comum Galáctico, ajudando você a entender os zumbidos do seu mariposa-barata de estimação!
 
-ent-NekomimeticTranslator = Nekomimetic translator
-    .desc = Translates speech entre Nekomimetic e Galactic Common, enabling você até communicate com seu pet cats.
+ent-NekomimeticTranslator = Tradutor Nekomimético
+    .desc = Traduz fala entre Nekomimético e Comum Galáctico, permitindo que você se comunique com seus gatos de estimação.
 
-ent-NewKinPidginTranslator = Ka'rakk translator
-    .desc = Interprets speech para, colloquially, vox Pidgin. ele almost sounds... Alive, dentro de. Atleast ele takes batteries!
+ent-NewKinPidginTranslator = Tradutor Ka'rakk
+    .desc = Interpreta fala para, coloquialmente, Pidgin Vox. Quase parece... Vivo, dentro. Pelo menos aceita baterias!
 
-ent-NovuNedericTranslator = Novu-Nederic translator
-    .desc = Translates speech entre Novu-Nederic e Galactic Common. como um verdadeiro Earthman!
+ent-NovuNedericTranslator = Tradutor Novu-Nederic
+    .desc = Traduz fala entre Novu-Nederic e Comum Galáctico. Como um verdadeiro terráqueo!
 
-ent-RootSpeakTranslator = RootSpeak translator
-    .desc = Translates speech entre RootSpeak e Galactic Common. você may agora falar para o trees.
+ent-RootSpeakTranslator = Tradutor Raiz-Fala
+    .desc = Traduz fala entre Raiz-Fala e Comum Galáctico. Agora você pode falar pelas árvores.
 
-ent-SiikMaasTranslator = Siik'maas translator
-    .desc = Translates speech entre Siik'maas e Tau-Ceti Basic. para talking até Tajara!
+ent-SiikMaasTranslator = Tradutor Siik'maas
+    .desc = Traduz fala entre Siik'maas e Básico Tau-Ceti. Para falar com Tajara!
 
-ent-SolCommonTranslator = Sol Common translator
-    .desc = Translates speech entre Sol Common e Galactic Common. como um verdadeiro Earthman!
+ent-SolCommonTranslator = Tradutor Sol Comum
+    .desc = Traduz fala entre Sol Comum e Comum Galáctico. Como um verdadeiro terráqueo!
 
 ent-Translator =
     .suffix = Energizado
 
-ent-TranslatorForeigner = foreigner's translator
-    .desc = um special-issue translator aquele helps foreigner's falar e entender isto station's primary language.
+ent-TranslatorForeigner = tradutor de estrangeiro
+    .desc = Um tradutor de edição especial que ajuda estrangeiros a falar e entender o idioma principal desta estação.
 
 ent-TranslatorPoweredBase =
 
-ent-TranslatorUnpowered = translator
-    .desc = Translates speech.
+ent-TranslatorUnpowered = tradutor
+    .desc = Traduz fala.
 
-ent-ValyrianStandardTranslator = Valyrian Standard translator
-    .desc = Translates speech entre Valyrian Standard e Tau-Ceti Basic. para talking até Harpies!
+ent-ValyrianStandardTranslator = Tradutor Padrão Valyrian
+    .desc = Traduz fala entre Padrão Valyrian e Básico Tau-Ceti. Para falar com Harpias!
 
-ent-XenoTranslator = Xeno translator
-    .desc = Translates speech entre Xeno e Galactic Common. isto irá provavelmente não ajudar você survive um encounter, though.
+ent-XenoTranslator = Tradutor Xeno
+    .desc = Traduz fala entre Xeno e Comum Galáctico. Provavelmente não ajudará você a sobreviver a um encontro, porém.
 
 # From: _EinsteinEngines/Objects/Misc/translator_implanters.yml
 
-ent-AdvancedGalaticCommonTranslatorImplanter = advanced common translator implanter
+ent-AdvancedGalaticCommonTranslatorImplanter = implantador de tradutor comum avançado
 
-ent-AzazibaTranslatorImplanter = azaziba translator implant
+ent-AzazibaTranslatorImplanter = implante tradutor azaziba
 
-ent-BasicGalaticCommonTranslatorImplanter = basic common translator implanter
+ent-BasicGalaticCommonTranslatorImplanter = implantador de tradutor comum básico
 
-ent-BubblishTranslatorImplanter = bubblish translator implant
+ent-BubblishTranslatorImplanter = implante tradutor borbulheês
 
-ent-CanilunztTranslatorImplanter = canilunzt translator implant
+ent-CanilunztTranslatorImplanter = implante tradutor canilunzt
 
-ent-ChittinTranslatorImplanter = chittin translator implant
+ent-ChittinTranslatorImplanter = implante tradutor chittin
 
-ent-DraconicTranslatorImplanter = unathi translator implant
+ent-DraconicTranslatorImplanter = implante tradutor unathi
 
-ent-MarishTranslatorImplanter = marish translator implant
+ent-MarishTranslatorImplanter = implante tradutor marish
 
-ent-MofficTranslatorImplanter = moffic translator implant
+ent-MofficTranslatorImplanter = implante tradutor moffic
 
-ent-NekomimeticTranslatorImplanter = nekomimetic translator implant
+ent-NekomimeticTranslatorImplanter = implante tradutor nekomimético
 
-ent-NewKinPidginTranslatorImplanter = ka'rakk translator implant
+ent-NewKinPidginTranslatorImplanter = implante tradutor ka'rakk
 
-ent-NovuNedericTranslatorImplanter = novu-nederic translator implant
+ent-NovuNedericTranslatorImplanter = implante tradutor novu-nederic
 
-ent-RootSpeakTranslatorImplanter = root-falar translator implant
+ent-RootSpeakTranslatorImplanter = implante tradutor raiz-fala
 
-ent-SiikMaasTranslatorImplanter = siik'maas translator implant
+ent-SiikMaasTranslatorImplanter = implante tradutor siik'maas
 
-ent-SolCommonTranslatorImplanter = sol-common translator implant
+ent-SolCommonTranslatorImplanter = implante tradutor sol-comum
 
-ent-ValyrianStandardTranslatorImplanter = valyrian standard translator implant
+ent-ValyrianStandardTranslatorImplanter = implante tradutor valyrian padrão
 
-ent-BaseTranslatorImplanter = basic translator implanter
-ent-PartIPCBase = ipc body part
+ent-BaseTranslatorImplanter = implantador de tradutor básico
+ent-PartIPCBase = parte do corpo IPC

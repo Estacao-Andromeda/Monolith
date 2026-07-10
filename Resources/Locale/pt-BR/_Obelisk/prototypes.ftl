@@ -6,30 +6,30 @@
 
 # From: _Obelisk/Actions/types.yml
 
-ent-ActionHydrakinCoolOff = hydrakin-Ação-name-fresco-off
-    .desc = hydrakin-Ação-description-fresco-off
+ent-ActionHydrakinCoolOff = hydrakin-action-name-cool-off
+    .desc = hydrakin-action-description-cool-off
 
 # From: _Obelisk/Body/Parts/hydrakin.yml
 
-ent-HeadHydrakin = hydrakin cabeça
+ent-HeadHydrakin = cabeça de hidra
 
-ent-LeftArmHydrakin = esquerdo hydrakin braço
+ent-LeftArmHydrakin = braço esquerdo de hidra
 
-ent-LeftFootHydrakin = esquerdo hydrakin pé
+ent-LeftFootHydrakin = pé esquerdo de hidra
 
-ent-LeftHandHydrakin = esquerdo hydrakin mão
+ent-LeftHandHydrakin = mão esquerda de hidra
 
-ent-LeftLegHydrakin = esquerdo Hydrakin perna
+ent-LeftLegHydrakin = perna esquerda de hidra
 
-ent-RightArmHydrakin = direito hydrakin braço
+ent-RightArmHydrakin = braço direito de hidra
 
-ent-RightFootHydrakin = direito hydrakin pé
+ent-RightFootHydrakin = pé direito de hidra
 
-ent-RightHandHydrakin = direito hydrakin mão
+ent-RightHandHydrakin = mão direita de hidra
 
-ent-RightLegHydrakin = direito hydrakin perna
+ent-RightLegHydrakin = perna direita de hidra
 
-ent-TorsoHydrakin = hydrakin tronco
+ent-TorsoHydrakin = torso de hidra
 
 # From: _Obelisk/Entities/Mobs/Player/hydrakin.yml
 
@@ -40,4 +40,4 @@ ent-MobHydrakin = Urist McHydra
 ent-MobHydrakinDummy =
 
 ent-BaseMobHydrakin = Urist McHydra
-ent-PartHydrakin = hydrakin body part
+ent-PartHydrakin = parte do corpo de hidra

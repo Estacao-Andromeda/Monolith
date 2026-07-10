@@ -6,24 +6,24 @@
 
 # From: _Funkystation/Entities/Structures/Machines/Atmospherics/crystallizer.yml
 
-ent-Crystallizer = crystallizer
-    .desc = Used até crystallize ou solidify gases.
+ent-Crystallizer = cristalizador
+    .desc = Usado para cristalizar ou solidificar gases.
 
 # From: _Funkystation/Entities/Structures/Storage/Canisters/gas_canisters.yml
 
-ent-BZCanister = bz canister
+ent-BZCanister = cilindro de bz
 
 ent-BZCanisterBroken =
 
-ent-HealiumCanister = healium canister
+ent-HealiumCanister = cilindro de healium
 
 ent-HealiumCanisterBroken =
 
-ent-NitriumCanister = nitrium canister
+ent-NitriumCanister = cilindro de nitrium
 
 ent-NitriumCanisterBroken =
 
-ent-PluoxiumCanister = pluoxium canister
+ent-PluoxiumCanister = cilindro de pluoxium
 
 ent-PluoxiumCanisterBroken =
 

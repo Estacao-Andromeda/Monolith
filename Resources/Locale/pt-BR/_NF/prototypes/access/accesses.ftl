@@ -2,7 +2,7 @@ id-card-access-level-frontier = TSF
 
 id-card-access-level-pilot = Piloto
 
-id-card-access-level-mail = Correios
+id-card-access-level-mail = Correio
 
 id-card-access-level-mercenary = Mercenário
 

@@ -6,41 +6,41 @@
 
 # From: _Crescent/Biomes/biome_sources.yml
 
-ent-BaseBiomeSource = base biome source
+ent-BaseBiomeSource = fonte de bioma base
 
-ent-BiomeSourceFallback = fallback biome source
+ent-BiomeSourceFallback = fonte de bioma reserva
 
-ent-BiomeSourceFarReachesI = far reaches I biome source
+ent-BiomeSourceFarReachesI = fonte de bioma confins distantes I
 
-ent-BiomeSourceFarReachesII = far reaches II biome source
+ent-BiomeSourceFarReachesII = fonte de bioma confins distantes II
 
-ent-BiomeSourceFarReachesIII = far reaches III biome source
+ent-BiomeSourceFarReachesIII = fonte de bioma confins distantes III
 
-ent-BiomeSourceFarReachesIV = far reaches IV biome source
+ent-BiomeSourceFarReachesIV = fonte de bioma confins distantes IV
 
-ent-BiomeSourceInnerRing = inner ring biome source
+ent-BiomeSourceInnerRing = fonte de bioma anel interno
 
-ent-BiomeSourceMiddleRing = middle ring biome source
+ent-BiomeSourceMiddleRing = fonte de bioma anel médio
 
-ent-BiomeSourceOuterRing = outer ring biome source
+ent-BiomeSourceOuterRing = fonte de bioma anel externo
 
 # From: _Crescent/Entities/Shields/ship_shields.yml
 
-ent-ShipShield = ship shield
+ent-ShipShield = escudo de nave
 
 # From: _Crescent/NPCs/Shuttle/control.yml
 
-ent-ComputerDroneControl = Drone control console
-    .desc = um console aquele lets você control linked drones.
+ent-ComputerDroneControl = console de controle de drones
+    .desc = Um console que permite controlar drones vinculados.
 
-ent-ComputerDroneControlStation = station Drone control console
-    .desc = um console aquele lets você control linked drones.
+ent-ComputerDroneControlStation = console de controle de drones da estação
+    .desc = Um console que permite controlar drones vinculados.
 
-ent-DroneControlCircuitboard = Drone control console board
-    .desc = um computer printed circuit board para um Drone control console.
+ent-DroneControlCircuitboard = placa de console de controle de drones
+    .desc = Uma placa de circuito de computador para um console de controle de drones.
 
-ent-DroneController = Drone control server
-    .desc = Pilots o Drone ele's em, se controlled by um Drone control console.
+ent-DroneController = servidor de controle de drones
+    .desc = Pilota o drone em que está, se controlado por um console de controle de drones.
 
-ent-BaseDispenser = dispenser
-    .desc = Dispenser
+ent-BaseDispenser = dispensador
+    .desc = Dispensador

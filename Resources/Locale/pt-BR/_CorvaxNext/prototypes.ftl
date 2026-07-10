@@ -6,8 +6,8 @@
 
 # From: _CorvaxNext/Actions/station_ai.yml
 
-ent-ActionBackToAi = Voltar para a IA
-    .desc = Envie sua mente de volta para o núcleo.
+ent-ActionBackToAi = Voltar à IA
+    .desc = Envia sua mente de volta ao núcleo.
 
 ent-ActionOpenRemoteDevicesMenu = Abrir lista de dispositivos remotos
     .desc = Abre um menu com os dispositivos remotos disponíveis.

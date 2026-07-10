@@ -7,52 +7,69 @@
 # From: _NF/Actions/types.yml
 
 ent-ActionActivateDissonantWhispersImplant = Sussurros Dissonantes
+    .desc = Pronuncia sussurros dissonantes e inquietantes que dão forma a horrores indescritíveis.
 .desc = Emite sussurros desarmoniosos e inquietantes que dão forma a horrores cósmicos.
 
 # From: _NF/Body/Organs/goblin_organs.yml
 
 ent-OrganGoblinAppendix = apêndice
+    .suffix = Goblin
 .suffix = Goblin
 
 ent-OrganGoblinBrain = cérebro
+    .suffix = Goblin
+    .desc = A fonte de seus problemas.
 .suffix = Goblin
 .desc = A fonte de seus problemas.
 
 ent-OrganGoblinEars = orelhas
+    .suffix = Goblin
 .suffix = Goblin
 
 ent-OrganGoblinEyes = olhos
+    .suffix = Goblin
 .suffix = Goblin
 
 ent-OrganGoblinHeart = coração
+    .suffix = Goblin
 .suffix = Goblin
 
 ent-OrganGoblinKidneys = rins
+    .suffix = Goblin
 .suffix = Goblin
 
 ent-OrganGoblinLiver = fígado
+    .suffix = Goblin
 .suffix = Goblin
 
 ent-OrganGoblinLungs = pulmões
+    .suffix = Goblin
+    .desc = Eles respiram negócios.
 .suffix = Goblin
 .desc = Eles respiram negócios.
 
 ent-OrganGoblinStomach = estômago
+    .suffix = Goblin
+    .desc = Cogumelos vão aqui.
 .suffix = Goblin
 .desc = Cogumelos vão aqui.
 
 ent-OrganGoblinTongue = língua
+    .suffix = Goblin
 .suffix = Goblin
 
 # From: _NF/Body/Organs/synthetic_organs.yml
 
 ent-OrganSyntheticHeart = coração sintético
+    .desc = Zurze e bombeia sangue.
 .desc = Zumbi e bombeia sangue.
 
 ent-OrganSyntheticKidneys = rins sintéticos
+    .desc = Filtra toxinas da corrente sanguínea em taxa mais alta que o fígado orgânico antigo.
 .desc = Filtra toxinas da corrente sanguínea em taxa mais alta que o velho fígado 'orgânico.
 
 ent-OrganSyntheticLiver = fígado sintético
+    .desc = Filtra toxinas da corrente sanguínea em taxa mais alta que o fígado orgânico antigo.
 .desc = Filtra toxinas da corrente sanguínea em taxa mais alta que o velho fígado 'orgânico.
 
 # From: _NF/Body/Parts/goblin_parts.yml
@@ -82,88 +99,111 @@ ent-TorsoGoblin = torso de goblin
 
 # From: _NF/Catalog/Fills/Backpacks/duffelbag.yml
 
-ent-ClothingBackpackDuffelEVABundleAtmosTech = kit EVA de técnico atmosférico
+ent-ClothingBackpackDuffelEVABundleAtmosTech = pacote VEX de técnico atmosférico
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleBoxerBlue = kit EVA de boxeador
-    .suffix = Filled, Blue
+ent-ClothingBackpackDuffelEVABundleBoxerBlue = pacote VEX de pugilista
+    .suffix = Preenchido, Azul
 
-ent-ClothingBackpackDuffelEVABundleBoxerGreen = kit EVA de boxeador
-    .suffix = Filled, Green
+ent-ClothingBackpackDuffelEVABundleBoxerGreen = pacote VEX de pugilista
+    .suffix = Preenchido, Verde
 
-ent-ClothingBackpackDuffelEVABundleBoxerRandom = kit EVA de boxeador
-    .suffix = Filled, Random
+ent-ClothingBackpackDuffelEVABundleBoxerRandom = pacote VEX de pugilista
+    .suffix = Preenchido, Aleatório
 
-ent-ClothingBackpackDuffelEVABundleBoxerRed = kit EVA de boxeador
-    .suffix = Filled, Red
+ent-ClothingBackpackDuffelEVABundleBoxerRed = pacote VEX de pugilista
+    .suffix = Preenchido, Vermelho
 
-ent-ClothingBackpackDuffelEVABundleBoxerYellow = kit EVA de boxeador
-    .suffix = Filled, Yellow
+ent-ClothingBackpackDuffelEVABundleBoxerYellow = pacote VEX de pugilista
+    .suffix = Preenchido, Amarelo
 
-ent-ClothingBackpackDuffelEVABundleCaptain = kit EVA de capitão
+ent-ClothingBackpackDuffelEVABundleCaptain = pacote VEX de capitão
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleCargo = kit EVA de técnico de carga
+ent-ClothingBackpackDuffelEVABundleCargo = pacote VEX de técnico de cargas
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleChaplain = kit EVA de capelão
+ent-ClothingBackpackDuffelEVABundleChaplain = pacote VEX de capelão
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleContractor = kit EVA de contratado
+ent-ClothingBackpackDuffelEVABundleContractor = pacote VEX de contratista
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleEngineer = kit EVA de engenheiro
+ent-ClothingBackpackDuffelEVABundleEngineer = pacote VEX de engenheiro
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleHydro = kit EVA de botânico
+ent-ClothingBackpackDuffelEVABundleHydro = pacote VEX de botânico
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleJanitor = kit EVA de zelador
+ent-ClothingBackpackDuffelEVABundleJanitor = pacote VEX de zelador
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleMail = kit EVA de carteiro
+ent-ClothingBackpackDuffelEVABundleMail = pacote VEX de carteiro
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleMedical = kit EVA de especialista médico
+ent-ClothingBackpackDuffelEVABundleMedical = pacote VEX de especialista médico
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleMercenary = kit EVA de mercenário
+ent-ClothingBackpackDuffelEVABundleMercenary = pacote VEX de mercenário
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleNfsd = kit EVA do TSFMC
+ent-ClothingBackpackDuffelEVABundleNfsd = pacote VEX de TSFMC
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundlePilot = kit EVA de piloto
+ent-ClothingBackpackDuffelEVABundlePilot = pacote VEX de piloto
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundlePrivateSec = kit EVA de segurança privada
+ent-ClothingBackpackDuffelEVABundlePrivateSec = pacote VEX de segurança privada
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleSalvage = kit EVA de especialista em salvamento
+ent-ClothingBackpackDuffelEVABundleSalvage = pacote VEX de especialista em salvamento
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleScientist = kit EVA de cientista
+ent-ClothingBackpackDuffelEVABundleScientist = pacote VEX de cientista
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleServiceWorker = kit EVA de trabalhador de serviços
+ent-ClothingBackpackDuffelEVABundleServiceWorker = pacote VEX de trabalhador de serviços
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelEVABundleSr = kit EVA de supervisor
+ent-ClothingBackpackDuffelEVABundleSr = pacote VEX de supervisor
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-ClothingBackpackDuffelNfsdEmpBundle = kit EMP China-Lake do TSFMC
+ent-ClothingBackpackDuffelNfsdEmpBundle = pacote EMP China-Lake TSFMC
+    .desc = Um velho lançador de granadas China-Lake repintado incluído com 10 rodadas de EMP.
 .desc = Um lança-granadas China-Lake antigo e repintado, acompanhado de 10 granadas EMP.
 
-ent-ClothingBackpackDuffelNfsdTrackingBundle = kit de rastreamento
+ent-ClothingBackpackDuffelNfsdTrackingBundle = pacote de rastreamento
+    .desc = Todo o equipamento necessário para rastrear quase qualquer coisa, cuidado ao rastrear pessoas
 .desc = Todo o equipamento necessário para rastrear quase qualquer coisa, cuidado ao rastrear pessoas
 
-ent-ClothingBackpackDuffelSurgeryAdvancedFilled = mochila cirúrgica avançada
+ent-ClothingBackpackDuffelSurgeryAdvancedFilled = bolsa de lona cirúrgica avançada
+    .desc = Uma bolsa de lona grande para guardar suprimentos médicos extras - esta parece ser projetada para guardar ferramentas cirúrgicas avançadas.
 .desc = Uma mochila grande para suprimentos médicos extras - esta parece ser projetada para ferramentas cirúrgicas avançadas.
 
-ent-ClothingBackpackDuffelSurgeryImpovFilled = mochila cirúrgica improvisada
+ent-ClothingBackpackDuffelSurgeryImpovFilled = bolsa de lona cirúrgica improvisada
+    .desc = Isto parece ser um conjunto de ferramentas cirúrgicas improvisadas montadas por alguém.
 .desc = Parece um conjunto de ferramentas cirúrgicas improvisadas montado por alguém.
 
-ent-ClothingBackpackDuffelSyndicateFilledEmpGrenadeLauncher = kit EMP China-Lake
+ent-ClothingBackpackDuffelSyndicateFilledEmpGrenadeLauncher = pacote EMP China-Lake do Sindicato
+    .desc = Um velho lançador de granadas China-Lake incluído com 8 rodadas de EMP.
 .desc = Um lança-granadas China-Lake antigo acompanhado de 8 granadas EMP.
 
 # From: _NF/Catalog/Fills/Backpacks/npc_loot_cultists.yml
@@ -180,7 +220,7 @@ ent-ClothingBackpackBloodCultLootC = {ent-CultistMessengerGiftBox}
 ent-ClothingBackpackBloodCultLootD = {ent-CultistMessengerGiftBox}
     .desc = {ent-CultistMessengerGiftBox.desc}
 
-ent-ClothingBackpackBloodCultZealotLootA = kit de equipamento de cultista
+ent-ClothingBackpackBloodCultZealotLootA = pacote de equipamento de cultista
     .desc = {ent-CultistMessengerGiftBox.desc}
 
 ent-ClothingBackpackBloodCultZealotLootB = {ent-CultistMessengerGiftBox}
@@ -193,7 +233,9 @@ ent-ClothingBackpackBloodCultZealotLootD = {ent-CultistMessengerGiftBox}
     .desc = {ent-CultistMessengerGiftBox.desc}
 
 # Abstract entity (referenceable by children)
-ent-CultistMessengerGiftBox = kit de cultista sanguinário
+ent-CultistMessengerGiftBox = pacote de cultista sanguinário
+    .suffix = Loot de NPC
+    .desc = Caixas de loot? Aqui?
 .suffix = Saque de NPC
 .desc = Caixas de saque? Aqui?
 
@@ -214,7 +256,8 @@ ent-ClothingBackpackExplorerRangedT2 = {ent-ExplorerDuffelGiftBox}
 ent-ClothingBackpackExplorerRangedT3 = {ent-ExplorerDuffelGiftBox}
 
 # Abstract entity (referenceable by children)
-ent-ExplorerDuffelGiftBox = kit de explorador
+ent-ExplorerDuffelGiftBox = pacote de explorador
+    .suffix = Loot de NPC
 .suffix = Saque de NPC
 
 # From: _NF/Catalog/Fills/Backpacks/npc_loot_mercenaries.yml
@@ -259,18 +302,22 @@ ent-ClothingBeltWebbingMecranaryTier2Shotgun = {ent-MercenaryWebbingBox}
     .desc = {ent-MercenaryWebbingBox.desc}
 
 # Abstract entity (referenceable by children)
-ent-MercenaryDuffelGiftBox = kit de equipamento de mercenário
+ent-MercenaryDuffelGiftBox = pacote de equipamento de mercenário
+    .suffix = Loot de NPC
+    .desc = Caixas de loot? Aqui?
 .suffix = Saque de NPC
 .desc = Caixas de saque? Aqui?
 
 # Abstract entity (referenceable by children)
-ent-MercenaryWebbingBox = kit de munição de mercenário
+ent-MercenaryWebbingBox = pacote de munição de mercenário
+    .suffix = Loot de NPC
+    .desc = Caixas de loot? Aqui?
 .suffix = Saque de NPC
 .desc = Caixas de saque? Aqui?
 
 # From: _NF/Catalog/Fills/Backpacks/npc_loot_punks.yml
 
-ent-ClothingBackpackPunkLootA = kit de equipamento de punk
+ent-ClothingBackpackPunkLootA = pacote de equipamento punk
     .desc = {ent-PunkMessengerGiftBox.desc}
 
 ent-ClothingBackpackPunkLootB = {ent-PunkMessengerGiftBox}
@@ -286,29 +333,32 @@ ent-ClothingBackpackPunkLootD = {ent-PunkMessengerGiftBox}
     .desc = {ent-PunkMessengerGiftBox.desc}
 
 # Abstract entity (referenceable by children)
-ent-PunkMessengerGiftBox = kit de punk
+ent-PunkMessengerGiftBox = pacote punk
+    .suffix = Loot de NPC
+    .desc = Caixas de loot? Aqui?
 .suffix = Saque de NPC
 .desc = Caixas de saque? Aqui?
 
 # From: _NF/Catalog/Fills/Backpacks/npc_loot_silicons.yml
 
 ent-ClothingBackpackRogueSiliconT0 = {ent-RogueSiliconGiftBox}
-    .suffix = NPC Loot, T0
+    .suffix = Loot de NPC, T0
 
 ent-ClothingBackpackRogueSiliconT1 = {ent-RogueSiliconGiftBox}
-    .suffix = NPC Loot, T1
+    .suffix = Loot de NPC, T1
 
 ent-ClothingBackpackRogueSiliconT2 = {ent-RogueSiliconGiftBox}
-    .suffix = NPC Loot, T2
+    .suffix = Loot de NPC, T2
 
 ent-ClothingBackpackRogueSiliconT3 = {ent-RogueSiliconGiftBox}
-    .suffix = NPC Loot, T3
+    .suffix = Loot de NPC, T3
 
 ent-ClothingBackpackRogueSiliconT4 = {ent-RogueSiliconGiftBox}
-    .suffix = NPC Loot, T4
+    .suffix = Loot de NPC, T4
 
 # Abstract entity (referenceable by children)
-ent-RogueSiliconGiftBox = kit de unidade descontrolada
+ent-RogueSiliconGiftBox = pacote de unidade renegada
+    .suffix = Loot de NPC
 .suffix = Saque de NPC
 
 # From: _NF/Catalog/Fills/Backpacks/npc_loot_syndicate.yml
@@ -434,122 +484,158 @@ ent-ClothingBackpackSyndicateSecondOfficerLootD = {ent-SyndieMessengerGiftBox}
     .desc = {ent-SyndieMessengerGiftBox.desc}
 
 # Abstract entity (referenceable by children)
-ent-SyndieDuffelGiftBox = kit de operacional naval do Sindicato
+ent-SyndieDuffelGiftBox = pacote de operativo naval do Sindicato
+    .suffix = Loot de NPC
+    .desc = Caixas de loot? Aqui?
 .suffix = Saque de NPC
 .desc = Caixas de saque? Aqui?
 
 # Abstract entity (referenceable by children)
-ent-SyndieMessengerGiftBox = kit de operacional naval do Sindicato
+ent-SyndieMessengerGiftBox = pacote de operativo naval do Sindicato
+    .suffix = Loot de NPC
+    .desc = Caixas de loot? Aqui?
 .suffix = Saque de NPC
 .desc = Caixas de saque? Aqui?
 
 # From: _NF/Catalog/Fills/Boxes/ammunition.yml
 
 ent-BoxMagazine556x45mmRubber = caixa de carregadores 556x45mm (borracha)
+    .desc = Uma caixa cheia de carregadores 556x45mm (borracha).
 .desc = Uma caixa cheia de carregadores 556x45mm (borracha).
 
 ent-BoxMagazine635x40mmCaselessRubber = caixa de carregadores 635x40mm sem estojo (borracha)
+    .desc = Uma caixa cheia de
 .desc = Uma caixa cheia de
 
 ent-BoxMagazine762x39mmRubber = caixa de carregadores 762x39mm (borracha)
+    .desc = Uma caixa cheia de carregadores 762x39mm (prática).
 .desc = Uma caixa cheia de carregadores 762x39mm (prática).
 
 ent-BoxMagazine9x19mmRubber = caixa de carregadores de pistola 9x19mm (borracha)
+    .desc = Uma caixa cheia de carregadores de pistola 9x19mm (borracha).
 .desc = Uma caixa cheia de carregadores de pistola 9x19mm (borracha).
 
 ent-BoxMagazine9x19mmSubMachineGunRubber = caixa de carregadores de SMG 9x19mm (borracha)
+    .desc = Uma caixa cheia de carregadores de SMG 9x19mm (borracha).
 .desc = Uma caixa cheia de carregadores de SMG 9x19mm (borracha).
 
 # From: _NF/Catalog/Fills/Boxes/general.yml
 
 ent-BoxColoredLightbulb = caixa de lâmpadas coloridas
+    .desc = Esta caixa é moldada no interior para que apenas tubos de luz e lâmpadas se encaixem. Está cheia de lâmpadas coloridas elegantes!
 .desc = Esta caixa é moldada por dentro para que apenas tubos de luz e lâmpadas se encaixem. Está cheia de lâmpadas coloridas elegantes!
 
 ent-BoxColoredLighttube = caixa de tubos de luz coloridos
+    .desc = Esta caixa é moldada no interior para que apenas tubos de luz e lâmpadas se encaixem.
 .desc = Esta caixa é moldada por dentro para que apenas tubos de luz e lâmpadas se encaixem.
 
 ent-BoxColoredNavigationLighttube = caixa de tubos de luz de navegação
+    .desc = Esta caixa é moldada no interior para que apenas tubos de luz e lâmpadas se encaixem. Está cheia de luzes vermelhas e verdes. Festivo!
 .desc = Esta caixa é moldada por dentro para que apenas tubos de luz e lâmpadas se encaixem. Está cheia de luzes vermelhas e verdes. Festivo!
 
-ent-BoxEncryptionKeyNfsd = caixa de chaves de criptografia do DNDF
+ent-BoxEncryptionKeyNfsd = caixa de chave de criptografia NFSD
 
 ent-BoxExteriorLightTube = caixa de tubos de luz externos
+    .desc = Esta caixa é moldada no interior para que apenas tubos de luz e lâmpadas se encaixem.
 .desc = Esta caixa é moldada por dentro para que apenas tubos de luz e lâmpadas se encaixem.
 
-ent-BoxPaper = caixa de papel
+ent-BoxPaper = Caixa de papel
+    .desc = Uma caixa cheia de papéis.
 .desc = Uma caixa cheia de papéis.
 
-ent-BoxPaperCaptainsThoughts = caixa de papéis Pensamentos do Capitão
+ent-BoxPaperCaptainsThoughts = caixa de papel pensamentos do capitão
+    .desc = Uma caixa cheia de papéis.
 .desc = Uma caixa cheia de papéis.
 
 ent-BoxPaperOffice = caixa de papel de escritório
+    .desc = Uma caixa cheia de papéis.
 .desc = Uma caixa cheia de papéis.
 
-ent-BoxT3SuperCapacitor = kit de atualização de propulsores
+ent-BoxT3SuperCapacitor = kit de atualização de propulsor
+    .desc = Uma caixa de supercapacitores.
 .desc = Uma caixa de supercapacitores.
 
 ent-BoxWetFloorSign = caixa de placas de piso molhado
+    .desc = Uma caixa de placas de piso molhado. Ruídos de zelador feliz.
 .desc = Uma caixa de placas de piso molhado. Sons felizes de zelador.
 
-ent-MysteryFigureBoxBulk = caixa a granel de minifiguras misteriosas de astronautas
+ent-MysteryFigureBoxBulk = caixa bulk de mini-figure misteriosas de astronautas
+    .desc = Uma caixa contendo seis caixas de mini-figure misteriosas.
 .desc = Uma caixa contendo seis caixas de minifiguras misteriosas.
 
 # From: _NF/Catalog/Fills/Boxes/nfsd.yml
 
 ent-BoxBreachingCharges = caixa de granadas de cargas de arrombamento
+    .desc = Uma caixa cheia de cargas de arrombamento.
 .desc = Uma caixa cheia de cargas de arrombamento.
 
-ent-BoxBundleNfsd = caixa de itens do TSFMC
+ent-BoxBundleNfsd = caixa de itens TSFMC
+    .desc = Uma caixa cheia de itens TSFMC.
 .desc = Uma caixa cheia de itens do TSFMC.
 
 ent-BoxEMPGrenadesNfsd = caixa de granadas EMP
+    .desc = Uma caixa cheia de granadas EMP.
 .desc = Uma caixa cheia de granadas EMP.
 
 ent-BoxExplosiveGrenadesNfsd = caixa de granadas explosivas
+    .desc = Uma caixa cheia de granadas explosivas.
 .desc = Uma caixa cheia de granadas explosivas.
 
 ent-BoxFlashBangGrenades = caixa de granadas flashbang
+    .desc = Uma caixa cheia de granadas flashbang.
 .desc = Uma caixa cheia de granadas flashbang.
 
 ent-BoxIncendiaryGrenadesNfsd = caixa de granadas incendiárias
+    .desc = Uma caixa cheia de granadas incendiárias.
 .desc = Uma caixa cheia de granadas incendiárias.
 
 ent-BoxShrapnelGrenadesNfsd = caixa de granadas de estilhaços
+    .desc = Uma caixa cheia de granadas de estilhaços.
 .desc = Uma caixa cheia de granadas de estilhaços.
 
 ent-BoxSmokeGrenades = caixa de granadas de fumaça
+    .desc = Uma caixa cheia de granadas de fumaça.
 .desc = Uma caixa cheia de granadas de fumaça.
 
 ent-BoxStingerGrenadesNfsd = caixa de granadas stinger
+    .desc = Uma caixa cheia de granadas stinger.
 .desc = Uma caixa cheia de granadas stinger.
 
 ent-BoxTeargasGrenades = caixa de granadas de gás lacrimogêneo
+    .desc = Uma caixa cheia de granadas de gás lacrimogêneo.
 .desc = Uma caixa cheia de granadas de gás lacrimogêneo.
 
 # From: _NF/Catalog/Fills/Crates/armory.yml
 
 ent-CrateArmoryEnergyGunExpedition = caixote de armas de energia
+    .desc = Contém três armas de energia. Requer acesso ao Arsenal para abrir. Não registrado.
 .desc = Contém três armas de energia. Requer acesso ao Arsenal para abrir. Não registrado.
 
 ent-CrateArmoryLaserExpedition = caixote de lasers
+    .desc = Contém três carabinas laser padrão. Requer acesso ao Arsenal para abrir. Não registrado.
 .desc = Contém três carabinas de laser padrão. Requer acesso ao Arsenal para abrir. Não registrado.
 
 ent-CrateArmoryPistolsExpedition = caixote de pistolas
+    .desc = Contém duas pistolas NT padrão com quatro carregadores. Requer acesso ao Arsenal para abrir. Não registrado.
 .desc = Contém duas pistolas NT padrão com quatro carregadores. Requer acesso ao Arsenal para abrir. Não registrado.
 
-ent-CrateArmoryRifleGestio = caixote de rifles gestio
+ent-CrateArmoryRifleGestio = caixote de rifle gestio
+    .desc = Contém dois rifles protótipos antigos de rajada com seis carregadores de baixa capacidade. Requer acesso ao Arsenal para abrir.
 .desc = Contém dois rifles de protótipo antigos, com rajada, com seis carregadores de baixa capacidade. Requer acesso ao Arsenal para abrir.
 
-ent-CrateArmoryRifleGestioExpedition = caixote de rifles gestio
-    .desc = Contains two old prototype, burst-fire rifles with six low capacity mags. Requires Armory access to open. Unregistered.
+ent-CrateArmoryRifleGestioExpedition = caixote de rifle gestio
+    .desc = Contém dois rifles protótipos antigos de rajada com seis carregadores de baixa capacidade. Requer acesso ao Arsenal para abrir. Não registrado.
 
-ent-CrateArmoryRifleNovaliteC1Expedition = caixote de rifles novalite
+ent-CrateArmoryRifleNovaliteC1Expedition = caixote de rifle novalite
+    .desc = Contém dois rifles de grau civil com seis clips de baixa capacidade. Requer acesso ao Arsenal para abrir. Não registrado.
 .desc = Contém dois rifles de grau civil com seis carregadores de baixa capacidade. Requer acesso ao Arsenal para abrir. Não registrado.
 
-ent-CrateArmoryShotgunExpedition = caixote de escopetas
+ent-CrateArmoryShotgunExpedition = caixote de escopeta
+    .desc = Para quando o inimigo absolutamente precisa ser substituído por chumbo. Contém duas Escopetas de Combate Enforcer, e alguns cartuchos de escopeta padrão. Requer acesso ao Arsenal para abrir. Não registrado.
 .desc = Para quando o inimigo absolutamente precisa ser substituído por chumbo. Contém duas Escopetas de Combate Enforcer, e alguns cartuchos de escopeta padrão. Requer acesso ao Arsenal para abrir. Não registrado.
 
-ent-CrateArmorySMGExpedition = caixote de SMGs
+ent-CrateArmorySMGExpedition = caixote de SMG
+    .desc = Contém duas SMGs de alta potência com quatro carregadores. Requer acesso ao Arsenal para abrir. Não registrado.
 .desc = Contém dois SMGs de alta potência com quatro carregadores. Requer acesso ao Arsenal para abrir. Não registrado.
 
 # From: _NF/Catalog/Fills/Crates/engines.yml
@@ -560,231 +646,302 @@ ent-CrateEngineeringSmallThruster = caixote de propulsor pequeno
 
 # From: _NF/Catalog/Fills/Crates/expeditions_loot.yml
 
-ent-CrateAtmosTechHardsuit = caixote de rígido de técnico atmosférico
+ent-CrateAtmosTechHardsuit = caixote de macacão rígido de técnico atmosférico
+    .desc = Contém um macacão rígido de técnico atmosférico.
 .desc = Contém um rígido de técnico atmosférico.
 
 ent-CrateChemistrySecureKitChemist = kit de química
+    .desc = Contém um kit de equipamento de químico.
 .desc = Contém um kit de equipamento de químico.
 
-ent-CrateEngineerChiefHardsuit = caixote de rígido de engenheiro chefe
+ent-CrateEngineerChiefHardsuit = caixote de macacão rígido do engenheiro chefe
+    .desc = Contém um macacão rígido do engenheiro chefe.
 .desc = Contém um rígido de engenheiro chefe.
 
-ent-CrateEngineerHardsuit = caixote de rígido de engenheiro de estação
+ent-CrateEngineerHardsuit = caixote de macacão rígido do engenheiro da estação
+    .desc = Contém um macacão rígido do engenheiro da estação.
 .desc = Contém um rígido de engenheiro de estação.
 
 ent-CrateEngineeringKitFabrication = kit de fabricação
+    .desc = Contém um kit completo para construir uma instalação de fabricação de engenharia.
 .desc = Contém um kit completo para construir uma instalação de fabricação de engenharia.
 
 ent-CrateEngineeringKitRtg = kit de ferramentas GTR
+    .desc = Contém um kit completo para construir uma usina GTR.
 .desc = Contém um kit completo para construir uma usina GTR.
 
 ent-CrateEngineeringKitShipyardRcd = kit de RCD de estaleiro
+    .desc = Contém um kit completo de RCD de estaleiro.
 .desc = Contém um kit RCD de estaleiro completo.
 
-ent-CrateEvaKitCmo = kit de rígido de oficial médico chefe
+ent-CrateEvaKitCmo = kit de macacão rígido do médico chefe
+    .desc = Contém um kit completo de macacão rígido do médico chefe.
 .desc = Contém um kit de rígido de oficial médico chefe completo.
 
-ent-CrateEvaKitParamedic = kit de rígido de paramédico
+ent-CrateEvaKitParamedic = kit de escafandro de paramédico
+    .desc = Contém um kit completo de escafandro de paramédico.
 .desc = Contém um kit de rígido de paramédico completo.
 
 ent-CrateMedicalRollerBeds = baú de macas
+    .desc = Contém quatro macas.
 .desc = Contém quatro macas.
 
 ent-CrateMedicalSecureDoctor = baú de médico
+    .desc = Contém um kit de equipamento de médico.
 .desc = Contém um kit de equipamento de médico.
 
-ent-CrateMedicalSecureMedicine = baú de remédios
+ent-CrateMedicalSecureMedicine = baú de medicamentos
+    .desc = Contém suprimentos médicos essenciais.
 .desc = Contém suprimentos médicos essenciais.
 
-ent-CrateMedicalSecureMedicinePierce = baú de remédios
+ent-CrateMedicalSecureMedicinePierce = baú de medicamentos
+    .desc = Contém suprimentos médicos essenciais.
 .desc = Contém suprimentos médicos essenciais.
 
-ent-CrateSecureMercenaryHardsuit = caixote de rígido de mercenário
+ent-CrateSecureMercenaryHardsuit = caixote de macacão rígido de mercenário
+    .desc = Contém um macacão rígido de mercenário.
 .desc = Contém um rígido de mercenário.
 
-ent-CrateSecureMercenaryHardsuitMagBoots = caixote de rígido de mercenário
+ent-CrateSecureMercenaryHardsuitMagBoots = caixote de macacão rígido de mercenário
+    .desc = Contém um macacão rígido de mercenário.
 .desc = Contém um rígido de mercenário.
 
-ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de rígido de segurança privada
+ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de macacão rígido de segurança privada
+    .desc = Contém um macacão rígido de segurança privada.
 .desc = Contém um rígido de segurança privada.
 
-ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de rígido de segurança privada
+ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de macacão rígido de segurança privada
+    .desc = Contém um macacão rígido de segurança privada.
 .desc = Contém um rígido de segurança privada.
 
 ent-CrateServiceKitChemLab = kit de laboratório de química
+    .desc = Contém um kit completo para construir um laboratório de química.
 .desc = Contém um kit completo para construir um laboratório de química.
 
 ent-CrateServiceKitCleanades = caixote de limpeza
+    .desc = Contém um kit completo para limpar uma zona de guerra.
 .desc = Contém um kit completo para limpar uma zona de guerra.
 
 ent-CrateServiceKitHydroponics = kit de hidroponia
+    .desc = Contém um kit completo para construir uma instalação hidropônica.
 .desc = Contém um kit completo para construir uma instalação hidropônica.
 
 ent-CrateServiceKitKitchen = kit de cozinha
+    .desc = Contém um kit completo para construir uma cozinha.
 .desc = Contém um kit completo para construir uma cozinha.
 
 ent-CrateServiceKitMedbay = kit de enfermaria
+    .desc = Contém um kit completo para construir uma enfermaria básica funcional.
 .desc = Contém um kit completo para construir uma enfermaria básica funcional.
 
-ent-CrateServiceKitMedbayCryo = kit de enfermaria com criostase
+ent-CrateServiceKitMedbayCryo = kit de enfermaria criogênica
+    .desc = Contém um kit completo para construir uma enfermaria criogênica funcional.
 .desc = Contém um kit completo para construir uma enfermaria com criostase funcional.
 
 ent-CrateTools = caixote de ferramentas
+    .desc = Contém ferramentas essenciais para engenharia.
 .desc = Contém ferramentas essenciais para engenharia.
 
 # From: _NF/Catalog/Fills/Crates/fun.yml
 
-ent-CrateFloorsFun = caixote de pisos divertidos
+ent-CrateFloorsFun = caixote de placas de piso divertidas
+    .desc = Um caixote cheio de 30 placas aleatórias, usadas para decoração.
 .desc = Um caixote cheio de 30 peças aleatórias, usado para decoração.
 
 ent-CrateFunHoverbikeNF = caixote de hoverbike
+    .desc = Mais duro, melhor, mais rápido, mais forte? Não, apenas mais rápido, mais rápido, mais rápido.
 .desc = Mais duro, melhor, mais rápido, mais forte? Não, apenas mais rápido, mais rápido, mais rápido.
 
 ent-CrateFunHoverbikeNFPirate = caixote de hoverbike
+    .suffix = Renegado
+    .desc = Mais duro, melhor, mais rápido, mais forte? Não, apenas mais rápido, mais rápido, mais rápido.
 .suffix = Renegado
 .desc = Mais duro, melhor, mais rápido, mais forte? Não, apenas mais rápido, mais rápido, mais rápido.
 
 ent-CrateFunPartyNF = caixote de festa
+    .suffix = Fronteira
+    .desc = Um caixote de festa aprovado pela corporação. Inclui brindes de festa, bebidas e instruções.
 .suffix = Fronteira
 .desc = Um caixote de festa aprovado pela corporação. Inclui lembrancinhas de festa, bebidas e instruções.
 
 # From: _NF/Catalog/Fills/Crates/materials.yml
 
 ent-CrateMaterialBiomass = caixote de biomassa
+    .suffix = 300
+    .desc = 300 unidades de biomassa. Hmmm.
 .suffix = 300
 .desc = 300 unidades de biomassa. Hmm.
 
 ent-CrateMaterialMetalRods = caixote de varas de metal
+    .desc = 90 varas de metal, embaladas com abandono imprudente.
 .desc = 90 varas de metal, empacotadas com abandono irresponsável.
 
 ent-CrateMaterialsBasic10Filled = caixote de materiais
+    .suffix = Preenchido, Materiais Básicos (10)
 .suffix = Cheio, Materiais Básicos (10)
 
 ent-CrateMaterialsBasicFilled = caixote de materiais
+    .suffix = Preenchido, Materiais Básicos (completo)
 .suffix = Cheio, Materiais Básicos (cheio)
 
 # From: _NF/Catalog/Fills/Crates/nfsd.yml
 
-ent-CrateNfsdArmor = caixote de armadura do TSFMC
+ent-CrateNfsdArmor = caixote de armadura TSFMC
+    .desc = Três coletes de armadura bem equilibrada e decentemente protetora. Requer acesso de Segurança para abrir.
 .desc = Três coletes de armadura bem equilibrada e decentemente protetora. Requer acesso de Segurança para abrir.
 
-ent-CrateNfsdBioSuit = caixote de roupões biológicos do TSFMC
+ent-CrateNfsdBioSuit = caixote de macacão biológico TSFMC
+    .desc = Contém 2 macacões de risco biológico para garantir que nenhuma doença distraia você de seus deveres. Requer acesso de Segurança para abrir.
 .desc = Contém 2 roupões biológicos para garantir que nenhuma doença o distrairá de seus deveres. Requer acesso de Segurança para abrir.
 
-ent-CrateNfsdHelmet = caixote de capacetes do TSFMC
+ent-CrateNfsdHelmet = caixote de capacete TSFMC
+    .desc = Contém três capacetes padrão. Requer acesso de Segurança para abrir.
 .desc = Contém três capacetes padrão. Requer acesso de Segurança para abrir.
 
-ent-CrateNfsdImplants = caixote de implantador do TSFMC
+ent-CrateNfsdImplants = caixote de implantador TSFMC
+    .desc = Contém 4 implantes MindShield e 4 implantes de rastreamento. Requer acesso de Segurança para abrir.
 .desc = Contém 4 implantes MindShield e 4 implantes de rastreamento. Requer acesso de Segurança para abrir.
 
-ent-CrateNfsdNonlethal = caixote de não-letais do TSFMC
+ent-CrateNfsdNonlethal = caixote de não-letais TSFMC
+    .desc = Armas desabilitadoras. Requer acesso de Segurança para abrir.
 .desc = Armas de incapacitação. Requer acesso de Segurança para abrir.
 
-ent-CrateNfsdRestraints = caixote de restrições do TSFMC
+ent-CrateNfsdRestraints = caixote de contenções TSFMC
+    .desc = Contém duas caixas de algemas e abraçadeiras. Requer acesso de Segurança para abrir.
 .desc = Contém duas caixas de algemas e duas de tiras plásticas. Requer acesso de Segurança para abrir.
 
-ent-CrateNfsdRiot = caixote SWAT do TSFMC
+ent-CrateNfsdRiot = caixote CHOQUE TSFMC
+    .desc = Contém dois conjuntos de armadura de controle de distúrbios, capacetes, escudos e enforcers carregados com sacos de feijão. Munição extra incluída. Requer acesso ao Arsenal para abrir.
 .desc = Contém dois conjuntos de armaduras de controle de distúrbios, capacetes, escudos e enforcers carregados com balas de borracha. Munição extra está incluída. Requer acesso ao Arsenal para abrir.
 
-ent-CrateNfsdSupplies = caixote de suprimentos do TSFMC
+ent-CrateNfsdSupplies = caixote de suprimentos TSFMC
+    .desc = Contém vários suprimentos para a equipe de Segurança da estação. Requer acesso de Segurança para abrir.
 .desc = Contém vários suprimentos para a equipe de Segurança da estação. Requer acesso de Segurança para abrir.
 
 # From: _NF/Catalog/Fills/Crates/nfsdarmory.yml
 
-ent-CrateArmoryLaserNfsd = caixote de lasers do TSFMC
+ent-CrateArmoryLaserNfsd = caixote de lasers TSFMC
+    .desc = Contém três rifles laser padrão. Requer acesso ao Arsenal para abrir.
 .desc = Contém três rifles de laser padrão. Requer acesso ao Arsenal para abrir.
 
-ent-CrateArmoryLethalNfsd = caixote de arsenal letal do TSFMC
+ent-CrateArmoryLethalNfsd = caixote de arsenal letal TSFMC
+    .desc = Contém um kit de estoque de arsenal padrão.
 .desc = Contém um kit de estoque de arsenal padrão.
 
-ent-CrateArmoryNonLethalNfsd = caixote de arsenal não-letal do TSFMC
+ent-CrateArmoryNonLethalNfsd = caixote de arsenal não-letal TSFMC
+    .desc = Contém um kit de estoque de arsenal não-letal.
 .desc = Contém um kit de estoque de arsenal não-letal.
 
-ent-CrateArmoryPistolsNfsd = caixote de pistolas do TSFMC
+ent-CrateArmoryPistolsNfsd = caixote de pistolas TSFMC
+    .desc = Contém duas pistolas NT padrão com quatro carregadores. Requer acesso ao Arsenal para abrir.
 .desc = Contém duas pistolas NT padrão com quatro carregadores. Requer acesso ao Arsenal para abrir.
 
-ent-CrateArmoryShotgunNfsd = caixote de escopetas do TSFMC
+ent-CrateArmoryShotgunNfsd = caixote de escopeta TSFMC
+    .desc = Para quando o inimigo absolutamente precisa ser substituído por chumbo. Contém duas Escopetas de Combate Enforcer, e alguns cartuchos de escopeta padrão. Requer acesso ao Arsenal para abrir.
 .desc = Para quando o inimigo absolutamente precisa ser substituído por chumbo. Contém duas Escopetas de Combate Enforcer e alguns cartuchos de escopeta padrão. Requer acesso ao Arsenal para abrir.
 
-ent-CrateArmorySMGNfsd = caixote de SMGs do TSFMC
+ent-CrateArmorySMGNfsd = caixote de SMG TSFMC
+    .desc = Contém dois rifles semiautomáticos de alta potência com quatro carregadores. Requer acesso ao Arsenal para abrir.
 .desc = Contém dois rifles semiautomáticos de alta potência com quatro carregadores. Requer acesso ao Arsenal para abrir.
 
-ent-CrateTrackingImplantsNfsd = implantes de rastreamento do TSFMC
+ent-CrateTrackingImplantsNfsd = implantes de rastreamento TSFMC
+    .desc = Contém punhado de implantadores de rastreamento. Bom para prisioneiros que você gostaria de libertar mas ainda manter controle.
 .desc = Contém alguns implantadores de rastreamento. Bom para prisioneiros que você gostaria de libertar mas ainda manter sob observação.
 
-ent-CrateTrainingBombsNfsd = bombas de treinamento do TSFMC
+ent-CrateTrainingBombsNfsd = bombas de treinamento TSFMC
+    .desc = Contém três bombas de treinamento de baixo rendimento para a segurança aprender desarme e eliminação segura de armamentos, escafandro EOD não incluído. Requer acesso ao Arsenal para abrir.
 .desc = Contém três bombas de treinamento de baixo potência para a segurança aprender desarme e eliminação segura de munições, roupa EOD não incluída. Requer acesso ao Arsenal para abrir.
 
 # From: _NF/Catalog/Fills/Crates/npc.yml
 
-ent-CrateNPCEmotionalSupport = caixote de animal de estimação de suporte emocional
+ent-CrateNPCEmotionalSupport = caixote de animal de suporte emocional
+    .desc = Um caixote contendo um único animal de suporte emocional.
 .desc = Um caixote contendo um único animal de estimação de suporte emocional.
 
-ent-CrateNPCPoultryCube = caixote de cubos de aves
+ent-CrateNPCPoultryCube = caixote de cubo de aves
+    .desc = Um caixote contendo uma única caixa de cubos de aves.
 .desc = Um caixote contendo uma única caixa de cubos de aves.
 
 # From: _NF/Catalog/Fills/Crates/pirate.yml
 
 ent-CratePirateChest = baú de pirata da tripulação
+    .suffix = Preenchido
 .suffix = Cheio
 
 ent-CratePirateChestCannonBall = baú de balas de canhão
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-CratePirateChestCannonBallEmp = baú de tiros de choque
+ent-CratePirateChestCannonBallEmp = baú de shockshot
+    .suffix = Preenchido
 .suffix = Cheio
 
 ent-CratePirateChestCaptain = baú de pirata do capitão
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-CratePirateChestGlassShot = baú de tiro de vidro
+ent-CratePirateChestGlassShot = baú de glassshot
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-CratePirateChestGrapeShot = baú de estilhaços
+ent-CratePirateChestGrapeShot = baú de grapeshot
+    .suffix = Preenchido
 .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Crates/science.yml
 
 ent-CrateScienceLabBundle = kit de laboratório de cientista
+    .desc = Contém um kit completo para construir seu próprio laboratório de ciência.
 .desc = Contém um kit completo para construir seu próprio laboratório de ciência.
 
 # From: _NF/Catalog/Fills/Crates/service.yml
 
 ent-CrateServiceJanitorialSupplies2 = caixote de suprimentos de zeladoria B
+    .desc = Lute contra sujeira e graxa com os Essenciais de Zeladoria da Nanotrasen™! Contém duas caixas de sacos de lixo, uma caixa de placas de piso molhado e duas garrafas de limpador spray.
 .desc = Lute contra sujeira e grime com Essenciais de Zeladoria da Nanotrasen™! Contém duas caixas de sacos de lixo, uma caixa de placas de piso molhado e duas garrafas de limpador em spray.
 
 ent-CrateServiceReplacementColoredLights = caixote de luzes coloridas
 
-ent-CrateVehicleJanicart = caixote de janicarro
+ent-CrateVehicleJanicart = caixote de janicart
+    .desc = A cavalgadura confiável do zelador.
 .desc = O corcel confiável do zelador.
 
 # From: _NF/Catalog/Fills/Crates/vending.yml
 
-ent-CrateVendingMachineRestockAmmoFilled = caixote de reposição Libertação
+ent-CrateVendingMachineRestockAmmoFilled = caixote de reposição Liberation
+    .desc = Contém duas caixas de reposição para a máquina de venda Liberation.
 .desc = Contém duas caixas de reposição para a máquina de venda Libertação.
 
 ent-CrateVendingMachineRestockAstroVendFilled = caixote de reposição AstroVend
+    .desc = Contém duas caixas de reposição para a máquina de venda AstroVend.
 .desc = Contém duas caixas de reposição para a máquina de venda AstroVend.
 
 ent-CrateVendingMachineRestockAutoTuneVendFilled = caixote de reposição AutoTuneVend
+    .desc = Contém duas caixas de reposição para a máquina de venda AutoTuneVend.
 .desc = Contém duas caixas de reposição para a máquina de venda AutoTuneVend.
 
-ent-CrateVendingMachineRestockCuddlyCritterVendFilled = caixote de reposição BichinhosCuddly
+ent-CrateVendingMachineRestockCuddlyCritterVendFilled = caixote de reposição CuddlyCritterVend
+    .desc = Contém duas caixas de reposição para a máquina de venda CuddlyCritterVend.
 .desc = Contém duas caixas de reposição para a máquina de venda BichinhosCuddly.
 
-ent-CrateVendingMachineRestockLessLethalVendFilled = caixote de reposição MenosLetal
+ent-CrateVendingMachineRestockLessLethalVendFilled = caixote de reposição LessLethalVend
+    .desc = Contém duas caixas de reposição para a máquina de venda LessLethalVend.
 .desc = Contém duas caixas de reposição para a máquina de venda MenosLetal.
 
-ent-CrateVendingMachineRestockNonLethalVendFilled = caixote de reposição NãoLetal
+ent-CrateVendingMachineRestockNonLethalVendFilled = caixote de reposição NonLethalVend
+    .desc = Contém duas caixas de reposição para a máquina de venda NonLethalVend.
 .desc = Contém duas caixas de reposição para a máquina de venda NãoLetal.
 
-ent-CrateVendingMachineRestockPottedPlantVendFilled = caixote de reposição Planta-O-Mático
+ent-CrateVendingMachineRestockPottedPlantVendFilled = caixote de reposição Plant-O-Matic
+    .desc = Contém duas caixas de reposição para a máquina de venda Plant-O-Matic.
 .desc = Contém duas caixas de reposição para a máquina de venda Planta-O-Mático.
 
 # From: _NF/Catalog/Fills/Items/briefcases.yml
 
 # Abstract entity (referenceable by children)
 ent-SpaceCashExpedition = créditos
+    .suffix = Dinheiro
+    .desc = Uma maleta cheia de notas frescas da casa da moeda digital. Cheira a sucesso e impostos não pagos.
 .suffix = Dinheiro
 .desc = Uma maleta cheia de notas frescas da casa da moeda digital. Cheira a sucesso e impostos não pagos.
 
@@ -806,77 +963,91 @@ ent-SpaceCashExpeditionT5 = créditos (70.000)
 # From: _NF/Catalog/Fills/Items/misc.yml
 
 ent-ChaplainHolywaterFlaskFilled = frasco de água benta
+    .desc = Abençoada seja esta água benta pela divindade de sua escolha.
 .desc = Seja abençoada esta água benta pela divindade de sua escolha.
 
 # From: _NF/Catalog/Fills/Lockers/guns.yml
 
-ent-GunSafeShuttleCaptain = cofre de transporte
+ent-GunSafeShuttleCaptain = cofre de nave
+    .suffix = Vazio, Capitão
 .suffix = Vazio, Capitão
 
 # From: _NF/Catalog/Fills/Lockers/heads.yml
 
 ent-GunSafeSr = cofre de arma pesada do supervisor
+    .suffix = Preenchido
 .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/locker_wallmount.yml
 
 ent-LockerWallColorChemistryFilled = armário de parede de química
+    .suffix = Preenchido, Fronteira
 .suffix = Cheio, Fronteira
 
 ent-LockerWallColorHydroponicsEmpty = armário de parede de botânico
+    .suffix = Vazio, Fronteira
 .suffix = Vazio, Fronteira
 
 ent-LockerWallColorMedicalDoctorFilled = armário de parede de médico
+    .suffix = Preenchido, Fronteira
 .suffix = Cheio, Fronteira
 
-ent-LockerWallColorMedicalFilled = armário de parede de remédios
+ent-LockerWallColorMedicalFilled = armário de parede de medicamentos
+    .suffix = Preenchido, Fronteira
 .suffix = Cheio, Fronteira
 
-ent-LockerWallEVAColorBoxerBlueFilled = boxer EVA locker
-    .suffix = Filled, Blue
+ent-LockerWallEVAColorBoxerBlueFilled = armário VEX de pugilista
+    .suffix = Preenchido, Azul
 
-ent-LockerWallEVAColorBoxerGreenFilled = boxer EVA locker
-    .suffix = Filled, Green
+ent-LockerWallEVAColorBoxerGreenFilled = armário VEX de pugilista
+    .suffix = Preenchido, Verde
 
-ent-LockerWallEVAColorBoxerRandomFilled = boxer EVA locker
-    .suffix = Filled, Random
+ent-LockerWallEVAColorBoxerRandomFilled = armário VEX de pugilista
+    .suffix = Preenchido, Aleatório
 
-ent-LockerWallEVAColorBoxerRedFilled = boxer EVA locker
-    .suffix = Filled, Red
+ent-LockerWallEVAColorBoxerRedFilled = armário VEX de pugilista
+    .suffix = Preenchido, Vermelho
 
-ent-LockerWallEVAColorBoxerYellowFilled = boxer EVA locker
-    .suffix = Filled, Yellow
+ent-LockerWallEVAColorBoxerYellowFilled = armário VEX de pugilista
+    .suffix = Preenchido, Amarelo
 
-ent-LockerWallEVAColorGoblinFilled = armário EVA de goblin
+ent-LockerWallEVAColorGoblinFilled = armário VEX de goblin
+    .suffix = Preenchido
 .suffix = Cheio
 
-ent-LockerWallEVAColorParamedicFilled = armário de parede de rígido de paramédico
+ent-LockerWallEVAColorParamedicFilled = armário de parede de escafandro de paramédico
+    .suffix = Preenchido
 .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/medical.yml
 
 ent-LockerPsychologistFilled = armário de psicólogo
+    .suffix = Preenchido
 .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/security.yml
 
-ent-GunSafeTurrets = cofre de torre
+ent-GunSafeTurrets = cofre de torreta
+    .suffix = TSFMC, Preenchido
 .suffix = TSFMC, Cheio
 
-ent-GunSafeTurretsCdet = cofre de torre
+ent-GunSafeTurretsCdet = cofre de torreta
+    .suffix = CDET, Preenchido
 .suffix = CDET, Cheio
 
 # From: _NF/Catalog/Fills/Paper/forms_medical.yml
 
 ent-BoxFolderMedicalDoctor = pasta de médico
+    .suffix = Formulários
+    .desc = Uma pasta cheia de modelos de documentos médicos.
 .suffix = Formulários
 .desc = Uma pasta cheia de modelos de documentos médicos.
 
 ent-PaperWrittenMedicalFormHealthInsurance = contrato de seguro de saúde
 
-ent-PaperWrittenMedicalFormPatientInfo = prontuário de paciente médico
+ent-PaperWrittenMedicalFormPatientInfo = prontuário de paciente
 
-ent-PaperWrittenMedicalFormPrescription = receita médica
+ent-PaperWrittenMedicalFormPrescription = prescrição médica
 
 ent-PaperWrittenMedicalFormReceiptInvoice = pagamento de despacho médico
 
@@ -886,11 +1057,15 @@ ent-PaperWrittenMedicalFormServiceInvoice = fatura de serviço médico
 
 # From: _NF/Catalog/Fills/Paper/forms_nfsd.yml
 
-ent-BoxFolderNfsdForms = pasta de formulários do TSFMC
+ent-BoxFolderNfsdForms = pasta de formulários TSFMC
+    .suffix = Formulários, Verde
+    .desc = Uma pasta cheia de modelos de documentos TSFMC.
 .suffix = Formulários, Verde
 .desc = Uma pasta cheia de modelos de documentos do TSFMC.
 
-ent-BoxFolderNfsdFormsBrown = pasta de formulários do TSFMC
+ent-BoxFolderNfsdFormsBrown = pasta de formulários TSFMC
+    .suffix = Formulários, Marrom
+    .desc = Uma pasta cheia de modelos de documentos TSFMC.
 .suffix = Formulários, Marrom
 .desc = Uma pasta cheia de modelos de documentos do TSFMC.
 
@@ -902,7 +1077,7 @@ ent-PaperWrittenNfsdAuthorization = autorização para ameaças bluespace
 
 ent-PaperWrittenNfsdContrabandAmnesty = acordo de anistia de contrabando
 
-ent-PaperWrittenNfsdContrabandPermit = licença de contrabando classe 2
+ent-PaperWrittenNfsdContrabandPermit = permissão de contrabando classe 2
 
 ent-PaperWrittenNfsdContrabandTurnover = recibo de entrega de contrabando
 
@@ -915,6 +1090,8 @@ ent-PaperWrittenNfsdWarrant = mandado de busca
 # From: _NF/Catalog/Fills/Paper/forms_sr.yml
 
 ent-BoxFolderSr = pasta SR
+    .suffix = Formulários
+    .desc = Uma pasta cheia de modelos de documentos.
 .suffix = Formulários
     .desc = A folder filled with paperwork templates.
 
@@ -922,7 +1099,7 @@ ent-PaperWrittenFrontierAuthorization = autorização para ameaças bluespace
 
 ent-PaperWrittenFrontierContrabandAmnesty = acordo de anistia de contrabando
 
-ent-PaperWrittenFrontierContrabandPermit = licença de contrabando classe 2
+ent-PaperWrittenFrontierContrabandPermit = permissão de contrabando classe 2
 
 ent-PaperWrittenFrontierContrabandTurnover = recibo de entrega de contrabando
 
@@ -934,329 +1111,405 @@ ent-PaperWrittenFrontierFundRequisition = requisição de fundos
 
 ent-PaperWrittenFrontierShuttleDerelict = declaração de salvamento
 
-ent-PaperWrittenFrontierShuttleTitleChange = mudança de título de transporte
+ent-PaperWrittenFrontierShuttleTitleChange = mudança de título de nave
 
 # From: _NF/Catalog/Fills/Paper/misc.yml
 
 ent-PaperWrittenFrontierFridge = política da geladeira
+    .suffix = PapelMapeado
 .suffix = PapelMapeado
 
-ent-PaperWrittenGriftyScript = roteiro do grifty
+ent-PaperWrittenGriftyScript = roteiro do Grifty
+    .suffix = PapelMapeado
 .suffix = PapelMapeado
 
 ent-PaperWrittenGriftyWindow = nota para o chefe
+    .suffix = PapelMapeado
 .suffix = PapelMapeado
 
 ent-PaperWrittenPartyProcedure = procedimento oficial de preparação de festa
 
 ent-PaperWrittenPirateScribbles = refrigerante desaparecido
+    .suffix = PapelMapeado
 .suffix = PapelMapeado
 
 # From: _NF/Catalog/Fills/StorageFillTemplates/departmental_eva.yml
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitAtmosTech = 
+ent-StorageFillEVASuitAtmosTech
+    .desc = Contém um kit VEX padrão de técnico atmosférico.
 .desc = Contém um kit EVA padrão de técnico atmosférico.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitBoxerBlue = 
+ent-StorageFillEVASuitBoxerBlue
+    .desc = Contém um escafandro VEX de pugilista azul e um kit VEX padrão.
 .desc = Contém um rígido EVA de boxeador azul e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitBoxerGreen = 
+ent-StorageFillEVASuitBoxerGreen
+    .desc = Contém um escafandro VEX de pugilista verde e um kit VEX padrão.
 .desc = Contém um rígido EVA de boxeador verde e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitBoxerRandom = 
+ent-StorageFillEVASuitBoxerRandom
+    .desc = Contém um escafandro VEX de pugilista e um kit VEX padrão.
 .desc = Contém um rígido EVA de boxeador e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitBoxerRed = 
+ent-StorageFillEVASuitBoxerRed
+    .desc = Contém um escafandro VEX de pugilista vermelho e um kit VEX padrão.
 .desc = Contém um rígido EVA de boxeador vermelho e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitBoxerYellow = 
+ent-StorageFillEVASuitBoxerYellow
+    .desc = Contém um escafandro VEX de pugilista amarelo e um kit VEX padrão.
 .desc = Contém um rígido EVA de boxeador amarelo e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitCaptain = 
+ent-StorageFillEVASuitCaptain
+    .desc = Contém um kit VEX padrão de capitão.
 .desc = Contém um kit EVA padrão de capitão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitCargo = 
+ent-StorageFillEVASuitCargo
+    .desc = Contém um kit VEX padrão de técnico de cargas.
 .desc = Contém um kit EVA padrão de técnico de carga.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitChaplain = 
+ent-StorageFillEVASuitChaplain
+    .desc = Contém um kit VEX padrão de capelão.
 .desc = Contém um kit EVA padrão de capelão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitContractor = 
+ent-StorageFillEVASuitContractor
+    .desc = Contém um kit VEX padrão de contratista.
 .desc = Contém um kit EVA padrão de contratado.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitEmergency = 
+ent-StorageFillEVASuitEmergency
+    .desc = Contém um kit VEX padrão de emergência.
 .desc = Contém um kit EVA padrão de emergência.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitEngineer = 
+ent-StorageFillEVASuitEngineer
+    .desc = Contém um kit VEX padrão de engenheiro.
 .desc = Contém um kit EVA padrão de engenheiro.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitFsb = 
+ent-StorageFillEVASuitFsb
+    .desc = Contém um escafandro VEX padrão da Far Star Biotech (FSB).
 .desc = Contém um rígido EVA padrão da Far Star Biotech (FSB).
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitGoblin = 
+ent-StorageFillEVASuitGoblin
+    .desc = Contém um escafandro VEX tradicional de goblin e um kit VEX padrão.
 .desc = Contém um rígido EVA tradicional de goblin e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitHydro = 
+ent-StorageFillEVASuitHydro
+    .desc = Contém um kit VEX padrão de botânico.
 .desc = Contém um kit EVA padrão de botânico.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitJanitor = 
+ent-StorageFillEVASuitJanitor
+    .desc = Contém um kit VEX padrão de zelador.
 .desc = Contém um kit EVA padrão de zelador.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitLvhi = 
+ent-StorageFillEVASuitLvhi
+    .desc = Contém um kit VEX padrão da Langstad-Voigt Heavy Industries (LVHI).
 .desc = Contém um kit EVA padrão da Langstad-Voigt Heavy Industries (LVHI).
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitMail = 
+ent-StorageFillEVASuitMail
+    .desc = Contém um kit VEX padrão de carteiro.
 .desc = Contém um kit EVA padrão de carteiro.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitMedic = 
+ent-StorageFillEVASuitMedic
+    .desc = Contém um kit VEX padrão de especialista médico.
 .desc = Contém um kit EVA padrão de especialista médico.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitMercenary = 
+ent-StorageFillEVASuitMercenary
+    .desc = Contém um kit VEX padrão de mercenário.
 .desc = Contém um kit EVA padrão de mercenário.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitNfsd = 
+ent-StorageFillEVASuitNfsd
+    .desc = Contém um kit VEX padrão TSFMC.
 .desc = Contém um kit EVA padrão do TSFMC.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitParamedic = 
+ent-StorageFillEVASuitParamedic
+    .desc = Contém um kit de escafandro de paramédico padrão.
 .desc = Contém um kit de rígido de paramédico padrão.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitPilot = 
+ent-StorageFillEVASuitPilot
+    .desc = Contém um kit VEX padrão de piloto.
 .desc = Contém um kit EVA padrão de piloto.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitPrivateSec = 
+ent-StorageFillEVASuitPrivateSec
+    .desc = Contém um kit VEX padrão de segurança privada.
 .desc = Contém um kit EVA padrão de segurança privada.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitSalvage = 
+ent-StorageFillEVASuitSalvage
+    .desc = Contém um kit VEX padrão de especialista em salvamento.
 .desc = Contém um kit EVA padrão de especialista em salvamento.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitScientist = 
+ent-StorageFillEVASuitScientist
+    .desc = Contém um kit VEX padrão de cientista.
 .desc = Contém um kit EVA padrão de cientista.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitServiceWorker = 
+ent-StorageFillEVASuitServiceWorker
+    .desc = Contém um kit VEX padrão de trabalhador de serviços.
 .desc = Contém um kit EVA padrão de trabalhador de serviços.
 
 # Abstract entity (referenceable by children)
-ent-StorageFillEVASuitSr = 
+ent-StorageFillEVASuitSr
+    .desc = Contém um kit VEX padrão de representante da estação.
 .desc = Contém um kit EVA padrão de representante da estação.
 
 # From: _NF/Entities/Actions/cancel-escape-inventory.yml
 
-ent-ActionCancelEscape = Parar de fugir
+ent-ActionCancelEscape = Parar de escapar
+    .desc = Acalme-se e sente pacificamente no inventário do seu portador
 .desc = Acalme-se e sente-se pacificamente no inventário do seu portador
 
 # From: _NF/Entities/Clothing/Back/backpacks.yml
 
-ent-ClothingBackpackArcadia = mochila arcadia
+ent-ClothingBackpackArcadia = mochila Arcádia
+    .desc = Uma mochila produzida pela Arcádia Industries
 .desc = Uma mochila produzida pela Arcadia Industries
 
 ent-ClothingBackpackClippy = mochila do Clippy
+    .desc = Feita de um Clippy de verdade.
 .desc = Feita de um Clippy de verdade.
 
 ent-ClothingBackpackERTMailCarrier = mochila de carteiro da ERT
+    .desc = Uma mochila espaçosa com muitos bolsos, usada por carteiros de uma Equipe de Resposta de Emergência.
 .desc = Uma mochila espaçosa com muitos bolsos, usada por Carteiros de uma Equipe de Resposta a Emergências.
 
-ent-ClothingBackpackNfsdBrown = mochila do TSFMC
+ent-ClothingBackpackNfsdBrown = mochila TSFMC
 
 ent-ClothingBackpackPilot = mochila de piloto
+    .desc = Uma mochila para um Ás Verdadeiro.
 .desc = Uma mochila para um Ás Verdadeiro.
 
 # From: _NF/Entities/Clothing/Back/duffel.yml
 
-ent-ClothingBackpackDuffelArcadia = mochila arcadia
+ent-ClothingBackpackDuffelArcadia = bolsa de lona Arcádia
+    .desc = Uma bolsa de lona produzida pela Arcádia Industries
 .desc = Uma mochila produzida pela Arcadia Industries
 
-ent-ClothingBackpackDuffelMercenary = mochila de mercenário
+ent-ClothingBackpackDuffelMercenary = bolsa de lona de mercenário
+    .desc = Uma bolsa de lona que esteve em muitos lugares perigosos, uma bolsa de lona de combate confiável.
 .desc = Uma mochila que esteve em muitos lugares perigosos, uma mochila de combate confiável.
 
-ent-ClothingBackpackDuffelNfsdBrown = mochila do TSFMC
+ent-ClothingBackpackDuffelNfsdBrown = bolsa de lona TSFMC
 
-ent-ClothingBackpackDuffelPilot = mochila de piloto
+ent-ClothingBackpackDuffelPilot = bolsa de lona de piloto
+    .desc = Uma bolsa de lona produzida para um Ás Verdadeiro.
 .desc = Uma mochila produzida para um Ás Verdadeiro.
 
 # From: _NF/Entities/Clothing/Back/messenger.yml
 
-ent-ClothingBackpackMessenger = bolsa mensageira
+ent-ClothingBackpackMessenger = bolsa de mensageiro
+    .desc = Uma bolsa de mensageiro com aparência moderna.
 .desc = Uma bolsa mensageira com aparência moderna.
 
-ent-ClothingBackpackMessengerArcadia = bolsa mensageira arcadia
+ent-ClothingBackpackMessengerArcadia = bolsa de mensageiro Arcádia
 
-ent-ClothingBackpackMessengerAtmospherics = bolsa mensageira atmosférica
+ent-ClothingBackpackMessengerAtmospherics = bolsa de mensageiro atmosférico
+    .desc = Uma bolsa de mensageiro resistente feita de fibras resistentes ao fogo. Cheira a plasma.
 .desc = Uma bolsa mensageira resistente feita de fibras resistentes ao fogo. Cheira a plasma.
 
-ent-ClothingBackpackMessengerBloodCult = bolsa mensageira de cultista
+ent-ClothingBackpackMessengerBloodCult = bolsa de mensageiro de cultista
+    .desc = Uma bolsa de mensageiro à prova d'água para seguidores leais de Nar'Sie.
 .desc = Uma bolsa mensageira à prova d'água para seguidores fiéis de Nar'Sie.
 
-ent-ClothingBackpackMessengerCaptain = bolsa mensageira do capitão
+ent-ClothingBackpackMessengerCaptain = bolsa de mensageiro do capitão
+    .desc = Uma bolsa de mensageiro exclusiva para oficiais da Nanotrasen.
 .desc = Uma bolsa mensageira exclusiva para oficiais da Nanotrasen.
 
-ent-ClothingBackpackMessengerCargo = bolsa mensageira de carga
+ent-ClothingBackpackMessengerCargo = bolsa de mensageiro de cargas
+    .desc = Uma bolsa de mensageiro robusta para roubar o loot de cargas.
 .desc = Uma bolsa mensageira robusta para roubar o saque da carga.
 
-ent-ClothingBackpackMessengerChaplain = bolsa mensageira de capelão
+ent-ClothingBackpackMessengerChaplain = bolsa de mensageiro de capelão
 
-ent-ClothingBackpackMessengerChemistry = bolsa mensageira de química
+ent-ClothingBackpackMessengerChemistry = bolsa de mensageiro de química
+    .desc = Uma bolsa de mensageiro estéril com cores de químico.
 .desc = Uma bolsa mensageira estéril com cores de químico.
 
-ent-ClothingBackpackMessengerChiefEngineer = bolsa mensageira do engenheiro chefe
+ent-ClothingBackpackMessengerChiefEngineer = bolsa de mensageiro do engenheiro chefe
+    .desc = Uma bolsa de mensageiro resistente com bolsos extras.
 .desc = Uma bolsa mensageira resistente com bolsos extras.
 
-ent-ClothingBackpackMessengerClown = bolsa mensageira de palhaço
+ent-ClothingBackpackMessengerClown = bolsa de mensageiro de palhaço
+    .desc = Para correr rápido da segurança.
 .desc = Para correr rápido da segurança.
 
-ent-ClothingBackpackMessengerColorBlack = bolsa mensageira preta
+ent-ClothingBackpackMessengerColorBlack = bolsa de mensageiro preta
 
-ent-ClothingBackpackMessengerColorBlue = bolsa mensageira azul
+ent-ClothingBackpackMessengerColorBlue = bolsa de mensageiro azul
 
-ent-ClothingBackpackMessengerColorBrown = bolsa mensageira marrom
+ent-ClothingBackpackMessengerColorBrown = bolsa de mensageiro marrom
 
-ent-ClothingBackpackMessengerColorBrownLight = bolsa mensageira marrom clara
+ent-ClothingBackpackMessengerColorBrownLight = bolsa de mensageiro marrom claro
 
-ent-ClothingBackpackMessengerColorGreen = bolsa mensageira verde
+ent-ClothingBackpackMessengerColorGreen = bolsa de mensageiro verde
 
-ent-ClothingBackpackMessengerColorOrange = bolsa mensageira laranja
+ent-ClothingBackpackMessengerColorOrange = bolsa de mensageiro laranja
 
-ent-ClothingBackpackMessengerColorPurple = bolsa mensageira roxa
+ent-ClothingBackpackMessengerColorPurple = bolsa de mensageiro roxa
 
-ent-ClothingBackpackMessengerColorRed = bolsa mensageira vermelha
+ent-ClothingBackpackMessengerColorRed = bolsa de mensageiro vermelha
 
-ent-ClothingBackpackMessengerColorWhite = bolsa mensageira branca
+ent-ClothingBackpackMessengerColorWhite = bolsa de mensageiro branca
 
-ent-ClothingBackpackMessengerContractor = bolsa mensageira de contratado
+ent-ClothingBackpackMessengerContractor = bolsa de mensageiro de contratista
+    .desc = Uma bolsa de mensageiro com aparência moderna em cores de bom gosto.
 .desc = Uma bolsa mensageira com aparência moderna em cores de bom gosto.
 
-ent-ClothingBackpackMessengerEngineering = bolsa mensageira de engenharia
+ent-ClothingBackpackMessengerEngineering = bolsa de mensageiro de engenharia
+    .desc = Uma bolsa de mensageiro resistente com bolsos extras.
 .desc = Uma bolsa mensageira resistente com bolsos extras.
 
-ent-ClothingBackpackMessengerGenetics = bolsa mensageira de genética
+ent-ClothingBackpackMessengerGenetics = bolsa de mensageiro de genética
+    .desc = Uma bolsa de mensageiro estéril com cores de geneticista.
 .desc = Uma bolsa mensageira estéril com cores de geneticista.
 
-ent-ClothingBackpackMessengerHolding = bolsa mensageira de contenção
+ent-ClothingBackpackMessengerHolding = bolsa de mensageiro de manutenção
+    .desc = Uma bolsa de mensageiro que abre em um bolso localizado de bluespace.
 .desc = Uma bolsa mensageira que se abre em um bolso localizado de bluespace.
 
-ent-ClothingBackpackMessengerHydroponics = bolsa mensageira de hidroponia
+ent-ClothingBackpackMessengerHydroponics = bolsa de mensageiro de hidroponia
+    .desc = Uma bolsa de mensageiro feita de fibras totalmente naturais.
 .desc = Uma bolsa mensageira feita de fibras totalmente naturais.
 
-ent-ClothingBackpackMessengerJanitor = bolsa mensageira de zelador
+ent-ClothingBackpackMessengerJanitor = bolsa de mensageiro de zelador
+    .desc = Uma bolsa de mensageiro robusta para guerrear contra a sujeira.
 .desc = Uma bolsa mensageira robusta para guerrear contra sujeira.
 
-ent-ClothingBackpackMessengerMailCarrier = bolsa mensageira de carteiro
+ent-ClothingBackpackMessengerMailCarrier = bolsa de mensageiro de carteiro
+    .desc = Uma bolsa de mensageiro robusta para guerrear contra o correio.
 .desc = Uma bolsa mensageira robusta para guerrear contra correio.
 
-ent-ClothingBackpackMessengerMedical = bolsa mensageira médica
+ent-ClothingBackpackMessengerMedical = bolsa de mensageiro médico
+    .desc = Uma bolsa de mensageiro estéril usada em departamentos médicos.
 .desc = Uma bolsa mensageira estéril usada em departamentos médicos.
 
-ent-ClothingBackpackMessengerMercenary = bolsa mensageira de mercenário
+ent-ClothingBackpackMessengerMercenary = bolsa de mensageiro de mercenário
+    .desc = Uma bolsa de mensageiro robusta para crimes de guerra.
 .desc = Uma bolsa mensageira robusta para crimes de guerra.
 
-ent-ClothingBackpackMessengerMime = bolsa mensageira de mímico
+ent-ClothingBackpackMessengerMime = bolsa de mensageiro de mímico
+    .desc = Uma bolsa de mensageiro robusta para guerrear contra palhaços.
 .desc = Uma bolsa mensageira robusta para guerrear contra palhaços.
 
-ent-ClothingBackpackMessengerNfsdBrown = bolsa mensageira do TSFMC
+ent-ClothingBackpackMessengerNfsdBrown = bolsa de mensageiro TSFMC
 
-ent-ClothingBackpackMessengerNfsdCream = bolsa mensageira do TSFMC
+ent-ClothingBackpackMessengerNfsdCream = bolsa de mensageiro TSFMC
 
-ent-ClothingBackpackMessengerPilot = pilot messenger bag
+ent-ClothingBackpackMessengerPilot = bolsa de mensageiro de piloto
+    .desc = Uma bolsa de mensageiro robusta para peças de nave.
 .desc = Uma bolsa mensageira robusta para peças de transporte.
 
-ent-ClothingBackpackMessengerSalvage = bolsa mensageira de salvamento
+ent-ClothingBackpackMessengerSalvage = bolsa de mensageiro de salvamento
+    .desc = Uma bolsa de mensageiro robusta para guardar seu loot.
 .desc = Uma bolsa mensageira robusta para guardar seu saque.
 
-ent-ClothingBackpackMessengerScience = bolsa mensageira de ciência
+ent-ClothingBackpackMessengerScience = bolsa de mensageiro de ciência
+    .desc = Útil para guardar materiais de pesquisa.
 .desc = Útil para segurar materiais de pesquisa.
 
-ent-ClothingBackpackMessengerSecurity = bolsa mensageira de segurança
+ent-ClothingBackpackMessengerSecurity = bolsa de mensageiro de segurança
 
-ent-ClothingBackpackMessengerSr = bolsa mensageira do supervisor
+ent-ClothingBackpackMessengerSr = bolsa de mensageiro do supervisor
+    .desc = Uma bolsa de mensageiro exclusiva para oficiais da Nanotrasen.
 .desc = Uma bolsa mensageira exclusiva para oficiais da Nanotrasen.
 
-ent-ClothingBackpackMessengerSyndicate = bolsa mensageira do Sindicato
+ent-ClothingBackpackMessengerSyndicate = bolsa de mensageiro do Sindicato
+    .desc = Uma bolsa de mensageiro robusta para guerrear contra opressores.
 .desc = Uma bolsa mensageira robusta para guerrear contra opressores.
 
-ent-ClothingBackpackMessengerVirology = bolsa mensageira de virologia
+ent-ClothingBackpackMessengerVirology = bolsa de mensageiro de virologia
+    .desc = Uma bolsa de mensageiro feita de fibras hipoalergênicas. É projetada para ajudar a prevenir a propagação de doenças. Cheira a macaco.
 .desc = Uma bolsa mensageira feita de fibras hipoalergênicas. É projetada para ajudar a prevenir a propagação de doenças. Cheira a macaco.
 
 # From: _NF/Entities/Clothing/Back/satchel.yml
 
-ent-ClothingBackpackSatchelArcadia = mochila arcadia
+ent-ClothingBackpackSatchelArcadia = pasta Arcádia
+    .desc = Uma pasta produzida pela Arcádia Industries.
 .desc = Uma mochila produzida pela Arcadia Industries.
 
-ent-ClothingBackpackSatchelMercenary = mochila de mercenário
+ent-ClothingBackpackSatchelMercenary = pasta de mercenário
+    .desc = Uma pasta que esteve em muitos lugares perigosos, uma pasta de combate confiável.
 .desc = Uma mochila que esteve em muitos lugares perigosos, uma mochila de combate confiável.
 
-ent-ClothingBackpackSatchelNfsdBrown = mochila do TSFMC
+ent-ClothingBackpackSatchelNfsdBrown = pasta TSFMC
 
-ent-ClothingBackpackSatchelPilot = mochila de piloto
+ent-ClothingBackpackSatchelPilot = pasta de piloto
+    .desc = Uma pasta produzida para um Ás Verdadeiro.
 .desc = Uma mochila produzida para um Ás Verdadeiro.
 
 # From: _NF/Entities/Clothing/Belt/belts_blood_cult.yml
 
 ent-ClothingBeltCultForceField = fivela de cinto rúnica de culto
 
-ent-ClothingBeltCultWebbing = bandoleira de culto
+ent-ClothingBeltCultWebbing = cintarão de culto
+    .desc = Um cintarão com bolsos revestidos de material à prova d'água (água, hein?).
 .desc = Uma bandoleira com bolsos forrados com material à prova d'água (água, hein?).
 
 # From: _NF/Entities/Clothing/Belt/belts_crossbow_quiver.yml
 
 ent-ClothingBeltQuiverCrossbow = aljava (virotes)
+    .desc = Pode segurar até 25 virotes, e encaixa perfeitamente na sua cintura.
 .desc = Pode conter até 25 virotes e se ajusta confortavelmente na cintura.
 
 # From: _NF/Entities/Clothing/Belt/belts_punk.yml
 
-ent-ClothingBeltPunkRandomized = cinto de punk
+ent-ClothingBeltPunkRandomized = cinto punk
+    .suffix = Visuais aleatórios
+    .desc = Um cintarão com bolsos funcionais.
 .suffix = Visuais aleatórios
 .desc = Uma bandoleira com bolsos funcionais.
 
 # From: _NF/Entities/Clothing/Belt/belts.yml
 
-ent-ClothingBeltArcadia = bandoleira arcadia
+ent-ClothingBeltArcadia = cintarão Arcádia
+    .desc = Um cintarão criado pela Arcádia Industries. Parece muito capaz de ajustar muitos itens.
 .desc = Uma bandoleira criada pela Arcadia Industries. Parece muito capaz de ajustar muitos itens.
 
 ent-ClothingBeltChaplainSash = faixa de capelão
+    .desc = Quem sabia que cachecoles podem também ser amarrados na sua cintura?
 .desc = Quem sabia que cachecóis também podem ser amarrados na cintura?
 
-ent-ClothingBeltNfsd = cinto do TSFMC
+ent-ClothingBeltNfsd = cinto TSFMC
+    .desc = Um cinto tático de assalto.
 .desc = Um cinto de assalto tático.
 
-ent-ClothingBeltNfsdWebbing = bandoleira do TSFMC
+ent-ClothingBeltNfsdWebbing = cintarão TSFMC
+    .desc = Um cintarão tático de assalto.
 .desc = Uma bandoleira de assalto tático.
 
-ent-ClothingBeltPilot = bandoleira de piloto
+ent-ClothingBeltPilot = cintarão de piloto
+    .desc = Um cintarão projetado para alguém que senta muito.
 .desc = Uma bandoleira projetada para alguém que senta muito.
 
 # From: _NF/Entities/Clothing/Ears/headsets_alt.yml
 
 ent-ClothingHeadsetAltMercenary = fone de ouvido sobre-orelha de mercenário
 
-ent-ClothingHeadsetAltNfsdBrown = fone de ouvido sobre-orelha do TSFMC
+ent-ClothingHeadsetAltNfsdBrown = fone de ouvido sobre-orelha TSFMC
 
-ent-ClothingHeadsetAltNfsdBrownCentcom = fone de ouvido sobre-orelha do xerife
+ent-ClothingHeadsetAltNfsdBrownCentcom = fone de ouvido sobre-orelha de xerife
 
 ent-ClothingHeadsetAltPilot = fone de ouvido sobre-orelha de piloto
 
@@ -1264,228 +1517,297 @@ ent-ClothingHeadsetAltPilot = fone de ouvido sobre-orelha de piloto
 
 # Abstract entity (referenceable by children)
 ent-ClothingHeadsetCommon = fone de ouvido
+    .desc = Um intercom modular atualizado que encaixa sobre a cabeça. Aceita chaves de criptografia.
 .desc = Um intercom modular atualizado que se ajusta à cabeça. Aceita chaves de criptografia.
 
-ent-ClothingHeadsetDoc = fone de ouvido do doador
+ent-ClothingHeadsetDoc = fone de ouvido do médico chefe
+    .desc = Deixando o médico chefe saber o que está acontecendo. Aceita chaves de criptografia.
 .desc = Deixando o DoC saber o que está rolando. Aceita chaves de criptografia.
 
-ent-ClothingHeadsetNfsdBrown = fone de ouvido do TSFMC
+ent-ClothingHeadsetNfsdBrown = fone de ouvido TSFMC
 
 # From: _NF/Entities/Clothing/Eyes/glasses_punks.yml
 
-ent-ClothingEyesPunkGoggles = óculos de punk
+ent-ClothingEyesPunkGoggles = óculos punk
+    .desc = Como você consegue ver algo nisso com todas as luzes?
 .desc = Como você consegue ver qualquer coisa nisso com todas as luzes?
 
-ent-ClothingEyesPunkInfoShades = infóculos de punk
+ent-ClothingEyesPunkInfoShades = infosombras punk
+    .desc = Como você consegue ver algo nisso com todas as luzes?
 .desc = Como você consegue ver qualquer coisa nisso com todas as luzes?
 
 # From: _NF/Entities/Clothing/Eyes/glasses.yml
 
-ent-ClothingEyesArcadiaVisor = viseira arcadia
+ent-ClothingEyesArcadiaVisor = viseador Arcádia
+    .desc = Um viseador produzido pela Arcádia Industries, com alguns sistemas ópticos de alta tecnologia embutidos.
 .desc = Uma viseira produzida pela Arcadia Industries, com alguns sistemas ópticos de alta tecnologia integrados.
 
-ent-ClothingEyesGlassesNfsd = óculos do TSFMC
+ent-ClothingEyesGlassesNfsd = óculos TSFMC
+    .desc = Óculos de sol atualizados que fornecem imunidade a flash e um HUD de segurança.
 .desc = Óculos de sol atualizados que fornecem imunidade a flashes e um HUD de segurança.
 
 ent-ClothingEyesGlassesPilot = óculos de piloto
+    .desc = Sinto muito, mas você não pode pilotar uma nave sem óculos legais. Essas são as Regras. Tem um GPS embutido também.
 .desc = Sinto muito, mas você não pode pilotar uma nave sem óculos legais. Essas são as Regras. Tem um GPS integrado também.
 
 # From: _NF/Entities/Clothing/Eyes/hud.yml
 
 ent-ClothingEyesHudBountyHunter = HUD de caçador de recompensas
+    .desc = Um display head-up que escaneia os humanoides à vista e fornece dados precisos sobre seu status de ID, registros criminais e estado de saúde.
 .desc = Um display heads-up que escaneia os humanoides em vista e fornece dados precisos sobre seu status de ID, registros criminais e status de saúde.
 
 ent-ClothingEyesHudMail = HUD de correio
+    .desc = Um display head-up que escaneia correspondências à vista e fornece dados precisos de correspondência.
 .desc = Um display heads-up que escaneia correio em vista e fornece dados precisos de correio.
 
-ent-ClothingEyesHudNfsd = HUD do TSFMC
+ent-ClothingEyesHudNfsd = HUD TSFMC
+    .desc = Um display head-up que escaneia os humanoides à vista e fornece dados precisos sobre seu status de ID e registros criminais.
 .desc = Um display heads-up que escaneia os humanoides em vista e fornece dados precisos sobre seu status de ID e registros criminais.
 
-ent-ClothingEyesHudNfsdMed = HUD de médico-brigada
+ent-ClothingEyesHudNfsdMed = HUD de médico de detenção
+    .desc = Um display ocular que parece uma mistura de HUDs médico e TSFMC.
 .desc = Um display ocular que parece uma mistura de HUDs médicos e do DNDF.
 
-ent-ClothingEyesHudNfsdPatch = HPD do TSFMC
+ent-ClothingEyesHudNfsdPatch = tapa-olho HUD TSFMC
+    .desc = Um display head-up que escaneia os humanoides à vista e fornece dados precisos sobre seu status de ID e registros criminais.
 .desc = Um display heads-up que escaneia os humanoides em vista e fornece dados precisos sobre seu status de ID e registros criminais.
 
 # From: _NF/Entities/Clothing/Hands/gloves_mob_hostile_npcs.yml
 
 ent-ClothingHandsGlovesColorBlackAK = luvas de combate
+    .suffix = ak
 .suffix = ak
 
 ent-ClothingHandsGlovesColorBlackChinaLake = luvas de combate
+    .suffix = china lake
 .suffix = china lake
 
 ent-ClothingHandsGlovesColorBlackCrossbow = luvas de combate
+    .suffix = besta
 .suffix = besta
 
 ent-ClothingHandsGlovesColorBlackLaserPistol = luvas de combate
+    .suffix = pistola laser
 .suffix = pistola laser
 
 ent-ClothingHandsGlovesColorBlackPistol = luvas de combate
+    .suffix = pistola
 .suffix = pistola
 
 ent-ClothingHandsGlovesColorBlackPython = luvas de combate
+    .suffix = python
 .suffix = python
 
 ent-ClothingHandsGlovesColorBlackShotgun = luvas de combate
+    .suffix = escopeta
 .suffix = escopeta
 
 ent-ClothingHandsGlovesColorBlackSMG = luvas de combate
+    .suffix = smg
+    .desc = Luvas pretas regulares que não impedem você de fritar.
 .suffix = smg
 .desc = Luvas pretas regulares que não impedem que você se frite.
 
 ent-ClothingHandsGlovesColorBlackSprayNozzle = luvas de combate
+    .suffix = bico spray
 .suffix = bico de spray
 
 ent-ClothingHandsGlovesColorMercGestio = luvas de combate
+    .suffix = gestio
 .suffix = gestio
 
 ent-ClothingHandsGlovesColorMercHatchet = luvas de combate
+    .suffix = machado
 .suffix = machadinha
 
 ent-ClothingHandsGlovesColorMercLaserNSaw = luvas de combate
+    .suffix = laser e serra
 .suffix = laser e serra
 
 ent-ClothingHandsGlovesColorMercMachete = luvas de combate
+    .suffix = machado
 .suffix = machadinha
 
 ent-ClothingHandsGlovesColorMercMosin = luvas de combate
+    .suffix = mosin
 .suffix = mosin
 
 ent-ClothingHandsGlovesColorMercNovalite = luvas de combate
+    .suffix = novalite
 .suffix = novalite
 
 ent-ClothingHandsGlovesColorMercPistol = luvas de combate
+    .suffix = pistola
 .suffix = pistola
 
 ent-ClothingHandsGlovesColorMercRepeater = luvas de combate
+    .suffix = repetidora
 .suffix = repetidora
 
 ent-ClothingHandsGlovesColorMercRevolvers = luvas de combate
+    .suffix = revólveres duplos
 .suffix = revólveres duplos
 
 ent-ClothingHandsGlovesColorMercShotgun = luvas de combate
+    .suffix = escopeta
 .suffix = escopeta
 
-ent-PunkHandsGlovesBaseballBat = luvas de punk
+ent-PunkHandsGlovesBaseballBat = luvas punk
+    .desc = Luvas coloridas que não impedem você de fritar.
 .desc = Luvas coloridas que não impedem que você se frite.
 
 # From: _NF/Entities/Clothing/Hands/gloves.yml
 
-ent-ClothingHandsGlovesArcadiaCombat = luvas de combate arcadia
+ent-ClothingHandsGlovesArcadiaCombat = luvas de combate Arcádia
+    .desc = Luvas de combate produzidas pela Arcádia Industries.
 .desc = Luvas de combate produzidas pela Arcadia Industries.
 
-ent-ClothingHandsGlovesCombatNfsdBrown = luvas de combate do TSFMC
+ent-ClothingHandsGlovesCombatNfsdBrown = luvas de combate TSFMC
+    .desc = Luvas isoladas para um xerife adjunto.
 .desc = Luvas isoladas para um xerife adjunto.
 
-ent-ClothingHandsGlovesCombatNfsdCream = luvas de combate do TSFMC
+ent-ClothingHandsGlovesCombatNfsdCream = luvas de combate TSFMC
+    .desc = Luvas isoladas para um xerife adjunto.
 .desc = Luvas isoladas para um xerife adjunto.
 
 ent-ClothingHandsGlovesPilot = luvas de piloto
+    .desc = Luvas de dirigir, mas para naves espaciais!
 .desc = Luvas de direção, mas para naves espaciais!
 
 # From: _NF/Entities/Clothing/Head/goblin_headwear.yml
 
-ent-ClothingHeadEVAHelmetGoblin = capuz EVA tradicional de goblin
+ent-ClothingHeadEVAHelmetGoblin = capuz VEX tradicional de goblin
 
 ent-ClothingHeadHatHoodGoblin = capuz tradicional de goblin
 
 # From: _NF/Entities/Clothing/Head/hardsuit-helmets.yml
 
-ent-ClothingHeadHelmetHardsuitERTMailCarrier = capacete de rígido de carteiro da ERT
+ent-ClothingHeadHelmetHardsuitERTMailCarrier = capacete de macacão rígido de carteiro da ERT
+    .desc = Um capacete de macacão rígido especial usado por membros de uma equipe de resposta de emergência.
 .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta a emergências.
 
-ent-ClothingHeadHelmetHardsuitMaximPrototype = capacete experimental de salvador
+ent-ClothingHeadHelmetHardsuitMaximPrototype = capacete experimental de salvamentista
+    .desc = Uma predição de decadência lava sua mente.
 .desc = Uma predicação de decadência lava sua mente.
 
-ent-ClothingHeadHelmetHardsuitMercenary = capacete de rígido de mercenário
+ent-ClothingHeadHelmetHardsuitMercenary = capacete de macacão rígido de mercenário
+    .desc = Capacete de macacão rígido levemente blindado para necessidades de mercenário.
 .desc = Capacete de rígido levemente blindado para necessidades de mercenário.
 
-ent-ClothingHeadHelmetHardsuitPilot = capacete de rígido de piloto
+ent-ClothingHeadHelmetHardsuitPilot = capacete de macacão rígido de piloto
+    .desc = Capacete de macacão rígido leve para pilotos.
 .desc = Capacete de rígido leve para pilotos.
 
-ent-ClothingHeadHelmetHardsuitPirateElite = capacete de rígido de pirata elite
+ent-ClothingHeadHelmetHardsuitPirateElite = capacete de macacão rígido pirata élite
+    .desc = Capacetes de macacão rígido blindados élite para yo-hoers.
 .desc = Capacetes de rígido blindados de elite para arr-piratas.
 
-ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de rígido de segurança privada
+ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de macacão rígido de segurança privada
+    .desc = Capacete de macacão rígido levemente blindado para necessidades de segurança privada.
 .desc = Capacete de rígido levemente blindado para necessidades de segurança privada.
 
-ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de rígido de empregada tática
+ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de macacão rígido de empregada tática
+    .desc = Liga de aço inoxidável soldada coberta por múltiplas camadas de materiais anticorrosivos, perfeito para limpeza.
 .desc = Liga de aço inoxidável soldada coberta em múltiplas camadas de materiais anticorrosivos, perfeito para limpeza.
 
 # From: _NF/Entities/Clothing/Head/hats.yml
 
-ent-ClothingHeadHatBeretCommander = boína de comandante
+ent-ClothingHeadHatBeretCommander = boina do comandante
+    .desc = Uma boina preta com insígnia de patente de comandante.
 .desc = Uma boína preta com emblema de patente de comandante.
 
-ent-ClothingHeadHatBeretCommon = boína azul do TSFMC
+ent-ClothingHeadHatBeretCommon = boina azul da TSFMC
+    .desc = Uma boina azul marinho usada por membro da TSFMC.
 .desc = Uma boína azul marinho usada por membros do TSFMC.
 
 ent-ClothingHeadHatBH = chapéu de caçador de recompensas
+    .desc = Há um novo caçador de recompensas no setor.
 .desc = Há um novo caçador de recompensas no setor.
 
 ent-ClothingHeadHatBishopMitre = mitra de bispo
+    .desc = Como usar esta coisa? Ah! Ao contrário!
 .desc = Como usar isso? Ah! Do outro jeito!
 
 ent-ClothingHeadHatCardinal = chapéu de cardeal
+    .desc = Mantém sua cabeça bem protegida do sol e da razão.
 .desc = Mantém sua cabeça bem protegida do sol e da razão.
 
 ent-ClothingHeadHatHoodCardinalHood = capuz de cardeal
+    .desc = Esconde seus olhos, endurece sua fé.
 .desc = Esconde seus olhos, endurece sua fé.
 
 ent-ClothingHeadHatKippah = kippah
+    .desc = Usado na cabeça como uma cúpula.
 .desc = Usado na cabeça como uma cúpula.
 
-ent-ClothingHeadHatMcCrown = coroa mccargo
+ent-ClothingHeadHatMcCrown = coroa McCargo
+    .desc = Coroas e tiaras, Rei McCargo.
 .desc = Coroas e diademas, Rei McCargo.
 
-ent-ClothingHeadHatNfsdBeretBrown = boina do PDV
+ent-ClothingHeadHatNfsdBeretBrown = boina PDV
+    .desc = Uma boina marrom para uso pela Vanguarda PDV.
 .desc = Uma boina marrom para uso pela Vanguarda do PDV.
 
-ent-ClothingHeadHatNfsdBeretCream = boina de grão-vizir do PDV
+ent-ClothingHeadHatNfsdBeretCream = boina de grão-vizir PDV
+    .desc = Uma boina creme para uso por comandantes PDV.
 .desc = Uma boina creme para uso por comandantes do PDV.
 
-ent-ClothingHeadHatNfsdBeretGreen = boina do TSFMC
+ent-ClothingHeadHatNfsdBeretGreen = boina TSFMC
+    .desc = Uma boina verde para uso por oficiais TSFMC.
 .desc = Uma boina verde para uso por oficiais do TSFMC.
 
-ent-ClothingHeadHatNfsdCampaign = chapéu de campanha do TSFMC
+ent-ClothingHeadHatNfsdCampaign = chapéu de campanha TSFMC
+    .desc = Ieei-haw, parceiro.
 .desc = Iii-i-ha, parceiro.
 
-ent-ClothingHeadHatNfsdCampaignFilled = chapéu de campanha do TSFMC
+ent-ClothingHeadHatNfsdCampaignFilled = chapéu de campanha TSFMC
+    .suffix = Preenchido
+    .desc = Ieei-haw, parceiro.
 .suffix = Cheio
 .desc = Iii-i-ha, parceiro.
 
-ent-ClothingHeadHatNfsdSmallCampaign = boné de campanha do TSFMC
+ent-ClothingHeadHatNfsdSmallCampaign = boné de campanha TSFMC
+    .desc = Tudo ieei, nada haw.
 .desc = Só iii, nenhum ha.
 
 ent-ClothingHeadHatPilgrim = chapéu de peregrino
+    .desc = Tu não deves sofrer um peru viver.
 .desc = Não sofrerás um peru viver.
 
 ent-ClothingHeadHatPilot = capacete de piloto
+    .desc = Não consigo ouvir as vozes no meu fone com estas abas sobre meus ouvidos. E parece bom.
 .desc = Não consigo ouvir as vozes no meu fone com estas abas de orelha sobre meus ouvidos. E parece bom.
 
 ent-ClothingHeadHatPirateLuffy = chapéu de pirata suspeito
+    .desc = Este chapéu aqui esteja parecendo suspeito.
 .desc = Este chapéu parece suspeito.
 
 ent-ClothingHeadHatPirates = chapéu de pirata
+    .desc = Y'Arrgghhh.
 .desc = Y'Arrgggh.
 
 ent-ClothingHeadHatSrBeret = boina do supervisor
+    .desc = Uma boina arejada emitida para supervisor do Colossus Central. Parece macia.
 .desc = Uma boina arejada emitida para o supervisor do Colossus Central. Parece macia.
 
 ent-ClothingHeadHatSrCap = boné do supervisor
+    .desc = Um boné emitido para supervisor do Colossus Central. Tente não perdê-lo.
 .desc = Um boné emitido para o supervisor do Colossus Central. Tente não perdê-lo.
 
 ent-ClothingHeadHatStcCap = boné de controlador de tráfego da estação
+    .desc = Um boné emitido para controlador de tráfego da estação do Posto Colonial. Tente não perdê-lo.
 .desc = Um boné emitido para o controlador de tráfego da estação do Posto Colonial. Tente não perdê-lo.
 
-ent-ClothingHeadHatUtilityTsfmc = boné de utilidade do TSFMC
+ent-ClothingHeadHatUtilityTsfmc = boné utilitário da TSFMC
+    .desc = Uma cobertura utilitária padrão do corpo de fuzileiros da federação trans-solariana.
 .desc = Um capuz de utilidade padrão do corpo de fuzileiros navais da federação trans-solariana.
 
 ent-ClothingHeadHatWideBrimmed = chapéu de abas largas
+    .desc = Funciona muito como substituto de frisbee.
 .desc = Funciona great como substituto de frisbee.
 
 ent-ClothingHeadHatWitchhunter = chapéu de caçador de bruxas
+    .desc = Tu não deves sofrer uma bruxa viver.
 .desc = Não sofrerás uma bruxa viver.
 
 # From: _NF/Entities/Clothing/Head/headwear_blood_cult.yml
@@ -1498,2402 +1820,2428 @@ ent-ClothingHeadHelmetCultJanitor = capacete de zelador de culto
 
 # From: _NF/Entities/Clothing/Head/headwear_punks.yml
 
-ent-ClothingHeadHatHoodAcidRaincoat = acid raincoat hood
-    .desc = Mostly transparent raincoat hood made out of acid resistant polymers.
+ent-ClothingHeadHatHoodAcidRaincoat = capuz de capa de chuva ácida
+    .desc = Capuz de capa de chuva principalmente transparente feito de polímeros resistentes ao ácido.
 
 # From: _NF/Entities/Clothing/Head/headwear_syndicate.yml
 
-ent-ClothingHeadHatHoodBioArmoredSyndicate = bio hood
-    .suffix = Syndicate
-    .desc = A hood that protects the head and face from biological contaminants. As well as user's identity.
+ent-ClothingHeadHatHoodBioArmoredSyndicate = capuz biológico
+    .suffix = Sindicato
+    .desc = Um capuz que protege a cabeça e rosto de contaminantes biológicos. Bem como a identidade do usuário.
 
-ent-ClothingHeadHatHoodWinterSyndieUnremoveable = syndicate coat hood
+ent-ClothingHeadHatHoodWinterSyndieUnremoveable = capuz de casaco do Sindicato
 
-ent-ClothingHeadHelmetBombSuitSyndie = syndicate bombsuit helmet
+ent-ClothingHeadHelmetBombSuitSyndie = capacete de macacão de bombas do Sindicato
 
 # From: _NF/Entities/Clothing/Head/helmets.yml
 
-ent-ClothingHeadHelmetERTMailCarrier = ERT mail carrier helmet
-    .desc = An in-atmosphere helmet worn by mail members of the Colonial Emergency Response Team. Has dark purple highlights.
+ent-ClothingHeadHelmetERTMailCarrier = capacete de carteiro da ERT
+    .desc = Um capacete na atmosfera usado por membros de correio da Equipe de Resposta de Emergência Colonial. Tem detalhes em roxo escuro.
 
-ent-ClothingHeadHelmetMercenaryBlack = combat helmet
-    .desc = The combat helmet is commonly used by mercenaries, is strong, light and smells like gunpowder and the urban sprawl.
+ent-ClothingHeadHelmetMercenaryBlack = capacete de combate
+    .desc = O capacete de combate é comumente usado por mercenários, é forte, leve e cheira a pólvora e expansão urbana.
 
-ent-ClothingHeadHelmetNfsd = TSFMC helmet
-    .desc = An TSFMC issued helmet to protect your head.
+ent-ClothingHeadHelmetNfsd = capacete TSFMC
+    .desc = Um capacete TSFMC emitido para proteger sua cabeça.
 
 # From: _NF/Entities/Clothing/Head/hoods.yml
 
-ent-ClothingHeadHatHoodArcadia = arcadia coat hood
+ent-ClothingHeadHatHoodArcadia = capuz de casaco Arcádia
 
-ent-ClothingHeadHatHoodRosyCloak = capuz da mariposa-barata-rosa
-    .desc = A fofa visagem de uma mariposa-barata-rosa. Você nunca se sentiu tão fofo.
+ent-ClothingHeadHatHoodRosyCloak = capuz de mariposa bordo rosada
+    .desc = O rosto adorável de uma mariposa bordo rosada. Você nunca se sentiu tão fofo.
 
 # From: _NF/Entities/Clothing/Head/softsuit-helmets.yml
 
-ent-ClothingHeadEVAHelmetArcadia = arcadia EVA helmet
+ent-ClothingHeadEVAHelmetArcadia = capacete VEX Arcádia
 
-ent-ClothingHeadEVAHelmetAtmosTech = atmospheric technician EVA helmet
+ent-ClothingHeadEVAHelmetAtmosTech = capacete VEX de técnico atmosférico
 
-ent-ClothingHeadEVAHelmetBoxerBlue = boxer EVA helmet
+ent-ClothingHeadEVAHelmetBoxerBlue = capacete VEX de pugilista
 
-ent-ClothingHeadEVAHelmetBoxerGreen = boxer EVA helmet
+ent-ClothingHeadEVAHelmetBoxerGreen = capacete VEX de pugilista
 
-ent-ClothingHeadEVAHelmetBoxerRandom = boxer EVA helmet
+ent-ClothingHeadEVAHelmetBoxerRandom = capacete VEX de pugilista
 
-ent-ClothingHeadEVAHelmetBoxerRed = boxer EVA helmet
+ent-ClothingHeadEVAHelmetBoxerRed = capacete VEX de pugilista
 
-ent-ClothingHeadEVAHelmetBoxerYellow = boxer EVA helmet
+ent-ClothingHeadEVAHelmetBoxerYellow = capacete VEX de pugilista
 
-ent-ClothingHeadEVAHelmetCaptain = captain EVA helmet
+ent-ClothingHeadEVAHelmetCaptain = capacete VEX de capitão
 
-ent-ClothingHeadEVAHelmetCargo = cargo EVA helmet
+ent-ClothingHeadEVAHelmetCargo = capacete VEX de cargas
 
-ent-ClothingHeadEVAHelmetChaplain = chaplain EVA helmet
+ent-ClothingHeadEVAHelmetChaplain = capacete VEX de capelão
 
-ent-ClothingHeadEVAHelmetContractor = contractor EVA helmet
+ent-ClothingHeadEVAHelmetContractor = capacete VEX de contratista
 
-ent-ClothingHeadEVAHelmetEngineer = engineer EVA helmet
+ent-ClothingHeadEVAHelmetEngineer = capacete VEX de engenheiro
 
-ent-ClothingHeadEVAHelmetHydro = botanist EVA helmet
+ent-ClothingHeadEVAHelmetHydro = capacete VEX de botânico
 
-ent-ClothingHeadEVAHelmetJanitor = janitor EVA helmet
+ent-ClothingHeadEVAHelmetJanitor = capacete VEX de zelador
 
-ent-ClothingHeadEVAHelmetLvhi = LVHI EVA helmet
+ent-ClothingHeadEVAHelmetLvhi = capacete VEX LVHI
 
-ent-ClothingHeadEVAHelmetMailman = mailcarrier EVA helmet
+ent-ClothingHeadEVAHelmetMailman = capacete VEX de carteiro
 
-ent-ClothingHeadEVAHelmetMedic = medic EVA helmet
+ent-ClothingHeadEVAHelmetMedic = capacete VEX de médico
 
-ent-ClothingHeadEVAHelmetMercenary = mercenary EVA helmet
+ent-ClothingHeadEVAHelmetMercenary = capacete VEX de mercenário
 
-ent-ClothingHeadEVAHelmetNfsd = TSFMC EVA helmet
+ent-ClothingHeadEVAHelmetNfsd = capacete VEX TSFMC
 
-ent-ClothingHeadEVAHelmetPilot = pilot EVA helmet
+ent-ClothingHeadEVAHelmetPilot = capacete VEX de piloto
 
-ent-ClothingHeadEVAHelmetPrivateSec = private security EVA helmet
+ent-ClothingHeadEVAHelmetPrivateSec = capacete VEX de segurança privada
 
-ent-ClothingHeadEVAHelmetSalvage = salvage specialist EVA helmet
+ent-ClothingHeadEVAHelmetSalvage = capacete VEX de especialista em salvamento
 
-ent-ClothingHeadEVAHelmetScientist = scientist EVA helmet
+ent-ClothingHeadEVAHelmetScientist = capacete VEX de cientista
 
-ent-ClothingHeadEVAHelmetServiceWorker = service worker EVA helmet
+ent-ClothingHeadEVAHelmetServiceWorker = capacete VEX de trabalhador de serviços
 
-ent-ClothingHeadEVAHelmetSr = station representative EVA helmet
+ent-ClothingHeadEVAHelmetSr = capacete VEX de representante da estação
 
 # Abstract entity (referenceable by children)
-ent-ClothingHeadEVAHelmetWithLightBase = capacete EVA base com luz
+ent-ClothingHeadEVAHelmetWithLightBase = capacete VEX base com luz
 
-ent-ClothingHeadHelmetHardsuitFSB = far star biotech voidsuit helmet
-    .desc = A lightweight suit helmet that doesn't restrict your head movements. It has a light!
+ent-ClothingHeadHelmetHardsuitFSB = capacete de escafandro Far Star Biotech
+    .desc = Um capacete de macacão leve que não restringe seus movimentos de cabeça. Tem uma luz!
 
 # From: _NF/Entities/Clothing/Masks/masks.yml
 
-ent-ClothingMaskArcadia = arcadia battle mask
-    .desc = A close-fitting high tech mask designed by Arcadia Industries for spacefaring operators.
+ent-ClothingMaskArcadia = máscara de combate Arcádia
+    .desc = Uma máscara de alta tecnologia ajustada projetada pela Arcádia Industries para operadores espaciais.
 
-ent-ClothingMaskClownBald = clown mask
-    .desc = If clowning doesn't work out, maybe you can rob a bank.
+ent-ClothingMaskClownBald = máscara de palhaço
+    .desc = Se palhaçada não der certo, talvez você possa roubar um banco.
 
-ent-ClothingMaskCultJanitor = cult janitor mask
-    .desc = A close-fitting, imposing breath mask designed for accursed custodians who value style.
+ent-ClothingMaskCultJanitor = máscara de zelador de culto
+    .desc = Uma máscara respiratória ajustada e imponente projetada para zeladores amaldiçoados que valorizam estilo.
 
-ent-ClothingMaskGasNfsd = TSFMC gas mask
-    .desc = A standard issue TSFMC gas mask.
+ent-ClothingMaskGasNfsd = máscara de gás TSFMC
+    .desc = Uma máscara de gás padrão TSFMC.
 
-ent-ClothingMaskGasSheriff = TSFMC colonel gas mask
-    .desc = A gas mask worthy of a colonel.
+ent-ClothingMaskGasSheriff = máscara de gás de coronel TSFMC
+    .desc = Uma máscara de gás digna de um coronel.
 
-ent-ClothingMaskPilot = pilot breath mask
-    .desc = A close-fitting breath mask designed for, it would seem, minimal comfort for the wearer.
+ent-ClothingMaskPilot = máscara respiratória de piloto
+    .desc = Uma máscara respiratória ajustada projetada para, parece, conforto mínimo para o usuário.
 
-ent-ClothingMaskPunkHalf = punk halfmask
+ent-ClothingMaskPunkHalf = meia-máscara punk
+    .suffix = Visuais aleatórios
+    .desc = Uma máscara respiratória ajustada com luzes de gamer!
 .suffix = Visuais aleatórios
     .desc = A close-fitting breath mask with gamer lights!
 
-ent-FaceHuggerPlushie = facehugger plushie
-    .desc = The perfect plushie to scare your friends with aliens!
+ent-FaceHuggerPlushie = pelúcia de facehugger
+    .desc = A pelúcia perfeita para assustar seus amigos com alienígenas!
 
 # From: _NF/Entities/Clothing/Neck/badges.yml
 
 # Abstract entity (referenceable by children)
-ent-ClothingNeckNfsdBadge = TSFMC badge
-    .desc = Respect my authority!
+ent-ClothingNeckNfsdBadge = crachá TSFMC
+    .desc = Respeite minha autoridade!
 
-ent-ClothingNeckNfsdBadgeDetective = TSFMC detective badge
-    .suffix = Silver - Detective
+ent-ClothingNeckNfsdBadgeDetective = crachá de detetive TSFMC
+    .suffix = Prata - Detetive
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckNfsdBadgeSecurity = TSFMC deputy badge
-    .suffix = Silver - Deputy
+ent-ClothingNeckNfsdBadgeSecurity = crachá de adjunto TSFMC
+    .suffix = Prata - Adjunto
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckNfsdBadgeSecurityBrigmedic = TSFMC brigmedic badge
-    .suffix = Silver - Brigmedic
+ent-ClothingNeckNfsdBadgeSecurityBrigmedic = crachá de médico de detenção TSFMC
+    .suffix = Prata - Médico de Detenção
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckNfsdBadgeSecurityCadet = TSFMC cadet badge
-    .suffix = Bronze - Cadet
+ent-ClothingNeckNfsdBadgeSecurityCadet = crachá de cadete TSFMC
+    .suffix = Bronze - Cadete
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckNfsdBadgeSeniorOfficer = TSFMC sergeant badge
-    .suffix = Gold - Sergeant
+ent-ClothingNeckNfsdBadgeSeniorOfficer = crachá de sargento TSFMC
+    .suffix = Ouro - Sargento
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckNfsdBadgeSheriff = TSFMC colonel badge
-    .suffix = Star - Colonel
+ent-ClothingNeckNfsdBadgeSheriff = crachá de coronel TSFMC
+    .suffix = Estrela - Coronel
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckNfsdBadgeWarden = TSFMC bailiff badge
-    .suffix = Gold - Bailiff
+ent-ClothingNeckNfsdBadgeWarden = crachá de oficial de justiça TSFMC
+    .suffix = Ouro - Oficial de Justiça
     .desc = {ent-ClothingNeckNfsdBadge.desc}
 
-ent-ClothingNeckPublicAffairsLiaisonBadge = public affairs liaison badge
-    .desc = A badge for grade 4 paperwork wizards affiliated with the TSFMC.
+ent-ClothingNeckPublicAffairsLiaisonBadge = crachá de liaison de assuntos públicos
+    .desc = Um crachá para magos de papelada grau 4 afiliados com a TSFMC.
 
 # From: _NF/Entities/Clothing/Neck/cloaks.yml
 
-ent-ClothingNeckCloakRosy = capa da mariposa-barata-rosa
-    .desc = Uma capa feita de rosa e fofo e barata.
+ent-ClothingNeckCloakRosy = manto de mariposa bordo rosada
+    .desc = Um manto feito de rosa e fofura e barata.
 
-ent-ClothingNeckCloakSheriff = colonel's cloak
-    .desc = An exquisite cloak fitting for those who can assert dominance over wrongdoers. Take a stab at being civil in prosecution!
+ent-ClothingNeckCloakSheriff = manto de coronel
+    .desc = Um manto exquisito adequado para aqueles que podem afirmar dominância sobre malfeitores. Tente ser civil na acusação!
 
-ent-ClothingNeckCloakSr = overseer's cloak
-    .desc = A top of the line cloak for Colossus Central's overseer. Made from exquisite fibers and furs, this thing must have cost a fortune! The fact this cloak was even issued shows the trust Central Command is placing in their representative on this outpost.
+ent-ClothingNeckCloakSr = manto do supervisor
+    .desc = Um manto topo de linha para supervisor do Colossus Central. Feito de fibras e peles exquisitas, isto deve ter custado uma fortuna! O fato deste manto ter sido emitido mostra a confiança que o Comando Central está colocando em seu representante neste posto.
 
 # From: _NF/Entities/Clothing/Neck/mantles.yml
 
-ent-ClothingNeckCloakJanitor = janitor's cloak
-    .desc = How did you even get this? did you make it yourself?
+ent-ClothingNeckCloakJanitor = manto de zelador
+    .desc = Como você conseguiu isto? você fez isso yourself?
 
-ent-ClothingNeckMantleBH = bounty hunter's mantle
-    .desc = I can bring you in warm or I can bring you in cold. Or you can outbid the bounty.
+ent-ClothingNeckMantleBH = manto de caçador de recompensas
+    .desc = Posso trazer você quente ou posso trazer você frio. Ou você pode ofertar mais que a recompensa.
 
-ent-ClothingNeckMantleSheriff = colonel's mantle
-    .desc = This mantle is a symbol of commitment to the TSF.
+ent-ClothingNeckMantleSheriff = manto de coronel
+    .desc = Este manto é um símbolo de compromisso com a TSF.
 
-ent-ClothingNeckMantleSr = overseer's mantle
-    .desc = This mantle protects the overseer's neck and shoulders from vicious papercuts. This mantle is a symbol of Central Command's trust.
+ent-ClothingNeckMantleSr = manto do supervisor
+    .desc = Este manto protege o pescoço e ombros do supervisor de cortes de papel vicious. Este manto é um símbolo da confiança do Comando Central.
 
 # From: _NF/Entities/Clothing/Neck/medals.yml
 
-ent-ClothingNeckMedalGloriousOrder = the glorious order of the frontier, 1st class
-    .desc = For unequivocal entrepreneurship and lugubriosity against incorrigible verisimilitude.
+ent-ClothingNeckMedalGloriousOrder = ordem gloriosa da fronteira, 1ª classe
+    .desc = Por empreendedorismo inequívoco e lugubriosidade contra verossimilhança incorrigível.
 
-ent-ClothingNeckMedalNfsdBloodDrop = badge of sacrifice
-    .desc = For grave wounds obtained in dutiful service.
+ent-ClothingNeckMedalNfsdBloodDrop = crachá de sacrifício
+    .desc = Por feridas graves obtidas em serviço dedicado.
 
-ent-ClothingNeckMedalNfsdCivShieldGold = shieldbearer's medal
-    .desc = For extraordinary civilian assistance in the face of danger.
+ent-ClothingNeckMedalNfsdCivShieldGold = medalha de portador de escudo
+    .desc = Por assistência civil extraordinária face ao perigo.
 
-ent-ClothingNeckMedalNfsdCivStarSilver = friend of the frontier
-    .desc = In recognition of exceptional and honorable civilian service.
+ent-ClothingNeckMedalNfsdCivStarSilver = amigo da fronteira
+    .desc = Em reconhecimento de serviço civil excepcional e honroso.
 
-ent-ClothingNeckMedalNfsdShieldBronze = shield of merit
-    .desc = For distinguished and meritorious conduct in the line of duty.
+ent-ClothingNeckMedalNfsdShieldBronze = escudo de mérito
+    .desc = Por conduta distinta e meritória na linha de dever.
 
-ent-ClothingNeckMedalNfsdShieldGold = shield of courage
-    .desc = For exemplary courage and leadership beyond expectation in contact with the enemy.
+ent-ClothingNeckMedalNfsdShieldGold = escudo de coragem
+    .desc = Por coragem exemplar e liderança além da expectativa em contato com o inimigo.
 
-ent-ClothingNeckMedalNfsdShieldSilver = shield of gallantry
-    .desc = For acts of conspicuous gallantry against enemies of the Frontier.
+ent-ClothingNeckMedalNfsdShieldSilver = escudo de galanteria
+    .desc = Por atos de galanteria conspicua contra inimigos da Fronteira.
 
-ent-ClothingNeckMedalNfsdStarGold = star of valor
-    .desc = For daring acts of selflessness and devotion to duty in dire circumstances.
+ent-ClothingNeckMedalNfsdStarGold = estrela de valor
+    .desc = Por atos ousados de abnegação e devoção ao dever em circunstâncias desesperadoras.
 
 # From: _NF/Entities/Clothing/Neck/misc.yml
 
-ent-ClothingNeckAmuletBloodCult = ascended cultist amulet
-    .desc = Every time you gaze upon it, you feel as if it is gazing back at you. Summons a drained one that follows the user for a brief period of time. Has a cooldown.
+ent-ClothingNeckAmuletBloodCult = amuleto de cultista ascendido
+    .desc = Toda vez que você contempla isso, você sente como se estivesse contemplando de volta. Invoca um drenado que segue o usuário por um breve período de tempo. Tem tempo de recarga.
 
-ent-ClothingNeckCrucifix = crucifix
-    .desc = Damn, it feels good to be so pious.
+ent-ClothingNeckCrucifix = crucifixo
+    .desc = Maldito, parece bom ser tão piedoso.
 
-ent-ClothingNeckIFFBlue = IFF blue strobe
+ent-ClothingNeckIFFBlue = strobe azul IFF
 
-ent-ClothingNeckIFFCyan = IFF cyan strobe
+ent-ClothingNeckIFFCyan = strobe ciano IFF
 
-ent-ClothingNeckIFFGreen = IFF green strobe
+ent-ClothingNeckIFFGreen = strobe verde IFF
 
-ent-ClothingNeckIFFNeutral = IFF white strobe
-    .desc = Visible LED IFF kit that consists of helmet and shoulder strobes.
+ent-ClothingNeckIFFNeutral = strobe branco IFF
+    .desc = Kit IFF LED visível que consiste em strobes de capacete e ombro.
 
-ent-ClothingNeckIFFOrange = IFF orange strobe
+ent-ClothingNeckIFFOrange = strobe laranja IFF
 
-ent-ClothingNeckIFFPurple = IFF purple strobe
+ent-ClothingNeckIFFPurple = strobe roxo IFF
 
-ent-ClothingNeckIFFRed = IFF red strobe
+ent-ClothingNeckIFFRed = strobe vermelho IFF
 
 # From: _NF/Entities/Clothing/Neck/scarfs.yml
 
-ent-ClothingNeckScarfChaplainStole = chaplain's stole
-    .desc = A necessary evil for ordained priests outfit. Gives at least +2 to your holiness.
+ent-ClothingNeckScarfChaplainStole = estola de capelão
+    .desc = Um mal necessário para o traje de sacerdotes ordenados. Dá pelo menos +2 à sua santidade.
 
-ent-ClothingNeckScarfPilot = pilot's scarf
-    .desc = Have I told you a story how I survived when the end of this scarf got tangled in a spinning propeller? I didn't, they cloned me.
+ent-ClothingNeckScarfPilot = cachecol de piloto
+    .desc = Eu já te contei a história como eu sobrevivi quando a ponta deste cachecol ficou presa em uma hélice giratória? Eu não, eles me clonaram.
 
 # From: _NF/Entities/Clothing/Neck/ties.yml
 
-ent-ClothingNeckTieBH = tie
-    .desc = A loosely tied necktie, a perfect accessory for the over-worked.
+ent-ClothingNeckTieBH = gravata
+    .desc = Uma gravata frouxamente amarrada, um acessório perfeito para os sobrecarregados.
 
 # From: _NF/Entities/Clothing/Neck/web_neck_clothing.yml
 
-ent-ClothingNeckClassicPonchoWeb = classic web poncho
-    .desc = All of the charm of the desert highlands as imagined by the glands of a spider. It agreeably sticky!
+ent-ClothingNeckClassicPonchoWeb = pônche web clássico
+    .desc = Todo o charme dos planaltos do deserto imaginado pelas glândulas de uma aranha. É agradavelmente pegajoso!
 
-ent-ClothingNeckCloakWeb = web cloak
-    .desc = This dapper cloak surely identifies you as a friend of spider kind. Surely.
+ent-ClothingNeckCloakWeb = manto web
+    .desc = Este manto elegante certamente identifica você como um amigo do tipo aranha. Certamente.
 
-ent-ClothingNeckPonchoWeb = web poncho
-    .desc = It is like you were trapped in a cocoon and they added holes for your extremities. You are born again into fashion.
+ent-ClothingNeckPonchoWeb = pônche web
+    .desc = É como se você estivesse preso em um casulo e eles adicionaram furos para suas extremidades. Você renasceu na moda.
 
 # From: _NF/Entities/Clothing/OuterClothing/armor_punk.yml
 
-ent-ClothingOuterArmorElitePunkRandomized = punk heavy armor
+ent-ClothingOuterArmorElitePunkRandomized = armadura pesada punk
+    .suffix = Visuais aleatórios
 .suffix = Visuais aleatórios
 
-ent-ClothingOuterArmorPunkGreen = punk armor
+ent-ClothingOuterArmorPunkGreen = armadura punk
 
-ent-ClothingOuterArmorPunkOrange = punk armor
+ent-ClothingOuterArmorPunkOrange = armadura punk
 
-ent-ClothingOuterArmorPunkRandomized = punk armor
+ent-ClothingOuterArmorPunkRandomized = armadura punk
+    .suffix = Visuais aleatórios
 .suffix = Visuais aleatórios
 
-ent-ClothingOuterArmorPunkRed = punk armor
+ent-ClothingOuterArmorPunkRed = armadura punk
 
 # From: _NF/Entities/Clothing/OuterClothing/armor.yml
 
-ent-ClothingOuterArmorNfsd = TSFMC armor
-    .desc = Get shot, maybe survive?
+ent-ClothingOuterArmorNfsd = armadura TSFMC
+    .desc = Levar um tiro, talvez sobreviva?
 
-ent-ClothingOuterArmorSrCarapace = overseer's carapace
-    .desc = A premium armored chest-piece that provides above average protection for its size. It offers maximum mobility and flexibility thanks to the premium composite materials.
+ent-ClothingOuterArmorSrCarapace = carapaça do supervisor
+    .desc = Uma peça de peito blindada premium que fornece proteção acima da média para seu tamanho. Oferece mobilidade e flexibilidade máxima graças aos materiais compostos premium.
 
-ent-ClothingOuterBioArmoredSyndicate = bio suit
-    .suffix = Syndicate
-    .desc = Favorite protective gear of any syndicate chemical warfare enjoyers.
+ent-ClothingOuterBioArmoredSyndicate = macacão biológico
+    .suffix = Sindicato
+    .desc = Equipamento de proteção favorito de qualquer apreciador de guerra química do Sindicato.
 
 # From: _NF/Entities/Clothing/OuterClothing/coats_blood_cult.yml
 
-ent-ClothingOuterCoatBloodCultRobes = cult robes
+ent-ClothingOuterCoatBloodCultRobes = vestes de culto
+    .suffix = Fronteira
+    .desc = Não há culto sem vestes de culto vermelhas/carmesim clássicas com coletes à prova de balas.
 .suffix = Fronteira
     .desc = There's no cult without classic red/crimson cult robes with bulletproof vests.
 
-ent-ClothingOuterCoatCultJanitor = cult janitor robes
-    .desc = An unholy custodian's garb. Surprisingly comfortable.
+ent-ClothingOuterCoatCultJanitor = vestes de zelador de culto
+    .desc = Um traje de zelador amaldiçoado. Surpreendentemente confortável.
 
 # From: _NF/Entities/Clothing/OuterClothing/coats_punk.yml
 
-ent-ClothingOuterCoatAcidRaincoat = acid raincoat
-    .desc = Mostly transparent raincoat made out of acid resistant polymers. Please, for the love of Space God, do wear undergarments.
+ent-ClothingOuterCoatAcidRaincoat = capa de chuva ácida
+    .desc = Capa de chuva principalmente transparente feita de polímeros resistentes ao ácido. Por favor, pelo amor do Deus Espacial, use roupas de baixo.
 
-ent-ClothingOuterCoatAcidRaincoatBlue = blue acid raincoat
+ent-ClothingOuterCoatAcidRaincoatBlue = capa de chuva ácida azul
 
-ent-ClothingOuterCoatAcidRaincoatGreen = green acid raincoat
+ent-ClothingOuterCoatAcidRaincoatGreen = capa de chuva ácida verde
 
-ent-ClothingOuterCoatAcidRaincoatMagenta = magenta acid raincoat
+ent-ClothingOuterCoatAcidRaincoatMagenta = capa de chuva ácida magenta
 
-ent-ClothingOuterCoatAcidRaincoatYellow = yellow acid raincoat
+ent-ClothingOuterCoatAcidRaincoatYellow = capa de chuva ácida amarela
 
-ent-ClothingOuterCoatBomberAerostatic = aerostatic bomber
-    .desc = When you wear it, you can always hear the sickest guitar solo in your mind.
+ent-ClothingOuterCoatBomberAerostatic = bomber aerostático
+    .desc = Quando você usa, você sempre pode ouvir o solo de guitarra mais doente em sua mente.
 
-ent-ClothingOuterCoatBomberPinkSleeves = bomber jacket
-    .desc = Oi! Whatcha lookin' at?
+ent-ClothingOuterCoatBomberPinkSleeves = jaqueta bomber
+    .desc = Oi! O que você está olhando?
 
-ent-ClothingOuterCoatBomberPunkRed = red punk bomber
-    .desc = Ya gotta 'ave style on dem streets.
+ent-ClothingOuterCoatBomberPunkRed = bomber punk vermelho
+    .desc = Você precisa ter estilo nas ruas.
 
-ent-ClothingOuterCoatBomberRandomized = punk jacket
+ent-ClothingOuterCoatBomberRandomized = jaqueta punk
+    .suffix = Visuais aleatórios
+    .desc = Oi! O que você está olhando?
 .suffix = Visuais aleatórios
     .desc = Oi! Whatcha lookin' at?
 
-ent-ClothingOuterCoatJacketBiker = biker jacket
-    .desc = Made out of toughest synthleather for toughest badasses.
+ent-ClothingOuterCoatJacketBiker = jaqueta de motociclista
+    .desc = Feita do sintcouro mais resistente para os durões mais resistentes.
 
-ent-ClothingOuterCoatJacketJamrock = jamrock blazer
-    .desc = Welcome to jamrock.
+ent-ClothingOuterCoatJacketJamrock = blazer Jamrock
+    .desc = Bem-vindo ao Jamrock.
 
-ent-ClothingOuterCoatJacketLeather = leather jacket
-    .desc = Rock'n'roll, babe!
+ent-ClothingOuterCoatJacketLeather = jaqueta de couro
+    .desc = Rock'n'roll, bebê!
 
-ent-ClothingOuterCoatJacketLettermanBlue = blue letterman jacket
-    .desc = Where is your lacrosse stick?
+ent-ClothingOuterCoatJacketLettermanBlue = jaqueta de tenis azul
+    .desc = Onde está seu taco de lacrosse?
 
-ent-ClothingOuterCoatJacketLettermanBrown = brown letterman jacket
-    .desc = Where is your lacrosse stick?
+ent-ClothingOuterCoatJacketLettermanBrown = jaqueta de tenis marrom
+    .desc = Onde está seu taco de lacrosse?
 
-ent-ClothingOuterCoatJacketLettermanMagenta = magenta letterman jacket
-    .desc = Where is your holocrosse joystick?
+ent-ClothingOuterCoatJacketLettermanMagenta = jaqueta de tenis magenta
+    .desc = Onde está seu joystick de holocrosse?
 
-ent-ClothingOuterCoatJacketLettermanRed = red letterman jacket
-    .desc = Where is your lacrosse stick?
+ent-ClothingOuterCoatJacketLettermanRed = jaqueta de tenis vermelha
+    .desc = Onde está seu taco de lacrosse?
 
-ent-ClothingOuterCoatLettermanRandomized = punk letterman jacket
+ent-ClothingOuterCoatLettermanRandomized = jaqueta de tenis punk
+    .suffix = Visuais aleatórios
+    .desc = Onde está seu joystick de holocrosse?
 .suffix = Visuais aleatórios
     .desc = Where is your holocrosse joystick?
 
 # From: _NF/Entities/Clothing/OuterClothing/coats.yml
 
-ent-ClothingOuterCoatArcadiaTrench = arcadia flak trenchcoat
-    .desc = A flak trenchcoat produced by Arcadia Industries, enhanced with a bulletproof alloy for some extra protection.
+ent-ClothingOuterCoatArcadiaTrench = trenchcoat flak Arcádia
+    .desc = Uma trenchcoat flak produzida pela Arcádia Industries, aprimorada com uma liga à prova de balas para proteção extra.
 
-ent-ClothingOuterCoatArcadiaTrenchOpened = arcadia flak trenchcoat
+ent-ClothingOuterCoatArcadiaTrenchOpened = trenchcoat flak Arcádia
 
-ent-ClothingOuterCoatBHTrench = bounty hunter's flak trenchcoat
-    .desc = A greatcoat enhanced with a bulletproof alloy for some extra protection and style for those with a charismatic presence.
+ent-ClothingOuterCoatBHTrench = trenchcoat flak de caçador de recompensas
+    .desc = Uma grande-cape aprimorada com uma liga à prova de balas para proteção extra e estilo para aqueles com presença carismática.
 
-ent-ClothingOuterCoatBishop = bishop's robes
-    .desc = Golden threads aren't actually made of gold. Bummer.
+ent-ClothingOuterCoatBishop = vestes de bispo
+    .desc = Fios dourados não são feitos de ouro. Azar.
 
-ent-ClothingOuterCoatCardinal = cardinal's coat
-    .desc = Nobody expects the Spanish Inquisition!
+ent-ClothingOuterCoatCardinal = casaco de cardeal
+    .desc = Ninguém espera a Inquisição Espanhola!
 
-ent-ClothingOuterCoatNfsdBomber = TSFMC bomber
-    .desc = Lookin' slick Tom.
+ent-ClothingOuterCoatNfsdBomber = bomber TSFMC
+    .desc = Parecendo elegante Tom.
 
-ent-ClothingOuterCoatNfsdBomberBrigmed = TSFMC brigmedic bomber
-    .desc = Blood may stain.
+ent-ClothingOuterCoatNfsdBomberBrigmed = bomber de médico de detenção TSFMC
+    .desc = Sangue pode manchar.
 
-ent-ClothingOuterCoatNfsdFormal = TSFMC formal coat
-    .desc = Snazzy.
+ent-ClothingOuterCoatNfsdFormal = casaco formal TSFMC
+    .desc = Elegante.
 
-ent-ClothingOuterCoatNfsdFormalSheriff = TSFMC colonel's formal coat
-    .desc = Very snazzy.
+ent-ClothingOuterCoatNfsdFormalSheriff = casaco formal de coronel TSFMC
+    .desc = Muito elegante.
 
-ent-ClothingOuterCoatNfsdLongCoat = TSFMC long coat
-    .desc = Big iron on his hip...
+ent-ClothingOuterCoatNfsdLongCoat = casaco longo TSFMC
+    .desc = Grande ferro no quadril...
 
-ent-ClothingOuterCoatPirateCaptain = pirate captain's coat
+ent-ClothingOuterCoatPirateCaptain = casaco de capitão pirata
     .desc = Y'arrgh har fiddle di dee.
 
-ent-ClothingOuterCoatWitchHunter = witch hunter's coat
-    .desc = Looks even better under constant rain with storm wind.
+ent-ClothingOuterCoatWitchHunter = casaco de caçador de bruxas
+    .desc = Parece ainda melhor sob chuva constante com vento de tempestade.
 
-ent-ClothingOuterJacketSr = overseer's jacket
-    .desc = The upper part of the overseer's uniform.
+ent-ClothingOuterJacketSr = jaqueta do supervisor
+    .desc = A parte superior do uniforme do supervisor.
 
 # From: _NF/Entities/Clothing/OuterClothing/goblin_outerclothing.yml
 
-ent-ClothingOuterCoatRobesGoblin = goblin robes
-    .desc = Traditional robes of goblinkind. Very regal.
+ent-ClothingOuterCoatRobesGoblin = vestes de goblin
+    .desc = Vestes tradicionais da goblinidade. Muito régio.
 
-ent-ClothingOuterEVASuitGoblin = goblin EVA suit
-    .desc = Traditional robes of goblinkind made EVA-capable. Very regal.
+ent-ClothingOuterEVASuitGoblin = escafandro VEX de goblin
+    .desc = Vestes tradicionais da goblinidade tornadas capazes de EVA. Muito régio.
 
 # From: _NF/Entities/Clothing/OuterClothing/hardsuits.yml
 
-ent-ClothingOuterHardsuitERTMailCarrier = ERT mail carrier's hardsuit
-    .desc = A protective hardsuit worn by the mail carriers of an emergency response team.
+ent-ClothingOuterHardsuitERTMailCarrier = macacão rígido de carteiro da ERT
+    .desc = Um macacão rígido protetor usado pelos carteiros de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitMaximPrototype = experimental salvager hardsuit
-    .desc = Fire. Heat. These things forge great weapons, they also forge great salvagers.
+ent-ClothingOuterHardsuitMaximPrototype = macacão rígido experimental de salvamentista
+    .desc = Fogo. Calor. Estas coisas forjam grandes armas, elas também forjam grandes salvamentistas.
 
-ent-ClothingOuterHardsuitMercenary = mercenary hardsuit
-    .desc = A special suit that protects from the danger of space, employed by mercenary forces. Certified to be blunderbuss-resistant.
+ent-ClothingOuterHardsuitMercenary = macacão rígido de mercenário
+    .desc = Um macacão especial que protege do perigo do espaço, empregado por forças mercenárias. Certificado como resistente a blunderbuss.
 
-ent-ClothingOuterHardsuitPilot = pilot hardsuit
-    .desc = A hardsuit tailored for someone who spends the majority of their time buckled to a chair.
+ent-ClothingOuterHardsuitPilot = macacão rígido de piloto
+    .desc = Um macacão rígido feito sob medida para alguém que gasta a maioria do tempo preso a uma cadeira.
 
-ent-ClothingOuterHardsuitPirateElite = elite pirate hardsuit
-    .desc = An ancient elite armored hardsuit, designed by an unknown bearded man and built like a brick house.
+ent-ClothingOuterHardsuitPirateElite = macacão rígido pirata élite
+    .desc = Um macacão rígido blindado élite antigo, projetado por um homem barbado desconhecido e construído como uma casa de tijolos.
 
-ent-ClothingOuterHardsuitPrivateSecurity = private security hardsuit
-    .desc = A special suit that protects from the danger of space, employed by private security forces.
+ent-ClothingOuterHardsuitPrivateSecurity = macacão rígido de segurança privada
+    .desc = Um macacão especial que protege do perigo do espaço, empregado por forças de segurança privada.
 
-ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = syndicate hardsuit
+ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = macacão rígido do Sindicato
 
-ent-ClothingOuterHardsuitSyndieEliteUnremoveable = syndicate hardsuit
+ent-ClothingOuterHardsuitSyndieEliteUnremoveable = macacão rígido do Sindicato
 
-ent-ClothingOuterHardsuitTacticalMaid = tactical maid hardsuit
-    .desc = Layers of stain resistant alloys built into a single suit. It even comes with a reinforced apron!
+ent-ClothingOuterHardsuitTacticalMaid = macacão rígido de empregada tática
+    .desc = Camadas de ligas resistentes a manchas embutidas em um único macacão. Até vem com um avental reforçado!
 
 # From: _NF/Entities/Clothing/OuterClothing/softsuits.yml
 
-ent-ClothingOuterEVASuitArcadia = arcadia EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to Arcadia Industries personnel.
+ent-ClothingOuterEVASuitArcadia = escafandro VEX Arcádia
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pessoal da Arcádia Industries.
 
-ent-ClothingOuterEVASuitAtmosTech = atmospheric technician EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to atmospheric technicians.
+ent-ClothingOuterEVASuitAtmosTech = escafandro VEX de técnico atmosférico
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para técnicos atmosféricos.
 
-ent-ClothingOuterEVASuitBoxerBlue = boxer EVA suit
+ent-ClothingOuterEVASuitBoxerBlue = escafandro VEX de pugilista
+    .suffix = Azul
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pugilistas no canto azul.
 .suffix = Azul
     .desc = An EVA suit with a built-in helmet commonly issued to boxers in the blue corner.
 
-ent-ClothingOuterEVASuitBoxerGreen = boxer EVA suit
+ent-ClothingOuterEVASuitBoxerGreen = escafandro VEX de pugilista
+    .suffix = Verde
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pugilistas no canto verde.
 .suffix = Verde
     .desc = An EVA suit with a built-in helmet commonly issued to boxers in the green corner.
 
-ent-ClothingOuterEVASuitBoxerRandom = boxer EVA suit
-    .suffix = Randomized colors
-    .desc = An EVA suit with a built-in helmet commonly issued to boxers in the random corner.
+ent-ClothingOuterEVASuitBoxerRandom = escafandro VEX de pugilista
+    .suffix = Cores aleatórias
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pugilistas no canto aleatório.
 
-ent-ClothingOuterEVASuitBoxerRed = boxer EVA suit
+ent-ClothingOuterEVASuitBoxerRed = escafandro VEX de pugilista
+    .suffix = Vermelho
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pugilistas no canto vermelho.
 .suffix = Vermelho
     .desc = An EVA suit with a built-in helmet commonly issued to boxers in the red corner.
 
-ent-ClothingOuterEVASuitBoxerYellow = boxer EVA suit
+ent-ClothingOuterEVASuitBoxerYellow = escafandro VEX de pugilista
+    .suffix = Amarelo
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pugilistas no canto amarelo.
 .suffix = Amarelo
     .desc = An EVA suit with a built-in helmet commonly issued to boxers in the yellow corner.
 
-ent-ClothingOuterEVASuitCaptain = captain EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to captains.
+ent-ClothingOuterEVASuitCaptain = escafandro VEX de capitão
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para capitães.
 
-ent-ClothingOuterEVASuitCargo = cargo technician EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to cargo technicians.
+ent-ClothingOuterEVASuitCargo = escafandro VEX de técnico de cargas
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para técnicos de cargas.
 
-ent-ClothingOuterEVASuitChaplain = chaplain EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to chaplains.
+ent-ClothingOuterEVASuitChaplain = escafandro VEX de capelão
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para capelães.
 
-ent-ClothingOuterEVASuitContractor = contractor EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to contractors.
+ent-ClothingOuterEVASuitContractor = escafandro VEX de contratista
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para contratistas.
 
-ent-ClothingOuterEVASuitEngineer = engineer EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to engineers.
+ent-ClothingOuterEVASuitEngineer = escafandro VEX de engenheiro
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para engenheiros.
 
-ent-ClothingOuterEVASuitFsb = FSB EVA suit
-    .desc = The standard issue EVA suit for Far Star Biotech corporation vessels. It comes with two cupholders.
+ent-ClothingOuterEVASuitFsb = escafandro VEX FSB
+    .desc = O escafandro VEX padrão para naves da corporação Far Star Biotech. Vem com dois porta-copos.
 
-ent-ClothingOuterEVASuitHydro = botanist EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to hydroponics workers.
+ent-ClothingOuterEVASuitHydro = escafandro VEX de botânico
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para trabalhadores de hidroponia.
 
-ent-ClothingOuterEVASuitJanitor = janitor EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to janitors.
+ent-ClothingOuterEVASuitJanitor = escafandro VEX de zelador
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para zeladores.
 
-ent-ClothingOuterEVASuitLvhi = LVHI EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to Langstad-Voigt Heavy Industries (LVHI) personnel.
+ent-ClothingOuterEVASuitLvhi = escafandro VEX LVHI
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pessoal da Langstad-Voigt Heavy Industries (LVHI).
 
-ent-ClothingOuterEVASuitMailman = mailcarrier EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to hydroponics workers.
+ent-ClothingOuterEVASuitMailman = escafandro VEX de carteiro
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para trabalhadores de hidroponia.
 
-ent-ClothingOuterEVASuitMedic = medical specialist EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to medical specialists.
+ent-ClothingOuterEVASuitMedic = escafandro VEX de especialista médico
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para especialistas médicos.
 
-ent-ClothingOuterEVASuitMercenary = mercenary EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to mercenaries.
+ent-ClothingOuterEVASuitMercenary = escafandro VEX de mercenário
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para mercenários.
 
-ent-ClothingOuterEVASuitNfsd = TSFMC EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to TSFMC personnel.
+ent-ClothingOuterEVASuitNfsd = escafandro VEX TSFMC
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pessoal TSFMC.
 
-ent-ClothingOuterEVASuitPilot = pilot EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to pilots.
+ent-ClothingOuterEVASuitPilot = escafandro VEX de piloto
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para pilotos.
 
-ent-ClothingOuterEVASuitPrivateSec = private security EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to private security.
+ent-ClothingOuterEVASuitPrivateSec = escafandro VEX de segurança privada
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para segurança privada.
 
-ent-ClothingOuterEVASuitSalvage = salvage specialist EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to salvage specialists.
+ent-ClothingOuterEVASuitSalvage = escafandro VEX de especialista em salvamento
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para especialistas em salvamento.
 
-ent-ClothingOuterEVASuitScientist = scientist EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to scientists.
+ent-ClothingOuterEVASuitScientist = escafandro VEX de cientista
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para cientistas.
 
-ent-ClothingOuterEVASuitServiceWorker = service worker EVA suit
-    .desc = An EVA suit with a built-in helmet commonly issued to service workers.
+ent-ClothingOuterEVASuitServiceWorker = escafandro VEX de trabalhador de serviços
+    .desc = Um escafandro VEX com capacete embutido comumente emitido para trabalhadores de serviços.
 
-ent-ClothingOuterEVASuitSr = overseer EVA suit
-    .desc = An EVA suit with a built-in helmet issued to Colossus Central's overseer.
+ent-ClothingOuterEVASuitSr = escafandro VEX de supervisor
+    .desc = Um escafandro VEX com capacete embutido emitido para supervisor do Colossus Central.
 
 # From: _NF/Entities/Clothing/OuterClothing/suits.yml
 
-ent-ClothingOuterSuitBombSyndie = syndicate bomb suit
+ent-ClothingOuterSuitBombSyndie = macacão de bombas do Sindicato
 
 # From: _NF/Entities/Clothing/OuterClothing/wintercoats.yml
 
-ent-ClothingOuterWinterArcadia = arcadia winter coat
-    .desc = A coat produced by Arcadia Industries, seems soft.
+ent-ClothingOuterWinterArcadia = casaco de inverno Arcádia
+    .desc = Um casaco produzido pela Arcádia Industries, parece macio.
 
 # From: _NF/Entities/Clothing/Shoes/boots_punk.yml
 
-ent-ClothingShoesBootsPunkRandomized = punk boots
+ent-ClothingShoesBootsPunkRandomized = botas punk
+    .suffix = Visuais aleatórios
+    .desc = Estas botas foram feitas para pisar, e pisar no seu crânio elas farão.
 .suffix = Visuais aleatórios
     .desc = Deez boots were made for stompin', an' stompin' on ya bucket dey'll do.
 
 # From: _NF/Entities/Clothing/Shoes/boots.yml
 
-ent-ClothingShoesBootsNfsdBrown = TSFMC brown boots
-    .desc = Stylish boots for running in circles on a deck during emergencies.
+ent-ClothingShoesBootsNfsdBrown = botas marrons TSFMC
+    .desc = Botas elegantes para correr em círculos no convés durante emergências.
 
-ent-ClothingShoesBootsNfsdCream = TSFMC cream boots
-    .desc = Stylish boots for running in circles on a deck during emergencies.
+ent-ClothingShoesBootsNfsdCream = botas creme TSFMC
+    .desc = Botas elegantes para correr em círculos no convés durante emergências.
 
-ent-ClothingShoesBootsPilot = pilot boots
-    .desc = Stylish boots for running in circles on a deck during emergencies.
+ent-ClothingShoesBootsPilot = botas de piloto
+    .desc = Botas elegantes para correr em círculos no convés durante emergências.
 
-ent-ClothingShoesBootsPirate = pirate boots
-    .desc = These boots can hold an endless hoard of foot.
+ent-ClothingShoesBootsPirate = botas de pirata
+    .desc = Estas botas podem segurar uma horda infinita de pé.
 
-ent-ClothingShoesBootsPirateLuffy = suspicious pirate sandals
-    .desc = A rather suspicious looking set of pirate sandals.
+ent-ClothingShoesBootsPirateLuffy = sandálias de pirata suspeitas
+    .desc = Um conjunto de sandálias de pirata com aparência bastante suspeita.
 
 # From: _NF/Entities/Clothing/Shoes/clown_shoes_mods.yml
 
-ent-ClothingShoesClownModKetchup = 
+ent-ClothingShoesClownModKetchup
     .suffix = Ketchup
-    .desc = The modified standard-issue clowning shoes. Damn they're soggy!
+    .desc = Os sapatos modificados padrão de palhaço. Maldito, estão encharcados!
 
-ent-ClothingShoesClownModMustarchup = 
-    .suffix = Mustarchup
-    .desc = The modified standard-issue clowning shoes. Damn they're very soggy!
+ent-ClothingShoesClownModMustarchup
+    .suffix = Mostarchup
+    .desc = Os sapatos modificados padrão de palhaço. Maldito, estão muito encharcados!
 
-ent-ClothingShoesClownModUltimate = 
+ent-ClothingShoesClownModUltimate
     .suffix = Ultimate
-    .desc = The modified standard-issue clowning shoes. Damn they're soft and soggy!
+    .desc = Os sapatos modificados padrão de palhaço. Maldito, estão macios e encharcados!
 
-ent-ClothingShoesClownModWhoopie = 
+ent-ClothingShoesClownModWhoopie
     .suffix = Whoopie
-    .desc = The modified standard-issue clowning shoes. Damn they're so soft!
+    .desc = Os sapatos modificados padrão de palhaço. Maldito, são tão macios!
 
 # From: _NF/Entities/Clothing/Shoes/magboots.yml
 
-ent-ClothingShoesBootsMagGaloshes = magnaloshes
-    .desc = Magnetic galoshes, often used during cleaning activity to ensure the user remains safely attached to the floor.
+ent-ClothingShoesBootsMagGaloshes = magnalochas
+    .desc = Galochas magnéticas, frequentemente usadas durante atividade de limpeza para garantir que o usuário permaneça seguramente preso ao chão.
 
-ent-ClothingShoesBootsMagMercenary = mercenary magboots
-    .desc = Mercenary magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+ent-ClothingShoesBootsMagMercenary = botas magnéticas de mercenário
+    .desc = Botas magnéticas de mercenário, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguramente preso ao veículo.
 
-ent-ClothingShoesBootsMagNfsd = TSFMC magboots
+ent-ClothingShoesBootsMagNfsd = botas magnéticas TSFMC
 
-ent-ClothingShoesBootsMagPirate = pirate magboots
-    .desc = Pirate magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+ent-ClothingShoesBootsMagPirate = botas magnéticas de pirata
+    .desc = Botas magnéticas de pirata, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguramente preso ao veículo.
 
-ent-ClothingShoesBootsMagSecurity = security magboots
-    .desc = Security magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+ent-ClothingShoesBootsMagSecurity = botas magnéticas de segurança
+    .desc = Botas magnéticas de segurança, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguramente preso ao veículo.
 
 # From: _NF/Entities/Clothing/Shoes/misc.yml
 
-ent-ActionToggleMoonBoots = Toggle Moon Boots
-    .desc = Toggles the moon boots on and off.
+ent-ActionToggleMoonBoots = Alternar Botas Lunares
+    .desc = Alterna as botas lunares ligado e desligado.
 
-ent-ClothingShoesClothwrap = cloth footwraps
-    .desc = A roll of treated canvas used for wrapping feet or paws.
+ent-ClothingShoesClothwrap = envoltórios de pano de pés
+    .desc = Um rolo de lona tratada usado para envolver pés ou patas.
 
-ent-NFClothingShoesBootsMoon = moon boots
-    .desc = Special anti-gravity boots developed with a speciality blend of lunar rock gel. Shipped from the Netherlands. By clicking your heels you can turn them off!
+ent-NFClothingShoesBootsMoon = botas lunares
+    .desc = Botas especiais antigravidade desenvolvidas com uma mistura especial de gel de rocha lunar. Enviadas dos Países Baixos. Clicando seus saltos você pode desligá-las!
 
 # From: _NF/Entities/Clothing/Uniforms/jumpskirts.yml
 
-ent-ClothingUniformJumpskirtArcadia = arcadia jumpskirt
-    .desc = A jumpskirt produced by Arcadia Industries. Designed to reduce chaffing between the legs for the comfort of skin, slime, scales, fluff, and wood.
+ent-ClothingUniformJumpskirtArcadia = saia-fly Arcádia
+    .desc = Uma saia-fly produzida pela Arcádia Industries. Projetada para reduzir atrito entre as pernas para o conforto de pele, slime, escamas, fofura e madeira.
 
-ent-ClothingUniformJumpskirtBH = hard-worn suit
-    .desc = Someone who wears this means business.
+ent-ClothingUniformJumpskirtBH = terno desgastado
+    .desc = Alguém que usa isto é sério.
 
-ent-ClothingUniformJumpskirtBHGrey = noir suit
-    .desc = A grey suit, complete with tie clip.
+ent-ClothingUniformJumpskirtBHGrey = terno noir
+    .desc = Um terno cinza, completo com clip de gravata.
 
-ent-ClothingUniformJumpskirtMercenary = mercenary jumpskirt
-    .desc = Clothing for real mercenaries who have gone through fire, water and the jungle of planets flooded with dangerous monsters or targets for which a reward has been assigned.
+ent-ClothingUniformJumpskirtMercenary = saia-fly de mercenário
+    .desc = Roupa para mercenários reais que passaram por fogo, água e selva de planetas inundados com monstros perigosos ou alvos para os quais uma recompensa foi atribuída.
 
-ent-ClothingUniformJumpskirtNfsd = TSFMC jumpskirt
-    .desc = A long sleeved jumpskirt produced for deputy colonels. Designed to reduce chaffing between the legs for the comfort of skin, slime, scales, fluff, and wood.
+ent-ClothingUniformJumpskirtNfsd = saia-fly TSFMC
+    .desc = Uma saia-fly de mangas compridas produzida para coronéis adjuntos. Projetada para reduzir atrito entre as pernas para o conforto de pele, slime, escamas, fofura e madeira.
 
-ent-ClothingUniformJumpskirtNfsdShort = TSFMC jumpskirt
-    .desc = A short sleeved jumpskirt produced for deputy colonels. Designed to reduce chaffing between the legs for the comfort of skin, slime, scales, fluff, and wood.
+ent-ClothingUniformJumpskirtNfsdShort = saia-fly TSFMC
+    .desc = Uma saia-fly de mangas curtas produzida para coronéis adjuntos. Projetada para reduzir atrito entre as pernas para o conforto de pele, slime, escamas, fofura e madeira.
 
-ent-ClothingUniformJumpskirtPrivateSec = private security jumpskirt
-    .desc = A specialized uniform for a private security guard. For the discerning private contractor in need of a professional look.
+ent-ClothingUniformJumpskirtPrivateSec = saia-fly de segurança privada
+    .desc = Um uniforme especializado para um guarda de segurança privada. Para o contratista privado exigente que precisa de uma aparência profissional.
 
-ent-ClothingUniformJumpskirtPublicAffairsLiaison = public affairs liaison jumpskirt
-    .desc = A starched and pressed skirt suit for the public affairs liaison.
+ent-ClothingUniformJumpskirtPublicAffairsLiaison = saia-fly de liaison de assuntos públicos
+    .desc = Um terno saia engomado e prensado para o liaison de assuntos públicos.
 
-ent-ClothingUniformJumpskirtSecGuard = security guard's uniform
-    .desc = A specialized uniform for Colonial Outpost's station guard. Crisp and official to let dock loiterers know you mean business.
+ent-ClothingUniformJumpskirtSecGuard = uniforme de guarda de segurança
+    .desc = Um uniforme especializado para guarda da estação do Posto Colonial. Impecável e oficial para deixar vadios do cais saberem que você é sério.
 
-ent-ClothingUniformJumpskirtSr = overseer's uniform
-    .desc = A top of the line outfit for Colossus Central's overseer. No expense was spared in the tailoring, every stitch is a masterpiece. The fact this suit was even issued shows the trust Central Command is placing in their representative on this outpost.
+ent-ClothingUniformJumpskirtSr = uniforme do supervisor
+    .desc = Um traje topo de linha para supervisor do Colossus Central. Nenhuma despesa foi poupada na alfaiataria, cada ponto é uma obra-prima. O fato deste terno ter sido emitido mostra a confiança que o Comando Central está colocando em seu representante neste posto.
 
-ent-ClothingUniformJumpskirtValet = valet's uniform
-    .desc = A nice and tidy uniform.
+ent-ClothingUniformJumpskirtValet = uniforme de camareiro
+    .desc = Um uniforme bonito e arrumado.
 
 # From: _NF/Entities/Clothing/Uniforms/jumpsuits_punk.yml
 
-ent-ClothingUniformRandomArmlessNoSkirt = colorful armless jumpsuit
+ent-ClothingUniformRandomArmlessNoSkirt = macacão colorido sem mangas
 
-ent-ClothingUniformRandomPunkCroptop = punk croptop jumpsuit
+ent-ClothingUniformRandomPunkCroptop = macacão punk croptop
+    .suffix = Visuais aleatórios
+    .desc = Gerado por redes neurais baseado nas últimas tendências da moda.
 .suffix = Visuais aleatórios
     .desc = Generated by neural networks based on the latest fashion trends.
 
-ent-ClothingUniformRandomPunkCroptopShorts = punk croptop short jumpsuit
+ent-ClothingUniformRandomPunkCroptopShorts = macacão curto punk croptop
+    .suffix = Visuais aleatórios
+    .desc = Gerado por redes neurais baseado nas últimas tendências da moda.
 .suffix = Visuais aleatórios
     .desc = Generated by neural networks based on the latest fashion trends.
 
-ent-ClothingUniformRandomPunkTanktop = punk tanktop jumpsuit
+ent-ClothingUniformRandomPunkTanktop = macacão punk tanktop
 
-ent-ClothingUniformRandomPunkTanktopShorts = punk tanktop short jumpsuit
+ent-ClothingUniformRandomPunkTanktopShorts = macacão curto punk tanktop
 
 # From: _NF/Entities/Clothing/Uniforms/jumpsuits.yml
 
-ent-ClothingUniformJumpsuitArcadia = arcadia jumpsuit
-    .desc = A jumpsuit produced by Arcadia Industries. Designed to reduce chaffing between the legs for the comfort of skin, slime, scales, fluff, and wood.
+ent-ClothingUniformJumpsuitArcadia = macacão Arcádia
+    .desc = Um macacão produzido pela Arcádia Industries. Projetado para reduzir atrito entre as pernas para o conforto de pele, slime, escamas, fofura e madeira.
 
-ent-ClothingUniformJumpsuitBH = hard-worn suit
-    .desc = Someone who wears this means business.
+ent-ClothingUniformJumpsuitBH = terno desgastado
+    .desc = Alguém que usa isto é sério.
 
-ent-ClothingUniformJumpsuitBHGrey = noir suit
-    .desc = A grey suit, complete with tie clip.
+ent-ClothingUniformJumpsuitBHGrey = terno noir
+    .desc = Um terno cinza, completo com clip de gravata.
 
-ent-ClothingUniformJumpsuitChaplainPilgrimVest = pilgrim jumpsuit
-    .desc = Knock-knock. Would you care to have a word about our Lord-n-Savior Nar-Sss.. Err.. Space Jeebus?
+ent-ClothingUniformJumpsuitChaplainPilgrimVest = macacão de peregrino
+    .desc = Toc-toc. Você se importaria em ter uma palavra sobre nosso Senhor e Salvador Nar-Sss.. Err.. Jesus Espacial?
 
-ent-ClothingUniformJumpsuitERTMailCarrier = ERT mail carrier uniform
-    .desc = A special suit made for the elite mail carriers under CentCom.
+ent-ClothingUniformJumpsuitERTMailCarrier = uniforme de carteiro da ERT
+    .desc = Um terno especial feito para os carteiros élite sob o ComCent.
 
-ent-ClothingUniformJumpsuitGalaxyBlue = blue galaxy suit
-    .desc = Blue lawsuit or those that conduct business on a galactic scale.
+ent-ClothingUniformJumpsuitGalaxyBlue = terno galáxia azul
+    .desc = Terno azul ou aqueles que conduzem negócios em escala galáctica.
 
-ent-ClothingUniformJumpsuitGalaxyRed = red galaxy suit
-    .desc = Red lawsuit for those that conduct business on a galactic scale.
+ent-ClothingUniformJumpsuitGalaxyRed = terno galáxia vermelho
+    .desc = Terno vermelho para aqueles que conduzem negócios em escala galáctica.
 
-ent-ClothingUniformJumpsuitNfsd = TSFMC jumpsuit
-    .desc = A long sleeved jumpsuit produced for deputy colonels. Designed to reduce chaffing between the legs for the comfort of skin, slime, scales, fluff, and wood.
+ent-ClothingUniformJumpsuitNfsd = macacão TSFMC
+    .desc = Um macacão de mangas compridas produzido para coronéis adjuntos. Projetado para reduzir atrito entre as pernas para o conforto de pele, slime, escamas, fofura e madeira.
 
-ent-ClothingUniformJumpsuitNfsdShort = TSFMC jumpsuit
-    .desc = A short sleeved jumpsuit produced for deputy colonels. Designed to reduce chaffing between the legs for the comfort of skin, slime, scales, fluff, and wood.
+ent-ClothingUniformJumpsuitNfsdShort = macacão TSFMC
+    .desc = Um macacão de mangas curtas produzido para coronéis adjuntos. Projetado para reduzir atrito entre as pernas para o conforto de pele, slime, escamas, fofura e madeira.
 
-ent-ClothingUniformJumpsuitNfsdTacBlack = TSFMC tactical jumpsuit
-    .desc = A tactical jumpsuit for deputies in the field.
+ent-ClothingUniformJumpsuitNfsdTacBlack = macacão tático TSFMC
+    .desc = Um macacão tático para adjuntos no campo.
 
-ent-ClothingUniformJumpsuitNfsdTacCamo = TSFMC tactical jumpsuit
-    .desc = A tactical jumpsuit for deputies in the field.
+ent-ClothingUniformJumpsuitNfsdTacCamo = macacão tático TSFMC
+    .desc = Um macacão tático para adjuntos no campo.
 
-ent-ClothingUniformJumpsuitNfsdTacCream = PDV tactical jumpsuit
-    .desc = A tactical jumpsuit for PDV forces in the field.
+ent-ClothingUniformJumpsuitNfsdTacCream = macacão tático PDV
+    .desc = Um macacão tático para forças PDV no campo.
 
-ent-ClothingUniformJumpsuitNfsdTacGray = TSFMC tactical jumpsuit
-    .desc = A tactical jumpsuit for deputies in the field.
+ent-ClothingUniformJumpsuitNfsdTacGray = macacão tático TSFMC
+    .desc = Um macacão tático para adjuntos no campo.
 
-ent-ClothingUniformJumpsuitPilot = pilot jumpsuit
-    .desc = You too think there should be a pocket for your fav smokes?
+ent-ClothingUniformJumpsuitPilot = macacão de piloto
+    .desc = Você também acha que deveria haver um bolso para seus cigarros favoritos?
 
-ent-ClothingUniformJumpsuitPirateLuffy = suspicious pirate uniform
-    .desc = A rather suspicious looking set of pirate clothes.
+ent-ClothingUniformJumpsuitPirateLuffy = uniforme de pirata suspeito
+    .desc = Um conjunto de roupas de pirata com aparência bastante suspeita.
 
-ent-ClothingUniformJumpsuitPirateSlops = pirate slops
-    .desc = A raggedy but comfortable uniform to plunder the sector.
+ent-ClothingUniformJumpsuitPirateSlops = trapos de pirata
+    .desc = Um uniforme esfarrapado mas confortável para saquear o setor.
 
-ent-ClothingUniformJumpsuitPrivateSec = private security jumpsuit
-    .desc = A specialized uniform for a private security guard. For the discerning private contractor in need of a professional look.
+ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança privada
+    .desc = Um uniforme especializado para um guarda de segurança privada. Para o contratista privado exigente que precisa de uma aparência profissional.
 
-ent-ClothingUniformJumpsuitPublicAffairsLiaison = public affairs liaison jumpsuit
-    .desc = A starched and pressed suit for the public affairs liaison.
+ent-ClothingUniformJumpsuitPublicAffairsLiaison = macacão de liaison de assuntos públicos
+    .desc = Um terno engomado e prensado para o liaison de assuntos públicos.
 
-ent-ClothingUniformJumpsuitSecGuard = security guard's uniform
-    .desc = A specialized uniform for Colonial Outpost's station guard. Crisp and official to let dock loiterers know you mean business.
+ent-ClothingUniformJumpsuitSecGuard = uniforme de guarda de segurança
+    .desc = Um uniforme especializado para guarda da estação do Posto Colonial. Impecável e oficial para deixar vadios do cais saberem que você é sério.
 
-ent-ClothingUniformJumpsuitSr = overseer's uniform
-    .desc = A top of the line outfit for Colossus Central's overseer. No expense was spared in the tailoring, every stitch is a masterpiece. The fact this suit was even issued shows the trust Central Command is placing in their representative on this outpost.
+ent-ClothingUniformJumpsuitSr = uniforme do supervisor
+    .desc = Um traje topo de linha para supervisor do Colossus Central. Nenhuma despesa foi poupada na alfaiataria, cada ponto é uma obra-prima. O fato deste terno ter sido emitido mostra a confiança que o Comando Central está colocando em seu representante neste posto.
 
-ent-ClothingUniformJumpsuitValet = valet's uniform
-    .desc = A nice and tidy uniform.
+ent-ClothingUniformJumpsuitValet = uniforme de camareiro
+    .desc = Um uniforme bonito e arrumado.
 
 # From: _NF/Entities/Clothing/Uniforms/military_jumpsuits.yml
 
-ent-ClothingUniformJumpsuitMilitaryArcadiaTac = arcadia tactical jumpsuit
-    .suffix = Military, Tac
-    .desc = A tactical jumpsuit produced by Arcadia Industries.
+ent-ClothingUniformJumpsuitMilitaryArcadiaTac = macacão tático Arcádia
+    .suffix = Militar, Tático
+    .desc = Um macacão tático produzido pela Arcádia Industries.
 
-ent-ClothingUniformJumpsuitMilitaryColorBlack = black jumpsuit
-    .suffix = Military
-    .desc = A generic black jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorBlack = macacão preto
+    .suffix = Militar
+    .desc = Um macacão preto genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorBlue = blue jumpsuit
-    .suffix = Military
-    .desc = A generic blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorBlue = macacão azul
+    .suffix = Militar
+    .desc = Um macacão azul genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorBrown = brown jumpsuit
-    .suffix = Military
-    .desc = A generic brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorBrown = macacão marrom
+    .suffix = Militar
+    .desc = Um macacão marrom genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorDarkBlue = dark blue jumpsuit
-    .suffix = Military
-    .desc = A generic dark blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorDarkBlue = macacão azul escuro
+    .suffix = Militar
+    .desc = Um macacão azul escuro genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorDarkGreen = dark green jumpsuit
-    .suffix = Military
-    .desc = A generic dark green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorDarkGreen = macacão verde escuro
+    .suffix = Militar
+    .desc = Um macacão verde escuro genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorGreen = green jumpsuit
-    .suffix = Military
-    .desc = A generic green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorGreen = macacão verde
+    .suffix = Militar
+    .desc = Um macacão verde genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorGrey = grey jumpsuit
-    .suffix = Military
-    .desc = A tasteful grey jumpsuit that reminds you of the good old days.
+ent-ClothingUniformJumpsuitMilitaryColorGrey = macacão cinza
+    .suffix = Militar
+    .desc = Um macacão cinza de bom gosto que lembra os velhos tempos.
 
-ent-ClothingUniformJumpsuitMilitaryColorLightBrown = light brown jumpsuit
-    .suffix = Military
-    .desc = A generic light brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorLightBrown = macacão marrom claro
+    .suffix = Militar
+    .desc = Um macacão marrom claro genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorMaroon = maroon jumpsuit
-    .suffix = Military
-    .desc = A generic maroon jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorMaroon = macacão bordô
+    .suffix = Militar
+    .desc = Um macacão bordô genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorOrange = orange jumpsuit
-    .suffix = Military
-    .desc = A generic orange jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorOrange = macacão laranja
+    .suffix = Militar
+    .desc = Um macacão laranja genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorPink = pink jumpsuit
-    .suffix = Military
-    .desc = A generic pink jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorPink = macacão rosa
+    .suffix = Militar
+    .desc = Um macacão rosa genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorPurple = purple jumpsuit
-    .suffix = Military
-    .desc = A generic purple jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorPurple = macacão roxo
+    .suffix = Militar
+    .desc = Um macacão roxo genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorRed = red jumpsuit
-    .suffix = Military
-    .desc = A generic red jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorRed = macacão vermelho
+    .suffix = Militar
+    .desc = Um macacão vermelho genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorTeal = teal jumpsuit
-    .suffix = Military
-    .desc = A generic teal jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorTeal = macacão teal
+    .suffix = Militar
+    .desc = Um macacão teal genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryColorYellow = yellow jumpsuit
-    .suffix = Military
-    .desc = A generic yellow jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitMilitaryColorYellow = macacão amarelo
+    .suffix = Militar
+    .desc = Um macacão amarelo genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryContractor = contractor jumpsuit
-    .suffix = Military
-    .desc = A sturdy jumpsuit, commonly issued to NT contractors.
+ent-ClothingUniformJumpsuitMilitaryContractor = macacão de contratista
+    .suffix = Militar
+    .desc = Um macacão robusto, comumente emitido para contratistas NT.
 
-ent-ClothingUniformJumpsuitMilitaryContractorTac = contractor jumpsuit
-    .suffix = Military, Tac
-    .desc = A sturdy jumpsuit, commonly issued to NT contractors.
+ent-ClothingUniformJumpsuitMilitaryContractorTac = macacão de contratista
+    .suffix = Militar, Tático
+    .desc = Um macacão robusto, comumente emitido para contratistas NT.
 
-ent-ClothingUniformJumpsuitMilitaryResearchDirector = 
-    .suffix = Military
-    .desc = It's a jumpsuit worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
+ent-ClothingUniformJumpsuitMilitaryResearchDirector
+    .suffix = Militar
+    .desc = É um macacão usado por aqueles com o conhecimento para alcançar a posição de Diretor de Pesquisa. Seu tecido fornece proteção menor contra contaminantes biológicos.
 
-ent-ClothingUniformJumpsuitMilitaryService = service worker jumpsuit
-    .suffix = Military
-    .desc = A standard issue jumpsuit for NT service workers.
+ent-ClothingUniformJumpsuitMilitaryService = macacão de trabalhador de serviços
+    .suffix = Militar
+    .desc = Um macacão padrão para trabalhadores de serviços NT.
 
-ent-ClothingUniformJumpsuitMilitarySr = overseer's jumpsuit
-    .suffix = Military
+ent-ClothingUniformJumpsuitMilitarySr = macacão do supervisor
+    .suffix = Militar
 
-ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = mercenary captain jumpsuit
-    .suffix = Military, Blue
+ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = macacão de capitão mercenário
+    .suffix = Militar, Azul
 
-ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = mercenary medic jumpsuit
-    .suffix = Military, Blue
+ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = macacão de médico mercenário
+    .suffix = Militar, Azul
 
-ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain = mercenary captain jumpsuit
-    .suffix = Military
+ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain = macacão de capitão mercenário
+    .suffix = Militar
 
-ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic = mercenary medic jumpsuit
-    .suffix = Military
+ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic = macacão de médico mercenário
+    .suffix = Militar
 
 # From: _NF/Entities/Clothing/Uniforms/random_suit.yml
 
-ent-ClothingSkirtRandomSpawner = random colorful skirt costume
+ent-ClothingSkirtRandomSpawner = fantasia de saia colorida aleatória
 
-ent-ClothingSkirtUniformRandomArmless = top sem mangas colorido e saia
+ent-ClothingSkirtUniformRandomArmless = top colorido sem mangas e saia
     .suffix = Saia
 
-ent-ClothingSkirtUniformRandomBra = sutiã e saia coloridos
+ent-ClothingSkirtUniformRandomBra = sutiã colorido e saia
     .suffix = Saia
 
 ent-ClothingSkirtUniformRandomShirt = top estampado colorido e saia
 
-ent-ClothingSkirtUniformRandomShorts = colorful skirt
-    .suffix = Skirt
+ent-ClothingSkirtUniformRandomShorts = saia colorida
+    .suffix = Saia
 
 ent-ClothingSkirtUniformRandomStandard = top colorido e saia
-    .suffix = Skirt
+    .suffix = Saia
 
 # From: _NF/Entities/Clothing/Wallet/base_wallet.yml
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWallet = wallet
-    .desc = If somebody dropped this, you should really return it.
+ent-NFBaseWallet = carteira
+    .desc = Se alguém deixou cair isto, você deve realmente devolver.
 
 # From: _NF/Entities/Clothing/Wallet/leather.yml
 
-ent-ClothingWalletLeatherBrown = leather wallet
-    .desc = Surprisingly thick. Careful not to lose it, and don't sit on it. Comes with a little money vacuum.
+ent-ClothingWalletLeatherBrown = carteira de couro
+    .desc = Surpreendentemente grossa. Cuidado para não perdê-la, e não sente sobre ela. Vem com um pequeno aspirador de dinheiro.
 
-ent-ClothingWalletLeatherMail = 
-    .desc = On the inside is an embroidered picture of a cat, a heart, and the word \"CLIPPY\". Comes with a little money vacuum.
+ent-ClothingWalletLeatherMail
+    .desc = No interior há uma imagem bordada de um gato, um coração, e a palavra "CLIPPY". Vem com um pequeno aspirador de dinheiro.
 
-ent-ClothingWalletLeatherPirate = 
-    .desc = There's an old picture of a cat with a beard inside. Comes with a little money vacuum.
+ent-ClothingWalletLeatherPirate
+    .desc = Há uma foto antiga de um gato com barba dentro. Vem com um pequeno aspirador de dinheiro.
 
 # From: _NF/Entities/Effects/emp.yml
 
-ent-EffectEmpBlast = emp blast
-    .desc = Looking at this anomaly makes you feel an electric tingling all over your body.
+ent-EffectEmpBlast = explosão EMP
+    .desc = Olhar para esta anomalia faz você sentir um formigamento elétrico por todo seu corpo.
 
 # From: _NF/Entities/Effects/mobspawn.yml
 
-ent-MobSpawnBananiumCrab = mobspawner bananium crab
+ent-MobSpawnBananiumCrab = gerador de caranguejo bananium
 
-ent-MobSpawnBananiumCrabNF = mobspawner bananium crab
+ent-MobSpawnBananiumCrabNF = gerador de caranguejo bananium
 
-ent-MobSpawnBananiumGolem = mobspawner bananium golem
+ent-MobSpawnBananiumGolem = gerador de golem bananium
 
-ent-MobSpawnCoalCrab = mobspawner coal crab
+ent-MobSpawnCoalCrab = gerador de caranguejo de carvão
 
-ent-MobSpawnCoalCrabNF = mobspawner coal crab
+ent-MobSpawnCoalCrabNF = gerador de caranguejo de carvão
 
-ent-MobSpawnCoalGolem = mobspawner bananium golem
+ent-MobSpawnCoalGolem = gerador de golem bananium
 
-ent-MobSpawnCrabNFIron = mobspawner ironcrab
+ent-MobSpawnCrabNFIron = gerador de caranguejo de ferro
 
-ent-MobSpawnCrabNFQuartz = mobspawner quartzcrab
+ent-MobSpawnCrabNFQuartz = gerador de caranguejo de quartzo
+    .suffix = Fronteira
 .suffix = Fronteira
 
-ent-MobSpawnCrabNFSilver = mobspawner silvercrab
+ent-MobSpawnCrabNFSilver = gerador de caranguejo de prata
 
-ent-MobSpawnCrabNFUranium = mobspawner uraniumcrab
+ent-MobSpawnCrabNFUranium = gerador de caranguejo de urânio
 
-ent-MobSpawnGoldCrab = mobspawner gold crab
+ent-MobSpawnGoldCrab = gerador de caranguejo de ouro
 
-ent-MobSpawnGoldCrabNF = mobspawner gold crab
+ent-MobSpawnGoldCrabNF = gerador de caranguejo de ouro
 
-ent-MobSpawnGoldGolem = mobspawner gold golem
+ent-MobSpawnGoldGolem = gerador de golem de ouro
 
-ent-MobSpawnIronGolem = mobspawner iron golem
+ent-MobSpawnIronGolem = gerador de golem de ferro
 
-ent-MobSpawnPlasmaCrab = mobspawner plasma crab
+ent-MobSpawnPlasmaCrab = gerador de caranguejo de plasma
 
-ent-MobSpawnPlasmaCrabNF = mobspawner plasma crab
+ent-MobSpawnPlasmaCrabNF = gerador de caranguejo de plasma
 
-ent-MobSpawnPlasmaGolem = mobspawner plasma golem
+ent-MobSpawnPlasmaGolem = gerador de golem de plasma
 
-ent-MobSpawnQuartzGolem = mobspawner quartz golem
+ent-MobSpawnQuartzGolem = gerador de golem de quartzo
 
-ent-MobSpawnSaltCrab = mobspawner salt crab
+ent-MobSpawnSaltCrab = gerador de caranguejo de sal
 
-ent-MobSpawnSaltCrabNF = mobspawner salt crab
+ent-MobSpawnSaltCrabNF = gerador de caranguejo de sal
 
-ent-MobSpawnSaltGolem = mobspawner salt golem
+ent-MobSpawnSaltGolem = gerador de golem de sal
 
-ent-MobSpawnScrapbot = mobspawner scrapbot
+ent-MobSpawnScrapbot = gerador de scrapbot
 
-ent-MobSpawnScrapbotLaser = mobspawner scrapbot
+ent-MobSpawnScrapbotLaser = gerador de scrapbot
 
-ent-MobSpawnScrapbotThreads = mobspawner scrapbot
+ent-MobSpawnScrapbotThreads = gerador de scrapbot
 
-ent-MobSpawnScrapbotThrusters = mobspawner scrapbot
+ent-MobSpawnScrapbotThrusters = gerador de scrapbot
 
-ent-MobSpawnSilverGolem = mobspawner silver golem
+ent-MobSpawnSilverGolem = gerador de golem de prata
 
-ent-MobSpawnUraniumGolem = mobspawner uranium golem
+ent-MobSpawnUraniumGolem = gerador de golem de urânio
 
 # From: _NF/Entities/Effects/portal.yml
 
-ent-PortalAdmin = mystical portal
-    .desc = A mystical portal to realms unknown. Adventure awaits!
+ent-PortalAdmin = portal místico
+    .desc = Um portal místico para reinos desconhecidos. Aventura aguarda!
 
 # From: _NF/Entities/Markers/anti_anomaly_zone.yml
 
-ent-AntiAnomalyZone = anti anomaly zone
-    .suffix = range 10
-    .desc = Anomalies will not be able to appear within a 10 block radius of this point.
+ent-AntiAnomalyZone = zona anti-anomalia
+    .suffix = alcance 10
+    .desc = Anomalias não serão capazes de aparecer dentro de um raio de 10 blocos deste ponto.
 
-ent-AntiAnomalyZone20 = 
-    .suffix = range 20
-    .desc = Anomalies will not be able to appear within a 20 block radius of this point.
+ent-AntiAnomalyZone20
+    .suffix = alcance 20
+    .desc = Anomalias não serão capazes de aparecer dentro de um raio de 20 blocos deste ponto.
 
-ent-AntiAnomalyZone200 = 
-    .suffix = range 200
-    .desc = Anomalies will not be able to appear within a 200 block radius of this point.
+ent-AntiAnomalyZone200
+    .suffix = alcance 200
+    .desc = Anomalias não serão capazes de aparecer dentro de um raio de 200 blocos deste ponto.
 
-ent-AntiAnomalyZone50 = 
-    .suffix = range 50
-    .desc = Anomalies will not be able to appear within a 50 block radius of this point.
+ent-AntiAnomalyZone50
+    .suffix = alcance 50
+    .desc = Anomalias não serão capazes de aparecer dentro de um raio de 50 blocos deste ponto.
 
 # From: _NF/Entities/Markers/atmos_blocker.yml
 
-ent-AtmosFixSaunaMarker = Atmos Fix Sauna Marker
+ent-AtmosFixSaunaMarker = Marcador de Sauna Atmos
     .desc = Sauna
 
-ent-AtmosFixShuttleNitrogenMarker = Atmos Fix Nitrogen Marker
-    .suffix = Shuttle
-    .desc = Nitrogen at lower presure
+ent-AtmosFixShuttleNitrogenMarker = Marcador de Nitrogênio Atmos
+    .suffix = Nave
+    .desc = Nitrogênio em baixa pressão
 
-ent-AtmosFixShuttleOxygenMarker = Atmos Fix Oxygen Marker
-    .suffix = Shuttle
-    .desc = Oxygen at lower presure
+ent-AtmosFixShuttleOxygenMarker = Marcador de Oxigênio Atmos
+    .suffix = Nave
+    .desc = Oxigênio em baixa pressão
 
-ent-AtmosFixShuttlePlasmaMarker = Atmos Fix Plasma Marker
-    .suffix = Shuttle
-    .desc = Plasma at lower presure
+ent-AtmosFixShuttlePlasmaMarker = Marcador de Plasma Atmos
+    .suffix = Nave
+    .desc = Plasma em baixa pressão
 
 # From: _NF/Entities/Markers/pacified_zone.yml
 
 # Abstract entity (referenceable by children)
-ent-BasePacifiedZone = pacified zone
+ent-BasePacifiedZone = zona pacificada
 
 ent-PacifiedZone10 = {ent-BasePacifiedZone}
     .suffix = 10
-    .desc = Players will not be able to attack living things within a 10 block radius of this point.
+    .desc = Jogadores não serão capazes de atacar seres vivos dentro de um raio de 10 blocos deste ponto.
 
 ent-PacifiedZone100 = {ent-BasePacifiedZone}
     .suffix = 100
-    .desc = Players will not be able to attack living things within a 100 block radius of this point.
+    .desc = Jogadores não serão capazes de atacar seres vivos dentro de um raio de 100 blocos deste ponto.
 
 ent-PacifiedZone20 = {ent-BasePacifiedZone}
     .suffix = 20
-    .desc = Players will not be able to attack living things within a 20 block radius of this point.
+    .desc = Jogadores não serão capazes de atacar seres vivos dentro de um raio de 20 blocos deste ponto.
 
 ent-PacifiedZone50 = {ent-BasePacifiedZone}
     .suffix = 50
-    .desc = Players will not be able to attack living things within a 50 block radius of this point.
+    .desc = Jogadores não serão capazes de atacar seres vivos dentro de um raio de 50 blocos deste ponto.
 
 ent-PacifiedZonePanicBunker10 = {ent-BasePacifiedZone}
-    .suffix = Panic Bunker, 10
-    .desc = New players will not be able to attack living things within a 10 block radius of this point.
+    .suffix = Bunker de Pânico, 10
+    .desc = Novos jogadores não serão capazes de atacar seres vivos dentro de um raio de 10 blocos deste ponto.
 
 ent-PacifiedZonePanicBunker100 = {ent-BasePacifiedZone}
-    .suffix = Panic Bunker, 100
-    .desc = New players will not be able to attack living things within a 100 block radius of this point.
+    .suffix = Bunker de Pânico, 100
+    .desc = Novos jogadores não serão capazes de atacar seres vivos dentro de um raio de 100 blocos deste ponto.
 
 ent-PacifiedZonePanicBunker20 = {ent-BasePacifiedZone}
-    .suffix = Panic Bunker, 20
-    .desc = New players will not be able to attack living things within a 20 block radius of this point.
+    .suffix = Bunker de Pânico, 20
+    .desc = Novos jogadores não serão capazes de atacar seres vivos dentro de um raio de 20 blocos deste ponto.
 
 ent-PacifiedZonePanicBunker50 = {ent-BasePacifiedZone}
-    .suffix = Panic Bunker, 50
-    .desc = New players will not be able to attack living things within a 50 block radius of this point.
+    .suffix = Bunker de Pânico, 50
+    .desc = Novos jogadores não serão capazes de atacar seres vivos dentro de um raio de 50 blocos deste ponto.
 
 # From: _NF/Entities/Markers/shuttle.yml
 
-ent-ShuttleDeedIDCard = shuttle deed
+ent-ShuttleDeedIDCard = escritura de nave
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_aberrant_flesh.yml
 
-ent-SpawnMobFleshAssimilatedMiner = aberrant flesh miner spawner
-    .suffix = AI, Hostile
+ent-SpawnMobFleshAssimilatedMiner = gerador de minerador de carne aberrante
+    .suffix = IA, Hostil
 
-ent-SpawnMobFleshClampExpeditions = aberrant flesh clamp spawner
-    .suffix = AI, Hostile
+ent-SpawnMobFleshClampExpeditions = gerador de pinça de carne aberrante
+    .suffix = IA, Hostil
 
-ent-SpawnMobFleshGolemExpeditions = aberrant flesh golem spawner
-    .suffix = AI, Hostile
+ent-SpawnMobFleshGolemExpeditions = gerador de golem de carne aberrante
+    .suffix = IA, Hostil
 
-ent-SpawnMobFleshJaredExpeditions = aberrant flesh jared spawner
-    .suffix = AI, Hostile
+ent-SpawnMobFleshJaredExpeditions = gerador de jared de carne aberrante
+    .suffix = IA, Hostil
 
-ent-SpawnMobFleshLoverExpeditions = aberrant flesh lover spawner
-    .suffix = AI, Hostile
+ent-SpawnMobFleshLoverExpeditions = gerador de amante de carne aberrante
+    .suffix = IA, Hostil
 
-ent-SpawnMobHorrorExpeditions = aberrant flesh horror spawner
-    .suffix = AI, Hostile
+ent-SpawnMobHorrorExpeditions = gerador de horror de carne aberrante
+    .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_argocyte.yml
 
-ent-SpawnMobArgocyteLeviathingExpeditions = leviathing spawner
-    .suffix = AI, Hostile
+ent-SpawnMobArgocyteLeviathingExpeditions = gerador de leviathing
+    .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_bloodcult.yml
 
-ent-SpawnMobBloodCultistAcolyte = blood cult acolyte spawner
-    .suffix = AI, Hostile, Melee
+ent-SpawnMobBloodCultistAcolyte = gerador de acólito de culto sanguinário
+    .suffix = IA, Hostil, Combate Corpo a Corpo
 
-ent-SpawnMobBloodCultistAscended = ascended cultist spawner
-    .suffix = AI, Hostile, Caster, Megafauna
+ent-SpawnMobBloodCultistAscended = gerador de cultista ascendido
+    .suffix = IA, Hostil, Conjurador, Megafauna
 
-ent-SpawnMobBloodCultistCaster = blood cult zealot spawner
-    .suffix = AI, Hostile, Caster
+ent-SpawnMobBloodCultistCaster = gerador de fanático de culto sanguinário
+    .suffix = IA, Hostil, Conjurador
 
-ent-SpawnMobBloodCultistJanitor = blood cult janitor spawner
-    .suffix = AI, Hostile, Melee
+ent-SpawnMobBloodCultistJanitor = gerador de zelador de culto sanguinário
+    .suffix = IA, Hostil, Combate Corpo a Corpo
 
-ent-SpawnMobBloodCultistPriest = blood cult priest spawner
-    .suffix = AI, Hostile, Caster
+ent-SpawnMobBloodCultistPriest = gerador de sacerdote de culto sanguinário
+    .suffix = IA, Hostil, Conjurador
 
-ent-SpawnMobBloodCultistZealotMelee = blood cult zealot spawner
-    .suffix = AI, Hostile, Melee
+ent-SpawnMobBloodCultistZealotMelee = gerador de fanático de culto sanguinário
+    .suffix = IA, Hostil, Combate Corpo a Corpo
 
-ent-SpawnMobBloodCultistZealotRanged = blood cult zealot spawner
-    .suffix = AI, Hostile, Ranged
+ent-SpawnMobBloodCultistZealotRanged = gerador de fanático de culto sanguinário
+    .suffix = IA, Hostil, À Distância
 
-ent-SpawnMobBloodCultLeech = blood cult leech spawner
-    .suffix = AI, Hostile, Melee, Fast
+ent-SpawnMobBloodCultLeech = gerador de sanguessuga de culto sanguinário
+    .suffix = IA, Hostil, Combate Corpo a Corpo, Rápido
 
-ent-SpawnMobCatBloodCult = blood cult cat spawner
-    .suffix = Ghost
+ent-SpawnMobCatBloodCult = gerador de gato de culto sanguinário
+    .suffix = Fantasma
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_explorers.yml
 
-ent-SpawnMobExplorerBoss = explorer boss spawner
-    .suffix = AI, Hostile, Boss
+ent-SpawnMobExplorerBoss = gerador de chefe explorador
+    .suffix = IA, Hostil, Chefe
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_mercenaries.yml
 
-ent-SpawnMobMercenaryCaptain = mercenary boss spawner
-    .suffix = AI, Hostile
+ent-SpawnMobMercenaryCaptain = gerador de chefe mercenário
+    .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_rogue_ai.yml
 
-ent-SpawnMobRogueSiliconBoss = one star unit spawner
-    .suffix = AI, Hostile
+ent-SpawnMobRogueSiliconBoss = gerador de unidade de uma estrela
+    .suffix = IA, Hostil
 
-ent-SpawnMobRogueSiliconGuardian = guardian unit spawner
-    .suffix = AI, Hostile
+ent-SpawnMobRogueSiliconGuardian = gerador de unidade guardiã
+    .suffix = IA, Hostil
 
-ent-SpawnMobViscerator = viscerator unit spawner
-    .suffix = AI, Hostile
+ent-SpawnMobViscerator = gerador de unidade viscerator
+    .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_syndicate_voidsmen.yml
 
-ent-SpawnMobCleanBotSyndie = syndicate cleanbot spawner
-    .suffix = AI
+ent-SpawnMobCleanBotSyndie = gerador de limpatron do Sindicato
+    .suffix = IA
 
-ent-SpawnMobSyndicateNavalCaptainVoid = syndicate naval captain spawner
-    .suffix = AI, Hostile, Voidsman
+ent-SpawnMobSyndicateNavalCaptainVoid = gerador de capitão naval do Sindicato
+    .suffix = IA, Hostil, Versista
 
-ent-SpawnMobSyndicateNavalDeckhandVoid = syndicate naval deckhand spawner
-    .suffix = AI, Hostile, Voidsman
+ent-SpawnMobSyndicateNavalDeckhandVoid = gerador de marinheiro naval do Sindicato
+    .suffix = IA, Hostil, Versista
 
-ent-SpawnMobSyndicateNavalEngineerVoid = syndicate naval engineer spawner
-    .suffix = AI, Hostile, Voidsman
+ent-SpawnMobSyndicateNavalEngineerVoid = gerador de engenheiro naval do Sindicato
+    .suffix = IA, Hostil, Versista
 
-ent-SpawnMobSyndicateNavalMedicVoid = syndicate naval medic spawner
-    .suffix = AI, Hostile, Voidsman
+ent-SpawnMobSyndicateNavalMedicVoid = gerador de médico naval do Sindicato
+    .suffix = IA, Hostil, Versista
 
-ent-SpawnMobSyndicateNavalOperatorVoid = syndicate naval operator spawner
-    .suffix = AI, Hostile, Voidsman
+ent-SpawnMobSyndicateNavalOperatorVoid = gerador de operativo naval do Sindicato
+    .suffix = IA, Hostil, Versista
 
-ent-SpawnMobSyndicateNavalSecondOfficerVoid = syndicate naval second officer spawner
-    .suffix = AI, Hostile, Voidsman
+ent-SpawnMobSyndicateNavalSecondOfficerVoid = gerador de segundo oficial naval do Sindicato
+    .suffix = IA, Hostil, Versista
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_xeno.yml
 
-ent-NFSpawnMobXenoBurrower = xeno burrower spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoBurrower = gerador de escavador xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoDrone = xeno drone spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoDrone = gerador de drone xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoPraetorian = xeno praetorian spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoPraetorian = gerador de pretoriano xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoQueen = xeno queen spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoQueen = gerador de rainha xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoRavager = xeno ravager spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoRavager = gerador de devastador xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoRunner = xeno runner spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoRunner = gerador de corredor xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoSpitter = xeno spitter spawner
-    .suffix = AI, Hostile
+ent-NFSpawnMobXenoSpitter = gerador de cuspidor xeno
+    .suffix = IA, Hostil
 
-ent-NFSpawnMobXenoT1 = xeno spawner
-    .suffix = AI, Hostile, T1
+ent-NFSpawnMobXenoT1 = gerador de xeno
+    .suffix = IA, Hostil, T1
 
 # From: _NF/Entities/Markers/Spawners/Conditional/turret_spawner.yml
 
-ent-SpawnMobWeaponTurretLaserNanoTrasenDeployed = SLAT spawner
-    .suffix = NT, Frontier
+ent-SpawnMobWeaponTurretLaserNanoTrasenDeployed = gerador SLAT
+    .suffix = NT, Fronteira
 
-ent-SpawnMobWeaponTurretLaserSyndicateNF = syndicate laser turret spawner
-    .suffix = Hostile, Frontier
+ent-SpawnMobWeaponTurretLaserSyndicateNF = gerador de torreta laser do Sindicato
+    .suffix = Hostil, Fronteira
 
-ent-SpawnMobWeaponTurretSyndicate = syndicate ballistic turret spawner
-    .suffix = Hostile, Frontier
+ent-SpawnMobWeaponTurretSyndicate = gerador de torreta balística do Sindicato
+    .suffix = Hostil, Fronteira
 
 # From: _NF/Entities/Markers/Spawners/jobs.yml
 
-ent-NFSpawnPointDetective = detective
+ent-NFSpawnPointDetective = detetive
+    .suffix = Fronteira
 .suffix = Fronteira
 
-ent-NFSpawnPointSeniorOfficer = sergeant
+ent-NFSpawnPointSeniorOfficer = sargento
 
-ent-SpawnPointBailiff = bailiff
+ent-SpawnPointBailiff = oficial de justiça
 
-ent-SpawnPointCadet = cadet
+ent-SpawnPointCadet = cadete
 
-ent-SpawnPointContractor = contractor
+ent-SpawnPointContractor = contratista
 
-ent-SpawnPointDeputy = deputy
+ent-SpawnPointDeputy = adjunto
 
-ent-SpawnPointDirectorOfCare = director of care
+ent-SpawnPointDirectorOfCare = diretor de cuidados
 
-ent-SpawnPointERTMailCarrier = ERT mail carrier
+ent-SpawnPointERTMailCarrier = carteiro da ERT
 
-ent-SpawnPointMercenary = mercenary
+ent-SpawnPointMercenary = mercenário
 
-ent-SpawnPointPilot = pilot
+ent-SpawnPointPilot = piloto
 
-ent-SpawnPointPirate = pirate
+ent-SpawnPointPirate = pirata
 
-ent-SpawnPointPirateCaptain = pirate captain
+ent-SpawnPointPirateCaptain = capitão pirata
 
-ent-SpawnPointPirateFirstMate = pirate first mate
+ent-SpawnPointPirateFirstMate = imediato pirata
 
-ent-SpawnPointPublicAffairsLiaison = public affairs liaison
+ent-SpawnPointPublicAffairsLiaison = liaison de assuntos públicos
 
-ent-SpawnPointSecurityGuard = security guard
+ent-SpawnPointSecurityGuard = guarda de segurança
 
-ent-SpawnPointSheriff = sheriff
+ent-SpawnPointSheriff = xerife
 
-ent-SpawnPointStationRepresentative = overseer
+ent-SpawnPointStationRepresentative = supervisor
 
-ent-SpawnPointStc = station traffic controller
+ent-SpawnPointStc = controlador de tráfego da estação
 
 # From: _NF/Entities/Markers/Spawners/mobs.yml
 
-ent-SpawnMobArcIndBlaster = Arcadia Industries Blaster Spawner
+ent-SpawnMobArcIndBlaster = Gerador de Blaster Arcádia Industries
 
-ent-SpawnMobArcIndHoloparasiteGuardian = Arcadia Industries Guardian Spawner
+ent-SpawnMobArcIndHoloparasiteGuardian = Gerador de Guardião Arcádia Industries
 
-ent-SpawnMobArcIndShredder = Arcadia Industries Shredder Spawner
+ent-SpawnMobArcIndShredder = Gerador de Triturador Arcádia Industries
 
 # From: _NF/Entities/Markers/Spawners/Random/bloodcult_inhand_weapons.yml
 
-ent-SpawnInhandMeleeWeaponBloodCultHigh = random melee weapon
-    .suffix = Blood cult, High
+ent-SpawnInhandMeleeWeaponBloodCultHigh = arma corpo a corpo aleatória
+    .suffix = Culto Sanguinário, Alto
 
-ent-SpawnInhandMeleeWeaponBloodCultLow = random melee weapon
-    .suffix = Blood cult, Low
+ent-SpawnInhandMeleeWeaponBloodCultLow = arma corpo a corpo aleatória
+    .suffix = Culto Sanguinário, Baixo
 
-ent-SpawnMobBloodCultistAscendedSummons = ascended cultist summons
-    .suffix = AI, Hostile
+ent-SpawnMobBloodCultistAscendedSummons = invocação de cultista ascendido
+    .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Random/cargo.yml
 
-ent-RandomCargoAnimalSpawner = random cargo spawner
+ent-RandomCargoAnimalSpawner = gerador de carga aleatório
     .suffix = Animal
 
-ent-RandomCargoGenericSpawner = random cargo spawner
-    .suffix = Generic
+ent-RandomCargoGenericSpawner = gerador de carga aleatório
+    .suffix = Genérico
 
-ent-RandomCargoSpawner = random cargo spawner
+ent-RandomCargoSpawner = gerador de carga aleatório
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_corpses.yml
 
-ent-SpawnDungeonRandomHumanCorpse = random corpse
-    .suffix = Dungeon, Corpse
+ent-SpawnDungeonRandomHumanCorpse = cadáver aleatório
+    .suffix = Masmorra, Cadáver
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_engineering.yml
 
-ent-SpawnDungeonLootCircuitBoardEngi = random machine board
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootCircuitBoardEngi = placa de máquina aleatória
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootClothesEngi = random clothes
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootClothesEngi = roupas aleatórias
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootClutterEngi = random clutter
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootClutterEngi = bagunça aleatória
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootCrateEmptyEngi = random crate (empty)
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootCrateEmptyEngi = caixote aleatório (vazio)
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootCrateEngi = random crate
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootCrateEngi = caixote aleatório
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootCrateRestockEngi = random crate (restock)
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootCrateRestockEngi = caixote aleatório (reposição)
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootFlatpacksEngi = random flatpack
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootFlatpacksEngi = kit plano aleatório
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootLatheEngi = random machine techfab
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootLatheEngi = techfab de máquina aleatório
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootLockersEngi = random locker
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootLockersEngi = armário aleatório
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootPartsEngi = random parts
-    .suffix = Dungeon
+ent-SpawnDungeonLootPartsEngi = peças aleatórias
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootPowerCell = random power cell
-    .suffix = Dungeon
+ent-SpawnDungeonLootPowerCell = célula de energia aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootSuitStorageUnitsEngi = random suit storage unit
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootSuitStorageUnitsEngi = unidade de armazenamento de macacão aleatória
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonLootToolbox = random toolbox
-    .suffix = Dungeon
+ent-SpawnDungeonLootToolbox = caixa de ferramentas aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootToolsAdvancedEngineering = random tool
-    .suffix = Dungeon, Chief Engineer
+ent-SpawnDungeonLootToolsAdvancedEngineering = ferramenta aleatória
+    .suffix = Masmorra, Engenheiro Chefe
 
-ent-SpawnDungeonLootToolsBasicEngineering = random tool
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonLootToolsBasicEngineering = ferramenta aleatória
+    .suffix = Masmorra, Engenharia
 
-ent-SpawnDungeonVendomatsEngi = random vendomats
-    .suffix = Dungeon, Engineering
+ent-SpawnDungeonVendomatsEngi = vending machines aleatórios
+    .suffix = Masmorra, Engenharia
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_general.yml
 
-ent-SpawnDungeonCanisterBroken = random canister broken
-    .suffix = Dungeon
+ent-SpawnDungeonCanisterBroken = cilindro quebrado aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonComputerFrame = random computer frame
-    .suffix = Dungeon
+ent-SpawnDungeonComputerFrame = estrutura de computador aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonFurnitureBedroom = random bedroom
-    .suffix = Dungeon, Furniture
+ent-SpawnDungeonFurnitureBedroom = quarto aleatório
+    .suffix = Masmorra, Mobília
 
-ent-SpawnDungeonLootBriefcase = random briefcase
-    .suffix = Dungeon
+ent-SpawnDungeonLootBriefcase = maleta aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootBureaucracy = random clutter
-    .suffix = Dungeon, Bureaucracy
+ent-SpawnDungeonLootBureaucracy = bagunça aleatória
+    .suffix = Masmorra, Burocracia
 
-ent-SpawnDungeonLootBureaucracyPen = random pen
-    .suffix = Dungeon
+ent-SpawnDungeonLootBureaucracyPen = caneta aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootCircuitBoard = random machine board
-    .suffix = Dungeon, General
+ent-SpawnDungeonLootCircuitBoard = placa de máquina aleatória
+    .suffix = Masmorra, Geral
 
-ent-SpawnDungeonLootCrateGeneral = random crate
-    .suffix = Dungeon, General
+ent-SpawnDungeonLootCrateGeneral = caixote aleatório
+    .suffix = Masmorra, Geral
 
-ent-SpawnDungeonLootCrateMaterials = random crate
-    .suffix = Dungeon, Materials
+ent-SpawnDungeonLootCrateMaterials = caixote aleatório
+    .suffix = Masmorra, Materiais
 
-ent-SpawnDungeonLootCrateRestockClothes = random crate (restock)
-    .suffix = Dungeon, Clothes
+ent-SpawnDungeonLootCrateRestockClothes = caixote aleatório (reposição)
+    .suffix = Masmorra, Roupas
 
-ent-SpawnDungeonLootCrateRestockGeneral = random crate (restock)
-    .suffix = Dungeon, General
+ent-SpawnDungeonLootCrateRestockGeneral = caixote aleatório (reposição)
+    .suffix = Masmorra, Geral
 
-ent-SpawnDungeonLootCrateVehicle = random vehicle crate
-    .suffix = Dungeon
+ent-SpawnDungeonLootCrateVehicle = caixote de veículo aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootFlatpacks = random flatpack
-    .suffix = Dungeon
+ent-SpawnDungeonLootFlatpacks = kit plano aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootLathe = random machine techfab
-    .suffix = Dungeon
+ent-SpawnDungeonLootLathe = techfab de máquina aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootLawBoards = random law board
-    .suffix = Dungeon
+ent-SpawnDungeonLootLawBoards = placa de lei aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootLockersGeneral = random locker
-    .suffix = Dungeon, Generic
+ent-SpawnDungeonLootLockersGeneral = armário aleatório
+    .suffix = Masmorra, Genérico
 
-ent-SpawnDungeonLootLockersProtectiveGear = random locker
-    .suffix = Dungeon, Protective Gear
+ent-SpawnDungeonLootLockersProtectiveGear = armário aleatório
+    .suffix = Masmorra, Equipamento de Proteção
 
-ent-SpawnDungeonLootMaterialsBasicFull = random materials
-    .suffix = Dungeon, Basic
+ent-SpawnDungeonLootMaterialsBasicFull = materiais aleatórios
+    .suffix = Masmorra, Básico
 
-ent-SpawnDungeonLootMaterialsBasicSingle = random materials
-    .suffix = Dungeon, Basic, Single
+ent-SpawnDungeonLootMaterialsBasicSingle = materiais aleatórios
+    .suffix = Masmorra, Básico, Único
 
-ent-SpawnDungeonLootMaterialsValuableFull = random materials
-    .suffix = Dungeon, Valuable
+ent-SpawnDungeonLootMaterialsValuableFull = materiais aleatórios
+    .suffix = Masmorra, Valioso
 
-ent-SpawnDungeonLootMaterialsValuableSingle = random materials
-    .suffix = Dungeon, Valuable, Single
+ent-SpawnDungeonLootMaterialsValuableSingle = materiais aleatórios
+    .suffix = Masmorra, Valioso, Único
 
-ent-SpawnDungeonLootOresFull = random ores
-    .suffix = Dungeon, Full
+ent-SpawnDungeonLootOresFull = minérios aleatórios
+    .suffix = Masmorra, Completo
 
-ent-SpawnDungeonLootOresSingle = random ores
-    .suffix = Dungeon, Single
+ent-SpawnDungeonLootOresSingle = minérios aleatórios
+    .suffix = Masmorra, Único
 
-ent-SpawnDungeonLootSpesos = random credits
-    .suffix = Dungeon
+ent-SpawnDungeonLootSpesos = créditos aleatórios
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootSuitStorageUnitsGeneral = random suit storage unit
-    .suffix = Dungeon, Generic
+ent-SpawnDungeonLootSuitStorageUnitsGeneral = unidade de armazenamento de macacão aleatória
+    .suffix = Masmorra, Genérico
 
-ent-SpawnDungeonLootVendingRestocks = random restock box
-    .suffix = Dungeon
+ent-SpawnDungeonLootVendingRestocks = caixa de reposição aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonMachineFrame = random machine frame
-    .suffix = Dungeon
+ent-SpawnDungeonMachineFrame = estrutura de máquina aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonVendomatsClothes = random vendomat
-    .suffix = Dungeon, Clothes
+ent-SpawnDungeonVendomatsClothes = vending machine aleatório
+    .suffix = Masmorra, Roupas
 
-ent-SpawnDungeonVendomatsRecreational = random vendomat
-    .suffix = Dungeon, Recreational
+ent-SpawnDungeonVendomatsRecreational = vending machine aleatório
+    .suffix = Masmorra, Recreativo
 
-ent-SpawnDungeonVendomatsTools = random vendomat
-    .suffix = Dungeon, Tools
+ent-SpawnDungeonVendomatsTools = vending machine aleatório
+    .suffix = Masmorra, Ferramentas
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_hydroponics.yml
 
-ent-SpawnDungeonLootChemsHydroponics = random chemicals
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootChemsHydroponics = químicos aleatórios
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootClothesHydroponics = random clothes
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootClothesHydroponics = roupas aleatórias
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootClutterHydroponics = random clutter
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootClutterHydroponics = bagunça aleatória
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootCrateEmptyHydro = random crate (empty)
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootCrateEmptyHydro = caixote aleatório (vazio)
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootCrateHydro = random crate
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootCrateHydro = caixote aleatório
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootCrateRestockHydro = random crate (restock)
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootCrateRestockHydro = caixote aleatório (reposição)
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootSeed = random seed
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootSeed = semente aleatória
+    .suffix = Masmorra, Hidroponia
 
-ent-SpawnDungeonLootToolsHydroponics = random tool
-    .suffix = Dungeon, Hydroponics
+ent-SpawnDungeonLootToolsHydroponics = ferramenta aleatória
+    .suffix = Masmorra, Hidroponia
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_kitchen.yml
 
-ent-SpawnDungeonFurnitureKitchen = random furniture
-    .suffix = Dungeon, Kitchen
+ent-SpawnDungeonFurnitureKitchen = mobília aleatória
+    .suffix = Masmorra, Cozinha
 
-ent-SpawnDungeonLootClothesKitchen = random clothes
-    .suffix = Dungeon, Kitchen
+ent-SpawnDungeonLootClothesKitchen = roupas aleatórias
+    .suffix = Masmorra, Cozinha
 
-ent-SpawnDungeonLootClutterKitchen = random clutter
-    .suffix = Dungeon, Kitchen
+ent-SpawnDungeonLootClutterKitchen = bagunça aleatória
+    .suffix = Masmorra, Cozinha
 
-ent-SpawnDungeonLootCrateEmptyService = random crate (empty)
-    .suffix = Dungeon, Service
+ent-SpawnDungeonLootCrateEmptyService = caixote aleatório (vazio)
+    .suffix = Masmorra, Serviço
 
-ent-SpawnDungeonLootCrateRestockService = random crate (restock)
-    .suffix = Dungeon, Service
+ent-SpawnDungeonLootCrateRestockService = caixote aleatório (reposição)
+    .suffix = Masmorra, Serviço
 
-ent-SpawnDungeonLootCrateService = random crate
-    .suffix = Dungeon, Service
+ent-SpawnDungeonLootCrateService = caixote aleatório
+    .suffix = Masmorra, Serviço
 
-ent-SpawnDungeonLootCutlery = random cutlery
-    .suffix = Dungeon
+ent-SpawnDungeonLootCutlery = talheres aleatórios
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootFlatpacksService = random flatpack
-    .suffix = Dungeon, Service
+ent-SpawnDungeonLootFlatpacksService = kit plano aleatório
+    .suffix = Masmorra, Serviço
 
-ent-SpawnDungeonLootFood = random food
-    .suffix = Dungeon, Spoiled
+ent-SpawnDungeonLootFood = comida aleatória
+    .suffix = Masmorra, Estragada
 
-ent-SpawnDungeonLootKitchenTabletop = random machine techfab
-    .suffix = Dungeon, Kitchen, Tabletop
+ent-SpawnDungeonLootKitchenTabletop = techfab de mesa aleatório
+    .suffix = Masmorra, Cozinha, Mesa
 
-ent-SpawnDungeonLootMugs = random mug
-    .suffix = Dungeon
+ent-SpawnDungeonLootMugs = caneca aleatória
+    .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_medical.yml
 
-ent-SpawnDungeonClutterBeakerEmpty = random beaker
-    .suffix = Dungeon, Empty
+ent-SpawnDungeonClutterBeakerEmpty = béquer aleatório
+    .suffix = Masmorra, Vazio
 
-ent-SpawnDungeonClutterHypospray = random hypospray
-    .suffix = Dungeon
+ent-SpawnDungeonClutterHypospray = hipospray aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonClutterImplanter = random implanter
-    .suffix = Dungeon
+ent-SpawnDungeonClutterImplanter = implantador aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonClutterMedical = random clutter
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonClutterMedical = bagunça aleatória
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonClutterMedipens = random medipens
-    .suffix = Dungeon
+ent-SpawnDungeonClutterMedipens = medipens aleatórios
+    .suffix = Masmorra
 
-ent-SpawnDungeonClutterMedsFull = random meds
-    .suffix = Dungeon, Full
+ent-SpawnDungeonClutterMedsFull = remédios aleatórios
+    .suffix = Masmorra, Completo
 
-ent-SpawnDungeonClutterMedsSingle = random meds
-    .suffix = Dungeon, Single
+ent-SpawnDungeonClutterMedsSingle = remédios aleatórios
+    .suffix = Masmorra, Único
 
-ent-SpawnDungeonClutterPatientTransport = random patient transport
-    .suffix = Dungeon
+ent-SpawnDungeonClutterPatientTransport = transporte de paciente aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonClutterSyringe = random syringe
-    .suffix = Dungeon
+ent-SpawnDungeonClutterSyringe = seringa aleatória
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootChems = random chemicals
-    .suffix = Dungeon, Chemistry
+ent-SpawnDungeonLootChems = químicos aleatórios
+    .suffix = Masmorra, Química
 
-ent-SpawnDungeonLootCircuitBoardMed = random machine board
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootCircuitBoardMed = placa de máquina aleatória
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootClothesMed = random clothes
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootClothesMed = roupas aleatórias
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootCrateEmptyMed = random crate (empty)
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootCrateEmptyMed = caixote aleatório (vazio)
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootCrateMed = random crate
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootCrateMed = caixote aleatório
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootCrateRestockMed = random crate (restock)
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootCrateRestockMed = caixote aleatório (reposição)
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootFlatpacksMed = random flatpack
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootFlatpacksMed = kit plano aleatório
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootKitsFirstAid = random medkit
-    .suffix = Dungeon
+ent-SpawnDungeonLootKitsFirstAid = kit médico aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootKitSurgery = random surgery kit
-    .suffix = Dungeon
+ent-SpawnDungeonLootKitSurgery = kit de cirurgia aleatório
+    .suffix = Masmorra
 
-ent-SpawnDungeonLootLockersMed = random locker
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonLootLockersMed = armário aleatório
+    .suffix = Masmorra, Médico
 
-ent-SpawnDungeonLootToolsSurgery = random tool
-    .suffix = Dungeon, Surgery
+ent-SpawnDungeonLootToolsSurgery = ferramenta aleatória
+    .suffix = Masmorra, Cirurgia
 
-ent-SpawnDungeonLootToolsSurgeryAdvanced = random tool
-    .suffix = Dungeon, Surgery, Advanced
+ent-SpawnDungeonLootToolsSurgeryAdvanced = ferramenta aleatória
+    .suffix = Masmorra, Cirurgia, Avançado
 
-ent-SpawnDungeonLootToolsSurgeryCrude = random tool
-    .suffix = Dungeon, Surgery, Improvised
+ent-SpawnDungeonLootToolsSurgeryCrude = ferramenta aleatória
+    .suffix = Masmorra, Cirurgia, Improvisado
 
-ent-SpawnDungeonVendomatsMed = random vendomat
-    .suffix = Dungeon, Medical
+ent-SpawnDungeonVendomatsMed = vending machine aleatório
+    .suffix = Masmorra, Médico
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_mercenary.yml
 
-ent-SpawnDungeonLootArmorMercenary = random armor
-    .suffix = Dungeon, Mercenary
+ent-SpawnDungeonLootArmorMercenary = armadura aleatória
+    .suffix = Masmorra, Mercenário
 
-ent-SpawnDungeonLootArmoryClutter = random clutter
-    .suffix = Dungeon, Mercenary
+ent-SpawnDungeonLootArmoryClutter = bagunça aleatória
+    .suffix = Masmorra, Mercenário
 
-ent-SpawnDungeonLootArmoryClutterSec = random clutter
-    .suffix = Dungeon, Security
+ent-SpawnDungeonLootArmoryClutterSec = bagunça aleatória
+    .suffix = Masmorra, Segurança
 
-ent-SpawnDungeonLootArmoryExplosives = random weapon
-    .suffix = Dungeon, Explosives, T1-T2
+ent-SpawnDungeonLootArmoryExplosives = arma aleatória
+    .suffix = Masmorra, Explosivos, T1-T2
 
-ent-SpawnDungeonLootArmoryGuns = random weapon
-    .suffix = Dungeon, Loose, T1
+ent-SpawnDungeonLootArmoryGuns = arma aleatória
+    .suffix = Masmorra, Solto, T1
 
-ent-SpawnDungeonLootArmoryMelee = random weapon
-    .suffix = Dungeon, Melee, T1-T2
+ent-SpawnDungeonLootArmoryMelee = arma aleatória
+    .suffix = Masmorra, Combate Corpo a Corpo, T1-T2
 
-ent-SpawnDungeonLootArmoryRare = random weapon
-    .suffix = Dungeon, Vault, T3
+ent-SpawnDungeonLootArmoryRare = arma aleatória
+    .suffix = Masmorra, Cofre, T3
 
-ent-SpawnDungeonLootClothesMercenary = random clothes
-    .suffix = Dungeon, Mercenary
+ent-SpawnDungeonLootClothesMercenary = roupas aleatórias
+    .suffix = Masmorra, Mercenário
 
-ent-SpawnDungeonLootCrateArmoryArmor = random crate
-    .suffix = Dungeon, Armory, Armor
+ent-SpawnDungeonLootCrateArmoryArmor = caixote aleatório
+    .suffix = Masmorra, Arsenal, Armadura
 
-ent-SpawnDungeonLootCrateArmoryWeapon = random crate
-    .suffix = Dungeon, Armory, Weapon
+ent-SpawnDungeonLootCrateArmoryWeapon = caixote aleatório
+    .suffix = Masmorra, Arsenal, Arma
 
-ent-SpawnDungeonLootCrateRestockArmory = random crate (restock)
-    .suffix = Dungeon, Armory
+ent-SpawnDungeonLootCrateRestockArmory = caixote aleatório (reposição)
+    .suffix = Masmorra, Arsenal
 
-ent-SpawnDungeonLootHardsuitsMercenary = random hardsuits
-    .suffix = Dungeon, Mercenary
+ent-SpawnDungeonLootHardsuitsMercenary = macacões rígidos aleatórios
+    .suffix = Masmorra, Mercenário
 
-ent-SpawnDungeonLootLatheArmory = random machine techfab
-    .suffix = Dungeon, Armory
+ent-SpawnDungeonLootLatheArmory = techfab de máquina aleatório
+    .suffix = Masmorra, Arsenal
 
-ent-SpawnDungeonLootLockersArmory = random locker
-    .suffix = Dungeon, Armory, Mercenary
+ent-SpawnDungeonLootLockersArmory = armário aleatório
+    .suffix = Masmorra, Arsenal, Mercenário
 
-ent-SpawnDungeonLootShieldsMercenary = random shields
-    .suffix = Dungeon, Mercenary
+ent-SpawnDungeonLootShieldsMercenary = escudos aleatórios
+    .suffix = Masmorra, Mercenário
 
-ent-SpawnDungeonLootSuitStorageUnitsMercenary = random suit storage unit
-    .suffix = Dungeon, Mercenary
+ent-SpawnDungeonLootSuitStorageUnitsMercenary = unidade de armazenamento de macacão aleatória
+    .suffix = Masmorra, Mercenário
 
-ent-SpawnDungeonLootVaultGuns = random weapon
-    .suffix = Dungeon, Vault, T2
+ent-SpawnDungeonLootVaultGuns = arma aleatória
+    .suffix = Masmorra, Cofre, T2
 
-ent-SpawnDungeonVendomatsArmory = random vendomat
-    .suffix = Dungeon, Armory
+ent-SpawnDungeonVendomatsArmory = vending machine aleatório
+    .suffix = Masmorra, Arsenal
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_research.yml
 
-ent-SpawnDungeonFurnitureScience = random furniture
-    .suffix = Dungeon, Science
+ent-SpawnDungeonFurnitureScience = mobília aleatória
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLawBoardScience = random law board
-    .suffix = Dungeon, Science
+ent-SpawnDungeonLawBoardScience = placa de lei aleatória
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLootCircuitBoardScience = random machine board
-    .suffix = Dungeon, Science
+ent-SpawnDungeonLootCircuitBoardScience = placa de máquina aleatória
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLootClothesScience = random clothes
-    .suffix = Dungeon, Science
+ent-SpawnDungeonLootClothesScience = roupas aleatórias
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLootClutterScience = random clutter
-    .suffix = Dungeon, Science
+ent-SpawnDungeonLootClutterScience = bagunça aleatória
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLootCrateScience = random crate
-    .suffix = Dungeon, Science
+ent-SpawnDungeonLootCrateScience = caixote aleatório
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLootFlatpacksScience = random flatpack
-    .suffix = Dungeon, Science
+ent-SpawnDungeonLootFlatpacksScience = kit plano aleatório
+    .suffix = Masmorra, Ciência
 
-ent-SpawnDungeonLootRnDDisk = random disk
-    .suffix = Dungeon
+ent-SpawnDungeonLootRnDDisk = disco aleatório
+    .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_supply.yml
 
-ent-SpawnDungeonLootCircuitBoardSalvage = random machine board
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootCircuitBoardSalvage = placa de máquina aleatória
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootClothesSalvage = random clothes
-    .suffix = Dungeon, Salvage
+ent-SpawnDungeonLootClothesSalvage = roupas aleatórias
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootClutterSalvage = random clutter
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootClutterSalvage = bagunça aleatória
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootFlatpacksSuppl = random flatpack
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootFlatpacksSuppl = kit plano aleatório
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootHardsuitsSalvage = random hardsuits
-    .suffix = Dungeon, Salvage
+ent-SpawnDungeonLootHardsuitsSalvage = macacões rígidos aleatórios
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootLatheSalvage = random machine techfab
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootLatheSalvage = techfab de máquina aleatório
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootLockersSalvage = random locker
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootLockersSalvage = armário aleatório
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootSuitStorageUnitsSalvage = random suit storage unit
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootSuitStorageUnitsSalvage = unidade de armazenamento de macacão aleatória
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonLootToolsSalvage = random tool
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonLootToolsSalvage = ferramenta aleatória
+    .suffix = Masmorra, Salvamento
 
-ent-SpawnDungeonVendomatsSalvage = random vendomats
-    .suffix = Dungeon, Salvaging
+ent-SpawnDungeonVendomatsSalvage = vending machines aleatórios
+    .suffix = Masmorra, Salvamento
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_weapons.yml
 
-ent-SpawnDungeonLootAmmoIncendiary = random ammo
-    .suffix = Dungeon, Ammo, Incendiary
+ent-SpawnDungeonLootAmmoIncendiary = munição aleatória
+    .suffix = Masmorra, Munição, Incendiária
 
-ent-SpawnDungeonLootAmmoLethal = random ammo
-    .suffix = Dungeon, Ammo, Lethal
+ent-SpawnDungeonLootAmmoLethal = munição aleatória
+    .suffix = Masmorra, Munição, Letal
 
-ent-SpawnDungeonLootAmmoPractice = random ammo
-    .suffix = Dungeon, Ammo, Practice
+ent-SpawnDungeonLootAmmoPractice = munição aleatória
+    .suffix = Masmorra, Munição, Prática
 
-ent-SpawnDungeonLootAmmoRubber = random ammo
-    .suffix = Dungeon, Ammo, Rubber
+ent-SpawnDungeonLootAmmoRubber = munição aleatória
+    .suffix = Masmorra, Munição, Borracha
 
-ent-SpawnDungeonLootAmmoUranium = random ammo
-    .suffix = Dungeon, Ammo, Uranium
+ent-SpawnDungeonLootAmmoUranium = munição aleatória
+    .suffix = Masmorra, Munição, Urânio
 
-ent-SpawnDungeonLootExplosivesT1 = random weapon
-    .suffix = Dungeon, Explosives, T1
+ent-SpawnDungeonLootExplosivesT1 = arma aleatória
+    .suffix = Masmorra, Explosivos, T1
 
-ent-SpawnDungeonLootExplosivesT2 = random weapon
-    .suffix = Dungeon, Explosives, T2
+ent-SpawnDungeonLootExplosivesT2 = arma aleatória
+    .suffix = Masmorra, Explosivos, T2
 
-ent-SpawnDungeonLootExplosivesT3 = random weapon
-    .suffix = Dungeon, Explosives, T3
+ent-SpawnDungeonLootExplosivesT3 = arma aleatória
+    .suffix = Masmorra, Explosivos, T3
 
-ent-SpawnDungeonLootExplosivesT4 = random weapon
-    .suffix = Dungeon, Explosives, T4
+ent-SpawnDungeonLootExplosivesT4 = arma aleatória
+    .suffix = Masmorra, Explosivos, T4
 
-ent-SpawnDungeonLootExplosivesT5 = random weapon
-    .suffix = Dungeon, Explosives, T5
+ent-SpawnDungeonLootExplosivesT5 = arma aleatória
+    .suffix = Masmorra, Explosivos, T5
 
-ent-SpawnDungeonLootGunT1 = random weapon
-    .suffix = Dungeon, Gun, T1
+ent-SpawnDungeonLootGunT1 = arma aleatória
+    .suffix = Masmorra, Arma de Fogo, T1
 
-ent-SpawnDungeonLootGunT2 = random weapon
-    .suffix = Dungeon, Gun, T2
+ent-SpawnDungeonLootGunT2 = arma aleatória
+    .suffix = Masmorra, Arma de Fogo, T2
 
-ent-SpawnDungeonLootGunT3 = random weapon
-    .suffix = Dungeon, Gun, T3
+ent-SpawnDungeonLootGunT3 = arma aleatória
+    .suffix = Masmorra, Arma de Fogo, T3
 
-ent-SpawnDungeonLootGunT4 = random weapon
-    .suffix = Dungeon, Gun, T4
+ent-SpawnDungeonLootGunT4 = arma aleatória
+    .suffix = Masmorra, Arma de Fogo, T4
 
-ent-SpawnDungeonLootGunT5 = random weapon
-    .suffix = Dungeon, Gun, T5
+ent-SpawnDungeonLootGunT5 = arma aleatória
+    .suffix = Masmorra, Arma de Fogo, T5
 
-ent-SpawnDungeonLootMeleeT1 = random weapon
-    .suffix = Dungeon, Melee, T1
+ent-SpawnDungeonLootMeleeT1 = arma aleatória
+    .suffix = Masmorra, Combate Corpo a Corpo, T1
 
-ent-SpawnDungeonLootMeleeT2 = random weapon
-    .suffix = Dungeon, Melee, T2
+ent-SpawnDungeonLootMeleeT2 = arma aleatória
+    .suffix = Masmorra, Combate Corpo a Corpo, T2
 
-ent-SpawnDungeonLootMeleeT3 = random weapon
-    .suffix = Dungeon, Melee, T3
+ent-SpawnDungeonLootMeleeT3 = arma aleatória
+    .suffix = Masmorra, Combate Corpo a Corpo, T3
 
-ent-SpawnDungeonLootMeleeT4 = random weapon
-    .suffix = Dungeon, Melee, T4
+ent-SpawnDungeonLootMeleeT4 = arma aleatória
+    .suffix = Masmorra, Combate Corpo a Corpo, T4
 
-ent-SpawnDungeonLootMeleeT5 = random weapon
-    .suffix = Dungeon, Melee, T5
+ent-SpawnDungeonLootMeleeT5 = arma aleatória
+    .suffix = Masmorra, Combate Corpo a Corpo, T5
 
 # From: _NF/Entities/Markers/Spawners/Random/generator.yml
 
-ent-RandomDungeonPortableGeneratorSpawner = random portable generator spawner
-    .suffix = Dungeon
+ent-RandomDungeonPortableGeneratorSpawner = gerador de gerador portátil aleatório
+    .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_aberrant_flesh.yml
 
-ent-SpawnMobAberrantFleshExpeditions = aberrant flesh spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobAberrantFleshExpeditions = gerador de carne aberrante
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobAberrantFleshNewbornExpeditions = newborn aberrant flesh spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobAberrantFleshNewbornExpeditions = gerador de carne aberrante recém-nascida
+    .suffix = IA, Hostil, RND
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_argocyte.yml
 
-ent-ArgocyteAISpawner = argocyte spawner
-    .suffix = AI, Hostile
+ent-ArgocyteAISpawner = gerador de argócito
+    .suffix = IA, Hostil
 
-ent-SpawnMobArgocyteBig = argocyte spawner
-    .suffix = AI, Hostile, Big
+ent-SpawnMobArgocyteBig = gerador de argócito
+    .suffix = IA, Hostil, Grande
 
-ent-SpawnMobArgocyteMedium = argocyte spawner
-    .suffix = AI, Hostile, Medium
+ent-SpawnMobArgocyteMedium = gerador de argócito
+    .suffix = IA, Hostil, Médio
 
-ent-SpawnMobArgocyteSmall = argocyte spawner
-    .suffix = AI, Hostile, Small
+ent-SpawnMobArgocyteSmall = gerador de argócito
+    .suffix = IA, Hostil, Pequeno
 
-ent-SpawnMobArgocyteTiny = argocyte spawner
-    .suffix = AI, Hostile, Tiny
+ent-SpawnMobArgocyteTiny = gerador de argócito
+    .suffix = IA, Hostil, Minúsculo
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_bloodcult.yml
 
-ent-SpawnMobCatBloodCultLowChance = blood cult cat spawner
-    .suffix = Ghost, 5% Spawn Chance
+ent-SpawnMobCatBloodCultLowChance = gerador de gato de culto sanguinário
+    .suffix = Fantasma, 5% de Chance de Spawn
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_dinosaurs.yml
 
-ent-SpawnMobDinosaurBig = dinosaur spawner
-    .suffix = AI, Hostile, Big
+ent-SpawnMobDinosaurBig = gerador de dinossauro
+    .suffix = IA, Hostil, Grande
 
-ent-SpawnMobDinosaurMedium = dinosaur spawner
-    .suffix = AI, Hostile, Medium
+ent-SpawnMobDinosaurMedium = gerador de dinossauro
+    .suffix = IA, Hostil, Médio
 
-ent-SpawnMobDinosaurSmall = dinosaur spawner
-    .suffix = AI, Hostile, Small
+ent-SpawnMobDinosaurSmall = gerador de dinossauro
+    .suffix = IA, Hostil, Pequeno
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_explorers.yml
 
-ent-SpawnMobExplorerT1 = explorer spawner
-    .suffix = AI, Hostile, T1
+ent-SpawnMobExplorerT1 = gerador de explorador
+    .suffix = IA, Hostil, T1
 
-ent-SpawnMobExplorerT2 = explorer spawner
-    .suffix = AI, Hostile, T2
+ent-SpawnMobExplorerT2 = gerador de explorador
+    .suffix = IA, Hostil, T2
 
-ent-SpawnMobExplorerT3 = explorer spawner
-    .suffix = AI, Hostile, T3
+ent-SpawnMobExplorerT3 = gerador de explorador
+    .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_mercenaries.yml
 
-ent-SpawnMobMercenaryT1 = mercenary spawner
-    .suffix = AI, Hostile, T1
+ent-SpawnMobMercenaryT1 = gerador de mercenário
+    .suffix = IA, Hostil, T1
 
-ent-SpawnMobMercenaryT2 = mercenary spawner
-    .suffix = AI, Hostile, T2
+ent-SpawnMobMercenaryT2 = gerador de mercenário
+    .suffix = IA, Hostil, T2
 
-ent-SpawnMobMercenaryT3 = mercenary spawner
-    .suffix = AI, Hostile, T3
+ent-SpawnMobMercenaryT3 = gerador de mercenário
+    .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_punkgangers.yml
 
-ent-SpawnMobPunkLeader = spawn punk leader
-    .suffix = AI, Hostile
+ent-SpawnMobPunkLeader = gerador de líder punk
+    .suffix = IA, Hostil
 
-ent-SpawnMobPunkT1 = spawn punk
-    .suffix = AI, Hostile, T1
+ent-SpawnMobPunkT1 = gerador de punk
+    .suffix = IA, Hostil, T1
 
-ent-SpawnMobPunkT2 = spawn punk
-    .suffix = AI, Hostile, T2
+ent-SpawnMobPunkT2 = gerador de punk
+    .suffix = IA, Hostil, T2
 
-ent-SpawnMobPunkT3 = spawn punk
-    .suffix = AI, Hostile, T3
+ent-SpawnMobPunkT3 = gerador de punk
+    .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_silicons.yml
 
-ent-SpawnMobRogueDronesT1 = drone spawner
-    .suffix = AI, Hostile, T1
+ent-SpawnMobRogueDronesT1 = gerador de drone
+    .suffix = IA, Hostil, T1
 
-ent-SpawnMobRogueScapT1 = scrap unit spawner
-    .suffix = AI, Hostile, T1
+ent-SpawnMobRogueScapT1 = gerador de unidade de sucata
+    .suffix = IA, Hostil, T1
 
-ent-SpawnMobRogueSiliconBossRandom = rogue silicon boss spawner
-    .suffix = AI, Hostile, Random
+ent-SpawnMobRogueSiliconBossRandom = gerador de chefe de silício renegado
+    .suffix = IA, Hostil, Aleatório
 
-ent-SpawnMobRogueSiliconsT2 = rogue unit spawner
-    .suffix = AI, Hostile, T2
+ent-SpawnMobRogueSiliconsT2 = gerador de unidade renegada
+    .suffix = IA, Hostil, T2
 
-ent-SpawnMobRogueSiliconsT3 = rogue unit spawner
-    .suffix = AI, Hostile, T3
+ent-SpawnMobRogueSiliconsT3 = gerador de unidade renegada
+    .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_syndicate.yml
 
-ent-SpawnMobCatSyndy = syndicat
+ent-SpawnMobCatSyndy = sicato
 
-ent-SpawnMobExperimentationVictim = victim of experimentation spawner
-    .suffix = AI, Hostile
+ent-SpawnMobExperimentationVictim = gerador de vítima de experimentação
+    .suffix = IA, Hostil
 
-ent-SpawnMobSyndicateNavalCaptain = syndicate naval captain spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalCaptain = gerador de capitão naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalChemwarrior = syndicate naval chemwarrior spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalChemwarrior = gerador de guerreiro químico naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalCommander = syndicate naval commander spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalCommander = gerador de comandante naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalDeckhand = syndicate naval deckhand spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalDeckhand = gerador de marinheiro naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalEngineer = syndicate naval engineer spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalEngineer = gerador de engenheiro naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalGrenadier = syndicate naval grenadier spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalGrenadier = gerador de granadeiro naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalHardVoid = syndicate naval harder mobs spawner
-    .suffix = AI, Hostile, RND (low), Void
+ent-SpawnMobSyndicateNavalHardVoid = gerador de mobs navais mais duros do Sindicato
+    .suffix = IA, Hostil, RND (baixo), Versista
 
-ent-SpawnMobSyndicateNavalHorror = syndicate naval horror spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalHorror = gerador de horror naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalMedic = syndicate naval medic spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalMedic = gerador de médico naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalMime = syndicate naval mime spawner
-    .suffix = AI, Hostile
+ent-SpawnMobSyndicateNavalMime = gerador de mímico naval do Sindicato
+    .suffix = IA, Hostil
 
-ent-SpawnMobSyndicateNavalOperator = syndicate naval operator spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalOperator = gerador de operativo naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalSaboteur = syndicate naval saboteur spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalSaboteur = gerador de sabotador naval do Sindicato
+    .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalSecondOfficer = syndicate naval second officer spawner
-    .suffix = AI, Hostile, RND
+ent-SpawnMobSyndicateNavalSecondOfficer = gerador de segundo oficial naval do Sindicato
+    .suffix = IA, Hostil, RND
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_wizardfederation.yml
 
-ent-SpawnMobWizFedWizard = Random Wizard Spawner
-    .suffix = AI
+ent-SpawnMobWizFedWizard = Gerador de Mago Aleatório
+    .suffix = IA
 
-ent-SpawnMobWizFedWizardBlue = Blue Wizard Spawner
-    .suffix = AI
+ent-SpawnMobWizFedWizardBlue = Gerador de Mago Azul
+    .suffix = IA
 
-ent-SpawnMobWizFedWizardBlueHardsuit = Blue Wizard Spawner
-    .suffix = AI, Hardsuit
+ent-SpawnMobWizFedWizardBlueHardsuit = Gerador de Mago Azul
+    .suffix = IA, Macacão Rígido
 
-ent-SpawnMobWizFedWizardHardsuit = Random Wizard Spawner
-    .suffix = AI, Hardsuit
+ent-SpawnMobWizFedWizardHardsuit = Gerador de Mago Aleatório
+    .suffix = IA, Macacão Rígido
 
-ent-SpawnMobWizFedWizardRed = Red Wizard Spawner
-    .suffix = AI
+ent-SpawnMobWizFedWizardRed = Gerador de Mago Vermelho
+    .suffix = IA
 
-ent-SpawnMobWizFedWizardRedHardsuit = Red Wizard Spawner
-    .suffix = AI, Hardsuit
+ent-SpawnMobWizFedWizardRedHardsuit = Gerador de Mago Vermelho
+    .suffix = IA, Macacão Rígido
 
-ent-SpawnMobWizFedWizardSoap = Soap Wizard Spawner
-    .suffix = AI
+ent-SpawnMobWizFedWizardSoap = Gerador de Mago Sabão
+    .suffix = IA
 
-ent-SpawnMobWizFedWizardSoapHardsuit = Soap Wizard Spawner
-    .suffix = AI, Hardsuit
+ent-SpawnMobWizFedWizardSoapHardsuit = Gerador de Mago Sabão
+    .suffix = IA, Macacão Rígido
 
-ent-SpawnMobWizFedWizardViolet = Violet Wizard Spawner
-    .suffix = AI
+ent-SpawnMobWizFedWizardViolet = Gerador de Mago Violeta
+    .suffix = IA
 
-ent-SpawnMobWizFedWizardVioletHardsuit = Violet Wizard Spawner
-    .suffix = AI, Hardsuit
+ent-SpawnMobWizFedWizardVioletHardsuit = Gerador de Mago Violeta
+    .suffix = IA, Macacão Rígido
 
 # From: _NF/Entities/Markers/Spawners/Random/parts.yml
 
-ent-SalvagePartsT2Spawner = salvage t2 machine parts spawner
-    .suffix = Spawner
+ent-SalvagePartsT2Spawner = gerador de peças de máquina salvamento t2
+    .suffix = Gerador
 
-ent-SalvagePartsT3Spawner = salvage t3 machine parts spawner
-    .suffix = Spawner
+ent-SalvagePartsT3Spawner = gerador de peças de máquina salvamento t3
+    .suffix = Gerador
 
-ent-SalvagePartsT3T4Spawner = salvage t3/4 machine parts spawner
-    .suffix = Spawner
+ent-SalvagePartsT3T4Spawner = gerador de peças de máquina salvamento t3/4
+    .suffix = Gerador
 
-ent-SalvagePartsT4Spawner = salvage t4 machine parts spawner
-    .suffix = Spawner
+ent-SalvagePartsT4Spawner = gerador de peças de máquina salvamento t4
+    .suffix = Gerador
 
 # From: _NF/Entities/Markers/Spawners/Random/salvage.yml
 
-ent-AndesiteCobblebrickElementalSpawner = Andesite Cobblebrick Elemental Spawner
+ent-AndesiteCobblebrickElementalSpawner = Gerador de Elemental de Pavé de Andesita
     .suffix = 45
 
-ent-AndesiteElementalSpawner = andesite elemental spawner
+ent-AndesiteElementalSpawner = gerador de elemental de andesita
     .suffix = 45
 
-ent-AsteroidRockElementalSpawner = asteroid rock elemental spawner
+ent-AsteroidRockElementalSpawner = gerador de elemental de rocha de asteroide
     .suffix = 45
 
-ent-AsteroidScrapBotSpawner = asteroid scrap bot spawner
+ent-AsteroidScrapBotSpawner = gerador de scrapbot de asteroide
 
-ent-AsteroidScrapBotWallSpawner = asteroid scrap bot rock spawner
+ent-AsteroidScrapBotWallSpawner = gerador de scrapbot de rocha de asteroide
     .suffix = 45
 
-ent-BasaltCobblebrickElementalSpawner = Basalt Cobblebrick Elemental Spawner
+ent-BasaltCobblebrickElementalSpawner = Gerador de Elemental de Pavé de Basalto
     .suffix = 45
 
-ent-BasaltElementalSpawner = basalt elemental spawner
+ent-BasaltElementalSpawner = gerador de elemental de basalto
     .suffix = 45
 
-ent-ChromiteCobblebrickElementalSpawner = Chromite Cobblebrick Elemental Spawner
+ent-ChromiteCobblebrickElementalSpawner = Gerador de Elemental de Pavé de Cromita
     .suffix = 45
 
-ent-ChromiteElementalSpawner = chromite elemental spawner
+ent-ChromiteElementalSpawner = gerador de elemental de cromita
     .suffix = 45
 
-ent-CobblebrickElementalSpawner = Cobblebrick Elemental Spawner
+ent-CobblebrickElementalSpawner = Gerador de Elemental de Pavé
     .suffix = 45
 
-ent-IceElementalSpawner = Ice Elemental Spawner
+ent-IceElementalSpawner = Gerador de Elemental de Gelo
     .suffix = 45
 
-ent-NecropolisElementalSpawner = Necropolis Elemental Spawner
+ent-NecropolisElementalSpawner = Gerador de Elemental de Necrópole
     .suffix = 45
 
-ent-NFSalvageMaterialCrateSpawner = Salvage Material Crate Spawner
+ent-NFSalvageMaterialCrateSpawner = Gerador de Caixote de Materiais de Salvamento
 
-ent-RandomBook = random book spawner
+ent-RandomBook = gerador de livro aleatório
 
-ent-RockElementalSpawner = rock elemental spawner
+ent-RockElementalSpawner = gerador de elemental de rocha
     .suffix = 45
 
-ent-SalvageBrassFurnitureSpawner = salvage random brass furniture spawner
+ent-SalvageBrassFurnitureSpawner = gerador de mobília de latão de salvamento
 
-ent-SalvageFurnitureSpawner = salvage random furniture spawner
+ent-SalvageFurnitureSpawner = gerador de mobília de salvamento
 
-ent-SalvageGeneratorSpawner = salvage generator spawner
+ent-SalvageGeneratorSpawner = gerador de gerador de salvamento
 
-ent-SalvageHandheldFlagSpawner = salvage handheld flag spawner
+ent-SalvageHandheldFlagSpawner = gerador de bandeira portátil de salvamento
 
-ent-SalvageLockerSpawner = salvage locker spawner
+ent-SalvageLockerSpawner = gerador de armário de salvamento
 
-ent-SalvageSuitStorageSpawner = salvage suit storage spawner
+ent-SalvageSuitStorageSpawner = gerador de armazenamento de macacão de salvamento
 
-ent-SalvageTankSpawnerHighCapacity = salvage tank spawner
-    .suffix = High Capacity, 95%
+ent-SalvageTankSpawnerHighCapacity = gerador de tanque de salvamento
+    .suffix = Alta Capacidade, 95%
 
-ent-SandElementalSpawner = sand elemental spawner
+ent-SandElementalSpawner = gerador de elemental de areia
     .suffix = 45
 
-ent-SandstoneCobblebrickElementalSpawner = Sandstone Cobblebrick Elemental Spawner
+ent-SandstoneCobblebrickElementalSpawner = Gerador de Elemental de Pavé de Arenito
     .suffix = 45
 
-ent-SnowElementalSpawner = snow elemental spawner
+ent-SnowElementalSpawner = gerador de elemental de neve
     .suffix = 45
 
-ent-SpawnVehicleAntagVehicle = Antag Vehicle Spawner
+ent-SpawnVehicleAntagVehicle = Gerador de Veículo Antagonista
 
 # From: _NF/Entities/Markers/Spawners/Random/Salvage/minerals.yml
 
-ent-NFAndesiteMineralSoft = andesite mineral spawner
-    .suffix = Soft
+ent-NFAndesiteMineralSoft = gerador de mineral de andesita
+    .suffix = Suave
 
-ent-NFAsteroidMineralSoft = asteroid mineral spawner
-    .suffix = Soft
+ent-NFAsteroidMineralSoft = gerador de mineral de asteroide
+    .suffix = Suave
 
-ent-NFBasaltMineralSoft = basalt mineral spawner
-    .suffix = Soft
+ent-NFBasaltMineralSoft = gerador de mineral de basalto
+    .suffix = Suave
 
-ent-NFChromiteMineralSoft = chromite mineral spawner
-    .suffix = Soft
+ent-NFChromiteMineralSoft = gerador de mineral de cromita
+    .suffix = Suave
 
-ent-NFIceMineralSoft = ice mineral spawner
-    .suffix = Soft
+ent-NFIceMineralSoft = gerador de mineral de gelo
+    .suffix = Suave
 
-ent-NFRockMineralSoft = rock mineral spawner
-    .suffix = Soft
+ent-NFRockMineralSoft = gerador de mineral de rocha
+    .suffix = Suave
 
-ent-NFSandMineralSoft = sand mineral spawner
-    .suffix = Soft
+ent-NFSandMineralSoft = gerador de mineral de areia
+    .suffix = Suave
 
-ent-NFScrapMineralSoft = scrap mineral spawner
-    .suffix = Soft
+ent-NFScrapMineralSoft = gerador de mineral de sucata
+    .suffix = Suave
 
 # From: _NF/Entities/Markers/Spawners/Random/shuttle_items.yml
 
-ent-SpawnShuttleGearSuitStorageUnitsMercenary = random suit storage unit
-    .suffix = Shuttle, Mercenary
+ent-SpawnShuttleGearSuitStorageUnitsMercenary = unidade de armazenamento de macacão aleatória
+    .suffix = Nave, Mercenário
 
-ent-SpawnShuttleVendomatsClothes = random vendomat
-    .suffix = Shuttle, Clothes
+ent-SpawnShuttleVendomatsClothes = vending machine aleatório
+    .suffix = Nave, Roupas
 
 # From: _NF/Entities/Markers/Spawners/syndicate.yml
 
-ent-PinpointerSyndicatePOISpawner = Syndicate POI Pinpointer
+ent-PinpointerSyndicatePOISpawner = Localizador de PDI do Sindicato
     .suffix = 10
 
-ent-SpawnContrabandCrate = Contraband Crate Spawner
+ent-SpawnContrabandCrate = Gerador de Caixote de Contrabando
     .suffix = DeadDrop
 
-ent-SpawnEventContrabandCrate = Contraband Crate Spawner
-    .suffix = Event
+ent-SpawnEventContrabandCrate = Gerador de Caixote de Contrabando
+    .suffix = Evento
 
 # From: _NF/Entities/Markers/Spawners/vehicles.yml
 
-ent-SpawnVehicleHoverbikeNF = hoverbike spawner
+ent-SpawnVehicleHoverbikeNF = gerador de hoverbike
 
 # From: _NF/Entities/Materials/materials.yml
 
 ent-CrateMaterialBiomass50 = caixote de biomassa
     .suffix = 50
-    .desc = 50 units of biomass. Yum.
+    .desc = 50 unidades de biomassa. Hmmm.
 
-ent-CrateMcCargoMaterialBiomass50 = mcbiomass crate
+ent-CrateMcCargoMaterialBiomass50 = caixote de mcbiomassa
     .suffix = 50
-    .desc = 50 units of biomass. Not for grilling.
+    .desc = 50 unidades de biomassa. Não para grelhar.
 
-ent-MaterialHideRosyMothroach = rosy maple mothroach hide
-    .desc = A thin layer of rosy maple mothroach hide.
+ent-MaterialHideRosyMothroach = couro de mariposa bordo rosada
+    .desc = Uma camada fina de couro de mariposa bordo rosada.
 
 # From: _NF/Entities/Materials/ore.yml
 
-ent-ScrapOre = scrap chunks
-    .suffix = Full
-    .desc = Various bits of previously used machinery. Needs to be sorted or processed to use.
+ent-ScrapOre = pedaços de sucata
+    .suffix = Completo
+    .desc = Vários pedaços de maquinário previamente usado. Precisa ser classificado ou processado para usar.
 
-ent-SpawnRandomRefinedScrap = refined scrap
-    .desc = Comb through the scrap for intact boards, tools, and native materials. Results vary.
+ent-SpawnRandomRefinedScrap = sucata refinada
+    .desc = Vasculhe pela sucata por placas intactas, ferramentas e materiais nativos. Resultados variam.
 
 # From: _NF/Entities/Mobs/Corpses/base.yml
 
-ent-DungeonHumanCorpse = unidentified corpse
-    .suffix = Dead, Frontier
-    .desc = I think they're dead.
+ent-DungeonHumanCorpse = cadáver não identificado
+    .suffix = Morto, Fronteira
+    .desc = Acho que estão mortos.
 
 # From: _NF/Entities/Mobs/Corpses/medical_corpse.yml
 
-ent-SpawnRandomHumanoidCorpseMedicalBounty = medical bounty corpse
-    .suffix = No Loadout
+ent-SpawnRandomHumanoidCorpseMedicalBounty = cadáver de recompensa médica
+    .suffix = Sem Loadout
 
 # From: _NF/Entities/Mobs/NPCs/animals.yml
 
-ent-CageParrot = parrot carrying cage
-    .suffix = null
-    .desc = A home away from home for your squawking feathered friend.
+ent-CageParrot = gaiola de papagaio
+    .suffix = nulo
+    .desc = Um lar away from lar para seu amigo emplumado gritador.
 
-ent-MobAngryBeeTimed = bee
-    .suffix = Angry, Timed
+ent-MobAngryBeeTimed = abelha
+    .suffix = Irritada, Cronometrada
 
-ent-MobParrotNF = parrot
+ent-MobParrotNF = papagaio
 
-ent-MobRosyMothroach = rosy mothroach
-    .desc = This is the adorable by-product of mult- wait, why's this one pink?
+ent-MobRosyMothroach = mariposa bordo rosada
+    .desc = Este é o subproduto adorável de mul- espera, por que este está rosa?
 
 # From: _NF/Entities/Mobs/NPCs/arcadiaindustries.yml
 
-ent-MobArcIndBlaster = Mobile Blaster Unit
-    .desc = A mobile energy blaster that capable of... oh god run it's spotted you!
+ent-MobArcIndBlaster = Unidade Blaster Móvel
+    .desc = Um blaster de energia móvel que é capaz de... meu deus corra, ele te viu!
 
-ent-MobArcIndHoloparasiteGuardian = Hijacked Hologuardian
-    .desc = A syndicate hologuardian that seems to have been modified by unknown means.
+ent-MobArcIndHoloparasiteGuardian = Hologuardiã Sequestrado
+    .desc = Um hologuardiã do Sindicato que parece ter sido modificado por meios desconhecidos.
 
-ent-MobArcIndShredder = Shredder
-    .desc = A small drone meant to deconstruct both organic and non-organic structures
+ent-MobArcIndShredder = Triturador
+    .desc = Um drone pequeno feito para desconstruir estruturas orgânicas e não-orgânicas
 
 # From: _NF/Entities/Mobs/NPCs/artifact_construct.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobArtifactConstruct = artifact construct
+ent-BaseMobArtifactConstruct = constructo de artefato
 
-ent-MobGrimForged = Grimforged Construct
-    .suffix = AI
-    .desc = A towering golem crafted from twisted metal and ancient stones.
+ent-MobGrimForged = Constructo Forjado pela Morte
+    .suffix = IA
+    .desc = Um golem imponente forjado de metal torcido e pedras antigas.
 
 # From: _NF/Entities/Mobs/NPCs/baby_dragon.yml
 
-ent-BabyDragonsBreathGun = baby dragon's lung
-    .desc = For dragon's breathing.
+ent-BabyDragonsBreathGun = pulmão de dragão bebê
+    .desc = Para respiração de dragão.
 
-ent-MobDragonPet = baby space dragon
-    .desc = Even a space dragon starts off small.
+ent-MobDragonPet = dragão espacial bebê
+    .desc = Até um dragão espacial começa pequeno.
 
 # From: _NF/Entities/Mobs/NPCs/elemental.yml
 
-ent-MobBananiumCrab = 
-    .desc = An ore crab made from bananium.
+ent-MobBananiumCrab
+    .desc = Um caranguejo de minério feito de bananium.
 
-ent-MobBananiumCrabNF = 
-    .desc = An ore crab made from bananium.
+ent-MobBananiumCrabNF
+    .desc = Um caranguejo de minério feito de bananium.
 
 ent-MobBananiumGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from bananium.
+    .desc = Um golem de minério feito de bananium.
 
-ent-MobCoalCrab = 
-    .desc = An ore crab made from coal.
+ent-MobCoalCrab
+    .desc = Um caranguejo de minério feito de carvão.
 
-ent-MobCoalCrabNF = 
-    .desc = An ore crab made from coal.
+ent-MobCoalCrabNF
+    .desc = Um caranguejo de minério feito de carvão.
 
 ent-MobCoalGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from coal.
+    .desc = Um golem de minério feito de carvão.
 
-ent-MobGoldCrab = 
-    .desc = An ore crab made from gold.
+ent-MobGoldCrab
+    .desc = Um caranguejo de minério feito de ouro.
 
-ent-MobGoldCrabNF = 
-    .desc = An ore crab made from gold.
+ent-MobGoldCrabNF
+    .desc = Um caranguejo de minério feito de ouro.
 
 ent-MobGoldGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from gold.
+    .desc = Um golem de minério feito de ouro.
 
-ent-MobIronCrabNF = 
-    .desc = An ore crab made from iron.
+ent-MobIronCrabNF
+    .desc = Um caranguejo de minério feito de ferro.
 
 ent-MobIronGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from iron.
+    .desc = Um golem de minério feito de ferro.
 
 # Abstract entity (referenceable by children)
-ent-MobOreGolem = ore golem
+ent-MobOreGolem = golem de minério
 
-ent-MobPlasmaCrab = 
-    .desc = An ore crab made from plasma.
+ent-MobPlasmaCrab = caranguejo de plasma
+    .desc = Um caranguejo de minério feito de plasma.
 
-ent-MobPlasmaCrabNF = 
-    .desc = An ore crab made from plasma.
+ent-MobPlasmaCrabNF = caranguejo de plasma
+    .desc = Um caranguejo de minério feito de plasma.
 
 ent-MobPlasmaGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from plasma.
+    .desc = Um golem de minério feito de plasma.
 
-ent-MobQuartzCrabNF = 
-    .desc = An ore crab made from Quartz.
+ent-MobQuartzCrabNF = caranguejo de quartzo
+    .desc = Um caranguejo de minério feito de quartzo.
 
 ent-MobQuartzGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from quartz.
+    .desc = Um golem de minério feito de quartzo.
 
-ent-MobSaltCrab = 
-    .desc = An ore crab made from salt.
+ent-MobSaltCrab = caranguejo de sal
+    .desc = Um caranguejo de minério feito de sal.
 
-ent-MobSaltCrabNF = 
-    .desc = An ore crab made from salt.
+ent-MobSaltCrabNF = caranguejo de sal
+    .desc = Um caranguejo de minério feito de sal.
 
 ent-MobSaltGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from salt.
+    .desc = Um golem de minério feito de sal.
 
-ent-MobSilverCrabNF = 
-    .desc = An ore crab made from silver.
+ent-MobSilverCrabNF = caranguejo de prata
+    .desc = Um caranguejo de minério feito de prata.
 
 ent-MobSilverGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from silver.
+    .desc = Um golem de minério feito de prata.
 
-ent-MobUraniumCrabNF = 
-    .desc = An ore crab made from uranium.
+ent-MobUraniumCrabNF = caranguejo de urânio
+    .desc = Um caranguejo de minério feito de urânio.
 
 ent-MobUraniumGolem = {ent-MobOreGolem}
-    .desc = An ore golem made from bananium.
+    .desc = Um golem de minério feito de bananium.
 
 # From: _NF/Entities/Mobs/NPCs/emotionalsupportanimals.yml
 
 ent-MobPugGhost = pug
-    .suffix = Ghost
-    .desc = A stocky dog with a little smushed-in face. Adorable?
+    .suffix = Fantasma
+    .desc = Um cão robusto com um rosto um pouco achatado. Adorável?
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_bloodcultist.yml
 
-ent-BloodCultTurret = blood pylon
-    .desc = Through blood rites, the entrapped souls of sacrificed cultists have been gathered in this pylon to defend their living members. Behaves like a sentry turret.
+ent-BloodCultTurret = pílon de sangue
+    .desc = Através de rituais de sangue, as almas aprisionadas de cultistas sacrificados foram reunidas neste pílon para defender seus membros vivos. Comporta-se como uma torre de sentinela.
 
-ent-MobBloodCultDrainedOne = drained one
-    .desc = A tortured soul, stripped of free will and left as a mere shadow of a human, enslaved and bound to obey its captors.
+ent-MobBloodCultDrainedOne = drenado
+    .desc = Uma alma torturada, despojada de livre arbítrio e deixada como mera sombra de um humano, escravizada e obrigada a obedecer seus captores.
 
-ent-MobBloodCultistAcolyte = blood cult acolyte
-    .desc = The acolyte - The most trusted cult follower and bodyguard of a priest, clad in the finest armor the cult has to offer and armed with the most vile weapons: eldrich blades and unholy halberds.
+ent-MobBloodCultistAcolyte = acólito de culto de sangue
+    .desc = O acólito - O seguidor de culto mais confiável e guarda-costas de um sacerdote, vestido com a melhor armadura que o culto tem a oferecer e armado com as armas mais vis: lâminas eldritch e alabardas profanas.
 
 ent-MobBloodCultistAscended = ascended cultist
-    .desc = Elevated above their mortal forms by Nar'Sie herself as a reward for their devotion.
+    .desc = Elevado acima de suas formas mortais pela própria Nar'Sie como recompensa por sua devoção.
 
 # Abstract entity (referenceable by children)
-ent-MobBloodCultistBase = blood cultist
+ent-MobBloodCultistBase = cultista de sangue
 
-ent-MobBloodCultistCaster = blood cult zealot
-    .desc = Adorned in matching red robes symbolizing devotion to their dark deity, each member is eager to prove their loyalty in the most gruesome ways.
+ent-MobBloodCultistCaster = fanático de culto de sangue
+    .desc = Adornado em vestes vermelhas combinando simbolizando devoção à sua divindade sombria, cada membro está ansioso para provar sua lealdade das maneiras mais horrendas.
 
-ent-MobBloodCultistJanitor = blood cult janitor
-    .desc = The fate of blood cults on space stations hinges on the actions of a single individual - the station janitor. This humble worker serves as the primary line of defense against the presence of blood cults, but even the most resolute individuals can be swayed by corruption.
+ent-MobBloodCultistJanitor = faxineiro de culto de sangue
+    .desc = O destino de cultos de sangue em estações espaciais depende das ações de um único indivíduo - o faxineiro da estação. Este trabalhador humilde serve como linha principal de defesa contra a presença de cultos de sangue, mas mesmo os indivíduos mais resolutos podem ser influenciados pela corrupção.
 
-ent-MobBloodCultistPriest = blood cult priest
-    .desc = Enlightened by the whispers of The Void That Is, these individuals are initiated into secret rituals. They lead the blood harvest and perform rites, bringing the day when Nar'Sie rises ever closer.
+ent-MobBloodCultistPriest = sacerdote de culto de sangue
+    .desc = Iluminado pelos sussurros do Void That Is, estes indivíduos são iniciados em rituais secretos. Eles lideram a colheita de sangue e realizam ritos, trazendo o dia em que Nar'Sie surge cada vez mais perto.
 
-ent-MobBloodCultistZealotMelee = blood cult zealot
-    .desc = Adorned in matching red robes symbolizing devotion to their dark deity, each member is eager to prove their loyalty in the most gruesome ways.
+ent-MobBloodCultistZealotMelee = fanático de culto de sangue
+    .desc = Adornado em vestes vermelhas combinando simbolizando devoção à sua divindade sombria, cada membro está ansioso para provar sua lealdade das maneiras mais horrendas.
 
-ent-MobBloodCultistZealotRanged = blood cult zealot
-    .desc = Adorned in matching red robes symbolizing devotion to their dark deity, each member is eager to prove their loyalty in the most gruesome ways.
+ent-MobBloodCultistZealotRanged = fanático de culto de sangue
+    .desc = Adornado em vestes vermelhas combinando simbolizando devoção à sua divindade sombria, cada membro está ansioso para provar sua lealdade das maneiras mais horrendas.
 
-ent-MobBloodCultLeech = blood leech
-    .desc = This cultist, once human, is now a twisted and corrupted abomination, its body warped and distorted by the dark energies of Nar'Sie's influence.
+ent-MobBloodCultLeech = sanguessuga de sangue
+    .desc = Este cultista, antes humano, agora é uma abominação distorcida e corrompida, seu corpo deformado e distorcido pelas energias sombrias da influência de Nar'Sie.
 
-ent-MobBloodCultShade = cultist shade
-    .desc = A cultist's shade, brought back to reality through foul means to gather more blood.
+ent-MobBloodCultShade = sombra de cultista
+    .desc = Uma sombra de cultista, trazida de volta à realidade através de meios vis para reunir mais sangue.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_expeditions_aberrant_flesh.yml
 
-ent-ActionBoneSpike = [color=yellow]Bone Spike[/color]
-    .desc = Shoot a short salvo of bone spikes laced with toxins. [color=yellow]5 second cooldown.[/color]
+ent-ActionBoneSpike = [color=yellow]Espinho de Osso[/color]
+    .desc = Atira uma salva curta de espinhos de osso impregnados de toxinas. [color=yellow]5 segundos de cooldown.[/color]
 
 # Abstract entity (referenceable by children)
-ent-BaseMobFleshExpeditions = aberrant flesh
-    .desc = A shambling mass of flesh, animated through anomalous energy.
+ent-BaseMobFleshExpeditions = carne aberrante
+    .desc = Uma massa cambaleante de carne, animada através de energia anômala.
 
 # Abstract entity (referenceable by children)
-ent-BaseMobFleshExpeditionsNewborn = aberrant flesh newborn
-    .desc = This newborn monster is dripping with amniotic fluid; its movements are sluggish yet deliberate; its limbs, though weak, are lethal nonetheless.
+ent-BaseMobFleshExpeditionsNewborn = carne aberrante recém-nascida
+    .desc = Este monstro recém-nascido goteja fluido amniótico; seus movimentos são lentos porém deliberados; seus membros, embora fracos, são letais, no entanto.
 
-ent-BoneSpikeGun = bone spike
-    .desc = Shoots a short salvo of bone spikes.
+ent-BoneSpikeGun = espinho de osso
+    .desc = Atira uma salva curta de espinhos de osso.
 
-ent-MobFleshAssimilatedMiner = 
-    .desc = An unfortunate miner that was infected upon contact with aberrant flesh and has been slowly assimilated.
+ent-MobFleshAssimilatedMiner
+    .desc = Um minerador infeliz que foi infectado ao contato com carne aberrante e foi lentamente assimilado.
 
-ent-MobFleshClampExpeditions = 
-    .desc = A flying flesh monster that can shoot spikes or toothy creatures that can latch on.
+ent-MobFleshClampExpeditions
+    .desc = Um monstro de carne voador que pode atirar espinhos ou criaturas dentadas que podem se agarar.
 
 ent-MobFleshGolemAltExpeditions = {ent-BaseMobFleshExpeditions}
     .desc = {ent-BaseMobFleshExpeditions.desc}
 
 ent-MobFleshGolemExpeditions = {ent-BaseMobFleshExpeditions}
-    .desc = A mindless brute with a heavy build. A bit more resilient than other flesh monsters, but less agile.
+    .desc = Um bruto sem mente com uma constituição pesada. Um pouco mais resiliente que outros monstros de carne, mas menos ágil.
 
 ent-MobFleshGolemOldExpeditions = {ent-BaseMobFleshExpeditions}
     .desc = {ent-BaseMobFleshExpeditions.desc}
 
 ent-MobFleshJaredExpeditions = {ent-BaseMobFleshExpeditions}
-    .desc = A mindless meat shield who charges threats directly. Weaker than the average human.
+    .desc = Um escudo de carne sem mente que ataca ameaças diretamente. Mais fraco que o humano médio.
 
 ent-MobFleshJaredOldExpeditions = {ent-BaseMobFleshExpeditions}
     .desc = {ent-BaseMobFleshExpeditions.desc}
 
 ent-MobFleshLoverExpeditions = {ent-BaseMobFleshExpeditions}
-    .desc = The Lover's light frame makes it fragile, but capable of flight.
+    .desc = A estrutura leve do Amante o torna frágil, mas capaz de voo.
 
-ent-MobHorrorExpeditions = aberrant flesh horror
-    .desc = Tougher and more resilient than most aberrant flesh monsters. Has sharp, bony protrusions and highly developed musculature.
+ent-MobHorrorExpeditions = horror de carne aberrante
+    .desc = Mais resistente e resiliente que a maioria dos monstros de carne aberrante. Tem protuberâncias ósseas afiadas e musculatura altamente desenvolvida.
 
-ent-MobMawExpeditions = aberrant flesh maw
-    .desc = Immobile, flesh-boring creatures that are launched at victims. Latches on until killed or shaken off. Don't put your fingers in it.
+ent-MobMawExpeditions = boca de carne aberrante
+    .desc = Criaturas imóveis que perfuram carne que são lançadas contra vítimas. Agarra-se até ser morto ou sacudido. Não coloque seus dedos nela.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_expeditions_argocyte.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobArgocyteExpeditions = argocyte
-    .desc = A distant relative of Xenos, Argocytes are known throughout the sector for their ability to eat and digest almost anything, from organic matter to reinforced plastitanium vault walls. Just like Xenos, this species is well-acclimated to hostile environments: neither the vacuum of space nor the extreme heat and pressure of a planet consumed by plasma fire can kill these creatures.
+ent-BaseMobArgocyteExpeditions = argócito
+    .desc = Um parente distante de Xenos, Argócitos são conhecidos em todo o setor por sua capacidade de comer e digerir quase qualquer coisa, de matéria orgânica a paredes de cofres de plastitânio reforçado. Assim como Xenos, esta espécie está bem adaptada a ambientes hostis: nem o vácuo do espaço nem o calor extremo e pressão de um planeta consumido por fogo de plasma podem matar estas criaturas.
 
-ent-MobArgocyteBarrierExpeditions = barrier
-    .desc = The first lifecycle stage of the Guardian morphotype. Equally as pathetic as the \"Slurva\". Not yet fully formed, its protective plates are still soft.
+ent-MobArgocyteBarrierExpeditions = barreira
+    .desc = O primeiro estágio de ciclo de vida do morfotipo Guardião. Igualmente patético quanto o "Slurva". Ainda não totalmente formado, suas placas protetoras ainda são macias.
 
-ent-MobArgocyteCrawlerExpeditions = crawler
-    .desc = The fifth lifecycle stage of the Stalker morphotype. These deadly pack animals ambush and maul unsuspecting travelers.
+ent-MobArgocyteCrawlerExpeditions = rastreador
+    .desc = O quinto estágio de ciclo de vida do morfotipo Perseguidor. Estes animais de matilha mortíferos emboscam e mutilam viajantes desavisados.
 
-ent-MobArgocyteEnforcerExpeditions = enforcer
-    .desc = The fourth lifecycle stage of the Guardian morphotype. The main guards of the hive, these fend off would-be attackers.
+ent-MobArgocyteEnforcerExpeditions = executor
+    .desc = O quarto estágio de ciclo de vida do morfotipo Guardião. Os guardas principais da colmeia, estes repelem possíveis atacantes.
 
-ent-MobArgocyteFounderExpeditions = founder
-    .desc = The last known lifecycle stage of the Stalker morphotype. Most often seen in mature hives preparing for an expansion.
+ent-MobArgocyteFounderExpeditions = fundador
+    .desc = O último estágio de ciclo de vida conhecido do morfotipo Perseguidor. Mais frequentemente visto em colmeias maduras se preparando para expansão.
 
-ent-MobArgocyteGliderExpeditions = glider
-    .desc = The fourth lifecycle stage of the Stalker morphotype. Born and bred hunters, these stalk and prey upon smaller wildlife.
+ent-MobArgocyteGliderExpeditions = planador
+    .desc = O quarto estágio de ciclo de vida do morfotipo Perseguidor. Caçadores natos, estes perseguem e caçam vida selvagem menor.
 
-ent-MobArgocyteHarvesterExpeditions = harvester
-    .desc = A mutation that develops in the third lifecycle stage of the Guardian morphotype. \"Harvesters\" use their highly caustic saliva to break down and process materials for the hive.
+ent-MobArgocyteHarvesterExpeditions = colheitadeira
+    .desc = Uma mutação que se desenvolve no terceiro estágio de ciclo de vida do morfotipo Guardião. "Colheitadeiras" usam sua saliva altamente cáustica para quebrar e processar materiais para a colmeia.
 
-ent-MobArgocyteLeviathingExpeditions = leviathing
-    .desc = The final known lifecycle stage of the Guardian morphotype. These hulking beasts lead attacks on the hive's enemies.
+ent-MobArgocyteLeviathingExpeditions = leviatã
+    .desc = O estágio de ciclo de vida final conhecido do morfotipo Guardião. Estas bestas enormes lideram ataques aos inimigos da colmeia.
 
-ent-MobArgocyteMolderExpeditions = molder
-    .desc = The second lifecycle stage of the Guardian morphotype. Usually seen building and repairing structures in the hive.
+ent-MobArgocyteMolderExpeditions = modelador
+    .desc = O segundo estágio de ciclo de vida do morfotipo Guardião. Geralmente visto construindo e reparando estruturas na colmeia.
 
-ent-MobArgocytePouncerExpeditions = pouncer
-    .desc = The third lifecycle stage of the Guardian morphotype. Provides rapid response for minor threats to the hive.
+ent-MobArgocytePouncerExpeditions = pulador
+    .desc = O terceiro estágio de ciclo de vida do morfotipo Guardião. Fornece resposta rápida para ameaças menores à colmeia.
 
-ent-MobArgocyteSkitterExpeditions = skitter
-    .desc = The second lifecycle stage of the Stalker morphotype. Still small, these creatures tend to travel in small packs for safety.
+ent-MobArgocyteSkitterExpeditions = corredor
+    .desc = O segundo estágio de ciclo de vida do morfotipo Perseguidor. Ainda pequenos, estas criaturas tendem a viajar em pequenos grupos por segurança.
 
 ent-MobArgocyteSlurvaExpeditions = slurva
-    .desc = The first lifecycle stage of the Stalker morphotype. A pathetic creature, incapable of doing much. It is better to kill it now before it has a chance to mature.
+    .desc = O primeiro estágio de ciclo de vida do morfotipo Perseguidor. Uma criatura patética, incapaz de fazer muito. É melhor matá-la agora antes que tenha chance de amadurecer.
 
-ent-MobArgocyteSwiperExpeditions = swiper
-    .desc = The third lifecycle stage of the Stalker morphotype. Roaming scavengers, usually out on reconnaisance or gathering materials.
+ent-MobArgocyteSwiperExpeditions = varredor
+    .desc = O terceiro estágio de ciclo de vida do morfotipo Perseguidor. Catadores ambulantes, geralmente em reconhecimento ou reunindo materiais.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_expeditions_dinosaurs.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMobDinosaurExpeditions = dinosaur
-    .desc = Enigmatic behemoths from a bygone era, known for their imposing stature and formidable presence.
+ent-BaseMobDinosaurExpeditions = dinossauro
+    .desc = Behemoths enigmáticos de uma era passada, conhecidos por sua estatura imponente e presença formidável.
 
-ent-MobDinosaurAnkiExpeditions = ankylosaurus
-    .desc = Typically between between 6 and 8 meters long and between 4.8 and 8 tons in weight, this lumbering beast shouldn't be underestimated. Its wide, low skull and robust body can take a beating and still survive, and the large club on the end of its tail can be used as a weapon.
+ent-MobDinosaurAnkiExpeditions = anquilossauro
+    .desc = Tipicamente entre 6 e 8 metros de comprimento e entre 4,8 e 8 toneladas de peso, esta besta pesada não deve ser subestimada. Sua caveira larga e baixa e corpo robusto podem levar uma surra e ainda sobreviver, e a clava grande na ponta de sua cauda pode ser usada como arma.
 
-ent-MobDinosaurCompyExpeditions = compsognathus
-    .desc = Compsognathus is a genus of small, bipedal, carnivorous theropods. They have long hind legs and longer tails, which they used for balance during locomotion. Their forelimbs are small but beware of their claws.
+ent-MobDinosaurCompyExpeditions = compsognatus
+    .desc = Compsognathus é um gênero de pequenos terópodes bípedes carnívoros. Eles têm pernas traseiras longas e caudas mais longas, que usavam para equilíbrio durante locomoção. Seus membros anteriores são pequenos, mas cuidado com suas garras.
 
-ent-MobDinosaurDiloExpeditions = dilophosaurus
-    .desc = With a name meaning \"two-crested lizard\", these measure in at about 7 m in length and 400 kg in weight. Slender and lightly built, these are very agile.
+ent-MobDinosaurDiloExpeditions = dilofossauro
+    .desc = Com um nome significando "lagarto de duas cristas", estes medem cerca de 7 m de comprimento e 400 kg de peso. Esbelto e levemente construído, estes são muito ágeis.
 
-ent-MobDinosaurKentroExpeditions = kentrosaurus
-    .desc = On the smaller side of dinosaurs, Kentrosaurus generally measure around 4–4.5 m, and weigh about 700–1,600 kg. Its elongated head and beak are used to bite off plant material or tear off limbs.
+ent-MobDinosaurKentroExpeditions = kentrossauro
+    .desc = No lado menor dos dinossauros, Kentrosaurus geralmente mede cerca de 4–4,5 m, e pesa cerca de 700–1.600 kg. Sua cabeça alongada e bico são usados para arrancar material vegetal ou arrancar membros.
 
-ent-MobDinosaurParaExpeditions = parasaurolophus
-    .desc = A large carnivore that can reach over 9 metres (30 ft) long and weigh over 5 metric tons (5.5 short tons), these can move on two legs or four. Reasonably fast for its size, but comparatively fragile and weak.
+ent-MobDinosaurParaExpeditions = parassaurolofo
+    .desc = Um carnívoro grande que pode alcançar mais de 9 metros (30 pés) de comprimento e pesar mais de 5 toneladas métricas (5,5 toneladas curtas), estes podem se mover em duas ou quatro pernas. Razoavelmente rápido para seu tamanho, mas comparativamente frágil e fraco.
 
 ent-MobDinosaurRaptorExpeditions = velociraptor
-    .desc = A bipedal, featherless carnivore with a long tail. Each of its hindfeet has an enlarged sickle-shaped claw, which is used to tackle and restrain prey. Very fast, exercise caution.
+    .desc = Um carnívoro bípede sem penas com cauda longa. Cada um de seus pés traseiros tem uma garra em forma de foice ampliada, que é usada para derrubar e restringir presas. Muito rápido, exercite cautela.
 
-ent-MobDinosaurSpinoExpeditions = spinosaurus
-    .desc = With a typical length of 14 m and a mass of 7.4 tons, Spinosaurus has large, robust forelimbs. Each of its hands has three-fingers, with an enlarged claw on the first digit. Surprisingly quick for its size, this giant can take a lot of punishment.
+ent-MobDinosaurSpinoExpeditions = espinossauro
+    .desc = Com um comprimento típico de 14 m e uma massa de 7,4 toneladas, Spinosaurus tem membros anteriores grandes e robustos. Cada uma de suas mãos tem três dedos, com uma garra ampliada no primeiro dígito. Surpreendentemente rápido para seu tamanho, este gigante pode levar muito castigo.
 
-ent-MobDinosaurStegoExpeditions = stegosaurus
-    .desc = Large and heavily built, these herbivorous quadrupeds have rounded backs, short fore limbs, long hind limbs, and tails held high in the air. Lumbering, but lethal up close.
+ent-MobDinosaurStegoExpeditions = estegossauro
+    .desc = Grande e pesadamente construído, estes quadrúpedes herbívoros têm costas arredondadas, membros anteriores curtos, membros posteriores longos e caudas mantidas altas no ar. Pesado, mas letal de perto.
 
-ent-MobDinosaurTrexExpeditions = tyrannosaurus
-    .desc = A massive therapod, its giant thorax is balanced by a long, heavy tail. Relative to its large and powerful hind limbs, the forelimbs of Tyrannosaurus are short but incredible powerful for their size, and they have two clawed digits.
+ent-MobDinosaurTrexExpeditions = tiranossauro
+    .desc = Um terópode massivo, seu tórax gigante é equilibrado por uma cauda longa e pesada. Relativo a seus membros posteriores grandes e poderosos, os membros anteriores de Tyrannosaurus são curtos mas incrivelmente poderosos para seu tamanho, e eles têm dois dígitos com garras.
 
 ent-MobDinosaurTrikeExpeditions = triceratops
-    .desc = Bearing a large bony frill with three horns on its skull, this massive quadruped is one of the most recognizable of all dinosaurs and the best-known ceratopsian. Typically tries to gore whatever it attacks.
+    .desc = Com uma grande frilha óssea com três chifres em sua caveira, este quadrúpede massivo é um dos mais reconhecíveis de todos os dinossauros e o ceratopsiano mais conhecido. Tipicamente tenta empalar o que quer que ataque.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_expeditions_explorers.yml
 
-ent-ActionSeismicCharge = [color=yellow]Throw Seismic Charge[/color]
-    .desc = Hurls activated seismic charge, that explodes on contact. [color=yellow]50 second cooldown.[/color]
+ent-ActionSeismicCharge = [color=yellow]Lançar Carga Sísmica[/color]
+    .desc = Lança carga sísmica ativada, que explode no contato. [color=yellow]50 segundos de cooldown.[/color]
 
 # Abstract entity (referenceable by children)
-ent-MobExplorerBase = explorer
+ent-MobExplorerBase = explorador
 
-ent-MobExplorerBoss = explorer captain
-    .desc = Fearless and battle-hardened salvage team leaders, it takes years picking through the darkest corners of space and navigating the galaxy's criminal underbelly of the galaxy before you can become a captain. Not to be underestimated.
+ent-MobExplorerBoss = capitão explorador
+    .desc = Líderes de equipes de salvamento intrépidos e endurecidos em batalha, leva anos escolhendo os cantos mais escuros do espaço e navegando pela criminalidade da galáxia antes que você possa se tornar um capitão. Não deve ser subestimado.
 
-ent-MobExplorerHauler = hauler
-    .desc = Loaded with heavy equipment for industrial-scale looting. Pardon me, \"asset recovery\".
+ent-MobExplorerHauler = carregador
+    .desc = Carregado com equipamento pesado para saque em escala industrial. Com licença, "recuperação de ativos".
 
-ent-MobExplorerMeleeT1 = looter
-    .desc = Armed with a trusty pickaxe and greed, every group needs its grunts.
+ent-MobExplorerMeleeT1 = saqueador
+    .desc = Armado com uma picareta confiável e ganância, todo grupo precisa de seus soldados.
 
-ent-MobExplorerMeleeT2 = scavenger
-    .desc = A looter that scavenged enough coins to afford some decent equipment.
+ent-MobExplorerMeleeT2 = catador
+    .desc = Um saqueador que catou moedas suficientes para comprar algum equipamento decente.
 
-ent-MobExplorerMeleeT3 = miner
-    .desc = Drilling in the name of... drilling. No rock formation can withstand the power of dual-wielded mining drills - good thing you aren't a rock.
+ent-MobExplorerMeleeT3 = minerador
+    .desc = Perfurando em nome de... perfuração. Nenhuma formação rochosa pode resistir ao poder de perfuradoras de mineração duplas - bom que você não é uma rocha.
 
-ent-MobExplorerRangedT1 = scrapper
-    .desc = Proto-kinetic accelerator in one hand, flashlight in the other, beer in the belly. That's how you explore.
+ent-MobExplorerRangedT1 = desmanchador
+    .desc = Acelerador proto-cinético em uma mão, lanterna na outra, cerveja na barriga. Assim que você explora.
 
-ent-MobExplorerRangedT2 = salvager
-    .desc = Sawn-off proto-kinetic accelerator in one hand, crusher dagger in the other, magm-ale both in the belly and in the hardsuit's boots.
+ent-MobExplorerRangedT2 = salvador
+    .desc = Acelerador proto-cinético serrado em uma mão, adaga de trituração na outra, magm-ale tanto na barriga quanto nas botas do macacão.
 
-ent-MobExplorerRangedT3 = explorer
-    .desc = Veteran scrappers, these salvagers are wealthy enough to explore abandoned ruins for the adrenaline rush and adventure alone.
+ent-MobExplorerRangedT3 = explorador
+    .desc = Desmanchadores veteranos, estes salvadores são ricos o suficiente para explorar ruínas abandonadas pela adrenalina e aventura.
 
-ent-SeismicChargeGun = seismic charge gun
-    .desc = Needed to shoot the charge.
+ent-SeismicChargeGun = arma de carga sísmica
+    .desc = Necessário para atirar a carga.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_mercenaries.yml
 
 # Abstract entity (referenceable by children)
-ent-MobMercenaryBase = mercenary
-    .desc = A mercenary, merc, soldier of fortune, hired gun, dog of war.
+ent-MobMercenaryBase = mercenário
+    .desc = Um mercenário, merc, soldado da fortuna, arma de aluguel, cão de guerra.
 
-ent-MobMercenaryBreacherMachete = mercenary breacher
-    .desc = Shock troopers that specialize in using the element of surprise and swift, aggressive action to achieve their objectives.
+ent-MobMercenaryBreacherMachete = mercenário breacher
+    .desc = Tropas de choque que se especializam em usar o elemento de surpresa e ação rápida e agressiva para alcançar seus objetivos.
 
-ent-MobMercenaryBreacherShotgun = mercenary breacher
-    .desc = Shock troopers that specialize in using the element of surprise and swift, aggressive action to achieve their objectives.
+ent-MobMercenaryBreacherShotgun = mercenário breacher
+    .desc = Tropas de choque que se especializam em usar o elemento de surpresa e ação rápida e agressiva para alcançar seus objetivos.
 
-ent-MobMercenaryCaptain = mercenary captain
-    .desc = The leaders of these bands of brigands, a mercenary captain is both cruel and lethally effective. Exercise caution.
+ent-MobMercenaryCaptain = capitão mercenário
+    .desc = Os líderes destas bandas de bandidos, um capitão mercenário é tanto cruel quanto letalmente eficaz. Exercite cautela.
 
-ent-MobMercenarySoldierKnife = mercenary soldier
-    .desc = Low-ranking soldiers armed with a variety of surplus weapons.
+ent-MobMercenarySoldierKnife = soldado mercenário
+    .desc = Soldados de baixa patente armados com uma variedade de armas excedentes.
 
-ent-MobMercenarySoldierNovalite = mercenary soldier
-    .desc = Low-ranking soldiers armed with a variety of surplus weapons.
+ent-MobMercenarySoldierNovalite = soldado mercenário
+    .desc = Soldados de baixa patente armados com uma variedade de armas excedentes.
 
-ent-MobMercenarySoldierPistol = mercenary soldier
-    .desc = Low-ranking soldiers armed with a variety of surplus weapons.
+ent-MobMercenarySoldierPistol = soldado mercenário
+    .desc = Soldados de baixa patente armados com uma variedade de armas excedentes.
 
-ent-MobMercenarySoldierRevolver = mercenary breacher
-    .desc = Shock troopers that specialize in using the element of surprise and swift, aggressive action to achieve their objectives.
+ent-MobMercenarySoldierRevolver = mercenário breacher
+    .desc = Tropas de choque que se especializam em usar o elemento de surpresa e ação rápida e agressiva para alcançar seus objetivos.
 
-ent-MobMercenarySpecialistAssault = mercenary ranger
+ent-MobMercenarySpecialistAssault = mercenário ranger
     .desc = {ent-MobMercenaryBase.desc}
 
-ent-MobMercenarySpecialistMedic = mercenary paramedic
-    .desc = Experienced mercenaries, specialists are practised and proficient in combat or support roles, possibly both.
+ent-MobMercenarySpecialistMedic = paramédico mercenário
+    .desc = Mercenários experientes, especialistas são praticados e proficientes em papéis de combate ou suporte, possivelmente ambos.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_punkganger.yml
 
-ent-ActionThrowPartyNade = [color=yellow]Throw a party 'nade[/color]
-    .desc = Hurls activated party 'nade filled with party chems, explodes on contact. [color=yellow]20 second cooldown.[/color]
+ent-ActionThrowPartyNade = [color=yellow]Lançar Granada de Festa[/color]
+    .desc = Lança granada de festa ativada cheia de químicos de festa, explode no contato. [color=yellow]20 segundos de cooldown.[/color]
 
 # Abstract entity (referenceable by children)
 ent-MobPunkBase = punk
-    .desc = \"Criminally-inclined individuals\", as NT Security documents call them, these are armed with a variety of weapons. These weapons range from makeshift shivs and machined truncheons to rusty pistols and shotguns. Some may be armored, so plan appropriately.
+    .desc = "Indivíduos inclinados criminalmente", como documentos de Segurança da NT os chamam, estes estão armados com uma variedade de armas. Estas armas variam de facas improvisadas e cassetetes usinados a pistolas enferrujadas e escopetas. Alguns podem estar blindados, então planeje apropriadamente.
 
-ent-MobPunkGangerLeader = punk gang leader
-    .desc = It takes a formidable figure to lead a pack of street trash. These leaders usually wield scavenged SMGs and wear armor taken from unfortunate security forces. Usually high on meth and booze.
+ent-MobPunkGangerLeader = líder de gangue punk
+    .desc = Leva uma figura formidável para liderar um bando de lixo de rua. Estes líderes geralmente empunham SMGs catados e usam armadura tirada de forças de segurança infelizes. Geralmente sob o efeito de metanfetamina e álcool.
 
-ent-PartyNadeGun = party nade gun
-    .desc = Needed to shoot a nade.
+ent-PartyNadeGun = arma de granada de festa
+    .desc = Necessário para atirar uma granada.
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_rogue_ai.yml
 
 # Abstract entity (referenceable by children)
-ent-MobRogueSiliconBase = hivemind unit
+ent-MobRogueSiliconBase = unidade de mente colmeia
 
-ent-MobRogueSiliconBoss = one star unit
-    .desc = An autonomous combat-grade mech, typically used for offensive operations. Now a rogue AI's elite guard. Equipped with missile launchers, exercise extreme caution.
+ent-MobRogueSiliconBoss = unidade de uma estrela
+    .desc = Um mecha de combate autônomo de grau, geralmente usado para operações ofensivas. Agora a guarda de elite de uma IA renegada. Equipado com lançadores de mísseis, exercite cautela extrema.
 
-ent-MobRogueSiliconCatcher = catcher unit
-    .desc = Equipped with bolas, this unit is designed to slow, capture, and detain targets.
+ent-MobRogueSiliconCatcher = unidade captora
+    .desc = Equipado com bolas, esta unidade é projetada para desacelerar, capturar e deter alvos.
 
 # Abstract entity (referenceable by children)
 ent-MobRogueSiliconDroneBase = drone
-    .desc = Hacked and reprogrammed by a rogue AI departmental drones.
+    .desc = Hackeados e reprogramados por uma IA renegada, drones departamentais.
 
-ent-MobRogueSiliconDroneLethals = 
-    .desc = Hacked by a rogue AI, these security drones are programmed to kill.
+ent-MobRogueSiliconDroneLethals
+    .desc = Hackeados por uma IA renegada, estes drones de segurança são programados para matar.
 
-ent-MobRogueSiliconDroneNonLethals = 
-    .desc = These engineering drones are capable of shooting disabler bolts. Dangerous in combination with other enemies.
+ent-MobRogueSiliconDroneNonLethals
+    .desc = Estes drones de engenharia são capazes de atirar projéteis desabilitadores. Perigosos em combinação com outros inimigos.
 
-ent-MobRogueSiliconDroneScience = 
-    .desc = A science drone, this rogue drone comes equipped with an experimental C.H.I.M.P. cannon.
+ent-MobRogueSiliconDroneScience
+    .desc = Um drone de ciência, este drone renegado vem equipado com um canhão C.H.I.M.P. experimental.
 
-ent-MobRogueSiliconGuardian = guardian unit
-    .desc = An advanced security silicon, typically used to safeguard high-security areas such as vaults and server rooms. After being hacked, this unit carries out the AI's will.
+ent-MobRogueSiliconGuardian = unidade guardiã
+    .desc = Um silício de segurança avançado, geralmente usado para salvaguardar áreas de alta segurança como cofres e salas de servidor. Depois de ser hackeado, esta unidade cumpre a vontade da IA.
 
-ent-MobRogueSiliconHerder = herder unit
-    .desc = This rogue silicon unit's primary directive is to corral and herd captives. Its stun prod can be used to good effect, take caution.
+ent-MobRogueSiliconHerder = unidade de condutor
+    .desc = A diretiva primária desta unidade de silício renegada é reunir e conduzir cativos. Seu picador de choque pode ser usado com bom efeito, tome cautela.
 
-ent-MobRogueSiliconHunter = hunter unit
-    .desc = These mobile drones are tasked with reconnaissance, threat identification, and target elimination.
+ent-MobRogueSiliconHunter = unidade caçadora
+    .desc = Estes drones móveis são encarregados de reconhecimento, identificação de ameaças e eliminação de alvos.
 
-ent-MobRogueSiliconScrapAsteroid = malfunctionnig scrap unit
+ent-MobRogueSiliconScrapAsteroid = unidade de sucata com defeito
 
 # Abstract entity (referenceable by children)
-ent-MobRogueSiliconScrapBase = scrap unit
-    .desc = These bots come in various shapes and forms, reflecting a wide range of designs and purposes. Many seem to be put together using locally available materials, leading to their disparate appearances. Notably, some units are equipped with thrusters and embedded laser weapons.
+ent-MobRogueSiliconScrapBase = unidade de sucata
+    .desc = Estes robôs vêm em várias formas e formas, refletindo uma ampla gama de designs e propósitos. Muitos parecem ser montados usando materiais localmente disponíveis, levando a suas aparências díspares. Notavelmente, algumas unidades estão equipadas com propulsores e armas laser embutidas.
 
-ent-MobRogueSiliconScrapThreadsAsteroid = malfunctionnig scrap unit
+ent-MobRogueSiliconScrapThreadsAsteroid = unidade de sucata com defeito
 
-ent-MobRogueSiliconScrapThrustersAsteroid = malfunctionnig scrap unit
+ent-MobRogueSiliconScrapThrustersAsteroid = unidade de sucata com defeito
 
-ent-MobRogueSiliconServo = servo unit
-    .desc = With its programming rewritten, this crash test dummy will stop at nothing in exacting its revenge.
+ent-MobRogueSiliconServo = unidade servo
+    .desc = Com sua programação reescrita, este boneco de teste de colisão não parará em nada para executar sua vingança.
 
-ent-MobRogueSiliconTesla = tesla unit
-    .desc = Originally designed to service tesla power generators, this silicon's equipment has been repurposed as a makeshift stun gun.
+ent-MobRogueSiliconTesla = unidade tesla
+    .desc = Originalmente projetado para servir geradores de energia tesla, o equipamento deste silício foi reaproveitado como arma de choque improvisada.
 
-ent-MobRogueSiliconViscerator = viscerator unit
-    .desc = Small, quick, and nimble, these drones are designed to chase its targets through narrow areas and incapacitate those it catches. Often accompanies catcher units.
+ent-MobRogueSiliconViscerator = unidade viscera
+    .desc = Pequenos, rápidos e ágeis, estes drones são projetados para perseguir seus alvos através de áreas estreitas e incapacitar aqueles que pegam. Frequentemente acompanha unidades captoras.
 
-ent-TeslaGunBulletRogueSilicon = tesla gun lightning
+ent-TeslaGunBulletRogueSilicon = raio de arma tesla
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_syndicate.yml
 
-ent-MobExperimentationVictim = captive
+ent-MobExperimentationVictim = cativo
 
 # Abstract entity (referenceable by children)
-ent-MobSyndicateNavalBase = syndicate naval agent
+ent-MobSyndicateNavalBase = agente naval do Sindicato
 
-ent-MobSyndicateNavalCaptainA = syndicate captain
-    .desc = The executive officer in lieu of the commander, syndicate captains ensure operations onboard go smoothly. Equipped with a 45_magnum revolver.
+ent-MobSyndicateNavalCaptainA = capitão do Sindicato
+    .desc = O oficial executivo em lugar do comandante, capitões do Sindicato garantem que operações a bordo ocorram suavemente. Equipado com um revólver 45_magnum.
 
 ent-MobSyndicateNavalCaptainB = {ent-MobSyndicateNavalBase}
 
@@ -3901,10 +4249,10 @@ ent-MobSyndicateNavalCaptainC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalCaptainD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalCaptainVoid = syndicate captain
+ent-MobSyndicateNavalCaptainVoid = capitão do Sindicato
 
-ent-MobSyndicateNavalChemwarriorA = syndicate chemwarrior
-    .desc = Carrying tanks filled with dangerous chemicals, chemwarriors attack their enemies with a noxious spray.
+ent-MobSyndicateNavalChemwarriorA = guerreiro químico do Sindicato
+    .desc = Carregando tanques cheios de produtos químicos perigosos, guerreiros químicos atacam seus inimigos com um spray nocivo.
 
 ent-MobSyndicateNavalChemwarriorB = {ent-MobSyndicateNavalBase}
 
@@ -3912,11 +4260,11 @@ ent-MobSyndicateNavalChemwarriorC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalChemwarriorD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalCommanderA = syndicate commander
-    .desc = A regional commander of Syndicate operations, this officer holds ultimate local command and responsibility. Armed with an assault rifle and heavily armored.
+ent-MobSyndicateNavalCommanderA = comandante do Sindicato
+    .desc = Um comandante regional de operações do Sindicato, este oficial detém comando local definitivo e responsabilidade. Armado com um rifle de assalto e pesadamente blindado.
 
-ent-MobSyndicateNavalDeckhandA = syndicate deckhand
-    .desc = Lowest ranking member of the Syndicate Naval Forces. Your regular \"Johnny-on-the-spot\" when it comes to menial tasks.
+ent-MobSyndicateNavalDeckhandA = marinheiro naval do Sindicato
+    .desc = Membro de menor patente das Forças Navais do Sindicato. Seu regular "pessoa-do-lugar" quando se trata de tarefas servis.
 
 ent-MobSyndicateNavalDeckhandB = {ent-MobSyndicateNavalBase}
 
@@ -3924,8 +4272,8 @@ ent-MobSyndicateNavalDeckhandC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalDeckhandD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalEngineerA = syndicate engineer
-    .desc = On a shuttle, the engineer has the annoying job of making sure absolutely everything is running correctly. Syndicate shuttles are no different.
+ent-MobSyndicateNavalEngineerA = engenheiro do Sindicato
+    .desc = Em uma nave, o engenheiro tem o trabalho irritante de garantir que absolutamente tudo esteja funcionando corretamente. Naves do Sindicato não são diferentes.
 
 ent-MobSyndicateNavalEngineerB = {ent-MobSyndicateNavalBase}
 
@@ -3933,8 +4281,8 @@ ent-MobSyndicateNavalEngineerC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalEngineerD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalGrenadierA = syndicate grenadier
-    .desc = \"Huh? Say it louder! I can't hear you!\" Equipped with the infamous China Lake, grenadiers have immense destructive capability, and should be priority targets.
+ent-MobSyndicateNavalGrenadierA = granadeiro do Sindicato
+    .desc = "Huh? Fale mais alto! Não consigo ouvir você!" Equipado com o infame China Lake, granadeiros têm capacidade destrutiva imensa, e devem ser alvos prioritários.
 
 ent-MobSyndicateNavalGrenadierB = {ent-MobSyndicateNavalBase}
 
@@ -3942,8 +4290,8 @@ ent-MobSyndicateNavalGrenadierC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalGrenadierD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalMedicA = syndicate medic
-    .desc = Medical specialist. Knows how to treat patients humanely and how to treat prisoners inhumanely. Uses darts laced with harmful chemicals - impedrezene or chloral hydrate.
+ent-MobSyndicateNavalMedicA = médico do Sindicato
+    .desc = Especialista médico. Sabe como tratar pacientes humanamente e como tratar prisioneiros desumanamente. Usa dardos impregnados de produtos químicos nocivos - impedrezene ou hidrato de cloral.
 
 ent-MobSyndicateNavalMedicB = {ent-MobSyndicateNavalBase}
 
@@ -3951,10 +4299,10 @@ ent-MobSyndicateNavalMedicC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalMedicD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalMime = syndicate mime
+ent-MobSyndicateNavalMime = mímico do Sindicato
 
-ent-MobSyndicateNavalOperatorA = syndicate operative
-    .desc = \"Everything is a nail if you have a hammer.\" In this case, everything is a target because he has an SMG and an itchy trigger finger.
+ent-MobSyndicateNavalOperatorA = operativo do Sindicato
+    .desc = "Tudo é um prego se você tem um martelo." Neste caso, tudo é um alvo porque ele tem um SMG e um dedo no gatilho coçando.
 
 ent-MobSyndicateNavalOperatorB = {ent-MobSyndicateNavalBase}
 
@@ -3962,8 +4310,8 @@ ent-MobSyndicateNavalOperatorC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalOperatorD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalSaboteurA = syndicate saboteur
-    .desc = Specialist trained in the art of sabotaging NT shuttles and facilities. Equipped with EMP rounds, take caution.
+ent-MobSyndicateNavalSaboteurA = sabotador do Sindicato
+    .desc = Especialista treinado na arte de sabotar naves e instalações da NT. Equipado com munição EMP, tome cautela.
 
 ent-MobSyndicateNavalSaboteurB = {ent-MobSyndicateNavalBase}
 
@@ -3971,8 +4319,8 @@ ent-MobSyndicateNavalSaboteurC = {ent-MobSyndicateNavalBase}
 
 ent-MobSyndicateNavalSaboteurD = {ent-MobSyndicateNavalBase}
 
-ent-MobSyndicateNavalSecondOfficerA = syndicate second officer
-    .desc = The captain's right hand is entrusted with relaying the captain's orders to the crew and ensuring they are carried out promptly. Carries a laser pistol for self-defense.
+ent-MobSyndicateNavalSecondOfficerA = segundo oficial do Sindicato
+    .desc = A mão direita do capitão é confiada com retransmitir as ordens do capitão à tripulação e garantir que sejam cumpridas prontamente. Carrega uma pistola laser para autodefesa.
 
 ent-MobSyndicateNavalSecondOfficerB = {ent-MobSyndicateNavalBase}
 
@@ -3983,65 +4331,65 @@ ent-MobSyndicateNavalSecondOfficerD = {ent-MobSyndicateNavalBase}
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_wizardfederation.yml
 
 # Abstract entity (referenceable by children)
-ent-MobWizFedlBase = Wizard
+ent-MobWizFedlBase = Mago
 
-ent-MobWizFedWizardBlue = Blue Wizard
+ent-MobWizFedWizardBlue = Mago Azul
 
-ent-MobWizFedWizardBlueHardsuit = Blue Wizard
+ent-MobWizFedWizardBlueHardsuit = Mago Azul
 
-ent-MobWizFedWizardRed = Red Wizard
+ent-MobWizFedWizardRed = Mago Vermelho
 
-ent-MobWizFedWizardRedHardsuit = Red Wizard
+ent-MobWizFedWizardRedHardsuit = Mago Vermelho
 
-ent-MobWizFedWizardSoap = Soap Wizard
+ent-MobWizFedWizardSoap = Mago Sabão
 
-ent-MobWizFedWizardSoapHardsuit = Soap Wizard
-    .suffix = AI, Hardsuit
+ent-MobWizFedWizardSoapHardsuit = Mago Sabão
+    .suffix = IA, Macacão
 
-ent-MobWizFedWizardViolet = Violet Wizard
+ent-MobWizFedWizardViolet = Mago Violeta
 
-ent-MobWizFedWizardVioletHardsuit = Violet Wizard
+ent-MobWizFedWizardVioletHardsuit = Mago Violeta
 
-ent-WaterElementalConjured = Blue Curacao Elemental
+ent-WaterElementalConjured = Elemental de Blue Curaçau
 
 # From: _NF/Entities/Mobs/NPCs/pets.yml
 
-ent-ActionEldritchPush = [color=yellow]Force Push[/color]
-    .desc = Summon forth an eldritch hand. [color=yellow]5 minute cooldown.[/color]
+ent-ActionEldritchPush = [color=yellow]Empurrão de Força[/color]
+    .desc = Convoca uma mão eldritch. [color=yellow]5 minutos de cooldown.[/color]
 
-ent-EldritchPushGun = eldritch hand gun
-    .desc = Shoots an eldritch hand.
+ent-EldritchPushGun = arma de mão eldritch
+    .desc = Atira uma mão eldritch.
 
-ent-MobCatBloodCult = blood cult cat
-    .desc = Founded the Blood Cult out of boredom.
+ent-MobCatBloodCult = gato de culto de sangue
+    .desc = Fundou o Culto de Sangue por tédio.
 
 ent-MobCatCappy = Cappy
-    .desc = First cat to shoot a gun.
+    .desc = Primeiro gato a atirar uma arma.
 
 ent-MobCatClarpy = Clarpy
-    .desc = First cat to gain a bounty.
+    .desc = Primeiro gato a ganhar uma recompensa.
 
 ent-MobCatClippy = Clippy
-    .desc = It looks like you’re writing a letter, would you like help?
+    .desc = Parece que você está escrevendo uma carta, gostaria de ajuda?
 
 ent-MobCatClugg = Clugg
 
 ent-MobCatElCapo = El Capo
-    .desc = Wanted for countless cat crimes.
+    .desc = Procurado por incontáveis crimes felinos.
 
 ent-MobCatMistake = Mistake
     .desc = ???
 
 ent-MobKoboldYipyip = Yip Yip
-    .desc = He lives in a pineapple on the Frontier!
+    .desc = Ele mora em um abacaxi na Fronteira!
 
 # From: _NF/Entities/Mobs/NPCs/silicon.yml
 
-ent-MobCleanBotSyndie = syndicate cleanbot
-    .desc = The creep of automation now threatening space janitors with a knife.
+ent-MobCleanBotSyndie = robô de limpeza do Sindicato
+    .desc = O assombro da automação agora ameaçando faxinas espaciais com uma faca.
 
-ent-MobHoverTaxiBot = hovertaxibot
-    .desc = Give a ride? IN SPAAAAACE!
+ent-MobHoverTaxiBot = hover-taxibot
+    .desc = Dar uma carona? NO ESPAÇO!
 
 # From: _NF/Entities/Mobs/Player/goblin_player.yml
 
@@ -4049,11 +4397,11 @@ ent-MobGoblin = Urist McGoblin
 
 # From: _NF/Entities/Mobs/Player/humanoid.yml
 
-ent-RandomHumanoidSpawnerERTMailCarrier = ERT mail carrier
-    .suffix = ERTRole, Basic
+ent-RandomHumanoidSpawnerERTMailCarrier = carteiro da ERT
+    .suffix = PapelERT, Básico
 
-ent-RandomHumanoidSpawnerERTMailCarrierEVA = ERT mail carrier
-    .suffix = ERTRole, Enviro EVA
+ent-RandomHumanoidSpawnerERTMailCarrierEVA = carteiro da ERT
+    .suffix = PapelERT, EVA de Ambiente
 
 # From: _NF/Entities/Mobs/Species/goblin.yml
 
@@ -4061,93 +4409,93 @@ ent-RandomHumanoidSpawnerERTMailCarrierEVA = ERT mail carrier
 ent-MobGoblinBase = Urist McGoblin
 
 ent-MobGoblinDummy = Urist McGoblin
-    .desc = A dummy goblin meant to be used in character setup.
+    .desc = Um gobo boneco destinado a ser usado na configuração de personagem.
 
 # From: _NF/Entities/Objects/Consumable/Drinks/condiments_bottles.yml
 
-ent-DrinkAstrotameJug = astrotame jug
-    .desc = The sweetness of a thousand sugars but none of the calories. Put it in your coffee.
+ent-DrinkAstrotameJug = galão de astrotame
+    .desc = A doçura de mil açúcares mas nenhuma das calorias. Coloque em seu café.
 
-ent-DrinkBbqSauceJug = bbq sauce jug
-    .desc = Finally, ketchup for grownups.
+ent-DrinkBbqSauceJug = galão de molho bbq
+    .desc = Finalmente, ketchup para adultos.
 
-ent-DrinkColdsauceJug = coldsauce jug
-    .desc = Something to make every meal a little cooler.
+ent-DrinkColdsauceJug = galão de coldsauce
+    .desc = Algo para tornar cada refeição um pouco mais fresca.
 
-ent-DrinkHorseradishSauceJug = horseradish sauce jug
-    .desc = Now with 50% more horse.
+ent-DrinkHorseradishSauceJug = galão de molho de rábano
+    .desc = Agora com 50% mais cavalo.
 
-ent-DrinkHotsauceJug = hotsauce jug
-    .desc = The antithesis of no more tears shampoo.
+ent-DrinkHotsauceJug = galão de hotsauce
+    .desc = O antônimo de xampu sem mais lágrimas.
 
-ent-DrinkKetchupJug = ketchup jug
-    .desc = Someone filled a tomato with sugar until it burst. Delicious.
+ent-DrinkKetchupJug = galão de ketchup
+    .desc = Alguém encheu um tomate com açúcar até estourar. Delicioso.
 
-ent-DrinkMustardJug = mustard jug
-    .desc = All of the implications of real mustard with none of the flavor.
+ent-DrinkMustardJug = galão de mostarda
+    .desc = Todas as implicações de mostarda real sem nenhum do sabor.
 
-ent-DrinkSoysauceJug = soy sauce jug
-    .desc = You can only dream of putting some of this on a bowl of rice.
+ent-DrinkSoysauceJug = galão de molho de soja
+    .desc = Você só pode sonhar em colocar um pouco disso em uma tigela de arroz.
 
 # From: _NF/Entities/Objects/Consumable/Drinks/drinks_keg.yml
 
 # Abstract entity (referenceable by children)
-ent-DrinkKegBase = cask
-    .desc = I don't have a drinking problem, the cask solved it.
+ent-DrinkKegBase = barril
+    .desc = Não tenho um problema de bebida, o barril resolveu.
 
-ent-DrinkKegPlastic = plastic cask
+ent-DrinkKegPlastic = barril de plástico
     .desc = {ent-DrinkKegBase.desc}
 
-ent-DrinkKegSteel = steel cask
+ent-DrinkKegSteel = barril de aço
     .desc = {ent-DrinkKegBase.desc}
 
-ent-DrinkKegWood = wood cask
+ent-DrinkKegWood = barril de madeira
     .desc = {ent-DrinkKegBase.desc}
 
 # From: _NF/Entities/Objects/Consumable/Drinks/drinks_special.yml
 
-ent-DrinkIceBucketEmpty = ice bucket
-    .suffix = Empty
-    .desc = A special bucket that was specifically designed to hold ice.
+ent-DrinkIceBucketEmpty = balde de gelo
+    .suffix = Vazio
+    .desc = Um balde especial que foi especificamente projetado para segurar gelo.
 
 # From: _NF/Entities/Objects/Consumable/Drinks/drinks.yml
 
-ent-CondimentCup = condiment cup
-    .desc = A flimsy cup that can be filled with condiments. Warranty void if filled with other things.
+ent-CondimentCup = copo de condimento
+    .desc = Um copo frágil que pode ser cheio de condimentos. Garantia anulada se cheio com outras coisas.
 
 # From: _NF/Entities/Objects/Consumable/Food/Baked/bread.yml
 
-ent-FoodBreadChallah = honey challah
-    .desc = Twisted bread sprinkled with poppy seeds.
+ent-FoodBreadChallah = challah de mel
+    .desc = Pão trançado polvilhado com sementes de papoula.
 
-ent-FoodBreadChallahSlice = challah slice
-    .desc = A slice of poppy and honey, oh my!
+ent-FoodBreadChallahSlice = fatia de challah
+    .desc = Uma fatia de papoula e mel, ai de mim!
 
 # From: _NF/Entities/Objects/Consumable/Food/Baked/donut.yml
 
-ent-FoodDonutUncooked = uncooked donut
-    .desc = Needs a moment in the deep fryer, then it'll be good to eat.
+ent-FoodDonutUncooked = donut não cozido
+    .desc = Precisa de um momento na fritadeira, então estará pronto para comer.
 
-ent-FoodDonutUncookedJelly = uncooked jelly donut
+ent-FoodDonutUncookedJelly = donut de geleia não cozido
 
 # From: _NF/Entities/Objects/Consumable/Food/Baked/misc.yml
 
-ent-FoodBakedAppleStrudelBite = apple strudel bite
-    .desc = Just put a little icing on top and enjoy!
+ent-FoodBakedAppleStrudelBite = mordida de strudel de maçã
+    .desc = Apenas coloque um pouco de cobertura por cima e aproveite!
 
-ent-FoodBakedCookieDivine = divine cookie
-    .desc = This cookie looks incredibly delicious. Whoever made it must really appreciate you.
+ent-FoodBakedCookieDivine = cookie divino
+    .desc = Este cookie parece incrivelmente delicioso. Quem o fez realmente deve apreciar você.
 
-ent-FoodBakedMuffinPear = pear muffin
-    .desc = I won't tell if you just try to pick out the chocolate.
+ent-FoodBakedMuffinPear = muffin de pera
+    .desc = Não contarei se você apenas tentar escolher o chocolate.
 
 # From: _NF/Entities/Objects/Consumable/Food/Baked/pie.yml
 
-ent-FoodPieAppleHoney = honey apple streusel pie
-    .desc = A pie full of honey-laced apples baked under a crumbly oat streusel topping.
+ent-FoodPieAppleHoney = torta de maçã e mel streusel
+    .desc = Uma torta cheia de maçãs impregnadas de mel assadas sob uma cobertura de streusel de aveia esfarelenta.
 
-ent-FoodPieAppleHoneySlice = slice of honey apple crumble pie
-    .desc = A slice of honey-laced apples baked under a crumbly oat streusel topping.
+ent-FoodPieAppleHoneySlice = fatia de torta de maçã e mel esfarelada
+    .desc = Uma fatia de maçãs impregnadas de mel assadas sob uma cobertura de streusel de aveia esfarelenta.
 
 ent-FoodTartPearCheese = torta de pera e queijo
     .desc = O par mais sublime.
@@ -4155,53 +4503,53 @@ ent-FoodTartPearCheese = torta de pera e queijo
 # From: _NF/Entities/Objects/Consumable/Food/burger.yml
 
 ent-FoodBurgerClurger = clurger
-    .desc = The Mail Carrier's favorite!
+    .desc = O favorito do Carteiro!
 
-ent-FoodBurgerRosyMothRoach = rosy mothroachburger
-    .desc = The last lamp it saw was the one inside the microwave.
+ent-FoodBurgerRosyMothRoach = mothroachburger rosa
+    .desc = A última lâmpada que viu foi a dentro do micro-ondas.
 
-ent-PrettyBurgerBlack = black pretty burger
-    .desc = It's pretty... black?
+ent-PrettyBurgerBlack = hambúrguer bonito preto
+    .desc = É bonito... preto?
 
-ent-PrettyBurgerBlue = blue pretty burger
-    .desc = It's pretty... blue?
+ent-PrettyBurgerBlue = hambúrguer bonito azul
+    .desc = É bonito... azul?
 
-ent-PrettyBurgerGreen = green pretty burger
-    .desc = It's pretty... green?
+ent-PrettyBurgerGreen = hambúrguer bonito verde
+    .desc = É bonito... verde?
 
-ent-PrettyBurgerOrange = orange pretty burger
-    .desc = It's pretty... orange?
+ent-PrettyBurgerOrange = hambúrguer bonito laranja
+    .desc = É bonito... laranja?
 
-ent-PrettyBurgerPurple = purple pretty burger
-    .desc = It's pretty... purple?
+ent-PrettyBurgerPurple = hambúrguer bonito roxo
+    .desc = É bonito... roxo?
 
-ent-PrettyBurgerRed = red pretty burger
-    .desc = It's pretty... red?
+ent-PrettyBurgerRed = hambúrguer bonito vermelho
+    .desc = É bonito... vermelho?
 
-ent-PrettyBurgerWhite = white pretty burger
-    .desc = It's pretty... white?
+ent-PrettyBurgerWhite = hambúrguer bonito branco
+    .desc = É bonito... branco?
 
-ent-PrettyBurgerYellow = yellow pretty burger
-    .desc = It's pretty... yellow?
+ent-PrettyBurgerYellow = hambúrguer bonito amarelo
+    .desc = É bonito... amarelo?
 
 # From: _NF/Entities/Objects/Consumable/Food/Containers/box.yml
 
-ent-FoodBoxSushi = sushi tray
-    .desc = Plastic sushi container with lid.
+ent-FoodBoxSushi = bandeja de sushi
+    .desc = Recipiente de plástico para sushi com tampa.
 
-ent-HappyHonkMcCargo = mccargo meal
+ent-HappyHonkMcCargo = refeição mccargo
 
 # From: _NF/Entities/Objects/Consumable/Food/Containers/condiments.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseFoodCondimentSqueezeBottle = squeeze bottle
-    .desc = A thin plastic container used to store condiments.
+ent-BaseFoodCondimentSqueezeBottle = garrafa squeeze
+    .desc = Um recipiente de plástico fino usado para armazenar condimentos.
 
-ent-FoodCondimentBottleSoysauce = soy sauce bottle
-    .desc = Used to season dishes to umami perfection. With extra sodium!
+ent-FoodCondimentBottleSoysauce = garrafa de molho de soja
+    .desc = Usado para temperar pratos à perfeição umami. Com sódio extra!
 
 ent-FoodCondimentSqueezeBottleClear = {ent-BaseFoodCondimentSqueezeBottle}
-    .desc = When it comes to squeeze bottles this is the clear choice.
+    .desc = Quando se trata de garrafas squeeze, esta é a escolha clara.
 
 ent-FoodCondimentSqueezeBottleKetchup = {ent-BaseFoodCondimentSqueezeBottle}
     .desc = {ent-BaseFoodCondimentSqueezeBottle.desc}
@@ -4212,893 +4560,901 @@ ent-FoodCondimentSqueezeBottleMustard = {ent-BaseFoodCondimentSqueezeBottle}
 # From: _NF/Entities/Objects/Consumable/Food/frozen.yml
 
 ent-FoodFrozenMochi = mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. Tasty!
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. Delicioso!
 
-ent-FoodFrozenMochiBungo = bungo mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. It's bungo flavored!
+ent-FoodFrozenMochiBungo = mochi de bungo
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. É sabor bungo!
 
-ent-FoodFrozenMochiCherry = cherry mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. It's cherry flavored!
+ent-FoodFrozenMochiCherry = mochi de cereja
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. É sabor cereja!
 
-ent-FoodFrozenMochiChocolate = chocolate mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. It's chocolate flavored!
+ent-FoodFrozenMochiChocolate = mochi de chocolate
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. É sabor chocolate!
 
-ent-FoodFrozenMochiFiber = fiber mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. It's woven with fiber!
+ent-FoodFrozenMochiFiber = mochi de fibra
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. É tecido com fibra!
 
-ent-FoodFrozenMochiMoth = rosy mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. It's almost too cute to eat! Almost.
+ent-FoodFrozenMochiMoth = mochi rosa
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. É quase fofo demais para comer! Quase.
 
-ent-FoodFrozenMochiTea = tea mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. It's infused with tea!
+ent-FoodFrozenMochiTea = mochi de chá
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. É infundido com chá!
 
-ent-FoodFrozenMochiUbe = ube mochi
-    .desc = A delicious blorb of chewey sticky rice encapsulating a core of ice cream. You're not sure if it's really ube.
+ent-FoodFrozenMochiUbe = mochi de ube
+    .desc = Um blob delicioso de arroz pegajoso mastigável encapsulando um núcleo de sorvete. Você não tem certeza se é realmente ube.
 
 # From: _NF/Entities/Objects/Consumable/Food/ingredients.yml
 
-ent-FoodCoffeeBeansRaw = raw coffee beans
-    .desc = Green coffee beans, just waiting to be roasted.
+ent-FoodCoffeeBeansRaw = grãos de café crus
+    .desc = Grãos de café verdes, esperando para ser torrados.
 
-ent-FoodCoffeeBeansRoastedDark = dark roasted coffee beans
-    .desc = Viennese roast coffee beans. Smoky and spicy.
+ent-FoodCoffeeBeansRoastedDark = grãos de café torrado escuro
+    .desc = Grãos de café torrado vienês. Defumado e picante.
 
-ent-FoodCoffeeBeansRoastedLight = light roasted coffee beans
-    .desc = Cinnamon roast coffee beans. Bright and fruity.
+ent-FoodCoffeeBeansRoastedLight = grãos de café torrado claro
+    .desc = Grãos de café torrado canela. Brilhante e frutado.
 
-ent-FoodCoffeeBeansRoastedMedium = medium roasted coffee beans
-    .desc = City roast coffee beans. Smooth and nutty.
+ent-FoodCoffeeBeansRoastedMedium = grãos de café torrado médio
+    .desc = Grãos de café torrado cidade. Suave e amendoado.
 
-ent-FoodDoughFlatButtered = buttered flat dough
-    .desc = A buttered, flattened dough.
+ent-FoodDoughFlatButtered = massa achatada com manteiga
+    .desc = Uma massa achatada amanteigada.
 
-ent-FoodDoughFlatPastry = pastry dough
-    .desc = A buttery, rolled out pastry dough.
+ent-FoodDoughFlatPastry = massa de pastelaria
+    .desc = Uma massa de pastelaria amanteigada, estendida.
 
-ent-FoodRiceDough = rice dough
-    .desc = You're pretty sure this is just rice and water. You have no idea how it's holding together.
+ent-FoodRiceDough = massa de arroz
+    .desc = Você tem certeza que é apenas arroz e água. Você não tem ideia como está se segurando junto.
 
-ent-FoodRiceDoughSlice = rice dough slice
-    .desc = A slice of rice dough.
+ent-FoodRiceDoughSlice = fatia de massa de arroz
+    .desc = Uma fatia de massa de arroz.
 
-ent-FoodRiceNoodles = rice noodles
-    .desc = A nest of delicate rice noodles. Probably better cooked.
+ent-FoodRiceNoodles = macarrão de arroz
+    .desc = Um ninho de macarrão de arroz delicado. Provavelmente melhor cozido.
 
-ent-FoodRiceNoodlesSheet = rice noodles sheet
-    .desc = A sheet of rice, ready to be chopped into noodles. Probably better cooked.
+ent-FoodRiceNoodlesSheet = folha de macarrão de arroz
+    .desc = Uma folha de arroz, pronta para ser picada em macarrão. Provavelmente melhor cozida.
 
-ent-FoodSausageCasing = sausage casing
-    .desc = The intestine or some equivalent of some poor creature out there..
+ent-FoodSausageCasing = envoltório de salsicha
+    .desc = O intestino ou algum equivalente de alguma criatura pobre por aí..
 
-ent-FoodSausageRaw = raw sausage
-    .desc = A simple sausage. Who knows what's in this thing?
+ent-FoodSausageRaw = salsicha crua
+    .desc = Uma salsicha simples. Quem sabe o que há nisso?
 
-ent-ReagentContainerChocolate = cocoa powder bag
-    .desc = A big bag of cocoa powder. Good for cooking!
+ent-ReagentContainerChocolate = saco de pó de cacau
+    .desc = Um saco grande de pó de cacau. Bom para cozinhar!
 
-ent-ReagentContainerHoney = honey bottle
-    .desc = A big squeeze bottle of honey. Great for sweetening up your day!
+ent-ReagentContainerHoney = garrafa de mel
+    .desc = Uma garrafa squeeze grande de mel. Ótimo para adoçar seu dia!
 
-ent-ReagentContainerPepper = pepper container
-    .desc = A big container of pepper. Good for cooking!
+ent-ReagentContainerPepper = recipiente de pimenta
+    .desc = Um recipiente grande de pimenta. Bom para cozinhar!
 
-ent-ReagentContainerRaisin = raisin bag
-    .desc = A big bag of raisins. Good for baking!
+ent-ReagentContainerRaisin = saco de passas
+    .desc = Um saco grande de passas. Bom para assar!
 
-ent-ReagentContainerSalt = salt container
-    .desc = A big container of salt. Good for cooking!
+ent-ReagentContainerSalt = recipiente de sal
+    .desc = Um recipiente grande de sal. Bom para cozinhar!
 
 # From: _NF/Entities/Objects/Consumable/Food/meals.yml
 
-ent-FoodBreadAvocadoToast = avocado toast
-    .desc = It was this or home ownership.
+ent-FoodBreadAvocadoToast = torrada de abacate
+    .desc = Era isto ou propriedade residencial.
 
-ent-FoodMealBasicNoodles = basic noodles
-    .desc = A simple ramen bowl of noodles and broth. Yum!
+ent-FoodMealBasicNoodles = macarrão básico
+    .desc = Uma tigela simples de macarrão ramen e caldo. Hum!
 
-ent-FoodMealBreakfastBagel = breakfast bagel
-    .desc = For when your morning egg sandwich needs a touch of green and quadruple the asking price.
+ent-FoodMealBreakfastBagel = bagel de café da manhã
+    .desc = Para quando seu sanduíche de ovo matinal precisa de um toque de verde e quádruplo do preço pedido.
 
-ent-FoodMealBreakfastBagelPoppy = poppyseed breakfast bagel
-    .desc = The miners breakfast. Take a bite everytime you get punched in the face.
+ent-FoodMealBreakfastBagelPoppy = bagel de café da manhã com sementes de papoula
+    .desc = O café da manhã dos mineiros. Dê uma mordida cada vez que você leva um soco na cara.
 
-ent-FoodMealCucumberSandwich = cucumber sandwich
-    .desc = They forgot to cut the crusts off AGAIN.
+ent-FoodMealCucumberSandwich = sanduíche de pepino
+    .desc = Eles esqueceram de cortar as cascas NOVAMENTE.
 
-ent-FoodMealDragonOmelette = dragon omelette
-    .desc = The mother of all omelettes.
+ent-FoodMealDragonOmelette = omelete dragão
+    .desc = A mãe de todas as omeletes.
 
 ent-FoodMealHotdog = hotdog
     .desc = Hot diggity dog!
 
-ent-FoodMealMisoNoodles = miso noodles
-    .desc = Miso, or fermented bean paste, broth with scallion and egg. Robust!
+ent-FoodMealMisoNoodles = macarrão miso
+    .desc = Caldo de miso, ou pasta de feijão fermentado, com cebolinha e ovo. Robusto!
 
-ent-FoodMealPearsBelleHelene = pears belle helene
-    .desc = The delicate flavor of the immaculate pear drenched in chocolate.
+ent-FoodMealPearsBelleHelene = pêras belle helene
+    .desc = O sabor delicado da pêra imaculada banhada em chocolate.
 
-ent-FoodMealPoachedPears = poached pears
-    .desc = The classiest use for a can of wine.
+ent-FoodMealPoachedPears = pêras escalfadas
+    .desc = O uso mais classe para uma lata de vinho.
 
-ent-FoodMealShioNoodles = shio noodles
-    .desc = Sea salt broth with corn and seaweed. Light!
+ent-FoodMealShioNoodles = macarrão shio
+    .desc = Caldo de sal do mar com milho e algas. Leve!
 
-ent-FoodMealShoyuNoodles = shoyu noodles
-    .desc = Soy sauce broth with corn, egg, and pork. Salty!
+ent-FoodMealShoyuNoodles = macarrão shoyu
+    .desc = Caldo de molho de soja com milho, ovo e porco. Salgado!
 
-ent-FoodMealSpicyNoodles = spicy noodles
-    .desc = A not-so-simple ramen bowl of noodles, broth, and tofu. Hot!
+ent-FoodMealSpicyNoodles = macarrão picante
+    .desc = Uma tigela de macarrão ramen nada simples, caldo e tofu. Quente!
 
-ent-FoodMealTonkatsuNoodles = tonkatsu noodles
-    .desc = Pork bone broth with garlic and pork. Rich!
+ent-FoodMealTonkatsuNoodles = macarrão tonkatsu
+    .desc = Caldo de osso de porco com alho e porco. Rico!
 
-ent-FoodMeatSausage = cooked sausage
-    .desc = A simple sausage. Who knows what's in this thing?
+ent-FoodMeatSausage = salsicha cozida
+    .desc = Uma salsicha simples. Quem sabe o que há nisso?
 
-ent-FoodSaladAvocado = avocado salad
-    .desc = You were so close to making guacamole. So close.
+ent-FoodSaladAvocado = salada de abacate
+    .desc = Você estava tão perto de fazer guacamole. Tão perto.
 
-ent-FoodSaladGreek = greek salad
-    .desc = This is the salad everyone is eating in those commercials.
+ent-FoodSaladGreek = salada grega
+    .desc = Esta é a salada que todos estão comendo naqueles comerciais.
 
-ent-MobCatCrispy = crispy
-    .desc = Mistakes were made.
+ent-MobCatCrispy = crocante
+    .desc = Erros foram cometidos.
 
 ent-MobCatSpooky = spooky
     .suffix = Admeme
-    .desc = A grave mistake.
+    .desc = Um erro grave.
 
 # From: _NF/Entities/Objects/Consumable/Food/meat_goblin.yml
 
-ent-FoodMeatGoblin = raw goblin meat
-    .desc = Just look at that marbling! Wait, is that microplastic?
+ent-FoodMeatGoblin = carne de goblin crua
+    .desc = Olhe aquele marmoreio! Espera, é microplástico?
 
 # From: _NF/Entities/Objects/Consumable/Food/meat.yml
 
-ent-FoodCuredCarp = raw fish fillet
-    .desc = A slice of fresh space fish, safe to eat. Smells like space and fish.
+ent-FoodCuredCarp = filé de peixe cru
+    .desc = Uma fatia de peixe do espaço fresco, seguro para comer. Cheira a espaço e peixe.
 
-ent-FoodCuredCarpBattered = battered raw fish fillet
-    .desc = A slice of fresh space fish, dredged in a gloopy flour and egg mixture.
+ent-FoodCuredCarpBattered = filé de peixe cru empanado
+    .desc = Uma fatia de peixe do espaço fresco, envolto em uma mistura pegajosa de farinha e ovo.
 
-ent-FoodCuredCarpFried = fried fish
-    .desc = A delicious slice of fish, crispy and fried to perfection.
+ent-FoodCuredCarpFried = peixe frito
+    .desc = Uma fatia deliciosa de peixe, crocante e frito à perfeição.
 
-ent-FoodMeatCat = prime-cut cat meat
-    .desc = The tainted gift of an evil crime. The meat may be delicious, but at what cost?
+ent-FoodMeatCat = carne de gato de primeiro corte
+    .desc = O dom contaminado de um crime maligno. A carne pode ser deliciosa, mas a que custo?
 
-ent-FoodMeatChickenBattered = breaded chicken
-    .desc = Chicken dredged in a gloopy flour and egg mixture.
+ent-FoodMeatChickenBattered = frango empanado
+    .desc = Frango envolto em uma mistura pegajosa de farinha e ovo.
 
-ent-FoodMeatChickenCutletBattered = breaded chicken cutlet
-    .desc = A cut of chicken, dredged in a gloopy flour and egg mixture.
+ent-FoodMeatChickenCutletBattered = bife de frango empanado
+    .desc = Um corte de franco, envolto em uma mistura pegajosa de farinha e ovo.
 
-ent-FoodMeatGlazedHam = honey glazed ham
-    .desc = A slow-cooked ham, glazed in caramelized honey and cured with salt.
+ent-FoodMeatGlazedHam = presunto glacado com mel
+    .desc = Um presunto cozido lentamente, glacado em mel caramelizado e curado com sal.
 
-ent-FoodMeatGlazedHamSlice = honey glazed ham slice
-    .desc = A slice of wonderful ham, glazed in delicious honey.
+ent-FoodMeatGlazedHamSlice = fatia de presunto glacado com mel
+    .desc = Uma fatia de presonto maravilhoso, glacado em mel delicioso.
 
 # From: _NF/Entities/Objects/Consumable/Food/produce.yml
 
-ent-FoodAvocado = avocado
-    .desc = Like delicious buttery grass.
+ent-FoodAvocado = abacate
+    .desc = Como grama amanteigada deliciosa.
 
-ent-FoodAvocadoSlice = avocado slice
-    .desc = Like delicious, fun-sized buttery grass.
+ent-FoodAvocadoSlice = fatia de abacate
+    .desc = Como grama amanteigada deliciosa, tamanho diversão.
 
-ent-FoodCoffee = coffee berries
-    .desc = Red berries encasing coffee beans.
+ent-FoodCoffee = frutas de café
+    .desc = Bagas vermelhas encapsulando grãos de café.
 
-ent-FoodCucumber = cucumber
-    .desc = Like fresh crispy water.
+ent-FoodCucumber = pepino
+    .desc = Como água crocante fresca.
 
-ent-FoodCucumberSlice = cucumber slice
-    .desc = Like fresh crispy water, but smaller.
+ent-FoodCucumberSlice = fatia de pepino
+    .desc = Como água crocante fresca, mas menor.
 
-ent-FoodHoneyComb = honeycomb
-    .desc = Crispy container of honey.
+ent-FoodHoneyComb = favo de mel
+    .desc = Recipiente crocante de mel.
 
-ent-FoodPear = pear
-    .desc = It's peary good.
+ent-FoodPear = pera
+    .desc = É pera-bom.
 
-ent-FoodPickle = pickle
-    .desc = Like tangy crispy water.
+ent-FoodPickle = picles
+    .desc = Como água crocante azeda.
 
-ent-FoodPickleSlice = pickle slice
-    .desc = Like tangy crispy water, but smaller.
+ent-FoodPickleSlice = fatia de picles
+    .desc = Como água crocante azeda, mas menor.
 
-ent-FoodPotatoSlice = sliced potato
-    .desc = Raw potato sticks ready for the deep fryer.
+ent-FoodPotatoSlice = batata fatiada
+    .desc = Bastões de batata crua prontos para a fritadeira.
 
 # From: _NF/Entities/Objects/Consumable/Food/spoiled.yml
 
-ent-FoodBurgerBaconRotten = rotten burger
+ent-FoodBurgerBaconRotten = hambúrguer podre
 
-ent-FoodBurgerBigBiteRotten = rotten burger
+ent-FoodBurgerBigBiteRotten = hambúrguer podre
 
-ent-FoodBurgerCheeseRotten = rotten burger
+ent-FoodBurgerCheeseRotten = hambúrguer podre
 
-ent-FoodBurgerEmpoweredRotten = rotten burger
+ent-FoodBurgerEmpoweredRotten = hambúrguer podre
 
-ent-FoodBurgerPlainRotten = rotten burger
+ent-FoodBurgerPlainRotten = hambúrguer podre
 
-ent-FoodNoodlesMeatballMoldy = moldy food
+ent-FoodNoodlesMeatballMoldy = comida mofada
 
-ent-FoodNoodlesMoldy = moldy food
+ent-FoodNoodlesMoldy = comida mofada
 
-ent-FoodRiceEggMoldy = moldy food
+ent-FoodRiceEggMoldy = comida mofada
 
-ent-FoodSaladCaesarMoldy = moldy food
+ent-FoodSaladCaesarMoldy = comida mofada
 
-ent-FoodSoupMeatballMoldy = moldy food
+ent-FoodSoupMeatballMoldy = comida mofada
 
-ent-FoodSpoiledMoldy = moldy food
-    .desc = It's probably still edible, just need to scrape this thing off. And this one too. And this one.
+ent-FoodSpoiledMoldy = comida mofada
+    .desc = Provavelmente ainda comestível, apenas precisa raspar esta coisa fora. E esta também. E esta também.
 
-ent-FoodSpoiledRotten = rotten food
-    .desc = It's probably still edible, just need to scrape this thing off. And this one too. And this one.
+ent-FoodSpoiledRotten = comida podre
+    .desc = Provavelmente ainda comestível, apenas precisa raspar esta coisa fora. E esta também. E esta também.
 
 # From: _NF/Entities/Objects/Consumable/Food/sushi.yml
 
-ent-CuredCarpSushi = fresh fish sushi
-    .desc = Less risky, still delicious. You're still not sure where the seaweed came from.
+ent-CuredCarpSushi = sushi de peixe fresco
+    .desc = Menos arriscado, ainda delicioso. Você ainda não tem certeza de onde a alga veio.
 
-ent-FoodMealAvocadoSushi = avocado sushi
-    .desc = Where did the seaweed come from?
+ent-FoodMealAvocadoSushi = sushi de abacate
+    .desc = De onde veio a alga?
 
-ent-FoodMealAvocadoSushiSlice = avocado sushi
-    .desc = Where did the seaweed come from?
+ent-FoodMealAvocadoSushiSlice = sushi de abacate
+    .desc = De onde veio a alga?
 
-ent-FoodMealCarpSushi = carp sushi
-    .desc = Certainly worth the risk.
+ent-FoodMealCarpSushi = sushi de carpa
+    .desc = Certamente vale o risco.
 
-ent-FoodMealCarpSushiSlice = carp sushi
-    .desc = Certainly worth the smaller risk.
+ent-FoodMealCarpSushiSlice = sushi de carpa
+    .desc = Certamente vale o risco menor.
 
-ent-FoodMealCuredCarpSushiSlice = fresh fish sushi
-    .desc = Even less risky, still delicious. You're still not sure where the seaweed came from.
+ent-FoodMealCuredCarpSushiSlice = sushi de peixe fresco
+    .desc = Ainda menos arriscado, ainda delicioso. Você ainda não tem certeza de onde a alga veio.
 
-ent-FoodMealGasSafeSushiSlice = gas station sushi
-    .suffix = Safe
-    .desc = Is it worth the risk?
+ent-FoodMealGasSafeSushiSlice = sushi de posto de gasolina
+    .suffix = Seguro
+    .desc = Vale o risco?
 
 # From: _NF/Entities/Objects/Consumable/Smokables/Pipes/tobacco_pouch.yml
 
-ent-TobaccoPouchBlueFilled = \"Stonecut Leaf\" pouch
+ent-TobaccoPouchBlueFilled = bolsa "Folha de Pedra"
+    .suffix = Cheio
+    .desc = Um rótulo na embalagem orgulhosamente declara que o tabaco de cachimbo é misturado com o pó mais fino dos minerais mais raros, a lista de minerais ocupa a maior parte do espaço do rótulo.
 .suffix = Cheio
     .desc = A label on the packaging proudly declares that the pipe-weed is mixed with the finest dust of rarest minerals, the list of minerals occupies most of the label space.
 
-ent-TobaccoPouchBrownFilled = \"Galaxy Core Blend\" pouch
+ent-TobaccoPouchBrownFilled = bolsa "Mix Núcleo da Galáxia"
+    .suffix = Cheio
+    .desc = Uma coleção ardente de tabacos exóticos, cada folha revestida com agente preservante. Você deve lavar antes de fumar?
 .suffix = Cheio
     .desc = A fiery collection of exotic tobaccos, each leaf coated with preserving agent. Should you wash it off before smoking?
 
-ent-TobaccoPouchPurpleFilled = \"Sweet Dreams\" pouch
+ent-TobaccoPouchPurpleFilled = bolsa "Sonhos Doces"
+    .suffix = Cheio
+    .desc = Esta bolsa de tabaco anuncia seus fumantes sendo "abençoados com sono aconchegante e reparador", seja lá o que isso signifique.
 .suffix = Cheio
     .desc = This tobacco pouch advertises its smokers being \"blessed with cozy, restful sleeps\", whatever that means.
 
-ent-TobaccoPouchRedFilled = \"Fungal Whiff\" pouch
+ent-TobaccoPouchRedFilled = bolsa "Cheiro Fúngico"
+    .suffix = Cheio
+    .desc = Cultivado profundamente nas florestas de cogumelos, Cheiro Fúngico oferece uma fumaça suave e terrosa perfeita para aqueles momentos contemplativos passados planejando o próximo roubo.
 .suffix = Cheio
     .desc = Grown deep within the mushroom forests, Fungal Whiff offers a mellow, earthy smoke that's perfect for those contemplative moments spent plotting the next heist.
 
 # From: _NF/Entities/Objects/Devices/admin_hand_teleporter.yml
 
-ent-HandTeleporterAdmin = 
+ent-HandTeleporterAdmin
     .suffix = Admeme
-    .desc = An upgraded Teleporter that can ignore some restrictions the original had, but is strongly restricted to experienced CC users.
+    .desc = Um Teleporter melhorado que pode ignorar algumas restrições que o original tinha, mas é fortemente restrito a usuários CC experientes.
 
 # From: _NF/Entities/Objects/Devices/cartridges.yml
 
-ent-AppraisalCartridge = AppraiseAll cartridge
-    .desc = A program for appraising the monetary value of items.
+ent-AppraisalCartridge = cartucho AppraiseAll
+    .desc = Um programa para avaliar o valor monetário de itens.
 
-ent-BountyContractsCartridge = bounty contracts cartridge
-    .desc = A program for tracking and placing bounty contracts.
+ent-BountyContractsCartridge = cartucho de contratos de recompensa
+    .desc = Um programa para rastrear e colocar contratos de recompensa.
 
-ent-ContrabandForensicsModule = contraband forensics module
-    .desc = A program for scanning and reporting contraband dead drops and pods for bounties.
+ent-ContrabandForensicsModule = módulo forense de contrabando
+    .desc = Um programa para escanear e reportar depósitos e cápsulas de contrabando para recompensas.
 
-ent-LedgerCartridge = SpesoFlow Lite cartridge
-    .desc = A program for keeping track of sector bank accounts.
+ent-LedgerCartridge = cartucho SpesoFlow Lite
+    .desc = Um programa para manter controle de contas bancárias do setor.
 
 # From: _NF/Entities/Objects/Devices/Circuitboards/computer.yml
 
-ent-ComputerWithdrawBankATMComputerCircuitboard = withdraw only atm computer board
-    .desc = A computer printed circuit board for a withdraw only atm computer.
+ent-ComputerWithdrawBankATMComputerCircuitboard = placa de computador de ATM apenas saque
+    .desc = Uma placa de circuito impresso de computador para um computador ATM apenas saque.
 
 # From: _NF/Entities/Objects/Devices/door_remote.yml
 
-ent-DoorRemoteNfsd = TSFMC door remote
+ent-DoorRemoteNfsd = controle remoto de portas TSFMC
 
 # From: _NF/Entities/Objects/Devices/encryption_keys.yml
 
-ent-EncryptionKeyDoc = medical dispatch encryption key
-    .desc = An encryption key for coordinating medical dispatch.
+ent-EncryptionKeyDoc = chave de criptografia de despacho médico
+    .desc = Uma chave de criptografia para coordenar despacho médico.
 
-ent-EncryptionKeyNfsd = TSFMC encryption key
-    .desc = An encryption key for the TSFMC channel.
+ent-EncryptionKeyNfsd = chave de criptografia TSFMC
+    .desc = Uma chave de criptografia para o canal TSFMC.
 
-ent-EncryptionKeyTraffic = shortband encryption key
-    .desc = An encryption key for the shortband channel. Limited to a 750 meters range.
+ent-EncryptionKeyTraffic = chave de criptografia de banda curta
+    .desc = Uma chave de criptografia para o canal de banda curta. Limitado a um alcance de 750 metros.
 
 # From: _NF/Entities/Objects/Devices/flatpacks.yml
 
-ent-AirlockFlatpack = airlock flatpack
-    .desc = A flatpack used for constructing an airlock.
+ent-AirlockFlatpack = flatpack de airlock
+    .desc = Um flatpack usado para construir um airlock.
 
-ent-AirlockGlassFlatpack = glass airlock flatpack
-    .desc = A flatpack used for constructing an airlock.
+ent-AirlockGlassFlatpack = flatpack de airlock de vidro
+    .desc = Um flatpack usado para construir um airlock.
 
-ent-AirlockGlassShuttleFlatpack = docking glass airlock flatpack
-    .desc = A flatpack used for constructing a glass docking airlock.
+ent-AirlockGlassShuttleFlatpack = flatpack de airlock de vidro de acoplamento
+    .desc = Um flatpack usado para construir um airlock de vidro de acoplamento.
 
-ent-AirlockShuttleFlatpack = docking airlock flatpack
-    .desc = A flatpack used for constructing a docking airlock.
+ent-AirlockShuttleFlatpack = flatpack de airlock de acoplamento
+    .desc = Um flatpack usado para construir um airlock de acoplamento.
 
-ent-AmeControllerUnanchoredFlatpack = AME controller flatpack
-    .desc = A flatpack used for constructing an AME controller.
+ent-AmeControllerUnanchoredFlatpack = flatpack de controlador AME
+    .desc = Um flatpack usado para construir um controlador AME.
 
-ent-AmmoTechFabFlatpack = ammo techfab flatpack
-    .desc = A flatpack used for constructing an ammo techfab.
+ent-AmmoTechFabFlatpack = flatpack de techfab de munição
+    .desc = Um flatpack usado para construir uma techfab de munição.
 
-ent-AutolatheFlatpack = autolathe flatpack
-    .desc = A flatpack used for constructing an autolathe.
+ent-AutolatheFlatpack = flatpack de autolathe
+    .desc = Um flatpack usado para construir uma autolathe.
 
-ent-BaseGasCondenserFlatpack = gas condenser flatpack
-    .desc = A flatpack used for constructing a gas condenser.
+ent-BaseGasCondenserFlatpack = flatpack de condensador de gás
+    .desc = Um flatpack usado para construir um condensador de gás.
 
-ent-BlueprintLithographFlatpack = blueprint lithograph flatpack
-    .desc = A flatpack used for constructing a blueprint lithograph.
+ent-BlueprintLithographFlatpack = flatpack de litógrafo de projetos
+    .desc = Um flatpack usado para construir um litógrafo de projetos.
 
-ent-BorgChargerFlatpack = borg charger flatpack
-    .desc = A flatpack used for constructing a borg charger.
+ent-BorgChargerFlatpack = flatpack de carregador de borg
+    .desc = Um flatpack usado para construir um carregador de borg.
 
-ent-ChemistryHotplateFlatpack = hotplate flatpack
-    .desc = A flatpack used for constructing a hotplate.
+ent-ChemistryHotplateFlatpack = flatpack de placa aquecida
+    .desc = Um flatpack usado para construir uma placa aquecida.
 
-ent-ChemMasterFlatpack = chemmaster flatpack
-    .desc = A flatpack used for constructing a chemmaster.
+ent-ChemMasterFlatpack = flatpack de chemmaster
+    .desc = Um flatpack usado para construir uma chemmaster.
 
-ent-ChurchOrganInstrumentFlatpack = church organ flatpack
-    .desc = A flatpack containing a church organ.
+ent-ChurchOrganInstrumentFlatpack = flatpack de órgão de igreja
+    .desc = Um flatpack contendo um órgão de igreja.
 
-ent-CircuitImprinterFlatpack = circuit imprinter flatpack
-    .desc = A flatpack used for constructing a circuit imprinter.
+ent-CircuitImprinterFlatpack = flatpack de impressora de circuitos
+    .desc = Um flatpack usado para construir uma impressora de circuitos.
 
-ent-ComputerAnalysisConsoleFlatpack = analysis console flatpack
-    .desc = A flatpack used for constructing an analysis console.
+ent-ComputerAnalysisConsoleFlatpack = flatpack de console de análise
+    .desc = Um flatpack usado para construir um console de análise.
 
-ent-ComputerCrewMonitoringFlatpack = crew monitoring console flatpack
-    .desc = A flatpack used for constructing a crew monitoring console.
+ent-ComputerCrewMonitoringFlatpack = flatpack de console de monitoramento de tripulação
+    .desc = Um flatpack usado para construir um console de monitoramento de tripulação.
 
-ent-ComputerIFFFlatpack = IFF computer flatpack
-    .desc = A flatpack used for constructing a IFF computer.
+ent-ComputerIFFFlatpack = flatpack de computador IFF
+    .desc = Um flatpack usado para construir um computador IFF.
 
-ent-ComputerResearchAndDevelopmentFlatpack = research and development computer flatpack
-    .desc = A flatpack used for constructing a research and development computer.
+ent-ComputerResearchAndDevelopmentFlatpack = flatpack de computador de pesquisa e desenvolvimento
+    .desc = Um flatpack usado para construir um computador de pesquisa e desenvolvimento.
 
-ent-ComputerWithdrawBankATMFlatpack = withdraw only atm flatpack
-    .desc = A flatpack used for constructing an atm. Best not to think about it.
+ent-ComputerWithdrawBankATMFlatpack = flatpack de ATM apenas saque
+    .desc = Um flatpack usado para construir um ATM. Melhor não pensar sobre isso.
 
-ent-ContrabassInstrumentFlatpack = contrabass flatpack
-    .desc = A flatpack containing a contrabass.
+ent-ContrabassInstrumentFlatpack = flatpack de contrabaixo
+    .desc = Um flatpack contendo um contrabaixo.
 
-ent-CryoPodFlatpack = cryo pod flatpack
-    .desc = A flatpack used for constructing a cryo pod.
+ent-CryoPodFlatpack = flatpack de cápsula de criônica
+    .desc = Um flatpack usado para construir uma cápsula de criônica.
 
-ent-CutterMachineFlatpack = cutter machine flatpack
-    .desc = A flatpack used for constructing a tile-meister 5000.
+ent-CutterMachineFlatpack = flatpack de máquina de corte
+    .desc = Um flatpack usado para construir uma tile-meister 5000.
 
-ent-DawInstrumentFlatpack = DAW flatpack
-    .desc = A flatpack containing a digital audio workstation.
+ent-DawInstrumentFlatpack = flatpack de DAW
+    .desc = Um flatpack contendo uma estação de trabalho de áudio digital.
 
-ent-EngineeringTechFabFlatpack = engineering techfab flatpack
-    .desc = A flatpack used for constructing an engineering techfab.
+ent-EngineeringTechFabFlatpack = flatpack de techfab de engenharia
+    .desc = Um flatpack usado para construir uma techfab de engenharia.
 
-ent-ExosuitFabricatorFlatpack = exosuit fabricator flatpack
-    .desc = A flatpack used for constructing an exosuit fabricator.
+ent-ExosuitFabricatorFlatpack = flatpack de fabricadora de exotrajes
+    .desc = Um flatpack usado para construir uma fabricadora de exotrajes.
 
-ent-GasThermoMachineFreezerFlatpack = freezer flatpack
-    .desc = A flatpack used for constructing a freezer.
+ent-GasThermoMachineFreezerFlatpack = flatpack de freezer
+    .desc = Um flatpack usado para construir um freezer.
 
-ent-GeneratorRTGDamagedFlatpack = RTG generator flatpack
-    .suffix = Damaged
-    .desc = A flatpack used for constructing a Radioisotope Thermoelectric Generator. The packaging seems to be somewhat damaged.
+ent-GeneratorRTGDamagedFlatpack = flatpack de gerador RTG
+    .suffix = Danificado
+    .desc = Um flatpack usado para construir um Gerador Termoelétrico de Radioisótopos. A embalagem parece estar um pouco danificada.
 
-ent-GeneratorRTGFlatpack = RTG generator flatpack
-    .desc = A flatpack used for constructing a Radioisotope Thermoelectric Generator.
+ent-GeneratorRTGFlatpack = flatpack de gerador RTG
+    .desc = Um flatpack usado para construir um Gerador Termoelétrico de Radioisótopos.
 
-ent-HarpInstrumentFlatpack = harp flatpack
-    .desc = A flatpack containing a harp.
+ent-HarpInstrumentFlatpack = flatpack de harpa
+    .desc = Um flatpack contendo uma harpa.
 
-ent-HoverbikeFlatpack = hoverbike flatpack
-    .desc = A flatpack used for constructing a hoverbike. Keys already slotted in the ignition.
+ent-HoverbikeFlatpack = flatpack de hoverbike
+    .desc = Um flatpack usado para construir uma hoverbike. Chaves já encaixadas na ignição.
 
-ent-HoverbikeMailcarrierFlatpack = mail carrier hoverbike flatpack
-    .desc = A flatpack used for constructing a hoverbike. Keys already slotted in the ignition.
+ent-HoverbikeMailcarrierFlatpack = flatpack de hoverbike de carteiro
+    .desc = Um flatpack usado para construir uma hoverbike. Chaves já encaixadas na ignição.
 
-ent-HoverbikeNfsdFlatpack = TSFMC hoverbike flatpack
-    .desc = A flatpack used for constructing a hoverbike. Keys already slotted in the ignition.
+ent-HoverbikeNfsdFlatpack = flatpack de hoverbike TSFMC
+    .desc = Um flatpack usado para construir uma hoverbike. Chaves já encaixadas na ignição.
 
-ent-HoverbikePirateFlatpack = pirate hoverbike flatpack
-    .desc = A flatpack used for constructing a hoverbike. Keys already slotted in the ignition.
+ent-HoverbikePirateFlatpack = flatpack de hoverbike pirata
+    .desc = Um flatpack usado para construir uma hoverbike. Chaves já encaixadas na ignição.
 
-ent-HoverbikeSyndicateFlatpack = syndicate hoverbike flatpack
-    .desc = A flatpack used for constructing a hoverbike. Keys already slotted in the ignition.
+ent-HoverbikeSyndicateFlatpack = flatpack de hoverbike do Sindicato
+    .desc = Um flatpack usado para construir uma hoverbike. Chaves já encaixadas na ignição.
 
-ent-HydroponicsSoilEmptyFlatpack = crate of soil
-    .desc = A crate of soil used for constructing a soil bed for growing. Spread it around with a shovel.
+ent-HydroponicsSoilEmptyFlatpack = caixa de terra
+    .desc = Uma caixa de terra usada para construir um canteiro de terra para cultivo. Espalhe com uma pá.
 
-ent-HydroponicsSoilNutritionFlatpack = crate of fertile soil
-    .desc = A crate of fertile soil used for constructing a soil bed for growing. Spread it around with a shovel.
+ent-HydroponicsSoilNutritionFlatpack = caixa de terra fértil
+    .desc = Uma caixa de terra fértil usada para construir um canteiro de terra para cultivo. Espalhe com uma pá.
 
-ent-HydroponicsTrayEmptyFlatpack = hydroponics tray flatpack
-    .desc = A flatpack used for constructing a hydroponics tray.
+ent-HydroponicsTrayEmptyFlatpack = flatpack de bandeja de hidroponia
+    .desc = Um flatpack usado para construir uma bandeja de hidroponia.
 
-ent-JanicartFlatpack = janicart flatpack
-    .desc = A flatpack used for constructing a Janicart. Keys already slotted in the ignition. Mop sold separately.
+ent-JanicartFlatpack = flatpack de janiculo
+    .desc = Um flatpack usado para construir um Janiculo. Chaves já encaixadas na ignição. Mopê vendido separadamente.
 
-ent-JukeboxFlatpack = jukebox flatpack
-    .desc = A flatpack used for constructing a jukebox.
+ent-JukeboxFlatpack = flatpack de jukebox
+    .desc = Um flatpack usado para construir uma jukebox.
 
-ent-KitchenElectricGrillFlatpack = electric grill flatpack
-    .desc = A flatpack used for constructing an electric grill.
+ent-KitchenElectricGrillFlatpack = flatpack de grelha elétrica
+    .desc = Um flatpack usado para construir uma grelha elétrica.
 
-ent-KitchenMicrowaveFlatpack = microwave flatpack
-    .desc = A flatpack used for constructing a microwave.
+ent-KitchenMicrowaveFlatpack = flatpack de micro-ondas
+    .desc = Um flatpack usado para construir um micro-ondas.
 
-ent-KitchenReagentGrinderFlatpack = reagent grinder flatpack
-    .desc = A flatpack used for constructing a reagent grinder.
+ent-KitchenReagentGrinderFlatpack = flatpack de moedor de reagentes
+    .desc = Um flatpack usado para construir um moedor de reagentes.
 
-ent-LockerBotanistFilledFlatpack = botanist's locker flatpack
-    .desc = A flatpack used for constructing a botanist's locker.
+ent-LockerBotanistFilledFlatpack = flatpack de armário de botânico
+    .desc = Um flatpack usado para construir um armário de botânico.
 
-ent-MachineAnomalyGeneratorFlatpack = anomaly generator flatpack
-    .desc = A flatpack used for constructing an anomaly generator.
+ent-MachineAnomalyGeneratorFlatpack = flatpack de gerador de anomalias
+    .desc = Um flatpack usado para construir um gerador de anomalias.
 
-ent-MachineAnomalyVesselExperimentalFlatpack = experimental anomaly vessel flatpack
-    .desc = A flatpack used for constructing an experimental anomaly vessel.
+ent-MachineAnomalyVesselExperimentalFlatpack = flatpack de vaso de anomalia experimental
+    .desc = Um flatpack usado para construir um vaso de anomalia experimental.
 
-ent-MachineAnomalyVesselFlatpack = anomaly vessel flatpack
-    .desc = A flatpack used for constructing an anomaly vessel.
+ent-MachineAnomalyVesselFlatpack = flatpack de vaso de anomalia
+    .desc = Um flatpack usado para construir um vaso de anomalia.
 
-ent-MachineAPEFlatpack = A.P.E. flatpack
-    .desc = A flatpack used for constructing an A.P.E..
+ent-MachineAPEFlatpack = flatpack de A.P.E.
+    .desc = Um flatpack usado para construir uma A.P.E..
 
-ent-MachineArtifactAnalyzerFlatpack = artifact analyzer flatpack
-    .desc = A flatpack used for constructing an artifact analyzer.
+ent-MachineArtifactAnalyzerFlatpack = flatpack de analisador de artefatos
+    .desc = Um flatpack usado para construir um analisador de artefatos.
 
-ent-MachineArtifactCrusherFlatpack = artifact crusher flatpack
-    .desc = A flatpack used for constructing an artifact crusher.
+ent-MachineArtifactCrusherFlatpack = flatpack de esmagador de artefatos
+    .desc = Um flatpack usado para construir um esmagador de artefatos.
 
-ent-MachineCentrifugeFlatpack = tabletop centrifuge flatpack
-    .desc = A flatpack used for constructing a tabletop centrifuge.
+ent-MachineCentrifugeFlatpack = flatpack de centrífuga de mesa
+    .desc = Um flatpack usado para construir uma centrífuga de mesa.
 
-ent-MachineElectrolysisUnitFlatpack = electrolysis unit flatpack
-    .desc = A flatpack used for constructing an electrolysis unit.
+ent-MachineElectrolysisUnitFlatpack = flatpack de unidade de eletrólise
+    .desc = Um flatpack usado para construir uma unidade de eletrólise.
 
-ent-MachineFlatpackerFlatpack = flatpacker 1001 flatpack
-    .desc = A flatpack used for constructing a flatpacker 1001.
+ent-MachineFlatpackerFlatpack = flatpack de flatpacker 1001
+    .desc = Um flatpack usado para construir uma flatpacker 1001.
 
-ent-MarimbaInstrumentFlatpack = marimba flatpack
-    .desc = A flatpack containing a marimba.
+ent-MarimbaInstrumentFlatpack = flatpack de marimba
+    .desc = Um flatpack contendo uma marimba.
 
-ent-MaterialReclaimerFlatpack = material reclaimer flatpack
-    .desc = A flatpack used for constructing a material reclaimer.
+ent-MaterialReclaimerFlatpack = flatpack de recuperador de materiais
+    .desc = Um flatpack usado para construir um recuperador de materiais.
 
-ent-MedicalTechFabFlatpack = medical techfab flatpack
-    .desc = A flatpack used for constructing a medical techfab.
+ent-MedicalTechFabFlatpack = flatpack de techfab médica
+    .desc = Um flatpack usado para construir uma techfab médica.
 
-ent-MercenaryTechFabFlatpack = mercenary techfab flatpack
-    .desc = A flatpack used for constructing a mercenary techfab.
+ent-MercenaryTechFabFlatpack = flatpack de techfab de mercenário
+    .desc = Um flatpack usado para construir uma techfab de mercenário.
 
-ent-MinimoogInstrumentFlatpack = minimoog flatpack
-    .desc = A flatpack containing a minimoog.
+ent-MinimoogInstrumentFlatpack = flatpack de minimoog
+    .desc = Um flatpack contendo um minimoog.
 
-ent-NFHolopadShipFlatpack = bluespace holopad flatpack
-    .desc = A flatpack used for constructing a bluespace holopad for ship to ship communication.
+ent-NFHolopadShipFlatpack = flatpack de holopad de bluespace
+    .desc = Um flatpack usado para construir um holopad de bluespace para comunicação de nave para nave.
 
-ent-NfsdTechFabFlatpack = TSFMC techfab flatpack
-    .desc = A flatpack used for constructing an TSFMC techfab.
+ent-NfsdTechFabFlatpack = flatpack de techfab TSFMC
+    .desc = Um flatpack usado para construir uma techfab TSFMC.
 
-ent-OreProcessorFlatpack = ore processor flatpack
-    .desc = A flatpack used for constructing an ore processor.
+ent-OreProcessorFlatpack = flatpack de processador de minério
+    .desc = Um flatpack usado para construir um processador de minério.
 
-ent-OreProcessorIndustrialFlatpack = industrial ore processor flatpack
-    .desc = A flatpack used for constructing an industrial ore processor.
+ent-OreProcessorIndustrialFlatpack = flatpack de processador de minério industrial
+    .desc = Um flatpack usado para construir um processador de minério industrial.
 
-ent-PianoInstrumentFlatpack = piano flatpack
-    .desc = A flatpack containing a piano.
+ent-PianoInstrumentFlatpack = flatpack de piano
+    .desc = Um flatpack contendo um piano.
 
-ent-PortableGeneratorJrPacmanFlatpack = J.R.P.A.C.M.A.N.-type portable generator flatpack
-    .desc = A flatpack used for constructing a J.R.P.A.C.M.A.N.-type portable generator.
+ent-PortableGeneratorJrPacmanFlatpack = flatpack de gerador portátil tipo J.R.P.A.C.M.A.N.
+    .desc = Um flatpack usado para construir um gerador portátil tipo J.R.P.A.C.M.A.N..
 
-ent-PortableGeneratorPacmanFlatpack = P.A.C.M.A.N.-type portable generator flatpack
-    .desc = A flatpack used for constructing a P.A.C.M.A.N.-type portable generator.
+ent-PortableGeneratorPacmanFlatpack = flatpack de gerador portátil tipo P.A.C.M.A.N.
+    .desc = Um flatpack usado para construir um gerador portátil tipo P.A.C.M.A.N..
 
-ent-PortableGeneratorSuperPacmanFlatpack = S.U.P.E.R.P.A.C.M.A.N.-type portable generator flatpack
-    .desc = A flatpack used for constructing a S.U.P.E.R.P.A.C.M.A.N.-type portable generator.
+ent-PortableGeneratorSuperPacmanFlatpack = flatpack de gerador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+    .desc = Um flatpack usado para construir um gerador portátil tipo S.U.P.E.R.P.A.C.M.A.N..
 
-ent-PowerCellRechargerFlatpack = cell charger flatpack
-    .desc = A flatpack used for constructing a cell charger.
+ent-PowerCellRechargerFlatpack = flatpack de carregador de células
+    .desc = Um flatpack usado para construir um carregador de células.
 
-ent-ProtolatheFlatpack = protolathe flatpack
-    .desc = A flatpack used for constructing a protolathe.
+ent-ProtolatheFlatpack = flatpack de protolathe
+    .desc = Um flatpack usado para construir uma protolathe.
 
-ent-RadiationCollectorFullTankFlatpack = radiation collector flatpack
-    .desc = A flatpack used for constructing a radiation collector.
+ent-RadiationCollectorFullTankFlatpack = flatpack de coletor de radiação
+    .desc = Um flatpack usado para construir um coletor de radiação.
 
-ent-ResearchAndDevelopmentServerFlatpack = research and development server flatpack
-    .desc = A flatpack used for constructing a research and development server.
+ent-ResearchAndDevelopmentServerFlatpack = flatpack de servidor de pesquisa e desenvolvimento
+    .desc = Um flatpack usado para construir um servidor de pesquisa e desenvolvimento.
 
-ent-SalvageTechfabNFFlatpack = salvage techfab flatpack
-    .desc = A flatpack used for constructing a salvage techfab.
+ent-SalvageTechfabNFFlatpack = flatpack de techfab de salvamento
+    .desc = Um flatpack usado para construir uma techfab de salvamento.
 
-ent-ScrapProcessorFlatpack = scrap processor flatpack
-    .desc = A flatpack used for constructing a scrap processor.
+ent-ScrapProcessorFlatpack = flatpack de processador de sucata
+    .desc = Um flatpack usado para construir um processador de sucata.
 
-ent-ServiceTechFabFlatpack = service techfab flatpack
-    .desc = A flatpack used for constructing a service techfab.
+ent-ServiceTechFabFlatpack = flatpack de techfab de serviço
+    .desc = Um flatpack usado para construir uma techfab de serviço.
 
-ent-ShuttleGunKineticFlatpack = PTK-1500e \"Matter Dematerializer\" flatpack
-    .desc = A flatpack used for constructing a PTK-1500e \"Matter Dematerializer\".
+ent-ShuttleGunKineticFlatpack = flatpack de PTK-1500e "Desmaterializador de Matéria"
+    .desc = Um flatpack usado para construir uma PTK-1500e "Desmaterializador de Matéria".
 
-ent-SmallGyroscopeFlatpack = small gyroscope flatpack
-    .desc = A flatpack used for constructing a small gyroscope.
+ent-SmallGyroscopeFlatpack = flatpack de giroscópio pequeno
+    .desc = Um flatpack usado para construir um giroscópio pequeno.
 
-ent-SmallThrusterFlatpack = small thruster flatpack
-    .desc = A flatpack used for constructing a small thruster.
+ent-SmallThrusterFlatpack = flatpack de propulsor pequeno
+    .desc = Um flatpack usado para construir um propulsor pequeno.
 
-ent-StasisBedFlatpack = stasis bed flatpack
-    .desc = A flatpack used for constructing a stasis bed.
+ent-StasisBedFlatpack = flatpack de cama de estase
+    .desc = Um flatpack usado para construir uma cama de estase.
 
-ent-StationAdministrationConsoleFlatpack = station administration console flatpack
-    .desc = A flatpack used for constructing a station administration console for Medical Dispatch.
+ent-StationAdministrationConsoleFlatpack = flatpack de console de administração da estação
+    .desc = Um flatpack usado para construir um console de administração da estação para Despacho Médico.
 
-ent-TaikoInstrumentFlatpack = taiko flatpack
-    .desc = A flatpack containing a taiko.
+ent-TaikoInstrumentFlatpack = flatpack de taiko
+    .desc = Um flatpack contendo um taiko.
 
-ent-TelecomServerFlatpack = telecommunication server flatpack
-    .desc = A flatpack used for constructing a telecommunication server.
+ent-TelecomServerFlatpack = flatpack de servidor de telecomunicações
+    .desc = Um flatpack usado para construir um servidor de telecomunicações.
 
-ent-TelevisionFlatpack = television flatpack
-    .desc = A flatpack used for constructing a television.
+ent-TelevisionFlatpack = flatpack de televisão
+    .desc = Um flatpack usado para construir uma televisão.
 
-ent-TimpaniInstrumentFlatpack = timpani flatpack
-    .desc = A flatpack containing a timpani.
+ent-TimpaniInstrumentFlatpack = flatpack de tímpano
+    .desc = Um flatpack contendo um tímpano.
 
-ent-TomDrumsInstrumentFlatpack = tom drums flatpack
-    .desc = A flatpack containing tom drums.
+ent-TomDrumsInstrumentFlatpack = flatpack de tom-toms
+    .desc = Um flatpack contendo tambores tom.
 
-ent-TubaInstrumentFlatpack = tuba flatpack
-    .desc = A flatpack containing a tuba.
+ent-TubaInstrumentFlatpack = flatpack de tuba
+    .desc = Um flatpack contendo uma tuba.
 
-ent-UniformPrinterFlatpack = uniform printer flatpack
-    .desc = A flatpack used for constructing an uniform printer.
+ent-UniformPrinterFlatpack = flatpack de impressora de uniformes
+    .desc = Um flatpack usado para construir uma impressora de uniformes.
 
-ent-UprightPianoInstrumentFlatpack = upright piano flatpack
-    .desc = A flatpack containing a upright piano.
+ent-UprightPianoInstrumentFlatpack = flatpack de piano vertical
+    .desc = Um flatpack contendo um piano vertical.
 
-ent-VendingMachineBoozeFlatpack = booze-o-mat flatpack
-    .desc = A flatpack used for constructing a booze-o-mat vendomat.
+ent-VendingMachineBoozeFlatpack = flatpack de booze-o-mat
+    .desc = Um flatpack usado para construir uma bebida-o-mática.
 
-ent-VendingMachineBountyVendPunkFlatpack = bonanzamatic vendomat flatpack
-    .desc = A flatpack used for constructing a bonanzamatic vendomat.
+ent-VendingMachineBountyVendPunkFlatpack = flatpack de bonanzamática
+    .desc = Um flatpack usado para construir uma bonanzamática.
 
-ent-VendingMachineChefvendFlatpack = chefvend flatpack
-    .desc = A flatpack used for constructing a chefvend.
+ent-VendingMachineChefvendFlatpack = flatpack de chefvend
+    .desc = Um flatpack usado para construir uma chefvend.
 
-ent-VendingMachineChemicalsFlatpack = chemvend flatpack
-    .desc = A flatpack used for constructing a chemvend.
+ent-VendingMachineChemicalsFlatpack = flatpack de chemvend
+    .desc = Um flatpack usado para construir uma chemvend.
 
-ent-VendingMachineCigsFlatpack = shadycigs delux flatpack
-    .desc = A flatpack used for constructing a shadycigs delux vendomat.
+ent-VendingMachineCigsFlatpack = flatpack shadycigs deluxe
+    .desc = Um flatpack usado para construir uma máquina shadycigs deluxe.
 
-ent-VendingMachineClothingPunkFlatpack = threadschoom vendomat flatpack
-    .desc = A flatpack used for constructing a threadschoom vendomat.
+ent-VendingMachineClothingPunkFlatpack = flatpack threadschoom
+    .desc = Um flatpack usado para construir uma máquina threadschoom.
 
-ent-VendingMachineDinnerwareFlatpack = plasteel chef's dinnerware vendor flatpack
-    .desc = A flatpack used for constructing a plasteel chef's dinnerware vendor.
+ent-VendingMachineDinnerwareFlatpack = flatpack de vendedor de louças de chef de plasteel
+    .desc = Um flatpack usado para construir um vendedor de louças de chef de plasteel.
 
-ent-VendingMachineMedicalFlatpack = nanomed plus flatpack
-    .desc = A flatpack used for constructing a nanomed plus vendomat.
+ent-VendingMachineMedicalFlatpack = flatpack nanomed plus
+    .desc = Um flatpack usado para construir uma máquina nanomed plus.
 
-ent-VendingMachineNutriFlatpack = nutrimax flatpack
-    .desc = A flatpack used for constructing a nutrimax vendomat.
+ent-VendingMachineNutriFlatpack = flatpack nutrimax
+    .desc = Um flatpack usado para construir uma máquina nutrimax.
 
-ent-VendingMachineSeedsUnlockedFlatpack = megaseed servitor flatpack
-    .desc = A flatpack used for constructing a megaseed servitor vendomat.
+ent-VendingMachineSeedsUnlockedFlatpack = flatpack megassemente servidor
+    .desc = Um flatpack usado para construir uma máquina megassemente servidor.
 
-ent-VendingMachineSyndieContrabandFlatpack = contravend flatpack
-    .desc = A flatpack used for constructing a contravend vendomat.
+ent-VendingMachineSyndieContrabandFlatpack = flatpack contravend
+    .desc = Um flatpack usado para construir uma máquina contravend.
 
-ent-VendingMachineWallMedicalFlatpack = nanomed flatpack
-    .desc = A flatpack used for constructing a nanomed vendomat.
+ent-VendingMachineWallMedicalFlatpack = flatpack nanomed
+    .desc = Um flatpack usado para construir uma máquina nanomed.
 
-ent-VibraphoneInstrumentFlatpack = vibraphone flatpack
-    .desc = A flatpack containing a vibraphone.
+ent-VibraphoneInstrumentFlatpack = flatpack de vibrafone
+    .desc = Um flatpack contendo um vibrafone.
 
-ent-WeaponCapacitorRechargerFlatpack = recharger flatpack
-    .desc = A flatpack used for constructing a recharger.
+ent-WeaponCapacitorRechargerFlatpack = flatpack de recarregador
+    .desc = Um flatpack usado para construir um recarregador.
 
 # From: _NF/Entities/Objects/Devices/holoprojectors.yml
 
-ent-HoloGraffitiProjector = holograffiti projector
-    .desc = Tag up the sharp end, let 'em know you were here.
+ent-HoloGraffitiProjector = projetor de holografiti
+    .desc = Marque a ponta afiada, deixe eles saberem que você esteve aqui.
 
-ent-HoloprojectorNfsd = TSFMC holobarrier projector
-    .desc = Creates a solid but fragile holographic barrier.
+ent-HoloprojectorNfsd = projetor de holobarreira TSFMC
+    .desc = Cria uma barreira holográfica sólida mas frágil.
 
 # From: _NF/Entities/Objects/Devices/Misc/identification_cards.yml
 
-ent-BailiffIDCard = TSFMC captain ID card
+ent-BailiffIDCard = cartão ID de capitão TSFMC
 
-ent-BrigmedicNFIDCard = TSFMC corpsman ID card
+ent-BrigmedicNFIDCard = cartão ID de corpsman TSFMC
 
-ent-CadetIDCard = TSFMC private ID card
+ent-CadetIDCard = cartão ID de praça TSFMC
 
-ent-CappyIDCard = cappy ID card
+ent-CappyIDCard = cartão ID cappy
 
-ent-CCServiceWorkerNFIDCard = colossus sector service ID card
-    .desc = An identification card belonging to a service worker in the Colossus Sector.
+ent-CCServiceWorkerNFIDCard = cartão ID de serviço do setor colosso
+    .desc = Um cartão de identificação pertencente a um trabalhador de serviço no Setor Colosso.
 
-ent-ClarpyIDCard = clarpy ID card
+ent-ClarpyIDCard = cartão ID clarpy
 
-ent-ClippyIDCard = clippy ID card
+ent-ClippyIDCard = cartão ID clippy
 
-ent-ContractorIDCard = Spacer ID card
+ent-ContractorIDCard = cartão ID Spacer
 
-ent-DeputyIDCard = TSFMC marine ID card
+ent-DeputyIDCard = cartão ID de fuzileiro TSFMC
 
-ent-DocIDCard = director of care ID card
+ent-DocIDCard = cartão ID de diretor de cuidados
 
-ent-ERTMailCarrierIDCard = ERT mail carrier ID card
+ent-ERTMailCarrierIDCard = cartão ID de carteiro ERT
 
-ent-MercenaryIDCard = mercenary ID card
+ent-MercenaryIDCard = cartão ID de mercenário
 
-ent-NFDetectiveIDCard = TSFMC detective ID card
+ent-NFDetectiveIDCard = cartão ID de detetive TSFMC
 
-ent-PilotIDCard = pilot ID card
+ent-PilotIDCard = cartão ID de piloto
 
-ent-PublicAffairsIDCard = public affairs liaison ID card
+ent-PublicAffairsIDCard = cartão ID de liaison de assuntos públicos
 
-ent-SecurityGuardIDCard = security guard ID card
+ent-SecurityGuardIDCard = cartão ID de guarda de segurança
 
-ent-SergeantIDCard = TSFMC fireteam leader ID card
+ent-SergeantIDCard = cartão ID de líder de esquadrão TSFMC
 
-ent-ShriffIDCard = TSFMC colonel ID card
+ent-ShriffIDCard = cartão ID de coronel TSFMC
 
-ent-SrIDCard = overseer ID card
+ent-SrIDCard = cartão ID de supervisor
 
-ent-StcIDCard = station traffic controller ID card
+ent-StcIDCard = cartão ID de controlador de tráfego da estação
 
-ent-YipYipIDCard = yip yip ID card
+ent-YipYipIDCard = cartão ID yip yip
 
 # From: _NF/Entities/Objects/Devices/Misc/ship_vouchers.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseShipVoucher = ship voucher
-    .desc = Used for free shuttle rentals from a shipyard.
+ent-BaseShipVoucher = vale de nave
+    .desc = Usado para aluguéis gratuitos de navios de um estaleiro.
 
-ent-ShipVoucherFrontierGuard = station guard ship voucher
-    .desc = Allows for one free guard ship purchase from the Frontier Staff Shipyard. Destroyed on sale.
+ent-ShipVoucherFrontierGuard = vale de nave de guarda da estação
+    .desc = Permite uma compra gratuita de nave guarda do Estaleiro Frontier Staff. Destruído na venda.
 
-ent-ShipVoucherFrontierJanitor = janitor ship voucher
-    .desc = Allows for one free janitorial ship purchase from the Frontier Staff Shipyard. Destroyed on sale.
+ent-ShipVoucherFrontierJanitor = vale de nave de faxinação
+    .desc = Permite uma compra gratuita de nave de faxinação do Estaleiro Frontier Staff. Destruído na venda.
 
-ent-ShipVoucherFrontierMailCarrier = mail carrier ship voucher
-    .desc = Allows for one free mail ship purchase from the Frontier Staff Shipyard. Destroyed on sale.
+ent-ShipVoucherFrontierMailCarrier = vale de nave de carteiro
+    .desc = Permite uma compra gratuita de nave de correio do Estaleiro Frontier Staff. Destruído na venda.
 
-ent-ShipVoucherFrontierService = service ship voucher
-    .desc = Allows for one free, small service ship purchase from the Frontier Staff Shipyard. Destroyed on sale.
+ent-ShipVoucherFrontierService = vale de nave de serviço
+    .desc = Permite uma compra gratuita de nave pequena de serviço do Estaleiro Frontier Staff. Destruído na venda.
 
 # From: _NF/Entities/Objects/Devices/pda.yml
 
-ent-BailiffPDA = TSF captain PDA
-    .desc = A standard TSFMC personal computer.
+ent-BailiffPDA = PDA capitão TSFMC
+    .desc = Um computador pessoal padrão TSFMC.
 
-ent-BrigmedicNFPDA = TSF corpsman PDA
-    .desc = A standard TSFMC personal computer.
+ent-BrigmedicNFPDA = PDA corpsman TSFMC
+    .desc = Um computador pessoal padrão TSFMC.
 
-ent-CadetPDA = TSF private PDA
-    .desc = A standard TSFMC personal computer.
+ent-CadetPDA = PDA praça TSFMC
+    .desc = Um computador pessoal padrão TSFMC.
 
-ent-ContractorPDA = spacer PDA
+ent-ContractorPDA = PDA spacer
 
-ent-DeputyPDA = TSF marine PDA
-    .desc = A standard TSFMC personal computer.
+ent-DeputyPDA = PDA fuzileiro TSFMC
+    .desc = Um computador pessoal padrão TSFMC.
 
-ent-DocPDA = director of care PDA
-    .desc = It smells like disinfectant.
+ent-DocPDA = PDA diretor de cuidados
+    .desc = Cheira a desinfetante.
 
-ent-MercenaryPDA = mercenary PDA
-    .desc = This PDA smells of war.
+ent-MercenaryPDA = PDA mercenário
+    .desc = Este PDA cheira a guerra.
 
-ent-NFDetectivePDA = detective PDA
-    .desc = Smells like rain... pouring down the rooftops...
+ent-NFDetectivePDA = PDA detetive
+    .desc = Cheira como chuva... caindo nos telhados...
 
-ent-PilotPDA = pilot PDA
-    .desc = This PDA smells like thruster exhaust fumes.
+ent-PilotPDA = PDA piloto
+    .desc = Este PDA cheira a fumaças de escape de propulsor.
 
-ent-PublicAffairsLiaisonPDA = public affairs liaison PDA
-    .desc = Paperwork, paperwork, paperwork!
+ent-PublicAffairsLiaisonPDA = PDA liaison de assuntos públicos
+    .desc = Paperada, paperada, paperada!
 
-ent-SecurityGuardPDA = security guard PDA
-    .desc = Red to hide the stains of passenger blood.
+ent-SecurityGuardPDA = PDA guarda de segurança
+    .desc = Vermelho para esconder as manchas de sangue de passageiros.
 
-ent-SergeantPDA = TSF fireteam leader PDA
-    .desc = A standard TSFMC personal computer.
+ent-SergeantPDA = PDA líder de esquadrão TSFMC
+    .desc = Um computador pessoal padrão TSFMC.
 
-ent-SheriffPDA = TSFMC colonel PDA
-    .desc = A standard TSFMC personal computer.
+ent-SheriffPDA = PDA coronel TSFMC
+    .desc = Um computador pessoal padrão TSFMC.
 
-ent-SrPDA = overseer PDA
-    .desc = Looks like it's been clawed on.
+ent-SrPDA = PDA supervisor
+    .desc = Parece que foi arranhado.
 
-ent-StcPDA = station traffic controller PDA
-    .desc = Declare emergencies in style!
+ent-StcPDA = PDA controlador de tráfego da estação
+    .desc = Declare emergências com estilo!
 
 # From: _NF/Entities/Objects/Devices/pinpointer.yml
 
-ent-PinpointerDeadDrop = dead drop pinpointer
+ent-PinpointerDeadDrop = localizador de depósito secreto
     .suffix = DEBUG
-    .desc = Pointing to a hidden dead drop.
+    .desc = Apontando para um depósito secreto oculto.
 
-ent-PinpointerDeadDropHint = dead drop hint pinpointer
+ent-PinpointerDeadDropHint = localizador de dica de depósito secreto
     .suffix = DEBUG
-    .desc = Pointing to a dead drop hint.
+    .desc = Apontando para uma dica de depósito secreto.
 
-ent-PinpointerSyndicatePOI = 
-    .suffix = Syndicate FOB
-    .desc = Pointing to some unknown place.
+ent-PinpointerSyndicatePOI
+    .suffix = FOB do Sindicato
+    .desc = Apontando para algum lugar desconhecido.
 
 # From: _NF/Entities/Objects/Devices/plant_analyzer.yml
 
-ent-PlantAnalyzer = plant analyzer
-    .desc = A handheld device that allows you to scan seeds and plants to get detailed information about their genes.
+ent-PlantAnalyzer = analisador de plantas
+    .desc = Um dispositivo portátil que permite escanear sementes e plantas para obter informações detalhadas sobre seus genes.
 
 # From: _NF/Entities/Objects/Devices/production.yml
 
-ent-BlueprintLithographMachineCircuitboard = blueprint lithograph machine board
-    .desc = A machine printed circuit board for a blueprint lithograph.
+ent-BlueprintLithographMachineCircuitboard = placa de máquina de litógrafo de projetos
+    .desc = Uma placa de circuito de máquina para um litógrafo de projetos.
 
-ent-CondimentDispenserCircuitboard = condiment dispenser machine board
-    .desc = A machine printed circuit board for a condiment dispenser.
+ent-CondimentDispenserCircuitboard = placa de máquina de dispensador de condimentos
+    .desc = Uma placa de circuito de máquina para um dispensador de condimentos.
 
-ent-ElectricRangeMachineCircuitboard = electric range machine board
-    .desc = A machine printed circuit board for an electric range.
+ent-ElectricRangeMachineCircuitboard = placa de máquina de fogão elétrico
+    .desc = Uma placa de circuito de máquina para um fogão elétrico.
 
-ent-GyroscopeNfsdMachineCircuitboard = TSFMC gyroscope machine board
+ent-GyroscopeNfsdMachineCircuitboard = placa de máquina de giroscópio TSFMC
 
-ent-GyroscopeSecurityMachineCircuitboard = security gyroscope machine board
+ent-GyroscopeSecurityMachineCircuitboard = placa de máquina de giroscópio de segurança
 
-ent-KitchenAssemblerMachineCircuitboard = food-o-mat machine board
-    .desc = A machine printed circuit board for a Food-O-Mat, suitable for a kitchen.
+ent-KitchenAssemblerMachineCircuitboard = placa de máquina food-o-mat
+    .desc = Uma placa de circuito de máquina para uma Food-O-Mat, adequada para uma cozinha.
 
-ent-MaterialReclaimerMachineCircuitboard = material reclaimer machine board
-    .desc = A machine printed circuit board for a material reclaimer.
+ent-MaterialReclaimerMachineCircuitboard = placa de máquina de recuperador de materiais
+    .desc = Uma placa de circuito de máquina para um recuperador de materiais.
 
-ent-MedicalAssemblerMachineCircuitboard = medical assembler machine board
-    .desc = A machine printed circuit board for a medical assembler.
+ent-MedicalAssemblerMachineCircuitboard = placa de máquina de montadora médica
+    .desc = Uma placa de circuito de máquina para uma montadora médica.
 
-ent-MercenaryTechFabCircuitboardHackedNF = hacked mercenary techfab machine board
-    .desc = A spray painted circuit board for a mercenary techfab with some doodads attached to it. Don't worry 'bout it, choomba.
+ent-MercenaryTechFabCircuitboardHackedNF = placa de máquina de techfab mercenário hackeada
+    .desc = Uma placa de circuito pintada com spray para uma techfab mercenária com alguns aparelhos anexados. Não se preocupe com isso, chefo.
 
-ent-MercenaryTechFabCircuitboardNF = mercenary techfab machine board
-    .desc = A machine printed circuit board for a mercenary techfab.
+ent-MercenaryTechFabCircuitboardNF = placa de máquina de techfab mercenário
+    .desc = Uma placa de circuito de máquina para uma techfab mercenário.
 
-ent-MiniStationAnchorCircuitboard = mini station anchor machine board
+ent-MiniStationAnchorCircuitboard = placa de máquina de âncora de mini estação
 
-ent-NFScrapProcessorCircuitboard = scrap processor machine board
-    .desc = A machine printed circuit board for a scrap processor.
+ent-NFScrapProcessorCircuitboard = placa de máquina de processador de sucata
+    .desc = Uma placa de circuito de máquina para um processador de sucata.
 
-ent-NfsdTechFabCircuitboard = TSFMC techfab machine board
-    .desc = A machine printed circuit board for an TSFMC techfab.
+ent-NfsdTechFabCircuitboard = placa de máquina de techfab TSFMC
+    .desc = Uma placa de circuito de máquina para uma techfab TSFMC.
 
-ent-PortableGeneratorDKJrMachineCircuitboard = D-K Jr.-type portable generator machine board
-    .desc = A machine printed circuit board for a D-K Jr.-type portable generator.
+ent-PortableGeneratorDKJrMachineCircuitboard = placa de máquina de gerador portátil tipo D-K Jr.
+    .desc = Uma placa de circuito de máquina para um gerador portátil tipo D-K Jr..
 
-ent-PortableGeneratorDKMachineCircuitboard = D-K-type portable generator machine board
-    .desc = A machine printed circuit board for a D-K-type portable generator.
+ent-PortableGeneratorDKMachineCircuitboard = placa de máquina de gerador portátil tipo D-K
+    .desc = Uma placa de circuito de máquina para um gerador portátil tipo D-K.
 
-ent-SalvageTechFabCircuitboardNF = salvage techfab machine board
-    .desc = A machine printed circuit board for a salvage techfab.
+ent-SalvageTechFabCircuitboardNF = placa de máquina de techfab de salvamento
+    .desc = Uma placa de circuito de máquina para uma techfab de salvamento.
 
-ent-ShredderMachineCircuitboard = shredder machine board
-    .desc = A machine printed circuit board for a shredder.
+ent-ShredderMachineCircuitboard = placa de máquina de triturador
+    .desc = Uma placa de circuito de máquina para um triturador.
 
-ent-SmallGyroscopeMachineCircuitboard = small gyroscope machine board
+ent-SmallGyroscopeMachineCircuitboard = placa de máquina de giroscópio pequeno
 
-ent-SmallGyroscopeNfsdMachineCircuitboard = small TSFMC gyroscope machine board
+ent-SmallGyroscopeNfsdMachineCircuitboard = placa de máquina de giroscópio TSFMC pequeno
 
-ent-SmallGyroscopeSecurityMachineCircuitboard = small security gyroscope machine board
+ent-SmallGyroscopeSecurityMachineCircuitboard = placa de máquina de giroscópio de segurança pequeno
 
-ent-SmallThrusterMachineCircuitboard = small thruster machine board
+ent-SmallThrusterMachineCircuitboard = placa de máquina de propulsor pequeno
 
-ent-SyndicateElectricRangeMachineCircuitboard = syndicate electric range machine board
-    .desc = A machine printed circuit board for an syndicate electric range.
+ent-SyndicateElectricRangeMachineCircuitboard = placa de máquina de fogão elétrico do Sindicato
+    .desc = Uma placa de circuito de máquina para um fogão elétrico do Sindicato.
 
-ent-ThrusterNfsdMachineCircuitboard = TSFMC thruster machine board
+ent-ThrusterNfsdMachineCircuitboard = placa de máquina de propulsor TSFMC
 
-ent-ThrusterRogueMachineCircuitboard = Rogue thruster machine board
+ent-ThrusterRogueMachineCircuitboard = placa de máquina de propulsor Renegado
 
-ent-ThrusterSecurityMachineCircuitboard = security thruster machine board
+ent-ThrusterSecurityMachineCircuitboard = placa de máquina de propulsor de segurança
 
-ent-ThrusterUSSPMachineCircuitboard = USSP thruster machine board
+ent-ThrusterUSSPMachineCircuitboard = placa de máquina de propulsor USSP
 
 # From: _NF/Entities/Objects/Devices/radio.yml
 
-ent-RadioHandheldNF = handicomms
-    .desc = A handy handheld radio with adjustible frequency.
+ent-RadioHandheldNF = handheld
+    .desc = Um rádio portátil útil com frequência ajustável.
 
 # From: _NF/Entities/Objects/Faction/churchofweedgod.yml
 
-ent-ClothingHeadBeanieWeedChurch = church of weedgod beanie
-    .desc = the beanie worn by followers of the church of weedgod
+ent-ClothingHeadBeanieWeedChurch = boné da igreja do weedgod
+    .desc = o boné usado por seguidores da igreja do weedgod
 
-ent-ClothingHeadWeedChurchBishop = church of weedgod bishop's hat
-    .desc = a holy hat worn by those with high status in the church of weedgod
+ent-ClothingHeadWeedChurchBishop = chapéu de bispo da igreja do weedgod
+    .desc = um chapéu sagrado usado por aqueles com alto status na igreja do weedgod
 
-ent-ClothingOuterRobesWeedChurch = church of weedgod robes
-    .desc = the robes of those dedicated to the god who's name begins with G
+ent-ClothingOuterRobesWeedChurch = vestes da igreja do weedgod
+    .desc = as vestes daqueles dedicados ao deus cujo nome começa com G
 
 ent-Weejurnum = weejurnum
-    .desc = holy book to followers of the church of weedgod
+    .desc = livro sagrado para seguidores da igreja do weedgod
 
 # From: _NF/Entities/Objects/Fun/darts.yml
 
-ent-NFBoxDartsTracking = tracking kit box
-    .desc = A box of tracking darts and pinpointers.
+ent-NFBoxDartsTracking = caixa de kit de rastreamento
+    .desc = Uma caixa de dardos de rastreamento e localizadores.
 
-ent-NFDartTracking = tracking dart
+ent-NFDartTracking = dardo de rastreamento
 
-ent-TargetDartsFlatpack = dartboard
-    .desc = A flatpack used for constructing a dart board.
+ent-TargetDartsFlatpack = alvo de dardos
+    .desc = Um flatpack usado para construir um alvo de dardos.
 
 # From: _NF/Entities/Objects/Fun/magic_crayon.yml
 
-ent-CrayonMagic = magic crayon
-    .desc = Specially blended with bluespace crystals and certified non-toxic.
+ent-CrayonMagic = giz mágico
+    .desc = Especialmente misturado com cristais de bluespace e certificado como não tóxico.
 
 # From: _NF/Entities/Objects/Fun/prizeticket.yml
 
-ent-PrizeBall = prize ball
-    .desc = I wounder whats inside!
+ent-PrizeBall = bola de prêmio
+    .desc = Me pergunto o que há dentro!
 
-ent-PrizeTicket = prize ticket
-    .suffix = Full
+ent-PrizeTicket = ticket de prêmio
+    .suffix = Completo
     .desc = {ent-PrizeTicketBase.desc}
 
-ent-PrizeTicket1 = prize ticket
-    .suffix = Single
+ent-PrizeTicket1 = ticket de prêmio
+    .suffix = Único
     .desc = {ent-PrizeTicketBase.desc}
 
-ent-PrizeTicket10 = prize ticket
+ent-PrizeTicket10 = ticket de prêmio
     .suffix = 10
     .desc = {ent-PrizeTicketBase.desc}
 
-ent-PrizeTicket30 = prize ticket
+ent-PrizeTicket30 = ticket de prêmio
     .suffix = 30
     .desc = {ent-PrizeTicketBase.desc}
 
-ent-PrizeTicket60 = prize ticket
+ent-PrizeTicket60 = ticket de prêmio
     .suffix = 60
     .desc = {ent-PrizeTicketBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-PrizeTicketBase = 
-    .desc = A prize ticket, ready to be redeemed at a prize counter.
+ent-PrizeTicketBase
+    .desc = Um ticket de prêmio, pronto para ser resgatado em um balcão de prêmios.
 
 # From: _NF/Entities/Objects/Fun/spaceblade_boxes.yml
 
-ent-MysterySpaceBladeBox = mystery space blade box
-    .desc = A box containing a mystery space blade. The side of the box depicts a few blacked-out 'rare' space blades.
+ent-MysterySpaceBladeBox = caixa de lâmina espacial misteriosa
+    .desc = Uma caixa contendo uma lâmina espacial misteriosa. O lado da caixa retrata algumas lâminas espaciais 'raras' apagadas.
 
 # From: _NF/Entities/Objects/Fun/spaceblade.yml
 
 # Abstract entity (referenceable by children)
-ent-SpaceBlade = space blade
-    .desc = Let it drip
+ent-SpaceBlade = lâmina espacial
+    .desc = Deixe gotejar
 
 ent-SpaceBladeBlade = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
@@ -5109,11 +5465,11 @@ ent-SpaceBladeBlue = {ent-SpaceBlade}
 ent-SpaceBladeCheck = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
 
-ent-SpaceBladeClown = space blade
-    .desc = Let it honk
+ent-SpaceBladeClown = lâmina espacial
+    .desc = Deixe apitar
 
-ent-SpaceBladeContra = 
-    .desc = Let it reap
+ent-SpaceBladeContra
+    .desc = Deixe ceifar
 
 ent-SpaceBladeEyeball = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
@@ -5128,62 +5484,62 @@ ent-SpaceBladeMail = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
 
 ent-SpaceBladeMc = {ent-SpaceBlade}
-    .desc = Let it McDrip
+    .desc = Deixe McDrip
 
 ent-SpaceBladeMoff = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
 
-ent-SpaceBladePizza = space blade
-    .desc = Let it mama mia, not safe for ages under 3
+ent-SpaceBladePizza = lâmina espacial
+    .desc = Deixe mamma mia, não seguro para menores de 3 anos
 
 ent-SpaceBladeRedOrange = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
 
 ent-SpaceBladeRune = {ent-SpaceBlade}
-    .desc = Birthday parties are yearly reminders that as soon as you're born you start dying, unless you let it rip
+    .desc = Festas de aniversário são lembretes anuais de que assim que você nasce você começa a morrer, a menos que você deixe rasgar
 
-ent-SpaceBladeSingularity = space blade
-    .desc = Let it consume
+ent-SpaceBladeSingularity = lâmina espacial
+    .desc = Deixe consumir
 
 ent-SpaceBladeTesla = {ent-SpaceBlade}
     .desc = {ent-SpaceBlade.desc}
 
 ent-SpaceBladeWeh = {ent-SpaceBlade}
-    .desc = Let it weh!
+    .desc = Deixe weh!
 
 # From: _NF/Entities/Objects/Fun/toys.yml
 
 # Abstract entity (referenceable by children)
-ent-BasePetRock = pet rock
-    .desc = Your new and only best friend!
+ent-BasePetRock = rocha de estimação
+    .desc = Sua nova e melhor amiga!
 
 # Abstract entity (referenceable by children)
-ent-BasePlushieVulp = vulpkanin plushie
-    .desc = A vulpkanin plushie, at least you can hug this one without the risk to get bitten.
+ent-BasePlushieVulp = pelúcia vulpkanin
+    .desc = Uma pelúcia vulpkanin, pelo menos você pode abraçar esta sem o risco de ser mordido.
 
-ent-BulletFoamRPG = foam RPG rocket
-    .desc = Looks like the REAL THING... if you squint. I hope your target's wearing face protection.
+ent-BulletFoamRPG = foguete RPG de espuma
+    .desc = Parece a COISITA VERDADEIRA... se você fechar os olhos. Espero que seu alvo esteja usando proteção facial.
 
-ent-NFPlushieBotanist = botanist plushie
-    .desc = You need food and it just wont stop making rainbow weed.
+ent-NFPlushieBotanist = pelúcia botânica
+    .desc = Você precisa de comida e ela simplesmente não para de fazer erva-arc-íris.
 
-ent-NFPlushieCmo = chief medical officer plushie
-    .desc = Just a weh away.
+ent-NFPlushieCmo = pelúcia de diretor médico
+    .desc = Apenas um weh de distância.
 
-ent-NFPlushieConstruction = construction plushie
-    .desc = A work in progress. A shame it had to end this way.
+ent-NFPlushieConstruction = pelúcia de construção
+    .desc = Um trabalho em progresso. Uma pena que teve que terminar assim.
 
-ent-NFPlushieEngineer = engineer plushie
-    .desc = The poor thing is just sitting there with nothing to do! Give it a hug!
+ent-NFPlushieEngineer = pelúcia de engenheiro
+    .desc = A pobre coisa está apenas sentada lá com nada para fazer! Dê um abraço!
 
-ent-NFPlushieSharkMinnow = sharkminnow plushie
-    .desc = It's killed you! It's killed your friends! Now this source of PTSD is a Pretty Terrific Stuffed Doodad!
+ent-NFPlushieSharkMinnow = pelúcia sharkminnow
+    .desc = Ela matou você! Ela matou seus amigos! Agora esta fonte de TEPT é um Brinquedo Recheado Terrífico!
 
 ent-PetRock = {ent-BasePetRock}
     .desc = {ent-BasePetRock.desc}
 
-ent-PetRockCarrier = pet rock carrier
-    .desc = Your new and only best friend home!
+ent-PetRockCarrier = transportador de rocha de estimação
+    .desc = O lar de sua nova e única melhor amiga!
 
 ent-PetRockFred = fred
     .desc = {ent-BasePetRock.desc}
@@ -5191,338 +5547,340 @@ ent-PetRockFred = fred
 ent-PetRockRoxie = roxie
     .desc = {ent-BasePetRock.desc}
 
-ent-PlushieAbductor = abductor plushie
-    .desc = A stuffed toy that resembles an abductor!
+ent-PlushieAbductor = pelúcia abductor
+    .desc = Um brinquedo de pelúcia que se parece com um abductor!
 
-ent-PlushieAbductorAgent = abductor agent plushie
-    .desc = A stuffed toy that resembles an abductor agent!
+ent-PlushieAbductorAgent = pelúcia agente abductor
+    .desc = Um brinquedo de pelúcia que se parece com um agente abductor!
 
-ent-PlushieBlackFox = black fox plushie
-    .desc = A cute plushie that look like a black foxxo!
+ent-PlushieBlackFox = pelúcia raposa preta
+    .desc = Uma pelúcia fofinha que parece uma raposa preta!
 
-ent-PlushieBlueFox = blue fox plushie
-    .desc = A cute plushie that look like a blue foxxo!
+ent-PlushieBlueFox = pelúcia raposa azul
+    .desc = Uma pelúcia fofinha que parece uma raposa azul!
 
-ent-PlushieCatBlack = black cat plushie
-    .desc = A stuffed toy that resembles a cute kitty!
+ent-PlushieCatBlack = pelúcia gato preto
+    .desc = Um brinquedo de pelúcia que se parece com um gatinho fofinho!
 
-ent-PlushieCatGrey = grey cat plushie
+ent-PlushieCatGrey = pelúcia gato cinza
 
-ent-PlushieCatOrange = orange cat plushie
+ent-PlushieCatOrange = pelúcia gato laranja
 
-ent-PlushieCatSiames = siames cat plushie
+ent-PlushieCatSiames = pelúcia gato siamês
 
-ent-PlushieCatTabby = tabby cat plushie
+ent-PlushieCatTabby = pelúcia gato malhado
 
-ent-PlushieCatTuxedo = tuxedo cat plushie
+ent-PlushieCatTuxedo = pelúcia gato tuxedo
 
-ent-PlushieCatWhite = white cat plushie
+ent-PlushieCatWhite = pelúcia gato branco
 
-ent-PlushieCoffeeFox = coffee fox plushie
-    .desc = A cute plushie that look like a coffee foxxo!
+ent-PlushieCoffeeFox = pelúcia raposa café
+    .desc = Uma pelúcia fofinha que parece uma raposa café!
 
-ent-PlushieCorgi = corgi plushie
-    .desc = The ian plushie edition!
+ent-PlushieCorgi = pelúcia corgi
+    .desc = A edição pelúcia ian!
 
-ent-PlushieCrimsonFox = crimson fox plushie
-    .desc = A cute plushie that look like a crimson foxxo!
+ent-PlushieCrimsonFox = pelúcia raposa carmesim
+    .desc = Uma pelúcia fofinha que parece uma raposa carmesim!
 
-ent-PlushieDeer = deer plushie
-    .desc = A stuffed toy that resembles a deer!
+ent-PlushieDeer = pelúcia veado
+    .desc = Um brinquedo de pelúcia que se parece com um veado!
 
-ent-PlushieGirlyCorgi = girly corgi plushie
+ent-PlushieGirlyCorgi = pelúcia corgi feminina
     .desc = {ent-BasePlushieVulp.desc}
 
-ent-PlushieGnome = gnome plushie
-    .desc = A stuffed toy that resembles a gnome! or a drawf...
+ent-PlushieGnome = pelúcia gnomo
+    .desc = Um brinquedo de pelúcia que se parece com um gnomo! ou um anão...
 
-ent-PlushieGrey = grey plushie
-    .desc = A stuffed toy that resembles a grey!
+ent-PlushieGrey = pelúcia grey
+    .desc = Um brinquedo de pelúcia que se parece com um grey!
 
-ent-PlushieIpc = ipc plushie
-    .desc = A stuffed toy that resembles a ipc!
+ent-PlushieIpc = pelúcia ipc
+    .desc = Um brinquedo de pelúcia que se parece com um ipc!
 
-ent-PlushieJanitor = janitor plushie
-    .desc = The silent cleaner, the one that you dont hear say \"Weh\"!
+ent-PlushieJanitor = pelúcia faxineiro
+    .desc = O faxineiro silencioso, aquele que você não ouve dizer "Weh"!
 
-ent-PlushieJester = jester plushie
-    .desc = A dubious little creature getting up to mischief.
+ent-PlushieJester = pelúcia bobo
+    .desc = Uma criaturinha duvidosa arrumando travessuras.
 
-ent-PlushieLoveable = loveable plushie
-    .desc = A stuffed toy that resembles... a creature.
+ent-PlushieLoveable = pelúcia amorosa
+    .desc = Um brinquedo de pelúcia que se parece... uma criatura.
 
-ent-PlushieMailVulp = mail vulp plushie
-    .desc = Smells minty and reminds you of unopened mail. You should check your mail!
+ent-PlushieMailVulp = pelúcia vulp carteiro
+    .desc = Cheira a menta e lembra correio não aberto. Você deve checar seu correio!
 
-ent-PlushieMarbleFox = marble fox plushie
-    .desc = A cute plushie that look like a marble foxxo!
+ent-PlushieMarbleFox = pelúcia raposa mármore
+    .desc = Uma pelúcia fofinha que parece uma raposa mármore!
 
-ent-PlushieOrangeFox = orange fox plushie
-    .desc = A cute plushie that look like a orange foxxo!
+ent-PlushieOrangeFox = pelúcia raposa laranja
+    .desc = Uma pelúcia fofinha que parece uma raposa laranja!
 
-ent-PlushiePinkFox = pink fox plushie
-    .desc = A cute plushie that look like a pink foxxo!
+ent-PlushiePinkFox = pelúcia raposa rosa
+    .desc = Uma pelúcia fofinha que parece uma raposa rosa!
 
-ent-PlushiePurpleFox = purple fox plushie
-    .desc = A cute plushie that look like a purple foxxo!
+ent-PlushiePurpleFox = pelúcia raposa roxa
+    .desc = Uma pelúcia fofinha que parece uma raposa roxa!
 
-ent-PlushieRedFox = red fox plushie
-    .desc = A cute plushie that look like a red foxxo!
+ent-PlushieRedFox = pelúcia raposa vermelha
+    .desc = Uma pelúcia fofinha que parece uma raposa vermelha!
 
-ent-PlushieRobotCorgi = robot corgi plushie
+ent-PlushieRobotCorgi = pelúcia corgi robô
     .desc = {ent-BasePlushieVulp.desc}
 
 ent-PlushieVulp = {ent-BasePlushieVulp}
     .desc = {ent-BasePlushieVulp.desc}
 
-ent-PlushieYarrMoth = yarr moth plushie
-    .desc = It's dastardly and has a dashing cloak. It chitters when you squeeze it!
+ent-PlushieYarrMoth = pelúcia mariposa yarr
+    .desc = É vil e tem uma capa audaciosa. Chia quando você aperta!
 
-ent-WeaponLauncherRocketToy = toy RPG
-    .suffix = Toy
-    .desc = A plush toy, this launches foam \"grenades\". There are stitches on the side that spell out \"SAM\".
+ent-WeaponLauncherRocketToy = RPG de brinquedo
+    .suffix = Brinquedo
+    .desc = Um brinquedo de pelúcia, este lança "granadas" de espuma. Há pontos na lateral que soletram "SAM".
 
 # From: _NF/Entities/Objects/Fun/whistles.yml
 
-ent-NfsdWhistle = TSFMC whistle
-    .desc = The sound of it makes criminals tremble.
+ent-NfsdWhistle = apito TSFMC
+    .desc = O som dele faz criminosos tremerem.
 
 # From: _NF/Entities/Objects/Materials/Sheets/other.yml
 
-ent-SheetPlastic5 = plastic
+ent-SheetPlastic5 = plástico
     .suffix = 5
 
 # From: _NF/Entities/Objects/Misc/ashtray.yml
 
-ent-NFAshtray = ashtray
+ent-NFAshtray = cinzeiro
 
 # From: _NF/Entities/Objects/Misc/bedsheets.yml
 
-ent-BedsheetNfsd = TSFMC bedsheet
+ent-BedsheetNfsd = lençol TSFMC
 
-ent-BedsheetNfsdBrigmedic = brigmedic bedsheet
+ent-BedsheetNfsdBrigmedic = lençol brigmedic
 
-ent-BedsheetNfsdSheriff = colonel bedsheet
+ent-BedsheetNfsdSheriff = lençol coronel
 
 # From: _NF/Entities/Objects/Misc/censer.yml
 
-ent-Censer = censer
-    .desc = Usually you put incense in there.
+ent-Censer = turíbulo
+    .desc = Geralmente você coloca incenso nele.
 
 # From: _NF/Entities/Objects/Misc/dragon_egg.yml
 
-ent-DragonEgg = dragon egg
-    .desc = How many did you kill just to get one of these eggs.
+ent-DragonEgg = ovo de dragão
+    .desc = Quantos você matou apenas para conseguir um destes ovos.
 
-ent-DragonEggshells = dragon eggshells
-    .desc = You're walkin' on 'em bud.
+ent-DragonEggshells = cascas de ovo de dragão
+    .desc = Você está pisando nelas parceiro.
 
-ent-MobSpawnBabyDragon = mobspawner dragon
+ent-MobSpawnBabyDragon = mobspawner dragão
 
 # From: _NF/Entities/Objects/Misc/handcuffs.yml
 
-ent-WebCocoon = web cocoon
-    .desc = A strong web cocoon used to restrain criminals or prey. Prevents rotting.
+ent-WebCocoon = casulo de teia
+    .desc = Um casulo de teia forte usado para restringir criminosos ou presas. Previne apodrecimento.
 
 # From: _NF/Entities/Objects/Misc/machine_parts.yml
 
-ent-AdvancedCapacitorStockPart = advanced capacitor
-    .suffix = Rating 3
-    .desc = An advanced capacitor used in the construction of a variety of devices.
+ent-AdvancedCapacitorStockPart = capacitor avançado
+    .suffix = Classe 3
+    .desc = Um capacitor avançado usado na construção de uma variedade de dispositivos.
 
-ent-AdvancedMatterBinStockPart = advanced matter bin
-    .suffix = Rating 3
-    .desc = An advanced matter bin used in the construction of a variety of devices.
+ent-AdvancedMatterBinStockPart = coletor de matéria avançado
+    .suffix = Classe 3
+    .desc = Um coletor de matéria avançado usado na construção de uma variedade de dispositivos.
 
-ent-BluespaceMatterBinStockPart = bluespace matter bin
-    .suffix = Rating 6
-    .desc = A bluespace matter bin used in the construction of a variety of devices.
+ent-BluespaceMatterBinStockPart = coletor de matéria bluespace
+    .suffix = Classe 6
+    .desc = Um coletor de matéria bluespace usado na construção de uma variedade de dispositivos.
 
-ent-FemtoManipulatorStockPart = bluespace manipulator
-    .suffix = Rating 6
-    .desc = A bluespace manipulator used in the construction of a variety of devices.
+ent-FemtoManipulatorStockPart = manipulador bluespace
+    .suffix = Classe 6
+    .desc = Um manipulador bluespace usado na construção de uma variedade de dispositivos.
 
-ent-NanoManipulatorStockPart = advanced manipulator
-    .suffix = Rating 3
-    .desc = An advanced manipulator used in the construction of a variety of devices.
+ent-NanoManipulatorStockPart = manipulador avançado
+    .suffix = Classe 3
+    .desc = Um manipulador avançado usado na construção de uma variedade de dispositivos.
 
-ent-PicoManipulatorStockPart = super manipulator
-    .suffix = Rating 4
-    .desc = A super manipulator used in the construction of a variety of devices.
+ent-PicoManipulatorStockPart = manipulador super
+    .suffix = Classe 4
+    .desc = Um manipulador super usado na construção de uma variedade de dispositivos.
 
-ent-QuadraticCapacitorStockPart = bluespace capacitor
-    .suffix = Rating 6
-    .desc = A bluespace capacitor used in the construction of a variety of devices.
+ent-QuadraticCapacitorStockPart = capacitor bluespace
+    .suffix = Classe 6
+    .desc = Um capacitor bluespace usado na construção de uma variedade de dispositivos.
 
-ent-SuperCapacitorStockPart = super capacitor
-    .suffix = Rating 4
-    .desc = A super capacitor used in the construction of a variety of devices.
+ent-SuperCapacitorStockPart = capacitor super
+    .suffix = Classe 4
+    .desc = Um capacitor super usado na construção de uma variedade de dispositivos.
 
-ent-SuperMatterBinStockPart = super matter bin
-    .suffix = Rating 4
-    .desc = A super matter bin used in the construction of a variety of devices.
+ent-SuperMatterBinStockPart = coletor de matéria super
+    .suffix = Classe 4
+    .desc = Um coletor de matéria super usado na construção de uma variedade de dispositivos.
 
 # From: _NF/Entities/Objects/Misc/mail_capsule.yml
 
-ent-BoxMailCapsulePrimed = mail capsule box
-    .desc = A box of primed mail capsules.
+ent-BoxMailCapsulePrimed = caixa de cápsulas de correio
+    .desc = Uma caixa de cápsulas de correio preparadas.
 
-ent-MailCapsulePrimed = mail capsule
-    .suffix = Primed
+ent-MailCapsulePrimed = cápsula de correio
+    .suffix = Preparada
 
 # From: _NF/Entities/Objects/Misc/monkeycube.yml
 
-ent-ChickenCubeWrapped = chicken cube
-    .suffix = Wrapped
-    .desc = Unwrap this to get a chicken cube.
+ent-ChickenCubeWrapped = cubo de galinha
+    .suffix = Embalado
+    .desc = Desembrulhe para conseguir um cubo de galinha.
 
-ent-CowCubeWrapped = cow cube
-    .suffix = Wrapped
-    .desc = Unwrap this to get a cow cube.
+ent-CowCubeWrapped = cubo de vaca
+    .suffix = Embalado
+    .desc = Desembrulhe para conseguir um cubo de vaca.
 
-ent-DuckCubeWrapped = duck cube
-    .suffix = Wrapped
-    .desc = Unwrap this to get a duck cube.
+ent-DuckCubeWrapped = cubo de pato
+    .suffix = Embalado
+    .desc = Desembrulhe para conseguir um cubo de pato.
 
-ent-GoatCubeWrapped = goat cube
-    .suffix = Wrapped
-    .desc = Unwrap this to get a goat cube.
+ent-GoatCubeWrapped = cubo de cabra
+    .suffix = Embalado
+    .desc = Desembrulhe para conseguir um cubo de cabra.
 
-ent-PigCubeWrapped = pig cube
-    .suffix = Wrapped
-    .desc = Unwrap this to get a pig cube.
+ent-PigCubeWrapped = cubo de porco
+    .suffix = Embalado
+    .desc = Desembrulhe para conseguir um cubo de porco.
 
-ent-PoultryCubeBox = poultry cube box
-    .desc = A box of poultry cubes: chickens and ducks! Just add water!
+ent-PoultryCubeBox = caixa de cubos de aves
+    .desc = Uma caixa de cubos de aves: galinhas e patos! Apenas adicione água!
 
-ent-RuminantCubeBox = ruminant cube box
-    .desc = A box of ruminant cubes: a cow, a pig and goats! Just add water!
+ent-RuminantCubeBox = caixa de cubos de ruminantes
+    .desc = Uma caixa de cubos de ruminantes: uma vaca, um porco e cabras! Apenas adicione água!
 
 # From: _NF/Entities/Objects/Misc/mortuary_urn.yml
 
-ent-UrnMortuary = mortuary urn
-    .desc = Keeps your beloved friend's ashes not scattered in your pocket.
+ent-UrnMortuary = urna mortuária
+    .desc = Mantém as cinzas de seu amigo amado não espalhadas no seu bolso.
 
 # From: _NF/Entities/Objects/Misc/nfsd_medal_case.yml
 
-ent-MedalCaseNfsd = TSFMC medal case
-    .desc = This polished oak case hides medals to be given for distinguished service.
+ent-MedalCaseNfsd = estojo de medalhas TSFMC
+    .desc = Este estojo de carvalho polido esconde medalhas para serem dadas por serviço distinto.
 
 # From: _NF/Entities/Objects/Misc/paper.yml
 
-ent-BoxFolderClipboardPal = PAL clipboard
-    .desc = The tool of choice for the master of bureaucracy.
+ent-BoxFolderClipboardPal = prancheta PAL
+    .desc = A ferramenta de escolha para o mestre da burocracia.
 
-ent-BoxFolderPalBrown = PAL folder
-    .suffix = Brown
-    .desc = A folder to contain important TSF forms.
+ent-BoxFolderPalBrown = pasta PAL
+    .suffix = Marrom
+    .desc = Uma pasta para conter formulários TSF importantes.
 
-ent-BoxFolderPalGreen = PAL folder
+ent-BoxFolderPalGreen = pasta PAL
+    .suffix = Verde
+    .desc = Uma pasta para conter formulários TSF importantes.
 .suffix = Verde
     .desc = A folder to contain important TSF forms.
 
-ent-PaperDeadDropFax = suspicious fax
-    .desc = A sheet with blurry, crooked text on it. Seems to have been copied in a hurry.
+ent-PaperDeadDropFax = fax suspeito
+    .desc = Uma folha com texto borrado e torto. Parece ter sido copiado às pressas.
 
-ent-PaperDeadDropHint = suspicious note
-    .desc = A crinkled sheet with scribbles on it. Seems to have been written in a hurry.
+ent-PaperDeadDropHint = nota suspeita
+    .desc = Uma folha amassada com rabiscos. Parece ter sido escrito às pressas.
 
-ent-PaperPirateBountyManifest = pirate bounty reminder
-    .desc = A little scroll reminding you of the bounty you agreed to pilfer. How is it stained?
+ent-PaperPirateBountyManifest = lembrete de recompensa pirata
+    .desc = Um pequeno pergaminho lembrando você da recompensa que você concordou saquear. Como está manchado?
 
 # From: _NF/Entities/Objects/Misc/pen.yml
 
-ent-PublicAffairsPen = public affairs pen
-    .desc = A weighty fountain pen for TSF desk jockies. Writes in a thin blue line.
+ent-PublicAffairsPen = caneta de assuntos públicos
+    .desc = Uma caneta tinteiro pesada para funcionários de mesa TSF. Escreve em uma linha azul fina.
 
 # From: _NF/Entities/Objects/Misc/rubber_stamp.yml
 
-ent-RubberStampBailiff = bailiff's rubber stamp
+ent-RubberStampBailiff = carimbo de delegado
 
-ent-RubberStampDoc = director of care's rubber stamp
+ent-RubberStampDoc = carimbo de diretor de cuidados
 
-ent-RubberStampDoctor = doctor's rubber stamp
+ent-RubberStampDoctor = carimbo de médico
 
-ent-RubberStampEngineer = engineer's rubber stamp
+ent-RubberStampEngineer = carimbo de engenheiro
 
-ent-RubberStampPal = public affairs liaison's rubber stamp
+ent-RubberStampPal = carimbo de liaison de assuntos públicos
 
-ent-RubberStampSheriff = colonel's rubber stamp
+ent-RubberStampSheriff = carimbo de coronel
 
-ent-RubberStampSr = overseer's rubber stamp
+ent-RubberStampSr = carimbo de supervisor
 
-ent-RubberStampStc = station traffic controller's rubber stamp
+ent-RubberStampStc = carimbo de controlador de tráfego da estação
 
 # From: _NF/Entities/Objects/Misc/space_cash.yml
 
-ent-SpaceCashCounterfeit = creditts
-    .desc = Valerian Standard C- What the hell...? THESE ARE LOUSY FAKES!!!
+ent-SpaceCashCounterfeit = créditos
+    .desc = Padrão Valeriano C- Que diabos...? ESTAS SÃO FALSIFICAÇÕES PÉSSIMAS!!!
 
 # From: _NF/Entities/Objects/Misc/subdermal_implants.yml
 
-ent-BibleUserImplant = faith implant
-    .desc = This implant binds the user to the gods.
+ent-BibleUserImplant = implante de fé
+    .desc = Este implante une o usuário aos deuses.
 
-ent-DeathAcidifierImplantNF = death-acidifier implant
-    .desc = This implant melts the user and their equipment upon death.
+ent-DeathAcidifierImplantNF = implante acidificador de morte
+    .desc = Este implante derrete o usuário e seu equipamento após a morte.
 
-ent-DissonantWhispersImplant = dissonant whispers implant
-    .desc = This implant allows user to emit dissonant whispers.
+ent-DissonantWhispersImplant = implante de sussurros dissonantes
+    .desc = Este implante permite ao usuário emitir sussurros dissonantes.
 
-ent-FreelanceTrackingImplant = freelance tracking implant
-    .desc = This implant has a tracking device monitor for the Freelance radio channel.
+ent-FreelanceTrackingImplant = implante de rastreamento freelancer
+    .desc = Este implante tem um dispositivo de rastreamento monitor para o canal de rádio Freelance.
 
-ent-GibAcidifierImplantNF = gib-acidifier implant
-    .desc = This implant melts the user and their equipment upon gibbing.
+ent-GibAcidifierImplantNF = implante acidificador de gib
+    .desc = Este implante derrete o usuário e seu equipamento ao gibbar.
 
-ent-MedicalTrackingImplant = medical tracking implant
-    .desc = This implant has a tracking device monitor for the Medical radio channel.
+ent-MedicalTrackingImplant = implante de rastreamento médico
+    .desc = Este implante tem um dispositivo de rastreamento monitor para o canal de rádio Médico.
 
-ent-MimePowersImplant = mime vow implant
-    .desc = This implant lets the user take the mime's vow.
+ent-MimePowersImplant = implante de voto mímico
+    .desc = Este implante permite ao usuário tomar o voto de mímico.
 
-ent-RadioImplantFreelance = freelance radio implant
-    .desc = This implant grants access to the Freelance channel without a headset.
+ent-RadioImplantFreelance = implante de rádio freelancer
+    .desc = Este implante concede acesso ao canal Freelance sem fones de ouvido.
 
-ent-RedLightImplant = light implant (red)
-    .desc = This implant emits light from the user's skin on activation.
+ent-RedLightImplant = implante de luz (vermelho)
+    .desc = Este implante emite luz da pele do usuário na ativação.
 
 # From: _NF/Entities/Objects/Power/lights.yml
 
-ent-ExteriorLightBulb = exterior light bulb
-    .desc = A colorful light bulb with a small colored crystal inside.
+ent-ExteriorLightBulb = lâmpada exterior
+    .desc = Uma lâmpada colorida com um pequeno cristal colorido dentro.
 
-ent-LightTubeCrystalBlack = black crystal light tube
-    .desc = A high power high energy bulb which has a small colored crystal inside.
+ent-LightTubeCrystalBlack = tubo de luz de cristal preto
+    .desc = Uma lâmpada de alta energia e potência que tem um pequeno cristal colorido dentro.
 
-ent-SodiumLightBulb = sodium light bulb
-    .desc = A harsh lightbulb that both alarms and depresses you.
+ent-SodiumLightBulb = lâmpada de sódio
+    .desc = Uma lâmpada áspera que tanto alarma quanto deprime você.
 
 # From: _NF/Entities/Objects/Shields/shields.yml
 
-ent-EnergyShieldNfsd = TSFMC energy shield
+ent-EnergyShieldNfsd = escudo de energia TSFMC
 
 # From: _NF/Entities/Objects/Specific/Atmospherics/deposits.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseGasDeposit = gas deposit
-    .desc = Solidified deposits of an element, normally a gas at room temperature, can be drilled, heated and piped out.
+ent-BaseGasDeposit = depósito de gás
+    .desc = Depósitos solidificados de um elemento, normalmente um gás à temperatura ambiente, pode ser perfurado, aquecido e canalizado.
 
 ent-GasDepositAir = {ent-BaseGasDeposit}
-    .suffix = Air-like
+    .suffix = Tipo Ar
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositAmmonia = {ent-BaseGasDeposit}
-    .suffix = Ammonia
+    .suffix = Amônia
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositCarbonDioxide = {ent-BaseGasDeposit}
-    .suffix = Carbon Dioxide
+    .suffix = Dióxido de Carbono
     .desc = {ent-BaseGasDeposit.desc}
 
-ent-GasDepositLocatorUnpowered = gas deposit scanner
-    .suffix = Unpowered
-    .desc = A scanner that both checks the nearby area for gas deposits and estimates the composition of deposits.
+ent-GasDepositLocatorUnpowered = escâner de depósito de gás
+    .suffix = Sem energia
+    .desc = Um escâner que verifica a área próxima por depósitos de gás e estima a composição dos depósitos.
 
 ent-GasDepositMuddleEven = {ent-BaseGasDeposit}
     .suffix = Muddled
@@ -5533,15 +5891,15 @@ ent-GasDepositMuddlePlasma = {ent-BaseGasDeposit}
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositNitrogen = {ent-BaseGasDeposit}
-    .suffix = Nitrogen
+    .suffix = Nitrogênio
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositNitrousOxide = {ent-BaseGasDeposit}
-    .suffix = Nitrous Oxide
+    .suffix = Óxido Nitroso
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositOxygen = {ent-BaseGasDeposit}
-    .suffix = Oxygen
+    .suffix = Oxigênio
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositPlasma = {ent-BaseGasDeposit}
@@ -5549,1223 +5907,1240 @@ ent-GasDepositPlasma = {ent-BaseGasDeposit}
     .desc = {ent-BaseGasDeposit.desc}
 
 ent-GasDepositWaterVapor = {ent-BaseGasDeposit}
-    .suffix = Water Vapor
+    .suffix = Vapor de Água
     .desc = {ent-BaseGasDeposit.desc}
 
-ent-PinpointerGasDeposit = gas deposit pinpointer
+ent-PinpointerGasDeposit = localizador de depósito de gás
     .suffix = DEBUG
-    .desc = Pointing to the nearest gas deposit.
+    .desc = Apontando para o depósito de gás mais próximo.
 
 # From: _NF/Entities/Objects/Specific/chemical-containers.yml
 
-ent-FuelBananium = fuel-grade bananium
+ent-FuelBananium = bananium grau combustível
     .suffix = 25
-    .desc = A rod made from pressed bananium peels, suitable for fuel.
+    .desc = Uma vara feita de cascas de bananium prensadas, adequada para combustível.
 
-ent-FuelPlasma = fuel-grade plasma
+ent-FuelPlasma = plasma grau combustível
     .suffix = 25
-    .desc = A rod made of desaturated plasma, suitable for fuel.
+    .desc = Uma vara feita de plasma dessaturado, adequada para combustível.
 
-ent-FuelUranium = fuel-grade uranium
+ent-FuelUranium = urânio grau combustível
     .suffix = 25
-    .desc = A rod made of semi-processed uranium, suitable for fuel.
+    .desc = Uma vara feita de urânio semi-processado, adequada para combustível.
 
-ent-JerryCan = jerry can
-    .desc = A plastic jerry can fitted with a specialized hot-refill outlet allowing risk-free refueling.
+ent-JerryCan = galão
+    .desc = Um galão plástico equipado com uma saída de reabastecimento rápido especializada permitindo reabastecimento sem risco.
 
-ent-JugBluespace = bluespace jug
-    .desc = Uses bluespace technology to contain an impossible amount of liquid.
+ent-JugBluespace = galão bluespace
+    .desc = Usa tecnologia bluespace para conter uma quantidade impossível de líquido.
 
-ent-ReinforcedJug = reinforced jug
-    .desc = The sterile plastic of this jug has been reinforced with a metallic shell allowing it to contain an impressive amount of liquid.
+ent-ReinforcedJug = galão reforçado
+    .desc = O plástico estéril deste galão foi reforçado com uma casca metálica permitindo conter uma quantidade impressionante de líquido.
 
 # From: _NF/Entities/Objects/Specific/chemistry.yml
 
-ent-ServiceSelectiveDropper = service selective dropper
-    .desc = Used to transfer small amounts of a specified reagent between containers.
+ent-ServiceSelectiveDropper = gotejador seletivo de serviço
+    .desc = Usado para transferir pequenas quantidades de um reagente especificado entre recipientes.
 
-ent-VialBluespace = bluespace vial
-    .desc = A vial device created with bluespace technology.
+ent-VialBluespace = frasco bluespace
+    .desc = Um dispositivo de frasco criado com tecnologia bluespace.
 
 # From: _NF/Entities/Objects/Specific/Engineering/construction_bag.yml
 
-ent-ConstructionBag = construction bag
-    .desc = A robust bag for construction specialists and engineers alike to carry large amounts of construction materials. Magnetises any nearby construction materials when attached to a belt.
+ent-ConstructionBag = bolsa de construção
+    .desc = Uma bolsa robusta para especialistas de construção e engenheiros para carregar grandes quantidades de materiais de construção. Magnetiza quaisquer materiais de construção próximos quando anexado a um cinto.
 
-ent-ConstructionBagOfHolding = construction bag of holding
-    .desc = A robust bag of holding for rich construction specialists and engineers alike to carry large amounts of construction materials. Magnetises any nearby construction materials when attached to a belt.
+ent-ConstructionBagOfHolding = bolsa de construção de holding
+    .desc = Uma bolsa robusta de holding para especialistas de construção ricos e engenheiros para carregar grandes quantidades de materiais de construção. Magnetiza quaisquer materiais de construção próximos quando anexado a um cinto.
 
 # From: _NF/Entities/Objects/Specific/Hydroponics/leaves.yml
 
-ent-GroundTobaccoDrowsy = sweet dreams tobacco
-    .desc = A blend of tobacco ribbons. Feels sticky, smells like an old leather couch.
+ent-GroundTobaccoDrowsy = tabaco sonhos doces
+    .desc = Uma mistura de fitas de tabaco. Sente-se pegajoso, cheira como um sofá de couro antigo.
 
-ent-GroundTobaccoShrooms = fungal whiff tobacco
-    .desc = Fine cut dried shrooms. Just perfect.
+ent-GroundTobaccoShrooms = tabaco cheiro fúngico
+    .desc = Cogumelos secos cortados finos. Apenas perfeito.
 
-ent-GroundTobaccoStonecut = stonecut tobacco
-    .desc = Fine cut leaves, perfect for pipes.
+ent-GroundTobaccoStonecut = tabaco stonecut
+    .desc = Folhas cortadas finas, perfeitas para cachimbos.
 
-ent-ShroomsDried = dried shrooms
-    .desc = Dried shrooms, ready to be ground.
+ent-ShroomsDried = cogumelos secos
+    .desc = Cogumelos secos, prontos para serem moídos.
 
 # From: _NF/Entities/Objects/Specific/Hydroponics/seeds.yml
 
-ent-AvocadoSeeds = packet of avocado seeds
-    .desc = These seeds are the pits.
+ent-AvocadoSeeds = pacote de sementes de abacate
+    .desc = Estas sementes são o caroço.
 
-ent-BeeSeeds = jar of bees
-    .desc = Starter kit for a new apiarist.
+ent-BeeSeeds = frasco de abelhas
+    .desc = Kit inicial para um novo apicultor.
 
-ent-CoffeeSeeds = packet of coffee seeds
-    .desc = Perfect for any self-respecting coffee roaster.
+ent-CoffeeSeeds = pacote de sementes de café
+    .desc = Perfeito para qualquer torrador de café que se respeite.
 
-ent-CucumberSeeds = packet of cucumber seeds
-    .desc = Can you grow water?
+ent-CucumberSeeds = pacote de sementes de pepino
+    .desc = Você consegue cultivar água?
 
-ent-PearSeeds = packet of pear seeds
-    .desc = They are peary good for you.
+ent-PearSeeds = pacote de sementes de pera
+    .desc = Elas são pera-bom para você.
 
-ent-SpesosTreeSeeds = packet of speso seeds
-    .desc = These seeds seem like a miracle, but expert farmers get rich from the kitchen.
+ent-SpesosTreeSeeds = pacote de sementes de speso
+    .desc = Estas sementes parecem um milagre, mas fazendeiros especialistas ficam ricos da cozinha.
 
 # From: _NF/Entities/Objects/Specific/Mail/base_mail_large.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseMailLarge = mail-large-item-name-unaddressed
+ent-BaseMailLarge = correio-item-grande-nome-não-endereçado
 
 ent-MailLargeAdminFun = {ent-BaseMailLarge}
     .suffix = adminfun
 
 # From: _NF/Entities/Objects/Specific/Medical/healing.yml
 
-ent-NFPillCanisterMannitol = 
+ent-NFPillCanisterMannitol
     .suffix = Mannitol 10u, 10, Clarpy
-    .desc = Take two pills daily.
+    .desc = Tome dois pílulas diariamente.
 
-ent-NFPillMannitol = pill
+ent-NFPillMannitol = pílula
     .suffix = Mannitol 10u
 
 # From: _NF/Entities/Objects/Specific/Medical/hypospray.yml
 
-ent-BlankMediPen = empty medipen
-    .desc = A empty medipen with endless potential. Does not allow for deviation from Nanotrasen recipes.
+ent-BlankMediPen = medipen vazio
+    .desc = Um medipen vazio com potencial infinito. Não permite desvio das receitas Nanotrasen.
 
-ent-BruizAutoInjector = bruizine auto-injector
-    .desc = A rapid dose of bruizine and tranexamic acid, intended for combat applications.
+ent-BruizAutoInjector = auto-injetor bruizine
+    .desc = Uma dose rápida de bruizine e ácido tranexâmico, destinado a aplicações de combate.
 
-ent-CrisisAutoInjector = crisis auto-injector
-    .desc = A rapid dose of stabilizers and vasodialaters for use on critically injured patients. Contains inaprovaline and dexalin plus.
+ent-CrisisAutoInjector = auto-injetor de crise
+    .desc = Uma dose rápida de estabilizadores e vasodilatadores para uso em pacientes criticamente feridos. Contém inaprovalina e dexalin plus.
 
-ent-EthylredoxrazineAutoInjector = barkeeper's friend auto-injector
-    .desc = A rapid dose of ethanol neutralizers and anti-toxins for customers who have maybe had enough for the night. Contains ethylredoxrazine and dylovene.
+ent-EthylredoxrazineAutoInjector = auto-injetor amigo do barman
+    .desc = Uma dose rápida de neutralizadores de etanol e anti-toxinas para clientes que talvez tiveram o suficiente para a noite. Contém ethylredoxrazine e dylovene.
 
-ent-HemostasisAutoInjector = hemostasis auto-injector
-    .desc = A rapid dose of coagulants and circulatory fluids. Contains tranexamic acid and saline.
+ent-HemostasisAutoInjector = auto-injetor de hemostasia
+    .desc = Uma dose rápida de coagulantes e fluidos circulatórios. Contém ácido tranexâmico e solução salina.
 
-ent-HypoBrigmedic = NTCS-102 hypospray
-    .desc = A commercial hypospray designed by Nanotrasen Chemical Supply. It has a larger chemical reservoir compared to its commercial version and a slightly lowered injection delay.
+ent-HypoBrigmedic = hipospray NTCS-102
+    .desc = Um hipospray comercial projetado por Nanotrasen Chemical Supply. Tem um reservatório químico maior comparado à sua versão comercial e um atraso de injeção ligeiramente reduzido.
 
-ent-HypoMini = NTCS-101 hypospray
-    .desc = A commercial hypospray designed by Nanotrasen Chemical Supply. It has two built in safety features for the consumer market, a small chemical reservoir and an injection delay.
+ent-HypoMini = hipospray NTCS-101
+    .desc = Um hipospray comercial projetado por Nanotrasen Chemical Supply. Tem dois recursos de segurança embutidos para o mercado consumidor, um pequeno reservatório químico e um atraso de injeção.
 
-ent-HypoMiniLimitedEdition = NTCS-103 hypospray
-    .desc = A modified, experimental hypospray designed as a limited edition by the Nanotrasen Chemical Supply. It has a lowered injection delay and a slighlty modified chemical reservoir.
+ent-HypoMiniLimitedEdition = hipospray NTCS-103
+    .desc = Um hipospray modificado e experimental projetado como edição limitada pela Nanotrasen Chemical Supply. Tem um atraso de injeção reduzido e um reservatório químico ligeiramente modificado.
 
-ent-LacerAutoInjector = lacerinol auto-injector
-    .desc = A rapid dose of lacerinol and tranexamic acid, intended for combat applications.
+ent-LacerAutoInjector = auto-injetor lacerinol
+    .desc = Uma dose rápida de lacerinol e ácido tranexâmico, destinado a aplicações de combate.
 
-ent-PolyAutoInjector = polypyrylium oligomers auto-injector
-    .desc = A rapid dose of polyp... polypyryl... polypyryliu.... It contains extract of spaceman's trumpet. Intended to address brute damage and asphyxiation.
+ent-PolyAutoInjector = auto-injetor oligômeros polypyrylium
+    .desc = Uma dose rápida de polip... polypyryl... polypyryliu.... Contém extrato de trombeta de astronauta. Destinado a abordar danos brutos e asfixia.
 
-ent-StimulantAutoInjector = stimulant auto-injector
-    .desc = A rapid dose of potent stimulants and governing agents. Contains desoxyephedrine and dylovene. Use with extreme caution.
+ent-StimulantAutoInjector = auto-injetor estimulante
+    .desc = Uma dose rápida de estimulantes potentes e agentes governantes. Contém desoxyephedrine e dylovene. Use com cautela extrema.
 
 # From: _NF/Entities/Objects/Specific/Medical/medical_bag.yml
 
-ent-MedicalBag = medical bag
-    .desc = A medical bag designed to hold topicals and small reagent containers. For the medic on the go.
+ent-MedicalBag = bolsa médica
+    .desc = Uma bolsa médica projetada para segurar tópicos e pequenos recipientes de reagentes. Para o médico em movimento.
 
 # From: _NF/Entities/Objects/Specific/pirate.yml
 
-ent-BasePirateUplink = PDV Uplink
-    .suffix = Empty
-    .desc = A scarred tablet encased in heat-resistant composite with slot for chits on the side.
+ent-BasePirateUplink = Uplink PDV
+    .suffix = Vazio
+    .desc = Um tablet marcado encerrado em composto resistente ao calor com fenda para fichas no lado.
 
-ent-Doubloon = data chit
+ent-Doubloon = ficha de dados
     .suffix = 100 DC
-    .desc = A rugged, shielded disk containing encrypted intelligence.
+    .desc = Um disco robusto e blindado contendo inteligência criptografada.
 
 # From: _NF/Entities/Objects/Specific/rehydrateable.yml
 
-ent-ChickenCube = chicken cube
+ent-ChickenCube = cubo de galinha
 
-ent-DehydratedSharkMinnow = dehydrated sharkminnow
-    .desc = Looks like a plush toy sharkminnow, but just add water and it becomes a real-life sharkminnow!
+ent-DehydratedSharkMinnow = sharkminnow desidratado
+    .desc = Parece um sharkminnow de pelúcia, mas apenas adicione água e se torna um sharkminnow de verdade!
 
-ent-DuckCube = duck cube
+ent-DuckCube = cubo de pato
 
-ent-PigCube = pig cube
+ent-PigCube = cubo de porco
 
 # From: _NF/Entities/Objects/Specific/Research/rped.yml
 
 ent-RPED = RPED
-    .desc = A Rapid Part Exchange Device, perfect for quickly upgrading machines.
+    .desc = Um Dispositivo de Troca Rápida de Peças, perfeito para atualizar máquinas rapidamente.
 
 # From: _NF/Entities/Objects/Specific/Robotics/borg_hand_placeholder.yml
 
-ent-HandPlaceholder = unknown tool
+ent-HandPlaceholder = ferramenta desconhecida
 
 # From: _NF/Entities/Objects/Specific/Robotics/borg_modules.yml
 
-ent-BorgModuleAdvancedMining = advanced mining cyborg module
+ent-BorgModuleAdvancedMining = módulo cibernético de mineração avançada
 
-ent-BorgModuleAdvancedParamedic = advanced paramedic cyborg module
+ent-BorgModuleAdvancedParamedic = módulo cibernético paramédico avançado
 
-ent-BorgModuleJetpack = jetpack cyborg module
+ent-BorgModuleJetpack = módulo cibernético jetpack
 
-ent-BorgModuleJetpackADM = pre-fracture jetpack cyborg module
+ent-BorgModuleJetpackADM = módulo cibernético jetpack pré-fractura
 
 # From: _NF/Entities/Objects/Specific/security.yml
 
-ent-BaseSecurityUplinkRadio = TSFMC uplink
-    .suffix = Empty
-    .desc = Retro looking old radio...
+ent-BaseSecurityUplinkRadio = uplink TSFMC
+    .suffix = Vazio
+    .desc = Rádio antigo com aparência retrô...
 
-ent-FederationMilitaryCredit = Federation Military Credit
+ent-FederationMilitaryCredit = Crédito Militar da Federação
     .suffix = 100 FMC
-    .desc = A token awarded to TSF personnel for turning in contraband. It can be exchanged in an TSFMC uplink device for a variety of law enforcement tools.
+    .desc = Um token concedido ao pessoal TSF por entregar contrabando. Pode ser trocado em um dispositivo uplink TSFMC por uma variedade de ferramentas de aplicação da lei.
 
-ent-NfsdDeployableBarrier = TSFMC deployable barrier
-    .desc = A deployable barrier. Swipe your ID card to lock/unlock it.
+ent-NfsdDeployableBarrier = barreira implantável TSFMC
+    .desc = Uma barreira implantável. Passe seu cartão ID para travar/destravar.
 
 # From: _NF/Entities/Objects/Specific/Service/condimentcup.yml
 
-ent-CondimentCupDispenser = condiment cup dispenser
-    .desc = It holds little condiment cups. They claim to be recyled.
+ent-CondimentCupDispenser = dispensador de copos de condimento
+    .desc = Segura pequenos copos de condimento. Eles alegam ser reciclados.
 
-ent-CondimentCupDispenser10 = condiment cup dispenser
+ent-CondimentCupDispenser10 = dispensador de copos de condimento
     .suffix = 10
-    .desc = It holds little condiment cups. They claim to be recyled.
+    .desc = Segura pequenos copos de condimento. Eles alegam ser reciclados.
 
 # From: _NF/Entities/Objects/Specific/Service/napkin.yml
 
-ent-Napkin = napkin
-    .desc = A small napkin.
+ent-Napkin = guardanapo
+    .desc = Um pequeno guardanapo.
 
-ent-NapkinDrum = napkin drum
-    .desc = Holds napkins.
+ent-NapkinDrum = tambor de guardanapos
+    .desc = Segura guardanapos.
 
-ent-NapkinDrum5 = napkin drum
+ent-NapkinDrum5 = tambor de guardanapos
     .suffix = 5
-    .desc = Holds napkins.
+    .desc = Segura guardanapos.
 
-ent-TrashNapkin = crumpled napkin
-    .desc = A crumpled napkin.
+ent-TrashNapkin = guardanapo amassado
+    .desc = Um guardanapo amassado.
 
 # From: _NF/Entities/Objects/Specific/Service/vending_machine_restock.yml
 
-ent-VendingMachineRestockAmmo = Liberation Station restock box
-    .desc = A box full of ammo and guns for the Liberation Station. 2TH AMENDMENT. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockAmmo = caixa de reabastecimento Liberation Station
+    .desc = Uma caixa cheia de munição e armas para a Liberation Station. 2ª EMENDA. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
-ent-VendingMachineRestockAstroVend = AstroVend restock box
-    .desc = Rock and stone! A restock for the AstroVend. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockAstroVend = caixa de reabastecimento AstroVend
+    .desc = Rock and stone! Um reabastecimento para a AstroVend. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
-ent-VendingMachineRestockAutoTuneVend = AutoTuneVend restock box
-    .desc = A box containing music and stuff for the AutoTuneVend machine. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockAutoTuneVend = caixa de reabastecimento AutoTuneVend
+    .desc = Uma caixa contendo música e coisas para a máquina AutoTuneVend. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
-ent-VendingMachineRestockCuddlyCritterVend = CuddlyCritterVend restock box
-    .desc = A box containing toys and plushies for the CuddlyCritterVend machine. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockCuddlyCritterVend = caixa de reabastecimento CuddlyCritterVend
+    .desc = Uma caixa contendo brinquedos e pelúcias para a máquina CuddlyCritterVend. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
-ent-VendingMachineRestockLessLethalVend = LessLethalVend restock box
-    .desc = A box containing rubber bullets and disruptors for the LessLethalVend machine. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockLessLethalVend = caixa de reabastecimento LessLethalVend
+    .desc = Uma caixa contendo balas de borracha e disruptores para a máquina LessLethalVend. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
-ent-VendingMachineRestockNonLethalVend = NonLethalVend restock box
-    .desc = A box containing practice bullets for the NonLethalVend machine. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockNonLethalVend = caixa de reabastecimento NonLethalVend
+    .desc = Uma caixa contendo balas de prática para a máquina NonLethalVend. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
-ent-VendingMachineRestockPottedPlantVend = Plant-O-Matic restock box
-    .desc = A box containing potted plants for the Plant-O-Matic vending machine. A label reads \"THE BOX IS TAMPER-PROOF AND WILL DESTROY ITS CONTENT ON HARM.\"
+ent-VendingMachineRestockPottedPlantVend = caixa de reabastecimento Plant-O-Matic
+    .desc = Uma caixa contendo plantas em vasos para a máquina de vendas Plant-O-Matic. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SOBRE DANO."
 
 # From: _NF/Entities/Objects/Specific/Wizard/conjured_items.yml
 
 # Abstract entity (referenceable by children)
-ent-ConjuredObject10 = 
-    .suffix = Conjured
-    .desc = A magically created entity, that'll vanish from existence eventually.
+ent-ConjuredObject10
+    .suffix = Conjuro
+    .desc = Uma entidade criada magicamente, que eventualmente desaparecerá da existência.
 
-ent-SoapConjured = soap
+ent-SoapConjured = sabão
 
-ent-SoapConjuredBloodCultCluster = soap
+ent-SoapConjuredBloodCultCluster = sabão
 
 ent-SoapletBloodCult = soaplet
 
 # From: _NF/Entities/Objects/Storage/pouches.yml
 
-ent-NFPouchAtmospherics = atmos technician's pouch
+ent-NFPouchAtmospherics = bolsa de técnico atmos
     .desc = {ent-NFPouchBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-NFPouchBase = pouch
-    .suffix = Empty
-    .desc = A pouch for organizing miscellaneous items.
+ent-NFPouchBase = bolsa
+    .suffix = Vazia
+    .desc = Uma bolsa para organizar itens diversos.
 
-ent-NFPouchCaptain = captains's pouch
+ent-NFPouchCaptain = bolsa de capitão
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchCargo = cargo technician's pouch
+ent-NFPouchCargo = bolsa de técnico de carga
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchChaplain = chaplain's pouch
+ent-NFPouchChaplain = bolsa de capelão
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchClown = clown's pouch
+ent-NFPouchClown = bolsa de palhaço
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchContractor = contractor's pouch
+ent-NFPouchContractor = bolsa de contratista
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchEngineering = engineer's pouch
+ent-NFPouchEngineering = bolsa de engenheiro
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchFirstAid = first aid pouch
+ent-NFPouchFirstAid = bolsa de primeiros socorros
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchFirstAidAlt = first aid pouch
+ent-NFPouchFirstAidAlt = bolsa de primeiros socorros
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchHydroponics = botanist's pouch
+ent-NFPouchHydroponics = bolsa de botânico
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchJanitor = janitor's pouch
+ent-NFPouchJanitor = bolsa de faxineiro
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchMailCarrier = mail carrier's pouch
+ent-NFPouchMailCarrier = bolsa de carteiro
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchMercenary = mercenary's pouch
+ent-NFPouchMercenary = bolsa de mercenário
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchMime = mime's pouch
+ent-NFPouchMime = bolsa de mímico
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchNfsd = TSFMC pouch
+ent-NFPouchNfsd = bolsa TSFMC
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchPirate = pirate's pouch
+ent-NFPouchPirate = bolsa de pirata
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchPirateCaptain = pirate captain's pouch
+ent-NFPouchPirateCaptain = bolsa de capitão pirata
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchPrivateSecurity = private security pouch
+ent-NFPouchPrivateSecurity = bolsa de segurança privada
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchPunk = punk pouch
+ent-NFPouchPunk = bolsa punk
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchSalvage = salvage specialist's pouch
+ent-NFPouchSalvage = bolsa de especialista em salvamento
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchScience = scientist's pouch
+ent-NFPouchScience = bolsa de cientista
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchSr = overseer's pouch
+ent-NFPouchSr = bolsa de supervisor
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFPouchUtility = utility pouch
+ent-NFPouchUtility = bolsa utilitária
     .desc = {ent-NFPouchBase.desc}
 
-ent-NFTobaccoPouch = tobacco pouch
-    .desc = A synth-leather pouch for safe storing pipe tobacco.
+ent-NFTobaccoPouch = bolsa de tabaco
+    .desc = Uma bolsa de couro sintético para armazenar tabaco de cachimbo com segurança.
 
 # From: _NF/Entities/Objects/Storage/weapon_cases.yml
 
-ent-WeaponCaseHeavy = weapon case
-    .suffix = Heavy
-    .desc = A reinforced casing for storing heavy armaments.
+ent-WeaponCaseHeavy = estojo de arma
+    .suffix = Pesado
+    .desc = Um estojo reforçado para armazenar armamentos pesados.
 
-ent-WeaponCaseHeavyAmmo = ammo case
-    .suffix = Heavy
-    .desc = A reinforced casing for storing heavy cannon shells or bulk low caliber munitions.
+ent-WeaponCaseHeavyAmmo = estojo de munição
+    .suffix = Pesado
+    .desc = Um estojo reforçado para armazenar projéteis de canhão pesado ou munição de baixo calibre em massa.
 
-ent-WeaponCaseLong = weapon case
-    .suffix = Long
-    .desc = A reinforced casing for storing long weapons and accessories.
+ent-WeaponCaseLong = estojo de arma
+    .suffix = Longo
+    .desc = Um estojo reforçado para armazenar armas longas e acessórios.
 
-ent-WeaponCaseShort = weapon case
-    .suffix = Short
-    .desc = A reinforced casing for storing side arms and weapon accessories.
+ent-WeaponCaseShort = estojo de arma
+    .suffix = Curto
+    .desc = Um estojo reforçado para armazenar armas secundárias e acessórios de arma.
 
-ent-WeaponCaseShortAmmo = ammo case
-    .suffix = Short
-    .desc = A reinforced casing for storing ammo.
+ent-WeaponCaseShortAmmo = estojo de munição
+    .suffix = Curto
+    .desc = Um estojo reforçado para armazenar munição.
 
-ent-WeaponCaseShortDocuments = document case
-    .suffix = Short
-    .desc = A reinforced casing for storing important documents.
+ent-WeaponCaseShortDocuments = estojo de documentos
+    .suffix = Curto
+    .desc = Um estojo reforçado para armazenar documentos importantes.
 
-ent-WeaponCaseShortExplosives = explosives case
-    .suffix = Short
-    .desc = A reinforced casing for storing explosives.
+ent-WeaponCaseShortExplosives = estojo de explosivos
+    .suffix = Curto
+    .desc = Um estojo reforçado para armazenar explosivos.
 
 # From: _NF/Entities/Objects/Tools/access_configurator.yml
 
-ent-AccessConfiguratorAntag = Black market access configurator
+ent-AccessConfiguratorAntag = configurador de acesso de mercado negro
     .suffix = Antag
-    .desc = A modified access configurator sold on the black market.
+    .desc = Um configurador de acesso modificado vendido no mercado negro.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_armory.yml
 
-ent-BlueprintClothingOuterHardsuitScaf = scaf hardsuit blueprint
-    .desc = A blueprint with a schematic of a scaf hardsuit. It can be inserted into an autolathe or a techfab.
+ent-BlueprintClothingOuterHardsuitScaf = projeto de macacão scaf
+    .desc = Um projeto com esquema de um macacão scaf. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPortableRecharger = portable recharger blueprint
-    .desc = A blueprint with a schematic of a portable recharger. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPortableRecharger = projeto de recarregador portátil
+    .desc = Um projeto com esquema de um recarregador portátil. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintWeaponLaserSvalinn = svalinn pistol blueprint
-    .desc = A blueprint with a schematic of a svalinn pistol. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintWeaponLaserSvalinn = projeto de pistola svalinn
+    .desc = Um projeto com esquema de uma pistola svalinn. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_engineering.yml
 
-ent-NFBlueprintClothingBackpackDuffelHolding = bluespace duffel blueprint
-    .desc = A blueprint with a schematic of a bluespace duffel. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintClothingBackpackDuffelHolding = projeto de mochila bluespace
+    .desc = Um projeto com esquema de uma mochila bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintClothingBackpackHolding = bluespace backpack blueprint
-    .desc = A blueprint with a schematic of a bluespace backpack. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintClothingBackpackHolding = projeto de mochila de costas bluespace
+    .desc = Um projeto com esquema de uma mochila de costas bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintClothingBackpackMessengerHolding = bluespace messenger bag blueprint
-    .desc = A blueprint with a schematic of a bluespace messenger bag. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintClothingBackpackMessengerHolding = projeto de bolsa mensageira bluespace
+    .desc = Um projeto com esquema de uma bolsa mensageira bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintClothingBackpackSatchelHolding = bluespace satchel blueprint
-    .desc = A blueprint with a schematic of a bluespace satchel. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintClothingBackpackSatchelHolding = projeto de sacola bluespace
+    .desc = Um projeto com esquema de uma sacola bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintConstructionBagOfHolding = bluespace construction bag blueprint
-    .desc = A blueprint with a schematic of a bluespace construction bag. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintConstructionBagOfHolding = projeto de bolsa de construção bluespace
+    .desc = Um projeto com esquema de uma bolsa de construção bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintJawsOfLife = jaws of life blueprint
-    .desc = A blueprint with a schematic of a jaws of life. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintJawsOfLife = projeto de mandíbulas da vida
+    .desc = Um projeto com esquema de mandíbulas da vida. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPortableGeneratorDKJr = P.R.O.F.P.A.C.M.A.N. blueprint
-    .desc = A blueprint with a schematic of a P.R.O.F.P.A.C.M.A.N.-type portable generator. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPortableGeneratorDKJr = projeto P.R.O.F.P.A.C.M.A.N.
+    .desc = Um projeto com esquema de gerador portátil tipo P.R.O.F.P.A.C.M.A.N.. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPowerCellMediumPrinted = medium-capacity power cell blueprint
-    .desc = A blueprint with a schematic of a medium-capacity power cell. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPowerCellMediumPrinted = projeto de célula de energia capacidade média
+    .desc = Um projeto com esquema de célula de energia capacidade média. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPowerCellMicroreactor = microreactor blueprint
-    .desc = A blueprint with a schematic of a microreactor. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPowerCellMicroreactor = projeto de microrreator
+    .desc = Um projeto com esquema de microrreator. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPowerDrill = power drill blueprint
-    .desc = A blueprint with a schematic of a power drill. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPowerDrill = projeto de perfuradora de energia
+    .desc = Um projeto com esquema de perfuradora de energia. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintRCDAmmo = compressed matter blueprint
-    .desc = A blueprint with a schematic of a compressed matter. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintRCDAmmo = projeto de matéria comprimida
+    .desc = Um projeto com esquema de matéria comprimida. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintSignallerAdvanced = advanced signaller blueprint
-    .desc = A blueprint with a schematic of an advanced signaller. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintSignallerAdvanced = projeto de sinalizador avançado
+    .desc = Um projeto com esquema de sinalizador avançado. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintWelderExperimental = experimental welder blueprint
-    .desc = A blueprint with a schematic of an experimental welder. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintWelderExperimental = projeto de soldador experimental
+    .desc = Um projeto com esquema de soldador experimental. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_expedition_loot.yml
 
-ent-NFBlueprintAmmoBox12_gaugeIncendiary = incendiary 12 gauge shotgun ammo blueprint
-    .desc = A blueprint with a schematic of an incendiary shotgun ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox12_gaugeIncendiary = projeto de munição incendiária 12 gauge
+    .desc = Um projeto com esquema de munição incendiária 12 gauge. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox12_gaugeUranium = uranium 12 gauge shotgun ammo blueprint
-    .desc = A blueprint with a schematic of an uranium shotgun ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox12_gaugeUranium = projeto de munição urânio 12 gauge
+    .desc = Um projeto com esquema de munição urânio 12 gauge. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox45_magnumIncendiary = incendiary .45 magnum ammo blueprint
-    .desc = A blueprint with a schematic of an incendiary .45 magnum ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox45_magnumIncendiary = projeto de munição incendiária .45 magnum
+    .desc = Um projeto com esquema de munição incendiária .45 magnum. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox45_magnumUranium = uranium .45 magnum ammo blueprint
-    .desc = A blueprint with a schematic of an uranium .45 magnum ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox45_magnumUranium = projeto de munição urânio .45 magnum
+    .desc = Um projeto com esquema de munição urânio .45 magnum. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox556x45mmIncendiary = incendiary 556x45mm blueprint
-    .desc = A blueprint with a schematic of an incendiary 556x45mm ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox556x45mmIncendiary = projeto de munição incendiária 556x45mm
+    .desc = Um projeto com esquema de munição incendiária 556x45mm. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox556x45mmUranium = uranium 556x45mm blueprint
-    .desc = A blueprint with a schematic of an uranium 556x45mm ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox556x45mmUranium = projeto de munição urânio 556x45mm
+    .desc = Um projeto com esquema de munição urânio 556x45mm. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox762x39mmIncendiary = incendiary 762x39mm blueprint
-    .desc = A blueprint with a schematic of an incendiary 762x39mm ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox762x39mmIncendiary = projeto de munição incendiária 762x39mm
+    .desc = Um projeto com esquema de munição incendiária 762x39mm. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox762x39mmUranium = uranium 762x39mm blueprint
-    .desc = A blueprint with a schematic of an uranium 762x39mm ammo. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox762x39mmUranium = projeto de munição urânio 762x39mm
+    .desc = Um projeto com esquema de munição urânio 762x39mm. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox9x19mmIncendiary = incendiary 9x19mm blueprint
-    .desc = A blueprint with a schematic of an incendiary 9x19mm. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox9x19mmIncendiary = projeto de munição incendiária 9x19mm
+    .desc = Um projeto com esquema de munição incendiária 9x19mm. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintAmmoBox9x19mmUranium = uranium 9x19mm blueprint
-    .desc = A blueprint with a schematic of an uranium 9x19mm. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAmmoBox9x19mmUranium = projeto de munição urânio 9x19mm
+    .desc = Um projeto com esquema de munição urânio 9x19mm. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintEnergyPickaxe = holopickaxe blueprint
-    .desc = A blueprint with a schematic of a holopickaxe. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintEnergyPickaxe = projeto de picareta holográfica
+    .desc = Um projeto com esquema de picareta holográfica. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintWeaponLaserCannon = laser cannon blueprint
-    .desc = A blueprint with a schematic of a laser cannon. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintWeaponLaserCannon = projeto de canhão laser
+    .desc = Um projeto com esquema de canhão laser. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintWeaponXrayCannon = x-ray cannon blueprint
-    .desc = A blueprint with a schematic of a x-ray cannon. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintWeaponXrayCannon = projeto de canhão raio-x
+    .desc = Um projeto com esquema de canhão raio-x. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_medical.yml
 
-ent-NFBlueprintBluespaceBeaker = bluespace beaker blueprint
-    .desc = A blueprint with a schematic of a bluespace beaker. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintBluespaceBeaker = projeto de copo bluespace
+    .desc = Um projeto com esquema de copo bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintJugBluespace = bluespace jug blueprint
-    .desc = A blueprint with a schematic of a bluespace jug. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintJugBluespace = projeto de galão bluespace
+    .desc = Um projeto com esquema de galão bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintSyringeBluespace = bluespace syringe blueprint
-    .desc = A blueprint with a schematic of a bluespace syringe. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintSyringeBluespace = projeto de seringa bluespace
+    .desc = Um projeto com esquema de seringa bluespace. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintVialBluespace = bluespace vial blueprint
-    .desc = A blueprint with a schematic of a bluespace vial. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintVialBluespace = projeto de frasco bluespace
+    .desc = Um projeto com esquema de frasco bluespace. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_salvage.yml
 
-ent-NFBlueprintAdvancedMineralScannerEmpty = advanced mineral scanner blueprint
-    .desc = A blueprint with a schematic of an advanced mineral scanner. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAdvancedMineralScannerEmpty = projeto de escâner mineral avançado
+    .desc = Um projeto com esquema de escâner mineral avançado. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintClothingOuterHardsuitMaximPrototype = experimental salvager hardsuit blueprint
-    .desc = A blueprint with a schematic of an experimental salvager hardsuit. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintClothingOuterHardsuitMaximPrototype = projeto de macacão de salvamento experimental
+    .desc = Um projeto com esquema de macacão de salvamento experimental. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintMiningDrillDiamond = diamond tipped mining drill blueprint
-    .desc = A blueprint with a schematic of a diamond tipped mining drill. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintMiningDrillDiamond = projeto de perfuradora de mineração ponta diamante
+    .desc = Um projeto com esquema de perfuradora de mineração ponta diamante. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintOreBagOfHolding = bluespace ore bag blueprint
-    .desc = A blueprint with a schematic of a bluespace ore bag. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintOreBagOfHolding = projeto de bolsa de minério bluespace
+    .desc = Um projeto com esquema de bolsa de minério bluespace. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_science.yml
 
-ent-NFBlueprintClothingShoesBootsMagAdv = advanced magboots blueprint
-    .desc = A blueprint with a schematic of an advanced magboots. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintClothingShoesBootsMagAdv = projeto de magbots avançadas
+    .desc = Um projeto com esquema de magbots avançadas. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPicoManipulatorStockPart = super manipulator blueprint
-    .desc = A blueprint with a schematic of a super manipulator. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPicoManipulatorStockPart = projeto de manipulador super
+    .desc = Um projeto com esquema de manipulador super. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintRped = RPED blueprint
-    .desc = A blueprint with a schematic of a RPED. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintRped = projeto RPED
+    .desc = Um projeto com esquema de RPED. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintSuperCapacitorStockPart = super capacitor blueprint
-    .desc = A blueprint with a schematic of a super capacitor. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintSuperCapacitorStockPart = projeto de capacitor super
+    .desc = Um projeto com esquema de capacitor super. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintSuperMatterBinStockPart = super matter bin blueprint
-    .desc = A blueprint with a schematic of a super matter bin. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintSuperMatterBinStockPart = projeto de coletor de matéria super
+    .desc = Um projeto com esquema de coletor de matéria super. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_service.yml
 
-ent-NFBlueprintAdvMopItem = advanced mop blueprint
-    .desc = A blueprint with a schematic of an advanced mop. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintAdvMopItem = projeto de mope avançado
+    .desc = Um projeto com esquema de mope avançado. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPlantAnalyzer = plant analyzer blueprint
-    .desc = A blueprint with a schematic of a plant analyzer. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPlantAnalyzer = projeto de analisador de plantas
+    .desc = Um projeto com esquema de analisador de plantas. Pode ser inserido em uma autolathe ou techfab.
 
-ent-NFBlueprintPlantBagOfHolding = bluespace plant bag blueprint
-    .desc = A blueprint with a schematic of a bluespace plant bag. It can be inserted into an autolathe or a techfab.
+ent-NFBlueprintPlantBagOfHolding = projeto de bolsa de plantas bluespace
+    .desc = Um projeto com esquema de bolsa de plantas bluespace. Pode ser inserido em uma autolathe ou techfab.
 
 # From: _NF/Entities/Objects/Tools/contrabandappraisal.yml
 
-ent-ContrabandAppraisalTool = contraband appraisal tool
-    .desc = An officer's best friend, with a quantum connection to the NT database and the ability to appraise even the toughest items.
+ent-ContrabandAppraisalTool = ferramenta de avaliação de contrabando
+    .desc = O melhor amigo de um oficial, com conexão quântica ao banco de dados NT e capacidade de avaliar até os itens mais difíceis.
 
-ent-ContrabandAppraisalToolPirate = Skizzit's Price-It-All Guide
-    .desc = A book claiming to appraise all items at their black market rate. The book is in tatters, and is missing several pages.
+ent-ContrabandAppraisalToolPirate = Guia de Preços-Tudo do Skizzit
+    .desc = Um livro alegando avaliar todos os itens na taxa do mercado negro. O livro está em trapos, e faltam várias páginas.
 
 # From: _NF/Entities/Objects/Tools/crowbars.yml
 
-ent-CrowbarPocket = pocket crowbar
+ent-CrowbarPocket = pé-de-cabra de bolso
 
 # From: _NF/Entities/Objects/Tools/emag.yml
 
-ent-DemagUnlimited = cryptographic resequencer
-    .suffix = Unlimited
-    .desc = The all-in-one unhacking solution. The last bastion of order. The iconic DEMAG.
+ent-DemagUnlimited = resequenciador criptográfico
+    .suffix = Ilimitado
+    .desc = A solução tudo-em-um para desviar de hackers. O último bastião da ordem. O icônico DEMAG.
 
 # From: _NF/Entities/Objects/Tools/flare.yml
 
-ent-BoxDispenserFlare = emergency flare dispenser
-    .desc = Dispenses emergency flares.
+ent-BoxDispenserFlare = dispensador de sinalizadores de emergência
+    .desc = Dispensa sinalizadores de emergência.
 
 # From: _NF/Entities/Objects/Tools/flashlights.yml
 
 ent-FlashlightNfsdLite = tac-lite
-    .desc = A tactical flashlight used by military personnel from the TSF.
+    .desc = Uma lanterna tática usada por pessoal militar da TSF.
 
 # From: _NF/Entities/Objects/Tools/gas_tanks.yml
 
-ent-DoubleEmergencyAirTank = double emergency air tank
-    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of air for it's small size.
+ent-DoubleEmergencyAirTank = tanque de ar de emergência duplo
+    .desc = Um container de suporte de vida de emergência de tanque duplo de alta qualidade. Segura uma quantidade decente de ar para seu tamanho pequeno.
 
 # From: _NF/Entities/Objects/Tools/jetpacks.yml
 
-ent-JetpackNfsd = TSFMC jetpack
-    .suffix = Empty
+ent-JetpackNfsd = jetpack TSFMC
+    .suffix = Vazio
 
-ent-JetpackNfsdFilled = TSFMC jetpack
+ent-JetpackNfsdFilled = jetpack TSFMC
+    .suffix = Cheio
 .suffix = Cheio
 
 # From: _NF/Entities/Objects/Tools/medicalappraisal.yml
 
-ent-MedicalAppraisalTool = medical bounty scanner
-    .desc = Scans bodies for open medical bounties.
+ent-MedicalAppraisalTool = scanner de recompensa médica
+    .desc = Escaneia corpos em busca de recompensas médicas abertas.
 
 # From: _NF/Entities/Objects/Tools/tools.yml
 
-ent-MaintenanceJack = maintenance jack
-    .desc = A mighty tool for ruling maints. Pries tile and plating, hammers, and can anchor.
+ent-MaintenanceJack = macaco de manutenção
+    .desc = Uma ferramenta poderosa para dominar manutenções. Levanta piso e revestimento, martela, e pode ancorar.
 
-ent-NFShovel = the people's shovel
-    .desc = An old relic from the Glorious Leader. Capable of 18 functions, including digging, chopping, cutting, picking, prying, wire cutting, shoveling.
+ent-NFShovel = pá do povo
+    .desc = Uma relíquia antiga do Líder Glorioso. Capaz de 18 funções, incluindo cavar, cortar, picar, picar, machucar, cortar fio, pavar.
 
 # From: _NF/Entities/Objects/Tools/umbrella.yml
 
-ent-FlashlightUmbrella = umbrella
-    .desc = Keeps you dry AND stylish.
+ent-FlashlightUmbrella = guarda-chuva
+    .desc = Mantém você seco E elegante.
 
 # From: _NF/Entities/Objects/Vehicles/keys.yml
 
-ent-VehicleKeyHoverbikeNF = hoverbike keys
-    .desc = Cute bibelot.
+ent-VehicleKeyHoverbikeNF = chaves de hoverbike
+    .desc = Pequeno bibelô fofo.
 
 # From: _NF/Entities/Objects/Vehicles/vehicles.yml
 
 ent-VehicleATVNF = ATV
-    .desc = All-Tile Vehicle.
+    .desc = Veículo Todo-Terreno.
 
-ent-VehicleHoverbikeMailcarrier = mail carrier hoverbike
-    .desc = You better run, better run, faster than my mail.
+ent-VehicleHoverbikeMailcarrier = hoverbike de carteiro
+    .desc = Você melhor correr, melhor correr, mais rápido que meu correio.
 
 ent-VehicleHoverbikeNF = hoverbike
-    .desc = A turbine with bike handles. Very safe.
+    .desc = Uma turbina com guidões de moto. Muito segura.
 
-ent-VehicleHoverbikeNfsd = TSFMC hoverbike
-    .desc = An TSFMC issued turbine with bike handles. Very safe.
+ent-VehicleHoverbikeNfsd = hoverbike TSFMC
+    .desc = Uma turbina emitida pela TSFMC com guidões de moto. Muito segura.
 
-ent-VehicleHoverbikePirate = pirate hoverbike
-    .desc = Yarr! Dis be me sovereign space shuttle. Now, whaur me rum?
+ent-VehicleHoverbikePirate = hoverbike pirata
+    .desc = Yarr! Isto ser meu espaço de soberania. Agora, onde está meu rumo?
 
-ent-VehicleHoverbikeSyndicate = syndicate hoverbike
-    .desc = This thing screams style. And war crimes.
+ent-VehicleHoverbikeSyndicate = hoverbike do Sindicato
+    .desc = Esta coisa grita estilo. E crimes de guerra.
 
-ent-VehicleSkeletonMotorcycleNF = skeleton motorcycle
-    .desc = Bad to the Bone.
+ent-VehicleSkeletonMotorcycleNF = motocicleta de esqueleto
+    .desc = Mau até o osso.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Ammunition/Boxes/nfsd.yml
 
-ent-BoxEmpGrenadesAmmo = emp projectiles box
-    .desc = A box of EMP projectile grenades.
+ent-BoxEmpGrenadesAmmo = caixa de projéteis EMP
+    .desc = Uma caixa de granadas de projétil EMP.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Ammunition/Boxes/toy_guns.yml
 
-ent-BoxCartridgeRGBB = box of RGBBs
+ent-BoxCartridgeRGBB = caixa de RGBBs
 
 # From: _NF/Entities/Objects/Weapons/Guns/Ammunition/Magazines/turret_box_mag.yml
 
-ent-MagazineAsmgtUniversal556x45mm = ASMGT-compatible ammo box (5.56x45mm)
-    .suffix = Loaded
+ent-MagazineAsmgtUniversal556x45mm = caixa de munição compatível com ASMGT (5.56x45mm)
+    .suffix = Carregada
 
-ent-MagazineAsmgtUniversal635x40mm = ASMGT-compatible ammo box (6.35x40mm)
-    .suffix = Loaded
+ent-MagazineAsmgtUniversal635x40mm = caixa de munição compatível com ASMGT (6.35x40mm)
+    .suffix = Carregada
 
-ent-MagazineAsmgtUniversal762x39mm = ASMGT-compatible ammo box (7.62x39mm)
-    .suffix = Loaded
+ent-MagazineAsmgtUniversal762x39mm = caixa de munição compatível com ASMGT (7.62x39mm)
+    .suffix = Carregada
 
-ent-MagazineAsmgtUniversal9x19mm = ASMGT-compatible ammo box (9x19mm)
-    .suffix = Loaded
+ent-MagazineAsmgtUniversal9x19mm = caixa de munição compatível com ASMGT (9x19mm)
+    .suffix = Carregada
 
-ent-MagazineAsmgtUniversalEmpty = ASMGT-compatible ammo box
-    .suffix = empty
-    .desc = Universal ASMGT-compatible ammo box capable of accepting 5.56x45mm, 6.35x40mm, 7.62x39mm and 9x19mm cartridges.
+ent-MagazineAsmgtUniversalEmpty = caixa de munição compatível com ASMGT
+    .suffix = vazia
+    .desc = Caixa de munição universal compatível com ASMGT capaz de aceitar cartuchos 5.56x45mm, 6.35x40mm, 7.62x39mm e 9x19mm.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/chem.yml
 
-ent-SplatterChemBase = chemical splatter
+ent-SplatterChemBase = salpico químico
 
 # From: _NF/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/misc.yml
 
-ent-HoloFlareCyan = cyan flare
+ent-HoloFlareCyan = sinalizador holográfico ciano
 
-ent-HoloFlareRed = red flare
+ent-HoloFlareRed = sinalizador holográfico vermelho
 
-ent-HoloFlareYellow = yellow flare
+ent-HoloFlareYellow = sinalizador holográfico amarelo
 
 # From: _NF/Entities/Objects/Weapons/Guns/base_turret.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseWeaponTurretBallisticNF = ballistic turret
+ent-BaseWeaponTurretBallisticNF = torre balística
 
 # Abstract entity (referenceable by children)
-ent-BaseWeaponTurretEnergyNF = energy turret
+ent-BaseWeaponTurretEnergyNF = torre de energia
 
 # Abstract entity (referenceable by children)
-ent-BaseWeaponTurretMagazineFed = ballistic turret (magazine-fed)
-    .desc = A ballistic machine gun auto-turret with replaceable magazine.
+ent-BaseWeaponTurretMagazineFed = torre balística (alimentada por carregador)
+    .desc = Uma metralhadora automática de torre balística com carregador substituível.
 
 # Abstract entity (referenceable by children)
-ent-BaseWeaponTurretNF = turret
+ent-BaseWeaponTurretNF = torre
+    .suffix = Frontier
 .suffix = Fronteira
 
 # From: _NF/Entities/Objects/Weapons/Guns/Basic/sawn_pka.yml
 
-ent-WeaponProtoKineticAcceleratorSawn = sawn-off proto-kinetic accelerator
-    .desc = A proto-kinetic accelerator pared down to its minimum operating parts. Easy to handle in one hand, but brutal on the wrist.
+ent-WeaponProtoKineticAcceleratorSawn = acelerador proto-cinético serrado
+    .desc = Um acelerador proto-cinético reduzido aos seus componentes operacionais mínimos. Fácil de manusear com uma mão, mas brutal para o pulso.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml
 
-ent-NFWeaponHoloflareGun = holoflare pistol
+ent-NFWeaponHoloflareGun = pistola de holográficos
+    .suffix = Frontier
+    .desc = Uma modificação de uma pistola laser de grau civil que pode projetar sinalizadores holográficos em superfícies.
 .suffix = Fronteira
     .desc = A modification of a civilian-grade laser pistol that can project holoflares onto surfaces.
 
-ent-WeaponEmpEmitter = emp emitter
-    .desc = Releases electromagnetic pulses that disrupt or damage many electronic devices or drain power cells, has a slow self charging nuclear powered battery.
+ent-WeaponEmpEmitter = emissor de EMP
+    .desc = Libera pulsos eletromagnéticos que interrompem ou danificam muitos dispositivos eletrônicos ou drenam células de energia, tem uma bateria nuclear de carregamento lento automático.
 
 ent-WeaponLaserPistolNF = pistola laser
+    .suffix = Frontier
+    .desc = Um modelo mais antigo de pistola laser de grau civil.
 .suffix = Fronteira
     .desc = An older model of civilian-grade laser pistol.
 
-ent-WeaponLaserTurboNF = turbo laser mk3
-    .desc = A turbo laser ripped from the guardian unit. Appears to be a rather old model. Doesn't seem to be working properly. Supposedly highly illegal.
+ent-WeaponLaserTurboNF = laser turbo mk3
+    .desc = Um laser turbo arrancado da unidade guardiã. Parece ser um modelo bastante antigo. Não parece estar funcionando corretamente. Supostamente altamente ilegal.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Crossbow/crossbow.yml
 
 # Abstract entity (referenceable by children)
 ent-BaseCrossbow = besta
-    .desc = The original rooty tooty point and shooty.
+    .desc = O rooty tooty point and shooty original.
 
-ent-CrossbowBloodCult = blood cult crossbow
+ent-CrossbowBloodCult = besta do culto sanguinário
     .desc = {ent-BaseCrossbow.desc}
 
-ent-CrossbowBloodCultHand = blood cult hand crossbow
+ent-CrossbowBloodCultHand = besta de mão do culto sanguinário
     .desc = {ent-BaseCrossbow.desc}
 
-ent-CrossbowImprovised = impovised crossbow
+ent-CrossbowImprovised = besta improvisada
     .desc = {ent-BaseCrossbow.desc}
 
-ent-CrossbowImprovisedHand = impovised hand crossbow
+ent-CrossbowImprovisedHand = besta de mão improvisada
     .desc = {ent-BaseCrossbow.desc}
 
 ent-CrossbowModern = {ent-BaseCrossbow}
     .desc = {ent-BaseCrossbow.desc}
 
-ent-CrossbowModernHand = hand crossbow
+ent-CrossbowModernHand = besta de mão
     .desc = {ent-BaseCrossbow.desc}
 
 # From: _NF/Entities/Objects/Weapons/Guns/expedition_guns.yml
 
-ent-WeaponLaserCarbineExpedition = laser carbine
+ent-WeaponLaserCarbineExpedition = carabina laser
 
 # From: _NF/Entities/Objects/Weapons/Guns/Launchers/launchers.yml
 
-ent-WeaponLauncherNfsdLake = TSFMC grenade launcher
-    .desc = Able to lob both grenades and darts!
+ent-WeaponLauncherNfsdLake = lança-granadas TSFMC
+    .desc = Capaz de arremessar tanto granadas quanto dardos!
 
-ent-WeaponMailLake = mail RPDS
-    .desc = Rap(b?)id Parcel Delivery System
+ent-WeaponMailLake = RPDS de correio
+    .desc = Sistema de Entrega de Parcelas Rápida(??)
 
 # From: _NF/Entities/Objects/Weapons/Guns/Pistols/pistols.yml
 
 ent-WeaponPistolN1984Nonlethal = N1984 (.45 magnum)
-    .suffix = Non-lethal
+    .suffix = Não-letal
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/baby_dragon_fire.yml
 
-ent-BabyDragonSpark = dragon ember spark
+ent-BabyDragonSpark = faísca de dragão
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/crossbow_bolts.yml
 
-ent-CrossbowBolt = bolt
-    .desc = One of these was enough to put down King Richard the Lionheart. Should do for a Xeno Queen too.
+ent-CrossbowBolt = virote
+    .desc = Um desses foi suficiente para derrubar Ricardo Coração de Leão. Deve servir para uma Xeno Rainha também.
 
-ent-CrossbowBoltBloodDrinker = blood drinker bolt
-    .desc = A razor-sharp bolt with a serrated tip. Unquestionably unethical.
+ent-CrossbowBoltBloodDrinker = virote bebedor de sangue
+    .desc = Um virote afiado como lâmina com ponta serrilhada. Inquestionavelmente antiético.
 
-ent-CrossbowBoltBroadhead = broadhead bolt
-    .desc = A bolt with three sharp blades that cause massive bleeding in the victim.
+ent-CrossbowBoltBroadhead = virote de ponta larga
+    .desc = Um virote com três pontas afiadas que causam sangramento massivo na vítima.
 
-ent-CrossbowBoltEMP = EMP bolt
-    .desc = A bolt with small power cell attached to it.
+ent-CrossbowBoltEMP = virote EMP
+    .desc = Um virote com uma pequena célula de energia anexada a ele.
 
-ent-CrossbowBoltExplosive = explosive bolt
-    .desc = A bolt with small explosive charge.
+ent-CrossbowBoltExplosive = virote explosivo
+    .desc = Um virote com uma pequena carga explosiva.
 
-ent-CrossbowBoltGlassShard = glass shard bolt
-    .desc = A bolt with a glass shard as a tip.
+ent-CrossbowBoltGlassShard = virote de fragmento de vidro
+    .desc = Um virote com um fragmento de vidro como ponta.
 
-ent-CrossbowBoltIncendiary = incendiary bolt
-    .desc = A bolt with a flare attached to it.
+ent-CrossbowBoltIncendiary = virote incendiário
+    .desc = Um virote com um sinalizador anexado a ele.
 
-ent-CrossbowBoltPlasmaGlassShard = plasma glass shard bolt
-    .desc = A bolt with a plasma glass shard as a tip.
+ent-CrossbowBoltPlasmaGlassShard = virote de fragmento de vidro de plasma
+    .desc = Um virote com um fragmento de vidro de plasma como ponta.
 
-ent-CrossbowBoltPlasteel = plasteel tipped bolt
-    .desc = A bolt with plasteel tip. Has armor penetrating capabilities.
+ent-CrossbowBoltPlasteel = virote com ponta de plastaço
+    .desc = Um virote com ponta de plastaço. Tem capacidades de penetração de blindagem.
 
-ent-CrossbowBoltShrapnel = shrapnel bolt
-    .desc = A bolt with a buckshot shotgun shell attached to it.
+ent-CrossbowBoltShrapnel = virote de estilhaço
+    .desc = Um virote com um cartucho de escopeta de chumbo anexado a ele.
 
-ent-CrossbowBoltSponge = sponge tip bolt
-    .desc = A sponge-like structure of the bolt tip allows it to hold more liquid at the expense of structural integrity.
+ent-CrossbowBoltSponge = virote de ponta de esponja
+    .desc = A estrutura esponjosa da ponta do virote permite que ele segure mais líquido às custas da integridade estrutural.
 
-ent-CrossbowBoltSyringe = syringe-bolt
-    .desc = A bolt with a syringe for a tip. Very inefficient.
+ent-CrossbowBoltSyringe = viroteseringa
+    .desc = Um virote com uma seringa como ponta. Muito ineficiente.
 
-ent-CrossbowBoltUraniumGlassShard = uranium glass shard bolt
-    .desc = A bolt with a uranium glass shard as a tip. God have mercy on thy victims for you won't.
+ent-CrossbowBoltUraniumGlassShard = virote de fragmento de vidro de urânio
+    .desc = Um virote com um fragmento de vidro de urânio como ponta. Deus tenha misericórdia de suas vítimas, pois você não terá.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/energy.yml
 
-ent-BulletDisablerStaminaOnly = disabler bolt
+ent-BulletDisablerStaminaOnly = virote de neutralizador
 
-ent-BulletKineticLowPower = kinetic bolt
+ent-BulletKineticLowPower = virote cinético
 
-ent-BulletKineticMediumPower = kinetic bolt
+ent-BulletKineticMediumPower = virote cinético
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/magic.yml
 
-ent-BulletBloodCultDarkBolt = blood bolt
+ent-BulletBloodCultDarkBolt = virote sanguinário
 
-ent-BulletEldritchHand = eldritch hand
+ent-BulletEldritchHand = mão eldritch
 
-ent-BulletFireBolt = fire bolt
+ent-BulletFireBolt = virote de fogo
 
-ent-BulletMagicBolt = magic bolt
+ent-BulletMagicBolt = virote mágico
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/minirocket.yml
 
-ent-BulletRocketMiniNF = mini rocket
+ent-BulletRocketMiniNF = mini foguete
 
-ent-CartridgeRocketMiniNF = minirocket
+ent-CartridgeRocketMiniNF = minifoguete
 
-ent-NFBulletPartyNade = party 'nade
+ent-NFBulletPartyNade = granada festiva
 
-ent-NFBulletSeismicCharge = seismic charge
+ent-NFBulletSeismicCharge = carga sísmica
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/toy_projectiles.yml
 
-ent-BulletBBDamaged = damaged BB
-    .desc = Did you shoot your eye out?
+ent-BulletBBDamaged = BB danificada
+    .desc = Você atirou seu olho?
 
 ent-BulletRGBB = RGBB
-    .desc = Don't shoot your eye out, gamer.
+    .desc = Não atire seu olho, gamer.
 
-ent-BulletRGBBDamaged = damaged RGBB
-    .desc = Did you shoot your eye out, gamer?
+ent-BulletRGBBDamaged = RGBB danificada
+    .desc = Você atirou seu olho, gamer?
 
 # From: _NF/Entities/Objects/Weapons/Guns/Revolvers/revolvers.yml
 
 ent-WeaponRevolverArgenti = Argenti (5.56x45mm)
-    .desc = The civilian grade Argenti Type 20 revolver. Manufactured by Silver Industries. While the design with expanded cylinder is quite ancient, the right gunslinger will know how to utilise it well. Uses 5.56x45mm ammo.
+    .desc = O revólver Argenti Tipo 20 de grau civil. Fabricado pela Silver Industries. Embora o design com cilindro expandido seja bastante antigo, atirador experiente saberá como utilizá-lo bem. Usa munição 5.56x45mm.
 
-ent-WeaponRevolverDeckardExpeditionGrifty = Customer Service Resolver
+ent-WeaponRevolverDeckardExpeditionGrifty = Solucionador de Serviço ao Cliente
 
 # From: _NF/Entities/Objects/Weapons/Guns/Rifles/rifles.yml
 
 ent-WeaponRifleGestio = PA Gestio (7.62x39mm)
-    .desc = An old burst-fire rifle that never left trials. Accepts low capacity 762x39mm magazines.
+    .desc = Um rifle antigo de disparos em rajada que nunca saiu dos testes. Aceita carregadores de baixa capacidade 762x39mm.
 
 ent-WeaponRifleGestioPMC = PA Gestio (7.62x39mm)
-    .desc = An old burst-fire rifle that never left trials. Accepts low capacity 762x39mm magazines. Acquired legally from a licensed provider.
+    .desc = Um rifle antigo de disparos em rajada que nunca saiu dos testes. Aceita carregadores de baixa capacidade 762x39mm. Adquirido legalmente de um fornecedor licenciado.
 
 ent-WeaponRifleNovaliteC1 = LWC Novalite C1 (5.56x45mm)
-    .desc = A modification to the Lecter from LWC, a civilian grade semi-automatic rifle with an internal magazine. Uses 5.56x45mm ammo.
+    .desc = Uma modificação do Lecter pela LWC, um rifle semiautomático de grau civil com carregador interno. Usa munição 5.56x45mm.
 
 ent-WeaponRifleSVS = NCI SVS-42 (7.62x54mmR)
-    .desc = Originally designed by Samonov, this old surplus rifle looks like it's seen a few wars. Uses low capacity 10 rounder 762x54mmR magazines. Equipped with bayonet.
+    .desc = Originalmente projetado por Samonov, este rifle excedente antigo parece ter visto algumas guerras. Usa carregadores de baixa capacidade de 10 cartuchos 762x54mmR. Equipado com baioneta.
 
 # From: _NF/Entities/Objects/Weapons/Guns/Snipers/snipers.yml
 
-ent-WeaponSniperRepeater = N2524 Pattern Repeater (.45 magnum)
-    .desc = A civilian grade lever action firearm, favored by space cowboys across the Frontier for its reliability and stopping power. Uses .45 magnum ammo.
+ent-WeaponSniperRepeater = Repetidor Padrão N2524 (.45 magnum)
+    .desc = Uma arma de fogo de alavanca de grau civil, favorecida por vaqueiros espaciais através da Frontier por sua confiabilidade e poder de parada. Usa munição .45 magnum.
 
 # From: _NF/Entities/Objects/Weapons/Guns/turrets.yml
 
-ent-WeaponTurretAsmgtHostileUniversallyDeployed = 
-    .suffix = Hostile, Imprint
-    .desc = An Autonomous Sentry Machine Gun Turret (ASMGT) is a magazine-fed turret with barrels compatible with 5.56x45mm, 7.62x39mm, 9x19mm and 6.35x40mm cartridges. Use screwdriver to disassemble. This one is a Civilian model for shipboard defense in hostile sectors, with reduced armor plating and a restricted firerate to comply with interstellar commerce law.
+ent-WeaponTurretAsmgtHostileUniversallyDeployed
+    .suffix = Hostil, Impressão
+    .desc = Uma Metralhadora Sentinela Autônoma (ASMGT) é uma torre alimentada por carregador com canos compatíveis com cartuchos 5.56x45mm, 7.62x39mm, 9x19mm e 6.35x40mm. Use chave de fenda para desmontar. Esta é um modelo civil para defesa de bordo em setores hostis, com blindagem reduzida e taxa de disparo restrita para cumprir a lei do comércio interestelar.
 
-ent-WeaponTurretAsmgtHostileUniversallyPacked = packed Civilian ASMGT
-    .suffix = Hostile, Packed, Imprint
-    .desc = A disassembled and packed Civilian-model Autonomous Sentry Machine Gun Turret (ASMGT). WARNING! Unpacked turret will be hostile towards anyone who wasn't in close proximity (within 3 m) after unpacking!
+ent-WeaponTurretAsmgtHostileUniversallyPacked = ASMGT civil embalada
+    .suffix = Hostil, Embalada, Impressão
+    .desc = Uma ASMGT civil desmontada e embalada. AVISO! A torre desempacotada será hostil a qualquer um que não estava em proximidade próxima (dentro de 3 m) após desempacotar!
 
 ent-WeaponTurretAsmgtNtDeployed = ASMGT
     .suffix = CSec
-    .desc = An Autonomous Sentry Machine Gun Turret (ASMGT) is a magazine-fed turret with barrels compatible with 5.56x45mm, 7.62x39mm, 9x19mm and 6.35x40mm cartridges. Use screwdriver to disassemble. This one is reinforced and has a Colonial Security IFF reader.
+    .desc = Uma Metralhadora Sentinela Autônoma (ASMGT) é uma torre alimentada por carregador com canos compatíveis com cartuchos 5.56x45mm, 7.62x39mm, 9x19mm e 6.35x40mm. Use chave de fenda para desmontar. Esta é reforçada e tem um leitor IFF da Segurança Colonial.
 
-ent-WeaponTurretAsmgtNtPacked = packed CSec ASMGT
-    .suffix = CSec, Packed
-    .desc = A disassembled and packed Autonomous Sentry Machine Gun Turret (ASMGT) for Colonial Security.
+ent-WeaponTurretAsmgtNtPacked = ASMGT CSec embalada
+    .suffix = CSec, Embalada
+    .desc = Uma Metralhadora Sentinela Autônoma (ASMGT) desmontada e embalada para a Segurança Colonial.
 
 ent-WeaponTurretContrabandDenyingDeployed = CDET
-    .desc = A Contraband Denying Energy Turret (CDET). A disabler turret with built-in microreactor. Use screwdriver to disassemble.
+    .desc = Uma Torre de Energia de Negação de Contrabando (CDET). Uma torre neutralizadora com microrreator integrado. Use chave de fenda para desmontar.
 
-ent-WeaponTurretContrabandDenyingPacked = packed CDET
-    .suffix = NT, Packed
-    .desc = A disassembled and packed Contraband Denying Energy Turret (CDET).
+ent-WeaponTurretContrabandDenyingPacked = CDET embalada
+    .suffix = NT, Embalada
+    .desc = Uma Torre de Energia de Negação de Contrabando (CDET) desmontada e embalada.
 
-ent-WeaponTurretLaserHostileNF = laser turret
-    .suffix = Frontier, Hostile
+ent-WeaponTurretLaserHostileNF = torre laser
+    .suffix = Frontier, Hostil
 
 ent-WeaponTurretLaserNanoTrasenDeployed = SLAT
     .suffix = Frontier, NT
-    .desc = A Self-Recharging Laser Auto Turret (SLAT). A laser turret with built-in microreactor. Use screwdriver to disassemble.
+    .desc = Uma Torre de Laser Autocarregável (SLAT). Uma torre laser com microrreator integrado. Use chave de fenda para desmontar.
 
-ent-WeaponTurretLaserNanoTrasenPacked = packed SLAT
-    .suffix = NT, Packed
-    .desc = A disassembled and packed Self-Recharging Laser Auto Turret (SLAT).
+ent-WeaponTurretLaserNanoTrasenPacked = SLAT embalada
+    .suffix = NT, Embalada
+    .desc = Uma Torre de Laser Autocarregável (SLAT) desmontada e embalada.
 
-ent-WeaponTurretLaserSyndicateNF = laser turret
-    .suffix = Frontier, Syndicate
+ent-WeaponTurretLaserSyndicateNF = torre laser
+    .suffix = Frontier, Sindicato
 
 # From: _NF/Entities/Objects/Weapons/Melee/brassknuckles.yml
 
-ent-WeaponBrassKnuckles = brass knuckles
-    .desc = When you need to punch just a little harder.
+ent-WeaponBrassKnuckles = socos ingleses
+    .desc = Quando você precisa socar um pouco mais forte.
 
-ent-WeaponBrassKnucklesWhoopie = crass knuckles
-    .desc = Questionably silent, questionably deadly.
+ent-WeaponBrassKnucklesWhoopie = socos grosseiros
+    .desc = Questionavelmente silencioso, questionavelmente mortal.
 
 # From: _NF/Entities/Objects/Weapons/Melee/caveman_club.yml
 
-ent-CavemanClub = caveman club
-    .desc = Big stick make big hurt.
+ent-CavemanClub = clava de homem das cavernas
+    .desc = Porrete grande faz dor grande.
 
-ent-CavemanClubCursed = caveman club
-    .suffix = Unremoveable, Foam
-    .desc = Big stick make big... this no wood?
+ent-CavemanClubCursed = clava de homem das cavernas
+    .suffix = Inremovível, Espuma
+    .desc = Porrete grande faz dor grande... isto não é madeira?
 
 # From: _NF/Entities/Objects/Weapons/Melee/e_sword.yml
 
-ent-EnergySwordNfsd = TSFMC energy sword
-    .desc = A very loud & dangerous sword with a beam made of pure, concentrated plasma. Cuts through unarmored targets like butter.
+ent-EnergySwordNfsd = espada de energia TSFMC
+    .desc = Uma espada muito alta e perigosa com um feixe de plasma puro e concentrado. Corta alvos sem armadura como manteiga.
 
-ent-NFEnergyPickaxe = holopickaxe
-    .desc = A holographic mining tool with blades comprised of hard light. Doesn't pack the same punch as an energy weapon, but more compact than most mining tools when turned off.
+ent-NFEnergyPickaxe = picareta holográfica
+    .desc = Uma ferramenta de mineração holográfica com lâminas compostas de luz dura. Não tem o mesmo impacto que uma arma de energia, mas é mais compacta que a maioria das ferramentas de mineração quando desligada.
 
 # From: _NF/Entities/Objects/Weapons/Melee/pirate_anchor.yml
 
-ent-PirateBreachingAnchor = pirate anchor
-    .desc = A large, heavy anchor to beat down anyone and anything standing between you and your plunder.
+ent-PirateBreachingAnchor = âncora de pirata
+    .desc = Uma âncora grande e pesada para derrubar qualquer um e qualquer coisa entre você e seu saque.
 
 # From: _NF/Entities/Objects/Weapons/Melee/piratehook.yml
 
-ent-PirateHook = pirate hook
-    .desc = A pirate hook.
+ent-PirateHook = gancho de pirata
+    .desc = Um gancho de pirata.
 
 # From: _NF/Entities/Objects/Weapons/Melee/sword.yml
 
-ent-CaptainSabreHilt = captain's sabre hilt
-    .desc = A bit pointless, isn't it?
+ent-CaptainSabreHilt = cabide de sabre de capitão
+    .desc = Um pouco inútil, não é?
 
-ent-PlasteelArmingSword = plasteel arming sword
-    .desc = An ancient design manufactured with modern materials and machines for a very specific target demographic.
+ent-PlasteelArmingSword = espada de arruar de plastaço
+    .desc = Um design antigo fabricado com materiais e máquinas modernos para um demográfico alvo muito específico.
 
 # From: _NF/Entities/Objects/Weapons/Melee/wizard_staff.yml
 
-ent-WizardStaffDarkBolt = cultist staff
-    .suffix = Dark bolt
+ent-WizardStaffDarkBolt = cajado de cultista
+    .suffix = Virote sombrio
 
-ent-WizardStaffMeleeBase = wizard staff
-    .desc = Symbol of wizard's mastery of arcane arts.
+ent-WizardStaffMeleeBase = cajado de mago
+    .desc = Símbolo do domínio do mago das artes arcanas.
 
-ent-WizardStaffMeleeBlood = inert cultist staff
+ent-WizardStaffMeleeBlood = cajado de cultista inerte
 
-ent-WizardStaffMeleeRed = inert red wizard staff
+ent-WizardStaffMeleeRed = cajado de mago vermelho inerte
 
-ent-WizardStaffMeleeSoap = inert soap wizard staff
+ent-WizardStaffMeleeSoap = cajado de mago de sabão inerte
 
-ent-WizardStaffMeleeViolet = inert violet wizard staff
+ent-WizardStaffMeleeViolet = cajado de mago violeta inerte
 
 # From: _NF/Entities/Objects/Weapons/Melee/wooden_stake.yml
 
-ent-WoodenStake = wooden stake
-    .desc = Essential appliance for pitching tents and killing vampires.
+ent-WoodenStake = estaca de madeira
+    .desc = Acessório essencial para armar tendas e matar vampiros.
 
 # From: _NF/Entities/Objects/Weapons/Throwable/pirate_bombs.yml
 
-ent-PirateGrenadeConcussion = gray pirate grenade
-    .desc = A solid grenade that feels like a cannonball.
+ent-PirateGrenadeConcussion = granada pirata cinza
+    .desc = Uma granada sólida que parece uma bala de canhão.
 
-ent-PirateGrenadeFire = red pirate grenade
-    .desc = A grenade that's hot to the touch; prone to catch things on fire.
+ent-PirateGrenadeFire = granada pirata vermelha
+    .desc = Uma granada que está quente ao toque; propensa a pegar fogo nas coisas.
 
-ent-PirateGrenadeRadiation = green pirate grenade
-    .desc = A foul-smelling grenade that makes you feel fuzzy.
+ent-PirateGrenadeRadiation = granada pirata verde
+    .desc = Uma granada com cheiro fétido que faz você sentir formigamento.
 
 # From: _NF/Entities/Objects/Weapons/Throwable/throwable_weapons.yml
 
-ent-DartAberrantFleshHorrorSpike = bone spike
+ent-DartAberrantFleshHorrorSpike = espinho ósseo
 
-ent-DartAberrantFleshHorrorSpikeCluster = bone spike
+ent-DartAberrantFleshHorrorSpikeCluster = espinho ósseo
 
-ent-DartAberrantFleshHorrorSpikeGuidebook = bone spike
+ent-DartAberrantFleshHorrorSpikeGuidebook = espinho ósseo
 
-ent-DartSyndicateImpedrezene = syndicate impedrezene dart
-    .desc = Try not to prick yourself.
+ent-DartSyndicateImpedrezene = dardo de impedrezene do Sindicato
+    .desc = Tente não se picar.
 
-ent-DartSyndicateTranquilizer = syndicate tranquilizer dart
+ent-DartSyndicateTranquilizer = dardo tranquilizante do Sindicato
     .desc = {ent-MobHostileThrowableWeapon.desc}
 
 # Abstract entity (referenceable by children)
-ent-MobHostileThrowableWeapon = dart
-    .desc = Try not to prick yourself.
+ent-MobHostileThrowableWeapon = dardo
+    .desc = Tente não se picar.
 
 # From: _NF/Entities/Spawners/mobs.yml
 
-ent-SpawnMobCatCappy = Cappy Spawner
+ent-SpawnMobCatCappy = Gerador de Cappy
 
-ent-SpawnMobCatClarpy = Clarpy Spawner
+ent-SpawnMobCatClarpy = Gerador de Clarpy
 
-ent-SpawnMobCatClippy = Clippy Spawner
+ent-SpawnMobCatClippy = Gerador de Clippy
 
-ent-SpawnMobKoboldYipyip = Yip Yip Spawner
+ent-SpawnMobKoboldYipyip = Gerador de Yip Yip
 
 # From: _NF/Entities/Structures/atm.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseStationAdminBankATM = station administration console
-    .desc = Used to transfer funds to and from the station's bank account.
+ent-BaseStationAdminBankATM = console de administração da estação
+    .desc = Usado para transferir fundos de e para a conta bancária da estação.
 
 # Abstract entity (referenceable by children)
-ent-ComputerBankATMDeposit = bank ATM
-    .desc = Used to deposit and withdraw funds from a personal bank account. 5% deposit fee.
+ent-ComputerBankATMDeposit = caixa eletrônico
+    .desc = Usado para depositar e sacar fundos de uma conta bancária pessoal. Taxa de depósito de 5%.
 
 # Abstract entity (referenceable by children)
-ent-ComputerBankATMDepositFree = bank ATM
-    .desc = Used to deposit and withdraw funds from a personal bank account.
+ent-ComputerBankATMDepositFree = caixa eletrônico
+    .desc = Usado para depositar e sacar fundos de uma conta bancária pessoal.
 
 # Abstract entity (referenceable by children)
-ent-ComputerBankATMWithdraw = withdraw-only bank ATM
-    .desc = Used to withdraw funds from a personal bank account, unable to deposit.
+ent-ComputerBankATMWithdraw = caixa eletrônico apenas para saque
+    .desc = Usado para sacar fundos de uma conta bancária pessoal, incapaz de depositar.
 
-ent-ComputerBlackMarketBankATM = phaethon treasury ATM
-    .suffix = BlackMarket
-    .desc = An ATM connected to the Phaethon Dynasties treasury. There is a 5% deposit fee.
+ent-ComputerBlackMarketBankATM = caixa eletrônico do tesouro Phaethon
+    .suffix = MercadoNegro
+    .desc = Um caixa eletrônico conectado ao tesouro das Dinastias Phaethon. Há uma taxa de depósito de 5%.
 
-ent-ComputerWallmountBlackMarketBankATM = phaethon treasury ATM
-    .suffix = Wallmount, BlackMarket
-    .desc = An ATM connected to the Phaethon Dynasties treasury. There is a 5% deposit fee.
+ent-ComputerWallmountBlackMarketBankATM = caixa eletrônico do tesouro Phaethon
+    .suffix = Parede, MercadoNegro
+    .desc = Um caixa eletrônico conectado ao tesouro das Dinastias Phaethon. Há uma taxa de depósito de 5%.
 
 ent-ComputerWithdrawBankATM = {ent-ComputerBankATMWithdraw}
     .desc = {ent-ComputerBankATMWithdraw.desc}
 
 ent-StationAdminBankATMBlackMarket = {ent-BaseStationAdminBankATM}
-    .suffix = Black Market
-    .desc = Used to transfer funds to and from the black market account.
+    .suffix = Mercado Negro
+    .desc = Usado para transferir fundos de e para a conta do mercado negro.
 
 ent-StationAdminBankATMFrontier = {ent-BaseStationAdminBankATM}
+    .suffix = Frontier
+    .desc = Usado para transferir fundos de e para a conta bancária do Posto Colonial.
 .suffix = Fronteira
     .desc = Used to transfer funds to and from Colonial Outpost's bank account.
 
 ent-StationAdminBankATMMedical = {ent-BaseStationAdminBankATM}
-    .suffix = Medical
-    .desc = Used to transfer funds to and from the medical bank account.
+    .suffix = Médico
+    .desc = Usado para transferir fundos de e para a conta bancária médica.
 
 ent-StationAdminBankATMNfsd = {ent-BaseStationAdminBankATM}
     .suffix = TSFMC
-    .desc = Used to transfer funds to and from TSFMC-FOB's bank account.
+    .desc = Usado para transferir fundos de e para a conta bancária do FOB TSFMC.
 
 # From: _NF/Entities/Structures/Decoration/banners.yml
 
-ent-BannerGoblin01 = goblin banner
-    .desc = A banner displaying one of goblin clan symbols.
+ent-BannerGoblin01 = banner de goblin
+    .desc = Um banner exibindo um dos símbolos do clã de goblins.
 
-ent-BannerNfsd = TSFMC banner
-    .desc = A banner displaying the colors of the Trans-Solar Federation Marine Corps' Department.
+ent-BannerNfsd = banner TSFMC
+    .desc = Um banner exibindo as cores do Departamento do Corpo de Fuzileiros da Federação Transolar.
 
-ent-FlagNfsd = TSFMC flag
-    .desc = A flag displaying the colors of the Trans-Solar Federation Marine Corps.
+ent-FlagNfsd = bandeira TSFMC
+    .desc = Uma bandeira exibindo as cores do Corpo de Fuzileiros da Federação Transolar.
 
 # From: _NF/Entities/Structures/Dispensers/condiments.yml
 
-ent-CondimentDispenser = condiment dispenser
+ent-CondimentDispenser = dispensador de condimentos
+    .suffix = Cheio
+    .desc = Um dispensador de condimentos com um único slot para um copo de condimento.
 .suffix = Cheio
     .desc = A condiment dispenser with a single slot for a condiment cup.
 
 # From: _NF/Entities/Structures/Doors/Airlocks/shuttle.yml
 
-ent-AirlockGlassShuttleNfsd = external airlock
-    .suffix = TSFMC, Glass, Docking
-    .desc = Necessary for connecting two space craft together.
+ent-AirlockGlassShuttleNfsd = alçapore externo
+    .suffix = TSFMC, Vidro, Acoplamento
+    .desc = Necessário para conectar duas naves espaciais.
 
-ent-AirlockShuttleAssemblyNfsd = external airlock assembly
-    .suffix = TSFMC, Docking
-    .desc = An incomplete structure necessary for connecting two space craft together.
+ent-AirlockShuttleAssemblyNfsd = montagem de alçapore externo
+    .suffix = TSFMC, Acoplamento
+    .desc = Uma estrutura incompleta necessária para conectar duas naves espaciais.
 
-ent-AirlockShuttleNfsd = external airlock
-    .suffix = TSFMC, Docking
-    .desc = Necessary for connecting two space craft together.
+ent-AirlockShuttleNfsd = alçapore externo
+    .suffix = TSFMC, Acoplamento
+    .desc = Necessário para conectar duas naves espaciais.
 
 # From: _NF/Entities/Structures/Doors/secret_door.yml
 
-ent-ReinforcedSecretDoorAssembly = secret reinforced door assembly
+ent-ReinforcedSecretDoorAssembly = montagem de porta reforçada secreta
 
-ent-ShuttleSecretDoor = shuttle wall
+ent-ShuttleSecretDoor = parede de nave
 
-ent-ShuttleSecretDoorAssembly = secret shuttle door assembly
+ent-ShuttleSecretDoorAssembly = montagem de porta secreta de nave
 
-ent-SolidReinforcedSecretDoor = reinforced wall
+ent-SolidReinforcedSecretDoor = parede reforçada
 
-ent-UraniumSecretDoor = uranium wall
+ent-UraniumSecretDoor = parede de urânio
 
-ent-UraniumSecretDoorAssembly = secret uranium door assembly
+ent-UraniumSecretDoorAssembly = montagem de porta de urânio secreta
 
-ent-WoodSecretDoor = wood wall
+ent-WoodSecretDoor = parede de madeira
 
-ent-WoodSecretDoorAssembly = secret wood door assembly
+ent-WoodSecretDoorAssembly = montagem de porta de madeira secreta
 
 # From: _NF/Entities/Structures/Dungeon/airlocks.yml
 
 # Abstract entity (referenceable by children)
-ent-AirlockGlassMurkyDungeon = 
-    .suffix = Dungeon only, DO NOT MAP
-    .desc = An airlock with murky glass windows, it's hard to see what's on the other side.
+ent-AirlockGlassMurkyDungeon
+    .suffix = Apenas Masmorra, NÃO MAPEAR
+    .desc = Um alçapore com janelas de vidro turvo, é difícil ver o que há do outro lado.
 
 # From: _NF/Entities/Structures/Dungeon/grille.yml
 
-ent-GrilleDungeon = 
-    .suffix = Dungeon only, DO NOT MAP
-    .desc = A grille covered in soot and grime.
+ent-GrilleDungeon
+    .suffix = Apenas Masmorra, NÃO MAPEAR
+    .desc = Uma grade coberta de fuligem e sujeira.
 
 # From: _NF/Entities/Structures/Dungeon/windoor.yml
 
 # Abstract entity (referenceable by children)
-ent-WindoorMurkyDungeon = 
-    .suffix = Dungeon only, DO NOT MAP
-    .desc = A windoor with murky glass, it's hard to see what's on the other side.
+ent-WindoorMurkyDungeon
+    .suffix = Apenas Masmorra, NÃO MAPEAR
+    .desc = Uma porta de vidro com vidro turvo, é difícil ver o que há do outro lado.
 
 # From: _NF/Entities/Structures/Dungeon/windows.yml
 
 # Abstract entity (referenceable by children)
-ent-WindowDirectionalMurkyDungeon = 
-    .suffix = Dungeon only, DO NOT MAP
-    .desc = A murky glass window, it's hard to see what's on the other side.
+ent-WindowDirectionalMurkyDungeon
+    .suffix = Apenas Masmorra, NÃO MAPEAR
+    .desc = Uma janela de vidro turvo, é difícil ver o que há do outro lado.
 
 # Abstract entity (referenceable by children)
-ent-WindowMurkyDungeon = 
-    .suffix = Dungeon only, DO NOT MAP
-    .desc = A murky glass window, it's hard to see what's on the other side.
+ent-WindowMurkyDungeon
+    .suffix = Apenas Masmorra, NÃO MAPEAR
+    .desc = Uma janela de vidro turvo, é difícil ver o que há do outro lado.
 
 # From: _NF/Entities/Structures/Furniture/altar_frame.yml
 
-ent-AltarFrameNF = altar frame
-    .suffix = Unfinished
-    .desc = Altar of the Gods. Kinda hollow to be honest.
+ent-AltarFrameNF = moldura de altar
+    .suffix = Inacabado
+    .desc = Altar dos Deuses. Meiooco para ser honesto.
 
 # From: _NF/Entities/Structures/Furniture/altar.yml
 
-ent-AltarMail = mail altar
+ent-AltarMail = altar de correio
 
 # From: _NF/Entities/Structures/Furniture/Armory/base_weapon_rack.yml
 
-ent-StructureGunRack = gun rack
-    .suffix = Empty
+ent-StructureGunRack = suporte de armas
+    .suffix = Vazio
     .desc = {ent-StructureWeaponRackBase.desc}
 
 ent-StructureGunRackWallmounted = {ent-StructureWeaponRackBase}
-    .suffix = Empty, Wallmount
+    .suffix = Vazio, Parede
     .desc = {ent-StructureWeaponRackBase.desc}
 
-ent-StructureMeleeWeaponRack = melee weapon rack
-    .suffix = Empty
+ent-StructureMeleeWeaponRack = suporte de armas corpo a corpo
+    .suffix = Vazio
     .desc = {ent-StructureWeaponRackBase.desc}
 
 ent-StructureMeleeWeaponRackWallmounted = {ent-StructureWeaponRackBase}
-    .suffix = Empty, Wallmount
+    .suffix = Vazio, Parede
     .desc = {ent-StructureWeaponRackBase.desc}
 
-ent-StructurePistolRack = sidearm rack
-    .suffix = Empty
+ent-StructurePistolRack = suporte de arma secundária
+    .suffix = Vazio
     .desc = {ent-StructureWeaponRackBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-StructurePistolRackLock = personal defence weapon rack
+ent-StructurePistolRackLock = suporte de arma de defesa pessoal
     .desc = {ent-StructureWeaponRackBase.desc}
 
 ent-StructurePistolRackWallmounted = {ent-StructureWeaponRackBase}
-    .suffix = Empty, Wallmount
+    .suffix = Vazio, Parede
     .desc = {ent-StructureWeaponRackBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-StructureWeaponRackBase = weapon rack
-    .desc = A storage unit for expedited pacification measures.
+ent-StructureWeaponRackBase = suporte de armas
+    .desc = Uma unidade de armazenamento para medidas de pacificação aceleradas.
 
 # From: _NF/Entities/Structures/Furniture/bedroll.yml
 
-ent-McHoboBedsRandom = stained bedroll spawner
+ent-McHoboBedsRandom = gerador de colchão sujo aleatório
+    .suffix = Aleatório
 .suffix = Aleatório
 
-ent-NFBedroll = bedroll
-    .desc = When there's nowhere else to sleep, you'll want to bring at least one thing of comfort. The tag on it states to unfold it before rest, but who needs rules anyway, right?
+ent-NFBedroll = colchão
+    .desc = Quando não houver outro lugar para dormir, você vai querer trazer pelo menos uma coisa de conforto. A etiqueta diz para desdobrá-lo antes de descansar, mas quem precisa de regras de qualquer forma, certo?
 
-ent-NFBedrollStained = 
-    .suffix = Stained
-    .desc = Glamping used to look different back in my days.
+ent-NFBedrollStained
+    .suffix = Sujo
+    .desc = Acampamento de luxo costumava ter uma aparência diferente nos meus tempos.
 
 # From: _NF/Entities/Structures/Furniture/chairs.yml
 
 # Abstract entity (referenceable by children)
-ent-ChairWoodFancyBase = fancy wooden chair
-    .desc = A chair, but fancy.
+ent-ChairWoodFancyBase = cadeira de madeira elegante
+    .desc = Uma cadeira, mas elegante.
 
 ent-ChairWoodFancyBlack = {ent-ChairWoodFancyBase}
-    .suffix = Black
+    .suffix = Preto
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyBlue = {ent-ChairWoodFancyBase}
+    .suffix = Azul
+    .desc = {ent-ChairWoodFancyBase.desc}
 .suffix = Azul
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyCyan = {ent-ChairWoodFancyBase}
-    .suffix = Cyan
+    .suffix = Ciano
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyGreen = {ent-ChairWoodFancyBase}
+    .suffix = Verde
+    .desc = {ent-ChairWoodFancyBase.desc}
 .suffix = Verde
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyOrange = {ent-ChairWoodFancyBase}
-    .suffix = Orange
+    .suffix = Laranja
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyPink = {ent-ChairWoodFancyBase}
-    .suffix = Pink
+    .suffix = Rosa
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyPurple = {ent-ChairWoodFancyBase}
-    .suffix = Purple
+    .suffix = Roxo
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyRed = {ent-ChairWoodFancyBase}
+    .suffix = Vermelho
+    .desc = {ent-ChairWoodFancyBase.desc}
 .suffix = Vermelho
     .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyWhite = {ent-ChairWoodFancyBase}
-    .suffix = White
+    .suffix = Branco
     .desc = {ent-ChairWoodFancyBase.desc}
 
 # From: _NF/Entities/Structures/Furniture/icebox.yml
 
-ent-Icebox = ice box
-    .suffix = Ice
+ent-Icebox = caixa de gelo
+    .suffix = Gelo
 
-ent-IceboxEmpty = ice box
-    .desc = This delightful machine is slowly filling with ice!
+ent-IceboxEmpty = caixa de gelo
+    .desc = Esta deliciosa máquina está lentamente se enchendo de gelo!
 
 # From: _NF/Entities/Structures/Furniture/tables.yml
 
-ent-TableFolding = folding table
-    .desc = If you carry six of these you become the coolest kid at church.
+ent-TableFolding = mesa dobrável
+    .desc = Se você carregar seis dessas, você se torna a criança mais legal da igreja.
 
 # From: _NF/Entities/Structures/Furniture/toilet.yml
 
-ent-ToiletDirtyWaterMcCargo = mccargo toilet
-    .desc = The HT-451MC is the McCargo version of the device. It says on the side that it is made of fake gold and a a fake leather seat.
+ent-ToiletDirtyWaterMcCargo = vaso sanitário McCargo
+    .desc = O HT-451MC é a versão McCargo do dispositivo. Diz no lado que é feito de ouro falso e um assento de couro falso.
 
 # From: _NF/Entities/Structures/Holographic/graffiti.yml
 
 # Abstract entity (referenceable by children)
-ent-HoloGraffiti = holograffiti
-    .desc = A graffiti composed of hard light. Can be easily removed by force.
+ent-HoloGraffiti = holografito
+    .desc = Uma grafite composta de luz dura. Pode ser facilmente removida à força.
 
 ent-HoloGraffitiHighlighted01 = {ent-HoloGraffiti}
     .desc = {ent-HoloGraffiti.desc}
@@ -6896,19 +7271,20 @@ ent-HoloGraffitiSimple21 = {ent-HoloGraffiti}
 ent-HoloGraffitiSimple22 = {ent-HoloGraffiti}
     .desc = {ent-HoloGraffiti.desc}
 
-ent-SpawnerHoloGraffitiRandom = holograffiti
+ent-SpawnerHoloGraffitiRandom = holografito
+    .suffix = Aleatório
 .suffix = Aleatório
 
 # From: _NF/Entities/Structures/Holographic/projections.yml
 
-ent-HolosignNfsd = TSFMC holographic barrier
-    .desc = A barrier of hard light that blocks movement, but pretty weak.
+ent-HolosignNfsd = barreira holográfica TSFMC
+    .desc = Uma barreira de luz dura que bloqueia movimento, mas bem fraca.
 
 # From: _NF/Entities/Structures/hydro_tray.yml
 
-ent-hydroponicsTrayAnchored = 
-    .suffix = anchored
-    .desc = An interstellar-grade space farmplot allowing for rapid growth and selective breeding of crops. Stronger than your average hydroponics tray.
+ent-hydroponicsTrayAnchored
+    .suffix = ancorado
+    .desc = Um canteiro de fazenda espacial de grau interplanetário permitindo crescimento rápido e reprodução seletiva de safras. Mais forte que sua bandeja de hidroponia média.
 
 # From: _NF/Entities/Structures/Machines/Computers/computers_shipyard.yml
 
@@ -6916,32 +7292,32 @@ ent-ComputerShipyard = {ent-ComputerShipyardBase}
     .desc = {ent-ComputerShipyardBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-ComputerShipyardBase = shipyard console
-    .desc = Used to purchase and sell shuttles
+ent-ComputerShipyardBase = console de estaleiro
+    .desc = Usado para comprar e vender naves
 
-ent-ComputerShipyardBlackMarket = PDV shipyard console
-    .desc = Used to buy PDV vessels.
+ent-ComputerShipyardBlackMarket = console de estaleiro PDV
+    .desc = Usado para comprar navios PDV.
 
-ent-ComputerShipyardExpedition = expedition shipyard console
-    .desc = Used to buy ships outfitted for planetary expeditions
+ent-ComputerShipyardExpedition = console de estaleiro de expedição
+    .desc = Usado para comprar navios equipados para expedições planetárias
 
-ent-ComputerShipyardMedical = medical shipyard console
-    .desc = Used to purchase and sell medical shuttles
+ent-ComputerShipyardMedical = console de estaleiro médico
+    .desc = Usado para comprar e vender naves médicas
 
-ent-ComputerShipyardNfsd = TSFMC shipyard console
-    .desc = Used to buy TSFMC vessels.
+ent-ComputerShipyardNfsd = console de estaleiro TSFMC
+    .desc = Usado para comprar navios TSFMC.
 
-ent-ComputerShipyardScrap = scrapyard console
-    .desc = Used to purchase and sell \"shuttles\"
+ent-ComputerShipyardScrap = console de ferro-velho
+    .desc = Usado para comprar e vender \"naves\"
 
-ent-ComputerShipyardSecurity = security shipyard console
-    .desc = Used to enlist into TSF Security Forces
+ent-ComputerShipyardSecurity = console de estaleiro de segurança
+    .desc = Usado para se alistar nas Forças de Segurança TSF
 
-ent-ComputerShipyardSr = colonial staff shipyard console
-    .desc = Used to buy vessels exclusive to Colonial Outpost personnel.
+ent-ComputerShipyardSr = console de estaleiro do staff colonial
+    .desc = Usado para comprar navios exclusivos para pessoal do Posto Colonial.
 
-ent-ComputerShipyardSyndicate = syndicate shipyard console
-    .desc = Used to buy ships not available through other means.
+ent-ComputerShipyardSyndicate = console de estaleiro do Sindicato
+    .desc = Usado para comprar navios não disponíveis através de outros meios.
 
 # From: _NF/Entities/Structures/Machines/Computers/computers_shuttle_records.yml
 
@@ -6949,442 +7325,442 @@ ent-ComputerShuttleRecords = {ent-ComputerShuttleRecordsBase}
     .desc = {ent-ComputerShuttleRecordsBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-ComputerShuttleRecordsBase = shuttle records console
-    .desc = Used to browse shuttle records and recover or reassign shuttle ownership to IDs.
+ent-ComputerShuttleRecordsBase = console de registros de naves
+    .desc = Usado para navegar nos registros de naves e recuperar ou reatribuir propriedade de naves para IDs.
 
 # From: _NF/Entities/Structures/Machines/Computers/computers_tabletop.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseComputerTabletopStationAdminBankATM = station administration console
+ent-BaseComputerTabletopStationAdminBankATM = console de administração da estação
 
 ent-ComputerTabletopStationAdminBankATMFrontier = {ent-BaseComputerTabletopStationAdminBankATM}
-    .suffix = Frontier, Tabletop
-    .desc = Used to transfer funds from Colonial Outpost's bank account
+    .suffix = Frontier, Mesa
+    .desc = Usado para transferir fundos da conta bancária do Posto Colonial
 
 ent-ComputerTabletopStationAdminBankATMMedical = {ent-BaseComputerTabletopStationAdminBankATM}
-    .suffix = Medical, Tabletop
-    .desc = Used to transfer funds from Medical Dispatch's bank account
+    .suffix = Médico, Mesa
+    .desc = Usado para transferir fundos da conta bancária do Despacho Médico
 
 ent-ComputerTabletopStationAdminBankATMNfsd = {ent-BaseComputerTabletopStationAdminBankATM}
-    .suffix = TSFMC, Tabletop
-    .desc = Used to transfer funds from the TSFMC-FOB's bank account
+    .suffix = TSFMC, Mesa
+    .desc = Usado para transferir fundos da conta bancária do FOB TSFMC
 
 # From: _NF/Entities/Structures/Machines/Computers/computers.yml
 
-ent-ComputerAdvancedRadar = advanced radar computer
-    .desc = This advanced radar lets you detect far away objects for an increased tactical advantage.
+ent-ComputerAdvancedRadar = computador de radar avançado
+    .desc = Este radar avançado permite que você detecte objetos distantes para uma vantagem tática aumentada.
 
-ent-ComputerContrabandPalletConsole = technology exchange computer
-    .desc = Sends off faction gear in exchange for FMC.
+ent-ComputerContrabandPalletConsole = computador de troca de tecnologia
+    .desc = Envia equipamentos de facções em troca de FMC.
 
-ent-ComputerContrabandPalletConsolePirate = technology hand-in console
-    .desc = Takes faction tech to be sent off to research and grants DC in exchange.
+ent-ComputerContrabandPalletConsolePirate = console de entrega de tecnologia
+    .desc = Recebe tecnologia de facção para ser enviada para pesquisa e concede DC em troca.
 
-ent-ComputerIFFPOI = IFF computer
+ent-ComputerIFFPOI = computador IFF
     .suffix = POI
-    .desc = Allows you to control the IFF and stealth characteristics of this station.
+    .desc = Permite que você controle as características IFF e furtiva desta estação.
 
 # Abstract entity (referenceable by children)
-ent-ComputerMarketConsoleNFBase = cargo market computer
-    .desc = Used to buy goods from the station's market system.
+ent-ComputerMarketConsoleNFBase = computador de mercado de carga
+    .desc = Usado para comprar bens do sistema de mercado da estação.
 
-ent-ComputerMarketConsoleNFHigh = cargo market computer
-    .suffix = High
+ent-ComputerMarketConsoleNFHigh = computador de mercado de carga
+    .suffix = Alto
     .desc = {ent-ComputerMarketConsoleNFBase.desc}
 
-ent-ComputerMarketConsoleNFLow = cargo market computer
-    .suffix = Low
+ent-ComputerMarketConsoleNFLow = computador de mercado de carga
+    .suffix = Baixo
     .desc = {ent-ComputerMarketConsoleNFBase.desc}
 
-ent-ComputerMarketConsoleNFNormal = cargo market computer
+ent-ComputerMarketConsoleNFNormal = computador de mercado de carga
     .suffix = Normal
     .desc = {ent-ComputerMarketConsoleNFBase.desc}
 
 ent-ComputerPalletConsoleNFHighMarket = {ent-ComputerPalletConsoleNFMarket}
-    .suffix = High
+    .suffix = Alto
     .desc = {ent-ComputerPalletConsoleNFMarket.desc}
 
 ent-ComputerPalletConsoleNFLowMarket = {ent-ComputerPalletConsoleNFMarket}
-    .suffix = Low
+    .suffix = Baixo
     .desc = {ent-ComputerPalletConsoleNFMarket.desc}
 
 # Abstract entity (referenceable by children)
-ent-ComputerPalletConsoleNFMarket = cargo sale computer
+ent-ComputerPalletConsoleNFMarket = computador de venda de carga
     .suffix = Normal
-    .desc = Used to sell goods loaded onto cargo pallets.
+    .desc = Usado para vender bens carregados em paletes de carga.
 
 ent-ComputerPalletConsoleNFNormalMarket = {ent-ComputerPalletConsoleNFMarket}
     .suffix = Normal
     .desc = {ent-ComputerPalletConsoleNFMarket.desc}
 
 ent-ComputerPalletConsoleNFVeryHighMarket = {ent-ComputerPalletConsoleNFMarket}
-    .suffix = VeryHigh
+    .suffix = MuitoAlto
     .desc = {ent-ComputerPalletConsoleNFMarket.desc}
 
 ent-ComputerPalletConsoleNFVeryLowMarket = {ent-ComputerPalletConsoleNFMarket}
-    .suffix = VeryLow
+    .suffix = MuitoBaixo
     .desc = {ent-ComputerPalletConsoleNFMarket.desc}
 
-ent-ComputerPirateBounty = PDV bounty console
-    .desc = Pull up active contracts, track targets, and get paid in chits.
+ent-ComputerPirateBounty = console de recompensas PDV
+    .desc = Abrir contratos ativos, rastrear alvos e ser pago em fichas.
 
-ent-ComputerPirateBountyRedemption = bounty redemption console
-    .desc = Contract completed? Redeem your chit and claim your payout.
+ent-ComputerPirateBountyRedemption = console de resgate de recompensas
+    .desc = Contrato completado? Resgate sua ficha e reivindique seu pagamento.
 
-ent-ComputerShuttleFrontierOutpostLocal = Colonial Outpost traffic console
+ent-ComputerShuttleFrontierOutpostLocal = console de tráfego do Posto Colonial
     .suffix = Local
-    .desc = Monitors the traffic around Colonial Outpost.
+    .desc = Monitora o tráfego ao redor do Posto Colonial.
 
-ent-ComputerShuttleFrontierOutpostRemote = Colonial Outpost traffic console
-    .suffix = Remote
-    .desc = Monitors the traffic around Colonial Outpost.
+ent-ComputerShuttleFrontierOutpostRemote = console de tráfego do Posto Colonial
+    .suffix = Remoto
+    .desc = Monitora o tráfego ao redor do Posto Colonial.
 
-ent-ComputerShuttleTradeOutpostLocal = Trade Outpost traffic console
+ent-ComputerShuttleTradeOutpostLocal = console de tráfego do Posto Comercial
     .suffix = Local
-    .desc = Monitors the traffic around the Trade Outpost.
+    .desc = Monitora o tráfego ao redor do Posto Comercial.
 
-ent-ComputerShuttleTradeOutpostRemote = Trade Outpost traffic console
-    .suffix = Remote
-    .desc = Monitors the traffic around the Trade Outpost.
+ent-ComputerShuttleTradeOutpostRemote = console de tráfego do Posto Comercial
+    .suffix = Remoto
+    .desc = Monitora o tráfego ao redor do Posto Comercial.
 
-ent-GasSaleConsole = gas sale console
-    .desc = Sells gas pumped into a linked gas sale port/point.
+ent-GasSaleConsole = console de venda de gás
+    .desc = Vende gás bombeado para uma porta/ponto de venda de gás conectado.
 
 # From: _NF/Entities/Structures/Machines/Computers/frame_tabletop.yml
 
-ent-ComputerTabletopFrame = computer
+ent-ComputerTabletopFrame = computador
 
 # From: _NF/Entities/Structures/Machines/Computers/frame_wallmount.yml
 
-ent-ComputerWallmountFrame = computer
+ent-ComputerWallmountFrame = computador
 
 # From: _NF/Entities/Structures/Machines/contraband_pallet.yml
 
-ent-ContrabandPallet = contraband exchange pallet
-    .desc = Designates valid items to exchange with CentCom for Federation Military Credits.
+ent-ContrabandPallet = palete de troca de contrabando
+    .desc = Designa itens válidos para trocar com CentCom por Créditos Militares da Federação.
 
-ent-ContrabandPalletPirate = data exchange platform
-    .desc = Uploads stolen assets and contraband for data chits.
+ent-ContrabandPalletPirate = plataforma de troca de dados
+    .desc = Faz upload de ativos roubados e contrabando para fichas de dados.
 
 # From: _NF/Entities/Structures/Machines/crate_machine.yml
 
-ent-CrateMachine = crate machine
-    .desc = Where do they come from?
+ent-CrateMachine = máquina de caixotes
+    .desc = De onde eles vêm?
 
 # From: _NF/Entities/Structures/Machines/cryopod.yml
 
-ent-MachineCryoSleepPod = cryo sleep chamber
-    .desc = Cold pillow, guaranteed.
+ent-MachineCryoSleepPod = câmara de sono criogênico
+    .desc = Travesseiro frio, garantido.
 
-ent-MachineMedicalBountyRedemption = body retrieval unit
-    .desc = A teleporter to return lost bodies with bounties on them. Dispenses cash on teleport.
+ent-MachineMedicalBountyRedemption = unidade de recuperação de corpos
+    .desc = Um teletransportador para retornar corpos perdidos com recompensas neles. Dispensa dinheiro no teletransporte.
 
 # From: _NF/Entities/Structures/Machines/holopad.yml
 
-ent-NFHolopadShip = bluespace holopad
-    .suffix = Ship
-    .desc = A floor-mounted device for projecting holographic images to enable ship to ship communication.
+ent-NFHolopadShip = holopad bluespace
+    .suffix = Nave
+    .desc = Um dispositivo montado no chão para projetar imagens holográficas para permitir comunicação de nave para nave.
 
 # From: _NF/Entities/Structures/Machines/lathe.yml
 
-ent-BiogeneratorFill = biogenerator
-    .suffix = Biomass, 50
+ent-BiogeneratorFill = biogerador
+    .suffix = Biomassa, 50
 
-ent-BlueprintLithograph = blueprint lithograph
-    .desc = Prints blueprints.
+ent-BlueprintLithograph = litógrafa de projetos
+    .desc = Imprime projetos.
 
-ent-EngineeringTechFab = engineering techfab
-    .desc = Prints equipment for engineers.
+ent-EngineeringTechFab = techfab de engenharia
+    .desc = Imprime equipamentos para engenheiros.
 
-ent-MercenaryTechFab = mercenary techfab
-    .desc = Prints the bare minimum of tools of the trade that any budget mercenary or private security could need. Nothing fancy.
+ent-MercenaryTechFab = techfab de mercenário
+    .desc = Imprime o mínimo absoluto de ferramentas do ofício que qualquer mercenário orçamentário ou segurança privada poderia precisar. Nada de chique.
 
-ent-MercenaryTechFabHacked = hacked mercenary techfab
-    .desc = Prints the bare minimum of tools of the trade that any budget mercenary or private security could need. Nothing fancy.
+ent-MercenaryTechFabHacked = techfab de mercenário hackeada
+    .desc = Imprime o mínimo absoluto de ferramentas do ofício que qualquer mercenário orçamentário ou segurança privada poderia precisar. Nada de chique.
 
-ent-NfsdTechFab = TSFMC techfab
-    .desc = Prints equipment for use by TSFMC.
+ent-NfsdTechFab = techfab TSFMC
+    .desc = Imprime equipamentos para uso pela TSFMC.
 
-ent-PrizeCounter = prize counter
-    .desc = Claim your prize and win some toys and cute plushies!
+ent-PrizeCounter = balcão de prêmios
+    .desc = Reivindique seu prêmio e ganhe alguns brinquedos e pelúcias fofas!
 
-ent-SalvageTechfabNF = salvage techfab
-    .desc = Prints equipment for salvagers.
+ent-SalvageTechfabNF = techfab de salvamento
+    .desc = Imprime equipamentos para salvadores.
 
-ent-ScrapProcessor = scrap processor
-    .desc = It produces sheets and ingots using scrap.
+ent-ScrapProcessor = processador de sucata
+    .desc = Produz chapas e lingotes usando sucata.
 
-ent-ServiceTechFab = service techfab
-    .desc = Prints equipment for service staff.
+ent-ServiceTechFab = techfab de serviço
+    .desc = Imprime equipamentos para equipe de serviço.
 
 # From: _NF/Entities/Structures/Machines/material_reclaimer.yml
 
-ent-MaterialReclaimer = material reclaimer
-    .desc = Cannot reclaim immaterial things, like motivation.
+ent-MaterialReclaimer = recuperador de materiais
+    .desc = Não pode recuperar coisas imateriais, como motivação.
 
 # From: _NF/Entities/Structures/Machines/microwave_recipe_assemblers.yml
 
 ent-KitchenAssembler = food-o-mat
-    .desc = Assembles and prepares NT-approved meals. You don't know what it's doing in there.
+    .desc = Monta e prepara refeições aprovadas pela NT. Você não sabe o que ele está fazendo lá dentro.
 
-ent-KitchenElectricRange = electric range
-    .desc = A functional range with a range of functions.
+ent-KitchenElectricRange = fogão elétrico
+    .desc = Um fogão funcional com uma gama de funções.
 
-ent-MedicalAssembler = medical assembler
-    .desc = Great for medicine, apparently. You don't know how it works.
+ent-MedicalAssembler = montadora médica
+    .desc = Ótimo para medicina, aparentemente. Você não sabe como funciona.
 
-ent-SyndicateKitchenElectricRange = donk co. electric range
+ent-SyndicateKitchenElectricRange = fogão elétrico Donk Co.
 
 # From: _NF/Entities/Structures/Machines/shredder.yml
 
-ent-Shredder = shredder
-    .desc = It shreds things. What more is there to say?
+ent-Shredder = triturador
+    .desc = Ele tritura coisas. O que mais há para dizer?
 
 # From: _NF/Entities/Structures/Machines/vending_machines.yml
 
 ent-LessLethalVendingMachine = LessLethalVend
-    .desc = Making violence safe since '08.
+    .desc = Tornando a violência segura desde '08.
 
 ent-NonLethalVendingMachine = NonLethalVend
-    .desc = Try not to aim for the eyes!
+    .desc = Tente não mirar nos olhos!
 
 ent-VendingMachineArcadia = ArcadiaDrobe
-    .desc = Selling clothes from another reality for cheap prices!
+    .desc = Vendendo roupas de outra realidade por preços baratos!
 
 ent-VendingMachineAstroVend = AstroVend
-    .desc = Essential gear for the spaceman on the go.
+    .desc = Equipamento essencial para o astronauta em movimento.
 
 ent-VendingMachineAutoTuneVend = AutoTune
-    .desc = Feeling BASSed? Time to TUNE into AutoVend! Take NOTES and let your audience TREBLE.
+    .desc = Sentindo falta de BASS? Hora de SINTONIZAR o AutoVend! Tire NOTAS e deixe sua audiência fazer TREBLE.
 
 ent-VendingMachineBountyVend = BountyVend
-    .desc = Essential gear for the bounty hunter on the go.
+    .desc = Equipamento essencial para o caçador de recompensas em movimento.
 
 ent-VendingMachineBountyVendPunk = BonanzaMatic
-    .desc = A vandalised BountyVend.
+    .desc = Um BountyVend vandalizado.
 
 ent-VendingMachineCiviMed = CiviMed
-    .desc = CiviMed, distributing lifesaving meds harder than the rocks you break! Miners, DON'T DIE!
+    .desc = CiviMed, distribuindo remédios que salvam vidas mais difíceis do que as rochas que você quebra! Mineiros, NÃO MORRAM!
 
 ent-VendingMachineCiviMedPlus = CiviMed Plus
-    .desc = CiviMed Plus, distributing lifesaving meds harder than the rocks you break! Miners, DON'T DIE!
+    .desc = CiviMed Plus, distribuindo remédios que salvam vidas mais difíceis do que as rochas que você quebra! Mineiros, NÃO MORRAM!
 
 ent-VendingMachineClothingPunk = ThreadsChoom
-    .desc = A vandalized ClothesMate.
+    .desc = Um ClothesMate vandalizado.
 
 ent-VendingMachineCuddlyCritterVend = CuddlyCritterVend
-    .desc = Step into the world of wonder and warmth with Cuddly Critters Vending Machine, a haven for plushie and toy enthusiasts alike.
+    .desc = Entre no mundo de maravilha e calor com a Máquina de Vendas de Bichinhos Fofos, um refúgio para entusiastas de pelúcias e brinquedos.
 
 ent-VendingMachineExpeditionaryFlatpackVend = Expeditionary FlatpackVend
-    .desc = Essential tech for the spaceman on an expedition.
+    .desc = Tecnologia essencial para o astronauta em uma expedição.
 
 ent-VendingMachineFlatpackVend = FlatpackVend
-    .desc = Essential tech for the spaceman on the go.
+    .desc = Tecnologia essencial para o astronauta em movimento.
 
 ent-VendingMachineFuelVend = FuelVend
-    .desc = A vendor selling fuel for ship engines. Smells like ozone.
+    .desc = Um vendedor vendendo combustível para motores de naves. Cheira a ozônio.
 
 ent-VendingMachineMailVend = MailVend
-    .desc = Make your thoughts known, send a letter today!
+    .desc = Torne seus pensamentos conhecidos, envie uma carta hoje!
 
 ent-VendingMachineNfsdDrobe = TSFMCDrobe
-    .desc = A vending machine for TSFMC clothing!
+    .desc = Uma máquina de vendas para roupas TSFMC!
 
 ent-VendingMachineNfsdTech = TSFMCTech
-    .desc = A vending machine for TSFMC tech!
+    .desc = Uma máquina de vendas para tecnologia TSFMC!
 
 ent-VendingMachinePottedPlantVend = Plant-O-Matic
-    .desc = Sometimes potted plants are the best crewmates money can get.
+    .desc = Às vezes plantas em vasos são os melhores tripulantes que o dinheiro pode comprar.
 
 ent-VendingMachineSyndieContraband = ContraVend
-    .desc = Wanted across multiple sectors!
+    .desc = Procurado em múltiplos setores!
 
 ent-VendingMachineValetDrobe = ValetDrobe
-    .desc = Assist others in style! Dress in top-top shape for tip-top tips!
+    .desc = Ajude os outros com estilo! Vista-se em top-top forma para dicas top-top!
 
 ent-VendingMachineYarrrDrobe = YarrrDrobe
-    .desc = A vending machine for skallywags and booty lovers!
+    .desc = Uma máquina de vendas para patifes e amantes de butim!
 
 # From: _NF/Entities/Structures/Piping/Atmospherics/binary.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseGaslock = gaslock
+ent-BaseGaslock = esclusa de gás
 
 # Abstract entity (referenceable by children)
-ent-BasePressurePumpGaslock = external gaslock
-    .desc = Connects gas pipes on separate ships or stations together to allow gas transfer. Both sides must be docked and pumping in the same direction to accept flow.
+ent-BasePressurePumpGaslock = esclusa de gás externa
+    .desc = Conecta tubulações de gás em naves ou estações separadas para permitir transferência de gás. Ambos os lados devem estar acoplados e bombeando na mesma direção para aceitar fluxo.
 
 ent-Gaslock = {ent-BasePressurePumpGaslock}
     .desc = {ent-BasePressurePumpGaslock.desc}
 
-ent-GaslockFrame = portable gaslock
-    .desc = Pumps gas through. Accepts docking, but cannot dock. Both sides must be docked and pumping in the same direction for gas to flow.
+ent-GaslockFrame = esclusa de gás portátil
+    .desc = Bombeia gás através. Aceita acoplamento, mas não pode acoplar. Ambos os lados devem estar acoplados e bombeando na mesma direção para o gás fluir.
 
 # From: _NF/Entities/Structures/Piping/Atmospherics/unary.yml
 
-ent-GasMiningDrill = gas mining drill
-    .desc = A powerful, luggable drill for mining gas deposits on asteroids. Outputs gas through a pipe.
+ent-GasMiningDrill = perfuradora de mineração de gás
+    .desc = Uma perfuradora poderosa, transportável para minerar depósitos de gás em asteroides. Produz gás através de uma tubulação.
 
-ent-GasSalePoint = gas sale point
-    .suffix = Internal
-    .desc = Gas piped into here can be sold using the linked console. Bluespace linked to massive storage vaults off-site.
+ent-GasSalePoint = ponto de venda de gás
+    .suffix = Interno
+    .desc = Gás canalizado para aqui pode ser vendido usando o console conectado. Conectado via bluespace a cofres de armazenamento massivos fora do local.
 
-ent-GasSalePort = gas sale port
-    .suffix = Dockable
+ent-GasSalePort = porta de venda de gás
+    .suffix = Acoplável
 
 # From: _NF/Entities/Structures/Power/chargers.yml
 
-ent-WallWeaponCapacitorRechargerOmnidirectional = wall recharger
-    .suffix = Omnidirectional
+ent-WallWeaponCapacitorRechargerOmnidirectional = carregador de parede
+    .suffix = Onidirecional
 
 # From: _NF/Entities/Structures/Power/Generation/portable_generator.yml
 
-ent-PortableGeneratorDK = D-K-type portable generator
-    .suffix = Bananium, Rad+, 60 kW
-    .desc = A prototype Dunn-Kikko fission reactor. Use with caution.
+ent-PortableGeneratorDK = gerador portátil tipo D-K
+    .suffix = Banânio, Rad+, 60 kW
+    .desc = Um reator de fissão Dunn-Kikko protótipo. Use com cautela.
 Runs off bananium and is rated for up to 120 kW.
 Highly radioactive without protection.
 
-ent-PortableGeneratorDKJr = D-K Jr.-type portable generator
-    .suffix = Bananium, Rad-, 60 kW
-    .desc = A miniaturized Dunn-Kikko fission reactor. Use with caution.
+ent-PortableGeneratorDKJr = gerador portátil tipo D-K Jr.
+    .suffix = Banânio, Rad-, 60 kW
+    .desc = Um reator de fissão Dunn-Kikko miniaturizado. Use com cautela.
 Runs off bananium and is rated for up to 100 kW.
 Quite radioactive without protection.
 
 # From: _NF/Entities/Structures/Shuttles/station_anchor.yml
 
-ent-MiniStationAnchor = mini station anchor
+ent-MiniStationAnchor = âncora de estação mini
 
 # From: _NF/Entities/Structures/Shuttles/thrusters_nfsd.yml
 
-ent-SmallGyroscopeNfsd = small gyroscope
+ent-SmallGyroscopeNfsd = giroscópio pequeno
     .suffix = TSFMC
 
 # From: _NF/Entities/Structures/Shuttles/thrusters_security.yml
 
-ent-DebugGyroscopeSecurity = gyroscope
-    .suffix = DEBUG, Security
+ent-DebugGyroscopeSecurity = giroscópio
+    .suffix = DEBUG, Segurança
 
-ent-DebugThrusterSecurity = thruster
-    .suffix = DEBUG, Security
+ent-DebugThrusterSecurity = propulsor
+    .suffix = DEBUG, Segurança
 
-ent-SmallGyroscopeSecurity = small gyroscope
-    .suffix = Security
+ent-SmallGyroscopeSecurity = giroscópio pequeno
+    .suffix = Segurança
 
-ent-ThrusterSecurity = thruster
-    .suffix = Security
+ent-ThrusterSecurity = propulsor
+    .suffix = Segurança
 
 # From: _NF/Entities/Structures/Shuttles/thrusters.yml
 
-ent-SmallGyroscope = small gyroscope
+ent-SmallGyroscope = giroscópio pequeno
 
-ent-SmallThruster = small thruster
+ent-SmallThruster = propulsor pequeno
 
 # From: _NF/Entities/Structures/Specific/aberrant_flesh.yml
 
-ent-AberrantFleshDigestiveSack = assimilation sack
-    .desc = Huh, an assimilation sack? How do I even know this?
+ent-AberrantFleshDigestiveSack = saco de assimilação
+    .desc = Huh, um saco de assimilação? Como eu sei até isso?
 
 # From: _NF/Entities/Structures/Specific/argocyte.yml
 
-ent-ArgocyteEgg = argocyte egg
-    .desc = Looks more like a fossil than egg.
+ent-ArgocyteEgg = ovo de argócito
+    .desc = Parece mais um fóssil do que um ovo.
 
 # From: _NF/Entities/Structures/Specific/bloodcult.yml
 
-ent-BloodCollector = blood collector
-    .desc = A vile chamber filled with blood. Seems to hold more than it's volume.
+ent-BloodCollector = coletor de sangue
+    .desc = Uma câmara vil cheia de sangue. Parece conter mais do que seu volume.
 
-ent-BloodCultAlwaysPoweredLight = blood cult light
-    .suffix = Always powered
-    .desc = How is this thing glowing? Why?
+ent-BloodCultAlwaysPoweredLight = luz do culto sanguinário
+    .suffix = Sempre ligada
+    .desc = Como esta coisa está brilhando? Por quê?
 
-ent-BloodCultGlowingFloor = blood cult glowing floor
+ent-BloodCultGlowingFloor = chão brilhante do culto sanguinário
 
-ent-BloodCultGravityGeneratorMini = blood cult gravity generator
+ent-BloodCultGravityGeneratorMini = gerador de gravidade do culto sanguinário
 
-ent-BloodCultHoleFloor = blood cult floor hole
+ent-BloodCultHoleFloor = buraco no chão do culto sanguinário
 
-ent-BloodCultProp01 = curious object
-    .desc = Huh, I wonder what this thing is and what does it do.
+ent-BloodCultProp01 = objeto curioso
+    .desc = Huh, eu me pergunto o que é esta coisa e o que ela faz.
 
-ent-BloodCultProp02 = blood cult forge
-    .desc = A forge for weapon and armor production.
+ent-BloodCultProp02 = forja do culto sanguinário
+    .desc = Uma forja para produção de armas e armaduras.
 
-ent-BloodCultProp03 = blood cult shrine
-    .desc = An occult shrine for imbuing objects with vile energies.
+ent-BloodCultProp03 = santuário do culto sanguinário
+    .desc = Um santuário ocultista para imbuir objetos com energias viles.
 
-ent-BloodCultProp04 = blood cult workbench
-    .desc = An occult workbench with handy drawers. There is a severed hand in one.
+ent-BloodCultProp04 = bancada de trabalho do culto sanguinário
+    .desc = Uma bancada de trabalho ocultista com gavetas úteis. Há uma mão decepada em uma.
 
-ent-BloodCultProp05 = curious object
-    .desc = Huh, I wonder what this thing is and what does it do.
+ent-BloodCultProp05 = objeto curioso
+    .desc = Huh, eu me pergunto o que é esta coisa e o que ela faz.
 
-ent-BloodCultProp07 = curious object
-    .desc = Huh, I wonder what this thing is and what does it do.
+ent-BloodCultProp07 = objeto curioso
+    .desc = Huh, eu me pergunto o que é esta coisa e o que ela faz.
 
-ent-WallCultIndestructible = cult wall
-    .suffix = indestructible
+ent-WallCultIndestructible = parede do culto
+    .suffix = indestrutível
 
-ent-WindowCultIndestructibleInvisible = cult window
-    .suffix = invisible, indestructible
+ent-WindowCultIndestructibleInvisible = janela do culto
+    .suffix = invisível, indestrutível
 
 # From: _NF/Entities/Structures/Specific/dinosaurs.yml
 
-ent-DinosaurEgg = dinosaur egg
-    .desc = Looks more like a fossil than egg.
+ent-DinosaurEgg = ovo de dinossauro
+    .desc = Parece mais um fóssil do que um ovo.
 
 # From: _NF/Entities/Structures/Specific/explorers.yml
 
-ent-ExplorersLootRadar = malfunctioning salvage radar
-    .desc = Essential tool for any looter.
+ent-ExplorersLootRadar = radar de salvamento com defeito
+    .desc = Ferramenta essencial para qualquer saqueador.
 
 # From: _NF/Entities/Structures/Specific/mercenaries.yml
 
-ent-MercenaryCounterfeitCache = counterfeit cache
-    .desc = Cache with counterfeit credits, bootleg movie posters.
+ent-MercenaryCounterfeitCache = esconderijo de falsificações
+    .desc = Esconderijo com créditos falsificados, pôsteres de filmes pirateados.
 
 # From: _NF/Entities/Structures/Specific/punks.yml
 
-ent-PunkPartySupplies = party supply stash
-    .desc = The only thing that can hold a gang together.
+ent-PunkPartySupplies = estoque de suprimentos de festa
+    .desc = A única coisa que pode manter uma gangue unida.
 
 # From: _NF/Entities/Structures/Specific/roguesilicons.yml
 
-ent-RogueAiNode = rogue AI node
-    .desc = Contains portion of rogue AI database.
+ent-RogueAiNode = nó de IA rebelada
+    .desc = Contém parte do banco de dados de IA rebelada.
 
 # From: _NF/Entities/Structures/Specific/syndicate.yml
 
-ent-CybersunDataMiner = cybersun dataminer
-    .desc = Data collecting and processing machine produced by Cybersun.
+ent-CybersunDataMiner = minerador de dados Cybersun
+    .desc = Máquina de coleta e processamento de dados produzida pela Cybersun.
 
 # From: _NF/Entities/Structures/Specific/TradingCrates/base.yml
 
 # Abstract entity (referenceable by children)
-ent-CrateTradeBaseSecureContraband = Syndicate contraband crate
-    .desc = Contains goods made in the Spinward sector, ready to be smuggled to a cargo depot for profit. MAKE SURE THE CRATE IS INTACT.
+ent-CrateTradeBaseSecureContraband = caixote de contrabando do Sindicato
+    .desc = Contém bens feitos no setor Spinward, prontos para serem contrabandeados para um depósito de carga para lucro. CERTIFIQUE-SE DE QUE O CAIXOTE ESTEJA INTATO.
 
 # From: _NF/Entities/Structures/Specific/TradingCrates/crates.yml
 
-ent-CrateTradeContrabandSecure4 = Donk Co. contraband crate
+ent-CrateTradeContrabandSecure4 = caixote de contrabando Donk Co.
 
-ent-CrateTradeContrabandSecure5 = Cybersun Industries contraband crate
+ent-CrateTradeContrabandSecure5 = caixote de contrabando Cybersun Industries
 
-ent-CrateTradeSecureHigh = express cargo trading crate
-    .desc = An urgent crate of goods made in the Frontier sector, ready to be quickly sold at a cargo depot for higher value. MAKE SURE THE CRATE IS INTACT.
+ent-CrateTradeSecureHigh = caixote de comércio expresso de carga
+    .desc = Um caixote urgente de bens feitos no setor Frontier, pronto para ser vendido rapidamente em um depósito de carga por valor mais alto. CERTIFIQUE-SE DE QUE O CAIXOTE ESTEJA INTATO.
 
-ent-CrateTradeSecureNormal = cargo trading crate
-    .desc = Contains goods made in the Frontier sector, ready to be sold at a cargo depot for higher value. MAKE SURE THE CRATE IS INTACT.
+ent-CrateTradeSecureNormal = caixote de comércio de carga
+    .desc = Contém bens feitos no setor Frontier, prontos para serem vendidos em um depósito de carga por valor mais alto. CERTIFIQUE-SE DE QUE O CAIXOTE ESTEJA INTATO.
 
 # From: _NF/Entities/Structures/Storage/barrel.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseBarrel = metal barrel
-    .desc = A metal barrel. It can be filled with liquid.
+ent-BaseBarrel = barril de metal
+    .desc = Um barril de metal. Pode ser cheio com líquido.
 
 ent-ChemicalBarrelAbsinthe = {ent-BaseBarrel}
-    .suffix = Absinthe
+    .suffix = Absinto
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelAle = {ent-BaseBarrel}
@@ -7392,55 +7768,57 @@ ent-ChemicalBarrelAle = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelAluminium = {ent-BaseBarrel}
-    .suffix = Aluminium
+    .suffix = Alumínio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelBeer = {ent-BaseBarrel}
-    .suffix = Beer
+    .suffix = Cerveja
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelCarbon = {ent-BaseBarrel}
-    .suffix = Carbon
+    .suffix = Carbono
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelChlorine = {ent-BaseBarrel}
-    .suffix = Chlorine
+    .suffix = Cloro
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelCoffeeLiqueur = {ent-BaseBarrel}
-    .suffix = Coffee Liqeueur
+    .suffix = Licor de Café
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelCognac = {ent-BaseBarrel}
-    .suffix = Cognac
+    .suffix = Conhaque
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelCopper = {ent-BaseBarrel}
-    .suffix = Copper
+    .suffix = Cobre
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelCornoil = {ent-BaseBarrel}
-    .suffix = Cornoil
+    .suffix = Óleo de Milho
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelDiethylamine = {ent-BaseBarrel}
-    .suffix = Diethylamine
+    .suffix = Dietilamina
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelEthanol = {ent-BaseBarrel}
-    .suffix = Ethanol
+    .suffix = Etanol
     .desc = {ent-BaseBarrel.desc}
 
-ent-ChemicalBarrelExplosiveEmpty = explosive barrel
-    .suffix = Empty
-    .desc = The ancient and mysterious symbol on the front is believed to have once meant 'Use me as cover!' in days of yore.
+ent-ChemicalBarrelExplosiveEmpty = barril explosivo
+    .suffix = Vazio
+    .desc = O símbolo antigo e misterioso na frente acredita-se ter significado uma vez 'Use-me como cobertura!' nos dias de outrora.
 
 ent-ChemicalBarrelExplosiveFilled = {ent-BaseBarrel}
+    .suffix = Cheio
+    .desc = {ent-BaseBarrel.desc}
 .suffix = Cheio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelFluorine = {ent-BaseBarrel}
-    .suffix = Fluorine
+    .suffix = Flúor
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelGin = {ent-BaseBarrel}
@@ -7448,19 +7826,19 @@ ent-ChemicalBarrelGin = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelGold = {ent-BaseBarrel}
-    .suffix = Gold
+    .suffix = Ouro
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelHydrogen = {ent-BaseBarrel}
-    .suffix = Hydrogen
+    .suffix = Hidrogênio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelIodine = {ent-BaseBarrel}
-    .suffix = Iodine
+    .suffix = Iodo
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelIron = {ent-BaseBarrel}
-    .suffix = Iron
+    .suffix = Ferro
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelKetchup = {ent-BaseBarrel}
@@ -7468,51 +7846,51 @@ ent-ChemicalBarrelKetchup = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelLithium = {ent-BaseBarrel}
-    .suffix = Lithium
+    .suffix = Lítio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelMayo = {ent-BaseBarrel}
-    .suffix = Mayo
+    .suffix = Maionese
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelMead = {ent-BaseBarrel}
-    .suffix = Mead
+    .suffix = Hidromel
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelMercury = {ent-BaseBarrel}
-    .suffix = Mercury
+    .suffix = Mercúrio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelMustard = {ent-BaseBarrel}
-    .suffix = Mustard
+    .suffix = Mostarda
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelNitrogen = {ent-BaseBarrel}
-    .suffix = Nitrogen
+    .suffix = Nitrogênio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelOil = {ent-BaseBarrel}
-    .suffix = Oil
+    .suffix = Óleo
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelOliveoil = {ent-BaseBarrel}
-    .suffix = Olive Oil
+    .suffix = Azeite
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelOxygen = {ent-BaseBarrel}
-    .suffix = Oxygen
+    .suffix = Oxigênio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelPhosphorus = {ent-BaseBarrel}
-    .suffix = Phosphorus
+    .suffix = Fósforo
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelPotassium = {ent-BaseBarrel}
-    .suffix = Potassium
+    .suffix = Potássio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelRadium = {ent-BaseBarrel}
-    .suffix = Radium
+    .suffix = Rádio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelRum = {ent-BaseBarrel}
@@ -7520,31 +7898,31 @@ ent-ChemicalBarrelRum = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSilicon = {ent-BaseBarrel}
-    .suffix = Silicon
+    .suffix = Silício
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSilver = {ent-BaseBarrel}
-    .suffix = Silver
+    .suffix = Prata
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSodium = {ent-BaseBarrel}
-    .suffix = Sodium
+    .suffix = Sódio
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSpaceCleaner = {ent-BaseBarrel}
-    .suffix = Space Cleaner
+    .suffix = Limpa Espacial
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSpaceLube = {ent-BaseBarrel}
-    .suffix = Space Lube
+    .suffix = Lubrificante Espacial
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSugar = {ent-BaseBarrel}
-    .suffix = Sugar
+    .suffix = Açúcar
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelSulfur = {ent-BaseBarrel}
-    .suffix = Sulfur
+    .suffix = Enxofre
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelTequila = {ent-BaseBarrel}
@@ -7552,7 +7930,7 @@ ent-ChemicalBarrelTequila = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelVermouth = {ent-BaseBarrel}
-    .suffix = Vermouth
+    .suffix = Vermute
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelVodka = {ent-BaseBarrel}
@@ -7560,15 +7938,15 @@ ent-ChemicalBarrelVodka = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelWater = {ent-BaseBarrel}
-    .suffix = Water
+    .suffix = Água
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelWhiskey = {ent-BaseBarrel}
-    .suffix = Whiskey
+    .suffix = Uísque
     .desc = {ent-BaseBarrel.desc}
 
 ent-ChemicalBarrelWine = {ent-BaseBarrel}
-    .suffix = Wine
+    .suffix = Vinho
     .desc = {ent-BaseBarrel.desc}
 
 ent-MetalBarrelBlack = {ent-BaseBarrel}
@@ -7594,925 +7972,927 @@ ent-MetalBarrelYellow = {ent-BaseBarrel}
 
 # From: _NF/Entities/Structures/Storage/Closets/closets.yml
 
-ent-ClosetFsbEva = FSB EVA suit closet
-    .desc = It's a storage unit that could contain a Far Star Biotech EVA suit. It may also contain other things.
+ent-ClosetFsbEva = armário de macacão EVA FSB
+    .desc = É uma unidade de armazenamento que pode conter um macacão EVA da Far Star Biotech. Pode também conter outras coisas.
 
-ent-ClosetO2N2 = emergency internals closet
-    .desc = It's a storage unit for emergency breathing equipment for all species.
+ent-ClosetO2N2 = armário de internos de emergência
+    .desc = É uma unidade de armazenamento para equipamento de respiração de emergência para todas as espécies.
 
 # From: _NF/Entities/Structures/Storage/Closets/Lockers/lockers.yml
 
-ent-LockerJanitor = janitor locker
+ent-LockerJanitor = armário de faxineiro
 
-ent-LockerMailCarrier = mail carrier's locker
+ent-LockerMailCarrier = armário de carteiro
 
-ent-LockerMaterials = materials locker
+ent-LockerMaterials = armário de materiais
 
-ent-LockerMercenary = mercenary locker
+ent-LockerMercenary = armário de mercenário
 
-ent-LockerNfsdBailiff = TSFMC locker
-    .suffix = Bailiff
+ent-LockerNfsdBailiff = armário TSFMC
+    .suffix = Comandante
 
-ent-LockerNfsdBrigmedic = TSFMC locker
-    .suffix = Corpsman
+ent-LockerNfsdBrigmedic = armário TSFMC
+    .suffix = Médico
 
-ent-LockerNfsdCopper = TSFMC locker
-    .suffix = Copper
+ent-LockerNfsdCopper = armário TSFMC
+    .suffix = Recruta
 
-ent-LockerNfsdEvidence = TSFMC evidence locker
+ent-LockerNfsdEvidence = armário de evidências TSFMC
 
-ent-LockerNfsdSergeant = TSFMC locker
-    .suffix = Fireteam Leader
+ent-LockerNfsdSergeant = armário TSFMC
+    .suffix = Sargento
 
-ent-LockerNfsdSheriff = TSFMC locker
-    .suffix = Colonel
+ent-LockerNfsdSheriff = armário TSFMC
+    .suffix = Xerife
 
-ent-LockerNfsdSilver = TSFMC locker
-    .suffix = Marine
+ent-LockerNfsdSilver = armário TSFMC
+    .suffix = Fuzileiro
 
-ent-LockerPilot = pilot's locker
+ent-LockerPilot = armário de piloto
 
-ent-LockerStationRepresentative = overseer's locker
+ent-LockerStationRepresentative = armário de supervisor
 
-ent-LockerWoodenGeneric = wooden cabinet
-    .desc = Dusty old wooden cabinet. Smells like grandparents.
+ent-LockerWoodenGeneric = armário de madeira
+    .desc = Armário de madeira velho empoeirado. Cheira a avós.
 
 # From: _NF/Entities/Structures/Storage/Closets/suit_storage_wall.yml
 
-ent-SuitStorageWallmount = suit wallstorage unit
+ent-SuitStorageWallmount = unidade de armazenamento de macacões de parede
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers_department_eva.yml
 
-ent-LockerWallEVAColorAtmosTech = atmospheric technician EVA wall locker
+ent-LockerWallEVAColorAtmosTech = armário de parede EVA de técnico atmosférico
 
-ent-LockerWallEVAColorCaptain = captain EVA wall locker
+ent-LockerWallEVAColorCaptain = armário de parede EVA de capitão
 
-ent-LockerWallEVAColorCargo = cargo technician EVA wall locker
+ent-LockerWallEVAColorCargo = armário de parede EVA de técnico de carga
 
-ent-LockerWallEVAColorChaplain = chaplain EVA wall locker
+ent-LockerWallEVAColorChaplain = armário de parede EVA de capelão
 
-ent-LockerWallEVAColorContractor = contractor EVA wall locker
+ent-LockerWallEVAColorContractor = armário de parede EVA de contratista
 
-ent-LockerWallEVAColorEmergency = emergency EVA wall locker
+ent-LockerWallEVAColorEmergency = armário de parede EVA de emergência
 
-ent-LockerWallEVAColorEngineer = engineer EVA wall locker
+ent-LockerWallEVAColorEngineer = armário de parede EVA de engenheiro
 
-ent-LockerWallEVAColorFsb = FSB EVA wall locker
+ent-LockerWallEVAColorFsb = armário de parede EVA FSB
 
-ent-LockerWallEVAColorGeneric = EVA wall locker
+ent-LockerWallEVAColorGeneric = armário de parede EVA
 
-ent-LockerWallEVAColorHydroponics = botanist EVA wall locker
+ent-LockerWallEVAColorHydroponics = armário de parede EVA de botânico
 
-ent-LockerWallEVAColorJanitor = janitor EVA wall locker
+ent-LockerWallEVAColorJanitor = armário de parede EVA de faxineiro
 
-ent-LockerWallEVAColorLvhi = LVHI EVA wall locker
+ent-LockerWallEVAColorLvhi = armário de parede EVA LVHI
 
-ent-LockerWallEVAColorMail = mail carrier EVA wall locker
+ent-LockerWallEVAColorMail = armário de parede EVA de carteiro
 
-ent-LockerWallEVAColorMedical = doctor EVA wall locker
+ent-LockerWallEVAColorMedical = armário de parede EVA de médico
 
-ent-LockerWallEVAColorMercenary = mercenary EVA wall locker
+ent-LockerWallEVAColorMercenary = armário de parede EVA de mercenário
 
-ent-LockerWallEVAColorNfsd = TSFMC EVA wall locker
+ent-LockerWallEVAColorNfsd = armário de parede EVA TSFMC
 
-ent-LockerWallEVAColorPilot = pilot EVA wall locker
+ent-LockerWallEVAColorPilot = armário de parede EVA de piloto
 
-ent-LockerWallEVAColorPrivateSec = private security EVA wall locker
+ent-LockerWallEVAColorPrivateSec = armário de parede EVA de segurança privada
 
-ent-LockerWallEVAColorSalvage = salvage specialist EVA wall locker
+ent-LockerWallEVAColorSalvage = armário de parede EVA de especialista em salvamento
 
-ent-LockerWallEVAColorScientist = scientist EVA wall locker
+ent-LockerWallEVAColorScientist = armário de parede EVA de cientista
 
-ent-LockerWallEVAColorServiceWorker = service worker EVA wall locker
+ent-LockerWallEVAColorServiceWorker = armário de parede EVA de funcionário de serviço
 
-ent-LockerWallEVAColorSr = overseer EVA wall locker
+ent-LockerWallEVAColorSr = armário de parede EVA de supervisor
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers_department.yml
 
-ent-LockerWallColorAtmosTech = atmospheric technician wall locker
+ent-LockerWallColorAtmosTech = armário de parede de técnico atmosférico
 
-ent-LockerWallColorCaptain = captain wall locker
+ent-LockerWallColorCaptain = armário de parede de capitão
 
-ent-LockerWallColorCargo = cargo technician wall locker
+ent-LockerWallColorCargo = armário de parede de técnico de carga
 
 ent-LockerWallColorChemistry = armário de parede de química
 
-ent-LockerWallColorEngineer = engineer wall locker
+ent-LockerWallColorEngineer = armário de parede de engenheiro
 
-ent-LockerWallColorGeneric = wall locker
+ent-LockerWallColorGeneric = armário de parede
 
-ent-LockerWallColorGenericBlack = wall locker
-    .suffix = Frontier, Black
+ent-LockerWallColorGenericBlack = armário de parede
+    .suffix = Frontier, Preto
 
-ent-LockerWallColorGenericBlue = wall locker
-    .suffix = Frontier, Blue
+ent-LockerWallColorGenericBlue = armário de parede
+    .suffix = Frontier, Azul
 
-ent-LockerWallColorGenericGreen = wall locker
-    .suffix = Frontier, Green
+ent-LockerWallColorGenericGreen = armário de parede
+    .suffix = Frontier, Verde
 
 ent-LockerWallColorHydroponics = armário de parede de botânico
 
-ent-LockerWallColorMedical = medical wall locker
+ent-LockerWallColorMedical = armário de parede médico
 
-ent-LockerWallColorSalvage = salvage specialist wall locker
+ent-LockerWallColorSalvage = armário de parede de especialista em salvamento
 
-ent-LockerWallColorServiceWorker = service worker wall locker
+ent-LockerWallColorServiceWorker = armário de parede de funcionário de serviço
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers.yml
 
-ent-ClosetWallN2 = emergency nitrogen wall closet
-    .desc = It's a storage unit for emergency breath masks and N2 tanks.
+ent-ClosetWallN2 = armário de parede de nitrogênio de emergência
+    .desc = É uma unidade de armazenamento para máscaras respiratórias de emergência e tanques de N2.
 
-ent-ClosetWallO2N2 = emergency internals wall closet
-    .desc = It's a storage unit for emergency breathing equipment for all species.
+ent-ClosetWallO2N2 = armário de parede de internos de emergência
+    .desc = É uma unidade de armazenamento para equipamento de respiração de emergência para todas as espécies.
 
 ent-LockerWallChemistry = armário de parede de química
 
-ent-LockerWallColorAme = AME fuel wall locker
+ent-LockerWallColorAme = armário de parede de combustível AME
 
-ent-LockerWallColorBananium = bananium fuel wall locker
+ent-LockerWallColorBananium = armário de parede de combustível de banânio
 
-ent-LockerWallColorFuelPlasma = plasma fuel wall locker
+ent-LockerWallColorFuelPlasma = armário de parede de combustível de plasma
 
-ent-LockerWallColorL1Fire = L1 fire suit wall locker
+ent-LockerWallColorL1Fire = armário de parede de macacão de incêndio L1
 
-ent-LockerWallColorL2Radiation = L2 radiation suit wall locker
+ent-LockerWallColorL2Radiation = armário de parede de macacão de radiação L2
 
-ent-LockerWallColorL3Biohazard = L3 biohazard suit wall locker
+ent-LockerWallColorL3Biohazard = armário de parede de macacão de biohazardo L3
 
-ent-LockerWallColorL4Bomb = L4 bomb suit wall locker
+ent-LockerWallColorL4Bomb = armário de parede de macacão de bomba L4
 
-ent-LockerWallColorMaterials = materials wall locker
+ent-LockerWallColorMaterials = armário de parede de materiais
 
-ent-LockerWallColorUranium = uranium fuel wall locker
+ent-LockerWallColorUranium = armário de parede de combustível de urânio
 
-ent-LockerWallColorWelding = welding fuel wall locker
+ent-LockerWallColorWelding = armário de parede de combustível de solda
 
-ent-NFPrisonerClosetWallOrange = prisoner wall closet
-    .desc = It's a storage unit for Space Law compliant prisoner garb.
+ent-NFPrisonerClosetWallOrange = armário de parede de prisioneiro
+    .desc = É uma unidade de armazenamento para trajes de prisioneiro compatíveis com a Lei Espacial.
 
 # From: _NF/Entities/Structures/Storage/Closets/wardrobe.yml
 
-ent-NFWardrobePrison = prisoner wardrobe
-    .desc = It's a storage unit for Space Law compliant prisoner garb.
+ent-NFWardrobePrison = roupeiro de prisioneiro
+    .desc = É uma unidade de armazenamento para trajes de prisioneiro compatíveis com a Lei Espacial.
 
 # From: _NF/Entities/Structures/Storage/construction_box.yml
 
-ent-ConstructionBox = construction box
-    .desc = A large storage container for holding materials.
+ent-ConstructionBox = caixa de construção
+    .desc = Um grande container de armazenamento para segurar materiais.
 
 # From: _NF/Entities/Structures/Storage/Crates/crate.yml
 
-ent-CrateAmmoGeneric = ammo crate
+ent-CrateAmmoGeneric = caixote de munição
 
-ent-CrateAmmoSecureMercenary = secure ammo crate
+ent-CrateAmmoSecureMercenary = caixote de munição segura
 
-ent-CrateFirearmsSecure = secure firearms crate
+ent-CrateFirearmsSecure = caixote de armas de fogo seguras
 
-ent-CrateFreezerMcCargo = mccargo freezer
+ent-CrateFreezerMcCargo = congelador McCargo
 
-ent-CrateNfsdBrigmedic = brigmedic crate
+ent-CrateNfsdBrigmedic = caixote de médico de brigada
 
-ent-CrateNfsdSecure1 = TSFMC crate
+ent-CrateNfsdSecure1 = caixote TSFMC
 
-ent-CrateNfsdSecure2 = TSFMC crate
+ent-CrateNfsdSecure2 = caixote TSFMC
 
-ent-CratePirateBounty = pirate bounty chest
-    .desc = A chest for storing looted goods. Huh, this one's blank.
+ent-CratePirateBounty = baú de recompensa de pirata
+    .desc = Um baú para armazenar bens saqueados. Huh, este está em branco.
 
-ent-CratePirateGrey = pirate chest
-    .desc = A space pirate chest, not for station lubbers.
+ent-CratePirateGrey = baú de pirata
+    .desc = Um baú de pirata espacial, não para marinheiros de estação.
 
-ent-CratePlasticBiodegradable = biodegradable plastic crate
-    .desc = Feels incredibly flimsy.
+ent-CratePlasticBiodegradable = caixote de plástico biodegradável
+    .desc = Parece incrivelmente frágil.
 
-ent-CrateSecureMercenary = mercenary crate
+ent-CrateSecureMercenary = caixote de mercenário
 
-ent-CrateSecureMercenaryPrivateSec = private security crate
+ent-CrateSecureMercenaryPrivateSec = caixote de segurança privada
 
-ent-CrateUranium = uranium crate
+ent-CrateUranium = caixote de urânio
 
-ent-CrateWoodCage = wooden cage
-    .desc = Looks like somebody made this in a cave, with a box of scraps.
+ent-CrateWoodCage = gaiola de madeira
+    .desc = Parece que alguém fez isto em uma caverna, com uma caixa de sucata.
 
 # From: _NF/Entities/Structures/Storage/Crates/emergency_pod.yml
 
-ent-MedicalPod = emergency medical pod
-    .desc = A pod used for preservation of high value corpses. Something awful happened here.
+ent-MedicalPod = cápsula médica de emergência
+    .desc = Uma cápsula usada para preservação de corpos de alto valor. Algo terrível aconteceu aqui.
 
 # From: _NF/Entities/Structures/Storage/magnetbox.yml
 
-ent-NFMagnetBoxConstruction = construction box
-    .desc = A large storage container for holding construction materials.
+ent-NFMagnetBoxConstruction = caixa de construção
+    .desc = Um grande container de armazenamento para segurar materiais de construção.
 
-ent-NFMagnetBoxOre = ore box
-    .desc = A large storage container for collecting and holding unprocessed ores and fragments.
+ent-NFMagnetBoxOre = caixa de minério
+    .desc = Um grande container de armazenamento para coletar e segurar minérios e fragmentos não processados.
 
-ent-NFMagnetBoxPlant = plant box
-    .desc = A large storage container for holding plants and seeds.
+ent-NFMagnetBoxPlant = caixa de plantas
+    .desc = Um grande container de armazenamento para segurar plantas e sementes.
 
-ent-NFMagnetBoxRubbish = dumpster
-    .desc = A large storage container for holding trash. It smells like the big city.
+ent-NFMagnetBoxRubbish = lixeira
+    .desc = Um grande container de armazenamento para segurar lixo. Cheira a cidade grande.
 
 # From: _NF/Entities/Structures/Storage/plant_box.yml
 
-ent-PlantBox = plant box
-    .desc = A large storage container for holding plants and seeds.
+ent-PlantBox = caixa de plantas
+    .desc = Um grande container de armazenamento para segurar plantas e sementes.
 
 # From: _NF/Entities/Structures/Wallmounts/fireaxe_cabinet.yml
 
-ent-FireAxeCabinetCommand = fire axe cabinet
-    .suffix = With Lock
-    .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the axe. As if.
+ent-FireAxeCabinetCommand = armário de machado de incêndio
+    .suffix = Com Cadeado
+    .desc = Há um pequeno rótulo que diz \"Apenas para emergência\" junto com detalhes para uso seguro do machado. Como se.
 
 # From: _NF/Entities/Structures/Wallmounts/notice_board.yml
 
-ent-NoticeBoardNF = notice board
+ent-NoticeBoardNF = quadro de avisos
+    .suffix = Frontier
+    .desc = Você gostaria de poder usar isto nas suas costas mas, infelizmente.
 .suffix = Fronteira
     .desc = You wish you could wear this on your back but alas.
 
 # From: _NF/Entities/Structures/Wallmounts/shelfs.yml
 
-ent-ShelfWallFreezerDark = wall freezer
-    .suffix = Frontier, Dark
+ent-ShelfWallFreezerDark = freezer de parede
+    .suffix = Frontier, Escuro
 
-ent-ShelfWallFreezerWhite = wall freezer
-    .suffix = Frontier, White
-    .desc = A convenient place to store perishables.
+ent-ShelfWallFreezerWhite = freezer de parede
+    .suffix = Frontier, Branco
+    .desc = Um lugar conveniente para armazenar perecíveis.
 
 # From: _NF/Entities/Structures/Wallmounts/Signs/bar_sign.yml
 
 ent-BarSignLittleTreats = Little Treats Tea Room
-    .desc = A delightfully relaxing tearoom for all the fancy lads in the cosmos.
+    .desc = Uma sala de chá deliciosamente relaxante para todos os rapazes elegantes do cosmos.
 
 ent-BarSignNeonFlamingos = Neon Flamingos
-    .desc = You doubt you'll be able to stand on one leg after you're done here.
+    .desc = Você duvida que será capaz de ficar em uma perna depois de terminar aqui.
 
 ent-BarSignNFMaltroach = Maltroach
-    .desc = Mothroaches politely greet you into the bar, or are they greeting each other?
+    .desc = Baratas-mariposas cumprimentam educadamente você no bar, ou elas estão cumprimentando uma a outra?
 
 ent-BarSignTheRune = The Rune
-    .desc = Reality-shifting drinks.
+    .desc = Bebidas que mudam a realidade.
 
 ent-BarSignWyvernShipyards = Wyvern Shipyards
-    .desc = Have a seat, relax and don't worry, the future can't come any faster!
+    .desc = Sente-se, relaxe e não se preocupe, o futuro não pode chegar mais rápido!
 
 # From: _NF/Entities/Structures/Wallmounts/Signs/paintings_directional.yml
 
-ent-PaintingBatHanging = festive bat streamers
-    .desc = Decorative wall streamers! Bats are scary and also important pollinators!
+ent-PaintingBatHanging = enfeites de morcegos festivos
+    .desc = Enfeites de parede decorativos! Morcegos são assustadores e também polinizadores importantes!
 
-ent-PaintingFireaxeCabinet = The Fireaxe Cabinet
-    .desc = This painting is a masterfully designed image of a fireaxe cabinet. The artwork relates to the loss of the masterwork ☼fireaxe☼ in the early winter of 2523. Oil. Canvas. Tears.
+ent-PaintingFireaxeCabinet = O Armário de Machado de Incêndio
+    .desc = Esta pintura é uma imagem habilmente projetada de um armário de machado de incêndio. A obra de arte refere-se à perda da obra-prima ☼machado de incêndio☼ no inverno precoce de 2523. Óleo. Tela. Lágrimas.
 
-ent-PaintingGhostHanging = festive ghost streamers
-    .desc = Decorative wall streamers! They look like the people you've lost to the void!
+ent-PaintingGhostHanging = enfeites de fantasmas festivos
+    .desc = Enfeites de parede decorativos! Eles parecem as pessoas que você perdeu para o vazio!
 
-ent-PaintingPumpkinHanging = festive pumpkin streamers
-    .desc = Decorative wall streamers! It's decorative gourd season!
+ent-PaintingPumpkinHanging = enfeites de abóboras festivos
+    .desc = Enfeites de parede decorativos! É a temporada de abóboras decorativas!
 
 # From: _NF/Entities/Structures/Wallmounts/Signs/paintings.yml
 
-ent-PaintingNightOfThePostGoblin = Noite Do Pós-Goblin
-    .desc = Um sprite rotundo, montando um felino sinuoso, empunhando uma lâmina brilhante enquanto usa coberturas para os pés emborrachadas.
+ent-PaintingNightOfThePostGoblin = Noite Do Goblin Postal
+    .desc = Um sprite rotundo, a cavalo de uma montaria felina sinuosa, empunhando uma lâmina brilhante enquanto usa cobertas para os pés borrachudas.
 
-ent-PaintingSpookyIan = Duty Without End
-    .desc = Their vigil is eternal.
+ent-PaintingSpookyIan = Dever Sem Fim
+    .desc = Sua vigilância é eterna.
 
-ent-PaintingSpookyLady = A Dama e os Estandartes
-    .desc = Uma mulher se convida diante de um castelo de presságios sinistros. Como as janelas chamam! Como seu olhar é prendido!
+ent-PaintingSpookyLady = A Dama e os Banners
+    .desc = Uma mulher se convida convidantemente diante de um castelo de presságio ominoso. Como as janelas acenam! Como seu olhar é preso!
 
 # From: _NF/Entities/Structures/Wallmounts/Signs/posters.yml
 
-ent-NFPosterContrabandEatShrooms = Eat Shrooms!
-    .desc = Eat Shrooms!
+ent-NFPosterContrabandEatShrooms = Coma Cogumelos!
+    .desc = Coma Cogumelos!
 
-ent-NFPosterContrabandEmsCoords = EMS Suit Coordinates Reminder
-    .desc = Rosy the Medroach reminding you to turn your suit coordinates! Make sure your next death isn't your last!
+ent-NFPosterContrabandEmsCoords = Lembrete de Coordenadas de Macacão EMS
+    .desc = Rosy, a Medicarocha, lembrando você de ligar as coordenadas do seu macacão! Certifique-se de que sua próxima morte não seja a última!
 
-ent-NFPosterContrabandGoblinate = Da Great Space Goblinate!
-    .desc = A poster calling to restore The Great Goblinate in all its former glory.
+ent-NFPosterContrabandGoblinate = O Grande Goblinado Espacial!
+    .desc = Um pôster clamando para restaurar O Grande Goblinado em toda a sua glória anterior.
 
-ent-NFPosterContrabandGoblinFront = Goblinkin, Unite!
-    .desc = A poster rallying goblins to unite and fight for their rights.
+ent-NFPosterContrabandGoblinFront = Goblinkin, Unam-se!
+    .desc = Um pôster reunindo goblins para unirem e lutar por seus direitos.
 
-ent-NFPosterContrabandKillerFashion = Da Burkin' Fashion
-    .desc = A printed copy of what appears to be a hand-drawn poster of a goblin in a tattered tunic with a spear.
+ent-NFPosterContrabandKillerFashion = A Moda do Burkin'
+    .desc = Uma cópia impressa do que parece ser um pôster desenhado à mão de um goblin em uma túnica esfarrapada com uma lança.
 
-ent-NFPosterContrabandRatvarLives = Ratvar Lives
-    .desc = A poster in a strange language with pictures of machinery. \"RATVAR LIVES\" is scrawled in the corner.
+ent-NFPosterContrabandRatvarLives = Ratvar Vive
+    .desc = Um pôster em uma língua estranha com imagens de maquinário. \"RATVAR VIVE\" está rabiscado no canto.
 
 ent-NFPosterLegitBahamaMama = Bahama Mama's
-    .desc = Kick your feet up and enjoy the simulated tropical beach at Bahama Mama's.
+    .desc = Coloque seus pés para cima e aproveite a praia tropical simulada no Bahama Mama's.
 
-ent-NFPosterLegitGoblinTinkerer = Tinkering!
-    .desc = This poster depicts a cheerful goblin engineer telling you that explosions are the spice of tinkering.
+ent-NFPosterLegitGoblinTinkerer = Inventando!
+    .desc = Este pôster retrata um engenheiro goblin alegre dizendo que explosões são o tempero da invenção.
 
 ent-NFPosterLegitHaveYouSeenThisEgg = Você Viu Este Ovo?
-    .desc = Por favor informe pessoal do TSF sobre qualquer avistamento estranho como monstros espaciais vagando, ovos roxos gigantescos, e notas estranhas deixadas atrás de cartazes ou máquinas de venda.
+    .desc = Por favor, informe pessoal da TSF sobre qualquer avistamento estranho como monstros espaciais vagando, ovos roxos gigantescos, e notas estranhas deixadas atrás de pôsteres ou máquinas de vendas.
 
-ent-NFPosterLegitMagnusWatching = Always Watching
-    .desc = This poster depicts an ethereal judge. You think you hear a 'BWOINK,' but it is just your imagination, right?
+ent-NFPosterLegitMagnusWatching = Sempre Assistindo
+    .desc = Este pôster retrata um juiz etéreo. Você acha que ouve um 'BWOINK,' mas é apenas sua imaginação, certo?
 
-ent-NFPosterLegitMothPlease = Mothroaches: More Than Pests!
-    .desc = An adorable mothgirl in a cute hat asks that you think before hurting a mothroach.
+ent-NFPosterLegitMothPlease = Baratas-mariposas: Mais Que Pragas!
+    .desc = Uma mariposa fofa em um chapéu fofo pede que você pense antes de machucar uma barata-mariposa.
 
-ent-NFPosterLegitWantedClarpy = Wanted: Clarpy
-    .desc = Wanted for insurgency. Spot them? You can help deal a blow to the Rogue Sector, contact the TSFMC.
+ent-NFPosterLegitWantedClarpy = Procurado: Clarpy
+    .desc = Procurado por insurreição. Avistou? Você pode ajudar a dar um golpe no Setor Rebelde, contate a TSFMC.
 
 ent-NFPosterLegitWinnerWinner = Winner Winner
-    .desc = A mouthwatering looking roast taunts you. So close, yet so far.
+    .desc = Um assado delicioso provocando você. Tão perto, mas tão longe.
 
 # From: _NF/Entities/Structures/Wallmounts/Signs/signs.yml
 
-ent-NFSignBus = bus sign
-    .desc = A sign that indicates that the transit shuttle docks nearby.
+ent-NFSignBus = placa de ônibus
+    .desc = Uma placa que indica que a nave de trânsito atraca nas proximidades.
 
-ent-NFSignDock = dock sign
-    .desc = A sign that indicates shuttle docking nearby.
+ent-NFSignDock = placa de doca
+    .desc = Uma placa que indica que há atracação de nave nas proximidades.
 
-ent-NFSignEms1 = emergency medical service sign
-    .desc = A sign that indicates emergency medical services.
+ent-NFSignEms1 = placa de serviço médico de emergência
+    .desc = Uma placa que indica serviços médicos de emergência.
 
-ent-NFSignEms2 = emergency medical service sign
-    .desc = A sign that indicates emergency medical services.
+ent-NFSignEms2 = placa de serviço médico de emergência
+    .desc = Uma placa que indica serviços médicos de emergência.
 
-ent-NFSignShield = shield sign
-    .desc = A sign with a shield.
+ent-NFSignShield = placa de escudo
+    .desc = Uma placa com um escudo.
 
-ent-SignDirectionalCB1 = cargo bay one sign
-    .desc = A direction sign, pointing out which way cargo bay one is.
+ent-SignDirectionalCB1 = placa de baía de carga um
+    .desc = Uma placa direcional, apontando para onde fica a baía de carga um.
 
-ent-SignDirectionalCB2 = cargo bay two sign
-    .desc = A direction sign, pointing out which way cargo bay two is.
+ent-SignDirectionalCB2 = placa de baía de carga dois
+    .desc = Uma placa direcional, apontando para onde fica a baía de carga dois.
 
-ent-SignDirectionalCB3 = cargo bay three sign
-    .desc = A direction sign, pointing out which way cargo bay three is.
+ent-SignDirectionalCB3 = placa de baía de carga três
+    .desc = Uma placa direcional, apontando para onde fica a baía de carga três.
 
-ent-SignDirectionalCB4 = cargo bay four sign
-    .desc = A direction sign, pointing out which way cargo bay four is.
+ent-SignDirectionalCB4 = placa de baía de carga quatro
+    .desc = Uma placa direcional, apontando para onde fica a baía de carga quatro.
 
-ent-SignDirectionalNfsd = TSFMC outpost sign
-    .desc = A direction sign, pointing out which way an TSFMC outpost is.
+ent-SignDirectionalNfsd = placa de posto avançado TSFMC
+    .desc = Uma placa direcional, apontando para onde fica um posto avançado TSFMC.
 
-ent-SignDirectionalShop = shops sign
-    .desc = A direction sign, pointing out which way shops are.
+ent-SignDirectionalShop = placa de lojas
+    .desc = Uma placa direcional, apontando para onde ficam as lojas.
 
-ent-SignDirectionalSr = sr sign
-    .desc = A direction sign, pointing out which way the station representative's office is.
+ent-SignDirectionalSr = placa sr
+    .desc = Uma placa direcional, apontando para onde fica o escritório do representante da estação.
 
-ent-SignDirectionalVending = vending machines sign
-    .desc = A direction sign, pointing out which way vending machines are.
+ent-SignDirectionalVending = placa de máquinas de vendas
+    .desc = Uma placa direcional, apontando para onde ficam as máquinas de vendas.
 
-ent-SignNfsd = TSFMC sign
-    .desc = A sign that marks the area beyond as an TSFMC area.
+ent-SignNfsd = placa TSFMC
+    .desc = Uma placa que marca a área além como uma área TSFMC.
 
-ent-SignNfsdArmoury = armory sign
-    .desc = A sign that marks the area beyond as an TSFMC armory.
+ent-SignNfsdArmoury = placa de arsenal
+    .desc = Uma placa que marca a área além como um arsenal TSFMC.
 
-ent-SignNfsdBrief = briefing sign
-    .desc = A sign that marks the area beyond as an TSFMC briefing room.
+ent-SignNfsdBrief = placa de briefing
+    .desc = Uma placa que marca a área além como uma sala de briefing TSFMC.
 
-ent-SignNfsdBrig = brig sign
-    .desc = A sign that marks the area beyond as an TSFMC brig.
+ent-SignNfsdBrig = placa de brigada
+    .desc = Uma placa que marca a área além como uma brigada TSFMC.
 
-ent-SignNfsdBrigmed = medbay sign
-    .desc = A sign that marks the area beyond as an TSFMC medbay.
+ent-SignNfsdBrigmed = placa de enfermaria
+    .desc = Uma placa que marca a área além como uma enfermaria TSFMC.
 
-ent-SignNfsdDetective = detective sign
-    .desc = A sign that marks the area beyond as an TSFMC detective's office.
+ent-SignNfsdDetective = placa de detetive
+    .desc = Uma placa que marca a área além como um escritório de detetive TSFMC.
 
-ent-SignNfsdEvidence = evidence sign
-    .desc = A sign that marks the area beyond as an TSFMC evidence room.
+ent-SignNfsdEvidence = placa de evidências
+    .desc = Uma placa que marca a área além como uma sala de evidências TSFMC.
 
-ent-SignNfsdInterrogation = interrogation sign
+ent-SignNfsdInterrogation = placa de interrogatório
 
-ent-SignNfsdLaw = lawyer sign
-    .desc = A sign that marks the area beyond as an TSFMC lawyer's office.
+ent-SignNfsdLaw = placa de advogado
+    .desc = Uma placa que marca a área além como um escritório de advogado TSFMC.
 
-ent-SignNfsdRange = shooting range sign
-    .desc = A sign that marks the area beyond as an TSFMC shooting range.
+ent-SignNfsdRange = placa de tiro
+    .desc = Uma placa que marca a área além como um estande de tiro TSFMC.
 
 # From: _NF/Entities/Structures/Walls/asteroid.yml
 
-ent-AsteroidRockBluespace = 
+ent-AsteroidRockBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-IronRockBluespace = 
+ent-IronRockBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockAndesiteBluespace = 
+ent-WallRockAndesiteBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockBasaltBluespace = 
+ent-WallRockBasaltBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockBluespace = 
+ent-WallRockBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockChromiteBluespace = 
+ent-WallRockChromiteBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockSandBluespace = 
+ent-WallRockSandBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockScrapPile = scrap pile
-    .suffix = Scrap
-    .desc = A pile of scrap.
+ent-WallRockScrapPile = pilha de sucata
+    .suffix = Sucata
+    .desc = Uma pilha de sucata.
 
-ent-WallRockScrapPileArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = A scrap pile. What's that sticking out of it?
+ent-WallRockScrapPileArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Uma pilha de sucata. O que é aquilo saindo dela?
 
-ent-WallRockScrapPileBananium = 
-    .suffix = Bananium
-    .desc = An ore vein with bananium.
+ent-WallRockScrapPileBananium
+    .suffix = Banânio
+    .desc = Um veio de minério com banânio.
 
-ent-WallRockScrapPileBluespace = 
+ent-WallRockScrapPileBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
-ent-WallRockScrapPileCoal = 
-    .suffix = Coal
-    .desc = An ore vein with coal.
+ent-WallRockScrapPileCoal
+    .suffix = Carvão
+    .desc = Um veio de minério com carvão.
 
-ent-WallRockScrapPileDiamond = 
-    .suffix = Diamond
-    .desc = An ore vein with diamond.
+ent-WallRockScrapPileDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério com diamante.
 
-ent-WallRockScrapPileGold = 
-    .suffix = Gold
-    .desc = An ore vein with gold.
+ent-WallRockScrapPileGold
+    .suffix = Ouro
+    .desc = Um veio de minério com ouro.
 
-ent-WallRockScrapPileIron = 
-    .suffix = Iron
-    .desc = An ore vein with iron.
+ent-WallRockScrapPileIron
+    .suffix = Ferro
+    .desc = Um veio de minério com ferro.
 
-ent-WallRockScrapPilePlasma = 
+ent-WallRockScrapPilePlasma
     .suffix = Plasma
-    .desc = An ore vein with plasma.
+    .desc = Um veio de minério com plasma.
 
-ent-WallRockScrapPileQuartz = 
-    .suffix = Quartz
-    .desc = An ore vein with quartz.
+ent-WallRockScrapPileQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério com quartzo.
 
-ent-WallRockScrapPileSalt = 
-    .suffix = Salt
-    .desc = An ore vein with salt.
+ent-WallRockScrapPileSalt
+    .suffix = Sal
+    .desc = Um veio de minério com sal.
 
-ent-WallRockScrapPileSilver = 
-    .suffix = Silver
-    .desc = An ore vein with silver.
+ent-WallRockScrapPileSilver
+    .suffix = Prata
+    .desc = Um veio de minério com prata.
 
-ent-WallRockScrapPileUranium = 
-    .suffix = Uranium
-    .desc = An ore vein with uranium.
+ent-WallRockScrapPileUranium
+    .suffix = Urânio
+    .desc = Um veio de minério com urânio.
 
-ent-WallRockSnowBluespace = 
+ent-WallRockSnowBluespace
     .suffix = Bluespace
-    .desc = An ore vein with bluespace.
+    .desc = Um veio de minério com bluespace.
 
 # From: _NF/Entities/Structures/Walls/diagonal_walls.yml
 
 # Abstract entity (referenceable by children)
-ent-BaseWallDiagonal = basewall
+ent-BaseWallDiagonal = parede base
     .suffix = diagonal
 
-ent-WallUraniumDiagonal = uranium wall
+ent-WallUraniumDiagonal = parede de urânio
 
-ent-WallWoodDiagonal = wood wall
+ent-WallWoodDiagonal = parede de madeira
 
 # From: _NF/Entities/Structures/Walls/walls.yml
 
 # Abstract entity (referenceable by children)
-ent-NFAsteroidWall = supercompacted rock
-    .desc = Harder than hard. You'll need some special equipment to blast through this.
+ent-NFAsteroidWall = rocha supercompactada
+    .desc = Mais dura que duro. Você precisará de alguns equipamentos especiais para explodir através disto.
 
-ent-NFWallAndesiteCobblebrickArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallAndesiteCobblebrickArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquilo saindo dele?
 
-ent-NFWallAndesiteCobblebrickBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallAndesiteCobblebrickBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickBluespace = 
+ent-NFWallAndesiteCobblebrickBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallAndesiteCobblebrickCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallAndesiteCobblebrickDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallAndesiteCobblebrickGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickPlasma = 
+ent-NFWallAndesiteCobblebrickPlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallAndesiteCobblebrickQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallAndesiteCobblebrickSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallAndesiteCobblebrickSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallAndesiteCobblebrickTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallAndesiteCobblebrickTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallAndesiteCobblebrickUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallAndesiteCobblebrickUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallBasaltCobblebrickArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquilo saindo dele?
 
-ent-NFWallBasaltCobblebrickBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallBasaltCobblebrickBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickBluespace = 
+ent-NFWallBasaltCobblebrickBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallBasaltCobblebrickCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallBasaltCobblebrickDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallBasaltCobblebrickGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickPlasma = 
+ent-NFWallBasaltCobblebrickPlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallBasaltCobblebrickQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallBasaltCobblebrickSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallBasaltCobblebrickSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallBasaltCobblebrickTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallBasaltCobblebrickTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallBasaltCobblebrickUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallBasaltCobblebrickUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallChromiteCobblebrickArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquilo saindo dele?
 
-ent-NFWallChromiteCobblebrickBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallChromiteCobblebrickBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickBluespace = 
+ent-NFWallChromiteCobblebrickBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallChromiteCobblebrickCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallChromiteCobblebrickDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallChromiteCobblebrickGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickPlasma = 
+ent-NFWallChromiteCobblebrickPlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallChromiteCobblebrickQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallChromiteCobblebrickSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallChromiteCobblebrickSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallChromiteCobblebrickTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallChromiteCobblebrickTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallChromiteCobblebrickUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallChromiteCobblebrickUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
-ent-NFWallCobblebrickArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallCobblebrickArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquilo saindo dele?
 
-ent-NFWallCobblebrickBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallCobblebrickBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallCobblebrickBluespace = 
+ent-NFWallCobblebrickBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallCobblebrickCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallCobblebrickCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallCobblebrickDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallCobblebrickDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallCobblebrickGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallCobblebrickGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallCobblebrickPlasma = 
+ent-NFWallCobblebrickPlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallCobblebrickQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallCobblebrickQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallCobblebrickSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallCobblebrickSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallCobblebrickSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallCobblebrickSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallCobblebrickTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallCobblebrickTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallCobblebrickUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallCobblebrickUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
-ent-NFWallIce = supercompacted ice
+ent-NFWallIce = gelo supercompactado
 
-ent-NFWallIceArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallIceArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquilo saindo dele?
 
-ent-NFWallIceBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallIceBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallIceBluespace = 
+ent-NFWallIceBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallIceCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallIceCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallIceDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallIceDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallIceGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallIceGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallIcePlasma = 
+ent-NFWallIcePlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallIceQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallIceQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallIceSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallIceSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallIceSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallIceSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallIceTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallIceTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallIceUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallIceUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
-ent-NFWallNecropolisArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallNecropolisArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquelo saindo dele?
 
-ent-NFWallNecropolisBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallNecropolisBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallNecropolisBluespace = 
+ent-NFWallNecropolisBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallNecropolisCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallNecropolisCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallNecropolisDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallNecropolisDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallNecropolisGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallNecropolisGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallNecropolisPlasma = 
+ent-NFWallNecropolisPlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallNecropolisQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallNecropolisQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallNecropolisSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallNecropolisSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallNecropolisSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallNecropolisSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallNecropolisTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallNecropolisTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallNecropolisUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallNecropolisUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
-ent-NFWallSandstoneArtifactFragment = 
-    .suffix = Artifact Fragment
-    .desc = Harder than hard. You'll need some special equipment to- what's that sticking out of it?
+ent-NFWallSandstoneArtifactFragment
+    .suffix = Fragmento de Artefato
+    .desc = Mais duro que duro. Você precisará de alguns equipamentos especiais para- o que é aquilo saindo dele?
 
-ent-NFWallSandstoneBananium = 
-    .suffix = Bananium
-    .desc = A dense ore vein rich with bananium. Extremely hard.
+ent-NFWallSandstoneBananium
+    .suffix = Banânio
+    .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
-ent-NFWallSandstoneBluespace = 
+ent-NFWallSandstoneBluespace
     .suffix = Bluespace
-    .desc = A dense ore vein rich with bluespace. Extremely hard.
+    .desc = Um veio de minério denso rico em bluespace. Extremamente duro.
 
-ent-NFWallSandstoneCoal = supercompacted coal
-    .suffix = Coal
-    .desc = A dense ore vein rich with coal. Extremely hard.
+ent-NFWallSandstoneCoal = carvão supercompactado
+    .suffix = Carvão
+    .desc = Um veio de minério denso rico em carvão. Extremamente duro.
 
-ent-NFWallSandstoneDiamond = 
-    .suffix = Diamond
-    .desc = A dense ore vein rich with diamonds. Extremely hard.
+ent-NFWallSandstoneDiamond
+    .suffix = Diamante
+    .desc = Um veio de minério denso rico em diamantes. Extremamente duro.
 
-ent-NFWallSandstoneGold = 
-    .suffix = Gold
-    .desc = A dense ore vein rich with gold. Extremely hard.
+ent-NFWallSandstoneGold
+    .suffix = Ouro
+    .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
-ent-NFWallSandstonePlasma = 
+ent-NFWallSandstonePlasma
     .suffix = Plasma
-    .desc = A dense ore vein rich with plasma. Extremely hard.
+    .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
-ent-NFWallSandstoneQuartz = 
-    .suffix = Quartz
-    .desc = A dense ore vein rich with quartz. Extremely hard.
+ent-NFWallSandstoneQuartz
+    .suffix = Quartzo
+    .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
-ent-NFWallSandstoneSalt = 
-    .suffix = Salt
-    .desc = A dense ore vein rich with salt. Extremely hard.
+ent-NFWallSandstoneSalt
+    .suffix = Sal
+    .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
-ent-NFWallSandstoneSilver = 
-    .suffix = Silver
-    .desc = A dense ore vein rich with silver. Extremely hard.
+ent-NFWallSandstoneSilver
+    .suffix = Prata
+    .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
-ent-NFWallSandstoneTin = 
-    .suffix = Iron
-    .desc = An ore vein rich with iron.
+ent-NFWallSandstoneTin
+    .suffix = Ferro
+    .desc = Um veio de minério rico em ferro.
 
-ent-NFWallSandstoneUranium = 
-    .suffix = Uranium
-    .desc = A dense ore vein rich with uranium. Extremely hard.
+ent-NFWallSandstoneUranium
+    .suffix = Urânio
+    .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
 # From: _NF/Entities/Structures/Windows/window.yml
 
-ent-WallInvisibleShip = Invisible Wall
-    .suffix = Ship
+ent-WallInvisibleShip = Parede Invisível
+    .suffix = Nave
 
 # From: _NF/Entities/Tiles/water.yml
 
-ent-FloorWaterDecorativeEntity = water
-    .suffix = Decorative
-    .desc = A real thirst quencher.
+ent-FloorWaterDecorativeEntity = água
+    .suffix = Decorativa
+    .desc = Uma saciadora de sede real.
 
 # From: _NF/Entities/World/Debris/asteroids.yml
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidEnormous = asteroid debris enormous
+ent-NFBaseAsteroidEnormous = destroços de asteróide enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidExtraEnormous = asteroid debris extra enormous
+ent-NFBaseAsteroidExtraEnormous = destroços de asteróide extra enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidExtraGigantic = asteroid debris extra gigantic
+ent-NFBaseAsteroidExtraGigantic = destroços de asteróide extra gigantesco
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidExtraHuge = asteroid debris extra huge
+ent-NFBaseAsteroidExtraHuge = destroços de asteróide extra enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidExtraLarge = asteroid debris extra large
+ent-NFBaseAsteroidExtraLarge = destroços de asteróide extra grande
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidExtraMassive = asteroid debris extra massive
+ent-NFBaseAsteroidExtraMassive = destroços de asteróide extra massivo
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidGigantic = asteroid debris gigantic
+ent-NFBaseAsteroidGigantic = destroços de asteróide gigantesco
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidHuge = asteroid debris huge
+ent-NFBaseAsteroidHuge = destroços de asteróide enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidLarge = asteroid debris large
+ent-NFBaseAsteroidLarge = destroços de asteróide grande
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidMassive = asteroid debris massive
+ent-NFBaseAsteroidMassive = destroços de asteróide massivo
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidMedium = asteroid debris medium
+ent-NFBaseAsteroidMedium = destroços de asteróide médio
 
 # Abstract entity (referenceable by children)
-ent-NFBaseAsteroidSmall = asteroid debris small
+ent-NFBaseAsteroidSmall = destroços de asteróide pequeno
 
 # From: _NF/Entities/World/Debris/wrecks.yml
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckEnormous = wreck debris enormous
+ent-NFBaseWreckEnormous = destroços de naufrágio enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckExtraHuge = wreck debris extra huge
+ent-NFBaseWreckExtraHuge = destroços de naufrágio extra enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckExtraLarge = wreck debris large extra large
+ent-NFBaseWreckExtraLarge = destroços de naufrágio extra grande
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckHuge = wreck debris huge
+ent-NFBaseWreckHuge = destroços de naufrágio enorme
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckLarge = wreck debris large
+ent-NFBaseWreckLarge = destroços de naufrágio grande
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckMedium = wreck debris medium
+ent-NFBaseWreckMedium = destroços de naufrágio médio
 
 # Abstract entity (referenceable by children)
-ent-NFBaseWreckSmall = wreck debris small
+ent-NFBaseWreckSmall = destroços de naufrágio pequeno
 
-ent-NFWreckDebrisLarge = scrap debris large
+ent-NFWreckDebrisLarge = destroços de sucata grande
 
 # From: _NF/Events/nf_bluespace_dungeons_events.yml
 
 ent-BluespaceDungeonBasalt = {ent-BluespaceDungeonBase}
 
 # Abstract entity (referenceable by children)
-ent-BluespaceDungeonBase = Colossus Sector Bluespace Monitoring
+ent-BluespaceDungeonBase = Monitoramento Bluespace do Setor Colosso
 
 ent-BluespaceDungeonCave = {ent-BluespaceDungeonBase}
 
@@ -8524,383 +8904,385 @@ ent-BluespaceDungeonSnow = {ent-BluespaceDungeonBase}
 
 # From: _NF/Events/nf_bluespace_salvage_events.yml
 
-ent-BluespaceSalvage = Colossus Sector Bluespace Monitoring
+ent-BluespaceSalvage = Monitoramento Bluespace do Setor Colosso
 
 # From: _NF/Guidebook/guidebook_entities_mobs.yml
 
-ent-GuidebookMemeNpcBad = the bad
+ent-GuidebookMemeNpcBad = o mau
 
-ent-GuidebookMemeNpcGood = the good
+ent-GuidebookMemeNpcGood = o bom
 
-ent-GuidebookMemeNpcThatGuy = and that guy
+ent-GuidebookMemeNpcThatGuy = e aquele cara
 
-ent-GuidebookMemeNpcUgly = the ugly
+ent-GuidebookMemeNpcUgly = o feio
 
-ent-MobBloodCultDrainedOneGuidebook = drained one
+ent-MobBloodCultDrainedOneGuidebook = drenado
 
-ent-MobBloodCultShadeGuidebook = shade
+ent-MobBloodCultShadeGuidebook = sombra
 
-ent-MobMawExpeditionsGuidebook = aberrant flesh maw
+ent-MobMawExpeditionsGuidebook = boca de carne aberrante
 
 # From: _NF/Guidebook/sector_topology.yml
 
-ent-NFSectorMap = sector map
+ent-NFSectorMap = mapa do setor
 
 # From: _NF/Guidebook/shuttle_maps.yml
 
 ent-ShuttleMapAmbition = UAC Ambition
-    .desc = Detailed map of a Ambition shuttle.
+    .desc = Mapa detalhado de uma nave Ambition.
 
 ent-ShuttleMapApothecary = NM Apothecary
-    .desc = Detailed map of a Apothecary shuttle.
+    .desc = Mapa detalhado de uma nave Apothecary.
 
 ent-ShuttleMapBarge = NC Barge
-    .desc = Detailed map of a Barge shuttle.
+    .desc = Mapa detalhado de uma nave Barge.
 
 ent-ShuttleMapBazaar = SLI Bazaar
-    .desc = Detailed map of a Bazaar shuttle.
+    .desc = Mapa detalhado de uma nave Bazaar.
 
 ent-ShuttleMapBocadillo = NC Bocadillo
-    .desc = Detailed map of a Bocadillo shuttle.
+    .desc = Mapa detalhado de uma nave Bocadillo.
 
 ent-ShuttleMapBrigand = NT Brigand
-    .desc = Detailed map of a Brigand shuttle.
+    .desc = Mapa detalhado de uma nave Brigand.
 
 ent-ShuttleMapBulker = KL Bulker
-    .desc = Detailed map of a Bulker shuttle.
+    .desc = Mapa detalhado de uma nave Bulker.
 
 ent-ShuttleMapCeres = SBB Ceres
-    .desc = Detailed map of a Ceres shuttle.
+    .desc = Mapa detalhado de uma nave Ceres.
 
 ent-ShuttleMapCharon = ITS Apothecary
-    .desc = Detailed map of a Charon shuttle.
+    .desc = Mapa detalhado de uma nave Charon.
 
 ent-ShuttleMapChisel = ICR Chisel
-    .desc = Detailed map of a Chisel shuttle.
+    .desc = Mapa detalhado de uma nave Chisel.
 
 ent-ShuttleMapComet = NT Comet
-    .desc = Detailed map of a Comet shuttle.
+    .desc = Mapa detalhado de uma nave Comet.
 
 ent-ShuttleMapConstruct = NT Construct
-    .desc = Detailed map of a Construct shuttle.
+    .desc = Mapa detalhado de uma nave Construct.
 
 ent-ShuttleMapEagle = NM Eagle
-    .desc = Detailed map of an Eagle shuttle.
+    .desc = Mapa detalhado de uma nave Eagle.
 
 ent-ShuttleMapGarden = NT Garden
-    .desc = Detailed map of a Garden shuttle.
+    .desc = Mapa detalhado de uma nave Garden.
 
 ent-ShuttleMapGasbender = NT Gasbender
-    .desc = Detailed map of a Gasbender shuttle.
+    .desc = Mapa detalhado de uma nave Gasbender.
 
 ent-ShuttleMapHarbormaster = NC Harbormaster
-    .desc = Detailed map of a Harbormaster shuttle.
+    .desc = Mapa detalhado de uma nave Harbormaster.
 
 ent-ShuttleMapHauler = NC Hauler
-    .desc = Detailed map of a Hauler shuttle.
+    .desc = Mapa detalhado de uma nave Hauler.
 
 ent-ShuttleMapHonker = NT Honker
-    .desc = Detailed map of a Honker shuttle.
+    .desc = Mapa detalhado de uma nave Honker.
 
 ent-ShuttleMapInvestigator = NR Investigator
-    .desc = Detailed map of a Investigator shuttle.
+    .desc = Mapa detalhado de uma nave Investigator.
 
 ent-ShuttleMapKestrel = NT Kestrel
-    .desc = Detailed map of a Kestrel shuttle.
+    .desc = Mapa detalhado de uma nave Kestrel.
 
 ent-ShuttleMapKilderkin = NC Kilderkin
-    .desc = Detailed map of a Kilderkin shuttle.
+    .desc = Mapa detalhado de uma nave Kilderkin.
 
 ent-ShuttleMapLantern = NC Lantern
-    .desc = Detailed map of a Lantern shuttle.
+    .desc = Mapa detalhado de uma nave Lantern.
 
 ent-ShuttleMapLegman = NC Legman
-    .desc = Detailed map of a Legman shuttle.
+    .desc = Mapa detalhado de uma nave Legman.
 
 ent-ShuttleMapLiquidator = NC Liquidator
-    .desc = Detailed map of a Liquidator shuttle.
+    .desc = Mapa detalhado de uma nave Liquidator.
 
 ent-ShuttleMapLoader = NC Loader
-    .desc = Detailed map of a Loader shuttle.
+    .desc = Mapa detalhado de uma nave Loader.
 
 ent-ShuttleMapPathfinder = KC Pathfinder
-    .desc = Detailed map of a Pathfinder shuttle.
+    .desc = Mapa detalhado de uma nave Pathfinder.
 
 ent-ShuttleMapPhoenix = NR Phoenix
-    .desc = Detailed map of a Phoenix shuttle.
+    .desc = Mapa detalhado de uma nave Phoenix.
 
 ent-ShuttleMapPioneer = NC Pioneer
-    .desc = Detailed map of a Pioneer shuttle.
+    .desc = Mapa detalhado de uma nave Pioneer.
 
 ent-ShuttleMapPlacebo = NC Placebo
-    .desc = Detailed map of a Placebo shuttle.
+    .desc = Mapa detalhado de uma nave Placebo.
 
 ent-ShuttleMapProspector = NC Prospector
-    .desc = Detailed map of a Prospector shuttle.
+    .desc = Mapa detalhado de uma nave Prospector.
 
 ent-ShuttleMapSearchlight = NM Searchlight
-    .desc = Detailed map of a Searchlight shuttle.
+    .desc = Mapa detalhado de uma nave Searchlight.
 
 ent-ShuttleMapSkipper = NC Skipper
-    .desc = Detailed map of a Skipper shuttle.
+    .desc = Mapa detalhado de uma nave Skipper.
 
 ent-ShuttleMapSparrow = NR Sparrow
-    .desc = Detailed map of a Sparrow shuttle.
+    .desc = Mapa detalhado de uma nave Sparrow.
 
 ent-ShuttleMapSpirit = NM Spirit
-    .desc = Detailed map of a Spirit shuttle.
+    .desc = Mapa detalhado de uma nave Spirit.
 
 ent-ShuttleMapStasis = NM Stasis
-    .desc = Detailed map of a Stasis shuttle.
+    .desc = Mapa detalhado de uma nave Stasis.
 
 ent-ShuttleMapTide = Tide
-    .desc = Detailed map of a Tide shuttle.
+    .desc = Mapa detalhado de uma nave Tide.
 
 ent-ShuttleMapVagabond = NT Vagabond
-    .desc = Detailed map of a Vagabond shuttle.
+    .desc = Mapa detalhado de uma nave Vagabond.
 
 # From: _NF/Mail/Items/boxes.yml
 
-ent-BoxBuildABuddyGoblin = Build-a-Buddy kit
+ent-BoxBuildABuddyGoblin = kit Monta-seu-Companheiro
+    .suffix = Goblin
+    .desc = Kit Monta-seu-Companheiro \"Greta, a Goblin\". Alguma montagem necessária.
 .suffix = Goblin
     .desc = \"Greta the Goblin\" Build-a-Buddy kit. Some assembly required.
 
-ent-BoxBuildABuddyHuman = Build-a-Buddy kit
-    .suffix = Human
-    .desc = \"Henry the Human\" Build-a-Buddy kit. Some assembly required.
+ent-BoxBuildABuddyHuman = kit Monta-seu-Companheiro
+    .suffix = Humano
+    .desc = Kit Monta-seu-Companheiro \"Henrique, o Humano\". Alguma montagem necessária.
 
-ent-BoxBuildABuddyReptilian = Build-a-Buddy kit
-    .suffix = Reptilian
-    .desc = \"Randy the Reptilian\" Build-a-Buddy kit. Some assembly required.
+ent-BoxBuildABuddyReptilian = kit Monta-seu-Companheiro
+    .suffix = Réptil
+    .desc = Kit Monta-seu-Companheiro \"Randy, o Réptil\". Alguma montagem necessária.
 
-ent-BoxBuildABuddyResomi = Build-a-Buddy kit
+ent-BoxBuildABuddyResomi = kit Monta-seu-Companheiro
     .suffix = Resomi
-    .desc = \"Resi the Resomi\" Build-a-Buddy kit. Some assembly required.
+    .desc = Kit Monta-seu-Companheiro \"Resi, a Resomi\". Alguma montagem necessária.
 
-ent-BoxBuildABuddySlime = Build-a-Buddy kit
-    .suffix = Slime
-    .desc = \"Steven the Slime\" Build-a-Buddy kit. Some assembly required.
+ent-BoxBuildABuddySlime = kit Monta-seu-Companheiro
+    .suffix = Gosma
+    .desc = Kit Monta-seu-Companheiro \"Steven, a Gosma\". Alguma montagem necessária.
 
-ent-BoxBuildABuddyVulpkanin = Build-a-Buddy kit
+ent-BoxBuildABuddyVulpkanin = kit Monta-seu-Companheiro
     .suffix = Vulpkanin
-    .desc = \"Valerie the Vulpkanin\" Build-a-Buddy kit. Some assembly required.
+    .desc = Kit Monta-seu-Companheiro \"Valerie, a Vulpkanin\". Alguma montagem necessária.
 
-ent-BoxSoapsAssorted = scented soap sampler pack
-    .desc = A box of various scented soaps. Ooh, lavender.
+ent-BoxSoapsAssorted = pacote de amostras de sabões perfumados
+    .desc = Uma caixa de vários sabões perfumados. Ooh, lavanda.
 
-ent-BoxSoapsAssortedOmega = scented soap sampler pack
-    .desc = A box of various scented soaps. Ooh, bluespace.
+ent-BoxSoapsAssortedOmega = pacote de amostras de sabões perfumados
+    .desc = Uma caixa de vários sabões perfumados. Ooh, bluespace.
 
-ent-BoxT2ComponentsAssorted = advanced component variety pack
-    .desc = A box of various advanced components.
+ent-BoxT2ComponentsAssorted = pacote de variedade de componentes avançados
+    .desc = Uma caixa de vários componentes avançados.
 
-ent-BoxT3ComponentsAssorted = super component variety pack
-    .desc = A box of various super components.
+ent-BoxT3ComponentsAssorted = pacote de variedade de super componentes
+    .desc = Uma caixa de vários super componentes.
 
-ent-BoxT4ComponentsAssorted = bluespace component variety pack
-    .desc = A box of various bluespace components. Where'd you find this?
+ent-BoxT4ComponentsAssorted = pacote de variedade de componentes bluespace
+    .desc = Uma caixa de vários componentes bluespace. Onde você encontrou isto?
 
 # From: _NF/Mail/Items/misc.yml
 
-ent-CigarPlatinum = Generalissimo No. 3 cigar
-    .desc = You feel dignified just looking at it. Smells of cedar.
+ent-CigarPlatinum = charuto Generalissimo No. 3
+    .desc = Você se sente digno só de olhar para ele. Cheira a cedro.
 
-ent-CigarPlatinumCase = Generalissimo No. 3 cigar case
-    .desc = Subtly embossed, and labelled \"12/40\". Smells of cedar.
+ent-CigarPlatinumCase = estojo de charutos Generalissimo No. 3
+    .desc = Sutilmente estampado, e rotulado \"12/40\". Cheira a cedro.
 
-ent-DelayedEMP = delayed EMP (7 meters)
+ent-DelayedEMP = EMP atrasado (7 metros)
 
-ent-DelayedPetCarrierNPCEmotionalSupportSafe = delayed emotional support pet
+ent-DelayedPetCarrierNPCEmotionalSupportSafe = animal de estimação de suporte emocional atrasado
 
-ent-DelayedSmoke = delayed smoke
+ent-DelayedSmoke = fumaça atrasada
     .suffix = (10s)
 
-ent-DrinkPremiumAbsintheBottleFull = Bureaucracy's Kiss absinthe bottle
-    .desc = A refined taste that tends to linger.
+ent-DrinkPremiumAbsintheBottleFull = garrafa de absinto Beijo da Burocracia
+    .desc = Um gosto refinado que tende a persistir.
 
-ent-DrinkPremiumGinBottleFull = Harry's gin bottle
-    .desc = An interesting set of botanicals, for sure. Is that pumpkin?
+ent-DrinkPremiumGinBottleFull = garrafa de gim Harry
+    .desc = Um conjunto interessante de botânicos, com certeza. Isso é abóbora?
 
-ent-DrinkPremiumRumBottleFull = Redeemer's Bounty rum bottle
-    .desc = Well, you asked for it. Navy strength.
+ent-DrinkPremiumRumBottleFull = garrafa de rum Recompensa do Redentor
+    .desc = Bem, você pediu. Potência naval.
 
-ent-DrinkPremiumTequilaBottleFull = Casa del Eorg tequila bottle
-    .desc = Save the best for last. Casa del Eorg, 100% agave.
+ent-DrinkPremiumTequilaBottleFull = garrafa de tequila Casa del Eorg
+    .desc = Guarde o melhor para o fim. Casa del Eorg, 100% agave.
 
-ent-DrinkPremiumVodkaBottleFull = Moment of Clarity vodka bottle
-    .desc = When things get a bit hectic, all you need is a Moment of Clarity.
+ent-DrinkPremiumVodkaBottleFull = garrafa de vodka Momento de Clareza
+    .desc = Quando as coisas ficam um pouco agitadas, tudo que você precisa é um Momento de Clareza.
 
-ent-DrinkPremiumWhiskeyBottleFull = Ol' Prowler 18 whiskey bottle
-    .desc = Surprisingly smooth, it has a nasty habit of sneaking up on you.
+ent-DrinkPremiumWhiskeyBottleFull = garrafa de uísque Velho Perseguidor 18
+    .desc = Surpreendentemente suave, tem um hábito terrível de te pegar de surpresa.
 
-ent-WeaponVulpCannon = lil vulp cannon
-    .desc = With a widened barrel, this friend launcher can huck your little buddies further than you ever could.
+ent-WeaponVulpCannon = canhãozinho vulp
+    .desc = Com um cano alargado, este lançador de amigos pode arremessar seus companheiros pequenos mais longe do que você jamais poderia.
 
 # From: _NF/Mail/Items/paper.yml
 
-ent-PaperMailNFAntivirus = Snortin Antivirus invoice
-    .suffix = antivirus ad
+ent-PaperMailNFAntivirus = fatura do antivírus Snortin
+    .suffix = anúncio de antivírus
 
-ent-PaperMailNFBuildABuddy = Build-a-Buddy adoption letter
-    .suffix = build-a-buddy
+ent-PaperMailNFBuildABuddy = carta de adoção Monta-seu-Companheiro
+    .suffix = monta-seu-companheiro
 
-ent-PaperMailNFEMPPreparedness = EMP preparedness response form
-    .suffix = emp preparedness
+ent-PaperMailNFEMPPreparedness = formulário de resposta de preparação para EMP
+    .suffix = preparação para emp
 
-ent-PaperMailNFPetBedAssemblyManual = pet bed assembly manual
-    .suffix = pet bed assembly manual
+ent-PaperMailNFPetBedAssemblyManual = manual de montagem de cama de animal
+    .suffix = manual de montagem de cama de animal
 
-ent-PaperMailNFPowerTool = Hazard Fraught advertisement
-    .suffix = power tool ad, formatted
+ent-PaperMailNFPowerTool = anúncio Hazard Fraught
+    .suffix = anúncio de ferramenta elétrica, formatado
 
-ent-PaperMailNFPwrGameAd = pwr game advertisement
-    .suffix = pwr game ad
+ent-PaperMailNFPwrGameAd = anúncio de jogo pwr
+    .suffix = anúncio de jogo pwr
 
-ent-PaperMailNFRedBoolAd = red bool advertisement
-    .suffix = red bool ad
+ent-PaperMailNFRedBoolAd = anúncio de bool vermelho
+    .suffix = anúncio de bool vermelho
 
-ent-PaperMailNFSpaceColaAd = space cola advertisement
-    .suffix = space cola ad
+ent-PaperMailNFSpaceColaAd = anúncio de space cola
+    .suffix = anúncio de space cola
 
-ent-PaperMailNFSpaceMountainWindAd = space mountain wind advertisement
-    .suffix = space mountain wind ad
+ent-PaperMailNFSpaceMountainWindAd = anúncio de space mountain wind
+    .suffix = anúncio de space mountain wind
 
-ent-PaperMailNFSpaceUpAd = space up advertisement
-    .suffix = space up ad
+ent-PaperMailNFSpaceUpAd = anúncio de space up
+    .suffix = anúncio de space up
 
 # From: _NF/Mail/mail.yml
 
 ent-MailBlockGameDIY = {ent-BaseMail}
-    .suffix = blockgamediy
+    .suffix = blocogamediy
 
 ent-MailCigars = {ent-BaseMail}
-    .suffix = Cigars
+    .suffix = Charutos
 
 ent-MailCommandNFPipebombIntern = {ent-BaseMail}
-    .suffix = pipe and bomb
+    .suffix = tubo e bomba
 
 ent-MailCommandNFPlatinumCigars = {ent-BaseMail}
-    .suffix = cigars, ultra-premium
+    .suffix = charutos, ultrapremium
 
 ent-MailCommandNFPremiumAlcohol = {ent-BaseMail}
-    .suffix = premium alcohol
+    .suffix = álcool premium
 
 ent-MailCommandNFWristwatchGold = {ent-BaseMail}
-    .suffix = gold wristwatch
+    .suffix = relógio de ouro
 
 ent-MailCosplayArc = {ent-BaseMail}
     .suffix = cosplay-arc
 
 ent-MailCosplayGeisha = {ent-BaseMail}
-    .suffix = cosplay-geisha
+    .suffix = cosplay-gueixa
 
 ent-MailCosplaySchoolgirl = {ent-BaseMail}
-    .suffix = cosplay-schoolgirl
+    .suffix = cosplay-escolar
 
 ent-MailFlowers = {ent-BaseMail}
-    .suffix = flowers
+    .suffix = flores
 
 ent-MailNFAlcohol = {ent-BaseMail}
-    .suffix = alcohol, extended
+    .suffix = álcool, estendido
 
 ent-MailNFBakedGoods = {ent-BaseMail}
-    .suffix = baked goods
+    .suffix = produtos assados
 
 ent-MailNFBikeHorn = {ent-BaseMail}
-    .suffix = bike horn, random
+    .suffix = buzina de bicicleta, aleatório
 
 ent-MailNFCheese = {ent-BaseMail}
-    .suffix = cheese, extended
+    .suffix = queijo, estendido
 
 ent-MailNFCigarettes = {ent-BaseMail}
-    .suffix = cigs, random
+    .suffix = cigarros, aleatório
 
 ent-MailNFCircuitboardIndustrial = {ent-BaseMail}
-    .suffix = industrial circuitboard
+    .suffix = placa de circuito industrial
 
 ent-MailNFCircuitboardService = {ent-BaseMail}
-    .suffix = service circuitboard
+    .suffix = placa de circuito de serviço
 
 ent-MailNFCognizine = {ent-BaseMail}
-    .suffix = cognizine syringe
+    .suffix = seringa de cognizine
 
 ent-MailNFCookies = {ent-BaseMail}
-    .suffix = cookies, random
+    .suffix = biscoitos, aleatório
 
 ent-MailNFCosplayMaid = {ent-BaseMail}
-    .suffix = cosplay-maid, extended
+    .suffix = cosplay-empregada, estendido
 
 ent-MailNFCosplayNurse = {ent-BaseMail}
-    .suffix = cosplay-nurse, extended
+    .suffix = cosplay-enfermeira, estendido
 
 ent-MailNFCosplayWizard = {ent-BaseMail}
-    .suffix = cosplay-wizard, extended
+    .suffix = cosplay-mago, estendido
 
 ent-MailNFCritter = {ent-BaseMail}
-    .suffix = critter
+    .suffix = bicho
 
 ent-MailNFDonkPockets = {ent-BaseMail}
-    .suffix = donk pockets, random
+    .suffix = donk pockets, aleatório
 
 ent-MailNFEMP = {ent-BaseMail}
     .suffix = emp
 
 ent-MailNFFigurineBulk = {ent-BaseMail}
-    .suffix = figurine, bulk
+    .suffix = figurinha, a granel
 
 ent-MailNFGoldCigars = {ent-BaseMail}
-    .suffix = cigars, premium
+    .suffix = charutos, premium
 
 ent-MailNFIFFBoard = {ent-BaseMail}
-    .suffix = IFF board
+    .suffix = placa IFF
 
 ent-MailNFInstrumentSmall = {ent-BaseMail}
-    .suffix = instrument, expanded
+    .suffix = instrumento, expandido
 
 ent-MailNFJoints = {ent-BaseMail}
-    .suffix = joints
+    .suffix = baseados
 
 ent-MailNFKnife = {ent-BaseMail}
-    .suffix = knife, extended
+    .suffix = faca, estendido
 
 ent-MailNFMoney = {ent-BaseMail}
-    .suffix = money, extended
+    .suffix = dinheiro, estendido
 
 ent-MailNFMuffins = {ent-BaseMail}
-    .suffix = muffins, random
+    .suffix = muffins, aleatório
 
 ent-MailNFNecrosol = {ent-BaseMail}
-    .suffix = necrosol bottle
+    .suffix = garrafa de necrosol
 
 ent-MailNFOmnizine = {ent-BaseMail}
-    .suffix = omnizine bottle
+    .suffix = garrafa de omnizine
 
 ent-MailNFPAI = {ent-BaseMail}
-    .suffix = PAI, extended
+    .suffix = PAI, estendido
 
 ent-MailNFPen = {ent-BaseMail}
-    .suffix = fancy pen
+    .suffix = caneta elegante
 
 ent-MailNFPlushie = {ent-BaseMail}
-    .suffix = plushie, extended
+    .suffix = pelúcia, estendido
 
 ent-MailNFPowerCell = {ent-BaseMail}
-    .suffix = power cell
+    .suffix = célula de energia
 
 ent-MailNFSkub = {ent-BaseMail}
-    .suffix = skub, extended
+    .suffix = skub, estendido
 
 ent-MailNFSmoke = {ent-BaseMail}
-    .suffix = smoke
+    .suffix = fumaça
 
 ent-MailNFSnacks = {ent-BaseMail}
-    .suffix = snacks, random
+    .suffix = lanches, aleatório
 
 ent-MailNFSoaps = {ent-BaseMail}
-    .suffix = soap sampler
+    .suffix = amostras de sabão
 
 ent-MailNFSoapsOmega = {ent-BaseMail}
-    .suffix = soap sampler, omega
+    .suffix = amostras de sabão, ômega
 
 ent-MailNFSodaPwrGame = {ent-BaseMail}
     .suffix = Pwrgame
@@ -8918,93 +9300,93 @@ ent-MailNFSodaSpaceUp = {ent-BaseMail}
     .suffix = Space Up
 
 ent-MailNFT2ComponentBox = {ent-BaseMail}
-    .suffix = T2 components
+    .suffix = componentes T2
 
 ent-MailNFT3ComponentBox = {ent-BaseMail}
-    .suffix = T3 components
+    .suffix = componentes T3
 
 ent-MailNFT4ComponentBox = {ent-BaseMail}
-    .suffix = T4 components
+    .suffix = componentes T4
 
 ent-MailNFUnusualClothing = {ent-BaseMail}
-    .suffix = unusual clothing
+    .suffix = roupas incomuns
 
 ent-MailNFUnusualFood = {ent-BaseMail}
-    .suffix = unusual food
+    .suffix = comida incomum
 
 ent-MailNFUnusualProduce = {ent-BaseMail}
-    .suffix = unusual produce
+    .suffix = produtos incomuns
 
 ent-MailNFVagueThreat = {ent-BaseMail}
-    .suffix = vague-threat
+    .suffix = ameaça-vaga
 
 ent-MailNoir = {ent-BaseMail}
     .suffix = noir
 
 ent-MailRestraints = {ent-BaseMail}
-    .suffix = restraints
+    .suffix = restrições
 
 ent-MailSake = {ent-BaseMail}
-    .suffix = osake
+    .suffix = osaque
 
 ent-MailSecurityDonuts = {ent-BaseMail}
     .suffix = donuts
 
 ent-MailSecurityNFHudNfsdMed = {ent-BaseMail}
-    .suffix = nfsd med hud
+    .suffix = hud médico nfsd
 
 ent-MailSecurityNFSpaceLaw = {ent-BaseMail}
-    .suffix = spacelaw, extended
+    .suffix = leiespacial, estendido
 
 ent-MailSecurityNonlethalsKit = {ent-BaseMail}
-    .suffix = nonlethalskit
+    .suffix = kitnaletais
 
 ent-MailSpaceVillainDIY = {ent-BaseMail}
-    .suffix = spacevilliandiy
+    .suffix = vilãoespacialdiy
 
 ent-MailStationRepNFClurger = {ent-BaseMail}
     .suffix = clurger
 
 ent-MailStationRepNFNukeDisk = {ent-BaseMail}
-    .suffix = nuke disk
+    .suffix = disco nuclear
 
 ent-MailSunglasses = {ent-BaseMail}
-    .suffix = Sunglasses
+    .suffix = Óculos de sol
 
 ent-MailWinterCoat = {ent-BaseMail}
     .suffix = casaco de inverno
 
 # From: _NF/Procedural/Themes/supercompacted.yml
 
-ent-NFAndesiteRoomMarker = andesite super compacted marker
+ent-NFAndesiteRoomMarker = marcador super compactado de andesito
 
-ent-NFAsteroidRockRoomMarker = asteroid rock super compacted marker
+ent-NFAsteroidRockRoomMarker = marcador super compactado de rocha de asteróide
 
-ent-NFAsteroidRoomMarker = asteroid super compacted marker
+ent-NFAsteroidRoomMarker = marcador super compactado de asteróide
 
-ent-NFBasaltRoomMarker = basalt super compacted marker
+ent-NFBasaltRoomMarker = marcador super compactado de basalto
 
-ent-NFChromiteRoomMarker = chromite super compacted marker
+ent-NFChromiteRoomMarker = marcador super compactado de cromita
 
-ent-NFSandRoomMarker = sand super compacted marker
+ent-NFSandRoomMarker = marcador super compactado de areia
 
-ent-NFSnowRoomMarker = snow super compacted marker
+ent-NFSnowRoomMarker = marcador super compactado de neve
 
 # From: _NF/Procedural/Themes/vgroidinterior.yml
 
-ent-NFVGRoidInteriorRoomMarker = NFVGRoid interior marker
+ent-NFVGRoidInteriorRoomMarker = marcador interior NFVGRoid
 
 # From: _NF/Procedural/Themes/wreck.yml
 
-ent-NFWreckRoomMarker = wreck room marker
+ent-NFWreckRoomMarker = marcador de sala de naufrágio
 
 # From: _NF/Recipes/Construction/Graphs/furniture/beds.yml
 
-ent-WebNest = web nest
-    .desc = You got webbed.
+ent-WebNest = ninho de teia
+    .desc = Você ficou teiado.
 
 # From: _NF/Roles/MindRoles/mind_roles.yml
 
-ent-MindRoleGhostRoleEmotionalSupportPet = Ghost Role (Emotional Support Pet)
+ent-MindRoleGhostRoleEmotionalSupportPet = Papel de Fantasma (Animal de Estimação de Suporte Emocional)
     .desc = {ent-BaseMindRole.desc}
 

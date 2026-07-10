@@ -4,7 +4,7 @@ id-card-access-level-captain = Capitão
 
 id-card-access-level-cryogenics = Criogenia
 
-id-card-access-level-emergency-shuttle-repeal = Revogar E.Nave Todos
+id-card-access-level-emergency-shuttle-repeal = Revogação de E.Shuttle
 
 id-card-access-level-head-of-personnel = Representante da Estação
 
@@ -22,7 +22,7 @@ id-card-access-level-chief-engineer = Engenheiro Chefe
 
 id-card-access-level-engineering = Engenharia
 
-id-card-access-level-atmospherics = Atmosfera
+id-card-access-level-atmospherics = Atmosferia
 
 id-card-access-level-research-director = Diretor de Pesquisa
 
@@ -36,11 +36,11 @@ id-card-access-level-chemistry = Química
 
 id-card-access-level-paramedic = Paramédico
 
-id-card-access-level-quartermaster = Intendente
+id-card-access-level-quartermaster = Quartel-Mestre
 
 id-card-access-level-cargo = Carga
 
-id-card-access-level-salvage = Salvamento
+id-card-access-level-salvage = Salvagem
 
 id-card-access-level-bar = Bar
 
@@ -62,7 +62,7 @@ id-card-access-level-maintenance = Manutenção
 
 id-card-access-level-external = Externo
 
-id-card-access-level-nuclear-operative = Operativo Nuclear
+id-card-access-level-nuclear-operative = Operacional Nuclear
 
 id-card-access-level-syndicate-agent = Agente do Sindicato
 

@@ -6,28 +6,28 @@
 
 # From: _DV/Actions/clothing.yml
 
-ent-ActionToggleTray = Toggle T-ray
-    .desc = Toggles T-ray hud em e off.
+ent-ActionToggleTray = Alternar T-raio
+    .desc = Alterna o HUD T-raio ligado e desligado.
 
 # From: _DV/Actions/types.yml
 
-ent-ActionChitzite = Cough Up Chitzite
-    .desc = Purge o excess radiation construir-up de seu body, e gain um fresco danger rock.
+ent-ActionChitzite = Tossir Chitzita
+    .desc = Purge o excesso de radiação acumulada do seu corpo, e ganhe uma pedra perigosa legal.
 
-ent-ActionToggleSneakMode = Toggle sneak mode
-    .desc = Sneak underneath tables.
+ent-ActionToggleSneakMode = Alternar modo furtivo
+    .desc = Esconda-se por baixo de mesas.
 
 # From: _DV/Body/Organs/chitinid.yml
 
 ent-OrganChitinidLiver = fígado
 
 ent-OrganChitinidStomach = estômago
-    .desc = Gross. isto é duro até estômago.
+    .desc = Nojento. Difícil de engolir.
 
 # From: _DV/Body/Organs/harpy.yml
 
 ent-OrganHarpyLungs = pulmões
-    .desc = um advanced pair de avian pulmões. Filters oxygen by maneira de moving air constantly através de air sacs.
+    .desc = Um par avançado de pulmões aviários. Filtra oxigênio movendo ar constantemente através de sacos aéreos.
 
 # From: _DV/Body/Organs/vulpkanin.yml
 
@@ -35,94 +35,94 @@ ent-OrganVulpkaninStomach =
 
 # From: _DV/Body/Parts/chitinid.yml
 
-ent-HeadChitinid = chitinid cabeça
+ent-HeadChitinid = cabeça de quitinídeo
 
-ent-LeftArmChitinid = esquerdo chitinid braço
+ent-LeftArmChitinid = braço esquerdo de quitinídeo
 
-ent-LeftFootChitinid = esquerdo chitinid pé
+ent-LeftFootChitinid = pé esquerdo de quitinídeo
 
-ent-LeftHandChitinid = esquerdo chitinid mão
+ent-LeftHandChitinid = mão esquerda de quitinídeo
 
-ent-LeftLegChitinid = esquerdo chitinid perna
+ent-LeftLegChitinid = perna esquerda de quitinídeo
 
 # Abstract entity (referenceable by children)
-ent-PartChitinidBase = Parte do corpo Chitinid
+ent-PartChitinidBase = parte do corpo de quitinídeo
 
-ent-RightArmChitinid = direito chitinid braço
+ent-RightArmChitinid = braço direito de quitinídeo
 
-ent-RightFootChitinid = direito chitinid pé
+ent-RightFootChitinid = pé direito de quitinídeo
 
-ent-RightHandChitinid = direito chitinid mão
+ent-RightHandChitinid = mão direita de quitinídeo
 
-ent-RightLegChitinid = direito chitinid perna
+ent-RightLegChitinid = perna direita de quitinídeo
 
-ent-TorsoChitinid = chitinid tronco
+ent-TorsoChitinid = torso de quitinídeo
 
 # From: _DV/Body/Parts/harpy.yml
 
-ent-HeadHarpy = harpy cabeça
+ent-HeadHarpy = cabeça de harpia
 
-ent-LeftArmHarpy = esquerdo harpy braço
+ent-LeftArmHarpy = braço esquerdo de harpia
 
-ent-LeftFootHarpy = esquerdo harpy pé
+ent-LeftFootHarpy = pé esquerdo de harpia
 
-ent-LeftHandHarpy = esquerdo harpy mão
+ent-LeftHandHarpy = mão esquerda de harpia
 
-ent-LeftLegHarpy = esquerdo harpy perna
+ent-LeftLegHarpy = perna esquerda de harpia
 
-ent-RightArmHarpy = direito harpy braço
+ent-RightArmHarpy = braço direito de harpia
 
-ent-RightFootHarpy = direito harpy pé
+ent-RightFootHarpy = pé direito de harpia
 
-ent-RightHandHarpy = direito harpy mão
+ent-RightHandHarpy = mão direita de harpia
 
-ent-RightLegHarpy = direito harpy perna
+ent-RightLegHarpy = perna direita de harpia
 
-ent-TorsoHarpy = harpy tronco
+ent-TorsoHarpy = torso de harpia
 
 # From: _DV/Body/Parts/rodentia.yml
 
-ent-HeadRodentia = rodentia cabeça
+ent-HeadRodentia = cabeça de roedor
 
-ent-LeftArmRodentia = esquerdo rodentia braço
+ent-LeftArmRodentia = braço esquerdo de roedor
 
-ent-LeftFootRodentia = esquerdo rodentia pé
+ent-LeftFootRodentia = pé esquerdo de roedor
 
-ent-LeftHandRodentia = esquerdo rodentia mão
+ent-LeftHandRodentia = mão esquerda de roedor
 
-ent-LeftLegRodentia = esquerdo rodentia perna
+ent-LeftLegRodentia = perna esquerda de roedor
 
-ent-RightArmRodentia = direito rodentia braço
+ent-RightArmRodentia = braço direito de roedor
 
-ent-RightFootRodentia = direito rodentia pé
+ent-RightFootRodentia = pé direito de roedor
 
-ent-RightHandRodentia = direito rodentia mão
+ent-RightHandRodentia = mão direita de roedor
 
-ent-RightLegRodentia = direito rodentia perna
+ent-RightLegRodentia = perna direita de roedor
 
-ent-TorsoRodentia = rodentia tronco
+ent-TorsoRodentia = torso de roedor
 
 # From: _DV/Body/Parts/vulpkanin.yml
 
-ent-HeadVulpkanin = vulpkanin cabeça
+ent-HeadVulpkanin = cabeça vulpkanin
 
-ent-LeftArmVulpkanin = esquerdo vulpkanin braço
+ent-LeftArmVulpkanin = braço esquerdo vulpkanin
 
-ent-LeftFootVulpkanin = esquerdo vulpkanin pé
+ent-LeftFootVulpkanin = pé esquerdo vulpkanin
 
-ent-LeftHandVulpkanin = esquerdo vulpkanin mão
+ent-LeftHandVulpkanin = mão esquerda vulpkanin
 
-ent-LeftLegVulpkanin = esquerdo vulpkanin perna
+ent-LeftLegVulpkanin = perna esquerda vulpkanin
 
-ent-RightArmVulpkanin = direito vulpkanin braço
+ent-RightArmVulpkanin = braço direito vulpkanin
 
-ent-RightFootVulpkanin = direito vulpkanin pé
+ent-RightFootVulpkanin = pé direito vulpkanin
 
-ent-RightHandVulpkanin = direito vulpkanin mão
+ent-RightHandVulpkanin = mão direita vulpkanin
 
-ent-RightLegVulpkanin = direito vulpkanin perna
+ent-RightLegVulpkanin = perna direita vulpkanin
 
-ent-TorsoVulpkanin = vulpkanin tronco
+ent-TorsoVulpkanin = torso vulpkanin
 
 # From: _DV/Catalog/Fills/Crates/vending.yml
 
@@ -130,62 +130,62 @@ ent-CrateVendingMachineRestockPrideFilled =
 
 # From: _DV/Entities/Clothing/Ears/headsets.yml
 
-ent-ClothingHeadsetPrison = prisoner headset
-    .desc = um headset used by prisoners. Criminally uncomfortable.
+ent-ClothingHeadsetPrison = fones de prisioneiro
+    .desc = Um fone usado por prisioneiros. Criminalmente desconfortável.
 
 # From: _DV/Entities/Clothing/Eyes/glasses.yml
 
-ent-ClothingEyesGlassesMesonTray = advanced engineering goggles
-    .desc = Protective meson goggles aquele ter um integrated T-ray scanner e diagnostic HUD. o multilayer laminate protects de algum intense flash.
+ent-ClothingEyesGlassesMesonTray = óculos de engenharia avançados
+    .desc = Óculos meson de proteção que possuem um scanner T-raio integrado e HUD de diagnóstico. O laminado multicamadas protege contra qualquer flash intenso.
 
 # From: _DV/Entities/Clothing/Shoes/winter-boots.yml
 
-ent-ClothingShoesBootsWinterAtmos = atmospherics winter boots
+ent-ClothingShoesBootsWinterAtmos = botas de inverno atmosféricas
 
-ent-ClothingShoesBootsWinterCap = captain's winter boots
+ent-ClothingShoesBootsWinterCap = botas de inverno do capitão
 
-ent-ClothingShoesBootsWinterCentCom = centcom winter boots
+ent-ClothingShoesBootsWinterCentCom = botas de inverno da centcom
 
-ent-ClothingShoesBootsWinterChef = chef winter boots
+ent-ClothingShoesBootsWinterChef = botas de inverno do chef
 
-ent-ClothingShoesBootsWinterChem = chemist winter boots
+ent-ClothingShoesBootsWinterChem = botas de inverno do químico
 
-ent-ClothingShoesBootsWinterChiefEngineer = chief engineer's winter boots
+ent-ClothingShoesBootsWinterChiefEngineer = botas de inverno do engenheiro chefe
 
-ent-ClothingShoesBootsWinterClown = clown winter boots
+ent-ClothingShoesBootsWinterClown = botas de inverno do palhaço
 
-ent-ClothingShoesBootsWinterCMO = chief medical officer winter boots
+ent-ClothingShoesBootsWinterCMO = botas de inverno do médico chefe
 
-ent-ClothingShoesBootsWinterGenetics = genetics winter boots
+ent-ClothingShoesBootsWinterGenetics = botas de inverno de genética
 
-ent-ClothingShoesBootsWinterHoP = cabeça de personnel's winter boots
+ent-ClothingShoesBootsWinterHoP = botas de inverno do chefe de pessoal
 
-ent-ClothingShoesBootsWinterHoS = cabeça de security winter boots
+ent-ClothingShoesBootsWinterHoS = botas de inverno do chefe de segurança
 
-ent-ClothingShoesBootsWinterHydro = botanist winter boots
+ent-ClothingShoesBootsWinterHydro = botas de inverno do botânico
 
-ent-ClothingShoesBootsWinterJani = janitor winter boots
+ent-ClothingShoesBootsWinterJani = botas de inverno do zelador
 
-ent-ClothingShoesBootsWinterMime = mime winter boots
+ent-ClothingShoesBootsWinterMime = botas de inverno do mímico
 
-ent-ClothingShoesBootsWinterMiner = miner winter boots
+ent-ClothingShoesBootsWinterMiner = botas de inverno do minerador
 
-ent-ClothingShoesBootsWinterParamedic = paramedic winter boots
+ent-ClothingShoesBootsWinterParamedic = botas de inverno do paramédico
 
-ent-ClothingShoesBootsWinterQM = quartermaster's winter boots
+ent-ClothingShoesBootsWinterQM = botas de inverno do intendente
 
-ent-ClothingShoesBootsWinterRD = research director's winter boots
+ent-ClothingShoesBootsWinterRD = botas de inverno do diretor de pesquisa
 
-ent-ClothingShoesBootsWinterRobo = robotics winter boots
+ent-ClothingShoesBootsWinterRobo = botas de inverno de robótica
 
-ent-ClothingShoesBootsWinterViro = virology winter boots
+ent-ClothingShoesBootsWinterViro = botas de inverno de virologia
 
-ent-ClothingShoesBootsWinterWarden = warden's winter boots
+ent-ClothingShoesBootsWinterWarden = botas de inverno do carcereiro
 
 # From: _DV/Entities/Clothing/Uniforms/jumpsuits.yml
 
 ent-ClothingUniformJumpsuitKilt = kilt
-    .desc = um fine bit o' garb para o lad um' lasses.
+    .desc = Uma bela peça de vestuário para garotos e garotas.
 
 # From: _DV/Entities/Mobs/Player/chitinid.yml
 
@@ -215,127 +215,127 @@ ent-MobChitinidDummy =
 # Abstract entity (referenceable by children)
 ent-MobHarpyBase = Urist McHarpy
 
-ent-ActionHarpyPlayMidi = jogar MIDI
-    .desc = Sing seu coração out! direito click você mesmo até definir um instrument.
+ent-ActionHarpyPlayMidi = Tocar MIDI
+    .desc = Cante com toda sua alma! Clique com botão direito em si mesmo para definir um instrumento.
 
 ent-ActionSyrinxChangeVoiceMask = Definir nome
-    .desc = mudar o name others ouvir até algo else.
+    .desc = Altere o nome que os outros ouvem para algo diferente.
 
 ent-MobHarpyDummy = Urist McHands
-    .desc = um dummy Harpy meant até be used em character setup.
+    .desc = Um boneco harpia destinado a ser usado na configuração de personagem.
 
 # From: _DV/Entities/Mobs/Species/rodentia.yml
 
 # Abstract entity (referenceable by children)
 ent-BaseMobRodentia = Urist McRat
 
-ent-MobRodentiaDummy = Rodentia Dummy
-    .desc = um dummy rodentia meant até be used em character setup.
+ent-MobRodentiaDummy = Boneco de Roedor
+    .desc = Um boneco roedor destinado a ser usado na configuração de personagem.
 
 # From: _DV/Entities/Mobs/Species/vulpkanin.yml
 
 # Abstract entity (referenceable by children)
 ent-BaseMobVulpkanin = Urist McVulp
 
-ent-MobVulpkaninDummy = Vulpkanin Dummy
-    .desc = um dummy vulpkanin meant até be used em character setup.
+ent-MobVulpkaninDummy = Boneco Vulpkanin
+    .desc = Um boneco vulpkanin destinado a ser usado na configuração de personagem.
 
 # From: _DV/Entities/Objects/Devices/cartridges.yml
 
-ent-MailMetricsCartridge = mail metrics cartridge
-    .desc = um cartridge aquele tracks statistics related até mail deliveries.
+ent-MailMetricsCartridge = cartucho de métricas de correio
+    .desc = Um cartucho que rastreia estatísticas relacionadas a entregas de correio.
 
 # From: _DV/Entities/Objects/Devices/pda.yml
 
-ent-CourierPDA = mail carrier PDA
-    .desc = Smells como unopened letters.
+ent-CourierPDA = PDA de carteiro de correio
+    .desc = Cheira a cartas não abertas.
 
 # From: _DV/Entities/Objects/Fun/toy_guns.yml
 
-ent-WeaponRifleBB = BB Gun
-    .desc = o classic Red Ryder BB gun. Don't shoot seu eye out.
+ent-WeaponRifleBB = Chumbinho
+    .desc = O clássico rifle Red Ryder de chumbinho. Não atire no seu olho.
 
 # From: _DV/Entities/Objects/Materials/ore.yml
 
-ent-BluespaceOre = bluespace ore
-    .suffix = Full
+ent-BluespaceOre = minério de bluespace
+    .suffix = Cheio
 
 ent-BluespaceOre1 =
     .suffix = Single
 
 # From: _DV/Entities/Objects/Misc/fire_extinguisher.yml
 
-ent-FireExtinguisherBluespace = bluespace fire extinguisher
-    .desc = um experimental fire extinguisher aquele uses bluespace technology até gradually refill itself. o faint blue glow é apenas slightly disconcerting.
+ent-FireExtinguisherBluespace = extintor de bluespace
+    .desc = Um extintor experimental que usa tecnologia bluespace para recarregar gradualmente. O brilho azul fraco é apenas ligeiramente perturbador.
 
 # From: _DV/Entities/Objects/Misc/identification_cards.yml
 
-ent-CourierIDCard = mail carrier ID card
+ent-CourierIDCard = carteira de identificação de carteiro
 
 # From: _DV/Entities/Objects/Misc/mouth_storage.yml
 
-ent-CheekStorage = cheek storage
-    .desc = o cheeks de um animal, capable de storing pequeno objects.
+ent-CheekStorage = bochecho de armazenamento
+    .desc = As bochechas de um animal, capazes de armazenar pequenos objetos.
 
 # From: _DV/Entities/Objects/Misc/paper.yml
 
-ent-BoxReamBright = Papermoon happy color paper ream
-    .desc = fazer getting um pink slip um joyous occassion com Papermoon colored paper, em seis cheerful e vibrant colors. Dyed throughout para maximum colorfastness.
+ent-BoxReamBright = resma de papel colorido Papermoon
+    .desc = Torne o aviso prévio de demissão uma ocasião alegre com papel colorido Papermoon, em seis cores alegres e vibrantes. Tingido ao máximo para máxima fixação de cor.
 
-ent-BoxReamClassic = Papermoon classic color paper ream
-    .desc = Brighten up seu records e more com Papermoon colored paper, em o seis classic colors você've vir até saber e love. Dyed throughout para maximum colorfastness.
+ent-BoxReamClassic = resma de papel colorido clássico Papermoon
+    .desc = Ilumine seus registros e mais com papel colorido Papermoon, nas seis cores clássicas que você aprendeu a conhecer e amar. Tingido ao máximo para máxima fixação de cor.
 
-ent-PaperDyedBrown =
-    .suffix = brown
-    .desc = um piece de brown paper.
+ent-PaperDyedBrown
+    .suffix = marrom
+    .desc = Um pedaço de papel marrom.
 
-ent-PaperDyedGrass =
-    .suffix = grass
-    .desc = um piece de grass green paper.
+ent-PaperDyedGrass
+    .suffix = grama
+    .desc = Um pedaço de papel verde grama.
 
-ent-PaperDyedGreen =
-    .suffix = green
-    .desc = um piece de green paper.
+ent-PaperDyedGreen
+    .suffix = verde
+    .desc = Um pedaço de papel verde.
 
-ent-PaperDyedOcean =
-    .suffix = ocean
-    .desc = um piece de ocean blue paper.
+ent-PaperDyedOcean
+    .suffix = oceano
+    .desc = Um pedaço de papel azul oceano.
 
-ent-PaperDyedOrange =
-    .suffix = orange
-    .desc = um piece de orange paper.
+ent-PaperDyedOrange
+    .suffix = laranja
+    .desc = Um pedaço de papel laranja.
 
-ent-PaperDyedPink =
-    .suffix = pink
-    .desc = um piece de pink paper.
+ent-PaperDyedPink
+    .suffix = rosa
+    .desc = Um pedaço de papel rosa.
 
-ent-PaperDyedPurple =
-    .suffix = purple
-    .desc = um piece de purple paper.
+ent-PaperDyedPurple
+    .suffix = roxo
+    .desc = Um pedaço de papel roxo.
 
-ent-PaperDyedRed =
-    .suffix = red
-    .desc = um piece de red paper.
+ent-PaperDyedRed
+    .suffix = vermelho
+    .desc = Um pedaço de papel vermelho.
 
-ent-PaperDyedSky =
-    .suffix = sky
-    .desc = um piece de sky blue paper.
+ent-PaperDyedSky
+    .suffix = céu
+    .desc = Um pedaço de papel azul céu.
 
-ent-PaperDyedTan =
-    .suffix = tan
-    .desc = um piece de tan paper.
+ent-PaperDyedTan
+    .suffix = bege
+    .desc = Um pedaço de papel bege.
 
-ent-PaperDyedYellow =
-    .suffix = yellow
-    .desc = um piece de yellow paper.
+ent-PaperDyedYellow
+    .suffix = amarelo
+    .desc = Um pedaço de papel amarelo.
 
-ent-TapeRecorderTranscript = record transcript
+ent-TapeRecorderTranscript = transcrição de gravação
 
 # From: _DV/Entities/Objects/Misc/sticky_notes.yml
 
-ent-PaperStickyNote = sticky note
-    .suffix = yellow
-    .desc = um sticky note, para quando você querer seu reminders até stick
+ent-PaperStickyNote = nota adesiva
+    .suffix = amarelo
+    .desc = Uma nota adesiva, para quando você quer que seus lembretes grudem
 
 ent-PaperStickyNoteBlue =
     .suffix = blue
@@ -346,95 +346,95 @@ ent-PaperStickyNoteGreen =
 ent-PaperStickyNotePink =
     .suffix = pink
 
-ent-PaperStickyNoteStack = sticky note stack
-    .suffix = yellow
+ent-PaperStickyNoteStack = pilha de notas adesivas
+    .suffix = amarelo
 
-ent-PaperStickyNoteStackBlue = sticky note stack
-    .suffix = blue
+ent-PaperStickyNoteStackBlue = pilha de notas adesivas
+    .suffix = azul
 
-ent-PaperStickyNoteStackFilled = sticky note stack
-    .suffix = yellow, filled
+ent-PaperStickyNoteStackFilled = pilha de notas adesivas
+    .suffix = amarelo, cheio
 
-ent-PaperStickyNoteStackFilledBlue = sticky note stack
-    .suffix = blue, filled
+ent-PaperStickyNoteStackFilledBlue = pilha de notas adesivas
+    .suffix = azul, cheio
 
-ent-PaperStickyNoteStackFilledGreen = sticky note stack
-    .suffix = green, filled
+ent-PaperStickyNoteStackFilledGreen = pilha de notas adesivas
+    .suffix = verde, cheio
 
-ent-PaperStickyNoteStackFilledPink = sticky note stack
-    .suffix = pink, filled
+ent-PaperStickyNoteStackFilledPink = pilha de notas adesivas
+    .suffix = rosa, cheio
 
-ent-PaperStickyNoteStackGreen = sticky note stack
-    .suffix = green
+ent-PaperStickyNoteStackGreen = pilha de notas adesivas
+    .suffix = verde
 
-ent-PaperStickyNoteStackPink = sticky note stack
-    .suffix = pink
+ent-PaperStickyNoteStackPink = pilha de notas adesivas
+    .suffix = rosa
 
 # From: _DV/Entities/Objects/Specific/Hydroponics/plant_bag_holding.yml
 
-ent-PlantBagOfHolding = plant bag de holding
-    .desc = um robust bag de holding para fruitful botanists com more plants que pockets.
+ent-PlantBagOfHolding = bolsa de plantas de holding
+    .desc = Uma bolsa de holding robusta para botânicos frutíferos com mais plantas do que bolsos.
 
 # From: _DV/Entities/Objects/Specific/Justice/gavel.yml
 
-ent-Gavel = gavel
-    .desc = um hardwood mallet made até manter order em o court.
+ent-Gavel = martelo de juiz
+    .desc = Um martelo de madeira dura feito para manter a ordem no tribunal.
 
 # From: _DV/Entities/Objects/Specific/Justice/gavelblock.yml
 
-ent-GavelBlock = gavel Bloquear
-    .desc = um hardwood Bloquear aquele, quando hit com um gavel, emits um aura de authority.
+ent-GavelBlock = base de martelo
+    .desc = Um bloco de madeira dura que, quando atingido com um martelo, emite uma aura de autoridade.
 
 # From: _DV/Entities/Objects/Specific/Justice/trialtimer.yml
 
-ent-TrialTimer = trial timer
-    .desc = um fancy timer com um screen, designed até manter trials dentro de seu hora limit.
+ent-TrialTimer = cronômetro de julgamento
+    .desc = Um cronômetro sofisticado com tela, projetado para manter julgamentos dentro de seu limite de tempo.
 
 # From: _DV/Entities/Objects/Specific/Service/vending_machine_restock.yml
 
-ent-VendingMachineRestockPride = Pride-O-Mat restock box
-    .desc = o station needs more plushie sharks e você saber ele. um label reads \"o BOX é TAMPER-PROOF e irá destruir seu CONTENT em HARM.\"
+ent-VendingMachineRestockPride = caixa de reposição Orgulho-O-Mat
+    .desc = A estação precisa de mais tubarões de pelúcia e você sabe disso. Um rótulo diz "A CAIXA É À PROVA DE TAMPERO E DESTRUIRÁ SEU CONTEÚDO SE DANIFICADA."
 
 # From: _DV/Entities/Objects/Specific/Species/chitinid.yml
 
-ent-Chitzite = chitzite
-    .desc = um pequeno radioactive stone formed em o chest cavity de um radioactive chitinid, gross.... mas kinda pretty?
+ent-Chitzite = chitzita
+    .desc = Uma pequena pedra radioativa formada na cavidade torácica de um quitinídeo radioativo, nojento.... mas meio bonita?
 
 # From: _DV/Entities/Objects/Tools/lathe_upgrade_kits.yml
 
-ent-LatheUpgradeKitCryo = cryo-stabilizing upgrade kit
-    .desc = um upgrade kit com todos o parts needed até upgrade um lathe. isto um irá speed up production em o custar de freezing o area.
+ent-LatheUpgradeKitCryo = kit de atualização criogênica
+    .desc = Um kit de atualização com todas as peças necessárias para atualizar um torno. Este acelerará a produção ao custo de congelar a área.
 
-ent-LatheUpgradeKitHyper = hyper-convection upgrade kit
-    .desc = um upgrade kit com todos o parts needed até upgrade um lathe. isto um irá save materials em o custar de speed e producing heat.
+ent-LatheUpgradeKitHyper = kit de atualização hiper-convecção
+    .desc = Um kit de atualização com todas as peças necessárias para atualizar um torno. Este economizará materiais ao custo de velocidade e produção de calor.
 
 # From: _DV/Entities/Objects/Weapons/Bombs/plastic.yml
 
-ent-BreachingCharge = breaching charge
-    .desc = um breaching explosive para security officers até quebrar através de walls.
+ent-BreachingCharge = carga de arrombamento
+    .desc = Um explosivo de arrombamento para oficiais de segurança romperem paredes.
 
 # From: _DV/Entities/Objects/Weapons/Guns/Ammunition/Boxes/toy_guns.yml
 
-ent-BoxCartridgeBB = caixa de BBs
+ent-BoxCartridgeBB = caixa de chumbinhos
 
 # From: _DV/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml
 
 ent-WeaponCyborgEnergyGun = arma de energia ciborgue
-    .desc = Uma arma de energia híbrida básica com duas configurações: incapacitar e matar. Projetada para ciborgues. No cabo há uma etiqueta que diz 'para uso autorizado apenas'.
+    .desc = Uma arma de energia híbrida básica com duas configurações: desativar e matar. Projetada para ciborgues. No cabo há um rótulo que diz "somente para uso autorizado."
 
-ent-WeaponEnergyGun = energy gun
-    .desc = um basic hybrid energy gun com dois settings: disable e kill. em o handle é um label aquele says 'para authorized usar apenas.'
+ent-WeaponEnergyGun = arma de energia
+    .desc = Uma arma de energia híbrida básica com duas configurações: desativar e matar. No cabo há um rótulo que diz "somente para uso autorizado."
 
-ent-WeaponEnergyGunMultiphase = LWC X-01 multiphase energy gun
-    .desc = isto é um expensive, modern recreation de um antique laser gun. isto gun tem several unique firemodes, mas lacks o ability até recharge sobre hora em exchange para um larger battery. em o handle é um label aquele says 'para authorized usar apenas.'
+ent-WeaponEnergyGunMultiphase = arma de energia multifásica LWC X-01
+    .desc = Esta é uma recriação moderna cara de uma arma laser antiga. Esta arma possui vários modos de únicos, mas carece da capacidade de recarregar ao longo do tempo em troca de uma bateria maior. No cabo há um rótulo que diz "somente para uso autorizado."
 
 # From: _DV/Entities/Objects/Weapons/Guns/Pistols/pistols.yml
 
-ent-WeaponPistolMk32 = MA Mk32 \"Universal\" (9x19mm)
-    .desc = um cheap, civilian grade, ubiquitous sidearm, produced by Midnight Arms Co. enquanto ele shares similarities até o MK58, ele tem been fully improved upon de ele's Corporate War counterpart. Uses 9x19mm ammo.
+ent-WeaponPistolMk32 = MA Mk32 "Universal" (9x19mm)
+    .desc = Uma arma lateral barata, de grau civil, onipresente, produzida pela Midnight Arms Co. Embora compartilhe similaridades com o MK58, foi totalmente melhorada em relação à sua contraparte da Guerra Corporativa. Usa munição 9x19mm.
 
 ent-WeaponPistolPollock = LWC C17 Pollock (9x19mm)
-    .desc = um compact e mass-produced combat pistol. Uses 9x19mm ammo.
+    .desc = Uma pistola de combate compacta e produzida em massa. Usa munição 9x19mm.
 
 # From: _DV/Entities/Objects/Weapons/Guns/Projectiles/impacts.yml
 
@@ -468,35 +468,35 @@ ent-MuzzleFlashEffectTempHot =
 
 # From: _DV/Entities/Objects/Weapons/Guns/Projectiles/toy_projectiles.yml
 
-ent-BulletBB = BB
-    .desc = Don't shoot seu eye out.
+ent-BulletBB = chumbinho
+    .desc = Não atire no seu olho.
 
 # From: _DV/Entities/Objects/Weapons/Guns/Revolvers/revolvers.yml
 
-ent-WeaponRevolverFaith = Faith (.45 magnum)
-    .desc = Delivers blessings em bullet form. Uses .45 magnum ammo.
+ent-WeaponRevolverFaith = Fé (.45 magnum)
+    .desc = Entrega bênçãos em forma de bala. Usa munição .45 magnum.
 
 ent-WeaponRevolverFitz = Fitz Special (.45 magnum)
-    .desc = um compact e concealable self defence snub revolver. Uses .45 magnum ammo.
+    .desc = Um revólver cano-curto compacto e ocultável de defesa pessoal. Usa munição .45 magnum.
 
-ent-WeaponRevolverLucky = Lucky 37 (.45 magnum)
-    .desc = Luck sempre beats skill, ya weasel. Uses .45 magnum ammo.
+ent-WeaponRevolverLucky = Sorte 37 (.45 magnum)
+    .desc = A sorte sempre vence a habilidade, seu velhaco. Usa munição .45 magnum.
 
 # From: _DV/Entities/Objects/Weapons/Guns/Rifles/rifles.yml
 
 ent-WeaponRifleJackdaw = CS CAWS-25 Jackdaw (635x40mm)
-    .desc = o beginning de o terminar é heralded by o song de um Jackdaw. Uses 6.35x40mm Caseless ammo.
+    .desc = O começo do fim é anunciado pela canção de um Jackdaw. Usa munição 6.35x40mm sem estojo.
 
-ent-WeaponRifleVulcan = HWM FCM \"Vulcan\" (7.62x51mm)
-    .desc = um de o heaviest pequeno arms até grace Security's armory, o Herstal Weapon Manufacture FCM (Fusil de Combat Moyen) \"Vulcan\", isto rifle é um modern tomar em um classic, informally dubbed o \"direito braço de o Free World\". Uses 7.62x51mm ammo.
+ent-WeaponRifleVulcan = HWM FCM "Vulcan" (7.62x51mm)
+    .desc = Uma das armas pequenas mais pesadas a enriquecer o arsenal de Segurança, o Herstal Weapon Manufacture FCM (Fusil de Combat Moyen) "Vulcan", este rifle é uma versão moderna de um clássico, informalmente apelidado de "Braço Direito do Mundo Livre". Usa munição 7.62x51mm.
 
-ent-WeaponSniperCeremonial = ceremonial rifle (7.62x51mm)
-    .desc = um ceremonial variant de o Mark 1 Rifle, em tasteful blue e white. Uses 7.62x51mm ammo.
+ent-WeaponSniperCeremonial = rifle cerimonial (7.62x51mm)
+    .desc = Uma variante cerimonial do Rifle Mark 1, em azul e branco de bom gosto. Usa munição 7.62x51mm.
 
 # From: _DV/Entities/Objects/Weapons/Guns/SMGs/smgs.yml
 
-ent-WeaponSubMachineGunTypewriter = PA Typewriter (.45 ACP)
-    .desc = um modern tomar em o classic design used by mobsters throughout space e hora. Uses .45 ACP ammo.
+ent-WeaponSubMachineGunTypewriter = PA Máquina de Escrever (.45 ACP)
+    .desc = Uma versão moderna do design clássico usado por gangsteres pelo espaço e tempo. Usa munição .45 ACP.
 
 # From: _DV/Entities/Structures/Doors/Windoors/windoor.yml
 
@@ -508,18 +508,18 @@ ent-WindoorSecureMailLocked =
 
 # From: _DV/Entities/Structures/Storage/Crates/barrel.yml
 
-ent-WoodenBarrel = wooden barrel
-    .desc = um musty velho wooden barrel.
+ent-WoodenBarrel = barril de madeira
+    .desc = Um barril de madeira mofado e antigo.
 
-ent-WoodenKeg = wooden keg
-    .desc = um musty velho wooden keg, com um tap attached até o front.
+ent-WoodenKeg = barril de madeira
+    .desc = Um barril de madeira mofado e antigo, com uma torneira acoplada à frente.
 
-ent-WoodenKegBeer = beer keg
-    .desc = um musty velho wooden keg, com um tap attached até o front. Smells como beer.
+ent-WoodenKegBeer = barril de cerveja
+    .desc = Um barril de madeira mofado e antigo, com uma torneira acoplada à frente. Cheira a cerveja.
 
-ent-WoodenKegRootBeer = root beer keg
-    .desc = um musty velho wooden keg, com um tap attached até o front. Smells como root beer.
+ent-WoodenKegRootBeer = barril de root beer
+    .desc = Um barril de madeira mofado e antigo, com uma torneira acoplada à frente. Cheira a root beer.
 
-ent-WoodenKegWine = wine keg
-    .desc = um musty velho wooden keg, com um tap attached até o front. Smells como wine.
+ent-WoodenKegWine = barril de vinho
+    .desc = Um barril de madeira mofado e antigo, com uma torneira acoplada à frente. Cheira a vinho.
 

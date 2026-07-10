@@ -6,270 +6,270 @@
 
 # From: _RMC14/Entities/Structures/Wallmounts/Signs/semiotics.yml
 
-ent-CMSemioticAirlock = airlock semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um airlock.
+ent-CMSemioticAirlock = semiótico porta de acesso
+    .desc = Padrão Semiótico denotando a presença próxima de uma porta de acesso.
 
-ent-CMSemioticAirtraffictower = air traffic tower semiotic
-    .desc = Semiotic Standard denoting um air traffic tower nearby.
+ent-CMSemioticAirtraffictower = semiótico torre de tráfego aéreo
+    .desc = Padrão Semiótico denotando uma torre de tráfego aéreo próxima.
 
-ent-CMSemioticAmmunition = ammunition storage semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um ammunition storage.
+ent-CMSemioticAmmunition = semiótico armazenamento de munição
+    .desc = Padrão Semiótico denotando a presença próxima de armazenamento de munição.
 
-ent-CMSemioticAnalysis_lab = analysis laboratory semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um analysis laboratory.
+ent-CMSemioticAnalysis_lab = semiótico laboratório de análise
+    .desc = Padrão Semiótico denotando a presença próxima de um laboratório de análise.
 
-ent-CMSemioticAutodoc = autodoc semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um autodoc.
+ent-CMSemioticAutodoc = semiótico autodoc
+    .desc = Padrão Semiótico denotando a presença próxima de um autodoc.
 
-ent-CMSemioticAutoopenclose = automatic opener/closer semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um automatic shutoff valve.
+ent-CMSemioticAutoopenclose = semiótico abridor/fechador automático
+    .desc = Padrão Semiótico denotando a presença próxima de uma válvula de fechamento automático.
 
-ent-CMSemioticBathmens = men's bathroom semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um men's bathroom.
+ent-CMSemioticBathmens = semiótico banheiro masculino
+    .desc = Padrão Semiótico denotando a presença próxima de um banheiro masculino.
 
-ent-CMSemioticBathunisex = unisex bathroom semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um unisex bathroom.
+ent-CMSemioticBathunisex = semiótico banheiro unissex
+    .desc = Padrão Semiótico denotando a presença próxima de um banheiro unissex.
 
-ent-CMSemioticBathwomens = women's bathroom semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um women's bathroom.
+ent-CMSemioticBathwomens = semiótico banheiro feminino
+    .desc = Padrão Semiótico denotando a presença próxima de um banheiro feminino.
 
-ent-CMSemioticBiohazard = biohazard semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um biohazard.
+ent-CMSemioticBiohazard = semiótico biohazard
+    .desc = Padrão Semiótico denotando a presença próxima de um biohazard.
 
-ent-CMSemioticBiolab = biological laboratory semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um biological laboratory.
+ent-CMSemioticBiolab = semiótico laboratório biológico
+    .desc = Padrão Semiótico denotando a presença próxima de um laboratório biológico.
 
-ent-CMSemioticBridge = bridge semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um starship's bridge.
+ent-CMSemioticBridge = semiótico ponte
+    .desc = Padrão Semiótico denotando a presença próxima da ponte de uma nave estelar.
 
-ent-CMSemioticBulkhead_door = bulkhead door semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um bulkhead door.
+ent-CMSemioticBulkhead_door = semiótico porta de antepara
+    .desc = Padrão Semiótico denotando a presença próxima de uma porta de antepara.
 
-ent-CMSemioticChem_lab = chemical laboratory semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um chemical laboratory.
+ent-CMSemioticChem_lab = semiótico laboratório químico
+    .desc = Padrão Semiótico denotando a presença próxima de um laboratório químico.
 
-ent-CMSemioticCoffee = coffee semiotic
-    .desc = Semiotic Standard denoting o nearby presence de coffee: o lifeblood de algum starship crew.
+ent-CMSemioticCoffee = semiótico café
+    .desc = Padrão Semiótico denotando a presença próxima de café: o sangue vital de qualquer tripulação de nave estelar.
 
-ent-CMSemioticCommline_connection = point de connection para um communication line semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um comm line connection.
+ent-CMSemioticCommline_connection = semiótico ponto de conexão para linha de comunicação
+    .desc = Padrão Semiótico denotando a presença próxima de uma conexão de linha de comunicação.
 
-ent-CMSemioticConference_room = conference room semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um conference room.
+ent-CMSemioticConference_room = semiótico sala de conferência
+    .desc = Padrão Semiótico denotando a presença próxima de uma sala de conferência.
 
-ent-CMSemioticCryo = cryogenic vault semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um cryogenics vault.
+ent-CMSemioticCryo = semiótico cofre criogênico
+    .desc = Padrão Semiótico denotando a presença próxima de um cofre criogênico.
 
-ent-CMSemioticDebark_lounge = debarkation lounge semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um debarkation lounge.
+ent-CMSemioticDebark_lounge = semiótico sala de desembarque
+    .desc = Padrão Semiótico denotando a presença próxima de uma sala de desembarque.
 
-ent-CMSemioticDistribution_pipes = distribution pipes semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um distribution pipeline.
+ent-CMSemioticDistribution_pipes = semiótico tubos de distribuição
+    .desc = Padrão Semiótico denotando a presença próxima de um gasoduto de distribuição.
 
-ent-CMSemioticEast = East semiotic
-    .desc = Semiotic Standard denoting o nearby presence de algo até o East.
+ent-CMSemioticEast = semiótico Leste
+    .desc = Padrão Semiótico denotando a presença próxima de algo ao Leste.
 
-ent-CMSemioticEight = oito semiotic
-    .desc = Semiotic Standard denoting o number oito.
+ent-CMSemioticEight = semiótico oito
+    .desc = Padrão Semiótico denotando o número oito.
 
-ent-CMSemioticElectronics = astronic systems semiotic
-    .desc = Semiotic Standard denoting o nearby presence de astronic systems. aquele's um fancy maneira de saying electrical systems.
+ent-CMSemioticElectronics = semiótico sistemas astrônicos
+    .desc = Padrão Semiótico denotando a presença próxima de sistemas astrônicos. É uma forma chique de dizer sistemas elétricos.
 
-ent-CMSemioticElevator = elevator semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um elevator.
+ent-CMSemioticElevator = semiótico elevador
+    .desc = Padrão Semiótico denotando a presença próxima de um elevador.
 
-ent-CMSemioticEscapepod = escape pod semiotic
-    .desc = Semiotic Standard denoting um escape pod.
+ent-CMSemioticEscapepod = semiótico cápsula de escape
+    .desc = Padrão Semiótico denotando uma cápsula de escape.
 
-ent-CMSemioticExhaust = exhaust semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um engine ou generator exhaust.
+ent-CMSemioticExhaust = semiótico exaustão
+    .desc = Padrão Semiótico denotando a presença próxima de exaustão de motor ou gerador.
 
-ent-CMSemioticFibre_optics = photonics systems (fibre optics) semiotic
-    .desc = Semiotic Standard denoting o nearby presence de fibre optics lines.
+ent-CMSemioticFibre_optics = semiótico sistemas de fótons (fibra óptica)
+    .desc = Padrão Semiótico denotando a presença próxima de linhas de fibra óptica.
 
-ent-CMSemioticFire_haz = fire hazard semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um fire hazard.
+ent-CMSemioticFire_haz = semiótico perigo de incêndio
+    .desc = Padrão Semiótico denotando a presença próxima de um perigo de incêndio.
 
-ent-CMSemioticFiringrange = firing range semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um live ammunition firing range.
+ent-CMSemioticFiringrange = semiótico campo de tiro
+    .desc = Padrão Semiótico denotando a presença próxima de um campo de tiro com munição real.
 
-ent-CMSemioticFive = cinco semiotic
-    .desc = Semiotic Standard denoting o number cinco.
+ent-CMSemioticFive = semiótico cinco
+    .desc = Padrão Semiótico denotando o número cinco.
 
-ent-CMSemioticFlightcontrol = flight control semiotic
-    .desc = Semiotic Standard denoting um area used by ou para flight control systems.
+ent-CMSemioticFlightcontrol = semiótico controle de voo
+    .desc = Padrão Semiótico denotando uma área usada por ou para sistemas de controle de voo.
 
-ent-CMSemioticFood_storage = organic storage (foodstuffs) semiotic
-    .desc = Semiotic Standard denoting o nearby presence de unrefrigerated food storage.
+ent-CMSemioticFood_storage = semiótico armazenamento orgânico (alimentos)
+    .desc = Padrão Semiótico denotando a presença próxima de armazenamento de alimentos não refrigerados.
 
-ent-CMSemioticFour = quatro semiótico
+ent-CMSemioticFour = semiótico quatro
     .desc = Padrão Semiótico denotando o número quatro.
 
-ent-CMSemioticFridge = refrigerated storage (organic foodstuffs) semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um fridge.
+ent-CMSemioticFridge = semiótico armazenamento refrigerado (alimentos orgânicos)
+    .desc = Padrão Semiótico denotando a presença próxima de uma geladeira.
 
-ent-CMSemioticGalley = galley semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um galley.
+ent-CMSemioticGalley = semiótico galley
+    .desc = Padrão Semiótico denotando a presença próxima de uma galley.
 
-ent-CMSemioticHazard = hazard semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um hazard. assistir out!
+ent-CMSemioticHazard = semiótico perigo
+    .desc = Padrão Semiótico denotando a presença próxima de um perigo. Cuidado!
 
-ent-CMSemioticHigh_rad = alto radioactivity semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um highly radioactive area.
+ent-CMSemioticHigh_rad = semiótico alta radioatividade
+    .desc = Padrão Semiótico denotando a presença próxima de uma área altamente radioativa.
 
-ent-CMSemioticHigh_voltage = alto voltage semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um alto voltage electrical current.
+ent-CMSemioticHigh_voltage = semiótico alta voltagem
+    .desc = Padrão Semiótico denotando a presença próxima de uma corrente elétrica de alta voltagem.
 
-ent-CMSemioticHvac = HVAC semiotic
-    .desc = Semiotic Standard denoting o nearby presence de...um HVAC system. isto sign deve ter been updated até o novo standard.
+ent-CMSemioticHvac = semiótico HVAC
+    .desc = Padrão Semiótico denotando a presença próxima de...um sistema HVAC. Esta placa deve ter sido atualizada para o novo padrão.
 
-ent-CMSemioticHvac_old = HVAC semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um HVAC system. isto sign é ainda using o velho standard.
+ent-CMSemioticHvac_old = semiótico HVAC
+    .desc = Padrão Semiótico denotando a presença próxima de um sistema HVAC. Esta placa ainda está usando o padrão antigo.
 
-ent-CMSemioticIntercom = intercom semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um intercom.
+ent-CMSemioticIntercom = semiótico interfone
+    .desc = Padrão Semiótico denotando a presença próxima de um interfone.
 
-ent-CMSemioticLadder = ladder semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um ladder.
+ent-CMSemioticLadder = semiótico escada
+    .desc = Padrão Semiótico denotando a presença próxima de uma escada.
 
-ent-CMSemioticLandingzone = landing zone semiotic
-    .desc = Semiotic Standard denoting o presecense de um landing zone nearby.
+ent-CMSemioticLandingzone = semiótico zona de pouso
+    .desc = Padrão Semiótico denotando a presença de uma zona de pouso próxima.
 
-ent-CMSemioticLaser = laser semiotic
-    .desc = Semiotic Standard denoting o nearby presence de lasers. ele's geralmente não como fresco como ele sounds.
+ent-CMSemioticLaser = semiótico laser
+    .desc = Padrão Semiótico denotando a presença próxima de lasers. Geralmente não é tão legal quanto parece.
 
-ent-CMSemioticLife_support = life support system semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um life support system.
+ent-CMSemioticLife_support = semiótico sistema de suporte à vida
+    .desc = Padrão Semiótico denotando a presença próxima de um sistema de suporte à vida.
 
-ent-CMSemioticLuggageclaim = luggage claim semiotic
-    .desc = Semiotic Standard denoting o presecense de um luggage claim area nearby.
+ent-CMSemioticLuggageclaim = semiótico esteira de bagagens
+    .desc = Padrão Semiótico denotando a presença de uma área de esteira de bagagens próxima.
 
-ent-CMSemioticMaint = maintenace semiotic
-    .desc = Semiotic Standard denoting o nearby presence de maintenance acesso.
+ent-CMSemioticMaint = semiótico manutenção
+    .desc = Padrão Semiótico denotando a presença próxima de acesso de manutenção.
 
-ent-CMSemioticManualopenclose = manual opener/closer semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um manual shutoff valve.
+ent-CMSemioticManualopenclose = semiótico abridor/fechador manual
+    .desc = Padrão Semiótico denotando a presença próxima de uma válvula de fechamento manual.
 
-ent-CMSemioticMed_cryo = medical cryostasis vault semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um medical cryostasis vault.
+ent-CMSemioticMed_cryo = semiótico cofre de criostase médica
+    .desc = Padrão Semiótico denotando a presença próxima de um cofre de criostase médica.
 
-ent-CMSemioticMed_life_support = medical life support semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um life support system para um medbay.
+ent-CMSemioticMed_life_support = semiótico suporte à vida médico
+    .desc = Padrão Semiótico denotando a presença próxima de um sistema de suporte à vida para uma enfermaria.
 
-ent-CMSemioticMedical = medical semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um medbay.
+ent-CMSemioticMedical = semiótico médico
+    .desc = Padrão Semiótico denotando a presença próxima de uma enfermaria.
 
-ent-CMSemioticNine = nove semiotic
-    .desc = Semiotic Standard denoting o number nove.
+ent-CMSemioticNine = semiótico nove
+    .desc = Padrão Semiótico denotando o número nove.
 
-ent-CMSemioticNonpress = non-pressurized area beyond semiotic
-    .desc = Semiotic Standard denoting aquele o area beyond isn't pressurized.
+ent-CMSemioticNonpress = semiótico área não pressurizada além
+    .desc = Padrão Semiótico denotando que a área além não é pressurizada.
 
-ent-CMSemioticNonpress_0g = non-pressurized area, não gravity, suit required semiotic
-    .desc = Semiotic Standard denoting aquele o area beyond isn't pressurized e tem não artificial gravity.
+ent-CMSemioticNonpress_0g = semiótico área não pressurizada, sem gravidade, roupa requerida
+    .desc = Padrão Semiótico denotando que a área além não é pressurizada e não tem gravidade artificial.
 
-ent-CMSemioticNonpress_ag = artificial gravity area, non-pressurized, suit required semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um area com artificial gravity lacking em pressurization.
+ent-CMSemioticNonpress_ag = semiótico área de gravidade artificial, não pressurizada, roupa requerida
+    .desc = Padrão Semiótico denotando a presença próxima de uma área com gravidade artificial sem pressurização.
 
-ent-CMSemioticNorth = North semiotic
-    .desc = Semiotic Standard denoting o nearby presence de algo até o North.
+ent-CMSemioticNorth = semiótico Norte
+    .desc = Padrão Semiótico denotando a presença próxima de algo ao Norte.
 
-ent-CMSemioticOne = um semiotic
-    .desc = Semiotic Standard denoting o number um.
+ent-CMSemioticOne = semiótico um
+    .desc = Padrão Semiótico denotando o número um.
 
-ent-CMSemioticOpens_up = opens upwards semiotic
-    .desc = Semiotic Standard denoting o nearby door opens upwards.
+ent-CMSemioticOpens_up = semiótico abre para cima
+    .desc = Padrão Semiótico denotando que a porta próxima abre para cima.
 
-ent-CMSemioticOutpatient = outpatient clinic semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um outpatient clinic.
+ent-CMSemioticOutpatient = semiótico clínica ambulatorial
+    .desc = Padrão Semiótico denotando a presença próxima de uma clínica ambulatorial.
 
-ent-CMSemioticPress_area = pressurized area semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um pressurized area.
+ent-CMSemioticPress_area = semiótico área pressurizada
+    .desc = Padrão Semiótico denotando a presença próxima de uma área pressurizada.
 
-ent-CMSemioticPress_area_ag = pressurized com artificial gravity semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um pressurized area sem artificial gravity.
+ent-CMSemioticPress_area_ag = semiótico pressurizado com gravidade artificial
+    .desc = Padrão Semiótico denotando a presença próxima de uma área pressurizada sem gravidade artificial.
 
-ent-CMSemioticRad_haz = radiation hazard semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um radiation hazard.
+ent-CMSemioticRad_haz = semiótico perigo de radiação
+    .desc = Padrão Semiótico denotando a presença próxima de um perigo de radiação.
 
-ent-CMSemioticRad_shield = area shielded de radiation semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um area shielded de radiation.
+ent-CMSemioticRad_shield = semiótico área blindada de radiação
+    .desc = Padrão Semiótico denotando a presença próxima de uma área blindada de radiação.
 
-ent-CMSemioticRadio_rad = radiation de radio waves semiotic
-    .desc = Semiotic Standard denoting o nearby presence de radiation de um radio tower.
+ent-CMSemioticRadio_rad = semiótico radiação de ondas de rádio
+    .desc = Padrão Semiótico denotando a presença próxima de radiação de uma torre de rádio.
 
-ent-CMSemioticReception = reception semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um reception area.
+ent-CMSemioticReception = semiótico recepção
+    .desc = Padrão Semiótico denotando a presença próxima de uma área de recepção.
 
-ent-CMSemioticReduction = reduction dilation de area semiotic
-    .desc = Semiotic Standard denoting aquele o area gets smaller ahead.
+ent-CMSemioticReduction = semiótico dilatação de redução de área
+    .desc = Padrão Semiótico denotando que a área fica menor à frente.
 
-ent-CMSemioticRef_bio_storage = refrigerated biological storage semiotic
-    .desc = Semiotic Standard denoting o nearby presence de refrigerated biological storage.
+ent-CMSemioticRef_bio_storage = semiótico armazenamento biológico refrigerado
+    .desc = Padrão Semiótico denotando a presença próxima de armazenamento biológico refrigerado.
 
-ent-CMSemioticRef_chem_storage = refrigerated chemical storage semiotic
-    .desc = Semiotic Standard denoting o nearby presence de refrigerated chemical storage.
+ent-CMSemioticRef_chem_storage = semiótico armazenamento químico refrigerado
+    .desc = Padrão Semiótico denotando a presença próxima de armazenamento químico refrigerado.
 
-ent-CMSemioticRefridgeration = refrigeration semiotic
-    .desc = Semiotic Standard denoting o nearby presence de non-food refrigeration.
+ent-CMSemioticRefridgeration = semiótico refrigeração
+    .desc = Padrão Semiótico denotando a presença próxima de refrigeração não alimentar.
 
-ent-CMSemioticRestrictedarea = restricted area semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um restricted area.
+ent-CMSemioticRestrictedarea = semiótico área restrita
+    .desc = Padrão Semiótico denotando a presença próxima de uma área restrita.
 
-ent-CMSemioticRewire = rewire system semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um rewire system.
+ent-CMSemioticRewire = semiótico sistema de rewire
+    .desc = Padrão Semiótico denotando a presença próxima de um sistema de rewire.
 
-ent-CMSemioticSecurity = security semiotic
-    .desc = Semiotic Standard denoting o nearby presence de law enforcement ou um security force.
+ent-CMSemioticSecurity = semiótico segurança
+    .desc = Padrão Semiótico denotando a presença próxima de aplicação da lei ou uma força de segurança.
 
-ent-CMSemioticSeven = sete semiotic
-    .desc = Semiotic Standard denoting o number sete.
+ent-CMSemioticSeven = semiótico sete
+    .desc = Padrão Semiótico denotando o número sete.
 
-ent-CMSemioticSilicon_storage = silicon storage semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um silicon unit storage room.
+ent-CMSemioticSilicon_storage = semiótico armazenamento de silício
+    .desc = Padrão Semiótico denotando a presença próxima de uma sala de armazenamento de unidade de silício.
 
-ent-CMSemioticSix = seis semiotic
-    .desc = Semiotic Standard denoting o number seis.
+ent-CMSemioticSix = semiótico seis
+    .desc = Padrão Semiótico denotando o número seis.
 
-ent-CMSemioticSouth = South semiotic
-    .desc = Semiotic Standard denoting o nearby presence de algo até o South.
+ent-CMSemioticSouth = semiótico Sul
+    .desc = Padrão Semiótico denotando a presença próxima de algo ao Sul.
 
-ent-CMSemioticStairs = stairs semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um staircase.
+ent-CMSemioticStairs = semiótico escadas
+    .desc = Padrão Semiótico denotando a presença próxima de uma escadaria.
 
-ent-CMSemioticStorage = storage semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um general seco storage room.
+ent-CMSemioticStorage = semiótico armazenamento
+    .desc = Padrão Semiótico denotando a presença próxima de uma sala de armazenamento seco geral.
 
-ent-CMSemioticSuit_storage = pressure suit locker semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um pressure suit storage locker.
+ent-CMSemioticSuit_storage = semiótico armário de roupa pressurizada
+    .desc = Padrão Semiótico denotando a presença próxima de um armário de armazenamento de roupa pressurizada.
 
-ent-CMSemioticTerminal = computer terminal semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um computer terminal.
+ent-CMSemioticTerminal = semiótico terminal de computador
+    .desc = Padrão Semiótico denotando a presença próxima de um terminal de computador.
 
-ent-CMSemioticThree = três semiotic
-    .desc = Semiotic Standard denoting o number três.
+ent-CMSemioticThree = semiótico três
+    .desc = Padrão Semiótico denotando o número três.
 
-ent-CMSemioticTram = tram line semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um tram line.
+ent-CMSemioticTram = semiótico linha de bonde
+    .desc = Padrão Semiótico denotando a presença próxima de uma linha de bonde.
 
-ent-CMSemioticTwilight_zone_terminator = twilight zone terminator semiotic
-    .desc = Semiotic Standard denoting o nearby presence de um twilight zone terminator. ele's maneira less fresco que ele sounds.
+ent-CMSemioticTwilight_zone_terminator = semiótico terminador zona crepuscular
+    .desc = Padrão Semiótico denotando a presença próxima de um terminador de zona crepuscular. É muito menos legal do que parece.
 
-ent-CMSemioticTwo = dois semiotic
-    .desc = Semiotic Standard denoting o number dois.
+ent-CMSemioticTwo = semiótico dois
+    .desc = Padrão Semiótico denotando o número dois.
 
-ent-CMSemioticWater = water semiotic
-    .desc = Semiotic Standard denoting o nearby presence de water.
+ent-CMSemioticWater = semiótico água
+    .desc = Padrão Semiótico denotando a presença próxima de água.
 
-ent-CMSemioticWaterhazard = water hazard semiotic
-    .desc = Semiotic Standard denoting um water hazard. manter electronics away.
+ent-CMSemioticWaterhazard = semiótico perigo de água
+    .desc = Padrão Semiótico denotando um perigo de água. Mantenha eletrônicos longe.
 
-ent-CMSemioticWest = West semiotic
-    .desc = Semiotic Standard denoting o nearby presence de algo até o West.
+ent-CMSemioticWest = semiótico Oeste
+    .desc = Padrão Semiótico denotando a presença próxima de algo ao Oeste.
 
-ent-CMSemioticZero = zero semiotic
-    .desc = Semiotic Standard denoting o number zero.
+ent-CMSemioticZero = semiótico zero
+    .desc = Padrão Semiótico denotando o número zero.
 
-ent-CMSemioticZero_g = artificial gravity absent semiotic
-    .desc = Semiotic Standard denoting o nearby lack de artificial gravity.
+ent-CMSemioticZero_g = semiótico ausência de gravidade artificial
+    .desc = Padrão Semiótico denotando a falta próxima de gravidade artificial.
 
