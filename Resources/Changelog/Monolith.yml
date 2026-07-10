@@ -22369,3 +22369,12 @@ Entries:
   id: 2472
   time: '2026-07-10T19:18:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4223
+- author: EldritchPineapple
+  changes:
+    - type: Tweak
+      message: >-
+        the Shiv ad Hoplite have received a fresh coat of paint (the rust still
+        shows on the Shiv)
+  id: 2473
+  time: '2026-07-10T19:18:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4222
