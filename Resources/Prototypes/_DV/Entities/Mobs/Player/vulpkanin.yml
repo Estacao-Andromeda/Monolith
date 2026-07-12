@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Enzo Cachorro da Silva # Andromeda - teste watchdog
+  name: Urist McVulpkanin
   parent: BaseMobVulpkanin
   id: MobVulpkanin
   components:
