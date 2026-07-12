@@ -1,1 +1,1 @@
-candle-extinguish-failed =o chama flickers, mas isto doesn't ir fora
+candle-extinguish-failed = A chama treme, mas não apaga.

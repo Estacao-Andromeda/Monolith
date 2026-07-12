@@ -4,7 +4,7 @@ expendable-light-spent-flare-name = sinalizador usado
 expendable-light-spent-flare-desc = Parece que este sinalizador se apagou. Que pena.
 
 expendable-light-burnt-torch-name = tocha queimada
-expendable-light-burnt-torch-desc = Parece que esta tocha se apagou. Que pena.
+expendable-light-burnt-torch-desc = Parece que essa tocha se apagou. Que pena.
 
 expendable-light-spent-green-glowstick-name = bastão luminoso verde usado
 expendable-light-spent-red-glowstick-name = bastão luminoso vermelho usado

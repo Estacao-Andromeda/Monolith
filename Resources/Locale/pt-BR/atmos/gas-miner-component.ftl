@@ -1,6 +1,6 @@
 gas-miner-mines-text = Extrai [color=lightgray]{$gas}[/color] quando ativo.
 
-gas-miner-amount-text =isto mines {$moles} moles de gás um segundo quando active.
+gas-miner-amount-text =isso mines {$moles} moles de gás um segundo quando active.
 gas-miner-temperature-text = Temp do gás extraído: {$tempK}K ({$tempC}°C).
 
 gas-miner-moles-cutoff-text = Limite de mols ao redor: {$moles} mols.

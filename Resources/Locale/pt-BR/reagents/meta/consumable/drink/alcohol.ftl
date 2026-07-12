@@ -200,7 +200,7 @@ reagent-name-moonshine = moonshine
 reagent-desc-moonshine = Licor artesanal caseiro. O que poderia dar errado?
 
 reagent-name-neurotoxin = neurotoxina
-reagent-desc-neurotoxin = Uma forte neurotoxina que coloca o sujeito num estado semelhante à morte.
+reagent-desc-neurotoxin = Uma forte neurotoxina que coloca o sujeito em um estado semelhante à morte.
 
 reagent-name-painkiller = analgésico
 reagent-desc-painkiller = Uma cura para o que te aflige.

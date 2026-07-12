@@ -16,5 +16,5 @@ wieldable-component-not-enough-free-hands= {$number ->
 }
 wieldable-component-not-in-hands= { CAPITALIZE(THE($item)) } não está nas suas mãos!
 wieldable-component-requires= { CAPITALIZE(THE($item)) } deve ser empunhado!
-gunwieldbonus-component-examine= Esta arma tem precisão melhorada quando empunhada.
-gunrequireswield-component-examine= Esta arma só pode ser disparada quando empunhada.
+gunwieldbonus-component-examine= Essa arma tem precisão melhorada quando empunhada.
+gunrequireswield-component-examine= Essa arma só pode ser disparada quando empunhada.

@@ -81,7 +81,7 @@ command-description-mind-get =
 command-description-mind-control =
     Assume controle de uma entidade com o jogador dado.
 command-description-addaccesslog =
-    Adiciona um log de acesso a esta entidade. Note que isso ignora o limite padrão do log e verificação de pausa.
+    Adiciona um log de acesso a essa entidade. Note que isso ignora o limite padrão do log e verificação de pausa.
 command-description-stationevent-simulate =
     Dado um protótipo BasicStationEventScheduler, N Rounds, N Jogadores, média de fim de round, e desvio padrão de fim de round, Simula N número de rounds em que eventos ocorrerão e imprime as ocorrências de cada evento depois.
 command-description-xenoartifact-list =

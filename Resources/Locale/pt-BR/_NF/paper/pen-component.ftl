@@ -1,12 +1,12 @@
-## Modes
+## Modos
 
 pen-mode-write = Escrever
 pen-mode-sign = Assinar
 
 ## Popups
-pen-mode-state = The caneta pronto to {$mode}
+pen-mode-state = A caneta está pronta para {$mode}
 
-## Examine
+## Examinar
 
-pen-examine-write = The caneta pronto to [color=darkgreen]write[/color].
-pen-examine-sign = The caneta pronto to [color=darkred]sign[/color].
+pen-examine-write = A caneta está pronta para [color=darkgreen]escrever[/color].
+pen-examine-sign = A caneta está pronta para [color=darkred]assinar[/color].

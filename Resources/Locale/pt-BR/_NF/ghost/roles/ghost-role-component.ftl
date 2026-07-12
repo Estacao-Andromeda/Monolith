@@ -58,7 +58,7 @@ ghost-role-information-aberrant-flesh-horror-dungeon-name = Horror de Carne Aber
 ghost-role-information-aberrant-flesh-horror-dungeon-description = Defenda a masmorra de expedição com outras monstruosidades de carne!
 
 ghost-role-information-explorer-captain-dungeon-name = Capitão Explorador
-ghost-role-information-explorer-captain-dungeon-description = Você chegou a esta instalação primeiro! Defenda a masmorra de expedição e seu saque com outros exploradores!
+ghost-role-information-explorer-captain-dungeon-description = Você chegou a essa instalação primeiro! Defenda a masmorra de expedição e seu saque com outros exploradores!
 
 ghost-role-information-punk-boss-dungeon-name = Líder de Gangue Punk
 ghost-role-information-punk-boss-dungeon-description = Defenda a masmorra de expedição e seu saque com outros punks das praças da NT!

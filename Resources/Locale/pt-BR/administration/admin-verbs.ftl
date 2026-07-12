@@ -15,6 +15,6 @@ admin-verbs-erase-description = Remove o jogador da rodada e do manifesto da tri
     Seus itens são jogados no chão.
     Jogadores recebem um popup indicando para jogarem como se nunca tivessem existido.
 toolshed-verb-mark = Marcar
-toolshed-verb-mark-description = Coloca esta entidade na variável $marked, uma lista de entidades, substituindo seu valor anterior.
+toolshed-verb-mark-description = Coloca essa entidade na variável $marked, uma lista de entidades, substituindo seu valor anterior.
 
 export-entity-verb-get-data-text = Exportar sprite

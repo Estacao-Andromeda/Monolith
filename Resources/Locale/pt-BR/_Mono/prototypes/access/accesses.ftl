@@ -1,7 +1,7 @@
 id-card-access-level-ussp = USSP
 id-card-access-level-ussp-high = USSP Seguro
 id-card-access-level-ussp-command = Comando USSP
-id-card-access-level-ussp-debug = FAÇA UMA ISSUE NO GITHUB SE VOCÊ VIR ISTO
+id-card-access-level-ussp-debug = FAÇA UMA ISSUE NO GITHUB SE VOCÊ VIR ISSO
 
 id-card-access-level-voucher = IGNORE, CÓDIGO RUIM DE VOUCHER
 

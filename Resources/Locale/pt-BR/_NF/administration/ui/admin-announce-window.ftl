@@ -1,1 +1,1 @@
-admin-announce-type-antag = antagonista
+admin-announce-type-antag = Antag

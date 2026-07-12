@@ -1,5 +1,5 @@
-# HEAD
-marking-LizardHeadGuilmon= Lagarto, guilmon
+# CABEÇA
+marking-LizardHeadGuilmon= Lagarto, Guilmon
 marking-LizardHeadGuilmon-guilmon = Principal
 
 marking-LizardShoutEasternDragon= Lagarto, dragão oriental
@@ -33,8 +33,8 @@ marking-LizardHornsDouble-horns_double_r = Chifres direitos
 marking-LizardHornsArgali-horns_argali_l = Chifre esquerdo
 marking-LizardHornsArgali-horns_argali_r = Chifre direito
 
-marking-LizardHornsAyrshire-horns_ayrshire_l = Chifre Esquerdo
-marking-LizardHornsAyrshire-horns_ayrshire_r = Chifre Direito
+marking-LizardHornsAyrshire-horns_ayrshire_l = Chifre esquerdo
+marking-LizardHornsAyrshire-horns_ayrshire_r = Chifre direito
 
 marking-LizardHornsMyrsore-horns_myrsore_l = Chifre esquerdo
 marking-LizardHornsMyrsore-horns_myrsore_r = Chifre direito
@@ -42,26 +42,26 @@ marking-LizardHornsMyrsore-horns_myrsore_r = Chifre direito
 marking-LizardHornsBighorn-horns_bighorn_l = Chifre esquerdo
 marking-LizardHornsBighorn-horns_bighorn_r = Chifre direito
 
-# TAILS
+# CAUDAS
 marking-SnakeLargeTail = Lagarto, cauda de cobra grande
-marking-SnakeLargeTail-tail_snakelarge = Interna
-marking-SnakeLargeTail-tail_snakelarge_overlay = Externa
+marking-SnakeLargeTail-tail_snakelarge = Interno
+marking-SnakeLargeTail-tail_snakelarge_overlay = Externo
 
-# SPINES
+# ESPINHOS
 marking-LizardChestSpinesAquatic = Lagarto, peito, espinhos (Aquático)
 marking-LizardChestSpinesAquatic-spines_aquatic = Espinhos
 marking-LizardChestSpinesAquaticWithoutTail = Lagarto, peito, espinhos (Aquático, sem cauda)
 marking-LizardChestSpinesAquaticWithoutTail-spines_aquatic = Espinhos
 
-marking-LizardChestSpinesLong = Lagarto, peito, espinhos (Longos)
+marking-LizardChestSpinesLong = Lagarto, peito, espinhos (Longo)
 marking-LizardChestSpinesLong-spines_long = Espinhos
-marking-LizardChestSpinesLongWithoutTail = Lagarto, peito, espinhos (Longos, sem cauda)
+marking-LizardChestSpinesLongWithoutTail = Lagarto, peito, espinhos (Longo, sem cauda)
 marking-LizardChestSpinesLongWithoutTail-spines_long = Espinhos
 
-marking-LizardChestSpinesLongMembrane = Lagarto, peito, espinhos (Longos, Membrana)
-marking-LizardChestSpinesLongMembrane-spines_longmembrane = Espinhos
-marking-LizardChestSpinesLongMembraneWithoutTail = Lagarto, peito, espinhos (Longos, Membrana, sem cauda)
-marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = Espinhos
+marking-LizardChestSpinesLongMembrane = Lagarto, peito, espinhos (Longo, Membrana)
+marking-LizardChestSpinesLongMembrane-spines_longmembrane = espinhos
+marking-LizardChestSpinesLongMembraneWithoutTail = Lagarto, peito, espinhos (Longo, Membrana, sem cauda)
+marking-LizardChestSpinesLongMembraneWithoutTail-spines_longmembrane = espinhos
 
 marking-LizardChestSpinesShort = Lagarto, peito, espinhos (Curto)
 marking-LizardChestSpinesShort-spines_short = Espinhos

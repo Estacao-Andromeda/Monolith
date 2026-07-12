@@ -45,7 +45,7 @@ trait-voracious-name = Voraz
 trait-voracious-desc = Nada se coloca entre você e sua comida. Seu consumo interminável de comida e bebidas é duas vezes mais rápido.
 
 trait-bionic-spinarette-name = Espinhar Biônico
-trait-bionic-spinarette-desc = Este órgão cultivado em tanque — marcado e patenteado pela Quark Corporation — é comercializado como uma melhoria altamente utilitária, e vendido em clínicas em todo o espaço conhecido. Consiste num módulo que é tradicionalmente implantado logo abaixo do pulso, que absorve lipídios corporais para converter em seda totalmente natural. Uma pequena abertura na palma permite ao usuário 'fiar' este fio.
+trait-bionic-spinarette-desc = Este órgão cultivado em tanque — marcado e patenteado pela Quark Corporation — é comercializado como uma melhoria altamente utilitária, e vendido em clínicas em todo o espaço conhecido. Consiste em um módulo que é tradicionalmente implantado logo abaixo do pulso, que absorve lipídios corporais para converter em seda totalmente natural. Uma pequena abertura na palma permite ao usuário 'fiar' este fio.
 
 trait-feeble-name = Fraco
 trait-feeble-desc = Seu corpo responde mal a lesões, fazendo o dano afetar seu movimento mais severamente. Para a maioria das espécies, este traço faz você se mover 30% mais lento a 45 de dano, e 54% mais lento a 65 de dano.

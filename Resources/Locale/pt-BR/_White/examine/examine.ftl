@@ -18,12 +18,12 @@ gloves-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nas mãos
 belt-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] que {SUBJECT($ent)} está vestindo.
 shoes-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] nos pés de {POSS-ADJ($ent)}.
 
-id-card-examine-full = • ID de {CAPITALIZE(POSS-ADJ($wearer))}: [bold]{$nameAndJob}[/bold].
+id-card-examine-full = • Identidade de {CAPITALIZE(POSS-ADJ($wearer))}: [bold]{$nameAndJob}[/bold].
 
 # Selfaware version
 
 examine-name-selfaware = Este é você, [bold]{$name}[/bold]!
-examine-can-see-selfaware = Olhando para você mesmo, você pode ver:
+examine-can-see-selfaware = Olhando para si mesmo, você pode ver:
 examine-can-see-nothing-selfaware = Você está completamente nu!
 
 id-examine-selfaware = • Seu [bold]{$item}[/bold] no seu cinto.
@@ -43,6 +43,6 @@ shoes-examine-selfaware = • Seu [bold]{$item}[/bold] nos seus pés.
 # Selfaware examine
 
 comp-hands-examine-empty-selfaware = Você não está segurando nada.
-comp-hands-examine-selfaware = Você está segurando {$items}.
+comp-hands-examine-selfaware = Você está segurando { $items }.
 
-humanoid-appearance-component-examine-selfaware = Você é {INDEFINITE($age)} {$age} {$species}.
+humanoid-appearance-component-examine-selfaware = Você é { INDEFINITE($age) } { $age } { $species }.

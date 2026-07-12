@@ -13,6 +13,7 @@ ent-CardDeckBase = baralho de cartas
 ent-CardHandBase = mão de cartas
 
 # Abstract entity (referenceable by children)
+
 ent-CardStackBase = pilha de cartas
 
 # From: _EstacaoPirata/Entities/Objects/Misc/black_cards.yml
@@ -38,3 +39,4 @@ ent-CardBaseSyndicate = {$ent-CardBase}
 ent-CardBoxSyndicate = {ent-CardBoxBase} do Sindicato
 
 ent-CardDeckSyndicate = {ent-CardDeckBase}
+

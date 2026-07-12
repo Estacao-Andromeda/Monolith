@@ -30,6 +30,7 @@ ent-LeftHandIPC = mão esquerda de IPC
 ent-LeftLegIPC = perna esquerda de IPC
 
 # Abstract entity (referenceable by children)
+
 ent-PartIPCBase = parte do corpo de IPC
 
 ent-RightArmIPC = braço direito de IPC
@@ -163,6 +164,7 @@ ent-AdvancedGalaticCommonTranslatorImplanter = implantador de tradutor comum ava
 ent-AzazibaTranslatorImplanter = implante tradutor de azaziba
 
 # Abstract entity (referenceable by children)
+
 ent-BaseTranslatorImplanter = implante de tradutor básico
 
 ent-BasicGalaticCommonTranslatorImplanter = implante de tradutor comum básico
@@ -193,5 +195,6 @@ ent-SolCommonTranslatorImplanter = implante tradutor sol-comum
 
 ent-ValyrianStandardTranslatorImplanter = implante tradutor valiriano padrão
 
-ent-Translator = { ent-TranslatorUnpowered }
+ent-Translator = {ent-TranslatorUnpowered}
     .suffix = Carregado
+

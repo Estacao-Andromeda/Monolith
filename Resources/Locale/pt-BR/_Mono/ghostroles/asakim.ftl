@@ -8,7 +8,7 @@ ghost-role-information-asakim-rules = Você é um [color=#05e6ff][bold]Asakim[/b
                                              3. Proteja a região contra facções hostis. (TSF, PDV, Chimera)
                                              4. Confisque tecnologia pré-fratura. (Discos de Dados, Armamentos, Escudos MS-250/MS-500, etc)
 
-                                             Ler o guia [color=red][bold]é esperado para esta função[/bold][/color].
+                                             Ler o guia [color=red][bold]é esperado para essa função[/bold][/color].
                                              Você não se lembra de nenhuma de suas vidas anteriores, e não se lembra de nada que aprendeu como fantasma.
                                              Você tem permissão para se lembrar de conhecimentos gerais sobre o jogo, como cozinhar, usar objetos, etc.
                                              Você é absolutamente [color=red]NÃO[/color] permitido lembrar o nome, aparência, etc. de seu personagem anterior.

@@ -1,7 +1,7 @@
 ## Entity
 
 reagent-dispenser-component-activate-no-hands = Você não tem mãos.
-reagent-dispenser-component-cannot-put-entity-message = Você não pode colocar isto no dispensador!
+reagent-dispenser-component-cannot-put-entity-message = Você não pode colocar isso no dispensador!
 
 ## Bound UI
 

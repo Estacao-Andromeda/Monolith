@@ -1,6 +1,6 @@
 # Spells
 spellbook-fireball-name = Bola de Fogo
-spellbook-fireball-desc = Faça a maioria da tripulação explodir de raiva quando virem esta bola de fogo vindo na direção deles! Aprimorável.
+spellbook-fireball-desc = Faça a maioria da tripulação explodir de raiva quando virem essa bola de fogo vindo na direção deles! Aprimorável.
 
 spellbook-blink-name = Piscar
 spellbook-blink-desc = Não pisque ou você perderá a si mesmo se teletransportando para longe.

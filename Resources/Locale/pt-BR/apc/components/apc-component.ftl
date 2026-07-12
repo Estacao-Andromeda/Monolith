@@ -4,4 +4,4 @@ apc-component-on-examine-panel-open = The [color=lightgray]APC electronics Paine
 
 apc-component-on-examine-panel-closed = The [color=lightgray]APC electronics Painel[/color] is [color=darkgreen]closed[/color].
 
-apc-component-on-toggle-cancel =isto faz nada!
+apc-component-on-toggle-cancel =isso faz nada!

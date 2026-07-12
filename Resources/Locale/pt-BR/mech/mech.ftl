@@ -16,7 +16,7 @@ mech-energy-display = Energia: {$amount}%
 mech-energy-missing = Energia: AUSENTE
 mech-slot-display = Slots Abertos: {$amount}
 
-mech-no-enter = Você não pode pilotar isto.
+mech-no-enter = Você não pode pilotar isso.
 
 mech-eject-pilot-alert = {$user} está puxando o piloto para fora do {$item}!
 

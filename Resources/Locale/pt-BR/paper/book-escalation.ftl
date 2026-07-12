@@ -1,6 +1,6 @@
 book-text-escalation = Quando se trata de ser robustado, é tudo estratégia. Faça direito e você será a inveja da estação. Faça errado e os próprios deuses podem se voltar contra você. Pessoalmente, sempre tenho como alvo o primeiro...
 
-        Primeiro as primeiras coisas: deixe os insultos voarem! Esta é sua chance de realmente deixar seu oponente saber o que você pensa de seus sapatos ridiculamente grandes e aquela buzina de bicicleta irritante.
+        Primeiro as primeiras coisas: deixe os insultos voarem! Essa é sua chance de realmente deixar seu oponente saber o que você pensa de seus sapatos ridiculamente grandes e aquela buzina de bicicleta irritante.
 
         Nenhum conflito está completo sem um pouco de fisicidade. Dê ao seu oponente um bom empurrão ou dois, e se você tiver sorte, eles vão tropeçar e cair, fornecendo ainda mais oportunidades para insultos.
 

@@ -8,3 +8,4 @@
 
 ent-CDDogtags = dogtags
     .desc = Um conjunto de dogtags, penduradas em um pequeno cordão para uso e transporte.
+

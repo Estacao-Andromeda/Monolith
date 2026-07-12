@@ -1,1 +1,1 @@
-spray-component-is-empty-message =isto's vazio!
+spray-component-is-empty-message =isso's vazio!

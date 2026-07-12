@@ -8,7 +8,7 @@ loadout-group-contractor-outerclothing = roupa externa
 loadout-group-contractor-belt = cinto
 loadout-group-contractor-shoes = sapatos
 loadout-group-contractor-neck = pescoço
-loadout-group-contractor-id = Contratado= máscara
+loadout-group-contractor-id = identificação
 loadout-group-contractor-backpack = mochila
 loadout-group-contractor-glasses = óculos
 loadout-group-contractor-face = máscara

@@ -100,7 +100,7 @@ tiles-mining-dark-tile = azulejo de mineração escuro
 
 tiles-mining-light-tile = azulejo de mineração claro
 
-tiles-freezer = freezer
+tiles-freezer = congelador
 
 tiles-showroom-floor = sala de exposição
 

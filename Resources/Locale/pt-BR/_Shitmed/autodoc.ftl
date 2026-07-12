@@ -59,12 +59,12 @@ autodoc-add-step-grab-item-placeholder = coração de anão
 autodoc-add-step-grab-organ = PEGAR ÓRGÃO 拿管风琴
 # O texto chinês se traduz aproximadamente para "Pegar parte do corpo"
 autodoc-add-step-grab-part = PEGAR PARTE DO CORPO 拾起身体部位
-# O texto chinês se traduz aproximadamente para "Colocar item no espaço de armazenamento", isto é excessivamente longo porque eu não sei como escrever mais curto!!
+# O texto chinês se traduz aproximadamente para "Colocar item no espaço de armazenamento", isso é excessivamente longo porque eu não sei como escrever mais curto!!
 autodoc-add-step-store-item = ARMAZENAR ITEM 将物品放入存储空间
 # O texto chinês se traduz aproximadamente para "Definir Etiqueta"
 autodoc-add-step-set-label = DEFINIR ETIQUETA 设置标签
 autodoc-add-step-set-label-prompt = Etiqueta
-# O texto chinês se traduz aproximadamente para "Esperar" isto é provavelmente a forma mais grosseira de dizer, mas sou burro e é tudo que eu sei :)
+# O texto chinês se traduz aproximadamente para "Esperar" isso é provavelmente a forma mais grosseira de dizer, mas sou burro e é tudo que eu sei :)
 autodoc-add-step-wait = ESPERAR 等
 autodoc-add-step-wait-prompt = Segundos para esperar
 

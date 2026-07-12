@@ -37,7 +37,7 @@ reagent-name-lemonade = limonada
 reagent-desc-lemonade = Bebida usando suco de limão, água e um adoçante como açúcar de cana ou mel.
 
 reagent-name-arnold-palmer = Arnold Palmer
-reagent-desc-arnold-palmer = Agora observe esta tacada.
+reagent-desc-arnold-palmer = Agora observe essa tacada.
 
 reagent-name-milk = leite
 reagent-desc-milk = Um líquido branco opaco produzido pelas glândulas mamárias dos mamíferos.

@@ -1,6 +1,6 @@
 spray-painter-window-title = Pulverizador de Tinta
 
-spray-painter-style-not-available =Cannot aplicar o selected estilo para isto tipo de Bloqueio Aéreo
+spray-painter-style-not-available =Cannot aplicar o selected estilo para isso tipo de Bloqueio Aéreo
 spray-painter-selected-style = Estilo selecionado:
 
 spray-painter-selected-color = Cor selecionada:

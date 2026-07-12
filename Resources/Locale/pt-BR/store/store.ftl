@@ -18,7 +18,7 @@ store-withdraw-button-ui = Sacar {$currency}
 
 store-ui-button-out-of-stock = {""} (Esgotado)
 
-store-not-account-owner = Esta {$store} não está vinculada a você!
+store-not-account-owner = Essa {$store} não está vinculada a você!
 
 store-preset-name-uplink = Uplink
 

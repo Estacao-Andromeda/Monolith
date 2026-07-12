@@ -10,15 +10,15 @@ signal-port-name-item-moved = Item Movido
 signal-port-description-item-moved = Porta de sinal que é pulsada após um item ser movido por este braço.
 
 signal-port-name-automation-slot-filter = Item: Slot de Filtro
-signal-port-description-automation-slot-filter = Um slot de automação pro filtro de máquinas de automação.
+signal-port-description-automation-slot-filter = Um slot de automação para o filtro de uma máquina de automação.
 
 # Reagent Grinder
 
 signal-port-name-automation-slot-beaker = Item: Slot de Béquer
-signal-port-description-automation-slot-beaker = Um slot de automação pro béquer de uma máquina de manuseio de líquidos.
+signal-port-description-automation-slot-beaker = Um slot de automação para o béquer de uma máquina de manuseio de líquidos.
 
 signal-port-name-automation-slot-input = Item: Itens de Entrada
-signal-port-description-automation-slot-input = Um slot de automação pro armazenamento de itens de entrada de uma máquina.
+signal-port-description-automation-slot-input = Um slot de automação para o armazenamento de itens de entrada de uma máquina.
 
 # Flatpacker
 
@@ -42,7 +42,7 @@ signal-port-description-ready = Porta de sinal que é pulsada após uma unidade 
 # Storage Bin
 
 signal-port-name-automation-slot-storage = Item: Armazenamento
-signal-port-description-automation-slot-storage = Um slot de automação pro inventário de um contêiner de armazenamento.
+signal-port-description-automation-slot-storage = Um slot de automação para o inventário de um contêiner de armazenamento.
 
 signal-port-name-storage-inserted = Inserido
 signal-port-description-storage-inserted = Porta de sinal que é pulsada após um item ser inserido em um contêiner de armazenamento.
@@ -83,7 +83,7 @@ signal-port-description-automation-slot-tool = Um slot de automação para a fer
 # Autodoc
 
 signal-port-name-automation-slot-autodoc-hand = Item: Mão do Autodoc
-signal-port-description-automation-slot-autodoc-hand = Um slot de automação pro órgão/parte/etc segurado por um autodoc de instruções ARMAZENAR ITEM / PEGAR ITEM.
+signal-port-description-automation-slot-autodoc-hand = Um slot de automação para o órgão/parte/etc segurado por um autodoc de instruções ARMAZENAR ITEM / PEGAR ITEM.
 
 # Gas Canister
 

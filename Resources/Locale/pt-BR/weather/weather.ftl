@@ -10,4 +10,4 @@ cmd-weather-error-no-arguments = Argumentos insuficientes!
 
 cmd-weather-error-unknown-proto = Prototipo de clima desconhecido!
 
-cmd-weather-error-wrong-time = Tempo esta no formato errado!
+cmd-weather-error-wrong-time = Tempo essa no formato errado!

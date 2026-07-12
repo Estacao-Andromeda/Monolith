@@ -1,7 +1,7 @@
 ## Entity
 
 chem-master-component-activate-no-hands = Você não tem mãos.
-chem-master-component-cannot-put-entity-message = Você não pode colocar isto no ChemMaster!
+chem-master-component-cannot-put-entity-message = Você não pode colocar isso no ChemMaster!
 
 ## Bound UI
 chem-master-bound-user-interface-title = ChemMaster 4000

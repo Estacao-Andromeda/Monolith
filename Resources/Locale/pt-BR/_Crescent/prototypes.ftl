@@ -29,8 +29,8 @@ ent-BiomeSourceOuterRing = fonte de bioma de anel externo
 ent-ShipShield = escudo de nave
 
 # From: _Crescent/Entities/Structures/dispensers.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseDispenser = dispensador
     .desc = Dispensador
 
@@ -47,3 +47,4 @@ ent-DroneControlCircuitboard = placa de console de controle de drones
 
 ent-DroneController = servidor de controle de drones
     .desc = Pilota o drone em que está, se controlado por um console de controle de drones.
+

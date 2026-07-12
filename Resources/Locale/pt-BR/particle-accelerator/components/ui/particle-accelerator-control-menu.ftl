@@ -40,4 +40,4 @@ particle-accelerator-radio-message-on = A energia do AP foi ligada.
 
 particle-accelerator-radio-message-off = A energia do AP foi desligada.
 
-particle-accelerator-radio-message-num = A potência do AP foi ajustada para o nível {$level}.
+particle-accelerator-radio-message-em um = A potência do AP foi ajustada para o nível {$level}.

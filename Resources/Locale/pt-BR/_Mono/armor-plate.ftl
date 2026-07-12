@@ -7,7 +7,7 @@ armor-plate-examine-no-storage = Nenhum compartimento de armazenamento para plac
 armor-plate-examinable-verb-text = Atributos da placa
 armor-plate-examinable-verb-message = Examinar características de proteção e durabilidade.
 
-armor-plate-attributes-examine = Esta placa de blindagem:
+armor-plate-attributes-examine = Essa placa de blindagem:
 armor-plate-initial-durability = É classificada para [color=yellow]{ $durability }[/color] unidades padrão de dano.
 
 armor-plate-item-durability = Durabilidade: [color={$durabilityColor}]{$percent}%[/color]

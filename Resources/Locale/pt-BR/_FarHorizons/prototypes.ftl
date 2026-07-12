@@ -1,46 +1,48 @@
 # ====================================================================
-# Arquivo de Localização de Entidades
+# Entity Localization File
+# Generated: 2026-07-10 20:21:30
+# Total entities: 79
 # ====================================================================
 
 # From: _FarHorizons/Catalog/Fills/Crates/reactor_crates.yml
 
-ent-CrateBohrumControlRod = caixa de barras de controle
+ent-CrateBohrumControlRod = caixote de barras de controle
     .desc = 2 barras de controle de bohrum para um reator nuclear.
 
-ent-CrateCerenkiteFuelRod = caixa de barras de combustível
-    .desc = 3 barras de combustível de cerenkite, para alimentar um reator nuclear.
+ent-CrateCerenkiteFuelRod = caixote de barras de combustível
+    .desc = 3 barras de combustível de cerenkita, para abastecer um reator nuclear.
 
-ent-CrateSteelGasChannel = caixa de barras de canal de gás
+ent-CrateSteelGasChannel = caixote de barras de canal de gás
     .desc = 4 barras de canal de gás de aço para um reator nuclear.
 
-ent-CrateSteelHeatExhanger = caixa de barras de trocador de calor
+ent-CrateSteelHeatExhanger = caixote de barras de trocador de calor
     .desc = 4 barras de trocador de calor de aço para um reator nuclear.
 
 # From: _FarHorizons/Entities/Objects/Devices/Circuitboards/computer.yml
 
 ent-GasTurbineMonitorComputerCircuitboard = placa de computador de monitor de turbina a gás
-    .desc = Uma placa de circuito de computador para um monitor de turbina a gás.
+    .desc = Uma placa de circuito impresso de computador para um monitor de turbina a gás.
 
 ent-NuclearReactorMonitorComputerCircuitboard = placa de computador de monitor de reator nuclear
-    .desc = Uma placa de circuito de computador para um monitor de reator nuclear.
+    .desc = Uma placa de circuito impresso de computador para um monitor de reator nuclear.
 
 # From: _FarHorizons/Entities/Objects/Devices/Circuitboards/Machine/nuclear_machines.yml
 
 ent-NuclearCentrifugeMachineCircuitboard = placa de máquina de centrífuga nuclear
-    .desc = Uma placa de circuito de máquina para uma centrífuga nuclear.
+    .desc = Uma placa de circuito impresso de máquina para uma centrífuga nuclear.
 
 ent-NuclearFabricatorMachineCircuitboard = placa de máquina de fabricador nuclear
-    .desc = Uma placa de circuito de máquina para um fabricador nuclear. Usa uma estrutura de máquina 2x1.
+    .desc = Uma placa de circuito impresso de máquina para um fabricador nuclear. Usa uma estrutura de máquina 2x1.
 
 # From: _FarHorizons/Entities/Objects/Devices/holoprojectors.yml
 
 ent-RadiationBlockingProjector = projetor de barreira de radiação
-    .desc = Pare a radiação mortal de uma delaminação ou derretimento, pelo menos por um pouco.
+    .desc = Pare a radiação letal de uma delaminação ou fusão do núcleo, pelo menos por um tempo.
 
 # From: _FarHorizons/Entities/Objects/Materials/ingots.yml
 
 ent-IngotPlutonium = barra de plutônio
-    .suffix = Cheia
+    .suffix = Completa
     .desc = Lingotes de plutônio físsil puro. Um subproduto de reatores de fissão nuclear.
 
 ent-IngotPlutonium1 = barra de plutônio
@@ -49,7 +51,7 @@ ent-IngotPlutonium1 = barra de plutônio
 # From: _FarHorizons/Entities/Structures/Holographic/projections.yml
 
 ent-HolosignRadiationBlocking = barreira de radiação holográfica
-    .desc = Uma barreira de luz dura que bloqueia luz e radiação, mas nada mais.
+    .desc = Uma barreira de luz sólida que bloqueia luz e radiação, mas nada mais.
 
 # From: _FarHorizons/Entities/Structures/Machines/Computers/computers.yml
 
@@ -67,42 +69,42 @@ ent-NuclearCentrifuge = centrífuga de reprocessamento de combustível nuclear
 # From: _FarHorizons/Entities/Structures/Machines/nuclear_fabricator.yml
 
 ent-NuclearFabricator = fabricador nuclear
-    .desc = Um fabricador certificado pelo ISFNC para fazer componentes certificados para uso em reatores nucleares. É uma carga de besteira.
+    .desc = Um fabricador certificado pela ISFNC para fazer componentes certificados para uso em reatores nucleares. É tudo uma grande bobagem.
 
 # From: _FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/nuclear_reactor.yml
+# Abstract entity (referenceable by children)
 
-# Entidade abstrata (referenciável por filhos)
 ent-BaseNuclearReactor = reator nuclear
     .desc = Um vaso de reator nuclear, com slots para barras de combustível e outros componentes. Espera, um desses não explodiu uma vez?
 
-ent-NuclearDebrisChunk = detritos nucleares
-    .desc = Você não vê a grafite no chão. Você está em choque. Reporte ao médico.
+ent-NuclearDebrisChunk = destroços nucleares
+    .desc = Você não vê a grafite no chão. Você está em choque. Procure atendimento médico.
 
 ent-NuclearReactorEmpty = {ent-BaseNuclearReactor}
     .suffix = Vazio
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorEmptySalvage = {ent-BaseNuclearReactor}
-    .suffix = Vazio, Salvamento
+    .suffix = Vazio, Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorMeltdown = {ent-BaseNuclearReactor}
-    .suffix = Derretido
+    .suffix = Fusão
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorMelted = {ent-BaseNuclearReactor}
     .suffix = Derretido
-    .desc = Um vaso de reator nuclear, há muito derretido. Ainda brilha com calor residual e radiação.
+    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorMeltedSalvage = {ent-BaseNuclearReactor}
-    .suffix = Derretido, Salvamento
-    .desc = Um vaso de reator nuclear, há muito derretido. Ainda brilha com calor residual e radiação.
+    .suffix = Derretido, Salvagem
+    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorNormal = {ent-BaseNuclearReactor}
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorNormalSalvage = {ent-BaseNuclearReactor}
-    .suffix = Salvamento
+    .suffix = Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorRandom = {ent-BaseNuclearReactor}
@@ -110,36 +112,34 @@ ent-NuclearReactorRandom = {ent-BaseNuclearReactor}
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorRandomSalvage = {ent-BaseNuclearReactor}
-    .suffix = Aleatório, Salvamento
+    .suffix = Aleatório, Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorSmall = reator nuclear pequeno
-    .desc = {ent-BaseNuclearReactor.desc}
 
-ent-NuclearReactorSmallMelted = {ent-BaseNuclearReactor}
+ent-NuclearReactorSmallMelted = {ent-NuclearReactorSmall}
     .suffix = Derretido
-    .desc = Um vaso de reator nuclear, há muito derretido. Ainda brilha com calor residual e radiação.
+    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
-ent-NuclearReactorSmallMeltedSalvage = {ent-BaseNuclearReactor}
-    .suffix = Derretido, Salvamento
-    .desc = Um vaso de reator nuclear, há muito derretido. Ainda brilha com calor residual e radiação.
+ent-NuclearReactorSmallMeltedSalvage = {ent-NuclearReactorSmall}
+    .suffix = Derretido, Salvagem
+    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
-ent-NuclearReactorSmallRandom = {ent-BaseNuclearReactor}
+ent-NuclearReactorSmallRandom = {ent-NuclearReactorSmall}
     .suffix = Aleatório
     .desc = {ent-BaseNuclearReactor.desc}
 
-ent-NuclearReactorSmallRandomSalvage = {ent-BaseNuclearReactor}
-    .suffix = Aleatório, Salvamento
+ent-NuclearReactorSmallRandomSalvage = {ent-NuclearReactorSmall}
+    .suffix = Aleatório, Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorSmallSalvage = reator nuclear pequeno
-    .suffix = Salvamento
-    .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Salvagem
 
 # From: _FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml
 
 ent-BananiumReactorFuelRod = barra de combustível de bananium
-    .desc = Uma barra de honk para um reator nuclear.
+    .desc = Uma barra de honque para um reator nuclear.
 
 ent-BaseReactorControlRod = barra de controle
     .desc = Um conjunto de barras de controle para um reator nuclear.
@@ -161,7 +161,7 @@ ent-BrassReactorGasChannel = barra de canal de gás de latão
 
 ent-BrassReactorHeatExchanger = barra de trocador de calor de latão
 
-ent-CerenkiteReactorFuelRod = barra de combustível de cerenkite
+ent-CerenkiteReactorFuelRod = barra de combustível de cerenkita
 
 ent-DiamondReactorControlRod = barra de controle de diamante
 
@@ -182,7 +182,7 @@ ent-GoldReactorGasChannel = barra de canal de gás de ouro
 ent-GoldReactorHeatExchanger = barra de trocador de calor de ouro
 
 ent-MeatReactorFuelRod = barra de combustível de carne
-    .desc = Uma barra de combustível p- espera, está viva?
+    .desc = Uma barra de combustí- espera, ela está viva?
 
 ent-PlasmaGlassReactorControlRod = barra de controle de vidro de plasma
 
@@ -192,11 +192,11 @@ ent-PlasmaGlassReactorHeatExchanger = barra de trocador de calor de vidro de pla
 
 ent-PlasmaReactorFuelRod = barra de combustível de plasma
 
-ent-PlasteelReactorControlRod = barra de controle de plasteel
+ent-PlasteelReactorControlRod = barra de controle de placaço
 
-ent-PlasteelReactorGasChannel = barra de canal de gás de plasteel
+ent-PlasteelReactorGasChannel = barra de canal de gás de placaço
 
-ent-PlasteelReactorHeatExchanger = barra de trocador de calor de plasteel
+ent-PlasteelReactorHeatExchanger = barra de trocador de calor de placaço
 
 ent-PlutoniumReactorFuelRod = barra de combustível de plutônio
 
@@ -226,3 +226,4 @@ ent-TurbineSmall = turbina a gás pequena
 # From: _FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/turbineProjectile.yml
 
 ent-TurbineBladeShrapnel = pá de turbina
+

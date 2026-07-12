@@ -4,7 +4,7 @@
 comp-gas-tank-examine = Pressão: [color=orange]{PRESSURE($pressure)}[/color].
 
 # Examine text when internals are active.
-comp-gas-tank-connected =isto's connected para um externo componente.
+comp-gas-tank-connected =isso's connected para um externo componente.
 
 # Examine text when valve is open or closed.
 comp-gas-tank-examine-open-valve = A válvula de liberação de gás está [color=red]aberta[/color].

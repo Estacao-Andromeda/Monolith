@@ -94,13 +94,13 @@ ui-options-vp-stretch = Esticar viewport para caber na janela do jogo
 ui-options-vp-scale = Escala fixa do viewport:
 ui-options-vp-scale-value =x{ $escala }
 ui-options-vp-integer-scaling = Preferir escala inteira (pode causar barras pretas/corte)
-ui-options-vp-integer-scaling-tooltip = Se esta opção estiver ativada, o viewport será dimensionado usando um valor inteiro
+ui-options-vp-integer-scaling-tooltip = Se essa opção estiver ativada, o viewport será dimensionado usando um valor inteiro
                                         em resoluções específicas. Embora isso resulte em texturas nítidas, também frequentemente
                                         significa que barras pretas aparecem na parte superior/inferior da tela ou que parte
                                         do viewport não está visível.
 ui-options-vp-vertical-fit = Ajuste vertical do viewport
 ui-options-vp-vertical-fit-tooltip =quando enabled, o diretor viewport vontade ignorar o horizontal axis inteiramente quando
-                                     fitting para seu tela. se seu tela é smaller do que o viewport, então isto
+                                     fitting para seu tela. se seu tela é smaller do que o viewport, então isso
                                      vontade causa o viewport para ser corte desligado no horizontal axis.
                                      se ajustar a sua tela. Se sua tela for menor que o viewport, então isso
                                      fará com que o viewport seja cortado no eixo horizontal.
@@ -261,8 +261,8 @@ ui-options-function-shuttle-brake = Frear
 ui-options-net-predict = Previsão do lado do cliente
 
 ui-options-net-interp-ratio = Tamanho do buffer de estado
-ui-options-net-interp-ratio-tooltip =Increasing isto vontade geralmente fazer o jogo mais resistant
-                                      para server->cliente pacote-perda, however em fazendo tão isto
+ui-options-net-interp-ratio-tooltip =Increasing isso vontade geralmente fazer o jogo mais resistant
+                                      para server->cliente pacote-perda, however em fazendo tão isso
                                       efetivamente adds levemente mais latency e requer o
                                       cliente para prever mais futuro ticks.
                                       a perda de pacotes servidor->cliente, no entanto, ao fazer isso,
@@ -270,8 +270,8 @@ ui-options-net-interp-ratio-tooltip =Increasing isto vontade geralmente fazer o 
                                       o cliente preveja mais ticks futuros.
 
 ui-options-net-predict-tick-bias = Viés de previsão de ticks
-ui-options-net-predict-tick-bias-tooltip =Increasing isto vontade geralmente fazer o jogo mais resistant
-                                           para cliente->server pacote-perda, however em fazendo tão isto
+ui-options-net-predict-tick-bias-tooltip =Increasing isso vontade geralmente fazer o jogo mais resistant
+                                           para cliente->server pacote-perda, however em fazendo tão isso
                                            efetivamente adds levemente mais latency e requer o
                                            cliente para prever mais futuro ticks.
                                            a perda de pacotes cliente->servidor, no entanto, ao fazer isso,

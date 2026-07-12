@@ -3,4 +3,4 @@ mail-large-item-name-addressed = pacote ({$recipient})
 mail-large-desc-far = Um pacote grande.
 mail-large-desc-close = Um pacote grande endereçado a {CAPITALIZE($name)}, {$job}. Última localização conhecida: {$station}.
 
-command-mailto-no-mailservice = Nenhum serviço de correio configurado nesta estação.
+command-mailto-no-mailservice = Não foi possível obter o serviço de correio.

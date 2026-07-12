@@ -1,4 +1,4 @@
-ui-options-function-auto-get-up = Levantar-se automaticamente apÃ³s cair
-ui-options-log-in-chat =Log actions no chat
-ui-options-coalesce-identical-messages =Coalesce idêntico messages em chat
-ui-options-detailed-examine = Mostrar texto de examinaÃ§Ã£o detalhado
+ui-options-function-auto-get-up = Levantar-se automaticamente após cair
+ui-options-log-in-chat = Registrar ações no chat
+ui-options-coalesce-identical-messages = Agrupar mensagens idênticas no chat
+ui-options-detailed-examine = Mostrar texto detalhado ao examinar

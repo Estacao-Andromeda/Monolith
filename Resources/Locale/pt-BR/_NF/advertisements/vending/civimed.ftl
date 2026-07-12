@@ -1,12 +1,12 @@
 advertisement-civimed-1 = MINERADORES, NÃO MORRAM!
 advertisement-civimed-2 = Você é melhor do que morrer no espaço! Abasteça-se agora!
-advertisement-civimed-3 = CiviMed: tratando a doença do capitalismo de classe alta, um paciente rico por vez.
-advertisement-civimed-4 = Seu dinheiro ou sua vida! Isso não é legalmente uma ameaça!
-advertisement-civimed-5 = Nove em cada dez cadáveres NÃO estocaram remédios! O último era um idiota.
-advertisement-civimed-6 = Mochilas carregadas de saque são geralmente pobres em suprimentos.
-advertisement-civimed-7 = Seja ferido, não queimado. Trate-se!
-advertisement-civimed-8 = Eu não sou médico, mas você pode ser! Automedique-se contra a dor!
-advertisement-civimed-9 = Grupos de teste mostram que nossos produtos são MAJORITARIAMENTE SEGUROS para consumo!
+advertisement-civimed-3 = Não estamos cobrando a mais de você, só sabemos o que você vale! Pague!
+advertisement-civimed-4 = Seu dinheiro ou sua vida! Isso não é, legalmente, uma ameaça!
+advertisement-civimed-5 = Nove em dez cadáveres NÃO abasteceram remédios! O último foi um idiota.
+advertisement-civimed-6 = Mochilas carregadas de saque costumam ficar poucas em suprimentos.
+advertisement-civimed-7 = Saia mais barato, queimado. Trate-se!
+advertisement-civimed-8 = Eu não sou médico, mas você pode ser! Automedique-se para aliviar a dor!
+advertisement-civimed-9 = Grupos de teste mostram que nossos produtos são MAIORIAMENTE SEGUROS para consumo!
 
 goodbye-civimed-1 = Lesões são um problema de habilidade.
 goodbye-civimed-2 = Não morra lá fora, otário.

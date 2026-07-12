@@ -1,7 +1,7 @@
 
 ### UI
 
-paper-ui-blank-page-message = Esta página foi intencionalmente deixada em branco
+paper-ui-blank-page-message = Essa página foi intencionalmente deixada em branco
 
 # Shown when paper with words examined details
 paper-component-examine-detail-has-words = {CAPITALIZE(THE($paper))} tem algo escrito nela.
@@ -18,4 +18,4 @@ paper-ui-fill-level = {$currentLength}/{$maxLength}
 
 paper-ui-save-button = Salvar ({$keybind})
 
-paper-tamper-proof-modified-message = Esta página foi escrita usando tinta à prova de adulteração.
+paper-tamper-proof-modified-message = Essa página foi escrita usando tinta à prova de adulteração.

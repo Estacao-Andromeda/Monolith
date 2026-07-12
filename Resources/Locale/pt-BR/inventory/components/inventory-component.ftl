@@ -1,7 +1,7 @@
-inventory-component-can-equip-cannot = Você não pode equipar isto!
-inventory-component-can-equip-does-not-fit = Isto não cabe!
+inventory-component-can-equip-cannot = Você não pode equipar isso!
+inventory-component-can-equip-does-not-fit = Isso não cabe!
 
-inventory-component-can-unequip-cannot = Você não pode remover isto!
+inventory-component-can-unequip-cannot = Você não pode remover isso!
 
 inventory-component-dropped-from-unequip =
     Você deixou cair {$items ->

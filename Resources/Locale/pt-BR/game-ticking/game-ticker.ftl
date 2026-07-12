@@ -7,7 +7,7 @@ game-ticker-unknown-role = Desconhecido
 game-ticker-delay-start = O início da rodada foi adiado por {$seconds} segundos.
 game-ticker-pause-start = O início da rodada foi pausado.
 game-ticker-pause-start-resumed = A contagem regressiva do início da rodada foi retomada.
-game-ticker-player-join-game-message = Bem-vindo ao Space Station 14! Se esta é sua primeira vez jogando, certifique-se de ler as regras do jogo, e não tenha medo de pedir ajuda em LOOC (OOC local) ou OOC (geralmente disponível apenas entre rodadas).
+game-ticker-player-join-game-message = Bem-vindo ao Space Station 14! Se essa é sua primeira vez jogando, certifique-se de ler as regras do jogo, e não tenha medo de pedir ajuda em LOOC (OOC local) ou OOC (geralmente disponível apenas entre rodadas).
 game-ticker-get-info-text = Olá e bem-vindo ao [color=white]Space Station 14![/color]
                             A rodada atual é: [color=white]#{$roundId}[/color]
                             O número atual de jogadores é: [color=white]{$playerCount}[/color]

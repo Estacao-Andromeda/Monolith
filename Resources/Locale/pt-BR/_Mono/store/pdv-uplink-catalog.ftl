@@ -315,12 +315,6 @@ uplink-pdv-t4-saturn-voucher-desc = Um pequeno cartão que autoriza a aquisiçã
 
 # Altnames/box variants for vendor
 
-uplink-pirate-blueprint-launcher-rocket-desc = Um blueprint para RPG-7 e a munição para ele. Bom para terrorismo de longo prazo!
-uplink-pirate-blueprint-launcher-rocket-name = Blueprint RPG-7
-uplink-pirate-box-bulldog-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com balas.
-uplink-pirate-box-bulldog-ammo-name = Caixa de tambores de balas calibre 12
-uplink-pirate-box-bulldog-slug-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com slugs.
-uplink-pirate-box-bulldog-slug-ammo-name = Caixa de tambores de slugs calibre 12
 uplink-pirate-box-highcal-desc = Uma caixa de munição de propósito geral para o rifle pesado Burner.
 uplink-pirate-box-highcal-he-desc = Uma caixa de munição explosiva para o rifle pesado Burner.
 uplink-pirate-box-highcal-he-name = Caixa HE 12.7x99mm

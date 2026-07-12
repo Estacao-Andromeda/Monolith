@@ -1,43 +1,46 @@
 # ====================================================================
 # Entity Localization File
-# Generated: 2026-07-08 08:27:52
-# Total entities: 13
+# Generated: 2026-07-10 21:56:05
+# Total entities: 15
 # ====================================================================
 
 # From: _Obelisk/Actions/types.yml
 
-ent-ActionHydrakinCoolOff = hydrakin-action-name-cool-off
-    .desc = hydrakin-action-description-cool-off
+ent-ActionHydrakinCoolOff = Esfriar
+    .desc = Dissipe um pouco do calor do seu corpo.
 
 # From: _Obelisk/Body/Parts/hydrakin.yml
 
-ent-HeadHydrakin = cabeça de hidra
+ent-HeadHydrakin = cabeça de hidraquin
 
-ent-LeftArmHydrakin = braço esquerdo de hidra
+ent-LeftArmHydrakin = braço esquerdo de hidraquin
 
-ent-LeftFootHydrakin = pé esquerdo de hidra
+ent-LeftFootHydrakin = pé esquerdo de hidraquin
 
-ent-LeftHandHydrakin = mão esquerda de hidra
+ent-LeftHandHydrakin = mão esquerda de hidraquin
 
-ent-LeftLegHydrakin = perna esquerda de hidra
+ent-LeftLegHydrakin = perna esquerda de hidraquin
 
-ent-RightArmHydrakin = braço direito de hidra
+# Abstract entity (referenceable by children)
 
-ent-RightFootHydrakin = pé direito de hidra
+ent-PartHydrakin = parte do corpo de hidraquin
 
-ent-RightHandHydrakin = mão direita de hidra
+ent-RightArmHydrakin = braço direito de hidraquin
 
-ent-RightLegHydrakin = perna direita de hidra
+ent-RightFootHydrakin = pé direito de hidraquin
 
-ent-TorsoHydrakin = torso de hidra
+ent-RightHandHydrakin = mão direita de hidraquin
+
+ent-RightLegHydrakin = perna direita de hidraquin
+
+ent-TorsoHydrakin = torso de hidraquin
 
 # From: _Obelisk/Entities/Mobs/Player/hydrakin.yml
 
-ent-MobHydrakin = Urist McHydra
+ent-MobHydrakin = Enzo Hidra da Silva
 
 # From: _Obelisk/Entities/Mobs/Species/hydrakin.yml
+# Abstract entity (referenceable by children)
 
-ent-MobHydrakinDummy =
+ent-BaseMobHydrakin = Enzo Hidra da Silva
 
-ent-BaseMobHydrakin = Urist McHydra
-ent-PartHydrakin = parte do corpo de hidra

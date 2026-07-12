@@ -29,7 +29,6 @@ ent-OrganChitinidStomach = estômago
 ent-OrganHarpyLungs = pulmões
     .desc = Um par avançado de pulmões aviários. Filtra oxigênio movendo ar constantemente através de sacos aéreos.
 
-
 # From: _DV/Body/Parts/chitinid.yml
 
 ent-HeadChitinid = cabeça de quitinídeo
@@ -43,6 +42,7 @@ ent-LeftHandChitinid = mão esquerda de quitinídeo
 ent-LeftLegChitinid = perna esquerda de quitinídeo
 
 # Abstract entity (referenceable by children)
+
 ent-PartChitinidBase = parte do corpo de quitinídeo
 
 ent-RightArmChitinid = braço direito de quitinídeo
@@ -197,8 +197,8 @@ ent-MobRodentia = Enzo Rato da Silva
 ent-MobVulpkanin = Enzo Cachorro da Silva
 
 # From: _DV/Entities/Mobs/Species/chitinid.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMobChitinid = Enzo Formiga da Silva
 
 # From: _DV/Entities/Mobs/Species/harpy.yml
@@ -210,22 +210,23 @@ ent-ActionSyrinxChangeVoiceMask = Definir nome
     .desc = Altere o nome que os outros ouvem para algo diferente.
 
 # Abstract entity (referenceable by children)
+
 ent-MobHarpyBase = {ent-MobHarpy}
 
 ent-MobHarpyDummy = {ent-MobHarpy}
     .desc = Um boneco de harpia destinado a ser usado na criação de personagem.
 
 # From: _DV/Entities/Mobs/Species/rodentia.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMobRodentia = {ent-MobRodentia}
 
 ent-MobRodentiaDummy = {ent-MobRodentia}
     .desc = Um boneco de roedor destinado a ser usado na criação de personagens.
 
 # From: _DV/Entities/Mobs/Species/vulpkanin.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMobVulpkanin = {ent-MobVulpkanin}
 
 ent-MobVulpkaninDummy = {ent-MobVulpkanin}
@@ -272,7 +273,6 @@ ent-BoxReamBright = resma de papel colorido Papermoon cores felizes
 
 ent-BoxReamClassic = resma de papel colorido Papermoon cores clássicas
     .desc = Ilumine seus registros e mais com papel colorido Papermoon, nas seis cores clássicas que você conhecida e ama. Tingido por completo para máxima fixação da cor.
-
 
 ent-PaperDyedBrown = {ent-Paper}
     .suffix = marrom
@@ -474,11 +474,12 @@ ent-WoodenKegRootBeer = barril de root beer
 ent-WoodenKegWine = barril de vinho
     .desc = Um barril de madeira velho e mofado, com uma torneira acoplada na frente. Cheira a vinho.
 
-ent-BluespaceOre1 = { ent-BluespaceOre }
+ent-BluespaceOre1 = {ent-BluespaceOre}
     .suffix = Um
 
 ent-WindoorMailLocked = {ent-Windoor}
-    .suffix =  Correio, trancado
+    .suffix = Correio, trancado
 
-ent-WindoorSecureMailLocked = {ent-Windoor}
-    .suffix =  Correio, trancado
+ent-WindoorSecureMailLocked = {ent-WindoorSecure}
+    .suffix = Correio, trancado
+

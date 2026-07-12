@@ -50,8 +50,8 @@ ent-OrganAsakimLungs = pulmões asakim
     .desc = Pulmões pesados e enormes, geneticamente modificados para ajudar a energizar a força bruta do corpo em combate corpo a corpo.
 
 # From: _Mono/Body/Organs/chimera.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseChimeraOrgan = órgão quimera
 
 ent-OrganChimeraBrain = cérebro quimera
@@ -69,8 +69,8 @@ ent-OrganChimeraStomach = estômago quimera
     .desc = Um órgão estranho que serve como centro para o metabolismo de uma Quimera.
 
 # From: _Mono/Body/Organs/hydra.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseHydrakinOrgan = órgão hydrakin
 
 ent-OrganHydrakinBrain = cérebro hydrakin
@@ -128,6 +128,7 @@ ent-LeftHandAsakim = mão esquerda asakim
 ent-LeftLegAsakim = perna esquerda asakim
 
 # Abstract entity (referenceable by children)
+
 ent-PartAsakim = parte do corpo asakim
 
 ent-RightArmAsakim = braço direito asakim
@@ -154,6 +155,7 @@ ent-LeftHandSkeletonChimera = mão esquerda de endoesqueleto quimera
 ent-LeftLegSkeletonChimera = perna esquerda de endoesqueleto quimera
 
 # Abstract entity (referenceable by children)
+
 ent-PartSkeletonChimeraBase = parte do corpo de endoesqueleto quimera
 
 ent-RightArmSkeletonChimera = braço direito de endoesqueleto quimera
@@ -179,6 +181,7 @@ ent-LeftHandProtogen = mão esquerda protogen
 ent-LeftLegProtogen = perna esquerdo Protogen
 
 # Abstract entity (referenceable by children)
+
 ent-PartProtogen = parte do corpo protogen
 
 ent-RightArmProtogen = braço direito protogen
@@ -312,8 +315,8 @@ ent-PaperWrittenTeaGuide = Como Fazer Chá para Idiotas
     .desc = Um guia rápido para o preparo de chá.
 
 # From: _Mono/Catalogs/Fills/StorageFillTemplates/departmental_eva.yml
-
 # Abstract entity (referenceable by children)
+
 ent-StorageFillEVASuitDME = ""
     .desc = Contém um kit EVA de contratado DME padrão.
 
@@ -1125,6 +1128,7 @@ ent-ClothingNeckDrakeIndustriesBadge = crachá da Drake Industries
     .desc = Para mostrar que você faz parte da Drake Industries! Parece um plástico barato com uma pintura prateada por cima.
 
 # Abstract entity (referenceable by children)
+
 ent-ClothingNeckMonoCompanyBadgeBase = crachá da empresa
     .desc = Você não pertence a lugar nenhum, vagante.
 
@@ -1462,6 +1466,7 @@ ent-ClothingModsuitBootsUSSPZastavnik = Sapogi Zastavnika
     .desc = Botas grossas e reforçadas com estabilizadores magnéticos e absorção de choques.
 
 # From: _Mono/Entities/Debugging/debug.sweps.yml
+
 ent-ClothingModsuitBootsVolta = Botas de Modsuit Volta
     .desc = Feito para ficar oleado militarmente.
 
@@ -1480,8 +1485,8 @@ ent-InstantEffectEMP = efeito EMP instantâneo
 ent-LightningEMP = relâmpago ionizado
 
 # From: _Mono/Entities/Markers/GridEdge/grid_edge.yml
-
 # Abstract entity (referenceable by children)
+
 ent-RadarEdgeMarkerBase = marcador da borda da grid
 
 ent-RadarEdgeMarkerCenter = marcador de borda central do radar
@@ -1609,12 +1614,13 @@ ent-ChimeraFleshKudzu = biomassa de colmeia de quimera
     .desc = Um agrupamento de biomassa de quimera em rápido crescimento. POR QUE VOCÊ PAROU PARA OLHAR ISSO?!
 
 # From: _Mono/Entities/Mobs/Chimera/chimera_base.yml
-
 # Abstract entity (referenceable by children)
+
 ent-MonoBaseMobLetoferol = besta de carne de quimera
     .desc = O que quer que isso fosse, horrivelmente mutado.
 
 # Abstract entity (referenceable by children)
+
 ent-MonoBaseMobLetoferolHumanoid = besta de carne de quimera
     .desc = Um ser já senciente coberto de carne e ossos pútridos. Você pode ver um vislumbre de humanidade restante em seus olhos, como se quem quer que fosse ainda estivesse acordado.
 
@@ -1685,7 +1691,7 @@ ent-MobHumanMarsocTPGL = especialista MARSOC (TPGL)
 
 # From: _Mono/Entities/Mobs/NPCs/ai.yml
 
-ent-NpcDroneAiAssembly = drone de montagem
+ent-NpcDroneAiAssembly = {ent-NpcStationAiAttacker}
     .suffix = IA, Drone-Assembly
     .desc = Atira em você. Dispara fogo lateral.
 
@@ -1793,8 +1799,8 @@ ent-MobSpawnSilverCrabDocile = gerador de caranguejo de prata
 ent-MobSpawnUraniumCrabDocile = gerador de caranguejo de urânio
 
 # From: _Mono/Entities/Mobs/NPCs/monolithic.yml
-
 # Abstract entity (referenceable by children)
+
 ent-MobMonolithicBase = energia monolítica
     .desc = Isso é Deus?
 
@@ -1811,6 +1817,7 @@ ent-MobMonolithicHellLocust = gafanhoto do inferno monolítico
     .desc = Uma entidade anômala. Parece ser composta de energia nitidamente tangível, em uma forma estranhamente familiar. Também parece estar correndo em sua direção de forma ameaçadora. Cuidado!
 
 # Abstract entity (referenceable by children)
+
 ent-MobSpawnMonolithicBase = gerador de entidade monolítica base
 
 ent-MobSpawnMonolithicGestalt = gestalt monolítica
@@ -1843,8 +1850,8 @@ ent-PreviewObserver = observador de pré-visualização
 ent-MobProtogen = Enzo Disco Rígido da Silva
 
 # From: _Mono/Entities/Mobs/Player/silicon.yml
-
 # Abstract entity (referenceable by children)
+
 ent-AiHeldMono = ""
     .desc = Componentes adicionados/removidos de uma entidade que é inserida em um núcleo de IA.
 
@@ -1867,8 +1874,8 @@ ent-BorgChassisRedacted = sistema automatizado de defesa remanescente
     .desc = Um sistema de suporte para uma nave drone automatizada, para manter seus mecanismos internos intactos.
 
 # From: _Mono/Entities/Mobs/Species/asakim.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMobAsakim = Enzo Asakim da Silva
 
 ent-MobAsakim = Enzo Asakim da Silva
@@ -1881,8 +1888,8 @@ ent-MobAsakimRandom = Enzo Asakim da Silva
     .suffix = Aparência Aleatória
 
 # From: _Mono/Entities/Mobs/Species/protogen.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMobProtogen = Enzo Disco Rígido da Silva
 
 # From: _Mono/Entities/Objects/Consumable/Drinks/drinks_bottles.yml
@@ -2228,16 +2235,18 @@ ent-GaryTranslatorImplanter = implantador de tradutor gary
 ent-NovaCygniTranslatorImplanter = implantador de tradutor nova cygni
 
 # From: _Mono/Entities/Objects/Devices/pda.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BasePDVPDA = {ent-BasePDA}
     .desc = Um computador pessoal básico para restrição de acesso e organização, fabricado na Dinastia Phaethon.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseUSSPPDA = {ent-BasePDA}
     .desc = Um computador pessoal básico para restrição de acesso e organização, fabricado na USSP.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseVGPDA = {ent-BasePDA}
     .desc = Um computador pessoal básico para restrição de acesso e organização, adaptado com peças antigas de PDA Gorlex.
 
@@ -2248,48 +2257,38 @@ ent-MarsocPDA = PDA de operacional MARSOC TSFMC
     .desc = Um computador pessoal padrão TSFMC.
 
 ent-PDVAsvaranPDA = PDA asvaran PDV
-    .desc = {ent-BasePDVPDA.desc}
 
 ent-PDVDenasvarPDA = PDA denasvar PDV
-    .desc = {ent-BasePDVPDA.desc}
 
 ent-PDVGrandVizierPDA = PDA de grão-vizir PDV
-    .desc = {ent-BasePDVPDA.desc}
 
 ent-PDVRakhshanPDA = PDA rakhshan PDV
-    .desc = {ent-BasePDVPDA.desc}
 
 ent-PDVSpasakaPDA = PDA spasaka PDV
-    .desc = {ent-BasePDVPDA.desc}
 
 ent-TsfEngiPDA = PDA de engenheiro TSFMC
     .desc = Um computador pessoal padrão TSFMC.
 
 ent-USSPCommissarPDA = PDA de comissário USSP
-    .desc = {ent-BaseUSSPPDA.desc}
 
 ent-USSPRiflemanPDA = PDA de fuzileiro USSP
-    .desc = {ent-BaseUSSPPDA.desc}
 
 ent-USSPSergeantPDA = PDA serzhant USSP
-    .desc = {ent-BaseUSSPPDA.desc}
 
 ent-VGCommanderPDA = PDA de comandante VG
-    .desc = {ent-BaseVGPDA.desc}
 
 ent-VGInfanteerPDA = PDA de infantaria VG
-    .desc = {ent-BaseVGPDA.desc}
 
 ent-VGLieutenantPDA = PDA de tenente VG
-    .desc = {ent-BaseVGPDA.desc}
 
 # From: _Mono/Entities/Objects/Devices/ship_vouchers.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseShipLPCOneUse = LPC de nave
     .desc = Contém os dados necessários para um console de estaleiro produzir um determinado design.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseShipLPCRenewable = LPC de nave
     .desc = Contém os dados necessários para um console de estaleiro produzir um determinado design.
 
@@ -2369,10 +2368,8 @@ ent-ShipVoucherPdvT0 = vale de nave PDV T0
     .desc = Permite uma compra gratuita de uma nave PDV pequena a média. Destruído na venda.
 
 ent-ShipVoucherPdvT1 = vale de nave PDV T1
-    .desc = {ent-BaseShipLPCOneUse.desc}
 
 ent-ShipVoucherPdvT2 = vale de nave PDV T2
-    .desc = {ent-BaseShipLPCOneUse.desc}
 
 ent-ShipVoucherPolaris = LPC Polaris TSF [T3]
     .desc = Um pequeno cartão que contém os dados para a aquisição de uma fragata classe Polaris Tipo-56D das reservas da nau capitânia.
@@ -2423,10 +2420,8 @@ ent-ShipVoucherTsfT0 = vale de nave TSFMC T0
     .desc = Permite uma compra gratuita de uma nave TSFMC pequena a média. Destruído na venda.
 
 ent-ShipVoucherTsfT1 = vale de nave TSF T1
-    .desc = {ent-BaseShipLPCOneUse.desc}
 
 ent-ShipVoucherTsfT2 = vale de nave TSF T2
-    .desc = {ent-BaseShipLPCOneUse.desc}
 
 ent-ShipVoucherUSSPT0 = vale de nave USSP T0
     .desc = Permite uma compra gratuita de uma nave USSP pequena a média. Destruído na venda.
@@ -2488,21 +2483,25 @@ ent-BaseEconomyGood = item de economia base
     .desc = Usado para manter o velho cinturão enferrujado rodando.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseEconomyGoodTier1 = item de economia base
     .suffix = T1
     .desc = Usado para manter o velho cinturão enferrujado rodando.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseEconomyGoodTier2 = item de economia base
     .suffix = T2
     .desc = Usado para manter o velho cinturão enferrujado rodando.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseEconomyGoodTier3 = item de economia base
     .suffix = T3
     .desc = Usado para manter o velho cinturão enferrujado rodando.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseEconomyGoodTier4 = item de economia base
     .suffix = T4
     .desc = Usado para manter o velho cinturão enferrujado rodando.
@@ -2640,8 +2639,8 @@ ent-FlailTargetingElectronics = módulo de controle e mira de armas flail
     .desc = O controle de mira elétrico para o mecha flail.
 
 # From: _Mono/Entities/Objects/Misc/bitcoin.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseBitcoin = bitcoin básico
     .desc = Um bitcoin valioso, composto de dados arbitrários. Definitivamente um bom investimento.
 
@@ -2822,8 +2821,8 @@ ent-SpawnMobWeaponTurretUSSP = gerador de torreta balística USSP
     .suffix = USSP
 
 # From: _Mono/Entities/Objects/Misc/turrets.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMk290Sentry = Sentinela MK-290
     .desc = O sistema de sentinela implantável MK-290 projetado na antiga Nações Unidas da Terra, servindo uso contínuo com as forças armadas da TSF. Alimenta-se de qualquer carregador 762x39mm, no entanto atualizações recentes permitiram que use 6.8x52mm sem cartucho e 556x45mm para cumprir com o padrão TSF.
 
@@ -2865,8 +2864,8 @@ ent-HardlightShield = escudo de luz dura
     .desc = Escudo de luz dura produzido pela Z-22, quando dobrado, pode até caber no seu bolso. É mais emissivo que refletivo, ao contrário de seus primos azuis.
 
 # From: _Mono/Entities/Objects/Specific/Atmospherics/deposits.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseDeepGasDeposit = depósito de gás profundo
     .desc = Reservas solidificadas profundas de um elemento, normalmente um gás em temperatura ambiente, que podem ser perfuradas, aquecidas e bombeadas. Deve fornecer um suprimento ilimitado uma vez que o gás facilmente acessível seja esgotado.
 
@@ -3096,6 +3095,7 @@ ent-AFMaceTSF = TSF ASF-59-B "Mace"
     .desc = Uma adaptação apressada, a blindagem foi removida para adicionar propulsores superdimensionados à máquina. Devido às restrições de energia, só pode equipar uma única arma, limitando a versatilidade. Aceita Montagens Pesadas.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAFInterceptor = AF-28 "Broadsword"
     .desc = Um dos primeiros Quadros Blindados construídos para um propósito específico, feito para engajar alvos leves e outros Quadros Blindados.
 
@@ -3263,8 +3263,8 @@ ent-FoodPilumaStalk = caule de piluma
     .desc = Um caule colhido da planta Piluma do planeta deserto abaixo. Alucinógeno quando consumido em excesso.
 
 # From: _Mono/Entities/Objects/Specific/Planet/flora.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseFlora = planta
     .desc = Planta de bugigangas.
 
@@ -3537,6 +3537,7 @@ ent-ShipRepairDeviceAmmo = matéria de reparo de nave
     .desc = Cartucho de munição para um dispositivo de reparo de nave.
 
 # Abstract entity (referenceable by children)
+
 ent-ShipRepairDeviceBase = SRD
     .desc = Um Dispositivo de Reparo de Naves que pode reconstruir seções destruídas de naves.
 
@@ -3620,6 +3621,7 @@ ent-AmmoBox127x99mm = {ent-BaseAmmoBox127x99mm}
 ent-AmmoBox127x99mmExplosive = caixa de munição (12.7x99mm explosiva)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox127x99mm = caixa de munição (12.7x99mm antimaterial)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/134x92mm.yml
@@ -3688,6 +3690,7 @@ ent-AmmoBox46x30mmRubber = caixa de munição (4.6x30mm borracha)
 ent-AmmoBox46x30mmUranium = caixa de munição (4.6x30mm urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox46x30mm = caixa de munição (4.6x30mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/45_ACP.yml
@@ -3714,6 +3717,7 @@ ent-AmmoBox45_ACPRubber = caixa de munição (.45 ACP borracha)
 ent-AmmoBox45_ACPUranium = caixa de munição (.45 ACP urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox45_ACP = caixa de munição (.45 ACP FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/45_magnum.yml
@@ -3740,6 +3744,7 @@ ent-AmmoBox45_magnumRubber = caixa de munição (.45 magnum borracha)
 ent-AmmoBox45_magnumUranium = caixa de munição (.45 magnum urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox45_magnum = caixa de munição (.45 magnum FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/5.56x45mm.yml
@@ -3766,6 +3771,7 @@ ent-AmmoBox556x45mmRubber = caixa de munição (5.56x45mm borracha)
 ent-AmmoBox556x45mmUranium = caixa de munição (5.56x45mm urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox556x45mm = caixa de munição (5.56x45mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/5.7x28mm.yml
@@ -3792,6 +3798,7 @@ ent-AmmoBox57x28mmRubber = caixa de munição (5.7x28mm borracha)
 ent-AmmoBox57x28mmUranium = caixa de munição (5.7x28mm urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox57x28mm = caixa de munição (5.7x28mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/6.35x40mm.yml
@@ -3849,6 +3856,7 @@ ent-AmmoBox762x39mmSubsonic = caixa de munição (7.62x39mm subsonic)
 ent-AmmoBox762x39mmUranium = caixa de munição (7.62x39mm urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox762x39mm = caixa de munição (7.62x39mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x51mm.yml
@@ -3873,6 +3881,7 @@ ent-AmmoBox762x51mmRubber = caixa de munição (7.62x51mm borracha)
 ent-AmmoBox762x51mmUranium = caixa de munição (7.62x51mm urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox762x51mm = caixa de munição (7.62x51mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x54mmR.yml
@@ -3897,6 +3906,7 @@ ent-AmmoBox762x54mmRRubber = caixa de munição (7.62x54mmR borracha)
 ent-AmmoBox762x54mmRUranium = caixa de munição (7.62x54mmR urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox762x54mmR = caixa de munição (7.62x54mmR FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/700Thz.yml
@@ -3935,60 +3945,49 @@ ent-AmmoBox9x19mmRubber = caixa de munição (9x19mm borracha)
 ent-AmmoBox9x19mmUranium = caixa de munição (9x19mm urânio)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseAmmoBox9x19mm = caixa de munição (9x19mm FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/10Phz.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge10Phz = cartucho (10Phz DEW)
     .desc = Uma pequena célula de laser químico para uso em Armas de Energia Direcionada. Capaz de disparar um laser pulsado intermediário.
 
 ent-Cartridge10Phz = cartucho (10Phz DEW)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/12_gauge.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseShellShotgun12_gauge = cartucho de escopeta (calibre 12)
     .desc = Cartucho de escopeta padrão encontrado praticamente em todos os lugares.
 
 ent-ShellShotgun12_gaugeBeanbag = cartucho de escopeta (calibre 12 feijão)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeBuckshot = cartucho de escopeta (calibre 12 chumbo)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeFlare = cartucho de sinalizador (calibre 12 sinalizador)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeFlechette = cartucho de escopeta (calibre 12 flechette)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeImprovised = cartucho de escopeta improvisado (calibre 12)
     .desc = Um cartucho de escopeta caseiro que atira estilhaços de vidro dolorosos. A dispersão é tão grande que não conseguiria acertar o lado largo de um celeiro.
 
 ent-ShellShotgun12_gaugeIncendiary = cartucho de escopeta (calibre 12 incendiário)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeOOBuckshot = cartucho de escopeta (calibre 12 chumbo grosso)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugePractice = cartucho de escopeta (calibre 12 prática)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeSlug = cartucho de escopeta (calibre 12 balote)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeSlugAP = cartucho de escopeta (calibre 12 balote perfurante)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeSlugRIP = cartucho de escopeta (calibre 12 RIP)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeTranquilizer = cartucho de escopeta (calibre 12 tranquilizer)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 ent-ShellShotgun12_gaugeUranium = cartucho de escopeta (calibre 12 urânio)
-    .desc = {ent-BaseShellShotgun12_gauge.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/12.7x99mm.yml
 
@@ -3998,8 +3997,8 @@ ent-Cartridge127x99mm = cartucho (12.7x99mm antimaterial)
 ent-Cartridge127x99mmExplosive = cartucho (12.7x99mm explosivo)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/134x92mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridgeShenzhen = cartucho (13.4x92mm DU-APFSDS sem estojo)
     .desc = Projétil antimaterial grande, com alta penetração de blindagem e dano estrutural.
 
@@ -4011,15 +4010,15 @@ ent-Cartridge145x114mm = cartucho (14.5x114mm)
     .desc = Projétil antimaterial ainda maior, capaz de perfurar qualquer blindagem e barreiras sem dificuldade.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/35mm_grenade.yml
-
 # Abstract entity (referenceable by children)
+
 ent-Base35mmGrenade = granada 35x53mm base
 
 ent-Cartridge35mmGrenadeSAPHE = granada SAPHE 35x53mm
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/4_gauge.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseShellShotgun23x75mm = cartucho de escopeta (calibre 4)
     .desc = Cartucho de escopeta grande. Chuta como uma mula, e arrancará um pedaço de qualquer coisa que não tenha a blindagem para protegê-la.
 
@@ -4050,8 +4049,8 @@ ent-ShellShotgun23x75mmSlugRIP = cartucho de escopeta (calibre 4 RIP)
 ent-ShellShotgun23x75mmUranium = cartucho de escopeta (calibre 4 urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/4.6x30mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge46x30mm = cartucho (4.6x30mm FMJ)
     .desc = Um projétil perfurante leve desenvolvido para PDWs na década de 1990, por um mundo antigo.
 
@@ -4074,8 +4073,8 @@ ent-Cartridge46x30mmRubber = cartucho (4.6x30mm borracha)
 ent-Cartridge46x30mmUranium = cartucho (4.6x30mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/45_ACP.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge45_ACP = cartucho (.45 ACP FMJ)
     .desc = Alternativa mais pesada ao 9x19mm para pistols e SMGs.
 
@@ -4098,100 +4097,74 @@ ent-Cartridge45_ACPRubber = cartucho (.45 ACP borracha)
 ent-Cartridge45_ACPUranium = cartucho (.45 ACP urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/45_magnum.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge45_magnum = cartucho (.45 magnum)
     .desc = Cartucho magnum pesado, geralmente visto apenas em magnums ou rifles de ação manual.
 
 ent-Cartridge45_magnumAP = cartucho (.45 magnum perfurante)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumFMJ = cartucho (.45 magnum)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumHP = cartucho (.45 magnum ogiva oca)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumIncendiary = cartucho (.45 magnum incendiário)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumPlasteelAP = cartucho (.45 magnum perfurante)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumPractice = cartucho (.45 magnum prática)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumRIP = cartucho (.45 magnum RIP)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumRubber = cartucho (.45 magnum borracha)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 ent-Cartridge45_magnumUranium = cartucho (.45 magnum urânio)
-    .desc = {ent-BaseCartridge45_magnum.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/5.56x45mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge556x45mm = cartucho (5.56x45mm FMJ)
     .desc = Um cartucho intermediário extremamente comum para rifles.
 
 ent-Cartridge556x45mmFMJ = cartucho (5.56x45mm FMJ)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmHP = cartucho (5.56x45mm ogiva oca)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmIncendiary = cartucho (5.56x45mm incendiário)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmPlasteelAP = cartucho (5.56x45mm perfurante)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmPractice = cartucho (5.56x45mm prática)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmRIP = cartucho (5.56x45mm RIP)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmRubber = cartucho (5.56x45mm borracha)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 ent-Cartridge556x45mmUranium = cartucho (5.56x45mm urânio)
-    .desc = {ent-BaseCartridge556x45mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/5.7x28mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge57x28mm = cartucho (5.7x28mm FMJ)
     .desc = Um cartucho pequeno para PDW. Mais dano interno que o 4.6, mas com menos capacidades de penetração de blindagem. Anteriormente infame por seu alto custo.
 
 ent-Cartridge57x28mmEmp = cartucho (5.7x28mm emp)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmFMJ = cartucho (5.7x28mm FMJ)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmHP = cartucho (5.7x28mm ogiva oca)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmIncendiary = cartucho (5.7x28mm incendiário)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmPlasteelAP = cartucho (5.7x28mm perfurante)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmPractice = cartucho (5.7x28mm prática)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmRIP = cartucho (5.7x28mm RIP)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmRubber = cartucho (5.7x28mm borracha)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 ent-Cartridge57x28mmUranium = cartucho (5.7x28mm urânio)
-    .desc = {ent-BaseCartridge57x28mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/55_SAM.yml
 
@@ -4199,192 +4172,146 @@ ent-Cartridge55_SAM = cartucho (.55 Smart Magnum Action)
     .desc = Uma bala inteligente .55 com uma carga bastante pesada de propelente de reforço na parte inferior.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/6.35x40mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge635x40mmCaseless = cartucho (.25 rifle)
     .desc = Desenvolvido durante guerras corporativas para armas subsônicas manter um baixo perfil durante operações.
 
 ent-Cartridge635x40mmCaseless = cartucho (635x40mm sem estojo)
-    .desc = {ent-BaseCartridge635x40mmCaseless.desc}
 
 ent-Cartridge635x40mmCaselessPractice = cartucho (635x40mm sem estojo prática)
-    .desc = {ent-BaseCartridge635x40mmCaseless.desc}
 
 ent-Cartridge635x40mmCaselessRubber = cartucho (635x40mm sem estojo borracha)
-    .desc = {ent-BaseCartridge635x40mmCaseless.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/68x52mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge68x52mmCaseless = cartucho (6.8x52mm STANAG sem estojo)
     .desc = Um novo projétil intermediário sem estojo desenvolvido em programas recentes de padronização da TSF, usando experiência de munição sem estojo de guerras corporativas antigas para aprimorar o desempenho de fuzis em todos os setores.
 
 ent-Cartridge68x52mmCaseless = cartucho (6.8x52mm STANAG sem estojo)
-    .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 ent-Cartridge68x52mmCaselessHP = cartucho (6.8x52mm STANAG sem estojo HP)
-    .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 ent-Cartridge68x52mmCaselessPlasteelAP = cartucho (6.8x52mm STANAG sem estojo perfurante)
-    .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 ent-Cartridge68x52mmCaselessPractice = cartucho (6.8x52mm STANAG sem estojo prática)
-    .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 ent-Cartridge68x52mmCaselessRIP = cartucho (6.8x52mm STANAG sem estojo RIP)
-    .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 ent-Cartridge68x52mmCaselessRubber = cartucho (6.8x52mm STANAG sem estojo borracha)
-    .desc = {ent-BaseCartridge68x52mmCaseless.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/7.62x39mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge762x39mm = cartucho (7.62x39mm FMJ)
     .desc = Originando há mais de 400 anos, este projétil foi usado em fuzis de múltiplas milícias e militares igualmente.
 
 ent-Cartridge762x39mmFMJ = cartucho (7.62x39mm FMJ)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmHP = cartucho (7.62x39mm ogiva oca)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmIncendiary = cartucho (7.62x39mm incendiário)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmPlasteelAP = cartucho (7.62x39mm perfurante)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmPractice = cartucho (7.62x39mm prática)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmRIP = cartucho (7.62x39mm RIP)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmRubber = cartucho (7.62x39mm borracha)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmSubsonic = cartucho (7.62x39mm subsonic)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 ent-Cartridge762x39mmUranium = cartucho (7.62x39mm urânio)
-    .desc = {ent-BaseCartridge762x39mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/7.62x51mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge762x51mm = cartucho (7.62x51mm FMJ)
     .desc = Um projétil de potência completa de tamanho decente.
 
 ent-Cartridge762x51mmFMJ = cartucho (7.62x51mm FMJ)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmHP = cartucho (7.62x51mm ogiva oca)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmIncendiary = cartucho (7.62x51mm incendiário)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmPlasteelAP = cartucho (7.62x51mm perfurante)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmPractice = cartucho (7.62x51mm prática)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmRIP = cartucho (7.62x51mm RIP)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmRubber = cartucho (7.62x51mm borracha)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 ent-Cartridge762x51mmUranium = cartucho (7.62x51mm urânio)
-    .desc = {ent-BaseCartridge762x51mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/7.62x54mmR.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge762x54mmR = cartucho (7.62x54mmR FMJ)
     .desc = Um cartucho de rifle de potência total comumente usado em DMRs e rifles de ação de ferrolho civis.
 
 ent-Cartridge762x54mmRFMJ = cartucho (7.62x54mmR FMJ)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRHP = cartucho (7.62x54mmR ogiva oca)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRIncendiary = cartucho (7.62x54mmR incendiário)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRPlasteelAP = cartucho (7.62x54mmR perfurante)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRPractice = cartucho (7.62x54mmR prática)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRRIP = cartucho (7.62x54mmR RIP)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRRubber = cartucho (7.62x54mmR borracha)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 ent-Cartridge762x54mmRUranium = cartucho (7.62x54mmR urânio)
-    .desc = {ent-BaseCartridge762x54mmR.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/700Thz.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge700Thz = cartucho (700Thz DEW)
     .desc = Uma pequena célula de laser químico para uso em Armas de Energia Direcionada. Capaz de disparar um laser pulsado intermediário.
 
 ent-Cartridge700Thz = cartucho (700Thz DEW)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/8x65mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge8x65mmSKR = cartucho (8x65mm SKR)
     .desc = Um projétil experimental de alto desempenho. Projétil padrão para fuzis de alta potência em todos os ramos das forças armadas da TSF.
 
 ent-Cartridge8x65mmSKR = cartucho (8x65mm SKR FMJ)
-    .desc = {ent-BaseCartridge8x65mmSKR.desc}
 
 ent-Cartridge8x65mmSKRIncendiary = cartucho (8x65mm SKR incendiário)
-    .desc = {ent-BaseCartridge8x65mmSKR.desc}
 
 ent-Cartridge8x65mmSKRPractice = cartucho (8x65mm SKR prática)
-    .desc = {ent-BaseCartridge8x65mmSKR.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/9x19mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCartridge9x19mm = cartucho (9x19mm FMJ)
     .desc = Projétil genérico de pistola. Fácil de manusear, com um efeito decente em carne sem blindagem.
 
 ent-Cartridge9x19mmEmp = cartucho (9x19mm emp)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmFMJ = cartucho (9x19mm FMJ)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmHP = cartucho (9x19mm ogiva oca)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmIncendiary = cartucho (9x19mm incendiário)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmPlasteelAP = cartucho (9x19mm perfurante)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmPractice = cartucho (9x19mm prática)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmRIP = cartucho (9x19mm RIP)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmRubber = cartucho (9x19mm borracha)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 ent-Cartridge9x19mmUranium = cartucho (9x19mm urânio)
-    .desc = {ent-BaseCartridge9x19mm.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Cartridges/smartgun.yml
 
@@ -4404,9 +4331,11 @@ ent-40mmGrenadeFragmentation = granada de fragmentação 40mm
 ent-40mmGrenadeThermobaric = granada termobárica 40mm
 
 # Abstract entity (referenceable by children)
+
 ent-BaseCannonBall = bola de canhão base
 
 # Abstract entity (referenceable by children)
+
 ent-BaseGrenade = granada base
 
 ent-CannonBall = bola de canhão
@@ -4437,8 +4366,8 @@ ent-CartridgeRocketSlow = PG-7VL granada \"Snail-Rocket\"
     .desc = Uma ogiva de 1.5 projetada para o lançador RPG-7. É bizarramente lenta.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/10Phz.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine10Phz = carregador DEW (10Phz DEW)
 
 ent-Magazine10Phz = carregador DEW (10Phz)
@@ -4447,8 +4376,8 @@ ent-Magazine10PhzEmpty = carregador DEW (10Phz qualquer)
     .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/12_gauge.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine12_gauge = tambor de munição (calibre 12)
 
 ent-Magazine12_gaugeBeanbag = tambor de munição (calibre 12 beanbags)
@@ -4475,8 +4404,8 @@ ent-Magazine12_gaugeSlugRIP = tambor de munição (calibre 12 RIP)
 ent-Magazine12_gaugeUranium = tambor de munição (calibre 12 urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/12.7x99mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine127x99mm = carregador (12.7x99mm)
 
 ent-Magazine127x99mm = carregador (12.7x99mm antimaterial)
@@ -4490,8 +4419,8 @@ ent-Magazine127x99mmExplosive = carregador (12.7x99mm explosivo)
 ent-MagazineShenzhen = carregador QBU-284 (13,4x92mm DU-APFSDS)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/35mm_grenade.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine35mmGrenade = carregador base (granada 35x53mm)
 
 ent-Magazine35mmGrenade = carregador (granada 35x53mm SAPHE)
@@ -4499,27 +4428,27 @@ ent-Magazine35mmGrenade = carregador (granada 35x53mm SAPHE)
 ent-Magazine35mmGrenadeEmpty = carregador (granada 35x53mm qualquer)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/4_gauge.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine4_gauge = cartucho de munição (calibre 4)
     .desc = Um cartucho desengonçado contendo calibre 4, provavelmente feito para o GS-004-B.
 
 ent-Magazine4_gaugeBuckshot = cartucho de munição (calibre 4 chumbo)
-    .desc = {ent-BaseMagazine4_gauge.desc}
 
 ent-Magazine4_gaugeEmpty = cartucho de munição (calibre 4 qualquer)
     .suffix = vazio
-    .desc = {ent-BaseMagazine4_gauge.desc}
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/4.6x30mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine46x30mm = carregador de pistola (4,6x30mm FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine46x30mmPistolHighCapacityFMJ = carregador de pistola metralhadora (4,6x30mm FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine46x30mmSubMachineGunFMJ = carregador de SMG (4,6x30mm FMJ)
 
 ent-Magazine46x30mmPistolEmpty = carregador de pistola (4,6x30mm qualquer)
@@ -4576,8 +4505,8 @@ ent-Magazine46x30mmSubMachineGunTopMountedFMJ = carregador WT550 montado no topo
 ent-Magazine46x30mmSubMachineGunUranium = carregador de SMG (4,6x30mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/40mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine40mm = cartucho de granada 40mm
 
 ent-Magazine40mmBaton = cartucho de granada 40mm de bastão
@@ -4593,14 +4522,16 @@ ent-Magazine40mmFlash = cartucho de granada 40mm flash
 ent-Magazine40mmFrag = cartucho de granada 40mm fragmentação
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/45_ACP.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine45_ACP = carregador de pistola (.45 ACP FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine45_ACPPistolHighCapacityFMJ = carregador de pistola metralhadora (.45 ACP FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine45_ACPSubMachineGunFMJ = carregador de SMG (.45 ACP FMJ)
 
 ent-Magazine45_ACPPistolEmpty = carregador de pistola (.45 ACP qualquer)
@@ -4657,14 +4588,16 @@ ent-Magazine45_ACPSubMachineGunTopMountedFMJ = carregador montado no topo (.45 A
 ent-Magazine45_ACPSubMachineGunUranium = carregador de SMG (.45 ACP urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/45_magnum.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine45_magnum = carregador de pistola (.45 magnum FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine45_magnumPistolHighCapacityFMJ = carregador de pistola metralhadora (.45 magnum FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine45_magnumSubMachineGunFMJ = carregador de SMG (.45 magnum FMJ)
 
 ent-Magazine45_magnumPistolAP = carregador de pistola (.45 magnum perfuração extrema)
@@ -4717,8 +4650,8 @@ ent-Magazine45_magnumSubMachineGunRubber = carregador de SMG (.45 magnum borrach
 ent-Magazine45_magnumSubMachineGunUranium = carregador de SMG (.45 magnum urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/5.56x45mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine556x45mm = carregador (5,56x45mm FMJ)
 
 ent-Magazine556x45mmEmpty = carregador (5,56x45mm qualquer)
@@ -4750,14 +4683,16 @@ ent-MagazineNovaliteC1Rubber = carregador (5,56x45mm borracha)
     .suffix = cheio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/5.7x28mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine57x28mm = carregador de pistola (5,7x28mm FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine57x28mmPistolHighCapacityFMJ = carregador de pistola metralhadora (5,7x28mm FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine57x28mmSubMachineGunFMJ = carregador de SMG (5,7x28mm FMJ)
 
 ent-Magazine57x28mmPistolEmpty = carregador de pistola (5,7x28mm qualquer)
@@ -4822,14 +4757,16 @@ ent-Magazine55_SAMPistolHighCapacity = carregador de pistola metralhadora (.55 S
     .desc = Um carregador estendido para o MK5 smart magnum, segurando 18 munições.
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/6.35x40mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine635x40mmCaseless = carregador (635x40mm sem estojo)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine635x40mmCaselessPistol = carregador de pistola (635x40mm sem estojo)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine635x40mmCaselessShort = carregador curto de rifle sem estojo (635x40mm sem estojo)
 
 ent-Magazine635x40mmCaseless = carregador (635x40mm sem estojo)
@@ -4849,11 +4786,12 @@ ent-Magazine635x40mmCaselessShort = carregador curto (635x40mm sem estojo)
 ent-Magazine635x40mmCaselessShortPractice = carregador curto (635x40mm sem estojo prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/68x52mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine68x52mmCaseless = carregador (6,8x52mm STANAG sem estojo)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine68x52mmCaselessShort = carregador curto de rifle sem estojo (6,8x52mm STANAG sem estojo)
 
 ent-Magazine68x52mmCaseless = carregador (6,8x52mm STANAG sem estojo)
@@ -4877,8 +4815,8 @@ ent-Magazine68x52mmCaselessShort = carregador curto (6,8x52mm STANAG sem estojo)
 ent-Magazine68x52mmCaselessShortPractice = carregador curto (6,8x52mm STANAG sem estojo prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/7.62x39mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine762x39mm = carregador (7,62x39mm FMJ)
 
 ent-Magazine762x39mmBox = caixa de carregador L6 SAW (7,62x39mm FMJ)
@@ -4924,8 +4862,8 @@ ent-Magazine762x39mmUranium = carregador (7,62x39mm urânio)
 ent-MagazineDP29 = carregador DP-29 (7,62x39mm)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/7.62x51mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine762x51mm = carregador (7,62x51mm FMJ)
 
 ent-Magazine762x51mmEmpty = carregador (7,62x51mm qualquer)
@@ -4961,8 +4899,8 @@ ent-Magazine762x51mmRubber = carregador (7,62x51mm borracha)
 ent-Magazine762x51mmUranium = carregador (7,62x51mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/7.62x54mmR.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine762x54mmR = carregador (7,62x54mmR FMJ)
 
 ent-Magazine762x54mmREmpty = carregador (7,62x54mmR qualquer)
@@ -4985,8 +4923,8 @@ ent-Magazine762x54mmRRubber = carregador (7,62x54mmR borracha)
 ent-Magazine762x54mmRUranium = carregador (7,62x54mmR urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/700Thz.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine700Thz = carregador DEW (700Thz DEW)
 
 ent-Magazine700Thz = carregador DEW (700Thz DEW)
@@ -4995,11 +4933,12 @@ ent-Magazine700ThzEmpty = carregador DEW (700Thz qualquer)
     .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/8x65mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine8x65mm = carregador STANAG (8x65mm SKR)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine8x65mmBox = caixa SAW (8x65mm SKR)
 
 ent-Magazine8x65mmEmpty = carregador STANAG (8x65mm SKR qualquer)
@@ -5017,14 +4956,16 @@ ent-Magazine8x65mmSKRIncendiary = carregador STANAG (8x65mm SKR incendiário)
 ent-Magazine8x65mmSKRPractice = carregador STANAG (8x65mm SKR prática)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/9x19mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine9x19mm = carregador de pistola (9x19mm FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine9x19mmPistolHighCapacityFMJ = carregador de pistola metralhadora (9x19mm FMJ)
 
 # Abstract entity (referenceable by children)
+
 ent-BaseMagazine9x19mmSubMachineGunFMJ = carregador de SMG (9x19mm FMJ)
 
 ent-Magazine9x19mmPistolEmpty = carregador de pistola (9x19mm qualquer)
@@ -5420,8 +5361,8 @@ ent-StickyGrenadeLaunched = bomba pegajosa
 ent-HandheldAutopulserProjectile = projétil de plasma
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/45_magnum.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseSpeedLoader45_magnum = carregador rápido (.45 magnum)
 
 ent-SpeedLoader45_magnumAP = carregador rápido (.45 magnum perfuração extrema de blindagem)
@@ -5445,8 +5386,8 @@ ent-SpeedLoader45_magnumRubber = carregador rápido (.45 magnum borracha)
 ent-SpeedLoader45_magnumUranium = carregador rápido (.45 magnum urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/5.56x45mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseSpeedLoader556x45mm = carregador rápido (5,56x45mm FMJ)
 
 ent-SpeedLoader556x45mmEmpty = carregador rápido (5,56x45mm qualquer)
@@ -5470,8 +5411,8 @@ ent-SpeedLoader762x39mmFMJ = carregador rápido (7,62x39mm FMJ)
 ent-SpeedLoader762x54mmRFMJ = carregador rápido (7,62x54mmR FMJ)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/SpeedLoaders/9x19mm.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseSpeedLoader9x19mm = carregador rápido (9x19mm FMJ)
 
 ent-SpeedLoader9x19mmEmpty = carregador rápido (9x19mm qualquer)
@@ -5487,18 +5428,20 @@ ent-SpeedLoader9x19mmRubber = carregador rápido (9x19mm borracha)
 ent-SpeedLoader9x19mmUranium = carregador rápido (9x19mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Attachments/base.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseGunAttachmentGrip = empunhadura
     .suffix = Acessório de Empunhadura
     .desc = Ajuda um pouco no controle do recuo.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseGunAttachmentOptic = ótica
     .suffix = Acessório de Ótica
     .desc = Uau, consigo ver mais longe!
 
 # Abstract entity (referenceable by children)
+
 ent-BaseGunAttachmentSuppressor = silenciador
     .suffix = Acessório de Cano
     .desc = Torna o tiro de arma de fogo um pouco mais silencioso.
@@ -6016,6 +5959,7 @@ ent-WeaponTurretCharon = acelerador de massa M381 CHARON
     .desc = Um canhão rail de classe capital que dispara um projétil massivo em velocidade extrema, capaz de causar danos catastróficos a navios inimigos. Acelerador linear pesado, pode ser ativado remotamente ou conectado a um GCS. Este se alimenta de um autoloader em algum lugar, e não precisa recargas manuais.
 
 # Abstract entity (referenceable by children)
+
 ent-WeaponTurretCharonBase = acelerador de massa M381 CHARON
     .suffix = Capital, T4
 
@@ -6107,6 +6051,7 @@ ent-255mmBulletEMP = projétil EMP de 255mm
 ent-90mmBulletAP = {ent-90mmBulletBase}
 
 # Abstract entity (referenceable by children)
+
 ent-90mmBulletBase = projétil
 
 ent-90mmBulletHE = {ent-90mmBulletBase}
@@ -6375,8 +6320,8 @@ ent-CrystalMonolithic = cristal de éter pequeno
     .desc = Um sólido cristalino misterioso. Parece altamente energético, mas frágil.
 
 # From: _Mono/Entities/Structures/dispensers.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseCargoChute = duto de entrega de carga base
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
@@ -6480,39 +6425,31 @@ ent-StationAiUploadComputerUnlocked = console de upload da IA
 # From: _Mono/Entities/Structures/Machines/Computers/computers_shipyard_mothership.yml
 
 ent-BalorCarrierComputer = console de estaleiro balor
-    .desc = {ent-BaseCarrierComputer.desc}
 
 # Abstract entity (referenceable by children)
-ent-BaseCarrierComputer = console de porta-naves
+
+ent-BaseCarrierComputer = {ent-ComputerShipyardBase}
     .suffix = Porta-naves
     .desc = Usado em porta-naves para comprar e vender naves sem retornar a uma estação.
 
 ent-HiveCarrierComputer = console de porta-naves zephyr
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-JupiterCarrierComputer = console de estaleiro jupiter
     .desc = Estaleiro mais leve usando os hangares internos do Júpiter, não tem acesso à lista completa de navios da Dinastia Phaethon.
 
 ent-LedokolAttachmentComputer = console de anexo ledokol
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-MiningCarrierComputer = console de porta-naves de mineração
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-PDVMotleyAnneCarrierComputer = console de estaleiro motley anne
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-RavagerCarrierComputer = console de estaleiro ravager
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-SellOnlyCarrierComputer = console de estaleiro apenas venda
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-TSFCarrierComputer = console de porta-naves TSF
-    .desc = {ent-BaseCarrierComputer.desc}
 
 ent-WindreignCarrierComputer = console de estaleiro windreign
-    .desc = {ent-BaseCarrierComputer.desc}
 
 # From: _Mono/Entities/Structures/Machines/Computers/flight_control.yml
 
@@ -6571,11 +6508,12 @@ ent-TSFComputerComms = computador de comunicações TSFMC
     .desc = Um console de comunicações usado por instalações Trans-Solar para fazer anúncios em todo o setor.
 
 # From: _Mono/Entities/Structures/Machines/datafarms.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseDataFarm = datafarm base
 
 # Abstract entity (referenceable by children)
+
 ent-BaseDataFarmIndestructible = datafarm base
 
 ent-DatafarmCrypto = fazenda de dados (Cripto)
@@ -6779,13 +6717,14 @@ ent-ShieldGenerator = Gerador de Escudo MS-500 "Titã"
     .desc = O Titã. Escudos avançados, com tempo de recarga rápido, e excelente contra colisões.
 
 # Abstract entity (referenceable by children)
+
 ent-ShieldGeneratorBase = Gerador de Escudo
 
 ent-ShieldGeneratorMedium = Gerador de Escudo MS-250 "Égide"
     .suffix = APENAS ADS/TSF, APENAS NAVIOS COM CUPOM CI
     .desc = A Égide. Escudos avançados, com longo tempo de recarga, com durabilidade muito alta.
 
-ent-ShieldGeneratorPOI = Gerador de Escudo de Posto FS-421 "Fortaleza"
+ent-ShieldGeneratorPOI = Gerador de Escudo de Outpost FS-421 "Fortaleza"
     .suffix = APENAS POI
     .desc = A Fortaleza. O mais recente e melhor em escudos estáticos em grande escala.
 
@@ -6797,8 +6736,8 @@ ent-ShieldGeneratorTSFCapital = Gerador de Escudo Capital LM-212 "Vanguarda"
     .desc = Um escudo capital pesado. Boa durabilidade, recarga rápida e anti-colisão construído em um.
 
 # From: _Mono/Entities/Structures/Machines/smart_storage.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseSmartStorage = BaseSmartStorage
     .desc = Armazena coisas em uma lista foda incrível é top cara.
 
@@ -6980,25 +6919,29 @@ ent-EmblemSteelHammer = Emblema Steel Hammer Manufacturing
     .desc = O emblema da Steel Hammer Manufacturing, feito em plasteel pintado - assim como seus cascos.
 
 # From: _Mono/Entities/Structures/walls.yml
-
 # Abstract entity (referenceable by children)
+
 ent-BaseWallOutpost = parede super ultra giga mega reforçada de luxo
-    .suffix = APENAS POSTO
+    .suffix = APENAS OUTPOST
     .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseWallTierFour = parede super ultra giga reforçada
     .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseWallTierOne = parede padrão
     .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseWallTierThree = parede super reforçada
     .desc = Mantém o ar dentro e a quimera fora.
 
 # Abstract entity (referenceable by children)
+
 ent-BaseWallTierTwo = parede reforçada
     .desc = Mantém o ar dentro e a quimera fora.
 
@@ -7009,17 +6952,15 @@ ent-WallPlastitaniumDiagonalCapital = parede de plastitanio reforçada
     .suffix = diagonal, APENAS CAPITAL
 
 ent-WallPlastitaniumDiagonalOutpost = parede de plastitanio
-    .suffix = diagonal, APENAS POSTO
+    .suffix = diagonal, APENAS OUTPOST
 
 ent-WallReinforcedChitinMonolithic = tenebris monolítico
-    .desc = {ent-BaseWallOutpost.desc}
 
 ent-WallReinforcedDiagonalOutpost = parede reforçada
-    .suffix = diagonal, APENAS POSTO
+    .suffix = diagonal, APENAS OUTPOST
 
 ent-WallSolidChitinMonolithic = tenebris monolítico
-    .suffix = DEPRECATED
-    .desc = {ent-BaseWallOutpost.desc}
+    .suffix = LEGADO
 
 # From: _Mono/Entities/Structures/windows.yml
 
@@ -7040,7 +6981,7 @@ ent-PlasturaniumWindowRadProofIndestructible = janela de plasturanio
     .desc = Não manche os rads aí embaixo.
 
 ent-ReinforcedWindowOutpost = janela reforçada
-    .suffix = APENAS POSTO
+    .suffix = APENAS OUTPOST
 
 ent-TimedSealsTableSpawner = gerador aleatório de selos temporizados (30-180 minutos)
 
@@ -7128,12 +7069,13 @@ ent-FloorTileItemSteelMonoCommercial = piso de aço mono comercial
 ent-FloorTileItemTechMaintAlt = piso de manutenção mecânico
 
 # From: _Mono/Entities/Objects/Weapons/Bombs/bottlebomb.yml
+
 ent-FloorTileItemTechmaintSterile = piso techmaint estéril
 
-ent-BoxSurvivalMonoNitrogenExtended = { ent-BoxBaseSurvivalMono }
+ent-BoxSurvivalMonoNitrogenExtended = {ent-BoxBaseSurvivalMono}
     .suffix = Nitrogênio
 
-ent-BoxSurvivalMonoOxygenExtended = { ent-BoxBaseSurvivalMono }
+ent-BoxSurvivalMonoOxygenExtended = {ent-BoxBaseSurvivalMono}
     .suffix = Oxigênio.
 
 ent-ClothingBeltSheathFilledNavy = {ent-ClothingBeltSheath}
@@ -7143,1242 +7085,1243 @@ ent-SyringeCaseAltFilled = {ent-SyringeCaseAlt}
     .suffix = Cheio
 
 ent-WeaponCaseHeavyAmmo150AP = {ent-WeaponCaseHeavyAmmo}
-    .suffix =  Pesado, navio, 150mm perfurante
+    .suffix = Pesado, navio, 150mm perfurante
 
 ent-WeaponCaseHeavyAmmo150EMP = {ent-WeaponCaseHeavyAmmo}
-    .suffix =  Pesado, nave, 150mm EMP
+    .suffix = Pesado, nave, 150mm EMP
 
-ent-WeaponCaseAbielle =
+ent-WeaponCaseAbielle = {ent-WeaponCaseLong}
     .suffix = Dungeon, Abielle Smartgun
 
-ent-WeaponCaseAnnie =
+ent-WeaponCaseAnnie = {ent-WeaponCaseLong}
     .suffix = Dungeon, Annie
 
-ent-WeaponCaseBigLeady =
+ent-WeaponCaseBigLeady = {ent-WeaponCaseLong}
     .suffix = Dungeon, Big Leady
 
-ent-WeaponCaseDP29 =
+ent-WeaponCaseDP29 = {ent-WeaponCaseHeavy}
     .suffix = Dungeon, DP-29.
 
-ent-WeaponCaseLongAK220 =
+ent-WeaponCaseLongAK220 = {ent-WeaponCaseLong}
     .suffix = Dungeon, AK-220
 
-ent-WeaponCaseMla34 =
+ent-WeaponCaseMla34 = {ent-WeaponCaseLong}
     .suffix = Dungeon, MIA-34
 
-ent-WeaponCaseMla73 =
+ent-WeaponCaseMla73 = {ent-WeaponCaseLong}
     .suffix = Dungeon, MIA-73
 
-ent-WeaponCaseMla79 =
+ent-WeaponCaseMla79 = {ent-WeaponCaseHeavy}
     .suffix = Dungeon, MIA-79
 
-ent-WeaponCaseMr8c =
+ent-WeaponCaseMr8c = {ent-WeaponCaseLong}
     .suffix = Dungeon, MR-8C
 
-ent-WeaponCaseShortAnaconda =
+ent-WeaponCaseShortAnaconda = {ent-WeaponCaseShort}
     .suffix = Dungeon, Anaconda
 
-ent-WeaponCaseShortEg4 =
+ent-WeaponCaseShortEg4 = {ent-WeaponCaseShort}
     .suffix = Dungeon, EG-4
 
-ent-WeaponCaseWspr =
+ent-WeaponCaseWspr = {ent-WeaponCaseLong}
     .suffix = Dungeon, WSPR
 
-ent-LockerWallEVAColorDMEFilled =
+ent-LockerWallEVAColorDMEFilled = {ent-LockerWallEVAColorDME}
     .suffix = Cheio
 
-ent-ClosetMaintenanceFilledRandomMono =
+ent-ClosetMaintenanceFilledRandomMono = {ent-ClosetMaintenance}
     .suffix = Cheio, Aleatório, Mono
 
-ent-SuitStorageWallmountEVAAtmosTech =
+ent-SuitStorageWallmountEVAAtmosTech = {ent-SuitStorageWallmount}
     .suffix = EVA, Técnico de Atmosferia
 
-ent-SuitStorageWallmountEVABoxerBlue =
+ent-SuitStorageWallmountEVABoxerBlue = {ent-SuitStorageWallmount}
     .suffix = EVA, Boxer, Azul
 
-ent-SuitStorageWallmountEVABoxerGreen =
+ent-SuitStorageWallmountEVABoxerGreen = {ent-SuitStorageWallmount}
     .suffix = EVA, Boxer, Green
 
-ent-SuitStorageWallmountEVABoxerRandom =
+ent-SuitStorageWallmountEVABoxerRandom = {ent-SuitStorageWallmount}
     .suffix = EVA, Boxer, Random
 
-ent-SuitStorageWallmountEVABoxerRed =
+ent-SuitStorageWallmountEVABoxerRed = {ent-SuitStorageWallmount}
     .suffix = EVA, Boxer, Vermelho
 
-ent-SuitStorageWallmountEVABoxerYellow =
+ent-SuitStorageWallmountEVABoxerYellow = {ent-SuitStorageWallmount}
     .suffix = EVA, Boxer, Amarelo
 
-ent-SuitStorageWallmountEVACaptain =
+ent-SuitStorageWallmountEVACaptain = {ent-SuitStorageWallmount}
     .suffix = EVA, Capitão.
 
-ent-SuitStorageWallmountEVACargo =
+ent-SuitStorageWallmountEVACargo = {ent-SuitStorageWallmount}
     .suffix = EVA, Técnico de Carga
 
-ent-SuitStorageWallmountEVAChaplain =
+ent-SuitStorageWallmountEVAChaplain = {ent-SuitStorageWallmount}
     .suffix = EVA, Capelão
 
-ent-SuitStorageWallmountEVAContractor =
+ent-SuitStorageWallmountEVAContractor = {ent-SuitStorageWallmount}
     .suffix = EVA, Empreiteiro
 
-ent-SuitStorageWallmountEVAEngineer =
+ent-SuitStorageWallmountEVAEngineer = {ent-SuitStorageWallmount}
     .suffix = EVA, Engenheiro
 
-ent-SuitStorageWallmountEVAGoblin =
+ent-SuitStorageWallmountEVAGoblin = {ent-SuitStorageWallmount}
     .suffix = EVA, Duende
 
-ent-SuitStorageWallmountEVAHydro =
+ent-SuitStorageWallmountEVAHydro = {ent-SuitStorageWallmount}
     .suffix = EVA, Hidropônica
 
-ent-SuitStorageWallmountEVAJanitor =
+ent-SuitStorageWallmountEVAJanitor = {ent-SuitStorageWallmount}
     .suffix = EVA, zelador.
 
-ent-SuitStorageWallmountEVAMail =
+ent-SuitStorageWallmountEVAMail = {ent-SuitStorageWallmount}
     .suffix = EVA, Transportador de Correio
 
-ent-SuitStorageWallmountEVAMedical =
+ent-SuitStorageWallmountEVAMedical = {ent-SuitStorageWallmount}
     .suffix = EVA, Médico Doutor.
 
-ent-SuitStorageWallmountEVAMercenary =
+ent-SuitStorageWallmountEVAMercenary = {ent-SuitStorageWallmount}
     .suffix = EVA, Mercenário
 
-ent-SuitStorageWallmountEVANfsd =
+ent-SuitStorageWallmountEVANfsd = {ent-SuitStorageWallmount}
     .suffix = EVA, TCFMC
 
-ent-SuitStorageWallmountEVAPilot =
+ent-SuitStorageWallmountEVAPilot = {ent-SuitStorageWallmount}
     .suffix = EVA, Piloto
 
-ent-SuitStorageWallmountEVAPrivateSec =
+ent-SuitStorageWallmountEVAPrivateSec = {ent-SuitStorageWallmount}
     .suffix = EVA, Segurança Privada
 
-ent-SuitStorageWallmountEVASalvage =
+ent-SuitStorageWallmountEVASalvage = {ent-SuitStorageWallmount}
     .suffix = EVA, Especialista em Salvage
 
-ent-SuitStorageWallmountEVAScientist =
+ent-SuitStorageWallmountEVAScientist = {ent-SuitStorageWallmount}
     .suffix = EVA, Cientista
 
-ent-SuitStorageWallmountEVAServiceWorker =
+ent-SuitStorageWallmountEVAServiceWorker = {ent-SuitStorageWallmount}
     .suffix = EVA, Trabalhador de Serviço
 
-ent-SuitStorageWallmountEVASr =
+ent-SuitStorageWallmountEVASr = {ent-SuitStorageWallmount}
     .suffix = EVA, Ligação Colonial
 
-ent-SuitStorageWallmountParamedic =
+ent-SuitStorageWallmountParamedic = {ent-SuitStorageWallmount}
     .suffix = EVA, Paramédico
 
-ent-SuitStorageCommissar =
+ent-SuitStorageCommissar = {ent-SuitStorageBase}
     .suffix = USSP Comissar Suits
 
-ent-SuitStorageM82b =
+ent-SuitStorageM82b = {ent-SuitStorageBase}
     .suffix = M82b Hardsuit
 
-ent-SuitStorageM82c =
+ent-SuitStorageM82c = {ent-SuitStorageBase}
     .suffix = M82c Hardsuit
 
-ent-SuitStorageM86 =
+ent-SuitStorageM86 = {ent-SuitStorageBase}
     .suffix = M86 Hardsuit
 
-ent-SuitStorageSheriff =
-    .suffix =  Coronel da TMFMC
+ent-SuitStorageSheriff = {ent-SuitStorageBase}
+    .suffix = Coronel da TMFMC
 
-ent-SuitStorageSyndieCommander =
-    .suffix =  Comandante Hardsuit
+ent-SuitStorageSyndieCommander = {ent-SuitStorageBase}
+    .suffix = Comandante Hardsuit
 
-ent-SuitStorageSyndieMedic =
+ent-SuitStorageSyndieMedic = {ent-SuitStorageBase}
     .suffix = Sindicate Medic Hardsuit
 
-ent-SuitStorageUssp =
+ent-SuitStorageUssp = {ent-SuitStorageBase}
     .suffix = USSP L-27
 
-ent-SuitStorageUsspL10 =
+ent-SuitStorageUsspL10 = {ent-SuitStorageBase}
     .suffix = USSP L-10
 
-ent-SuitStorageViperJackal =
+ent-SuitStorageViperJackal = {ent-SuitStorageBase}
     .suffix = Grupo Viper, Chacal.
 
-ent-SuitStorageViperWL =
+ent-SuitStorageViperWL = {ent-SuitStorageBase}
     .suffix = Grupo Viper - BROOD
 
-ent-StructureGunRackBanditFilled =
+ent-StructureGunRackBanditFilled = {ent-StructureGunRack}
     .suffix = Cheio, Bandit DMR
 
-ent-StructureGunRackMla34Filled =
+ent-StructureGunRackMla34Filled = {ent-StructureGunRack}
     .suffix = Cheio, MLA-34 Smartgun
 
-ent-ClothingModsuitMercenaryPowerCell = { ent-ClothingModsuitMercenary }
-    .suffix =  Bateria de alta capacidade
+ent-ClothingModsuitMercenaryPowerCell = {ent-ClothingModsuitMercenary}
+    .suffix = Bateria de alta capacidade
 
-ent-ClothingModsuitRoguePowerCell = { ent-ClothingModsuitRogue }
-    .suffix =  Bateria de alta capacidade
+ent-ClothingModsuitRoguePowerCell = {ent-ClothingModsuitRogue}
+    .suffix = Bateria de alta capacidade
 
-ent-ClothingModsuitUSSPVaryagPowerCell = { ent-ClothingModsuitUSSPVaryag }
-    .suffix =  Bateria de alta capacidade
+ent-ClothingModsuitUSSPVaryagPowerCell = {ent-ClothingModsuitUSSPVaryag}
+    .suffix = Bateria de alta capacidade
 
-ent-ClothingModsuitUSSPZastavnikPowerCell = { ent-ClothingModsuitUSSPZastavnik }
-    .suffix =  Bateria de alta capacidade
+ent-ClothingModsuitUSSPZastavnikPowerCell = {ent-ClothingModsuitUSSPZastavnik}
+    .suffix = Bateria de alta capacidade
 
-ent-ClothingModsuitVoltaPowerCell = { ent-ClothingModsuitVolta }
-    .suffix =  Bateria de alta capacidade
+ent-ClothingModsuitVoltaPowerCell = {ent-ClothingModsuitVolta}
+    .suffix = Bateria de alta capacidade
 
-ent-ClothingOuterHardsuitAsakimUnremoveable = { ent-ClothingOuterHardsuitAsakim }
+ent-ClothingOuterHardsuitAsakimUnremoveable = {ent-ClothingOuterHardsuitAsakim}
     .suffix = 120 StripDelay
 
-ent-AFInterceptorMBattery = { ent-AFInterceptorM }
-    .suffix =  Bateria
+ent-AFInterceptorMBattery = {ent-AFInterceptorM}
+    .suffix = Bateria
 
-ent-AFInterceptorMFilled = { ent-AFInterceptorM }
-    .suffix =  Bateria, cheia.
+ent-AFInterceptorMFilled = {ent-AFInterceptorM}
+    .suffix = Bateria, cheia.
 
-ent-SalvageSpawnerPlastitaniumCommon =
+ent-SalvageSpawnerPlastitaniumCommon = {ent-SalvageSpawnerScrapCommon}
     .suffix = Plastânio, 1-3
 
-ent-SpawnerPlastitaniumCommon =
+ent-SpawnerPlastitaniumCommon = 
     .suffix = Plastânio, 1-3
 
 ent-ScrapProcessorRollTrunk = O processador de sucata rolou o porta-malas.
 
-ent-MaterialDiamond5 =
-    .suffix =  Salvage
+ent-MaterialDiamond5 = {ent-MaterialDiamond}
+    .suffix = Salvage
 
-ent-MaterialPyrogel1 = { ent-MaterialPyrogel }
+ent-MaterialPyrogel1 = {ent-MaterialPyrogel}
     .suffix = 1
 
-ent-SheetIridite1 = { ent-MaterialIridite }
+ent-SheetIridite1 = {ent-MaterialIridite}
     .suffix = 1
 
-ent-SheetIridite10 = { ent-MaterialIridite }
+ent-SheetIridite10 = {ent-MaterialIridite}
     .suffix = 10
 
-ent-SheetIridite50 = { ent-MaterialIridite }
+ent-SheetIridite50 = {ent-MaterialIridite}
     .suffix = 50
 
-ent-SheetPlastitanium1 = { ent-SheetPlastitanium }
+ent-SheetPlastitanium1 = {ent-SheetPlastitanium}
     .suffix = 1
 
-ent-SheetPlastitanium10 = { ent-SheetPlastitanium }
+ent-SheetPlastitanium10 = {ent-SheetPlastitanium}
     .suffix = 10
 
-ent-SheetUraniumDepleted1 = { ent-SheetUraniumDepleted }
+ent-SheetUraniumDepleted1 = {ent-SheetUraniumDepleted}
     .suffix = 1
 
-ent-SheetUraniumFissile1 = { ent-SheetUraniumFissile }
+ent-SheetUraniumFissile1 = {ent-SheetUraniumFissile}
     .suffix = 1
 
-ent-NpcStationAiRammerSmart = { ent-NpcStationAiRammer }
+ent-NpcStationAiRammerSmart = {ent-NpcStationAiRammer}
     .suffix = AI, Smart
 
-ent-NpcStationAiRammerSmartDodging = { ent-NpcStationAiRammer }
+ent-NpcStationAiRammerSmartDodging = {ent-NpcStationAiRammer}
     .suffix = Al, Smart, Abnegação
 
-ent-NpcStationAiRammerStraight = { ent-NpcStationAiRammer }
+ent-NpcStationAiRammerStraight = {ent-NpcStationAiRammer}
     .suffix = Al, sem Evasão
 
-ent-PlayerBorgPDV = { ent-BorgChassisSelectablePDV }
-    .suffix =  Bateria, Módulo
+ent-PlayerBorgPDV = {ent-BorgChassisSelectablePDV}
+    .suffix = Bateria, Módulo
 
-ent-PlayerBorgRedacted = { ent-BorgChassisRedacted }
-    .suffix =  Bateria, Módulo
+ent-PlayerBorgRedacted = {ent-BorgChassisRedacted}
+    .suffix = Bateria, Módulo
 
-ent-PlayerBorgRedactedGhostRole = { ent-BorgChassisRedacted }
-    .suffix =  Fantasma
+ent-PlayerBorgRedactedGhostRole = {ent-BorgChassisRedacted}
+    .suffix = Fantasma
 
-ent-PlayerBorgRedactedGhostRolePlaytime = { ent-BorgChassisRedacted }
+ent-PlayerBorgRedactedGhostRolePlaytime = {ent-BorgChassisRedacted}
     .suffix = Ghost, hora da brincadeira.
 
-ent-PlayerBorgTSF = { ent-BorgChassisSelectableTSF }
-    .suffix =  Bateria, Módulo
+ent-PlayerBorgTSF = {ent-BorgChassisSelectableTSF}
+    .suffix = Bateria, Módulo
 
-ent-PlayerStationAiPDV =
-    .suffix =  Papel Fantasma, PDV
+ent-PlayerStationAiPDV = {ent-PlayerStationAiEmpty}
+    .suffix = Papel Fantasma, PDV
 
-ent-PlayerStationAiRedacted =
-    .suffix =  Papel Fantasma, Remanescente
+ent-PlayerStationAiRedacted = {ent-PlayerStationAiEmpty}
+    .suffix = Papel Fantasma, Remanescente
 
-ent-PlayerStationAiSecurity =
-    .suffix =  Papel Fantasma, Segurança
+ent-PlayerStationAiSecurity = {ent-PlayerStationAiEmpty}
+    .suffix = Papel Fantasma, Segurança
 
-ent-PlayerStationAiTSFMC =
-    .suffix =  Papel Fantasma, TMFMC
+ent-PlayerStationAiTSFMC = {ent-PlayerStationAiEmpty}
+    .suffix = Papel Fantasma, TMFMC
 
-ent-PlayerStationAiVessel =
-    .suffix =  Papel Fantasma, Nave
+ent-PlayerStationAiVessel = {ent-PlayerStationAiEmpty}
+    .suffix = Papel Fantasma, Nave
 
-ent-DrinkBerryTea =
-    .suffix =  Chá de bagas
+ent-DrinkBerryTea = {ent-DrinkGlass}
+    .suffix = Chá de bagas
 
-ent-DrinkChamomileTea =
-    .suffix =  Chá de camomila
+ent-DrinkChamomileTea = {ent-DrinkGlass}
+    .suffix = Chá de camomila
 
-ent-DrinkDecafBlackTea =
-    .suffix =  Chá preto descafeinado
+ent-DrinkDecafBlackTea = {ent-DrinkGlass}
+    .suffix = Chá preto descafeinado
 
-ent-DrinkDecafCoffee =
+ent-DrinkDecafCoffee = {ent-DrinkGlass}
     .suffix = Café descafeinado.
 
-ent-DrinkFruitTea =
-    .suffix =  Chá de frutas
+ent-DrinkFruitTea = {ent-DrinkGlass}
+    .suffix = Chá de frutas
 
-ent-DrinkSyndicateTea =
-    .suffix =  Chá de sindie.
+ent-DrinkSyndicateTea = {ent-DrinkGlass}
+    .suffix = Chá de sindie.
 
-ent-DrinkYorkshireTea =
-    .suffix =  Chá Yorkshire.
+ent-DrinkYorkshireTea = {ent-DrinkGlass}
+    .suffix = Chá Yorkshire.
 
-ent-DoorElectronicsGrandVizier =
+ent-DoorElectronicsGrandVizier = {ent-DoorElectronics}
     .suffix = Grande Vizir, trancado.
 
-ent-DoorElectronicsPdvCommand =
-    .suffix =  Comando PDV, bloqueado.
+ent-DoorElectronicsPdvCommand = {ent-DoorElectronics}
+    .suffix = Comando PDV, bloqueado.
 
-ent-DoorElectronicsTsfEngineer =
-    .suffix =  Engenharia TSF, trancada.
+ent-DoorElectronicsTsfEngineer = {ent-DoorElectronics}
+    .suffix = Engenharia TSF, trancada.
 
-ent-DoorElectronicsUSSP =
+ent-DoorElectronicsUSSP = {ent-DoorElectronics}
     .suffix = USSP, Bloqueado
 
-ent-DoorElectronicsUSSPCommand =
-    .suffix =  Comando USSP, bloqueado.
+ent-DoorElectronicsUSSPCommand = {ent-DoorElectronics}
+    .suffix = Comando USSP, bloqueado.
 
-ent-DoorElectronicsUSSPHigh =
+ent-DoorElectronicsUSSPHigh = {ent-DoorElectronics}
     .suffix = USSP Seguro, trancado
 
-ent-DoorElectronicsViper =
+ent-DoorElectronicsViper = {ent-DoorElectronics}
     .suffix = Grupo Viper, trancado.
 
-ent-DoorElectronicsViperCommand =
-    .suffix =  Comando do Grupo Viper, bloqueado.
+ent-DoorElectronicsViperCommand = {ent-DoorElectronics}
+    .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-DefaultStationBeaconExpedLounge =
-    .suffix =  Salão Expedido
+ent-DefaultStationBeaconExpedLounge = {ent-DefaultStationBeacon}
+    .suffix = Salão Expedido
 
-ent-DefaultStationBeaconMailRoom =
-    .suffix =  Correios
+ent-DefaultStationBeaconMailRoom = {ent-DefaultStationBeacon}
+    .suffix = Correios
 
-ent-DefaultStationBeaconUSSPArmory =
-    .suffix =  Armatório USSP
+ent-DefaultStationBeaconUSSPArmory = {ent-DefaultStationBeacon}
+    .suffix = Armatório USSP
 
-ent-DefaultStationBeaconUSSPBrig =
+ent-DefaultStationBeaconUSSPBrig = {ent-DefaultStationBeacon}
     .suffix = USSP Brig
 
-ent-DefaultStationBeaconUSSPCargo =
+ent-DefaultStationBeaconUSSPCargo = {ent-DefaultStationBeacon}
     .suffix = USSP Cargo
 
-ent-DefaultStationBeaconUSSPCommissar =
-    .suffix =  Comissário da USSP
+ent-DefaultStationBeaconUSSPCommissar = {ent-DefaultStationBeacon}
+    .suffix = Comissário da USSP
 
-ent-DefaultStationBeaconUSSPControl =
+ent-DefaultStationBeaconUSSPControl = {ent-DefaultStationBeacon}
     .suffix = Sala de Controle da USSP
 
-ent-DefaultStationBeaconUSSPDockAlpha =
+ent-DefaultStationBeaconUSSPDockAlpha = {ent-DefaultStationBeacon}
     .suffix = USSP Docks
 
-ent-DefaultStationBeaconUSSPDockBeta =
+ent-DefaultStationBeaconUSSPDockBeta = {ent-DefaultStationBeacon}
     .suffix = USSP Docks
 
-ent-DefaultStationBeaconUSSPDorms =
+ent-DefaultStationBeaconUSSPDorms = {ent-DefaultStationBeacon}
     .suffix = USSP Dormitórios
 
-ent-DefaultStationBeaconUSSPReception =
-    .suffix =  Recepção USSP
+ent-DefaultStationBeaconUSSPReception = {ent-DefaultStationBeacon}
+    .suffix = Recepção USSP
 
-ent-DefaultStationBeaconUSSPServers =
-    .suffix =  Servidores USSP
+ent-DefaultStationBeaconUSSPServers = {ent-DefaultStationBeacon}
+    .suffix = Servidores USSP
 
-ent-DefaultStationBeaconUSSPShipyard =
-    .suffix =  Estaleiro USSP
+ent-DefaultStationBeaconUSSPShipyard = {ent-DefaultStationBeacon}
+    .suffix = Estaleiro USSP
 
-ent-DefaultStationBeaconViperArmory =
+ent-DefaultStationBeaconViperArmory = {ent-DefaultStationBeacon}
     .suffix = Grupo Viper Arsenal
 
-ent-DefaultStationBeaconViperBrig =
+ent-DefaultStationBeaconViperBrig = {ent-DefaultStationBeacon}
     .suffix = Brig do Grupo Viper
 
-ent-DefaultStationBeaconViperCargo =
-    .suffix =  Carga do Grupo Viper
+ent-DefaultStationBeaconViperCargo = {ent-DefaultStationBeacon}
+    .suffix = Carga do Grupo Viper
 
-ent-DefaultStationBeaconViperCommander =
-    .suffix =  Comandante do Grupo Viper.
+ent-DefaultStationBeaconViperCommander = {ent-DefaultStationBeacon}
+    .suffix = Comandante do Grupo Viper.
 
-ent-DefaultStationBeaconViperControl =
+ent-DefaultStationBeaconViperControl = {ent-DefaultStationBeacon}
     .suffix = Sala de Controle do Grupo Viper
 
-ent-DefaultStationBeaconViperDockAlpha =
+ent-DefaultStationBeaconViperDockAlpha = {ent-DefaultStationBeacon}
     .suffix = Grupo Viper Docks, Alfa
 
-ent-DefaultStationBeaconViperDockBeta =
+ent-DefaultStationBeaconViperDockBeta = {ent-DefaultStationBeacon}
     .suffix = Grupo Viper Docks, Beta
 
-ent-DefaultStationBeaconViperDorms =
+ent-DefaultStationBeaconViperDorms = {ent-DefaultStationBeacon}
     .suffix = Grupo Viper dormitórios
 
-ent-DefaultStationBeaconViperReception =
-    .suffix =  Recepção do Grupo Viper
+ent-DefaultStationBeaconViperReception = {ent-DefaultStationBeacon}
+    .suffix = Recepção do Grupo Viper
 
-ent-DefaultStationBeaconViperServers =
-    .suffix =  Servidores do Grupo Viper
+ent-DefaultStationBeaconViperServers = {ent-DefaultStationBeacon}
+    .suffix = Servidores do Grupo Viper
 
-ent-DefaultStationBeaconViperShipyard =
-    .suffix =  Estaleiro do Grupo Viper
+ent-DefaultStationBeaconViperShipyard = {ent-DefaultStationBeacon}
+    .suffix = Estaleiro do Grupo Viper
 
-ent-SheetCopper1 = { ent-MaterialCopper }
+ent-SheetCopper1 = {ent-MaterialCopper}
     .suffix = 1
 
-ent-SheetCopper10 = { ent-MaterialCopper }
+ent-SheetCopper10 = {ent-MaterialCopper}
     .suffix = 10
 
-ent-SheetCopper50 = { ent-MaterialCopper }
+ent-SheetCopper50 = {ent-MaterialCopper}
     .suffix = 50
 
-ent-SheetLithium1 = { ent-MaterialLithium }
+ent-SheetLithium1 = {ent-MaterialLithium}
     .suffix = 1
 
-ent-SheetLithium10 = { ent-MaterialLithium }
+ent-SheetLithium10 = {ent-MaterialLithium}
     .suffix = 10
 
-ent-SheetLithium50 = { ent-MaterialLithium }
+ent-SheetLithium50 = {ent-MaterialLithium}
     .suffix = 50
 
-ent-CopperOre1 = { ent-CopperOre }
+ent-CopperOre1 = {ent-CopperOre}
     .suffix = Solteiro
 
-ent-LithiumOre1 = { ent-LithiumOre }
+ent-LithiumOre1 = {ent-LithiumOre}
     .suffix = Solteiro
 
-ent-GooglyEyesAdmeme = { ent-GooglyEyes }
+ent-GooglyEyesAdmeme = {ent-GooglyEyes}
     .suffix = Adme
 
-ent-GooglyEyesWatchful = { ent-GooglyEyes }
-    .suffix =  Cuidado.
+ent-GooglyEyesWatchful = {ent-GooglyEyes}
+    .suffix = Cuidado.
 
-ent-GooglyEyesWatchfulAdmeme = { ent-GooglyEyes }
+ent-GooglyEyesWatchfulAdmeme = {ent-GooglyEyes}
     .suffix = Adme, cuidado.
 
-ent-RadioImplanterUssp =
+ent-RadioImplanterUssp = 
     .suffix = - Não, não, não.
 
-ent-BlueLobsterUncursed = { ent-BlueLobster }
-    .suffix =  Não amaldiçoado.
+ent-BlueLobsterUncursed = {ent-BlueLobster}
+    .suffix = Não amaldiçoado.
 
-ent-SpaceCash50000 =
+ent-SpaceCash50000 = {ent-SpaceCash}
     .suffix = 50000
 
-ent-SpaceCash75000 =
+ent-SpaceCash75000 = {ent-SpaceCash}
     .suffix = 75000
 
-ent-WeaponTurretCC =
+ent-WeaponTurretCC = {ent-BaseWeaponBallisticTurret}
     .suffix = CC, Colossus
 
-ent-WeaponTurretPDV =
+ent-WeaponTurretPDV = {ent-BaseWeaponBallisticTurret}
     .suffix = PDV
 
-ent-WeaponTurretTSFMC =
+ent-WeaponTurretTSFMC = {ent-BaseWeaponBallisticTurret}
     .suffix = TSFMC
 
-ent-WeaponTurretUSSP =
+ent-WeaponTurretUSSP = {ent-BaseWeaponBallisticTurret}
     .suffix = USSP
 
-ent-WeaponTurretViper =
+ent-WeaponTurretViper = {ent-BaseWeaponBallisticTurret}
     .suffix = Viper.
 
-ent-PowerCellCombatPrinted = { ent-PowerCellCombat }
+ent-PowerCellCombatPrinted = {ent-PowerCellCombat}
     .suffix = Vazio
 
-ent-DeepGasDeposit = { ent-BaseDeepGasDeposit }
+ent-DeepGasDeposit = {ent-BaseDeepGasDeposit}
     .suffix = Normal.
 
-ent-DeepGasDepositAirLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAirLarge = {ent-BaseDeepGasDeposit}
     .suffix = Ar-like, Grande
 
-ent-DeepGasDepositAirSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAirSmall = {ent-BaseDeepGasDeposit}
     .suffix = Ar-like, Small
 
-ent-DeepGasDepositAirVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAirVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Ar-like, Muito Grande
 
-ent-DeepGasDepositAirVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAirVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Ar-like, Muito Pequeno
 
-ent-DeepGasDepositAmmoniaLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAmmoniaLarge = {ent-BaseDeepGasDeposit}
     .suffix = Amônia, Grande
 
-ent-DeepGasDepositAmmoniaSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAmmoniaSmall = {ent-BaseDeepGasDeposit}
     .suffix = Amônia, Pequena
 
-ent-DeepGasDepositAmmoniaVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAmmoniaVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Amônia, muito grande.
 
-ent-DeepGasDepositAmmoniaVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositAmmoniaVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Amônia, muito pequena.
 
-ent-DeepGasDepositCarbonDioxideLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositCarbonDioxideLarge = {ent-BaseDeepGasDeposit}
     .suffix = Dióxido de Carbono, Grande
 
-ent-DeepGasDepositCarbonDioxideSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositCarbonDioxideSmall = {ent-BaseDeepGasDeposit}
     .suffix = Dióxido de Carbono, Pequeno
 
-ent-DeepGasDepositCarbonDioxideVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositCarbonDioxideVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Dióxido de carbono, muito grande.
 
-ent-DeepGasDepositCarbonDioxideVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositCarbonDioxideVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Dióxido de Carbono, Muito Pequeno
 
-ent-DeepGasDepositFrezonLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositFrezonLarge = {ent-BaseDeepGasDeposit}
     .suffix = Frezon, grande.
 
-ent-DeepGasDepositFrezonSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositFrezonSmall = {ent-BaseDeepGasDeposit}
     .suffix = Frezon, Pequeno.
 
-ent-DeepGasDepositFrezonVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositFrezonVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Frezon, muito grande.
 
-ent-DeepGasDepositFrezonVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositFrezonVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Frezon, muito pequeno.
 
-ent-DeepGasDepositLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositLarge = {ent-BaseDeepGasDeposit}
     .suffix = Grande.
 
-ent-DeepGasDepositMuddleEvenLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddleEvenLarge = {ent-BaseDeepGasDeposit}
     .suffix = Confundido, Grande
 
-ent-DeepGasDepositMuddleEvenSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddleEvenSmall = {ent-BaseDeepGasDeposit}
     .suffix = Misterioso, Pequeno
 
-ent-DeepGasDepositMuddleEvenVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddleEvenVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Muddled, Muito Grande
 
-ent-DeepGasDepositMuddleEvenVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddleEvenVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Confundido, Muito pequeno
 
-ent-DeepGasDepositMuddlePlasmaLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddlePlasmaLarge = {ent-BaseDeepGasDeposit}
     .suffix = P+ confuso, grande
 
-ent-DeepGasDepositMuddlePlasmaSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddlePlasmaSmall = {ent-BaseDeepGasDeposit}
     .suffix = P+ confuso, pequeno
 
-ent-DeepGasDepositMuddlePlasmaVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddlePlasmaVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = P+ confuso, muito grande.
 
-ent-DeepGasDepositMuddlePlasmaVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositMuddlePlasmaVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = P+ confuso, muito pequeno.
 
-ent-DeepGasDepositNitrogenLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositNitrogenLarge = {ent-BaseDeepGasDeposit}
     .suffix = Nitrogênio, Grande
 
-ent-DeepGasDepositNitrogenSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositNitrogenSmall = {ent-BaseDeepGasDeposit}
     .suffix = Nitrogênio, Pequeno
 
-ent-DeepGasDepositNitrogenVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositNitrogenVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Nitrogênio, muito grande.
 
-ent-DeepGasDepositNitrogenVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositNitrogenVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Nitrogênio, muito pequeno.
 
-ent-DeepGasDepositNitrousOxideLarge = { ent-BaseDeepGasDeposit }
-    .suffix =  Óxido nitroso, grande
+ent-DeepGasDepositNitrousOxideLarge = {ent-BaseDeepGasDeposit}
+    .suffix = Óxido nitroso, grande
 
-ent-DeepGasDepositNitrousOxideSmall = { ent-BaseDeepGasDeposit }
-    .suffix =  Óxido nitroso, pequeno
+ent-DeepGasDepositNitrousOxideSmall = {ent-BaseDeepGasDeposit}
+    .suffix = Óxido nitroso, pequeno
 
-ent-DeepGasDepositNitrousOxideVeryLarge = { ent-BaseDeepGasDeposit }
-    .suffix =  Óxido nitroso, muito grande.
+ent-DeepGasDepositNitrousOxideVeryLarge = {ent-BaseDeepGasDeposit}
+    .suffix = Óxido nitroso, muito grande.
 
-ent-DeepGasDepositNitrousOxideVerySmall = { ent-BaseDeepGasDeposit }
-    .suffix =  Óxido nitroso, muito pequeno.
+ent-DeepGasDepositNitrousOxideVerySmall = {ent-BaseDeepGasDeposit}
+    .suffix = Óxido nitroso, muito pequeno.
 
-ent-DeepGasDepositOxygenLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositOxygenLarge = {ent-BaseDeepGasDeposit}
     .suffix = Oxigênio, Grande
 
-ent-DeepGasDepositOxygenSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositOxygenSmall = {ent-BaseDeepGasDeposit}
     .suffix = Oxigênio, Pequeno
 
-ent-DeepGasDepositOxygenVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositOxygenVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Oxigênio, muito grande.
 
-ent-DeepGasDepositOxygenVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositOxygenVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Oxigênio, muito pequeno.
 
-ent-DeepGasDepositPlasmaLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositPlasmaLarge = {ent-BaseDeepGasDeposit}
     .suffix = Plasma, grande
 
-ent-DeepGasDepositPlasmaSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositPlasmaSmall = {ent-BaseDeepGasDeposit}
     .suffix = Plasma, Pequeno
 
-ent-DeepGasDepositPlasmaVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositPlasmaVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Plasma, muito grande.
 
-ent-DeepGasDepositPlasmaVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositPlasmaVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Plasma, muito pequeno.
 
-ent-DeepGasDepositSmall = { ent-BaseDeepGasDeposit }
-    .suffix =  Pequeno.
+ent-DeepGasDepositSmall = {ent-BaseDeepGasDeposit}
+    .suffix = Pequeno.
 
-ent-DeepGasDepositVeryLarge = { ent-BaseDeepGasDeposit }
-    .suffix =  Muito grande.
+ent-DeepGasDepositVeryLarge = {ent-BaseDeepGasDeposit}
+    .suffix = Muito grande.
 
-ent-DeepGasDepositVerySmall = { ent-BaseDeepGasDeposit }
-    .suffix =  Muito pequeno.
+ent-DeepGasDepositVerySmall = {ent-BaseDeepGasDeposit}
+    .suffix = Muito pequeno.
 
-ent-DeepGasDepositWaterVaporLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositWaterVaporLarge = {ent-BaseDeepGasDeposit}
     .suffix = Vapor de água, grande
 
-ent-DeepGasDepositWaterVaporSmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositWaterVaporSmall = {ent-BaseDeepGasDeposit}
     .suffix = Vapor de água, Pequeno
 
-ent-DeepGasDepositWaterVaporVeryLarge = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositWaterVaporVeryLarge = {ent-BaseDeepGasDeposit}
     .suffix = Vapor de água, muito grande
 
-ent-DeepGasDepositWaterVaporVerySmall = { ent-BaseDeepGasDeposit }
+ent-DeepGasDepositWaterVaporVerySmall = {ent-BaseDeepGasDeposit}
     .suffix = Vapor de água, muito pequeno
 
-ent-JerryCanNaniteFuel =
+ent-JerryCanNaniteFuel = {ent-JerryCan}
     .suffix = Combustível nanite
 
-ent-DrinkTeaGlassEmpty =
+ent-DrinkTeaGlassEmpty = {ent-DrinkGlass}
     .suffix = Vazio
 
-ent-DesertSand1 = { ent-DesertSand }
+ent-DesertSand1 = {ent-DesertSand}
     .suffix = 1
 
-ent-DesertSand50 = { ent-DesertSand }
+ent-DesertSand50 = {ent-DesertSand}
     .suffix = 50
 
-ent-FloraRockSolidPlanet =
-    .suffix =  planeta
+ent-FloraRockSolidPlanet = {ent-BaseRock}
+    .suffix = planeta
 
-ent-Telecrystal1 =
+ent-Telecrystal1 = {ent-Telecrystal}
     .suffix = 1 TC
 
-ent-MotionDetectorBorg = { ent-MotionDetector }
+ent-MotionDetectorBorg = {ent-MotionDetector}
     .suffix = Borg.
 
-ent-MotionDetectorEmpty = { ent-MotionDetector }
+ent-MotionDetectorEmpty = {ent-MotionDetector}
     .suffix = Vazio
 
-ent-WeaponLauncherMPSSMASM = { ent-WeaponLauncherMPSSM }
+ent-WeaponLauncherMPSSMASM = {ent-WeaponLauncherMPSSM}
     .suffix = ASM.
 
-ent-WeaponCaseAbielleRegistered =
-    .suffix =  Carregar, Abielle Smartgun
+ent-WeaponCaseAbielleRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregar, Abielle Smartgun
 
-ent-WeaponCaseAk502Registered =
-    .suffix =  Carregamento, AK-502.
+ent-WeaponCaseAk502Registered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, AK-502.
 
-ent-WeaponCaseAnnieRegistered =
-    .suffix =  Carregar, Annie
+ent-WeaponCaseAnnieRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregar, Annie
 
-ent-WeaponCaseBigLeadyRegistered =
-    .suffix =  Carregamento, Grande Leady
+ent-WeaponCaseBigLeadyRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, Grande Leady
 
-ent-WeaponCaseLongEnforcerRegistered =
-    .suffix =  Carregar, Forçador.
+ent-WeaponCaseLongEnforcerRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregar, Forçador.
 
-ent-WeaponCaseLongMR3CRegistered =
-    .suffix =  Carregamento, MR-3C.
+ent-WeaponCaseLongMR3CRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, MR-3C.
 
-ent-WeaponCaseLongVulcanRegistered =
-    .suffix =  Carregar, Vulcano.
+ent-WeaponCaseLongVulcanRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregar, Vulcano.
 
-ent-WeaponCaseMalandroRegistered =
-    .suffix =  Carregar, Malandro.
+ent-WeaponCaseMalandroRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregar, Malandro.
 
-ent-WeaponCaseMla34Registered =
-    .suffix =  Carregamento, MIA-34.
+ent-WeaponCaseMla34Registered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, MIA-34.
 
-ent-WeaponCaseMla73Registered =
-    .suffix =  Carregamento, MIA-73
+ent-WeaponCaseMla73Registered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, MIA-73
 
-ent-WeaponCaseMla79Registered =
-    .suffix =  Carregamento, MIA-79
+ent-WeaponCaseMla79Registered = {ent-WeaponCaseHeavy}
+    .suffix = Carregamento, MIA-79
 
-ent-WeaponCaseShortAnacondaRegistered =
-    .suffix =  Carregar, Anaconda
+ent-WeaponCaseShortAnacondaRegistered = {ent-WeaponCaseShort}
+    .suffix = Carregar, Anaconda
 
-ent-WeaponCaseShortEg4Registered =
-    .suffix =  Carregar, EG-4.
+ent-WeaponCaseShortEg4Registered = {ent-WeaponCaseShort}
+    .suffix = Carregar, EG-4.
 
-ent-WeaponCaseVector45AcpRegistered =
-    .suffix =  Carregar, Vector, 45 ACP.
+ent-WeaponCaseVector45AcpRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregar, Vector, 45 ACP.
 
-ent-WeaponCaseVector9mmRegistered =
-    .suffix =  Carregamento, Vector, 9mm.
+ent-WeaponCaseVector9mmRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, Vector, 9mm.
 
-ent-WeaponCaseWsprRegistered =
-    .suffix =  Carregamento, WSPR
+ent-WeaponCaseWsprRegistered = {ent-WeaponCaseLong}
+    .suffix = Carregamento, WSPR
 
-ent-WeaponEnergyRevolverRegistered =
+ent-WeaponEnergyRevolverRegistered = {ent-WeaponEnergyRevolver}
     .suffix = Registrado
 
-ent-WeaponPistolAnacondaRegistered =
+ent-WeaponPistolAnacondaRegistered = {ent-WeaponPistolAnaconda}
     .suffix = Registrado
 
-ent-WeaponRifleAK502Registered =
+ent-WeaponRifleAK502Registered = {ent-WeaponRifleAK502}
     .suffix = Registrado
 
-ent-WeaponRifleAnnieRegistered =
+ent-WeaponRifleAnnieRegistered = {ent-WeaponRifleAnnie}
     .suffix = Registrado
 
-ent-WeaponRifleMla34Registered =
+ent-WeaponRifleMla34Registered = {ent-WeaponRifleMla34}
     .suffix = Registrado
 
-ent-WeaponRifleMR3CRegistered = { ent-WeaponRifleMR3C }
+ent-WeaponRifleMR3CRegistered = {ent-WeaponRifleMR3C}
     .suffix = Registrado
 
-ent-WeaponRifleVulcanRegistered =
+ent-WeaponRifleVulcanRegistered = {ent-WeaponRifleVulcan}
     .suffix = Registrado
 
-ent-WeaponRifleWSPRRegistered =
+ent-WeaponRifleWSPRRegistered = {ent-WeaponRifleWSPR}
     .suffix = Registrado
 
-ent-WeaponShotgunBigLeadyRegistered =
+ent-WeaponShotgunBigLeadyRegistered = {ent-WeaponShotgunBigLeady}
     .suffix = Registrado
 
-ent-WeaponShotgunEnforcerRegistered =
+ent-WeaponShotgunEnforcerRegistered = {ent-WeaponShotgunEnforcer}
     .suffix = Registrado
 
-ent-WeaponSmartLmgRegistered =
+ent-WeaponSmartLmgRegistered = {ent-WeaponSmartLmg}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunMalandroRegistered =
+ent-WeaponSubMachineGunMalandroRegistered = {ent-WeaponSubMachineGunMalandro}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunMla73Registered =
+ent-WeaponSubMachineGunMla73Registered = {ent-WeaponSubMachineGunMla73}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunVector45_ACPRegistered =
+ent-WeaponSubMachineGunVector45_ACPRegistered = {ent-WeaponSubMachineGunVector45_ACP}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunVector9x19mmRegistered =
+ent-WeaponSubMachineGunVector9x19mmRegistered = {ent-WeaponSubMachineGunVector9x19mm}
     .suffix = Registrado
 
-ent-WeaponSubMachineSmartRegistered =
+ent-WeaponSubMachineSmartRegistered = {ent-WeaponSubMachineSmart}
     .suffix = Registrado
 
-ent-WeaponDisablerSMGPMC =
+ent-WeaponDisablerSMGPMC = {ent-WeaponDisablerSMG}
     .suffix = Registrado
 
-ent-WeaponEnergyGunPMC =
+ent-WeaponEnergyGunPMC = {ent-WeaponEnergyGun}
     .suffix = Registrado
 
-ent-WeaponLaserCannonPMC =
+ent-WeaponLaserCannonPMC = {ent-WeaponLaserCannon}
     .suffix = Registrado
 
-ent-WeaponPistolViperPMC =
+ent-WeaponPistolViperPMC = {ent-WeaponPistolViper}
     .suffix = Registrado
 
-ent-WeaponRifleLecterPMC =
+ent-WeaponRifleLecterPMC = {ent-WeaponRifleLecter}
     .suffix = Registrado
 
-ent-WeaponShotgunEnforcerPMC =
+ent-WeaponShotgunEnforcerPMC = {ent-WeaponShotgunEnforcer}
     .suffix = Registrado
 
-ent-WeaponShotgunKammererPMC =
+ent-WeaponShotgunKammererPMC = {ent-WeaponShotgunKammerer}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunC20rPMC =
+ent-WeaponSubMachineGunC20rPMC = {ent-WeaponSubMachineGunC20r}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunDrozdPMC =
+ent-WeaponSubMachineGunDrozdPMC = {ent-WeaponSubMachineGunDrozd}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunMalandroPMC =
+ent-WeaponSubMachineGunMalandroPMC = {ent-WeaponSubMachineGunMalandro}
     .suffix = Registrado
 
-ent-WeaponSubMachineGunWt550PMC =
+ent-WeaponSubMachineGunWt550PMC = {ent-WeaponSubMachineGunWt550}
     .suffix = Registrado
 
-ent-WeaponCaseLongIrohSecurity =
+ent-WeaponCaseLongIrohSecurity = {ent-WeaponCaseLong}
     .suffix = CC, Iroh
 
-ent-WeaponTurretHeavyAllHostile = { ent-BallisticTurretHeavyBase }
-    .suffix =  Todos hostis.
+ent-WeaponTurretHeavyAllHostile = {ent-BallisticTurretHeavyBase}
+    .suffix = Todos hostis.
 
-ent-WeaponTurretHeavyCC = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavyCC = {ent-BallisticTurretHeavyBase}
     .suffix = CC, Colossus
 
-ent-WeaponTurretHeavyHostile = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavyHostile = {ent-BallisticTurretHeavyBase}
     .suffix = Hostil
 
-ent-WeaponTurretHeavyMD = { ent-BallisticTurretHeavyBase }
-    .suffix =  Médico
+ent-WeaponTurretHeavyMD = {ent-BallisticTurretHeavyBase}
+    .suffix = Médico
 
-ent-WeaponTurretHeavyNanoTrasen = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavyNanoTrasen = {ent-BallisticTurretHeavyBase}
     .suffix = NanoTrasen
 
-ent-WeaponTurretHeavyRIPAllHostile = { ent-WeaponTurretHeavyRIPBase }
-    .suffix =  Todos hostis.
+ent-WeaponTurretHeavyRIPAllHostile = {ent-WeaponTurretHeavyRIPBase}
+    .suffix = Todos hostis.
 
-ent-WeaponTurretHeavyRIPCC = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPCC = {ent-WeaponTurretHeavyRIPBase}
     .suffix = CC, Colossus
 
-ent-WeaponTurretHeavyRIPHostile = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPHostile = {ent-WeaponTurretHeavyRIPBase}
     .suffix = Hostil
 
-ent-WeaponTurretHeavyRIPMD = { ent-WeaponTurretHeavyRIPBase }
-    .suffix =  Médico
+ent-WeaponTurretHeavyRIPMD = {ent-WeaponTurretHeavyRIPBase}
+    .suffix = Médico
 
-ent-WeaponTurretHeavyRIPNanoTrasen = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPNanoTrasen = {ent-WeaponTurretHeavyRIPBase}
     .suffix = NanoTrasen
 
-ent-WeaponTurretHeavyRIPSilicon = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPSilicon = {ent-WeaponTurretHeavyRIPBase}
     .suffix = - AI Vampira.
 
-ent-WeaponTurretHeavyRIPSyndicate = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPSyndicate = {ent-WeaponTurretHeavyRIPBase}
     .suffix = Sindicato
 
-ent-WeaponTurretHeavyRIPTSFMC = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPTSFMC = {ent-WeaponTurretHeavyRIPBase}
     .suffix = TSF
 
-ent-WeaponTurretHeavyRIPVDN = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPVDN = {ent-WeaponTurretHeavyRIPBase}
     .suffix = PDV
 
-ent-WeaponTurretHeavyRIPViper = { ent-WeaponTurretHeavyRIPBase }
+ent-WeaponTurretHeavyRIPViper = {ent-WeaponTurretHeavyRIPBase}
     .suffix = Viper.
 
-ent-WeaponTurretHeavySilicon = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavySilicon = {ent-BallisticTurretHeavyBase}
     .suffix = - AI Vampira.
 
-ent-WeaponTurretHeavySyndicate = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavySyndicate = {ent-BallisticTurretHeavyBase}
     .suffix = Sindicato
 
-ent-WeaponTurretHeavyTSFMC = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavyTSFMC = {ent-BallisticTurretHeavyBase}
     .suffix = TSF
 
-ent-WeaponTurretHeavyVDN = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavyVDN = {ent-BallisticTurretHeavyBase}
     .suffix = PDV
 
-ent-WeaponTurretHeavyViper = { ent-BallisticTurretHeavyBase }
+ent-WeaponTurretHeavyViper = {ent-BallisticTurretHeavyBase}
     .suffix = Viper.
 
-ent-WeaponTurretPaladinInfinite = { ent-WeaponTurretPaladin }
+ent-WeaponTurretPaladinInfinite = {ent-WeaponTurretPaladin}
     .suffix = Grande, T4, Infinito
 
-ent-WeaponTurretVanquisherInfinite = { ent-WeaponTurretVanquisher }
+ent-WeaponTurretVanquisherInfinite = {ent-WeaponTurretVanquisher}
     .suffix = Grande, T4, Infinito
 
-ent-JugOmnizine =
+ent-JugOmnizine = {ent-Jug}
     .suffix = Omnizina
 
-ent-AirlockHeavyCaptainLocked = { ent-AirlockHeavy }
-    .suffix =  Capitão, trancado.
+ent-AirlockHeavyCaptainLocked = {ent-AirlockHeavy}
+    .suffix = Capitão, trancado.
 
-ent-AirlockHeavyCommand = { ent-AirlockHeavy }
-    .suffix =  Comando
+ent-AirlockHeavyCommand = {ent-AirlockHeavy}
+    .suffix = Comando
 
-ent-AirlockHeavyCommandFrontierBridgeLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyCommandFrontierBridgeLocked = {ent-AirlockHeavy}
     .suffix = Ponte Fronteira, trancada.
 
-ent-AirlockHeavyCommandFrontierCommandLocked = { ent-AirlockHeavy }
-    .suffix =  Comando de Fronteira, bloqueado.
+ent-AirlockHeavyCommandFrontierCommandLocked = {ent-AirlockHeavy}
+    .suffix = Comando de Fronteira, bloqueado.
 
-ent-AirlockHeavyGrandVizierLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyGrandVizierLocked = {ent-AirlockHeavy}
     .suffix = Grande Vizir, trancado.
 
-ent-AirlockHeavyPDV = { ent-AirlockHeavy }
+ent-AirlockHeavyPDV = {ent-AirlockHeavy}
     .suffix = PDV
 
-ent-AirlockHeavyPDVCommandLocked = { ent-AirlockHeavy }
-    .suffix =  Comando PDV, bloqueado.
+ent-AirlockHeavyPDVCommandLocked = {ent-AirlockHeavy}
+    .suffix = Comando PDV, bloqueado.
 
-ent-AirlockHeavyPDVLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyPDVLocked = {ent-AirlockHeavy}
     .suffix = PDV, trancado.
 
-ent-AirlockHeavySecurity = { ent-AirlockHeavy }
+ent-AirlockHeavySecurity = {ent-AirlockHeavy}
     .suffix = Fronteira
 
-ent-AirlockHeavySecurityFrontierBridgeLocked = { ent-AirlockHeavy }
+ent-AirlockHeavySecurityFrontierBridgeLocked = {ent-AirlockHeavy}
     .suffix = Ponte Fronteira, trancada.
 
-ent-AirlockHeavySecurityFrontierCommandLocked = { ent-AirlockHeavy }
-    .suffix =  Comando de Fronteira, bloqueado.
+ent-AirlockHeavySecurityFrontierCommandLocked = {ent-AirlockHeavy}
+    .suffix = Comando de Fronteira, bloqueado.
 
-ent-AirlockHeavySecurityFrontierLocked = { ent-AirlockHeavy }
+ent-AirlockHeavySecurityFrontierLocked = {ent-AirlockHeavy}
     .suffix = Fronteira, trancada.
 
-ent-AirlockHeavyTsfEngineeringLocked = { ent-AirlockHeavy }
-    .suffix =  Engenharia TSF, trancada.
+ent-AirlockHeavyTsfEngineeringLocked = {ent-AirlockHeavy}
+    .suffix = Engenharia TSF, trancada.
 
-ent-AirlockHeavyTSFMC = { ent-AirlockHeavy }
+ent-AirlockHeavyTSFMC = {ent-AirlockHeavy}
     .suffix = TSFMC
 
-ent-AirlockHeavyTSFMCArmoryLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyTSFMCArmoryLocked = {ent-AirlockHeavy}
     .suffix = Armory da TMFMC, trancado.
 
-ent-AirlockHeavyTSFMCLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyTSFMCLocked = {ent-AirlockHeavy}
     .suffix = TSFMC, trancado.
 
-ent-AirlockHeavyUSSP = { ent-AirlockHeavy }
+ent-AirlockHeavyUSSP = {ent-AirlockHeavy}
     .suffix = USSP
 
-ent-AirlockHeavyUSSPCommandLocked = { ent-AirlockHeavy }
-    .suffix =  Comando USSP, bloqueado.
+ent-AirlockHeavyUSSPCommandLocked = {ent-AirlockHeavy}
+    .suffix = Comando USSP, bloqueado.
 
-ent-AirlockHeavyUSSPLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyUSSPLocked = {ent-AirlockHeavy}
     .suffix = USSP, Bloqueado
 
-ent-AirlockHeavyUSSPSecureLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyUSSPSecureLocked = {ent-AirlockHeavy}
     .suffix = USSP Seguro, trancado
 
-ent-AirlockHeavyViperCommandLocked = { ent-AirlockHeavy }
-    .suffix =  Comando do Grupo Viper, bloqueado.
+ent-AirlockHeavyViperCommandLocked = {ent-AirlockHeavy}
+    .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-AirlockHeavyViperLocked = { ent-AirlockHeavy }
+ent-AirlockHeavyViperLocked = {ent-AirlockHeavy}
     .suffix = Grupo Viper, trancado.
 
-ent-AirlockGlassShuttleNfsdCapitalLocked =
+ent-AirlockGlassShuttleNfsdCapitalLocked = {ent-AirlockGlassShuttleNfsd}
     .suffix = CAPITAL SOMENTE, TMFMC, Vidro, Acoplamento, Bloqueado
 
-ent-AirlockGlassShuttleNfsdOutpostLocked =
-    .suffix =  Apenas para fora, TMFMC, vidro, acoplagem, travado
+ent-AirlockGlassShuttleNfsdOutpostLocked = {ent-AirlockGlassShuttleNfsd}
+    .suffix = Apenas para fora, TMFMC, vidro, acoplagem, travado
 
-ent-AirlockShuttleNfsdCapitalLocked =
+ent-AirlockShuttleNfsdCapitalLocked = {ent-AirlockShuttleNfsd}
     .suffix = CAPITAL SOMENTE, TSFMC, Acoplamento, Trancado
 
-ent-AirlockShuttleNfsdOutpostLocked =
-    .suffix =  Apenas o melhor, TMFMC, acoplagem, travado
+ent-AirlockShuttleNfsdOutpostLocked = {ent-AirlockShuttleNfsd}
+    .suffix = Apenas o melhor, TMFMC, acoplagem, travado
 
-ent-HighSecTSFMCLocked =
+ent-HighSecTSFMCLocked = {ent-HighSecDoor}
     .suffix = TSFMC, trancado.
 
-ent-AirlockTsfEngineering =
-    .suffix =  Engenharia TSF, trancada.
+ent-AirlockTsfEngineering = {ent-Airlock}
+    .suffix = Engenharia TSF, trancada.
 
-ent-AirlockUSSP =
+ent-AirlockUSSP = {ent-Airlock}
     .suffix = USSP, Bloqueado
 
-ent-AirlockUSSPCommand =
-    .suffix =  Comando USSP, bloqueado.
+ent-AirlockUSSPCommand = {ent-Airlock}
+    .suffix = Comando USSP, bloqueado.
 
-ent-AirlockUSSPSecure =
+ent-AirlockUSSPSecure = {ent-Airlock}
     .suffix = USSP Seguro, trancado
 
-ent-AirlockViper =
+ent-AirlockViper = {ent-Airlock}
     .suffix = Grupo Viper, trancado.
 
-ent-AirlockViperCommand =
-    .suffix =  Comando do Grupo Viper, bloqueado.
+ent-AirlockViperCommand = {ent-Airlock}
+    .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-AirlockExternalGlassUSSPLocked =
-    .suffix =  Externo, Glass, USSP, bloqueado.
+ent-AirlockExternalGlassUSSPLocked = 
+    .suffix = Externo, Glass, USSP, bloqueado.
 
-ent-AirlockExternalUSSPLocked =
-    .suffix =  Externo, USSP, bloqueado.
+ent-AirlockExternalUSSPLocked = 
+    .suffix = Externo, USSP, bloqueado.
 
-ent-AirlockTsfEngineeringGlass =
-    .suffix =  Engenharia TSF, trancada.
+ent-AirlockTsfEngineeringGlass = {ent-AirlockGlass}
+    .suffix = Engenharia TSF, trancada.
 
-ent-AirlockUSSPCommandGlass =
-    .suffix =  Comando USSP, bloqueado.
+ent-AirlockUSSPCommandGlass = {ent-AirlockGlass}
+    .suffix = Comando USSP, bloqueado.
 
-ent-AirlockUSSPGlass =
+ent-AirlockUSSPGlass = {ent-AirlockGlass}
     .suffix = USSP, Bloqueado
 
-ent-AirlockUSSPSecureGlass =
+ent-AirlockUSSPSecureGlass = {ent-AirlockGlass}
     .suffix = USSP Seguro, trancado
 
-ent-AirlockViperCommandGlass =
-    .suffix =  Comando do Grupo Viper, bloqueado.
+ent-AirlockViperCommandGlass = {ent-AirlockGlass}
+    .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-AirlockViperGlass =
+ent-AirlockViperGlass = {ent-AirlockGlass}
     .suffix = Grupo Viper, trancado.
 
-ent-AirlockHatchGrandVizierLocked =
+ent-AirlockHatchGrandVizierLocked = {ent-AirlockHatch}
     .suffix = Grande Vizir, trancado.
 
-ent-AirlockHatchPDVCommandLocked =
-    .suffix =  Comando PDV, bloqueado.
+ent-AirlockHatchPDVCommandLocked = {ent-AirlockHatch}
+    .suffix = Comando PDV, bloqueado.
 
-ent-AirlockHatchUSSP =
+ent-AirlockHatchUSSP = {ent-AirlockHatch}
     .suffix = USSP, Bloqueado
 
-ent-AirlockHatchUSSPCommand =
-    .suffix =  Comando USSP, bloqueado.
+ent-AirlockHatchUSSPCommand = {ent-AirlockHatch}
+    .suffix = Comando USSP, bloqueado.
 
-ent-AirlockHatchUSSPSecure =
+ent-AirlockHatchUSSPSecure = {ent-AirlockHatch}
     .suffix = USSP Seguro, trancado
 
-ent-AirlockHatchViper =
+ent-AirlockHatchViper = {ent-AirlockHatch}
     .suffix = Grupo Viper, trancado.
 
-ent-AirlockHatchViperCommand =
-    .suffix =  Comando do Grupo Viper, bloqueado.
+ent-AirlockHatchViperCommand = {ent-AirlockHatch}
+    .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-AirlockHeavyEngineering = { ent-AirlockHeavy }
-    .suffix =  Engenharia
+ent-AirlockHeavyEngineering = {ent-AirlockHeavy}
+    .suffix = Engenharia
 
-ent-AirlockHeavyGrey = { ent-AirlockHeavy }
-    .suffix =  Cinza
+ent-AirlockHeavyGrey = {ent-AirlockHeavy}
+    .suffix = Cinza
 
-ent-AirlockHeavyAssemblyCommand = { ent-AirlockHeavyAssembly }
-    .suffix =  Comando
+ent-AirlockHeavyAssemblyCommand = {ent-AirlockHeavyAssembly}
+    .suffix = Comando
 
-ent-AirlockHeavyAssemblyEngineering = { ent-AirlockHeavyAssembly }
-    .suffix =  Engenharia
+ent-AirlockHeavyAssemblyEngineering = {ent-AirlockHeavyAssembly}
+    .suffix = Engenharia
 
-ent-AirlockHeavyAssemblyGlass = { ent-AirlockHeavyAssembly }
-    .suffix =  Vidro
+ent-AirlockHeavyAssemblyGlass = {ent-AirlockHeavyAssembly}
+    .suffix = Vidro
 
-ent-AirlockHeavyAssemblyGrey = { ent-AirlockHeavyAssembly }
-    .suffix =  Cinza
+ent-AirlockHeavyAssemblyGrey = {ent-AirlockHeavyAssembly}
+    .suffix = Cinza
 
-ent-AirlockHeavyAssemblyPDV = { ent-AirlockHeavyAssembly }
+ent-AirlockHeavyAssemblyPDV = {ent-AirlockHeavyAssembly}
     .suffix = PDV
 
-ent-AirlockHeavyAssemblySecurity = { ent-AirlockHeavyAssembly }
-    .suffix =  Segurança.
+ent-AirlockHeavyAssemblySecurity = {ent-AirlockHeavyAssembly}
+    .suffix = Segurança.
 
-ent-AirlockHeavyAssemblyTSFMC = { ent-AirlockHeavyAssembly }
+ent-AirlockHeavyAssemblyTSFMC = {ent-AirlockHeavyAssembly}
     .suffix = TSFMC
 
-ent-AirlockHeavyAssemblyUSSP = { ent-AirlockHeavyAssembly }
+ent-AirlockHeavyAssemblyUSSP = {ent-AirlockHeavyAssembly}
     .suffix = USSP
 
-ent-HighSecUSSPCommandLocked =
-    .suffix =  Comando USSP, bloqueado.
+ent-HighSecUSSPCommandLocked = {ent-HighSecDoor}
+    .suffix = Comando USSP, bloqueado.
 
-ent-HighSecUSSPLocked =
+ent-HighSecUSSPLocked = {ent-HighSecDoor}
     .suffix = USSP, Bloqueado
 
-ent-HighSecUSSPSecureLocked =
+ent-HighSecUSSPSecureLocked = {ent-HighSecDoor}
     .suffix = USSP Seguro, trancado
 
-ent-HighSecViperCommandLocked =
-    .suffix =  Comando do Grupo Viper, bloqueado.
+ent-HighSecViperCommandLocked = {ent-HighSecDoor}
+    .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-HighSecViperLocked =
+ent-HighSecViperLocked = {ent-HighSecDoor}
     .suffix = Grupo Viper, trancado.
 
-ent-AirlockExternalGlassShuttleUSSPLocked =
+ent-AirlockExternalGlassShuttleUSSPLocked = {ent-AirlockGlassShuttleSyndicate}
     .suffix = USSP, Bloqueado, Vidro
 
-ent-AirlockExternalGlassShuttleViperLocked =
+ent-AirlockExternalGlassShuttleViperLocked = {ent-AirlockGlassShuttleSyndicate}
     .suffix = Grupo Viper, bloqueado, vidro
 
-ent-AirlockExternalShuttleUSSPLocked =
-    .suffix =  Externo, Acoplamento, USSP, Trancado
+ent-AirlockExternalShuttleUSSPLocked = {ent-AirlockShuttleSyndicate}
+    .suffix = Externo, Acoplamento, USSP, Trancado
 
-ent-AirlockExternalShuttleViperLocked =
-    .suffix =  Externo, acoplagem, grupo Viper, trancado
+ent-AirlockExternalShuttleViperLocked = {ent-AirlockShuttleSyndicate}
+    .suffix = Externo, acoplagem, grupo Viper, trancado
 
-ent-AirlockGlassShuttleNfsdCapital =
+ent-AirlockGlassShuttleNfsdCapital = {ent-AirlockGlassShuttleNfsd}
     .suffix = CAPITAL SOMENTE, TMFMC, Vidro, Acoplamento
 
-ent-AirlockGlassShuttleNfsdOutpost =
-    .suffix =  Apenas para fora, TMFMC, vidro, acoplagem
+ent-AirlockGlassShuttleNfsdOutpost = {ent-AirlockGlassShuttleNfsd}
+    .suffix = Apenas para fora, TMFMC, vidro, acoplagem
 
-ent-AirlockGlassShuttleOutpost =
+ent-AirlockGlassShuttleOutpost = {ent-AirlockGlassShuttle}
     .suffix = SOMENTE OUTPOST
 
-ent-AirlockGlassShuttleSyndicateCapital =
+ent-AirlockGlassShuttleSyndicateCapital = {ent-AirlockGlassShuttleSyndicate}
     .suffix = CAPITAL SOMENTE, Sindicato, Vidro, Acoplamento
 
-ent-AirlockGlassShuttleSyndicateRogueLockedCapital =
+ent-AirlockGlassShuttleSyndicateRogueLockedCapital = {ent-AirlockGlassShuttleSyndicate}
     .suffix = CAPITAL SOMENTE, Vampira, Trancada
 
-ent-AirlockGlassShuttleUSSPOutpostLocked =
+ent-AirlockGlassShuttleUSSPOutpostLocked = {ent-AirlockGlassShuttleSyndicate}
     .suffix = SOMENTE OUTPOST, USSP, Acoplamento, Trancado
 
-ent-AirlockShuttleNfsdCapital =
+ent-AirlockShuttleNfsdCapital = {ent-AirlockShuttleNfsd}
     .suffix = CAPITAL SOMENTE, TSFMC, Acoplamento
 
-ent-AirlockShuttleNfsdOutpost =
-    .suffix =  Só para vencer, TMFMC, acoplar.
+ent-AirlockShuttleNfsdOutpost = {ent-AirlockShuttleNfsd}
+    .suffix = SOMENTE OUTPOST, TMFMC, Acoplamento.
 
-ent-AirlockShuttleOutpost =
+ent-AirlockShuttleOutpost = {ent-AirlockShuttle}
     .suffix = SOMENTE OUTPOST
 
-ent-AirlockShuttleSyndicateCapital =
+ent-AirlockShuttleSyndicateCapital = {ent-AirlockShuttleSyndicate}
     .suffix = CAPITAL SOMENTE, Sindicato, Acoplamento
 
-ent-AirlockShuttleSyndicateRogueLockedCapital =
+ent-AirlockShuttleSyndicateRogueLockedCapital = {ent-AirlockShuttleSyndicate}
     .suffix = CAPITAL SOMENTE, Vampira, Trancada
 
-ent-AirlockShuttleUSSPOutpostLocked =
+ent-AirlockShuttleUSSPOutpostLocked = {ent-AirlockShuttleSyndicate}
     .suffix = SOMENTE OUTPOST, USSP, Acoplamento, Trancado
 
-ent-PlasmaWindoorSecureRogueLocked =
+ent-PlasmaWindoorSecureRogueLocked = {ent-WindoorSecurePlasma}
     .suffix = Vagabunda, trancada, Plasma
 
-ent-SmallLightDim =
-    .suffix =  Sempre ajeitado, Dim.
+ent-SmallLightDim = {ent-SmallLight}
+    .suffix = Sempre ajeitado, Dim.
 
-ent-PoweredlightBlueAirAlarm =
-    .suffix =  Azul, Off
+ent-PoweredlightBlueAirAlarm = 
+    .suffix = Azul, Off
 
-ent-ComputerTabletopShuttleANALR67RWR = { ent-ComputerShuttleANALR67RWR }
+ent-ComputerTabletopShuttleANALR67RWR = {ent-ComputerShuttleANALR67RWR}
     .suffix = Tabletop, alt AN/ALR-67
 
-ent-ComputerTabletopShuttleKPV63RWR = { ent-ComputerShuttleKPV63RWR }
-    .suffix =  Mesa, PDV/USSP KPV-63 RWR
+ent-ComputerTabletopShuttleKPV63RWR = {ent-ComputerShuttleKPV63RWR}
+    .suffix = Mesa, PDV/USSP KPV-63 RWR
 
-ent-ComputerTabletopShuttleTSFNVWS = { ent-ComputerShuttleTSFNVWS }
+ent-ComputerTabletopShuttleTSFNVWS = {ent-ComputerShuttleTSFNVWS}
     .suffix = Tabletop, TSFN/TSFMC VWS
 
-ent-FaxMachinePDVJupiter =
+ent-FaxMachinePDVJupiter = {ent-FaxMachineBase}
     .suffix = PDI, PDV Júpiter
 
-ent-FaxMachineUSSP =
+ent-FaxMachineUSSP = {ent-FaxMachineBase}
     .suffix = POI, USSP
 
-ent-FaxMachineUSSPCommisar =
+ent-FaxMachineUSSPCommisar = {ent-FaxMachineBase}
     .suffix = POI, Comissão do USSP
 
-ent-HolopadCommissarBaikal =
-    .suffix =  Comissário da USSP
+ent-HolopadCommissarBaikal = {ent-NFHolopadShip}
+    .suffix = Comissário da USSP
 
-ent-HolopadJupiter =
+ent-HolopadJupiter = {ent-NFHolopadShip}
     .suffix = PDV Júpiter
 
-ent-HolopadUSSPBaikal =
+ent-HolopadUSSPBaikal = {ent-NFHolopadShip}
     .suffix = USSP Baikal, POI
 
-ent-HolopadVG =
+ent-HolopadVG = {ent-NFHolopadShip}
     .suffix = VG, Camelot.
 
-ent-CopperOre15 =
-    .suffix =  Quinze.
+ent-CopperOre15 = {ent-CopperOre}
+    .suffix = Quinze.
 
-ent-GoldOre15 =
-    .suffix =  Quinze.
+ent-GoldOre15 = {ent-GoldOre}
+    .suffix = Quinze.
 
-ent-LithiumOre15 =
-    .suffix =  Quinze.
+ent-LithiumOre15 = {ent-LithiumOre}
+    .suffix = Quinze.
 
-ent-PlasmaOre15 =
-    .suffix =  Quinze.
+ent-PlasmaOre15 = {ent-PlasmaOre}
+    .suffix = Quinze.
 
-ent-SilverOre15 =
-    .suffix =  Quinze.
+ent-SilverOre15 = {ent-SilverOre}
+    .suffix = Quinze.
 
-ent-SpaceQuartz15 =
-    .suffix =  Quinze.
+ent-SpaceQuartz15 = {ent-SpaceQuartz}
+    .suffix = Quinze.
 
-ent-SteelOre15 =
-    .suffix =  Quinze.
+ent-SteelOre15 = {ent-SteelOre}
+    .suffix = Quinze.
 
-ent-UraniumOre15 =
-    .suffix =  Quinze.
+ent-UraniumOre15 = {ent-UraniumOre}
+    .suffix = Quinze.
 
-ent-FactionLatheImmmovable = { ent-FactionLathe }
-    .suffix =  IMÓVEL
+ent-FactionLatheImmmovable = {ent-FactionLathe}
+    .suffix = IMÓVEL
 
-ent-USSPLatheImmmovable = { ent-USSPLathe }
-    .suffix =  IMÓVEL
+ent-USSPLatheImmmovable = {ent-USSPLathe}
+    .suffix = IMÓVEL
 
-ent-ViperLatheImmmovable = { ent-ViperLathe }
-    .suffix =  IMÓVEL
+ent-ViperLatheImmmovable = {ent-ViperLathe}
+    .suffix = IMÓVEL
 
-ent-APCBasicTSF =
+ent-APCBasicTSF = {ent-BaseAPC}
     .suffix = Básico, 50kJ, engenharia TSFMC travada
 
-ent-NuclearReactorCC =
+ent-NuclearReactorCC = {ent-BaseNuclearReactor}
     .suffix = Supervisor Trancado
 
-ent-NuclearReactorCCSmall =
+ent-NuclearReactorCCSmall = {ent-NuclearReactorSmall}
     .suffix = Supervisor Trancado
 
-ent-NuclearReactorPDV =
+ent-NuclearReactorPDV = {ent-BaseNuclearReactor}
     .suffix = PDV Denasvar bloqueado
 
-ent-NuclearReactorPDVSmall =
+ent-NuclearReactorPDVSmall = {ent-NuclearReactorSmall}
     .suffix = PDV Denasvar bloqueado
 
-ent-NuclearReactorTSF =
+ent-NuclearReactorTSF = {ent-BaseNuclearReactor}
     .suffix = TSF FTL bloqueado
 
-ent-NuclearReactorTSFSmall =
+ent-NuclearReactorTSFSmall = {ent-NuclearReactorSmall}
     .suffix = TSF FTL bloqueado
 
-ent-NuclearReactorUnaffiliated =
-    .suffix =  Não afiliado, Capitão Bloqueado.
+ent-NuclearReactorUnaffiliated = {ent-BaseNuclearReactor}
+    .suffix = Não afiliado, Capitão Bloqueado.
 
-ent-NuclearReactorUnaffiliatedSmall =
-    .suffix =  Não afiliado, Capitão Bloqueado.
+ent-NuclearReactorUnaffiliatedSmall = {ent-NuclearReactorSmall}
+    .suffix = Não afiliado, Capitão Bloqueado.
 
-ent-NuclearReactorUSSP =
+ent-NuclearReactorUSSP = {ent-BaseNuclearReactor}
     .suffix = USSP Serzhant bloqueado
 
-ent-NuclearReactorUSSPSmall =
+ent-NuclearReactorUSSPSmall = {ent-NuclearReactorSmall}
     .suffix = USSP Serzhant bloqueado
 
-ent-GeneratorCRPinchShuttle = { ent-GeneratorCRPinch }
+ent-GeneratorCRPinchShuttle = {ent-GeneratorCRPinch}
     .suffix = Plasma, Rad+, 105 kW, nave.
 
-ent-ThrusterLargePartsT2 = { ent-ThrusterLarge }
-    .suffix =  Peças T2
+ent-ThrusterLargePartsT2 = {ent-ThrusterLarge}
+    .suffix = Peças T2
 
-ent-ThrusterLargeNfsd =
+ent-ThrusterLargeNfsd = {ent-ThrusterLarge}
     .suffix = TSFMC
 
-ent-DebugThrusterRogue =
+ent-DebugThrusterRogue = {ent-DebugThrusterSecurity}
     .suffix = DEBUG, Vampira
 
-ent-ThrusterLargeRogue =
+ent-ThrusterLargeRogue = {ent-ThrusterLarge}
     .suffix = Vampira.
 
-ent-ThrusterRogue =
+ent-ThrusterRogue = {ent-ThrusterSecurity}
     .suffix = Vampira.
 
-ent-DebugThrusterUSSP =
+ent-DebugThrusterUSSP = {ent-DebugThrusterSecurity}
     .suffix = DEBUG, USSP
 
-ent-ThrusterLargeUSSP = { ent-ThrusterLarge }
+ent-ThrusterLargeUSSP = {ent-ThrusterLarge}
     .suffix = USSP
 
-ent-ThrusterUSSP =
+ent-ThrusterUSSP = {ent-ThrusterSecurity}
     .suffix = USSP
 
-ent-GyroscopeDebugStrength =
-    .suffix =  Força de depuração
+ent-GyroscopeDebugStrength = {ent-Gyroscope}
+    .suffix = Força de depuração
 
-ent-ThrusterDebugStrength =
-    .suffix =  Força de depuração
+ent-ThrusterDebugStrength = {ent-ThrusterSecurity}
+    .suffix = Força de depuração
 
-ent-ThrusterPartsT2 =
-    .suffix =  Peças T2
+ent-ThrusterPartsT2 = {ent-Thruster}
+    .suffix = Peças T2
 
-ent-LockableButtonUSSP =
+ent-LockableButtonUSSP = {ent-LockableButton}
     .suffix = USSP
 
-ent-LockableButtonViper =
+ent-LockableButtonViper = {ent-LockableButton}
     .suffix = Viper.
 
-ent-WallPlastitaniumOutpost =
+ent-WallPlastitaniumOutpost = {ent-WallPlastitanium}
     .suffix = SOMENTE OUTPOST
 
-ent-WallReinforcedOutpost =
+ent-WallReinforcedOutpost = {ent-WallReinforced}
     .suffix = SOMENTE OUTPOST
 
-ent-PlastitaniumWindowDiagonalOutpost =
-    .suffix = diagonal, POSTO SOMENTE
+ent-PlastitaniumWindowDiagonalOutpost = {ent-PlastitaniumWindowDiagonal}
+    .suffix = diagonal, SOMENTE OUTPOST
 
-ent-PlastitaniumWindowOutpost =
+ent-PlastitaniumWindowOutpost = {ent-PlastitaniumWindow}
     .suffix = SOMENTE OUTPOST
 
-ent-ReinforcedWindowDiagonalOutpost =
-    .suffix = diagonal, POSTO SOMENTE
+ent-ReinforcedWindowDiagonalOutpost = {ent-ReinforcedWindow}
+    .suffix = diagonal, SOMENTE OUTPOST
 
-ent-WindowTimedSeal120Minutes = { ent-WindowTimedSeal }
+ent-WindowTimedSeal120Minutes = {ent-WindowTimedSeal}
     .suffix = 120 minutos, indestrutível.
 
-ent-WindowTimedSeal180Minutes = { ent-WindowTimedSeal }
+ent-WindowTimedSeal180Minutes = {ent-WindowTimedSeal}
     .suffix = 180 Minutos, indestrutível.
 
-ent-WindowTimedSeal60Minutes = { ent-WindowTimedSeal }
+ent-WindowTimedSeal60Minutes = {ent-WindowTimedSeal}
     .suffix = 60 Minutos, indestrutível.
 
-ent-MailMonoAK =
+ent-MailMonoAK = {ent-BaseMailLarge}
     .suffix = AK
 
-ent-MailMonoC20r =
+ent-MailMonoC20r = {ent-BaseMailLarge}
     .suffix = C20r.
 
-ent-MailMonoC4 =
+ent-MailMonoC4 = {ent-BaseMailLarge}
     .suffix = C4
 
-ent-MailMonoDesword =
+ent-MailMonoDesword = {ent-BaseMailLarge}
     .suffix = Desword
 
-ent-MailMonoERTMailKit =
+ent-MailMonoERTMailKit = {ent-BaseMailLarge}
     .suffix = ErtMailKit
 
-ent-MailMonoRCD =
+ent-MailMonoRCD = {ent-BaseMail}
     .suffix = RCD
+

@@ -1,1 +1,1 @@
-construction-guide-condition-empty-or-window-valid-in-tile = Você deve colocar isto em um tile válido.
+construction-guide-condition-empty-or-window-valid-in-tile = Você deve colocar isso em um tile válido.

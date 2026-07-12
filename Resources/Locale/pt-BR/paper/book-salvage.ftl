@@ -79,7 +79,7 @@ book-text-fishing = Quando eu crescer, quero ser um dos ceifadores do mar espaci
 
 book-text-detective = CAPÍTULO 1: PEQUENAS AVENTURAS EM UMA GRANDE ESTAÇÃO
 
-      Esta estação está cheia de crime e sujeira...
+      Essa estação está cheia de crime e sujeira...
 
       Eu estava jogando basquete em Bagel quando ouvi um grito e um tiro a laser. Caminhei sob a mesa nas proximidades para me esconder, mas não houve um segundo tiro.
 

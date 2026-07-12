@@ -3,7 +3,7 @@ shuttle-pilot-end = Parou de pilotar
 
 shuttle-console-in-ftl = Atualmente em FTL
 shuttle-console-mass = Grande demais para FTL
-shuttle-console-prevent = Impossível pilotar esta nave
+shuttle-console-prevent = Impossível pilotar essa nave
 shuttle-console-in-expedition = FTL indisponível durante expedições
 shuttle-console-no-powered-ftl-drive = Nenhum drive FTL detectado
 shuttle-console-ftl-drive-unpowered = Drive FTL detectado mas sem energia

@@ -32,8 +32,8 @@ ghost-role-information-silicon-rules = Você é um [color=#6495ed][bold]Silício
 ghost-role-information-mouse-name = Camundongo
 ghost-role-information-mouse-description = Um camundongo faminto e travesso.
 
-ghost-role-information-mothroach-name = Traça-mariposa
-ghost-role-information-mothroach-description = Uma traça-mariposa fofa, mas travessa.
+ghost-role-information-mothroach-name = Baraposa
+ghost-role-information-mothroach-description = Uma baraposa fofa, mas travessa.
 
 ghost-role-information-snail-name = Caracol
 ghost-role-information-snail-description = Um pequeno caracol que não se importa com um pouco de espaço. Apenas fique na grade!
@@ -308,7 +308,7 @@ ghost-role-information-artifact-name = Artefato Sapiente
 ghost-role-information-artifact-description = Coloque em prática seus caprichos eldritch. Force seus nós a ativarem para o bem ou para o mal.
 
 ghost-role-information-tomatokiller-name = Tomaticida
-ghost-role-information-tomatokiller-description = Este pequeno tomate servirá ao botânico pelo resto de sua vida... isto é, um par de minutos.
+ghost-role-information-tomatokiller-description = Este pequeno tomate servirá ao botânico pelo resto de sua vida... isso é, um par de minutos.
 
 ghost-role-information-gingerbread-name = Homem de Gengibre
 ghost-role-information-gingerbread-description = Um ser de puro espírito festivo.

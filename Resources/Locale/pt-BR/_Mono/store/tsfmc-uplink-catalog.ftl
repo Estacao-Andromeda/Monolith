@@ -11,7 +11,7 @@ uplink-security-rad-pen-name = Autoinjetor Rad
 uplink-security-rad-pen-desc = Uma dose rápida de anti-radiação. Contém arithrazine e bicaridine.
 
 uplink-security-combat-pen-name = Medipen de Combate
-uplink-security-combat-pen-desc = Um tiro de uso geral de omnizine, embalado num autoinjetor.
+uplink-security-combat-pen-desc = Um tiro de uso geral de omnizine, embalado em um autoinjetor.
 
 uplink-security-syringe-case-name = Estojo de Medipens
 uplink-security-syringe-case-desc = Um estojo de bolso cheio de medipens para a maioria dos cenários de combate.
@@ -89,7 +89,7 @@ uplink-security-t1-spica-voucher-name = Spica LPC TSFMC [T1]
 uplink-security-t1-spica-voucher-desc = Um pequeno cartão que contém os dados para a aquisição duma escolta classe Spica das reservas da nau-capitânia.
 
 uplink-security-t1-dagger-voucher-name = Dagger LPC TSFMC [T1]
-uplink-security-t1-dagger-voucher-desc = Um pequeno cartão que contém os dados para a aquisição dum destroyer de railgun classe Dagger das reservas da nau-capitânia.
+uplink-security-t1-dagger-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de um destroyer de railgun classe Dagger das reservas da nau-capitânia.
 
 uplink-security-t1-tarantula-voucher-name = Tarantula LPC TSFMC [T1]
 uplink-security-t1-tarantula-voucher-desc = Um pequeno cartão que contém os dados para a aquisição duma escolta classe Tarantula das reservas da nau-capitânia.
@@ -104,7 +104,7 @@ uplink-security-t1-aldebaran-voucher-name = Aldebaran LPC TSFMC [T1]
 uplink-security-t1-aldebaran-voucher-desc = Um pequeno cartão que contém os dados para a aquisição duma fragata classe Aldebaran das reservas da nau-capitânia.
 
 uplink-security-t2-andromeda-voucher-name = Andromeda LPC TSFMC [T2]
-uplink-security-t2-andromeda-voucher-desc = Um pequeno cartão que contém os dados para a aquisição dum cruzador classe Andromeda das reservas da nau-capitânia.
+uplink-security-t2-andromeda-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Andromeda das reservas da nau-capitânia.
 
 uplink-security-t2-spekter-voucher-name = Spekter LPC TSFMC [T2]
 uplink-security-t2-spekter-voucher-desc = Um pequeno cartão que contém os dados para a aquisição duma corveta classe Spekter das reservas da nau-capitânia.
@@ -116,7 +116,7 @@ uplink-security-t3-polaris-voucher-name = Polaris LPC TSFMC [T3]
 uplink-security-t3-polaris-voucher-desc = Um pequeno cartão que contém os dados para a aquisição duma fragata classe Polaris Tipo-56D das reservas da nau-capitânia.
 
 uplink-security-flyssa-voucher-name = Flyssa LPC TSFMC [T4]
-uplink-security-flyssa-voucher-desc = Um pequeno cartão que contém os dados para a aquisição dum destroyer classe Flyssa das reservas da nau-capitânia.
+uplink-security-flyssa-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de um destroyer classe Flyssa das reservas da nau-capitânia.
 
 uplink-security-sentry-mk290-name = Sistema de Sentinela Implantável MK-290
 uplink-security-sentry-mk290-desc = Uma sentinela portátil multipropósito, capaz de usar carregadores 5.56x45mm, 6.8x52mm e 7.62x39mm. Requer uma chave de fenda para desmontar uma vez colocada.
@@ -125,7 +125,7 @@ uplink-security-hardsuit-m82b-name = Traje Duro M82b
 uplink-security-hardsuit-m82b-desc = Uma variante do M-82c para proteção NBC, geralmente utilizada por corpsmen.
 
 uplink-security-hardsuit-m82c-name = Traje Duro M82c
-uplink-security-hardsuit-m82c-desc = Um sistema protetor básico para ambientes perigosos (como espaço). Assume o papel dum colete à prova de balas no equipamento médio do fuzileiro TSF.
+uplink-security-hardsuit-m82c-desc = Um sistema protetor básico para ambientes perigosos (como espaço). Assume o papel de um colete à prova de balas no equipamento médio do fuzileiro TSF.
 
 uplink-security-pulserifle-name = Rifle de Pulso
 uplink-security-pulserifle-desc = Uma arma de pulso automática grande. Célula maior e de alta potência, perfeita para triturar grupos de inimigos.

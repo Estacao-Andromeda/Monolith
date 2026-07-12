@@ -1,6 +1,6 @@
 # ====================================================================
 # Entity Localization File
-# Generated: 2026-07-09 14:20:24
+# Generated: 2026-07-10 21:56:05
 # Total entities: 462
 # ====================================================================
 
@@ -11,8 +11,8 @@ ent-ActionClothingSeal = Selar roupa
 
 # From: _Goobstation/Actions/stasis.yml
 
-ent-ActionChronoBlink = Mudança temporária
-    .desc = Altera suas coordenadas, permitindo que você teleporte para locais próximos
+ent-ActionChronoBlink = Mudança Temporária
+    .desc = Muda suas coordenadas, permitindo que você teletransporte para um local próximo.
 
 # From: _Goobstation/Actions/types.yml
 
@@ -57,6 +57,7 @@ ent-LeftHandTajaran = mão esquerda tajaran
 ent-LeftLegTajaran = perna esquerda tajaran
 
 # Abstract entity (referenceable by children)
+
 ent-PartTajaran = parte do corpo Tajaran
 
 ent-RightArmTajaran = braço direito tajaran
@@ -71,521 +72,526 @@ ent-TorsoTajaran = torso tajaran
 
 # From: _Goobstation/Catalog/Fills/Backpacks/duffelbag.yml
 
-ent-ClothingBackpackDuffelSyndicateBurner = Pacote Burner
-    .desc = Um rifle Burner de alto calibre, vem com munição antiblindagem e explosiva.
+ent-ClothingBackpackDuffelSyndicateBurner = Kit Burner
+    .desc = Um rifle Burner de alto calibre, vem com munição perfurante e explosiva.
 
-ent-ClothingBackpackDuffelSyndicateFilledWSPR = pacote WSPR
-    .desc = Um pacote carregando o rifle de assalto WSPR do sindicato, com 4 carregadores sobressalentes e duas caixas de munição.
+ent-ClothingBackpackDuffelSyndicateFilledWSPR = Kit WSPR
+    .desc = Um kit carregando o rifle de assalto WSPR do Sindicato, com 4 revistas sobressalentes e duas caixas de munição.
 
-ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = pacote roupa stealth cybersun
-    .desc = Um pacote avançado de roupa stealth Cybersun.
+ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = Kit Roupa Blindada Furtiva Cybersun
+    .desc = Um kit avançado de roupa blindada furtiva da Cybersun.
 
 # From: _Goobstation/Catalog/Fills/Crates/science.yml
 
-ent-CrateScienceModsuitCoresFilled = caixa de núcleos MOD
+ent-CrateScienceModsuitCoresFilled = Caixa de Núcleos MOD
     .desc = Contém três núcleos MOD dentro.
 
 # From: _Goobstation/Catalog/Fills/Crates/syndicate.yml
 
-ent-CrateCybersunDarkGygaxBundle = pacote gygax cybersun
-    .suffix = Cheio
-    .desc = Contém um conjunto de mechas levemente blindados Cybersan.
+ent-CrateCybersunDarkGygaxBundle = Kit Gygax Cybersun
+    .suffix = Preenchido
+    .desc = Contém um conjunto de mechs blindados leves da Cybersan.
 
-ent-CrateCybersunMaulerBundle = pacote mauler cybersun
-    .suffix = Cheio
-    .desc = Contém um conjunto de mechas pesadamente blindados Cybersan.
+ent-CrateCybersunMaulerBundle = Kit Mauler Cybersun
+    .suffix = Preenchido
+    .desc = Contém um conjunto de mechs blindados pesados da Cybersan.
 
 # From: _Goobstation/Catalog/Fills/Items/firstaidkit.yml
 
-ent-MedkitCombatStasiziumFilled = kit médico futurista
+ent-MedkitCombatStasiziumFilled = Kit Médico Futurista
     .suffix = Stazisium
     .desc = Kit médico preenchido com remédios do futuro
 
 # From: _Goobstation/Effects/portal.yml
 
-ent-ChronoPortal = portal táquion
+ent-ChronoPortal = Portal Táquion
     .desc = Parece futurista.
 
 # From: _Goobstation/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitAtmostech = unidade de controle de roupa éolo de técnico atmosférico
-    .desc = Uma unidade de módulo de roupa modular para resistir aos maiores perigos no trabalho.
+ent-ClothingModsuitAtmostech = Unidade de Controle de Roupa Blindada Aeolus de Técnico Atmosférico
+    .desc = Uma unidade modular de controle de roupa blindada para suportar os maiores perigos do trabalho.
 
-ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
 # Abstract entity (referenceable by children)
-ent-ClothingModsuitBase = unidade de roupa modsuit
-    .desc = Uma unidade de controle de roupa modular especial contendo todas as partes necessárias de roupa modular.
 
-ent-ClothingModsuitCaptain = unidade de controle de roupa magnata do capitão
-    .desc = Uma roupa blindada MAGNATE cravejada de gemas, espelhada e absolutamente, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso é nada para você, cara.
+ent-ClothingModsuitBase = Unidade de Roupa Blindada Modular
+    .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de roupa blindada modular.
 
-ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitCaptain = Unidade de Controle de Roupa Blindada Magnata do Capitão
+    .desc = Uma roupa blindada cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
+
+ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitEngineer = unidade de controle de roupa saper engenheiro
-    .desc = Uma unidade de módulo de controle de roupa modular para resistir aos maiores perigos no trabalho.
+ent-ClothingModsuitEngineer = Unidade de Controle de Roupa Blindada Sapador do Engenheiro
+    .desc = Uma unidade modular de controle de roupa blindada para suportar os maiores perigos do trabalho.
 
-ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitEngineer}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitHeadOfSecurity = unidade de controle de roupa baluarte do chefe de segurança
-    .desc = Uma unidade de módulo de controle de roupa modular ROBUSTA para o chefe de segurança.
+ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Roupa Blindada Baluarte do Chefe de Segurança
+    .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o chefe de segurança.
 
-ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitHeadOfSecurity}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitParamedic = unidade de controle de roupa sanitário paramédico
-    .desc = Uma unidade de módulo de controle de roupa modular para paramédicos.
+ent-ClothingModsuitParamedic = Unidade de Controle de Roupa Blindada Sanitária
+    .desc = Uma unidade modular de controle de roupa blindada para paramédicos.
 
-ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitParamedic}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitResearchDirector = unidade de controle de roupa minerva do DR
-    .desc = Uma unidade de módulo de controle de roupa modular para resistir a outro shuttlebomb.
+ent-ClothingModsuitResearchDirector = Unidade de Controle de Roupa Blindada Minerva do DR
+    .desc = Uma unidade modular de controle de roupa blindada para suportar outro ônibus-bomba.
 
-ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitResearchDirector}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitSecurity = unidade de controle de roupa soldado segurança
-    .desc = Uma unidade de módulo de controle de roupa modular robusta para surrar comunistas no espaço.
+ent-ClothingModsuitSecurity = Unidade de Controle de Roupa Blindada Soldado da Segurança
+    .desc = Uma unidade robusta modular de controle de roupa blindada para bater em comunistas no espaço.
 
-ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitSecurity}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitStandard = unidade de roupa modsuit padrão
-    .desc = Uma unidade de controle de roupa modular especial contendo todas as partes necessárias de roupa modular.
+ent-ClothingModsuitStandard = Unidade de Roupa Blindada Modular Padrão
+    .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de roupa blindada modular.
 
-ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitBase}
+ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitStandard}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
 # From: _Goobstation/Entities/Clothing/Back/specific.yml
 
-ent-ClothingBackpackLMGBattery = armazenamento EL-20
+ent-ClothingBackpackLMGBattery = Armazenamento EL-20
     .desc = Aceita baterias de carro especializadas para alimentar a LMG HAMRR EL-20.
 
-ent-ClothingBackpackStasisBattery = armazenamento stasis
-    .desc = Armazena energia para congelar o fluxo do tempo, deformando o espaço dentro para mais capacidade.
+ent-ClothingBackpackStasisBattery = Armazenamento Estático
+    .desc = Armazena energia para congelar o fluxo do tempo, deformando o espaço interno para mais capacidade.
 
 # From: _Goobstation/Entities/Clothing/Belt/belts.yml
 
-ent-ClothingBeltMilitaryWebbingCMO = colete de médico chefe
-    .desc = Um colete médico com bolsos fundos, para uso por profissionais de saúde.
+ent-ClothingBeltMilitaryWebbingCMO = Colete à Prova de Balas do Médico-Chefe
+    .desc = Um colete médico com bolsos profundos, para uso por profissionais de saúde.
 
 # From: _Goobstation/Entities/Clothing/Ears/headsets_alt.yml
 
-ent-ClothingHeadsetChronolegioneer = fone de ouvido futurista
-    .desc = Um fone de ouvido do futuro que pode capturar a maioria das frequências da estação.
+ent-ClothingHeadsetChronolegioneer = Fone de Ouvido Futurista
+    .desc = Um fone de ouvido do futuro que pode captar a maioria das frequências da estação.
 
 # From: _Goobstation/Entities/Clothing/Ears/headsets.yml
 
-ent-ClothingHeadsetDeathsquad = fone de ouvido deathsquad
+ent-ClothingHeadsetDeathsquad = Fone de Ouvido do Esquadrão da Morte
 
 # From: _Goobstation/Entities/Clothing/Eyes/glasses.yml
 
-ent-ClothingEyesGlassesCentComm = óculos de comando central
+ent-ClothingEyesGlassesCentComm = Óculos de Sol do Comando Central
     .suffix = NÃO MAPEAR
-    .desc = Um par de óculos projetados para pessoal de comando central. Vem com mais recursos do que você poderia imaginar.
+    .desc = Um par de óculos de sol projetados para pessoal do comando central. Vem com mais recursos do que você poderia imaginar.
 
-ent-ClothingEyesGlassesDeathsquad = óculos de comandante central
+ent-ClothingEyesGlassesDeathsquad = Óculos de Sol do Comandante Central
     .suffix = NÃO MAPEAR
-    .desc = Orgulho. Soberba. Ira. Não é pecado se você estiver certo.
+    .desc = Orgulho. Hubris. Ira. Não é pecado se você está certo.
 
 # From: _Goobstation/Entities/Clothing/Eyes/hud.yml
 
-ent-ClothingEyesHudChrono = viseira futurista
-    .desc = Uma viseira do futuro, capaz de exibir quase qualquer coisa.
+ent-ClothingEyesHudChrono = Visor Futurista
+    .desc = Um visor do futuro, capaz de exibir quase qualquer coisa.
 
 # From: _Goobstation/Entities/Clothing/Hands/gloves.yml
 
-ent-ClothingHandsGlovesChronoLegioneer = luvas futuristas
-    .desc = Luvas futuristas feitas de material desconhecido que não deixa nenhum rastro
+ent-ClothingHandsGlovesChronoLegioneer = Luvas Futuristas
+    .desc = Luvas futuristas feitas de um material desconhecido que não deixam nenhum rastro
 
-ent-ClothingHandsGlovesGoldenTrim = luvas com bordas douradas
-    .desc = Um par de luvas com bordas douradas feitas para equipe do Solstício de Inverno. Não isoladas.
+ent-ClothingHandsGlovesGoldenTrim = Luvas com Bordas Douradas
+    .desc = Um par de luvas com bordas douradas feitas para a equipe do Solstício de Inverno. Não isoladas.
 
-ent-ClothingHandsGlovesHeavyGoldenTrim = luvas pesadas com bordas douradas
-    .desc = Um par de luvas com bordas douradas feitas para equipe do Solstício de Inverno. Estas são isoladas.
+ent-ClothingHandsGlovesHeavyGoldenTrim = Luvas Pesadas com Bordas Douradas
+    .desc = Um par de luvas com bordas douradas feitas para a equipe do Solstício de Inverno. Estas são isoladas.
 
 # From: _Goobstation/Entities/Clothing/Hands/modsuit.yml
 
-ent-ClothingModsuitGauntletsAtmostech = manoplas modsuit éolo
-    .desc = Luvas de roupa modular forradas de amianto para facilmente apertar botões em um RPD.
+ent-ClothingModsuitGauntletsAtmostech = Manoplas de Roupa Modular Aeolus
+    .desc = Luvas de roupa modular revestidas de amianto para apertar botões facilmente em um RPD.
 
 # Abstract entity (referenceable by children)
-ent-ClothingModsuitGauntletsBase = manopras modsuit
-    .desc = Luvas de roupa modulares especiais que protegem o usuário de choque elétrico.
 
-ent-ClothingModsuitGauntletsCaptain = manopras modsuit magnata
-    .desc = Possui ranhuras e cortes especializados para segurar aquele maldito disco mais fácil.
+ent-ClothingModsuitGauntletsBase = Manoplas de Roupa Modular
+    .desc = Luvas especiais de roupa modular que protegem o usuário de choques elétricos.
 
-ent-ClothingModsuitGauntletsEngineer = manopras modsuit saper
-    .desc = Luvas de roupa modular manchadas de óleo para facilmente apertar botões em um RCD.
+ent-ClothingModsuitGauntletsCaptain = Manoplas de Roupa Modular Magnata
+    .desc = Possui sulcos e cortes especializados para segurar aquele maldito disco mais facilmente.
 
-ent-ClothingModsuitGauntletsHeadOfSecurity = manopras modsuit baluarte
-    .desc = Luvas de roupa modulares robustas para segurar perps e armas firmemente. Equipadas com um par de socos ingleses calibre 4.
+ent-ClothingModsuitGauntletsEngineer = Manoplas de Roupa Modular Sapador
+    .desc = Luvas de roupa modular manchadas de óleo para apertar botões facilmente em um RCD.
 
-ent-ClothingModsuitGauntletsParamedic = manopras modsuit sanitário
-    .desc = Luvas de roupa modular brancas e pretas para segurar perps e pacientes firmemente. Isoladas.
+ent-ClothingModsuitGauntletsHeadOfSecurity = Manoplas de Roupa Modular Baluarte
+    .desc = Luvas robustas de roupa modular para segurar criminosos e armas firmemente. Equipadas com um par de socos-inglês de calibre 4.
 
-ent-ClothingModsuitGauntletsResearchDirector = manopras modsuit minerva
-    .desc = Para manter seus dedos em 10 após o artefato ficar termonuclear com você.
+ent-ClothingModsuitGauntletsParamedic = Manoplas de Roupa Modular Sanitária
+    .desc = Luvas de roupa modular preta e branca para segurar percurs e pacientes firmemente. Isoladas.
 
-ent-ClothingModsuitGauntletsSecurity = manopras modsuit soldado
-    .desc = Luvas de roupa modulares robustas para segurar perps e armas firmemente. Equipadas com um par de socos ingleses calibre 12.
+ent-ClothingModsuitGauntletsResearchDirector = Manoplas de Roupa Modular Minerva
+    .desc = Para manter seus 10 dedos depois que o artefato ficar termonuclear com você.
 
-ent-ClothingModsuitGauntletsStandard = manopras modsuit padrão
-    .desc = Luvas de roupa modulares especiais que protegem o usuário de choque elétrico.
+ent-ClothingModsuitGauntletsSecurity = Manoplas de Roupa Modular Soldado
+    .desc = Luvas robustas de roupa modular para segurar criminosos e armas firmemente. Equipadas com um par de socos-inglês de calibre 12.
+
+ent-ClothingModsuitGauntletsStandard = Manoplas de Roupa Modular Padrão
+    .desc = Luvas especiais de roupa modular que protegem o usuário de choques elétricos.
 
 # From: _Goobstation/Entities/Clothing/Head/hardsuit-helmets.yml
 
-ent-ClothingHeadHelmetHardsuitChronolegioneer = capacete futurista
-    .desc = O capacete dos combatentes do futuro, projetado para operações especiais de fluxo temporal
+ent-ClothingHeadHelmetHardsuitChronolegioneer = Capacete Futurista
+    .desc = O capacete dos lutadores do futuro, projetado para operações especiais de fluxo temporal
 
-ent-ClothingHeadHelmetHardsuitCybersunStealth = capacete de roupa stealth cybersun
-    .suffix = stealth
-    .desc = Um capacete com blindagem para operações stealth.
+ent-ClothingHeadHelmetHardsuitCybersunStealth = Capacete de Roupa Blindada Furtiva Cybersun
+    .suffix = Furtivo
+    .desc = Um capacete com blindagem para operações furtivas.
 
 # From: _Goobstation/Entities/Clothing/Head/hats.yml
 
-ent-ClothingHeadHatBeretEliteNavyOfficer = boina de oficial da elite naval
-    .desc = Uma boina azul marinho com o escudo prateado da Federação Trans Solar.
+ent-ClothingHeadHatBeretEliteNavyOfficer = Boina de Oficial da Elite da Marinha
+    .desc = Uma boina azul marinha com o escudo de prata da Federação Trans Solar.
 
-ent-ClothingHeadHatBeretNavyCaptain = boina HiCom do Solstício de Inverno
-    .desc = Uma boina branca engomada. Se você vê isso, você provavelmente já está morto.
+ent-ClothingHeadHatBeretNavyCaptain = Boina do Alto Comando do Solstício de Inverno
+    .desc = Uma boina branca engomada. Se você a vir, provavelmente já está morto.
 
-ent-ClothingHeadSanabi = chapéu de brigadeiro general
+ent-ClothingHeadSanabi = Chapéu de Brigadeiro-General
     .desc = Cheira a aço.
 
 # From: _Goobstation/Entities/Clothing/Head/modsuit.yml
+# Abstract entity (referenceable by children)
+
+ent-BaseClothingModsuitHelmet = Capacete Base de Roupa Modular
 
 # Abstract entity (referenceable by children)
-ent-BaseClothingModsuitHelmet = capacete modsuit base
 
-# Abstract entity (referenceable by children)
-ent-BaseClothingModsuitHelmetHideIdentity = capacete modsuit base
+ent-BaseClothingModsuitHelmetHideIdentity = Capacete Base de Roupa Modular
 
-ent-ClothingModsuitHelmetAtmostech = capacete modsuit éolo
-    .desc = Um capacete de gás especializado para fornecer oxigênio mais eficientemente.
+ent-ClothingModsuitHelmetAtmostech = Capacete de Roupa Modular Aeolus
+    .desc = Um capacete de gás especializado para fornecer oxigênio com mais eficiência.
 
-ent-ClothingModsuitHelmetCaptain = capacete modsuit magnata
-    .desc = A viseira é feita de ametista de 10.000 anos.
+ent-ClothingModsuitHelmetCaptain = Capacete de Roupa Modular Magnata
+    .desc = O visor é feito de ametista de 10.000 anos.
 
-ent-ClothingModsuitHelmetEngineer = capacete modsuit saper
-    .desc = Uma placa plana com câmeras permitindo sua visão. transforma você em um aeroco, mas não que isso importe no espaço.
+ent-ClothingModsuitHelmetEngineer = Capacete de Roupa Modular Sapador
+    .desc = Uma placa plana com câmeras permitindo sua visão. Transforma você em um aerô-cuco, mas não parece que isso importe no espaço.
 
-ent-ClothingModsuitHelmetHeadOfSecurity = capacete modsuit baluarte
-    .desc = Coloque na CABEÇA de segurança.. Como você vê através desta coisa?
+ent-ClothingModsuitHelmetHeadOfSecurity = Capacete de Roupa Modular Baluarte
+    .desc = Coloque na CABEÇA da segurança.. Como você vê através disso?
 
-ent-ClothingModsuitHelmetParamedic = capacete modsuit sanitário
-    .desc = Um balde cerebral robusto para trabalhar em cérebros dificilmente salváveis.
+ent-ClothingModsuitHelmetParamedic = Capacete de Roupa Modular Sanitária
+    .desc = Um capacete robusto para trabalhar em cérebros mal recuperáveis.
 
-ent-ClothingModsuitHelmetResearchDirector = capacete modsuit minerva
-    .desc = Uma viseira escura escura escura protegendo seu rosto precioso de estilhaços e explosões.
+ent-ClothingModsuitHelmetResearchDirector = Capacete de Roupa Modular Minerva
+    .desc = Um visor escuro escuro escuro protegendo seu precioso rosto de estilhaços e explosões.
 
-ent-ClothingModsuitHelmetSecurity = capacete modsuit soldado
-    .desc = Um balde cerebral robusto para manter seu cérebro no lugar apenas o suficiente para ser salvável.
+ent-ClothingModsuitHelmetSecurity = Capacete de Roupa Modular Soldado
+    .desc = Um capacete robusto para manter seu cérebro no lugar apenas o suficiente para ser recuperável.
 
-ent-ClothingModsuitHelmetStandard = capacete modsuit padrão
-    .desc = Um capacete espacial à prova de espaço de roupa modular projetado para dobra compacta dentro do controle de roupa modular.
+ent-ClothingModsuitHelmetStandard = Capacete de Roupa Modular Padrão
+    .desc = Um capacete à prova de espaço especial de roupa modular projetado para dobragem compacta dentro do controle de roupa modular.
 
 # From: _Goobstation/Entities/Clothing/Masks/masks.yml
 
-ent-ClothingMaskGasChrono = máscara de gás futurista
+ent-ClothingMaskGasChrono = Máscara de Gás Futurista
     .desc = Uma máscara de gás futurista de design desconhecido com um número inimaginável de sistemas de filtração
 
 # From: _Goobstation/Entities/Clothing/Neck/cloaks.yml
 
-ent-ClothingNeckCloakSanabi = manto de brigadeiro general
-    .desc = Um manto esfarrapado, porém imponente, usado por guerreiros de elite.
+ent-ClothingNeckCloakSanabi = Manto de Brigadeiro-General
+    .desc = Um manto esfarrapado, mas imponente, usado por guerreiros de elite.
 
 # From: _Goobstation/Entities/Clothing/OuterClothing/armour.yml
 
-ent-ClothingOuterArmourInvisible = armadura covert
-    .desc = Um colete blindado que utiliza tecnologia bluespace, dobrando a luz e ficando invisível a olho nu quando usado.
+ent-ClothingOuterArmourInvisible = Armadura Encoberta
+    .desc = Um colete blindado que utiliza tecnologia bluespace, dobrando a luz e tornando-se invisível a olho nu quando usado.
 
-ent-ClothingOuterArmourInvisibleChameleon = armadura covert
+ent-ClothingOuterArmourInvisibleChameleon = Armadura Encoberta Camaleão
     .desc = Um colete blindado que utiliza tecnologia bluespace. Capaz de ser completamente invisível, ou aparecer como qualquer outra roupa externa.
 
 # From: _Goobstation/Entities/Clothing/OuterClothing/hardsuits.yml
 
-ent-ClothingOuterHardsuitChronolegioneer = roupa futurista
-    .desc = Uma roupa coberta com material desconhecido que protege contra a maioria de danos materiais e temporais
+ent-ClothingOuterHardsuitChronolegioneer = Roupa Blindada Futurista
+    .desc = Uma roupa blindada coberta com um material desconhecido que protege contra a maioria dos danos materiais e temporais
 
-ent-ClothingOuterHardsuitCybersunStealth = roupa stealth cybersun
-    .suffix = stealth
-    .desc = Uma roupa com blindagem stealth para operações, o escudo não funciona enquanto você está se movendo! Precisa do capacete para completar o campo stealth.
+ent-ClothingOuterHardsuitCybersunStealth = Roupa Blindada Furtiva Cybersun
+    .suffix = Furtivo
+    .desc = Uma roupa blindada com blindagem furtiva para operações, o escudo não funciona enquanto você está se movendo! Precisa do capacete para completar o campo de furtividade.
 
 # From: _Goobstation/Entities/Clothing/OuterClothing/modsuit.yml
 
-ent-ClothingModsuitChestplateAtmostech = peitoril modsuit éolo
+ent-ClothingModsuitChestplateAtmostech = Peitoral de Roupa Modular Aeolus
     .desc = Uma placa de blindagem à prova de fogo para defender contra condições atmosféricas severas.
 
 # Abstract entity (referenceable by children)
-ent-ClothingModsuitChestplateBase = peitoril modsuit
-    .desc = Uma cobertura espacial à prova de espaço de roupa modular projetada para dobra compacta dentro do controle de roupa modular.
 
-ent-ClothingModsuitChestplateCaptain = peitoril modsuit magnata
-    .desc = Esta coisa é feita de DIAMANTES, cara, esta armadura foi forjada com GEMAS.
+ent-ClothingModsuitChestplateBase = Peitoral de Roupa Modular
+    .desc = Uma cobertura especial de roupa modular à prova de espaço projetada para dobragem compacta dentro do controle de roupa modular.
 
-ent-ClothingModsuitChestplateEngineer = peitoril modsuit saper
+ent-ClothingModsuitChestplateCaptain = Peitoral de Roupa Modular Magnata
+    .desc = Isso é feito de DIAMANTES, cara, essa armadura foi forjada com GEMAS.
+
+ent-ClothingModsuitChestplateEngineer = Peitoral de Roupa Modular Sapador
     .desc = Uma placa de blindagem resistente para defender contra condições atmosféricas severas e ondas de choque.
 
-ent-ClothingModsuitChestplateHeadOfSecurity = peitoril modsuit baluarte
-    .desc = Uma cobertura de roupa modular robusta com inserções de cerâmica EXTRA para um pouco mais de proteção.
+ent-ClothingModsuitChestplateHeadOfSecurity = Peitoral de Roupa Modular Baluarte
+    .desc = Uma cobertura robusta de roupa modular com inserções cerâmicas EXTRA para um pouco mais de proteção.
 
-ent-ClothingModsuitChestplateParamedic = peitoril modsuit sanitário
-    .desc = Uma placa de aço branca e azul-acinzentado para manter o vazio severo do espaço e a bala ocasional.
+ent-ClothingModsuitChestplateParamedic = Peitoral de Roupa Modular Sanitária
+    .desc = Uma placa de aço branca e acinzentada-azulada para manter o vazio severo do espaço e a bala ocasional para fora.
 
-ent-ClothingModsuitChestplateResearchDirector = peitoril modsuit minerva
-    .desc = Um pedaço de aço robusto à prova de bomba e morcego.
+ent-ClothingModsuitChestplateResearchDirector = Peitoral de Roupa Modular Minerva
+    .desc = Um pedaço de aço robusto à prova de bombas e morcegos.
 
-ent-ClothingModsuitChestplateSecurity = peitoril MODsuit soldado
-    .desc = Uma cobertura de roupa modular robusta com inserções de cerâmica para proteção extra.
+ent-ClothingModsuitChestplateSecurity = Peitoral de Roupa MODular Soldado
+    .desc = Uma cobertura robusta de roupa modular com inserções cerâmicas para proteção extra.
 
-ent-ClothingModsuitChestplateStandard = peitoril modsuit padrão
-    .desc = Uma cobertura espacial à prova de espaço de roupa modular projetada para dobra compacta dentro do controle de roupa modular.
+ent-ClothingModsuitChestplateStandard = Peitoral de Roupa Modular Padrão
+    .desc = Uma cobertura especial de roupa modular à prova de espaço projetada para dobragem compacta dentro do controle de roupa modular.
 
 # From: _Goobstation/Entities/Clothing/Shoes/boots.yml
 
-ent-ClothingShoesBootsChrono = botas futuristas
-    .desc = Um sapato futurista avançado que garante conforto do usuário e tração completa em qualquer superfície
+ent-ClothingShoesBootsChrono = Botas Futuristas
+    .desc = Um sapato futurista avançado que garante conforto do usuário e tração total em qualquer superfície
 
 # From: _Goobstation/Entities/Clothing/Shoes/modsuit.yml
 
-ent-ClothingModsuitBootsAtmostech = botas modsuit éolo
+ent-ClothingModsuitBootsAtmostech = Botas de Roupa Modular Aeolus
     .desc = Feitas para queimar.
 
 # Abstract entity (referenceable by children)
-ent-ClothingModsuitBootsBase = botas modsuit
-    .desc = Um par de botas de roupa modulares especiais projetadas para dobra compacta dentro do controle de roupa modular.
 
-ent-ClothingModsuitBootsCaptain = botas modsuit magnata
-    .desc = Estas botas foram projetadas pelo Michael Jordan e criadas com ligas antigas, cara.
+ent-ClothingModsuitBootsBase = Botas de Roupa Modular
+    .desc = Um botas especiais de roupa modular projetadas para dobragem compacta dentro do controle de roupa modular.
 
-ent-ClothingModsuitBootsEngineer = botas modsuit saper
-    .desc = Feitas para ficarem oleosas.
+ent-ClothingModsuitBootsCaptain = Botas de Roupa Modular Magnata
+    .desc = Essas botas foram projetadas pelo Michael Jordan e fabricadas com ligas antigas, cara.
 
-ent-ClothingModsuitBootsHeadOfSecurity = botas modsuit baluarte
-    .desc = Eu chamo estas de meus pisadores de comunistas.
+ent-ClothingModsuitBootsEngineer = Botas de Roupa Modular Sapador
+    .desc = Feitas para ficar oleosas.
 
-ent-ClothingModsuitBootsParamedic = botas modsuit sanitário
-    .desc = Feitas para ficarem ensanguentadas.
+ent-ClothingModsuitBootsHeadOfSecurity = Botas de Roupa Modular Baluarte
+    .desc = Eu chamo essas de meus pisadores de comunistas.
 
-ent-ClothingModsuitBootsResearchDirector = botas modsuit minerva
-    .desc = Não vai impedir você de escorregar no seu próprio sangue quando o holocarp chegar em você.
+ent-ClothingModsuitBootsParamedic = Botas de Roupa Modular Sanitária
+    .desc = Feitas para ficar sujas de sangue.
 
-ent-ClothingModsuitBootsSecurity = botas modsuit soldado
+ent-ClothingModsuitBootsResearchDirector = Botas de Roupa Modular Minerva
+    .desc = Não vai impedir você de escorregar no seu próprio sangue quando o holocarpe chegar a você.
+
+ent-ClothingModsuitBootsSecurity = Botas de Roupa Modular Soldado
     .desc = AS BOTAS DE FERRO DA LEI.
 
-ent-ClothingModsuitBootsStandard = botas modsuit padrão
-    .desc = Um par de botas de roupa modulares especiais projetadas para dobra compacta dentro do controle de roupa modular.
+ent-ClothingModsuitBootsStandard = Botas de Roupa Modular Padrão
+    .desc = Um botas especiais de roupa modular projetadas para dobragem compacta dentro do controle de roupa modular.
 
 # From: _Goobstation/Entities/Clothing/Uniforms/jumpsuits.yml
 
-ent-ClothingUniformJumpsuitDiplomat = macacão de diplomata
+ent-ClothingUniformJumpsuitDiplomat = Macacão de Diplomata
     .desc = Um traje usado por trabalhadores do Comando Central focados em diplomacia.
 
-ent-ClothingUniformJumpsuitNavyGold = macacão de oficial da marinha
+ent-ClothingUniformJumpsuitNavyGold = Macacão de Oficial da Marinha
     .desc = Um traje usado por membros de alto escalão do Comando Central. O resto é classificado.
 
-ent-ClothingUniformJumpsuitSpecOps = macacão de oficial de operações especiais
+ent-ClothingUniformJumpsuitSpecOps = Macacão de Oficial de Operações Especiais
     .desc = Um traje usado por oficiais de operações especiais de alto escalão. O resto é classificado.
 
 # From: _Goobstation/Entities/Effects/bluespace_acidifier.yml
 
-ent-BluespaceLifeline = linha de vida bluespace
-    .desc = Teleporta seu corpo para salvar sua vida!
+ent-BluespaceLifeline = Linha de Vida Bluespace
+    .desc = Teletransporta seu corpo para salvar sua vida!
 
 # From: _Goobstation/Entities/Markers/Spawners/mechs.yml
 
-ent-SpawnMechClarke = Spawner de Clarke
+ent-SpawnMechClarke = Gerador Clarke
 
-ent-SpawnMechDurand = Spawner de Durand
+ent-SpawnMechDurand = Gerador Durand
 
-ent-SpawnMechGygax = Spawner de Gygax
+ent-SpawnMechGygax = Gerador Gygax
 
-ent-SpawnMechGygaxSyndie = Spawner de Gygax Escuro
+ent-SpawnMechGygaxSyndie = Gerador Gygax Sombrio
 
-ent-SpawnMechGygaxSyndieFilled = Spawner de Gygax Escuro
-    .suffix = Cheio
+ent-SpawnMechGygaxSyndieFilled = Gerador Gygax Sombrio
+    .suffix = Preenchido
 
-ent-SpawnMechHonkerFilled = Spawner de H.O.N.K.
-    .suffix = Cheio
+ent-SpawnMechHonkerFilled = Gerador H.O.N.K.
+    .suffix = Preenchido
 
-ent-SpawnMechMarauder = Spawner de Marauder
+ent-SpawnMechMarauder = Gerador Marauder
 
-ent-SpawnMechMarauderFilled = Spawner de Marauder
-    .suffix = Cheio
+ent-SpawnMechMarauderFilled = Gerador Marauder
+    .suffix = Preenchido
 
-ent-SpawnMechMaulerSyndie = Spawner de Mauler
+ent-SpawnMechMaulerSyndie = Gerador Mauler
 
-ent-SpawnMechMaulerSyndieFilled = Spawner de Mauler
-    .suffix = Cheio
+ent-SpawnMechMaulerSyndieFilled = Gerador Mauler
+    .suffix = Preenchido
 
-ent-SpawnMechRipley2 = Spawner de Ripley APLU MK-II
+ent-SpawnMechRipley2 = Gerador Ripley APLU MK-II
 
-ent-SpawnMechSeraph = Spawner de Seraph
+ent-SpawnMechSeraph = Gerador Seraph
 
-ent-SpawnMechSeraphFilled = Spawner de Seraph
-    .suffix = Cheio
+ent-SpawnMechSeraphFilled = Gerador Seraph
+    .suffix = Preenchido
 
 # From: _Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml
 
-ent-BorgChassisEngineerAntique = ciborgue engenheiro antigo
+ent-BorgChassisEngineerAntique = Ciborgue Engenheiro Antigo
 
-ent-BorgChassisEngineerBasic = ciborgue engenheiro básico
+ent-BorgChassisEngineerBasic = Ciborgue Engenheiro Básico
 
-ent-BorgChassisEngineerCricket = ciborgue engenheiro cricket
+ent-BorgChassisEngineerCricket = Ciborgue Engenheiro Cricket
 
-ent-BorgChassisEngineerNoble = ciborgue engenheiro noble
+ent-BorgChassisEngineerNoble = Ciborgue Engenheiro Nobre
 
-ent-BorgChassisEngineerRover = ciborgue engenheiro rover
+ent-BorgChassisEngineerRover = Ciborgue Engenheiro Explorador
 
-ent-BorgChassisEngineerStandart = ciborgue engenheiro padrão
+ent-BorgChassisEngineerStandart = Ciborgue Engenheiro Padrão
 
-ent-BorgChassisJanitorBasic = ciborgue zelador básico
+ent-BorgChassisJanitorBasic = Ciborgue Faxineiro Básico
 
-ent-BorgChassisJanitorCricket = ciborgue zelador cricket
+ent-BorgChassisJanitorCricket = Ciborgue Faxineiro Cricket
 
-ent-BorgChassisJanitorCustodi = ciborgue custodi
+ent-BorgChassisJanitorCustodi = Ciborgue Custodi
 
-ent-BorgChassisJanitorMopbot = ciborgue mopbot
+ent-BorgChassisJanitorMopbot = Ciborgue Mopbot
 
-ent-BorgChassisJanitorNoble = ciborgue zelador noble
+ent-BorgChassisJanitorNoble = Ciborgue Faxineiro Nobre
 
-ent-BorgChassisJanitorRover = ciborgue zelador rover
+ent-BorgChassisJanitorRover = Ciborgue Faxineiro Explorador
 
-ent-BorgChassisJanitorStandart = ciborgue zelador padrão
+ent-BorgChassisJanitorStandart = Ciborgue Faxineiro Padrão
 
-ent-BorgChassisMedicalAdvanced = ciborgue médico avançado
+ent-BorgChassisMedicalAdvanced = Ciborgue Médico Avançado
 
-ent-BorgChassisMedicalCricket = ciborgue médico cricket
+ent-BorgChassisMedicalCricket = Ciborgue Médico Cricket
 
-ent-BorgChassisMedicalMedbot = ciborgue medbot
+ent-BorgChassisMedicalMedbot = Ciborgue Medbot
 
-ent-BorgChassisMedicalNeedles = ciborgue needles
+ent-BorgChassisMedicalNeedles = Ciborgue Agulhas
 
-ent-BorgChassisMedicalNoble = ciborgue médico noble
+ent-BorgChassisMedicalNoble = Ciborgue Médico Nobre
 
-ent-BorgChassisMedicalQualified = ciborgue médico qualificado
+ent-BorgChassisMedicalQualified = Ciborgue Médico Qualificado
 
-ent-BorgChassisMedicalRover = ciborgue médico rover
+ent-BorgChassisMedicalRover = Ciborgue Médico Explorador
 
-ent-BorgChassisMedicalStandart = ciborgue médico
+ent-BorgChassisMedicalStandart = Ciborgue Médico
 
-ent-BorgChassisMiningAdvanced = ciborgue minerador avançado
+ent-BorgChassisMiningAdvanced = Ciborgue Mineiro Avançado
 
-ent-BorgChassisMiningBasic = ciborgue minerador básico
+ent-BorgChassisMiningBasic = Ciborgue Mineiro Básico
 
-ent-BorgChassisMiningCoffin = ciborgue coffin
+ent-BorgChassisMiningCoffin = Ciborgue Caixão
 
-ent-BorgChassisMiningCricket = ciborgue minerador cricket
+ent-BorgChassisMiningCricket = Ciborgue Mineiro Cricket
 
-ent-BorgChassisMiningLavaland = ciborgue lavaland
+ent-BorgChassisMiningLavaland = Ciborgue Lavaland
 
-ent-BorgChassisMiningNoble = ciborgue minerador noble
+ent-BorgChassisMiningNoble = Ciborgue Mineiro Nobre
 
-ent-BorgChassisMiningSquat = ciborgue squat
+ent-BorgChassisMiningSquat = Ciborgue Agachado
 
-ent-BorgChassisServiceBrobot = ciborgue brobot
+ent-BorgChassisServiceBrobot = Ciborgue Brobot
 
-ent-BorgChassisServiceCricket = ciborgue serviço cricket
+ent-BorgChassisServiceCricket = Ciborgue Serviço Cricket
 
-ent-BorgChassisServiceKent = ciborgue kent
+ent-BorgChassisServiceKent = Ciborgue Kent
 
-ent-BorgChassisServiceNoble = ciborgue serviço noble
+ent-BorgChassisServiceNoble = Ciborgue Serviço Nobre
 
-ent-BorgChassisServiceRich = ciborgue serviço rich
+ent-BorgChassisServiceRich = Ciborgue Rico
 
-ent-BorgChassisServiceRover = ciborgue serviço rover
+ent-BorgChassisServiceRover = Ciborgue Serviço Explorador
 
-ent-BorgChassisServiceStandart = ciborgue serviço padrão
+ent-BorgChassisServiceStandart = Ciborgue Serviço Padrão
 
-ent-BorgChassisServiceWaitress = ciborgue garçonete
+ent-BorgChassisServiceWaitress = Ciborgue Garçonete
 
 # From: _Goobstation/Entities/Mobs/Player/chronolegionnaire.yml
 
-ent-RandomHumanoidSpawnerChronolegioneer = legionário cronológico
+ent-RandomHumanoidSpawnerChronolegioneer = Legionário Cronológico
 
 # From: _Goobstation/Entities/Mobs/Player/humanoid.yml
 
-ent-MobChitinidRandom = {ent-MobChitinid}
+ent-MobChitinidRandom = Enzo Formiga da Silva
     .suffix = Aparência Aleatória
 
-ent-MobDionaRandom = {ent-MobDiona}
+ent-MobDionaRandom = Enzo Plantas da Silva
     .suffix = Aparência Aleatória
 
-ent-MobDwarfRandom = {ent-MobDwarf}
+ent-MobDwarfRandom = Enzo Anão da Silva
     .suffix = Aparência Aleatória
 
-ent-MobFelinidRandom = {ent-Felinid}
+ent-MobFelinidRandom = Enzo Felinídeo da Silva
     .suffix = Aparência Aleatória
 
-ent-MobGingerbreadRandom = {ent-MobGingerbread}
+ent-MobGingerbreadRandom = Enzo Biscoito da Silva
     .suffix = Aparência Aleatória
 
-ent-MobGoblinRandom = {ent-MobGoblin}
+ent-MobGoblinRandom = Enzo Goblin da Silva
     .suffix = Aparência Aleatória
 
-ent-MobHarpyRandom = {ent-MobHarpia}
+ent-MobHarpyRandom = Enzo Harpia da Silva
     .suffix = Aparência Aleatória
 
-ent-MobHumanRandom = {ent-MobHuman}
+ent-MobHumanRandom = Enzo Humano da Silva
     .suffix = Aparência Aleatória
 
-ent-MobHydrakinRandom = {ent-MobHydrakin}
+ent-MobHydrakinRandom = Enzo Hidra da Silva
     .suffix = Aparência Aleatória
 
-ent-MobMothRandom = {ent-MobMoth}
+ent-MobMothRandom = Enzo Fofinho da Silva
     .suffix = Aparência Aleatória
 
-ent-MobProtogenRandom = {ent-MobProtogen}
+ent-MobProtogenRandom = Enzo Disco Rígido da Silva
     .suffix = Aparência Aleatória
 
-ent-MobReptilianRandom = {ent-MobReptilian}
+ent-MobReptilianRandom = Enzo Escamas da Silva
     .suffix = Aparência Aleatória
 
-ent-MobResomiRandom = {ent-MobResomi}
+ent-MobResomiRandom = Enzo Raptor da Silva
     .suffix = Aparência Aleatória
 
-ent-MobRodentiaRandom = {ent-MobRodentia}
+ent-MobRodentiaRandom = Enzo Rato da Silva
     .suffix = Aparência Aleatória
 
-ent-MobSlimePersonRandom = {ent-MobSlimePerson}
+ent-MobSlimePersonRandom = Enzo Gosma da Silva
     .suffix = Aparência Aleatória
 
-ent-MobTajaranRandom = {ent-MobTajaran}
+ent-MobTajaranRandom = Enzo Tajaran da Silva
     .suffix = Aparência Aleatória
 
-ent-MobVoxRandom = {ent-MobVox}
+ent-MobVoxRandom = Urititi mcVox
     .suffix = Aparência Aleatória
 
-ent-MobVulpkaninRandom = {ent-MobVulpkanin}
+ent-MobVulpkaninRandom = Enzo Vulpkanin da Silva
     .suffix = Aparência Aleatória
 
-ent-MobYowieRandom = {ent-MobYowie}
+ent-MobYowieRandom = Enzo Au da Silva
     .suffix = Aparência Aleatória
 
 ent-RandomHumanoidSpawnerDiplomat = Diplomata
     .suffix = Solstício de Inverno
 
 ent-RandomHumanoidSpawnerNavyCaptain = Capitão da Marinha
-    .suffix = APENAS ADMIN, NÃO FAZENDO O CARALHO, Solstício de Inverno
+    .suffix = APENAS ADMIN, NÃO FODE PARA NADA, Solstício de Inverno
 
 ent-RandomHumanoidSpawnerNavyOfficer = Oficial da Marinha
     .suffix = Solstício de Inverno
 
-ent-RandomHumanoidSpawnerNavyOfficerUndercover = Oficial da Marinha Disfarçado
+ent-RandomHumanoidSpawnerNavyOfficerUndercover = Oficial da Marinha Encoberto
     .suffix = Solstício de Inverno
 
 ent-RandomHumanoidSpawnerSpecialOperationsOfficers = Oficial de Operações Especiais
@@ -597,107 +603,107 @@ ent-MobTajaran = Enzo Tajaran da Silva
 
 # From: _Goobstation/Entities/Mobs/Player/yowie.yml
 
-ent-MobYowie = Enzo Drogado da Silva
+ent-MobYowie = Enzo Au da Silva
 
 # From: _Goobstation/Entities/Mobs/Species/tajaran.yml
-
 # Abstract entity (referenceable by children)
-ent-BaseMobTajaran = {ent-MobTajaran}
 
-ent-MobTajaranDummy = {ent-MobTajaran}
-    .desc = Um boneco tajarão destinado a ser usado na configuração de personagem.
+ent-BaseMobTajaran = Enzo Tajaran da Silva
+
+ent-MobTajaranDummy = Enzo Mãos da Silva
+    .desc = Um boneco tajarano destinado a ser usado na configuração de personagem.
 
 # From: _Goobstation/Entities/Mobs/Species/yowie.yml
-
 # Abstract entity (referenceable by children)
-ent-BaseMobYowie = {ent-MobYowie}
+
+ent-BaseMobYowie = Enzo Yowie da Silva
 
 # From: _Goobstation/Entities/Objects/Devices/chrono_teleporter.yml
 
-ent-ChronoTeleporter = teletransportador futurista
+ent-ChronoTeleporter = Teletransportador Futurista
     .desc = Na verdade, não tão futurista quanto todo o resto
 
 # From: _Goobstation/Entities/Objects/Devices/Circuitboards/machine.yml
 
-ent-ConstructorCircuitboard = placa de máquina construtor
-    .desc = Uma placa de circuito de máquina para um construtor.
+ent-ConstructorCircuitboard = Placa de Máquina Construtora
+    .desc = Uma placa de circuito impresso de máquina para um construtor.
 
-ent-InteractorCircuitboard = placa de máquina interactor
-    .desc = Uma placa de circuito de máquina para um interactor.
+ent-InteractorCircuitboard = Placa de Máquina Interatora
+    .desc = Uma placa de circuito impresso de máquina para um interator.
 
-ent-RoboticArmCircuitboard = placa de máquina braço robótico
-    .desc = Uma placa de circuito de máquina para um braço robótico.
+ent-RoboticArmCircuitboard = Placa de Máquina Braço Robótico
+    .desc = Uma placa de circuito impresso de máquina para um braço robótico.
 
-ent-StorageBinCircuitboard = placa de máquina bin de armazenamento
-    .desc = Uma placa de circuito de máquina para um bin de armazenamento.
+ent-StorageBinCircuitboard = Placa de Máquina Recipiente de Armazenamento
+    .desc = Uma placa de circuito impresso de máquina para um recipiente de armazenamento.
 
 # From: _Goobstation/Entities/Objects/Devices/Electronics/exosuit_components.yml
-
 # Abstract entity (referenceable by children)
-ent-BaseExosuitParts = componentes base
 
-ent-DurandArmorPlate = placas de blindagem durand
-    .desc = Placas de blindagem feitas de plasteel para exosuit Durand.
+ent-BaseExosuitParts = Componentes Base
 
-ent-GygaxArmorPlate = placas de blindagem gygax
-    .desc = Placas de blindagem feitas de aço para exosuit Gygax.
+ent-DurandArmorPlate = Placas de Blindagem Durand
+    .desc = Placas de blindagem feitas de plasteel para o exoesqueleto Durand.
 
-ent-MechAirTank = tanque de ar exosuit
+ent-GygaxArmorPlate = Placas de Blindagem Gygax
+    .desc = Placas de blindagem feitas de aço para o exoesqueleto Gygax.
+
+ent-MechAirTank = Tanque de Ar de Exoesqueleto
     .desc = Um cilindro de ar especial capaz de conter uma grande quantidade de ar.
 
-ent-MechThruster = propulsor exosuit
-    .desc = Um propulsor com o qual o exosuit pode se mover seguramente na ausência de gravidade.
+ent-MechThruster = Propulsor de Exoesqueleto
+    .desc = Um propulsor com o qual o exoesqueleto pode se mover com segurança na ausência de gravidade.
 
-ent-RipleyUpgradeKit = kit de atualização exosuit
-    .desc = Este kit permite que você monte um exosuit Ripley MK-II.
+ent-RipleyUpgradeKit = Kit de Atualização de Exoesqueleto
+    .desc = Este kit permite montar um exoesqueleto Ripley MK-II.
 
 # From: _Goobstation/Entities/Objects/Devices/Electronics/mech.yml
 
-ent-ClarkeCentralElectronics = módulo de controle central clarke
-    .desc = O centro de controle elétrico para o mecha clarke.
+ent-ClarkeCentralElectronics = Módulo de Controle Central Clarke
+    .desc = O centro de controle elétrico para o mech Clarke.
 
-ent-ClarkePeripheralsElectronics = módulo de controle periférico clarke
-    .desc = O controle periférico elétrico para o mecha clarke.
+ent-ClarkePeripheralsElectronics = Módulo de Controle Periférico Clarke
+    .desc = O controle elétrico periférico para o mech Clarke.
 
-ent-DurandCentralElectronics = módulo de controle central durand
-    .desc = O centro de controle elétrico para o mecha durand.
+ent-DurandCentralElectronics = Módulo de Controle Central Durand
+    .desc = O centro de controle elétrico para o mech Durand.
 
-ent-DurandPeripheralsElectronics = módulo de controle periférico durand
-    .desc = O controle periférico elétrico para o mecha durand.
+ent-DurandPeripheralsElectronics = Módulo de Controle Periférico Durand
+    .desc = O controle elétrico periférico para o mech Durand.
 
-ent-DurandTargetingElectronics = módulo de controle de arma e direcionamento durand
-    .desc = O controle de direcionamento elétrico para o mecha durand.
+ent-DurandTargetingElectronics = Módulo de Controle de Armas e Mira Durand
+    .desc = O controle elétrico de mira para o mech Durand.
 
-ent-GygaxCentralElectronics = módulo de controle central gygax
-    .desc = O centro de controle elétrico para o mecha gygax.
+ent-GygaxCentralElectronics = Módulo de Controle Central Gygax
+    .desc = O centro de controle elétrico para o mech Gygax.
 
-ent-GygaxPeripheralsElectronics = módulo de controle periférico gygax
-    .desc = O controle periférico elétrico para o mecha gygax.
+ent-GygaxPeripheralsElectronics = Módulo de Controle Periférico Gygax
+    .desc = O controle elétrico periférico para o mech Gygax.
 
-ent-GygaxTargetingElectronics = módulo de controle de arma e direcionamento gygax
-    .desc = O controle de direcionamento elétrico para o mecha gygax.
+ent-GygaxTargetingElectronics = Módulo de Controle de Armas e Mira Gygax
+    .desc = O controle elétrico de mira para o mech Gygax.
 
 # From: _Goobstation/Entities/Objects/Devices/encryption_keys.yml
 
-ent-EncryptionKeyFuture = chave de criptografia futurista
+ent-EncryptionKeyFuture = Chave de Criptografia Futurista
     .desc = whiskey echo... o que vem a seguir?
 
 # From: _Goobstation/Entities/Objects/Devices/flatpack.yml
 
-ent-TimelineDisruptorFlatpack = flatpack disruptor de timeline
-    .desc = Um flatpack usado para construir uma montagem solar.
+ent-TimelineDisruptorFlatpack = Flatpack de Disruptor de Linha Temporal
+    .desc = Um flatpack usado para construir um conjunto solar.
 
 # From: _Goobstation/Entities/Objects/Devices/pda.yml
 
-ent-ChronoPDA = PDA futurista
-    .desc = Um computador quântico poderoso disfarçado como PDA regular para disfarce.
+ent-ChronoPDA = PDA Futurista
+    .desc = Um computador quântico poderoso disfarçado como um PDA regular para disfarce.
 
-ent-DiplomatPDA = PDA de diplomata
+ent-DiplomatPDA = PDA de Diplomata
 
-ent-GmanPDA = PDA estranho
+ent-GmanPDA = PDA Estranho
     .desc = Sua mente não consegue compreender totalmente isso.
 
-ent-NavyCaptainPDA = PDA HiCom do Solstício de Inverno
+ent-NavyCaptainPDA = PDA do Alto Comando do Solstício de Inverno
     .desc = O diabo está nos detalhes.
 
 ent-NavyOfficerPDA = PDA de Oficial do Solstício de Inverno
@@ -706,55 +712,56 @@ ent-SpecialOperationsOfficerPDA = PDA de Oficial de Operações Especiais
 
 # From: _Goobstation/Entities/Objects/Materials/materials.yml
 
-ent-MaterialHexNut = porca hexagonal de aço
-    .suffix = Cheia
+ent-MaterialHexNut = Porca Hexagonal de Aço
+    .suffix = Cheio
 
-ent-MaterialScrew = parafuso de aço
+ent-MaterialScrew = Parafuso de Aço
     .suffix = Cheio
 
 # From: _Goobstation/Entities/Objects/Misc/Crafting/ghetto_stuff.yml
 
-ent-ClothingHeadMakeshiftHelmet = capacete leve improvisado
+ent-ClothingHeadMakeshiftHelmet = Capacete Improvisado Leve
     .desc = Um monte de aço conectado com fios, surpreendentemente durável e estiloso.
 
-ent-ClothingOuterArmorMakeshiftVestHeavy = colete pesado improvisado
+ent-ClothingOuterArmorMakeshiftVestHeavy = Colete Improvisado Pesado
     .desc = Um colete pesado improvisado, feito para resistir a balas.
 
-ent-ClothingOuterArmorMakeshiftVestLight = colete leve improvisado
+ent-ClothingOuterArmorMakeshiftVestLight = Colete Improvisado Leve
     .desc = Um colete leve feito à mão com aço e cabos. Durável, mas não tão eficiente.
 
-ent-ClothingShoesHeavyBoots = botas tide
-    .desc = Metal está raspando pelo chão enquanto você caminha com elas, quem pensou que isso era uma boa ideia?
+ent-ClothingShoesHeavyBoots = Botas Maré
+    .desc = Metal está raspando o chão enquanto você anda com elas, quem achou que isso era uma boa ideia?
 
-ent-ContrabandBag = bolsa improvisada
-    .desc = Uma bolsa improvisada, feita de aço e cabos de tal forma a bloquear scanners de contrabando.
+ent-ContrabandBag = Bolsa Improvisada
+    .desc = Uma bolsa improvisada, feita de aço e cabos de tal maneira a bloquear scanners de contrabando.
 
-ent-ContrabandBagUnfinished = algo improvisado
-    .desc = Algo feito de aço e plástico, você não tem certeza do que isso deveria ser.
+ent-ContrabandBagUnfinished = Algo Improvisado
+    .desc = Algo feito de aço e plástico, você não tem certeza do que isso deve ser.
 
-ent-HeatedMadeKitchenKnife = faca de cozinha aquecida
-    .desc = Uma faca feita à mão, parece quente! Você provavelmente tem alguns minutos antes que esfrie.
+ent-HeatedMadeKitchenKnife = Faca de Cozinha Aquecida
+    .desc = Uma faca feita à mão, parece quente! Você provavelmente tem alguns minutos antes que ela esfrie.
 
-ent-IDCardTide = carteira tide
-    .desc = Carteira tide improvisada, feita de Deus sabe do quê.
+ent-IDCardTide = Cartão ID Maré
+    .desc = Cartão ID-t-improvisado, feito de Deus sabe o quê.
 
-ent-IDCardTideUnfinished = carteira improvada inacabada
-    .desc = Deus tenha misericórdia.
+ent-IDCardTideUnfinished = Cartão ID Improvisado Inacabado
+    .desc = Deus tenha piedade.
 
-ent-MakeshiftDefib = desfibrilador improvisado
-    .desc = Desfibrilador com aparência enferrujada, feito de sucata. Tem certeza que isso é uma boa ideia?
+ent-MakeshiftDefib = Desfibrilador Improvisado
+    .desc = Desfibrilador com aparência enferrujada, feito de sucata. Você tem certeza que isso é uma boa ideia?
 
-ent-MakeshiftDefibUnfinished = algo improvisado
-    .desc = Algo complexo feito de aço. Você não tem certeza bem do que é.
+ent-MakeshiftDefibUnfinished = Algo Improvisado
+    .desc = Algo complexo feito de aço. Você não tem certeza do que é isso.
 
-ent-MakeshiftJammer = jammer de rádio improvisado
-    .desc = Um dispositivo de aparência barata que pode spam ondas de rádio, essencialmente bloqueando todo sinal. Sim, não é eficaz.
+ent-MakeshiftJammer = Jammer de Rádio Improvisado
+    .desc = Um dispositivo com aparência barata que pode spammar ondas de rádio, essencialmente bloqueando todo sinal. Sim, não é eficaz.
 
-ent-MetalBaseballBat = taco de beisebol de metal
-    .desc = Um taco de beisebol de metal muito robusto e pesado para surrar bundas. Tem um cabo de madeira agradável.
+ent-MetalBaseballBat = Taco de Beisebol de Metal
+    .desc = Um taco de beisebol de metal muito robusto e pesado para bater em caras. Tem um cabo de madeira agradável.
 
 # Abstract entity (referenceable by children)
-ent-ScrapBase = sucata de metal
+
+ent-ScrapBase = Sucata Metálica
     .desc = Algum metal sendo preparado para crafting.
 
 ent-ScrapBoots = {ent-ScrapBase}
@@ -769,180 +776,181 @@ ent-ScrapHelmet = {ent-ScrapBase}
 ent-ScrapLightVest = {ent-ScrapBase}
     .desc = {ent-ScrapBase.desc}
 
-ent-TideFlipperZero = flipper tide
-    .desc = Um dispositivo improvisado que pode hack portas sem acesso.
+ent-TideFlipperZero = Maré Flipper
+    .desc = Um dispositivo improvisado que pode hackear portas sem acesso.
 
-ent-TideFlipperZeroUnfinished = algo improvisado
-    .desc = Um controle remoto preso a uma multitool, você tem que ser um gênio para descobrir o que faz.
+ent-TideFlipperZeroUnfinished = Algo Improvisado
+    .desc = Um controle remoto amarrado a uma multitool, você tem que ser um gênio para descobrir o que faz.
 
-ent-ToolboxGrey = caixa de ferramentas cinza
-    .desc = Uma arma verdadeiramente robusta. Você sente um desejo repentino de tide enquanto segura isso.
+ent-ToolboxGrey = Caixa de Ferramentas Cinza
+    .desc = Uma arma verdadeiramente robusta. Você sente um desejo repentino de fazer maré enquanto segura isso.
 
-ent-ToolboxGreyUnfinished = caixa de ferramentas improvisada inacabada
+ent-ToolboxGreyUnfinished = Caixa de Ferramentas Improvisada Inacabada
     .desc = Algum aço soldado junto. Parece inacabado.
 
-ent-WoodenHandle = cabo de madeira
+ent-WoodenHandle = Cabo de Madeira
     .desc = Um cabo de madeira normal, que pode ser usado em crafting.
 
 # From: _Goobstation/Entities/Objects/Misc/filters.yml
 
-ent-AutomationFilterCombined = filtro combinado
+ent-AutomationFilterCombined = Filtro Combinado
     .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este usa uma porta lógica para combinar 2 filtros de itens instalados.
 
-ent-AutomationFilterLabel = filtro de etiqueta
+ent-AutomationFilterLabel = Filtro de Etiqueta
     .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este escaneia etiquetas de itens anexados.
 
-ent-AutomationFilterName = filtro de nome
-    .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este usa tecnologia de visão de IA complexa para identificar itens.
+ent-AutomationFilterName = Filtro de Nome
+    .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este usa tecnologia complexa de visão de IA para identificar itens.
 
-ent-AutomationFilterPressure = filtro de pressão
-    .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este tem um barômetro para verificar a pressão de gases.
+ent-AutomationFilterPressure = Filtro de Pressão
+    .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este tem um barômetro para verificar a pressão dos gases.
 
-ent-AutomationFilterStack = filtro de pilha
+ent-AutomationFilterStack = Filtro de Pilha
     .desc = Um filtro que pode ser instalado em máquinas de fábrica. Este pesa itens para comparar com um tamanho de pilha.
 
 # Abstract entity (referenceable by children)
-ent-BaseAutomationFilter = filtro
+
+ent-BaseAutomationFilter = Filtro
     .desc = Um filtro que pode ser instalado em máquinas de fábrica.
 
 # From: _Goobstation/Entities/Objects/Misc/identification_cards.yml
 
-ent-CentcomIDCardDiplomat = Carteira de diplomata TSF
+ent-CentcomIDCardDiplomat = Cartão ID de Diplomata da TSF
 
-ent-CentcomIDCardNavyCaptain = Carteira HiCom do Solstício de Inverno
+ent-CentcomIDCardNavyCaptain = Cartão ID do Alto Comando do Solstício de Inverno
 
-ent-CentcomIDCardNavyOfficer = Carteira de Oficial do Solstício de Inverno
+ent-CentcomIDCardNavyOfficer = Cartão ID de Oficial do Solstício de Inverno
 
-ent-CentcomIDCardSpecialOperationsOfficer = Carteira de Oficial de Operações Especiais do Solstício de Inverno
+ent-CentcomIDCardSpecialOperationsOfficer = Cartão ID de Oficial de Operações Especiais do Solstício de Inverno
 
-ent-ChronoIDCard = carteira futurista
-    .desc = A carteira que originalmente acessava tudo neste universo
+ent-ChronoIDCard = Cartão ID Futurista
+    .desc = O cartão que originalmente acessava tudo neste universo
 
-ent-ExecutiveIDCard = carteira de acesso executivo
-    .desc = Mostre isso, e qualquer funcionário TSF é legalmente obrigado a ouvir você.
+ent-ExecutiveIDCard = Cartão de Acesso Executivo
+    .desc = Mostre isso, e qualquer funcionário da TSF é legalmente obrigado a ouvir você.
 
-ent-ExecutiveIDCardChameleon = carteira de acesso executivo
-    .desc = Mostre isso, e qualquer funcionário TSF é legalmente obrigado a ouvir você. Capaz de mudar aparência se você quer ficar incógnito.
+ent-ExecutiveIDCardChameleon = Cartão de Acesso Executivo Camaleão
+    .desc = Mostre isso, e qualquer funcionário da TSF é legalmente obrigado a ouvir você. Capaz de mudar de aparência se você quiser ficar incógnito.
 
-ent-GmanIDCard = carteira estranha
-    .desc = A carteira que originalmente acessava tudo neste universo
+ent-GmanIDCard = Cartão ID Estranho
+    .desc = O cartão que originalmente acessava tudo neste universo
 
 # From: _Goobstation/Entities/Objects/Misc/implanters.yml
-
 # Abstract entity (referenceable by children)
-ent-BaseImplantOnlyImplanterCentcomm = implantador centcomm
-    .desc = Uma seringa descartável compacta exclusivamente projetada para injeção de implantes subdermais. A agulha de inserção é revestida com um anestésico.
+
+ent-BaseImplantOnlyImplanterCentcomm = Implantador CentComm
+    .desc = Uma seringa compacta descartável exclusivamente projetada para injeção de implantes subdérmicos. A agulha de inserção é revestida com anestésico.
 
 ent-BluespaceLifelineImplanter = {ent-BaseImplantOnlyImplanterCentcomm}
-    .suffix = linha de vida bluespace
+    .suffix = Linha de Vida Bluespace
     .desc = {ent-BaseImplantOnlyImplanterCentcomm.desc}
 
 # From: _Goobstation/Entities/Objects/Misc/nuclear_override_card.yml
 
-ent-NukeOverride = cartão de substituição nuclear
+ent-NukeOverride = Cartão de Override Nuclear
     .suffix = NÃO MAPEAR
-    .desc = Um cartão de plástico surpreendentemente barato, capaz de substituir protocolos de segurança de dispositivos nucleares.
+    .desc = Um cartão de plástico surpreendentemente barato, capaz de substituir os protocolos de segurança de dispositivos nucleares.
 
 # From: _Goobstation/Entities/Objects/Misc/paper.yml
 
-ent-PenFuture = caneta futurista
+ent-PenFuture = Caneta Futurista
     .desc = Algumas teorias afirmam que o apocalipse de 3024 aconteceu por causa das canetas
 
 # From: _Goobstation/Entities/Objects/Misc/subdermal_implants.yml
 
-ent-BluespaceLifelineImplant = implante de linha de vida bluespace
-    .desc = Teleporta o corpo do hospedeiro para o Solstício de Inverno na ativação. Eles não poderão retornar.
+ent-BluespaceLifelineImplant = Implante de Linha de Vida Bluespace
+    .desc = Teletransporta o corpo do hospedeiro para o Solstício de Inverno na ativação. Eles não poderão voltar.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/mech_construction.yml
 
-ent-ClarkeChassis = chassi clarke
-    .desc = Uma construção em andamento do mecha Clarke.
+ent-ClarkeChassis = Chassis Clarke
+    .desc = Uma construção em andamento do mech Clarke.
 
-ent-ClarkeHarness = arreata clarke
+ent-ClarkeHarness = Arnês Clarke
     .desc = O núcleo do Clarke.
 
-ent-ClarkeHead = cabeça clarke
-    .desc = A cabeça do Clarke. Pertence ao chassi do mecha.
+ent-ClarkeHead = Cabeça Clarke
+    .desc = A cabeça do Clarke. Pertence ao chassis do mech.
 
-ent-ClarkeLArm = braço esquerdo clarke
-    .desc = O braço esquerdo do Clarke. Pertence ao chassi do mecha.
+ent-ClarkeLArm = Braço Esquerdo Clarke
+    .desc = O braço esquerdo do Clarke. Pertence ao chassis do mech.
 
-ent-ClarkeRArm = braço direito clarke
-    .desc = O braço direito do Clarke. Pertence ao chassi do mecha.
+ent-ClarkeRArm = Braço Direito Clarke
+    .desc = O braço direito do Clarke. Pertence ao chassis do mech.
 
-ent-ClarkeTreads = esteiras clarke
-    .desc = As esteiras do Clarke. Pertence ao chassi do mecha.
+ent-ClarkeTreads = Esteiras Clarke
+    .desc = As esteiras do Clarke. Pertencem ao chassis do mech.
 
-ent-DurandChassis = chassi durand
-    .desc = Uma construção em andamento do mecha Durand.
+ent-DurandChassis = Chassis Durand
+    .desc = Uma construção em andamento do mech Durand.
 
-ent-DurandHarness = arreata durand
+ent-DurandHarness = Arnês Durand
     .desc = O núcleo do Durand.
 
-ent-DurandHead = cabeça durand
-    .desc = A cabeça do Durand. Pertence ao chassi do mecha.
+ent-DurandHead = Cabeça Durand
+    .desc = A cabeça do Durand. Pertence ao chassis do mech.
 
-ent-DurandLArm = braço esquerdo durand
-    .desc = O braço esquerdo do Durand. Pertence ao chassi do mecha.
+ent-DurandLArm = Braço Esquerdo Durand
+    .desc = O braço esquerdo do Durand. Pertence ao chassis do mech.
 
-ent-DurandLLeg = perna esquerda durand
-    .desc = A perna esquerda do Durand. Pertence ao chassi do mecha.
+ent-DurandLLeg = Perna Esquerda Durand
+    .desc = A perna esquerda do Durand. Pertence ao chassis do mech.
 
-ent-DurandRArm = braço direito durand
-    .desc = O braço direito do Durand. Pertence ao chassi do mecha.
+ent-DurandRArm = Braço Direito Durand
+    .desc = O braço direito do Durand. Pertence ao chassis do mech.
 
-ent-DurandRLeg = perna direita durand
-    .desc = A perna direita do Durand. Pertence ao chassi do mecha.
+ent-DurandRLeg = Perna Direita Durand
+    .desc = A perna direita do Durand. Pertence ao chassis do mech.
 
-ent-GygaxChassis = chassi gygax
-    .desc = Uma construção em andamento do mecha Gygax.
+ent-GygaxChassis = Chassis Gygax
+    .desc = Uma construção em andamento do mech Gygax.
 
-ent-GygaxHarness = arreata gygax
+ent-GygaxHarness = Arnês Gygax
     .desc = O núcleo do Gygax.
 
-ent-GygaxHead = cabeça gygax
-    .desc = A cabeça do Gygax. Pertence ao chassi do mecha.
+ent-GygaxHead = Cabeça Gygax
+    .desc = A cabeça do Gygax. Pertence ao chassis do mech.
 
-ent-GygaxLArm = braço esquerdo gygax
-    .desc = O braço esquerdo do Gygax. Pertence ao chassi do mecha.
+ent-GygaxLArm = Braço Esquerdo Gygax
+    .desc = O braço esquerdo do Gygax. Pertence ao chassis do mech.
 
-ent-GygaxLLeg = perna esquerda gygax
-    .desc = A perna esquerda do Gygax. Pertence ao chassi do mecha.
+ent-GygaxLLeg = Perna Esquerda Gygax
+    .desc = A perna esquerda do Gygax. Pertence ao chassis do mech.
 
-ent-GygaxRArm = braço direito gygax
-    .desc = O braço direito do Gygax. Pertence ao chassi do mecha.
+ent-GygaxRArm = Braço Direito Gygax
+    .desc = O braço direito do Gygax. Pertence ao chassis do mech.
 
-ent-GygaxRLeg = perna direita gygax
-    .desc = A perna direita do Gygax. Pertence ao chassi do mecha.
+ent-GygaxRLeg = Perna Direita Gygax
+    .desc = A perna direita do Gygax. Pertence ao chassis do mech.
 
-ent-RipleyMKIIChassis = chassi ripley MK-II
-    .desc = Uma construção em andamento do mecha Ripley MK-II.
+ent-RipleyMKIIChassis = Chassis Ripley MK-II
+    .desc = Uma construção em andamento do mech Ripley MK-II.
 
-ent-RipleyMKIIHarness = arreata ripley MK-II
+ent-RipleyMKIIHarness = Arnês Ripley MK-II
     .desc = O núcleo do Ripley MK-II.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/mechs.yml
 
 ent-MechClarke = Clarke
-    .desc = Um mecha de movimento rápido para viagem espacial. Tem propulsores embutidos.
+    .desc = Um mech de movimento rápido para viagem espacial. Tem propulsores embutidos.
 
 ent-MechDurand = Durand
-    .desc = Um exosuit de combate lento mas robusto que é extra assustador em espaços confinados devido aos seus socos. Xenos odeiam!
+    .desc = Um exoesqueleto de combate lento mas robusto que é extra assustador em espaços confinados devido aos seus socos. Xenos odeiam!
 
 ent-MechGygax = Gygax
     .desc = Embora levemente blindado, o Gygax tem mobilidade incrível graças à sua capacidade de socar através de paredes em alta velocidade.
 
-ent-MechGygaxSyndie = Gygax Escuro
-    .desc = Um Gygax modificado usado para propósitos nefastos.
+ent-MechGygaxSyndie = Gygax Sombrio
+    .desc = Um Gygax modificado para fins nefastos.
 
 ent-MechMarauder = Marauder
     .desc = Parece que estamos todos salvos.
 
 ent-MechMaulerSyndie = Mauler
-    .desc = Um Marauder modificado já usado pelo Sindicato. Não tão manobrável quanto o Gygax Escuro, mas compensa sua velocidade em blindagem e poder de fogo.
+    .desc = Um Marauder modificado usado pelo Sindicato. Não tão manobrável quanto o Gygax Sombrio, mas compensa sua velocidade em blindagem e poder de fogo absoluto.
 
 ent-MechRipley2 = Ripley APLU MK-II
-    .desc = O "MK-II" tem uma cabine pressurizada para operações espaciais, mas o peso adicional o desacelerou.
+    .desc = O \"MK-II\" tem uma cabine pressurizada para operações espaciais, mas o peso adicional tornou-o mais lento.
 
 ent-MechSeraph = Seraph
     .desc = A última coisa que você verá.
@@ -950,449 +958,533 @@ ent-MechSeraph = Seraph
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/combat.yml
 
 ent-WeaponMechCombatDisabler = Desabilitador CH-PD
-    .suffix = Arma Mecha, Arma, Combate, Desabilitador
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Desabilitador
     .desc = Uma arma de atordoamento montada não letal que permite imobilizar intrusos.
 
-ent-WeaponMechCombatFiredartLaser = Laser "Firedart" CH-PS
-    .suffix = Arma Mecha, Arma, Combate, Laser
-    .desc = Um rifle laser de mecha montado de tiro rápido.
+ent-WeaponMechCombatFiredartLaser = CH-PS \"Firedart\" Laser
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
+    .desc = Um rifle laser montado em mech de disparo rápido.
 
 ent-WeaponMechCombatFlashbangLauncher = Lançador de Flashbang SGL-6
-    .suffix = Arma Mecha, Arma, Combate, Flashbang
-    .desc = Lança mísseis de arrombamento de baixa explosão projetados para explodir apenas quando atingem um alvo resistente.
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Flashbang
+    .desc = Lança mísseis de rompimento de baixa explosividade projetados para explodir apenas ao atingir um alvo robusto.
 
 ent-WeaponMechCombatImmolationGun = Arma de Feixe de Imolação ZFI
-    .suffix = Arma Mecha, Arma, Combate, Laser
-    .desc = Um canhão Raio-X montado em mecha.
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
+    .desc = Um canhão de raio-X montado em mech.
 
 ent-WeaponMechCombatMissileRack6 = Suporte de Mísseis BRM-6
-    .suffix = Arma Mecha, Arma, Combate, Míssil
-    .desc = Tubos devem ser recarregados de fora.
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Míssil
+    .desc = Os tubos devem ser recarregados de fora.
 
 ent-WeaponMechCombatMissileRack8 = Suporte de Mísseis Leves SRM-8
-    .suffix = Arma Mecha, Arma, Combate, Míssil Leve
-    .desc = Lança mísseis de arrombamento de baixa explosão projetados para explodir apenas quando atingem um alvo resistente.
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Míssil Leve
+    .desc = Lança mísseis de rompimento de baixa explosividade projetados para explodir apenas ao atingir um alvo robusto.
 
-ent-WeaponMechCombatPulseRifle = rifle de pulso pesado eZ-14 mk2
-    .suffix = Arma Mecha, Arma, Combate, Pulso
+ent-WeaponMechCombatPulseRifle = Rifle de Pulso Pesado eZ-14 mk2
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Pulso
     .desc = Dispara um laser de pulso pesado.
 
-ent-WeaponMechCombatShotgun = AC 10 "Scattershot" LBX
-    .suffix = Arma Mecha, Arma, Combate, Escopeta
-    .desc = Uma escopeta montada em mecha para limpeza de sala.
+ent-WeaponMechCombatShotgun = LBX AC 10 \"Scattershot\"
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Shotgun
+    .desc = Uma shotgun montada em mech para limpeza de salas.
 
-ent-WeaponMechCombatShotgunIncendiary = Carabina "Hades" FNX-99
-    .suffix = Arma Mecha, Arma, Combate, Escopeta, Incendiário
+ent-WeaponMechCombatShotgunIncendiary = FNX-99 \"Hades\" Carabina
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Shotgun, Incendiário
     .desc = Carabina montada, disparando cartuchos incendiários.
 
-ent-WeaponMechCombatSolarisLaser = canhão laser "Solaris" CH-LC
-    .suffix = Arma Mecha, Arma, Combate, Laser
-    .desc = Um Canhão Laser montado em mecha.
+ent-WeaponMechCombatSolarisLaser = Canhão Laser CH-LC \"Solaris\"
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
+    .desc = Um canhão laser montado em mech.
 
-ent-WeaponMechCombatTaser = Taser Montado "Pacifier" PBT
-    .suffix = Arma Mecha, Arma, Combate, Desabilitador, admeme
+ent-WeaponMechCombatTaser = PBT \"Pacifier\" Taser Montado
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Desabilitador, admeme
     .desc = Um taser não letal montado que permite atordoar intrusos.
 
 ent-WeaponMechCombatTeslaCannon = Canhão Tesla P-X
-    .suffix = Arma Mecha, Arma, Combate, Tesla
-    .desc = Uma arma para mechas de combate, disparando bolas de energia, baseado no princípio de um motor Tesla experimental.
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Tesla
+    .desc = Uma arma para mechs de combate, disparando bolas de energia, baseada no princípio de um motor Tesla experimental.
 
 ent-WeaponMechCombatUltraRifle = Ultra AC-2
-    .suffix = Arma Mecha, Arma, Combate, Rifle
+    .suffix = Arma de Mech, Arma de Fogo, Combate, Rifle
     .desc = Carabina montada, disparando cartuchos incendiários.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/debug.yml
 
-ent-WeaponMechDebugBallistic = bang debug
-    .suffix = Arma Mecha, DEBUG, Balística
+ent-WeaponMechDebugBallistic = Debug Bum
+    .suffix = Arma de Mech, DEBUG, Balística
 
-ent-WeaponMechDebugDisabler = tew debug
-    .suffix = Arma Mecha, DEBUG, Desabilitador
-    .desc = Uma arma de autodefesa que exaure alvos orgânicos, enfraquecendo-os até colapsarem.
+ent-WeaponMechDebugDisabler = Debug Tew
+    .suffix = Arma de Mech, DEBUG, Desabilitador
+    .desc = Uma arma de autodefesa que exaure alvos orgânicos, enfraquecendo-os até desmaiar.
 
-ent-WeaponMechDebugLaser = pow debug
-    .suffix = Arma Mecha, DEBUG, Laser
+ent-WeaponMechDebugLaser = Debug Pow
+    .suffix = Arma de Mech, DEBUG, Laser
     .desc = Uma arma usando luz amplificada pela emissão estimulada de radiação.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/industrial.yml
 
-ent-WeaponMechIndustrialKineticAccelerator = acelerador proto-cinético exosuit
-    .suffix = Arma Mecha, Arma, Industrial, Acelerador Cinético
-    .desc = Dispara parafusos cinéticos de dano normal em curto alcance.
+ent-WeaponMechIndustrialKineticAccelerator = Acelerador Cinético Proto-Exoesqueleto
+    .suffix = Arma de Mech, Arma de Fogo, Industrial, Acelerador Cinético
+    .desc = Dispara projéteis cinéticos de dano normal em curto alcance.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/special.yml
 
-ent-WeaponMechSpecialBananaMortar = morteiro de banana
-    .suffix = Arma Mecha, Arma, Especial, Morteiro
+ent-WeaponMechSpecialBananaMortar = Morteiro de Banana
+    .suffix = Arma de Mech, Arma de Fogo, Especial, Morteiro
     .desc = Lançador de cascas de banana montado.
 
-ent-WeaponMechSpecialMousetrapMortar = morteiro de ratoeira
-    .suffix = Arma Mecha, Arma, Especial, Morteiro
+ent-WeaponMechSpecialMousetrapMortar = Morteiro de Ratoeira
+    .suffix = Arma de Mech, Arma de Fogo, Especial, Morteiro
     .desc = Lançador de ratoeiras montado.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/combat.yml
 
-ent-WeaponMechChainSword = motosserra exosuit
-    .suffix = Arma Mecha, Corpo a Corpo, Combate
-    .desc = Equipamento para exosuits de combate. Esta é a motosserra mecânica que vai perfurar os céus!
+ent-WeaponMechChainSword = Moto-serra de Exoesqueleto
+    .suffix = Arma de Mech, Corpo a Corpo, Combate
+    .desc = Equipamento para exoesqueletos de combate. Essa é a moto-serra mecânica que vai perfurar os céus!
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/debug.yml
 
-ent-WeaponMechDebugMelle = bam debug
-    .suffix = Arma Mecha, DEBUG, Corpo a Corpo
+ent-WeaponMechDebugMelle = Debug Bam
+    .suffix = Arma de Mech, DEBUG, Corpo a Corpo
     .desc = Uma coisa robusta.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/industrial.yml
 
-ent-WeaponMechMeleeDrill = furadeira exosuit
-    .suffix = Arma Mecha, Corpo a Corpo, Industrial
-    .desc = Equipamento para exosuits de mineração. Esta é a furadeira que vai perfurar as rochas!
+ent-WeaponMechMeleeDrill = Perfuratriz de Exoesqueleto
+    .suffix = Arma de Mech, Corpo a Corpo, Industrial
+    .desc = Equipamento para exoesqueletos de mineração. Essa é a perfuratriz que vai perfurar as rochas!
 
-ent-WeaponMechMeleeDrillDiamond = furadeira exosuit com ponta de diamante
-    .suffix = Arma Mecha, Corpo a Corpo, Industrial
-    .desc = Equipamento para exosuits de mineração. Esta é uma versão melhorada da furadeira que vai perfurar as rochas!
+ent-WeaponMechMeleeDrillDiamond = Perfuratriz de Exoesqueleto com Ponta de Diamante
+    .suffix = Arma de Mech, Corpo a Corpo, Industrial
+    .desc = Equipamento para exoesqueletos de mineração. Essa é uma versão aprimorada da perfuratriz que vai perfurar as rochas!
 
 # From: _Goobstation/Entities/Objects/Specific/Medical/hypospray.yml
 
-ent-CentCommHypo = hypospray centcomm
+ent-CentCommHypo = Hipospray CentComm
     .desc = Reservado para os melhores médicos da TSF. Utiliza tecnologia bluespace experimental.
 
-ent-CentcommStimpack = estimulante avançado centcomm
+ent-CentcommStimpack = Estimulante Avançado CentComm
     .suffix = NÃO MAPEAR
-    .desc = Segundo um estudo financiado pela TSF, tem zero propriedades viciantes.
+    .desc = De acordo com um estudo financiado pela TSF, tem zero propriedades viciantes.
 
-ent-StasiziumAutoInjector = caneta futurista
-    .desc = Uma dose de substâncias medicinais do futuro que pode levantar até os mortos aos seus pés
+ent-StasiziumAutoInjector = Caneta-Medicamentos Futurista
+    .desc = Uma dose de substâncias medicinais do futuro que pode levantar até os mortos
 
 # From: _Goobstation/Entities/Objects/Specific/Misc/voidsuitselectors.yml
 
-ent-UndeterminedVoidsuitEngineer = seletor de roupa de engenheiro
-    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para inserir uma roupa ou macacão de sua escolha.
+ent-UndeterminedVoidsuitEngineer = Seletor de Roupa de Vácuo de Engenheiro
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
 
-ent-UndeterminedVoidsuitHeadOfSecurity = seletor de roupa de chefe de segurança
-    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para inserir uma roupa ou macacão de sua escolha.
+ent-UndeterminedVoidsuitHeadOfSecurity = Seletor de Roupa de Vácuo do Chefe de Segurança
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
 
-ent-UndeterminedVoidsuitParamedic = seletor de roupa de paramédico
-    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para inserir uma roupa ou macacão de sua escolha.
+ent-UndeterminedVoidsuitParamedic = Seletor de Roupa de Vácuo de Paramédico
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
 
-ent-UndeterminedVoidsuitSecurity = seletor de roupa de segurança
-    .desc = Um controle remoto pequeno utilizando tecnologia bluespace para inserir uma roupa ou macacão de sua escolha.
+ent-UndeterminedVoidsuitSecurity = Seletor de Roupa de Vácuo de Segurança
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
 
 # From: _Goobstation/Entities/Objects/Specific/rehydrateable.yml
 
-ent-ChitinidCube = cubo quitinídeo
+ent-ChitinidCube = Cubo Quitinídeo
 
-ent-DionaCube = cubo diona
+ent-DionaCube = Cubo Diona
 
-ent-DwarfCube = cubo anão
+ent-DwarfCube = Cubo Anão
 
-ent-FelinidCube = cubo felinídeo
+ent-FelinidCube = Cubo Felinídeo
 
-ent-GingerbreadCube = cubo biscoito gengibre
+ent-GingerbreadCube = Cubo de Bolo de Gengibre
 
-ent-GoblinCube = cubo goblin
+ent-GoblinCube = Cubo Goblin
 
-ent-HarpyCube = cubo harpia
+ent-HarpyCube = Cubo Harpia
 
-ent-HumanCube = cubo humano
+ent-HumanCube = Cubo Humano
 
-ent-MothCube = cubo mariposa
+ent-MothCube = Cubo Pessoa Traça
 
-ent-ProtogenCube = cubo protogen
+ent-ProtogenCube = Cubo Protogen
     .suffix = NÃO MAPEAR
 
-ent-ReptilianCube = cubo réptil
+ent-ReptilianCube = Cubo Pessoa Reptiliana
 
-ent-ResomiCube = cubo resomi
+ent-ResomiCube = Cubo Resomi
 
-ent-RodentiaCube = cubo roedor
+ent-RodentiaCube = Cubo Roedor
 
-ent-SlimePersonCube = cubo gosma
+ent-SlimePersonCube = Cubo Pessoa Slime
 
-ent-TajaranCube = cubo tajaran
+ent-TajaranCube = Cubo Tajaran
 
-ent-VoxCube = cubo vox
+ent-VoxCube = Cubo Vox
 
-ent-VulpkaninCube = cubo vulpkanin
+ent-VulpkaninCube = Cubo Vulpkanin
 
-ent-YowieCube = cubo yowie
+ent-YowieCube = Cubo Yowie
 
 # From: _Goobstation/Entities/Objects/Specific/Robotics/modsuit_parts.yml
 
-ent-ModsuitBoots = botas MOD
-    .desc = {ent-PartModsuit.desc}
+ent-ModsuitBoots = Botas MOD
 
-ent-ModsuitChestplate = peitoril MOD
-    .desc = {ent-PartModsuit.desc}
+ent-ModsuitChestplate = Peitoral MOD
 
-ent-ModsuitCoreStandard = núcleo padrão MOD
-    .desc = Crescendo nas áreas mais exuberantes e férteis do planeta Sprout, existe um cristal conhecido como Heartbloom. Estes cristais orgânicos piezoelétricos raros são de incrível significado cultural para as castas de artistas dos Etéreos, devido à sua aparência; que é exatamente similar à de um coração Etéreo. Qual você tem em sua roupa não está claro, mas de qualquer forma, foi reaproveitado para ser uma fonte de energia interna para um Dispositivo de Vestimenta Modular.
+ent-ModsuitCoreStandard = Núcleo Padrão MOD
+    .desc = Crescendo nas áreas mais exuberantes e férteis do planeta Sprout, há um cristal conhecido como Heartbloom. Estes cristais piezoelétricos orgânicos raros têm incrível significado cultural para as castas de artistas dos Etéreos, devido à sua aparência; que é exatamente similar à de um coração de um Etéreo. Qual você tem em sua roupa não está claro, mas de qualquer forma, foi reaproveitado para ser uma fonte de energia interna para um Dispositivo de Vestimenta Externa Modular.
 
-ent-ModsuitGauntlets = manopras MOD
-    .desc = {ent-PartModsuit.desc}
+ent-ModsuitGauntlets = Manoplas MOD
 
-ent-ModsuitHelmet = capacete MOD
-    .desc = {ent-PartModsuit.desc}
+ent-ModsuitHelmet = Capacete MOD
 
-ent-ModsuitPlatingAtmostech = revestimento padrão MOD de técnico atmosférico 'éolo'
+ent-ModsuitPlatingAtmostech = Blindagem Padrão MOD de Técnico Atmosférico 'Aeolus'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingCaptain = revestimento padrão MOD de capitão 'magnata'
+ent-ModsuitPlatingCaptain = Blindagem Padrão MOD de Capitão 'Magnata'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingEngineer = revestimento padrão MOD de engenheiro 'saper'
+ent-ModsuitPlatingEngineer = Blindagem Padrão MOD de Engenheiro 'Sapador'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingExternal = revestimento padrão MOD externo
+ent-ModsuitPlatingExternal = Blindagem Padrão Externa MOD
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingHeadOfSecurity = revestimento padrão MOD de chefe de segurança 'baluarte'
+ent-ModsuitPlatingHeadOfSecurity = Blindagem Padrão MOD de Chefe de Segurança 'Baluarte'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingParamedic = revestimento padrão MOD de paramédico 'sanitário'
+ent-ModsuitPlatingParamedic = Blindagem Padrão MOD de Paramédico 'Sanitário'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingRD = revestimento padrão MOD de DR 'minerva'
+ent-ModsuitPlatingRD = Blindagem Padrão MOD de DR 'Minerva'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingSecurity = revestimento padrão MOD de segurança 'soldado'
+ent-ModsuitPlatingSecurity = Blindagem Padrão MOD de Segurança 'Soldado'
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitShell = casco MOD
-    .desc = {ent-PartModsuit.desc}
+ent-ModsuitShell = Casco MOD
 
 # Abstract entity (referenceable by children)
-ent-PartModsuit = parte MOD
+
+ent-PartModsuit = Parte MOD
     .desc = Uma parte usada na construção MOD.
 
 # From: _Goobstation/Entities/Objects/Specific/Stasis/stasis_cage.yml
 
-ent-StasisCage = container stasis
+ent-StasisCage = Recipiente Estático
     .desc = É menor por fora do que por dentro.
 
 # From: _Goobstation/Entities/Objects/Tools/jetpacks.yml
 
-ent-JetpackChrono = jetpack futurista
+ent-JetpackChrono = Jetpack Futurista
     .desc = Jetpack magneticamente anexado que segura quantidade extrema de gás. É usado como cilindro de oxigênio.
 
 # From: _Goobstation/Entities/Objects/Tools/tools.yml
 
-ent-RCDChrono = RCD futurista
+ent-RCDChrono = RCD Futurista
     .desc = Uma ferramenta que pode construir uma estação do zero em minutos.
 
-ent-SonicScrewdriver = chave de fendas sônica
-    .desc = Wzzzzz....
+ent-SonicScrewdriver = Chave de Fendas Sônica
+    .desc = Bzzzzz....
 
 # From: _Goobstation/Entities/Objects/Tools/upgrade_kits.yml
 
-ent-UpgradeKitAutomation = kit de atualização de automação
+ent-UpgradeKitAutomation = Kit de Atualização de Automação
     .desc = Um kit de atualização com todas as peças necessárias para atualizar uma máquina. Este permite opções extras de automação vinculando braços robóticos.
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/battery_cell.yml
 
-ent-MilitaryPowerCellLMG = bateria LMG
-    .desc = Uma bateria de carro compatível com LMG laser, anexável a provedor de carga nas costas.
+ent-MilitaryPowerCellLMG = Bateria LMG
+    .desc = Uma bateria de carro compatível com LMG laser, anexável a mochila fornecedora de carga.
 
-ent-PowerCellIRRevolver = célula de energia de revólver
-    .suffix = Cheia
+ent-PowerCellIRRevolver = Célula de Energia de Revólver
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com revólveres laser.
 
-ent-PowerCellIRSMG = célula de energia SMG
-    .suffix = Cheia
+ent-PowerCellIRSMG = Célula de Energia SMG
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com lasers escala SMG.
 
-ent-PowerCellIRSniper = célula de energia de sniper
-    .suffix = Cheia
+ent-PowerCellIRSniper = Célula de Energia de Sniper
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com snipers laser.
 
-ent-PowerCellOverchargedRevolver = célula de energia de revólver overclocked
-    .suffix = Cheia
-    .desc = Uma célula de energia militarizada compatível com revólveres laser que foi overclocked.
+ent-PowerCellOverchargedRevolver = Célula de Energia de Revólver Overclockada
+    .suffix = Cheio
+    .desc = Uma célula de energia militarizada compatível com revólveres laser que foi overclockada.
 
-ent-PowerCellOverchargedSMG = célula de energia SMG overclocked
-    .suffix = Cheia
-    .desc = Uma célula de energia militarizada compatível com lasers escala SMG que foi overclocked.
+ent-PowerCellOverchargedSMG = Célula de Energia SMG Overclockada
+    .suffix = Cheio
+    .desc = Uma célula de energia militarizada compatível com lasers escala SMG que foi overclockada.
 
-ent-PowerCellOverchargedSniper = célula de energia sniper overclocked
-    .suffix = Cheia
-    .desc = Uma célula de energia militarizada compatível com snipers laser que foi overclocked.
+ent-PowerCellOverchargedSniper = Célula de Energia de Sniper Overclockada
+    .suffix = Cheio
+    .desc = Uma célula de energia militarizada compatível com snipers laser que foi overclockada.
 
-ent-PowerCellPulseRevolver = célula de energia de pulso de revólver
-    .suffix = Cheia
+ent-PowerCellPulseRevolver = Célula de Energia de Revólver de Pulso
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com revólveres laser que dispara feixes de pulso.
 
-ent-PowerCellPulseSMG = célula de energia SMG de pulso
-    .suffix = Cheia
+ent-PowerCellPulseSMG = Célula de Energia SMG de Pulso
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com lasers escala SMG que dispara feixes de pulso.
 
-ent-PowerCellPulseSniper = célula de energia sniper de pulso
-    .suffix = Cheia
+ent-PowerCellPulseSniper = Célula de Energia de Sniper de Pulso
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com snipers laser que dispara feixes de pulso.
 
-ent-PowerCellXrayRevolver = célula de energia de raio-X de revólver
-    .suffix = Cheia
+ent-PowerCellXrayRevolver = Célula de Energia de Revólver de Raios-X
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com revólveres laser que dispara raios-X.
 
-ent-PowerCellXraySMG = célula de energia SMG de raio-X
-    .suffix = Cheia
+ent-PowerCellXraySMG = Célula de Energia SMG de Raios-X
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com lasers escala SMG que dispara raios-X.
 
-ent-PowerCellXraySniper = célula de energia sniper de raio-X
-    .suffix = Cheia
+ent-PowerCellXraySniper = Célula de Energia de Sniper de Raios-X
+    .suffix = Cheio
     .desc = Uma célula de energia militarizada compatível com snipers laser que dispara raios-X.
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Magazines/smartgun.yml
 
-ent-MagazineSmart = carregador (.160 inteligente)
+ent-MagazineSmart = Revista (.160 Inteligente)
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/lawbringer.yml
 
-ent-BulletBigshot = bigshot
+ent-BulletBigshot = Tiro Certeiro
 
-ent-BulletDetain = deter
+ent-BulletDetain = Detenção
 
-ent-BulletExecute = executar
+ent-BulletExecute = Execução
 
-ent-BulletExplode = explodir
+ent-BulletExplode = Explodir
 
-ent-BulletHotshot = hotshot
+ent-BulletHotshot = Tiro Quente
 
-ent-BulletPulse = pulso
+ent-BulletPulse = Pulso
 
-ent-BulletSleepshot = sleepshot
+ent-BulletSleepshot = Tiro Sono
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/smartgun.yml
 
-ent-BulletSmart = bala (.160 inteligente)
+ent-BulletSmart = Projétil (.160 Inteligente)
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Battery/battery_guns.yml
 
-ent-WeaponEnergyGunLawbringer = Portador da Lei DT-12
-    .desc = Às vezes o posto é uma função de poder de fogo. Uma arma de energia versátil com miríades de modos de tiro projetados para os Juízes. Auto-recarrega após um atraso de 5 segundos.
+ent-WeaponEnergyGunLawbringer = DT-12 Lawbringer
+    .desc = Às vezes patente é função de poder de fogo. Uma arma de energia versátil com miríades de modos de disparo projetada para os Juízes. Recarrega após um atraso de 5 segundos.
 
-ent-WeaponEnergyRevolver = revólver de energia VFD EG-4
-    .desc = Um revólver de energia altamente avançado capaz de disparar balas letais e desabilitantes.
+ent-WeaponEnergyRevolver = Revólver de Energia VFD EG-4
+    .desc = Um revólver de energia altamente avançado capaz de disparar projéteis letais e desabilitadores.
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Battery/magfed_lasers.yml
 
-ent-WeaponLaserCellRevolver = Taro EG-1
-    .desc = Um revólver laser de alta tecnologia, compatível com células de energia de revólver especializadas.
+ent-WeaponLaserCellRevolver = EG-1 Taro
+    .desc = Um revólver laser de alta tecnologia, compatível com células de energia especializadas de revólver.
 
-ent-WeaponLaserCellSMG = Torrent ER-5
-    .desc = Uma SMG laser de alta tecnologia, compatível com células de energia SMG especializadas.
+ent-WeaponLaserCellSMG = ER-5 Torrent
+    .desc = Uma SMG laser de alta tecnologia, compatível com células de energia especializadas SMG.
 
-ent-WeaponLaserCellSniper = Multilens ES-7
-    .desc = Um rifle sniper laser rajada de alta tecnologia, compatível com células de energia sniper especializadas.
+ent-WeaponLaserCellSniper = ES-7 Multilentes
+    .desc = Um rifle sniper laser rajada de alta tecnologia, compatível com células de energia especializadas de sniper.
 
-ent-WeaponLaserLMG = HAMRR EL-20
+ent-WeaponLaserLMG = EL-20 HAMRR
     .desc = Uma LMG laser de alta tecnologia, que retira energia de mochila especializada.
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Pistols/pistol.yml
 
-ent-WeaponPistolAnaconda = Anaconda LWC
-    .desc = Uma pistola pesada capaz de se suprir com munição no caminho usando um fabricador embutido. Tecnologia que outrora pertencia à Cybersun agora supre as forças imperiais da Dinastia Phaethon.
+ent-WeaponPistolAnaconda = LWC Anaconda
+    .desc = Uma pistola pesada capaz de fornecer munição para si mesma usando um fabricador embutido. Tecnologia que outrora pertenceu à Cybersun agora abastece as forças Imperiais da Dinastia Phaethon.
 
-# From: _Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/projectiles.yml
+# From: _Goobstation/Entities/Objects/Weapons/Guns/Projectiles/projectiles.yml
 
-ent-BulletAnaconda = bala (.40 sem estojo)
+ent-BulletAnaconda = Projétil (.40 Sem Estojo)
 
-# From: _Goobstation/Entities/Objects/Weapons/Guns/Ammunition/Projectiles/stasis.yml
+# From: _Goobstation/Entities/Objects/Weapons/Guns/Projectiles/stasis.yml
 
-ent-BulletStasis = parafuso stasis
+ent-BulletStasis = Projétil Estático
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Rifles/rifles.yml
 
 ent-WeaponRifleAnnie = TCA QBZ-430 Annie (7.62x39mm)
-    .desc = Uma besta projetada para suportar o peso de missões impossíveis. Usa munição 7.62x39mm. O cano é roscado para silenciadores, e uma railmount Erebus está presente no receptor e guarda-mão para ópticas/empunhaduras.
+    .desc = Uma besta projetada para suportar o peso de missões impossíveis. Usa munição 7.62x39mm. O cano é roscado para silenciadores, e um trilho Erebus está presente no receptor e guarda-mão para óticas/empunhaduras.
 
-ent-WeaponRifleBurner = Burner CS (12.7x99mm)
-    .desc = Uma arma de sindicato de alto calibre em 12.7x99mm, capaz de disparar munição antiblindagem e explosiva.
+ent-WeaponRifleBurner = CS Burner (12.7x99mm)
+    .desc = Uma arma de calibre alto do Sindicato em 12.7x99mm, capaz de disparar munição perfurante e explosiva.
 
-ent-WeaponRifleM90 = M-90 PA (7.62x51mm)
-    .desc = Um projeto bullpup compacto. Usa munição de rifle 7.62x51mm. O cano é roscado para silenciadores, e uma railmount Erebus está presente na alça de transporte e guarda-mão para ópticas/empunhaduras.
+ent-WeaponRifleM90 = PA M-90 (7.62x51mm)
+    .desc = Um projeto bullpup compacto. Usa munição de rifle 7.62x51mm. O cano é roscado para silenciadores, e um trilho Erebus está presente na alça de transporte e guarda-mão para óticas/empunhaduras.
 
-ent-WeaponRifleWSPR = KMP-WSPR CS (7.62x39mm)
-    .desc = Um rifle rajada de ponta da Dinastia, versátil e confiável. Usa munição 7.62x39mm. Uma railmount Erebus está presente no topo do receptor para ópticas.
+ent-WeaponRifleWSPR = CS KMP-WSPR (7.62x39mm)
+    .desc = Um rifle de rajada de ponta da Dinastia, versátil e confiável. Usa munição 7.62x39mm. Um trilho Erebus está presente no topo do receptor para óticas.
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/SMGs/smartgun.yml
 
-ent-WeaponSubMachineSmart = SMG Inteligente Abielle PA (.160 inteligente)
-    .desc = Um experimento em tecnologia de arma inteligente que guia balas em direção ao alvo que a arma foi mirada quando disparada. Embora as funções de rastreamento funcionem bem, a arma é propensa a espalhamento extremamente insano graças ao seu cano praticamente inexistente.
+ent-WeaponSubMachineSmart = PA Abielle SMG Inteligente (.160 Inteligente)
+    .desc = Um experimento em tecnologia de arma inteligente que guia projéteis em direção ao alvo em que a arma foi apontada quando disparada. Enquanto as funções de rastreamento funcionam bem, a arma tende a dispersão extremamente ampla graças ao seu cano praticamente inexistente.
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Stasis/stasis_gun.yml
 
-ent-WeaponStasisGun = arma stasis
+ent-WeaponStasisGun = Arma Estática
     .desc = Um dispositivo para parar o fluxo temporal de qualquer criatura viva (ou não)
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/e_sword_welder.yml
 
-ent-EnergySwordWelder = espada de energia de soldador
-    .desc = Grosseiramente convertida de uma ferramenta de soldagem, esta espada de energia humeja uma chama instável. Parece que está prestes a desmoronar.
+ent-EnergySwordWelder = Espada de Energia de Soldador
+    .desc = Grossamente convertida de uma ferramenta de solda, essa espada de energia ronca uma chama instável. Parece que está prestes a desmoronar.
 
-ent-EnergySwordWelderExperimental = espada de energia de soldador
-    .desc = Uma espada muito alta e perigosa com um feixe feito de plasma pura e concentrada. Corta alvos não blindados como manteiga.
+ent-EnergySwordWelderExperimental = Espada de Energia de Soldador Experimental
+    .desc = Uma espada muito alta e perigosa com um feixe feito de plasma puro e concentrado. Corta alvos sem blindagem como manteiga.
 
-ent-EnergySwordWelderIndustrial = espada de energia de soldador
+ent-EnergySwordWelderIndustrial = Espada de Energia de Soldador Industrial
 
-ent-UnfinishedWelderSword = espada de soldador inacabada
-    .desc = Uma montagem crua de peças que vagamente lembra uma arma. É completamente não funcional.
+ent-UnfinishedWelderSword = Espada de Soldador Inacabada
+    .desc = Uma montagem crua de peças que lembra vagamente uma arma. É completamente não funcional.
 
-ent-UnfinishedWelderSwordExperimental = espada de soldador experimental inacabada
+ent-UnfinishedWelderSwordExperimental = Espada de Soldador Experimental Inacabada
 
-ent-UnfinishedWelderSwordIndustrial = espada de soldador industrial inacabada
+ent-UnfinishedWelderSwordIndustrial = Espada de Soldador Industrial Inacabada
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/hammer.yml
 
-ent-MeleeHammer = martelo
-    .desc = 3 aço 2 madeira
+ent-MeleeHammer = Martelo
+    .desc = 3 Aço 2 Madeira
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/stasisbaton.yml
 
-ent-StasisBaton = cassetete futurista
-    .desc = Um cassetete de segurança avançado para desligar tiders interferentes
+ent-StasisBaton = Cassetete Estático Futurista
+    .desc = Um cassetete de segurança avançado para desligar marujos intrometidos
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/sword.yml
 
-ent-NavyOfficerSabre = sabre de oficial da marinha
-    .desc = Sabre de plastitanio usado principalmente em cerimônias por oficiais navais, permanece uma arma comprovada.
+ent-NavyOfficerSabre = Sabre de Oficial da Marinha
+    .desc = Sabre de plastitânio usado principalmente em cerimônias por oficiais navais, continua sendo uma arma comprovada.
 
 # From: _Goobstation/Entities/Objects/Weapons/misc.yml
 
-ent-HyperFlash = flash hipercarregado
+ent-HyperFlash = Flash Hipercarregado
     .suffix = NÃO MAPEAR
     .desc = Um flashbulb ultrabrilhante com um gatilho. Este parece ser muito mais potente que um comum.
 
 # From: _Goobstation/Entities/Structures/Machines/Chrono/timeline_disruptor.yml
 
-ent-TimelineDisruptor = disruptor de timeline
-    .desc = Um dispositivo capaz de extrair um objeto colocado dentro da timeline atual.
+ent-TimelineDisruptor = Disruptor de Linha Temporal
+    .desc = Um dispositivo capaz de extrair um objeto colocado dentro da linha temporal atual.
 
 # From: _Goobstation/Entities/Structures/Machines/constructor.yml
 
-ent-Constructor = construtor
-    .desc = A máquina colocando assistentes para fora do emprego, pode construir qualquer coisa usando materiais fornecidos.
+ent-Constructor = Construtor
+    .desc = A máquina deixando assistentes sem emprego, pode construir qualquer coisa usando materiais fornecidos.
 
 # From: _Goobstation/Entities/Structures/Machines/interactor.yml
 
-ent-Interactor = interactor
+ent-Interactor = Interator
     .desc = Um atuador robótico especializado em interagir com objetos usando ferramentas.
 
 # From: _Goobstation/Entities/Structures/Machines/robotic_arm.yml
 
-ent-RoboticArm = braço robótico
+ent-RoboticArm = Braço Robótico
     .desc = Um braço robótico de alta tecnologia capaz de mover itens de e para máquinas que têm atualizações de automação.
 
 # From: _Goobstation/Entities/Structures/Machines/storage_bin.yml
 
-ent-StorageBin = bin de armazenamento
-    .desc = Um bin de armazenamento controlado eletronicamente destinado ao uso com braços robóticos.
+ent-StorageBin = Recipiente de Armazenamento
+    .desc = Um recipiente de armazenamento controlado eletronicamente destinado ao uso com braços robóticos.
 
 # From: _Goobstation/Entities/Structures/Piping/Atmospherics/trinary.yml
 
-ent-GasFilterInline = filtro de gás em linha
-    .desc = Filtra gases de uma rede de tubos sem dividir em dois.
+ent-GasFilterInline = Filtro de Gás em Linha
+    .desc = Filtra gases de uma rede de tubos sem dividi-lo em dois.
 
 # From: _Goobstation/Entities/Structures/Piping/Atmospherics/unary.yml
 
-ent-HeatExchangerInline = radiador em linha
+ent-HeatExchangerInline = Radiador em Linha
     .desc = Transfere calor entre o tubo e seus arredores. Não precisa de fluxo de gás.
+
+ent-ClothingBeltHolsterFilledCentComm = {ent-ClothingBeltHolster}
+    .suffix = Cheio, N1984.
+
+ent-ClothingBeltMilitaryWebbingCMOFilled = {ent-ClothingBeltMilitaryWebbingCMO}
+    .suffix = Preenchido, não mapeie.
+
+ent-ClothingBeltSheathFilledNavyOfficer = {ent-ClothingBeltSheath}
+    .suffix = Preenchido, Oficial de Solstício de Inverno.
+
+ent-BriefcaseCentcomm = {ent-BriefcaseBrown}
+    .suffix = Adme, não mapeie.
+
+ent-ClothingBackpackStasisBatteryUnremoveable = {ent-ClothingBackpackStasisBattery}
+    .suffix = Não removível
+
+ent-ClothingBackpackStasisBatteryUnremoveableFilled = {ent-ClothingBackpackStasisBattery}
+    .suffix = Cheio, não removível
+
+ent-ClothingHeadsetChronolegioneerUnremoveable = {ent-ClothingHeadsetChronolegioneer}
+    .suffix = Não removível
+
+ent-ClothingEyesHudChronoUnremoveable = {ent-ClothingEyesHudChrono}
+    .suffix = Não removível
+
+ent-ClothingHandsGlovesChronoLegioneerUnremoveable = {ent-ClothingHandsGlovesChronoLegioneer}
+    .suffix = Não removível
+
+ent-ClothingMaskGasChronoUnremoveable = {ent-ClothingMaskGasChrono}
+    .suffix = Não removível
+
+ent-ClothingOuterHardsuitChronolegioneerUnremoveable = {ent-ClothingOuterHardsuitChronolegioneer}
+    .suffix = Não removível
+
+ent-ClothingShoesBootsChronoUnremoveable = {ent-ClothingShoesBootsChrono}
+    .suffix = Não removível
+
+ent-MaterialHexNutSingle = {ent-MaterialHexNut}
+    .suffix = Solteiro
+
+ent-MaterialScrewSingle = {ent-MaterialScrew}
+    .suffix = Solteiro
+
+ent-MechClarkeBattery = {ent-MechClarke}
+    .suffix = Bateria
+
+ent-MechDurandBattery = {ent-MechDurand}
+    .suffix = Bateria
+
+ent-MechGygaxBattery = {ent-MechGygax}
+    .suffix = Bateria
+
+ent-MechGygaxSyndieBattery = {ent-MechGygaxSyndie}
+    .suffix = Bateria
+
+ent-MechGygaxSyndieFilled = {ent-MechGygaxSyndie}
+    .suffix = Bateria, cheia.
+
+ent-MechHonkerFilled = {ent-MechHonker}
+    .suffix = Bateria, cheia.
+
+ent-MechMarauderBattery = {ent-MechMarauder}
+    .suffix = Bateria
+
+ent-MechMarauderFilled = {ent-MechMarauder}
+    .suffix = Bateria, cheia.
+
+ent-MechMaulerSyndieBattery = {ent-MechMaulerSyndie}
+    .suffix = Bateria
+
+ent-MechMaulerSyndieFilled = {ent-MechMaulerSyndie}
+    .suffix = Bateria, cheia.
+
+ent-MechRipley2Battery = {ent-MechRipley2}
+    .suffix = Bateria
+
+ent-MechSeraphBattery = {ent-MechSeraph}
+    .suffix = Bateria
+
+ent-MechSeraphFilled = {ent-MechSeraph}
+    .suffix = Bateria, cheia.
+
+ent-JetpackChronoUnremoveable = {ent-JetpackChrono}
+    .suffix = Não removível
+
+ent-DefibrillatorCompactEmpty = {ent-DefibrillatorCompact}
+    .suffix = Vazio
+

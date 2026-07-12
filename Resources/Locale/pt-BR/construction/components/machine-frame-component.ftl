@@ -1,3 +1,3 @@
 machine-frame-component-on-examine-label = [color=white]Placa de máquina atual:[/color] [color=cyan]{$board}[/color]
 machine-frame-component-on-complete = Construção concluída
-machine-frame-board-wrong-size =isto embarcar doesn't caber isto máquina moldura.
+machine-frame-board-wrong-size =isso embarcar doesn't caber isso máquina moldura.

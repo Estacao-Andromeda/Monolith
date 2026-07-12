@@ -19,7 +19,7 @@ book-text-holoparasite-info = Obrigado por escolher nosso pacote de holoparasita
 book-text-ame-scribbles = Eu não sei se você já foi treinado, então espero que isso ajude.
       O controlador AME precisa de energia BV e um fio BA para saída. Verifique a área com um pé de cabra se não tiver certeza.
       Deve haver um quarto vazio ao lado de onde você encontrou isso, aquele quarto está cabado para o AME.
-      Você pode colocar um AME em qualquer lugar se conseguir levar os fios até ele, porém.
+      Mas você pode colocar um AME em qualquer lugar se conseguir levar os fios até ele.
       Grade 3x3 de partes AME, use multitool neles para desempacotar. Tome cuidado para não 'prender' nada.
       Controlador AME adjacente horizontal ou verticalmente (não diagonalmente) a qualquer ponto.
       Com apenas 1 núcleo (o que uma grade 3x3 vai te dar), não aumente acima de 2.
@@ -56,7 +56,7 @@ book-text-agrichemkit-manual = Obrigado por escolher o kit de química Agríquí
 book-text-combat-bakery-kit = Obrigado por escolher nosso kit de padaria de combate!
       Incluídos estão dois (2) Croissants Arremessáveis patenteados CyberSun, e uma (1) Espada de Baguete com patente pendente.
       A placa de micro-ondas Donk Co. incluída pode construir um micro-ondas capaz de assar mais armas.
-      Assim como as armas assadas, certifique-se de comer esta nota após o uso. Boa sorte, agente.
+      Assim como as armas assadas, certifique-se de comer essa nota após o uso. Boa sorte, agente.
 
       Receita de Espada de Baguete:
       Massa x 1
@@ -89,7 +89,7 @@ book-text-cargo-outage = Caro Usuário,
 
       Devido a uma anomalia infeliz no tráfego de rotas comerciais, vendedores de carga não conseguiram reabastecer suas mercadorias.
 
-      As teorias principais para esta interrupção repentina ainda estão sendo revisadas por pares, mas até agora implicam o fenômeno nebuloso de "vento espacial" como a causa raiz.
+      As teorias principais para essa interrupção repentina ainda estão sendo revisadas por pares, mas até agora implicam o fenômeno nebuloso de "vento espacial" como a causa raiz.
 
       Enquanto isso, muitas fontes alternativas de carga estão disponíveis no setor - isso inclui recuperação de mercadorias abandonadas, entrega de materiais desejados a constituintes,
       e salvamento de cargueiros abandonados.

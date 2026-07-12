@@ -20,9 +20,9 @@ materials-cardboard = papelão
 
 materials-cloth = pano
 
-materials-durathread = duratrama
+materials-durathread = teciduro
 
-materials-plasma = Plasma
+materials-plasma = plasma
 
 materials-plastic = plástico
 

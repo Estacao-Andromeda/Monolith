@@ -282,7 +282,7 @@ uplink-necronomicon-name = Necronomicon
 uplink-necronomicon-desc = Um livro profano capaz de convocar um familiar demoníaco.
 
 uplink-holy-hand-grenade-name = Granada da Mão Sagrada
-uplink-holy-hand-grenade-desc = Ó Senhor, abençoe esta tua granada de mão, que com ela possas explodir teus inimigos em pedaços minúsculos, em tua misericórdia.
+uplink-holy-hand-grenade-desc = Ó Senhor, abençoe essa tua granada de mão, que com ela possas explodir teus inimigos em pedaços minúsculos, em tua misericórdia.
 
 uplink-revolver-cap-gun-fake-name = Pistola de Percussor Falsa
 uplink-revolver-cap-gun-fake-desc = Engane seu inimigo! Pode usar tanto percussor quanto balas .45 magnum. Vem carregada com balas .45 magnum.
@@ -291,7 +291,7 @@ uplink-banana-peel-explosive-name = Casca de Banana Explosiva
 uplink-banana-peel-explosive-desc = Eles vão explodir de risada quando escorregarem nela!
 
 uplink-hot-potato-name = Batata Quente
-uplink-hot-potato-desc = Uma vez ativada, esta bomba temporizada não pode ser descartada - apenas passada para outra pessoa!
+uplink-hot-potato-desc = Uma vez ativada, essa bomba temporizada não pode ser descartada - apenas passada para outra pessoa!
 
 uplink-chimp-upgrade-kit-name = Chip de Melhoria Canhão C.H.I.M.P.
 uplink-chimp-upgrade-kit-desc = Insira este chip em um canhão C.H.I.M.P. padrão para permitir que ele dispare partículas ômega. Partículas ômega infligem queimaduras graves e causam anomalias a supercríticar.
@@ -365,7 +365,7 @@ uplink-soap-name = Sabão
 uplink-soap-desc = Uma barra de sabão não confiável. Cheira a medo.
 
 uplink-ultrabright-lantern-name = Lanterna Extra Brilhante
-uplink-ultrabright-lantern-desc = Esta lanterna ultra brilhante pode ser usada para cegar pessoas, similar a um flash.
+uplink-ultrabright-lantern-desc = Essa lanterna ultra brilhante pode ser usada para cegar pessoas, similar a um flash.
 
 uplink-combat-medkit-name = Kit Médico de Combate
 uplink-combat-medkit-desc = Um kit médico feito para corrigir lesões de combate.

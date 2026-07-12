@@ -3,4 +3,4 @@ ninja-hands-full = Suas mãos estão ocupadas!
 
 dash-ability-not-held = Você não está segurando sua katana!
 dash-ability-no-charges = Sem cargas restantes!
-dash-ability-cant-see = Você não consegue ver isto!
+dash-ability-cant-see = Você não consegue ver isso!

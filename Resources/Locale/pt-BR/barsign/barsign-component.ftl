@@ -22,7 +22,7 @@ barsign-prototype-description-officer-beersky = Cara, come um pau, essas bebidas
 
 ## The Outer Spess
 barsign-prototype-name-outer-spess = O Spess Externo
-barsign-prototype-description-outer-spess =isto Bar isn't actually located em externo espaço.
+barsign-prototype-description-outer-spess =isso Bar isn't actually located em externo espaço.
 
 ## The Coderbus
 barsign-prototype-name-coderbus = O Coderbus
@@ -46,7 +46,7 @@ barsign-prototype-description-ale-nath = Tudo bem, cara. Acho que você teve EI 
 
 ## The Net
 barsign-prototype-name-the-net = A Rede
-barsign-prototype-description-the-net =você apenas parecer para pegar pegou cima em isto para hours.
+barsign-prototype-description-the-net =você apenas parecer para pegar pegou cima em isso para hours.
 
 ## Maid Cafe
 barsign-prototype-name-maid-cafe = Café das Empregadas
@@ -102,10 +102,10 @@ barsign-prototype-description-maltroach =Squeak!
 
 ## Whiskey Echoes
 barsign-prototype-name-whiskeyechoes = Ecos de Uísque
-barsign-prototype-description-whiskeyechoes =um elite Bar para elite oper-esperar, isto é um TSF região. por que's isto sinal no banco de dados?
+barsign-prototype-description-whiskeyechoes =um elite Bar para elite oper-esperar, isso é um TSF região. por que's isso sinal no banco de dados?
 
 ## EmpBarSign
 barsign-prototype-description-empbarsign = Algo deu muito errado.
 
 ## SignOff
-barsign-prototype-description-sign-off =isto sinal doesn't parecer para ser em.
+barsign-prototype-description-sign-off =isso sinal doesn't parecer para ser em.

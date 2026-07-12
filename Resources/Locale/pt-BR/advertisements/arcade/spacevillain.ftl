@@ -16,7 +16,7 @@ advertisement-space-villain-15 = Eu sinto fome!
 
 thankyou-space-villain-1 = E aonde você pensa que vai, piranha?
 thankyou-space-villain-2 = É só isso que você tem?
-thankyou-space-villain-3 = Esta luta não acabou!
+thankyou-space-villain-3 = Essa luta não acabou!
 thankyou-space-villain-4 = Desafie novamente em breve!
 thankyou-space-villain-5 = Quem ousa me desafiar depois?
 thankyou-space-villain-6 = Eu sabia que você não poderia me derrotar!

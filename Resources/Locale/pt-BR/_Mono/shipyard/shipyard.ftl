@@ -1,6 +1,6 @@
 shipyard-direction-message = Seu {$shipName} está localizado relativamente a {$distance} metro(s) para {$direction}!
 
-ship-access-denied = Você precisa da escritura da nave para acessar isto.
+ship-access-denied = Você precisa da escritura da nave para acessar isso.
 ship-voucher-cooldown-active = O voucher ainda está em cooldown por {NATURALFIXED($remainingTime, 1)} minutos!
 
 voucher-current-redemptions = Este voucher tem [color=yellow]{$count}[/color] resgates restantes.

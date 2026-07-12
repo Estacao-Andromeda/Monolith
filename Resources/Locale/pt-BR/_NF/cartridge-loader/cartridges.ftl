@@ -1,7 +1,9 @@
+# Appraisal cartridge
 appraisal-program-name = AvalieTudo Plus
 appraisal-label-name = Item
 appraisal-label-price = Preço Avaliado
 
+# Ledger cartridge
 ledger-program-name = CreditFlow Lite
 ledger-header = Livro-Razão do Setor
 ledger-total-income = Receita Total
@@ -15,6 +17,7 @@ ledger-tab-Frontier = Posto Colonial
 ledger-tab-Nfsd = TSFMC
 ledger-tab-Medical = Despacho Médico
 ledger-tab-BlackMarket = Mercado Negro
+# Fallback, if this displays, something's wrong.
 ledger-tab-Unknown = Desconhecido
 
 ledger-entry-type-TickingIncome = Subsídios

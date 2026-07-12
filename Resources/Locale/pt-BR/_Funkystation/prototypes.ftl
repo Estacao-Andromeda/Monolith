@@ -18,3 +18,4 @@ ent-HealiumCanister = cilindro de curálio
 ent-NitriumCanister = cilindro de nítrio
 
 ent-PluoxiumCanister = cilindro de pluóxio
+

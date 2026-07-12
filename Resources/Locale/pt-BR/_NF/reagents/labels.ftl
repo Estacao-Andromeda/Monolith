@@ -1,3 +1,5 @@
+# Labels for reagent barrels
+# Elements & basic reagents
 reagent-label-aluminium = [bold]Alumínio[/bold]
 reagent-label-carbon = [bold]Carbono[/bold]
 reagent-label-chlorine = [bold]Cloro[/bold]
@@ -20,6 +22,7 @@ reagent-label-silver = [bold]Prata[/bold]
 reagent-label-sodium = [bold]Sódio[/bold]
 reagent-label-sugar = [bold]Açúcar[/bold]
 reagent-label-sulfur = [bold]Enxofre[/bold]
+# Service & other reagents
 reagent-label-cornoil = [bold]Óleo de Milho[/bold]
 reagent-label-diethylamine = [bold]Dietilamina[/bold]
 reagent-label-ketchup = [bold]Ketchup[/bold]
@@ -30,6 +33,7 @@ reagent-label-oil-olive = [bold]Azeite[/bold]
 reagent-label-space-cleaner = [bold]Limpa Espacial[/bold]
 reagent-label-space-lube = [bold]Lubrificante Espacial[/bold]
 reagent-label-welding-fuel = [bold]Combustível de Solda[/bold]
+# Drinks
 reagent-label-absinthe = [bold]Absinto[/bold]
 reagent-label-ale = [bold]Ale[/bold]
 reagent-label-beer = [bold]Cerveja[/bold]

@@ -50,7 +50,7 @@ nf-tips-dataset-25 = Muitos químicos têm reações únicas - Certifique-se de 
 
 nf-tips-dataset-26 = Você pode mutar e cruzar plantas para criar colheitas mais potentes que também têm rendimentos maiores.
 
-nf-tips-dataset-27 = Ao jogar num cargo de facção, lembre-se de se comunicar com seus outros membros - Coordenação salva vidas e ganha guerras, o rádio é seu melhor amigo!
+nf-tips-dataset-27 = Ao jogar em um cargo de facção, lembre-se de se comunicar com seus outros membros - Coordenação salva vidas e ganha guerras, o rádio é seu melhor amigo!
 
 nf-tips-dataset-28 = Como um oficial TSFMC, sua força está no armamento da sua embarcação. Cuidado com ações de embarque de inimigos, pois embora você esteja adequadamente equipado, é melhor vaporizar qualquer abordagem hostil com fogo de artilharia!
 
@@ -60,7 +60,7 @@ nf-tips-dataset-30 = Em apuros, você pode reparar janelas rachadas usando uma f
 
 nf-tips-dataset-31 = Janelas de vidro de plasma e vidro de urânio podem ser usadas para reforçar uma área e prevenir radiação... De alguma forma.
 
-nf-tips-dataset-32 = Ao pesquisar artefatos, você pode tentar coisas aleatórias num artefato enquanto o scanner está em recarga para acelerar significativamente o processo de extração de pontos.
+nf-tips-dataset-32 = Ao pesquisar artefatos, você pode tentar coisas aleatórias em um artefato enquanto o scanner está em recarga para acelerar significativamente o processo de extração de pontos.
 
 nf-tips-dataset-33 = Lembre-se, você pode utilizar peças de máquina de níveis superiores para aumentar a eficácia de máquinas. Isso pode tornar certas máquinas significativamente melhores; as pessoas vão amar você se você atualizar seus tornos!
 
@@ -94,7 +94,7 @@ nf-tips-dataset-47 = Todas as formas de dano por toxina são bastante difíceis 
 
 nf-tips-dataset-48 = Você pode arremessar bolas craftadas em pessoas para desacelerá-las, permitindo seguir em cima delas para uma morte mais fácil ou fuga.
 
-nf-tips-dataset-49 = Você pode colocar napalm num tanque de água de mochila para fazer um lança-chamas.
+nf-tips-dataset-49 = Você pode colocar napalm em um tanque de água de mochila para fazer um lança-chamas.
 
 nf-tips-dataset-50 = Velocidade é quase tudo em combate. Usar trajes duros apenas por sua armadura geralmente é uma ideia terrível, a menos que as resistências que ele fornece sejam voltadas para o combate, ou você não pretenda ir de cabeça para a briga.
 
@@ -140,7 +140,7 @@ nf-tips-dataset-70 = Soldar sem proteção ocular adequada pode causar dano nos 
 
 nf-tips-dataset-71 = Você pode soldar cacos de vidro em chapas de vidro.
 
-nf-tips-dataset-72 = Ao clicar com o botão direito num jogador e clicar no ícone do coração, você pode examiná-lo rapidamente para verificar ferimentos ou o quanto mal ele está sangrando. Você também pode fazer isso em si mesmo.
+nf-tips-dataset-72 = Ao clicar com o botão direito em um jogador e clicar no ícone do coração, você pode examiná-lo rapidamente para verificar ferimentos ou o quanto mal ele está sangrando. Você também pode fazer isso em si mesmo.
 
 nf-tips-dataset-73 = Macacos e kobolds têm uma chance rara de ser sencientes. Oók!
 
@@ -196,7 +196,7 @@ nf-tips-dataset-98 = Não esqueça de comprar um implante médico antes de vagar
 
 nf-tips-dataset-99 = Como médico, coopere com outras equipes médicas quando houver uma emergência! Nunca ajuda quando duas naves médicas chegam ao mesmo sinal de emergência.
 
-nf-tips-dataset-100 = Como médico, lembre-se que cartuchos MedTek transformam seu PDA num analisador de saúde!
+nf-tips-dataset-100 = Como médico, lembre-se que cartuchos MedTek transformam seu PDA em um analisador de saúde!
 
 nf-tips-dataset-101 = Naves médicas frequentemente têm acesso ao hipospray. Um químico experiente pode transformá-lo numa arma letal, ou usá-lo para colocar pessoas para dormir com segurança.
 
@@ -224,7 +224,7 @@ nf-tips-dataset-112 = Se você estiver usando um console IFF, lembre-se de ligar
 
 nf-tips-dataset-113 = Ir numa expedição sozinho é muito arriscado! Certifique-se de sempre ter um companheiro de tripulação para salvá-lo caso você seja emboscado por uma rainha xeno.
 
-nf-tips-dataset-114 = Expedições podem render itens raros e úteis, e podem transformar um mercenário prospectador com azar num oponente capaz de rivalizar com membros de facção!
+nf-tips-dataset-114 = Expedições podem render itens raros e úteis, e podem transformar um mercenário prospectador com azar em um oponente capaz de rivalizar com membros de facção!
 
 nf-tips-dataset-115 = Quando há um Controlador de Tráfego de Estação ativo, certifique-se de contatá-lo antes de atracar, ou você pode enfrentar uma multa!
 
@@ -232,7 +232,7 @@ nf-tips-dataset-116 = Cada console de nave tem um intercom de tráfego interno. 
 
 nf-tips-dataset-117 = Se você ficar encalhado no espaço, certifique-se de notificar outros usando o rádio! Ficar deprimido e cair em coma nunca é a melhor solução.
 
-nf-tips-dataset-118 = Salvamento não é apenas sobre bater em rochas. Você pode tentar encontrar grandes estações abandonadas ou tentar enterrar fundo num asteroide incomum - mas cuidado com os perigos que esperam você dentro.
+nf-tips-dataset-118 = Salvamento não é apenas sobre bater em rochas. Você pode tentar encontrar grandes estações abandonadas ou tentar enterrar fundo em um asteroide incomum - mas cuidado com os perigos que esperam você dentro.
 
 nf-tips-dataset-119 = Confiança é algo que leva idades para construir, e segundos para perder. Não dê jogadores e administradores um motivo para odiarem você!
 

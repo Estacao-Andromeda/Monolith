@@ -7,4 +7,4 @@ signal-port-description-lathe-resume = Faz o torno retomar sua fila.
 
 # source
 signal-port-name-lathe-produced = Produzido
-signal-port-description-lathe-produced = Esta porta é invocada quando o torno produz um item.
+signal-port-description-lathe-produced = Essa porta é invocada quando o torno produz um item.

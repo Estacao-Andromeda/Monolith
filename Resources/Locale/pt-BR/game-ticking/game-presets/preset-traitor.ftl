@@ -26,7 +26,7 @@ traitor-death-match-end-round-description-entry = PDA de {$originalName}, com {$
 traitor-role-greeting =
     Você é um agente enviado por {$corporation} em nome de [color = darkred]O Sindicato.[/color]
     Seus objetivos e palavras-código estão listados no menu de personagem.
-    Use seu uplink para comprar as ferramentas necessárias para esta missão.
+    Use seu uplink para comprar as ferramentas necessárias para essa missão.
     Morte à TSF!
 traitor-role-codewords =
     As palavras-código são: [color = lightgray]

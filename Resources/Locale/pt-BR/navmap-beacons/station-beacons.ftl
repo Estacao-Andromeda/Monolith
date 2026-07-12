@@ -82,4 +82,3 @@ station-beacon-disposals= Descarte
 station-beacon-cryosleep= Criosono
 station-beacon-escape-pod= Cápsula de Fuga
 station-beacon-vox= Sala de Descanso Vox
-station-beacon-telecoms = Telecoms

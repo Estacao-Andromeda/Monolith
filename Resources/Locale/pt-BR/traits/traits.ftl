@@ -61,7 +61,7 @@ trait-french-name = Sotaque francês
 trait-french-desc = Seu sotaque parece ter um certo «je ne sais quoi».
 
 trait-spanish-name = Sotaque espanhol
-trait-spanish-desc = Hola señor, donde esta la biblioteca.
+trait-spanish-desc = Hola señor, donde essa la biblioteca.
 
 trait-painnumbness-name = Insensível
 trait-painnumbness-desc = Você falta qualquer senso de sentir dor, não sabendo o quão ferido você pode estar.

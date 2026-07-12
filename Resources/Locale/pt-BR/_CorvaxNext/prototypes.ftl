@@ -16,3 +16,4 @@ ent-ActionOpenRemoteDevicesMenu = Abrir lista de dispositivos remotos
 
 ent-AiRemoteBrain = Dispositivo de Rede IA-Ciborgue
     .desc = Placa de controle de ciborgue de Inteligência Artificial.
+
