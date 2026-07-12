@@ -47,7 +47,7 @@ trait-language-valyrianstandard-desc =
 trait-language-novunederic-name = Novu-Nederico
 trait-language-novunederic-desc =
     Anteriormente a língua de marinheiros e mercadores, agora a voz de astronautas, terraformadores e pioneiros.
-    Falado nos Novos Países Baixos, esta língua comercial direta e pragmática carrega as consoantes nítidas e as vogais cortadas de suas raízes do velho mundo.
+    Falado nos Novos Países Baixos, essa língua comercial direta e pragmática carrega as consoantes nítidas e as vogais cortadas de suas raízes do velho mundo.
     Construído em séculos de navegação, recuperação de terras e comércio, é próspera entre aqueles que moldam mundos inteiros — assim como seus ancestrais moldaram a terra a partir do mar.
 
 trait-language-azaziba-name = Sinta'Azaziba

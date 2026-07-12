@@ -1,6 +1,6 @@
 # ====================================================================
 # Entity Localization File
-# Generated: 2026-07-08 08:27:52
+# Generated: 2026-07-10 21:56:05
 # Total entities: 9
 # ====================================================================
 
@@ -13,17 +13,8 @@ ent-Crystallizer = cristalizador
 
 ent-BZCanister = cilindro de bz
 
-ent-BZCanisterBroken =
+ent-HealiumCanister = cilindro de curálio
 
-ent-HealiumCanister = cilindro de healium
+ent-NitriumCanister = cilindro de nítrio
 
-ent-HealiumCanisterBroken =
-
-ent-NitriumCanister = cilindro de nitrium
-
-ent-NitriumCanisterBroken =
-
-ent-PluoxiumCanister = cilindro de pluoxium
-
-ent-PluoxiumCanisterBroken =
-
+ent-PluoxiumCanister = cilindro de pluóxio

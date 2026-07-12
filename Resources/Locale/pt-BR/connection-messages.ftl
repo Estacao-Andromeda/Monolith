@@ -15,13 +15,13 @@ cmd-whitelistremove-arg-player = [jogador]
 cmd-kicknonwhitelisted-desc = Expulsa todos os jogadores não listados na whitelist do servidor.
 cmd-kicknonwhitelisted-help = Uso: kicknonwhitelisted
 
-ban-banned-permanent = Esta proibição só será removida através de apelação.
-ban-banned-permanent-appeal = Esta proibição só será removida através de apelação. Você pode apelar em {$link}
-ban-expires = Esta proibição é por {$duration} minutos e expirará às {$time} UTC.
-ban-banned-1 = Você, ou outro usuário deste computador ou conexão, está proibido de jogar aqui.
-ban-banned-2 = O motivo da proibição é: "{$reason}"
-ban-banned-3 = Se esta proibição foi um erro ou foi feita sem justificativa, sinta-se à vontade para apelar no Discord seguindo as diretrizes.
-ban-banned-4 = Tentativas de contornar esta proibição, como criar uma nova conta, resultarão em escalada até uma proibição da comunidade.
+ban-banned-permanent = Esse banimento só será removido através de apelo.
+ban-banned-permanent-appeal = Esse banimento só será removido através de apelo. Você pode apelar em {$link}
+ban-expires = Esse banimento é por {$duration} minutos e expirará às {$time} UTC.
+ban-banned-1 = Você, ou outro usuário deste computador ou conexão, está banido de jogar aqui.
+ban-banned-2 = O motivo do banimento é: "{$reason}"
+ban-banned-3 = Se esse banimento foi um erro ou foi feita sem justificativa, sinta-se à vontade para apelar no Discord seguindo as diretrizes.
+ban-banned-4 = Tentativas de contornar esse banimento, como criar uma nova conta, resultarão em escalada até uma proibição da comunidade.
 
 soft-player-cap-full = O servidor está cheio!
 panic-bunker-account-denied = Este servidor está em modo bunker de pânico, frequentemente ativado como precaução contra ataques. Novas conexões de contas que não atendem certos requisitos não são temporariamente aceitas. Tente novamente mais tarde.

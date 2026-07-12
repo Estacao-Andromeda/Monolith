@@ -12,11 +12,11 @@ language-RootSpeak-description = A estranha língua de estilo assobiada falada p
 
 language-Hydraspeak-name = Hy'drav'tha
 language-Hydraspeak-description =
-    Uma mistura de gorjeios, trinados e chirps, com mudanças tonais pesadas e alterações de pitch compõem esta língua incomum.
-    Devido à natureza aviária dos hydrakin, uma palavra pode significar um milhão de outras coisas ao mesmo tempo, o que torna esta língua quase incompreensível para mesmo outras raças aviárias descobrirem.
+    Uma mistura de gorjeios, trinados e chirps, com mudanças tonais pesadas e alterações de pitch compõem essa língua incomum.
+    Devido à natureza aviária dos hydrakin, uma palavra pode significar um milhão de outras coisas ao mesmo tempo, o que torna essa língua quase incompreensível até mesmo pra outras raças aviárias.
 
 language-Nekomimetic-name = Nekomimético
-language-Nekomimetic-description = Para o observador casual, esta língua é uma bagunça incompreensível de japonês quebrado. Para os Felinids e Oni, é de alguma forma compreensível.
+language-Nekomimetic-description = Para o observador casual, essa língua é uma bagunça incompreensível de japonês quebrado. Para os Felinids e Oni, é de alguma forma compreensível.
 
 language-Draconic-name = Dracônico
 language-Draconic-description =
@@ -34,7 +34,7 @@ language-SolCommon-description =
 language-NovuNederic-name = Novu-Néderic
 language-NovuNederic-description =
     Anteriormente a língua de marinheiros e mercadores, agora a voz de astronautas, terraformadores e pioneiros - e grandes apreciadores de agricultura.
-    Falado nos Novos Países Baixos, esta língua comercial direta e pragmática carrega as consoantes nítidas e as vogais cortadas de suas raízes do velho mundo.
+    Falado nos Novos Países Baixos, essa língua comercial direta e pragmática carrega as consoantes nítidas e as vogais cortadas de suas raízes do velho mundo.
     Construído em séculos de navegação, recuperação de terras e comércio, é próspero entre aqueles que moldam mundos inteiros — assim como seus ancestrais moldaram a terra a partir do mar.
 
 language-NovaCygniBasic-name = Nova-Cygni Básico
@@ -65,7 +65,7 @@ language-Elyran-description =
 language-Canilunzt-name = Canilunzt
 language-Canilunzt-description =
     O idioma gutural falado e utilizado pelos habitantes do sistema Vazzend,
-    composto de rosnares, latidos, latidos curtos e utilização pesada de orelhas e movimentos de cauda. Vulpkanin falam esta língua com facilidade.
+    composto de rosnares, latidos, latidos curtos e utilização pesada de orelhas e movimentos de cauda. Vulpkanins falam essa língua com facilidade.
 
 language-Moffic-name = Moffic
 language-Moffic-description = A língua do povo-mariposa beira a incompreensibilidade completa.
@@ -79,7 +79,7 @@ language-Calcic-description = A língua de estremecer ossos de Esqueletos e Plas
 language-Sign-name = Língua de Sinais
 language-Sign-description =
     Língua de Sinais Básica Tau-Ceti.
-    TCB-SL para abreviar, esta língua de sinais é prevalente entre mudos e surdos.
+    TCB-SL para abreviar, essa língua de sinais é prevalente entre mudos e surdos.
 
 # Tau-Ceti Basic Sign Language - Removed prefix for better readability.
 
