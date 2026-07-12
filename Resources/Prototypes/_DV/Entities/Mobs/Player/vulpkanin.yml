@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Urist McVulp
+  name: Enzo Cachorro da Silva # Andromeda - teste watchdog
   parent: BaseMobVulpkanin
   id: MobVulpkanin
   components:
