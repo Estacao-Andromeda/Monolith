@@ -7494,7 +7494,7 @@ ent-GooglyEyesWatchful = {ent-GooglyEyes}
 ent-GooglyEyesWatchfulAdmeme = {ent-GooglyEyes}
     .suffix = Adme, cuidado.
 
-ent-RadioImplanterUssp = 
+ent-RadioImplanterUssp = {ent-BaseImplanter}
     .suffix = - Não, não, não.
 
 ent-BlueLobsterUncursed = {ent-BlueLobster}
@@ -7998,10 +7998,10 @@ ent-AirlockViper = {ent-Airlock}
 ent-AirlockViperCommand = {ent-Airlock}
     .suffix = Comando do Grupo Viper, bloqueado.
 
-ent-AirlockExternalGlassUSSPLocked = 
+ent-AirlockExternalGlassUSSPLocked = {ent-Airlock}
     .suffix = Externo, Glass, USSP, bloqueado.
 
-ent-AirlockExternalUSSPLocked = 
+ent-AirlockExternalUSSPLocked = {ent-Airlock}
     .suffix = Externo, USSP, bloqueado.
 
 ent-AirlockTsfEngineeringGlass = {ent-AirlockGlass}
@@ -8142,7 +8142,7 @@ ent-PlasmaWindoorSecureRogueLocked = {ent-WindoorSecurePlasma}
 ent-SmallLightDim = {ent-SmallLight}
     .suffix = Sempre ajeitado, Dim.
 
-ent-PoweredlightBlueAirAlarm = 
+ent-PoweredlightBlueAirAlarm = {ent-PoweredlightEmpty}
     .suffix = Azul, Off
 
 ent-ComputerTabletopShuttleANALR67RWR = {ent-ComputerShuttleANALR67RWR}

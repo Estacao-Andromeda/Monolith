@@ -9943,10 +9943,10 @@ ent-SteelOre5 = {ent-SteelOre}
 ent-UraniumOre5 = {ent-UraniumOre}
     .suffix = 5
 
-ent-BibleUserImplanter = 
+ent-BibleUserImplanter = {ent-BaseImplanter}
     .suffix = Fé
 
-ent-BikeHornImplanterLabeled = 
+ent-BikeHornImplanterLabeled = {ent-BaseImplanter}
     .suffix = Corneta de bicicleta, etiquetada
 
 ent-DeathAcidifierImplanterNF = {ent-BaseImplantOnlyImplanterSyndi}
@@ -9958,22 +9958,22 @@ ent-FreelanceTrackingImplanter = {ent-BaseImplantOnlyImplanterSyndi}
 ent-GibAcidifierImplanterNF = {ent-BaseImplantOnlyImplanterSyndi}
     .suffix = Gib acidifier
 
-ent-LightImplanterLabeled = 
+ent-LightImplanterLabeled = {ent-BaseImplanter}
     .suffix = Leve, etiquetado.
 
-ent-MedicalTrackingImplanter = 
+ent-MedicalTrackingImplanter = {ent-BaseImplanter}
     .suffix = Rastreamento médico
 
-ent-MedicalTrackingImplanterLabeled = 
+ent-MedicalTrackingImplanterLabeled = {ent-BaseImplanter}
     .suffix = Rastreamento médico, etiquetado
 
-ent-MimePowersImplanter = 
+ent-MimePowersImplanter = {ent-BaseImplanter}
     .suffix = Juramento mímico
 
-ent-RadioImplanterFreelance = 
+ent-RadioImplanterFreelance = {ent-BaseImplanter}
     .suffix = rádio Freelance
 
-ent-SadTromboneImplanterLabeled = 
+ent-SadTromboneImplanterLabeled = {ent-BaseImplanter}
     .suffix = Triste trombone, etiquetado
 
 ent-MailBagCapsulePrimed = {ent-MailBag}
@@ -10324,16 +10324,16 @@ ent-ComputerWallmountWithdrawBankATM = {ent-ComputerBankATMWithdraw}
 ent-CondimentDispenserEmpty = {ent-CondimentDispenser}
     .suffix = Vazio
 
-ent-AirlockExternalGlassMailCarrierLocked = 
+ent-AirlockExternalGlassMailCarrierLocked = {ent-Airlock}
     .suffix = Correio, Vidro, Fechado
 
-ent-AirlockExternalGlassNfsdLocked = 
+ent-AirlockExternalGlassNfsdLocked = {ent-Airlock}
     .suffix = TSFMC, vidro, travado
 
-ent-AirlockExternalGlassRogueLocked = 
+ent-AirlockExternalGlassRogueLocked = {ent-Airlock}
     .suffix = PDV, Glass, Bloqueado
 
-ent-AirlockExternalMailCarrierLocked = 
+ent-AirlockExternalMailCarrierLocked = {ent-Airlock}
     .suffix = Correio, trancado
 
 ent-AirlockFrontierBridgeGlassLocked = {ent-AirlockGlass}
@@ -10456,7 +10456,7 @@ ent-AirlockNfsd = {ent-Airlock}
 ent-AirlockNfsdGlass = {ent-AirlockGlass}
     .suffix = TSFMC
 
-ent-AirlockExternalGlassNfsd = 
+ent-AirlockExternalGlassNfsd = {ent-Airlock}
     .suffix = TSFMC, Vidro
 
 ent-WindoorSecureFrontierCommandLocked = {ent-WindoorSecure}
@@ -10564,13 +10564,13 @@ ent-NFBedrollAltFolded = {ent-NFBedroll}
 ent-NFBedrollFolded = {ent-NFBedroll}
     .suffix = Dobrado.
 
-ent-NFBedrollStainedFolded = 
+ent-NFBedrollStainedFolded = {ent-NFBedroll}
     .suffix = dobrado, manchado
 
 ent-TableFoldingSpawnFolded = {ent-TableFolding}
     .suffix = Dobrado.
 
-ent-PoweredlightBlack = 
+ent-PoweredlightBlack = {ent-PoweredlightEmpty}
     .suffix = Preto
 
 ent-PoweredLightPostSmallRed = {ent-PoweredLightPostSmall}
@@ -11038,7 +11038,7 @@ ent-FireAxeCabinetFilledOpenCommand = {ent-FireAxeCabinetCommand}
 ent-FireAxeCabinetOpenCommand = {ent-FireAxeCabinetCommand}
     .suffix = Abra, com bloqueio
 
-ent-IntercomNfsd = 
+ent-IntercomNfsd = {ent-BaseIntercom}
     .suffix = TSFMC
 
 ent-ShelfRMetalSecurity = {ent-ShelfRMetal}
@@ -11056,394 +11056,394 @@ ent-LockableButtonPirate = {ent-LockableButton}
 ent-LockableButtonTSFMC = {ent-LockableButton}
     .suffix = TSFMC
 
-ent-AsteroidRockBananiumCrab = 
+ent-AsteroidRockBananiumCrab = {ent-AsteroidRock}
     .suffix = Caranguejo de Bananium
 
-ent-AsteroidRockBananiumCrabNF = 
+ent-AsteroidRockBananiumCrabNF = {ent-AsteroidRock}
     .suffix = Caranguejo de Bananium
 
-ent-AsteroidRockBananiumGolem = 
+ent-AsteroidRockBananiumGolem = {ent-AsteroidRock}
     .suffix = Bananium Golem
 
-ent-AsteroidRockCoalCrab = 
+ent-AsteroidRockCoalCrab = {ent-AsteroidRock}
     .suffix = Caranguejo de Carvão
 
-ent-AsteroidRockCoalCrabNF = 
+ent-AsteroidRockCoalCrabNF = {ent-AsteroidRock}
     .suffix = Caranguejo de Carvão
 
-ent-AsteroidRockCoalGolem = 
+ent-AsteroidRockCoalGolem = {ent-AsteroidRock}
     .suffix = Carvão Golem
 
-ent-AsteroidRockGoldCrab = 
+ent-AsteroidRockGoldCrab = {ent-AsteroidRock}
     .suffix = Caranguejo de Ouro
 
-ent-AsteroidRockGoldCrabNF = 
+ent-AsteroidRockGoldCrabNF = {ent-AsteroidRock}
     .suffix = Caranguejo de Ouro
 
-ent-AsteroidRockGoldGolem = 
+ent-AsteroidRockGoldGolem = {ent-AsteroidRock}
     .suffix = Golem de Ouro
 
-ent-AsteroidRockIronGolem = 
+ent-AsteroidRockIronGolem = {ent-AsteroidRock}
     .suffix = Golem de Ferro
 
-ent-AsteroidRockPlasmaCrab = 
+ent-AsteroidRockPlasmaCrab = {ent-AsteroidRock}
     .suffix = Crab Plasma
 
-ent-AsteroidRockPlasmaCrabNF = 
+ent-AsteroidRockPlasmaCrabNF = {ent-AsteroidRock}
     .suffix = Crab Plasma
 
-ent-AsteroidRockPlasmaGolem = 
+ent-AsteroidRockPlasmaGolem = {ent-AsteroidRock}
     .suffix = Plasma Golem
 
-ent-AsteroidRockQuartzGolem = 
+ent-AsteroidRockQuartzGolem = {ent-AsteroidRock}
     .suffix = Quartzo Golem
 
-ent-AsteroidRockSaltCrab = 
+ent-AsteroidRockSaltCrab = {ent-AsteroidRock}
     .suffix = Caranguejo Salgado
 
-ent-AsteroidRockSaltCrabNF = 
+ent-AsteroidRockSaltCrabNF = {ent-AsteroidRock}
     .suffix = Caranguejo Salgado
 
-ent-AsteroidRockSaltGolem = 
+ent-AsteroidRockSaltGolem = {ent-AsteroidRock}
     .suffix = Salt Golem
 
-ent-AsteroidRockSilverGolem = 
+ent-AsteroidRockSilverGolem = {ent-AsteroidRock}
     .suffix = Golem de Prata
 
-ent-AsteroidRockUraniumGolem = 
+ent-AsteroidRockUraniumGolem = {ent-AsteroidRock}
     .suffix = Urânio Golem
 
 ent-AsteroidScrapPileMining = {ent-WallRockScrapPile}
     .suffix = maior rendimento de minério .33
 
-ent-WallRockAndesiteBananiumCrabNF = 
+ent-WallRockAndesiteBananiumCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo de Bananium
 
-ent-WallRockAndesiteBananiumGolem = 
+ent-WallRockAndesiteBananiumGolem = {ent-WallRockAndesite}
     .suffix = Bananium Golem
 
-ent-WallRockAndesiteCoalCrabNF = 
+ent-WallRockAndesiteCoalCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo de Carvão
 
-ent-WallRockAndesiteCoalGolem = 
+ent-WallRockAndesiteCoalGolem = {ent-WallRockAndesite}
     .suffix = Carvão Golem
 
-ent-WallRockAndesiteGoldCrabNF = 
+ent-WallRockAndesiteGoldCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo de Ouro
 
-ent-WallRockAndesiteGoldGolem = 
+ent-WallRockAndesiteGoldGolem = {ent-WallRockAndesite}
     .suffix = Golem de Ouro
 
-ent-WallRockAndesiteIronCrabNF = 
+ent-WallRockAndesiteIronCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo de Ferro
 
-ent-WallRockAndesiteIronGolem = 
+ent-WallRockAndesiteIronGolem = {ent-WallRockAndesite}
     .suffix = Golem de Ferro
 
-ent-WallRockAndesitePlasmaCrabNF = 
+ent-WallRockAndesitePlasmaCrabNF = {ent-WallRockAndesite}
     .suffix = Crab Plasma
 
-ent-WallRockAndesitePlasmaGolem = 
+ent-WallRockAndesitePlasmaGolem = {ent-WallRockAndesite}
     .suffix = Plasma Golem
 
-ent-WallRockAndesiteQuartzCrabNF = 
+ent-WallRockAndesiteQuartzCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo de Quartzo
 
-ent-WallRockAndesiteQuartzGolem = 
+ent-WallRockAndesiteQuartzGolem = {ent-WallRockAndesite}
     .suffix = Quartzo Golem
 
-ent-WallRockAndesiteSaltCrabNF = 
+ent-WallRockAndesiteSaltCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo Salgado
 
-ent-WallRockAndesiteSaltGolem = 
+ent-WallRockAndesiteSaltGolem = {ent-WallRockAndesite}
     .suffix = Salt Golem
 
-ent-WallRockAndesiteSilverCrabNF = 
+ent-WallRockAndesiteSilverCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo prateado
 
-ent-WallRockAndesiteSilverGolem = 
+ent-WallRockAndesiteSilverGolem = {ent-WallRockAndesite}
     .suffix = Golem de Prata
 
-ent-WallRockAndesiteUraniumCrabNF = 
+ent-WallRockAndesiteUraniumCrabNF = {ent-WallRockAndesite}
     .suffix = Caranguejo de urânio
 
-ent-WallRockAndesiteUraniumGolem = 
+ent-WallRockAndesiteUraniumGolem = {ent-WallRockAndesite}
     .suffix = Urânio Golem
 
-ent-WallRockBananiumCrabNF = 
+ent-WallRockBananiumCrabNF = {ent-WallRock}
     .suffix = Caranguejo de Bananium
 
-ent-WallRockBananiumGolem = 
+ent-WallRockBananiumGolem = {ent-WallRock}
     .suffix = Bananium Golem
 
-ent-WallRockBasaltBananiumCrabNF = 
+ent-WallRockBasaltBananiumCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo de Bananium
 
-ent-WallRockBasaltBananiumGolem = 
+ent-WallRockBasaltBananiumGolem = {ent-WallRockBasalt}
     .suffix = Bananium Golem
 
-ent-WallRockBasaltCoalCrabNF = 
+ent-WallRockBasaltCoalCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo de Carvão
 
-ent-WallRockBasaltCoalGolem = 
+ent-WallRockBasaltCoalGolem = {ent-WallRockBasalt}
     .suffix = Carvão Golem
 
-ent-WallRockBasaltGoldCrabNF = 
+ent-WallRockBasaltGoldCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo de Ouro
 
-ent-WallRockBasaltGoldGolem = 
+ent-WallRockBasaltGoldGolem = {ent-WallRockBasalt}
     .suffix = Golem de Ouro
 
-ent-WallRockBasaltIronCrabNF = 
+ent-WallRockBasaltIronCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo de Ferro
 
-ent-WallRockBasaltIronGolem = 
+ent-WallRockBasaltIronGolem = {ent-WallRockBasalt}
     .suffix = Golem de Ferro
 
-ent-WallRockBasaltPlasmaCrabNF = 
+ent-WallRockBasaltPlasmaCrabNF = {ent-WallRockBasalt}
     .suffix = Crab Plasma
 
-ent-WallRockBasaltPlasmaGolem = 
+ent-WallRockBasaltPlasmaGolem = {ent-WallRockBasalt}
     .suffix = Plasma Golem
 
-ent-WallRockBasaltQuartzCrabNF = 
+ent-WallRockBasaltQuartzCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo de Quartzo
 
-ent-WallRockBasaltQuartzGolem = 
+ent-WallRockBasaltQuartzGolem = {ent-WallRockBasalt}
     .suffix = Quartzo Golem
 
-ent-WallRockBasaltSaltCrabNF = 
+ent-WallRockBasaltSaltCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo Salgado
 
-ent-WallRockBasaltSaltGolem = 
+ent-WallRockBasaltSaltGolem = {ent-WallRockBasalt}
     .suffix = Salt Golem
 
-ent-WallRockBasaltSilverCrabNF = 
+ent-WallRockBasaltSilverCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo prateado
 
-ent-WallRockBasaltSilverGolem = 
+ent-WallRockBasaltSilverGolem = {ent-WallRockBasalt}
     .suffix = Golem de Prata
 
-ent-WallRockBasaltUraniumCrabNF = 
+ent-WallRockBasaltUraniumCrabNF = {ent-WallRockBasalt}
     .suffix = Caranguejo de urânio
 
-ent-WallRockBasaltUraniumGolem = 
+ent-WallRockBasaltUraniumGolem = {ent-WallRockBasalt}
     .suffix = Urânio Golem
 
-ent-WallRockChromiteBananiumCrabNF = 
+ent-WallRockChromiteBananiumCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo de Bananium
 
-ent-WallRockChromiteBananiumGolem = 
+ent-WallRockChromiteBananiumGolem = {ent-WallRockChromite}
     .suffix = Bananium Golem
 
-ent-WallRockChromiteCoalCrabNF = 
+ent-WallRockChromiteCoalCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo de Carvão
 
-ent-WallRockChromiteCoalGolem = 
+ent-WallRockChromiteCoalGolem = {ent-WallRockChromite}
     .suffix = Carvão Golem
 
-ent-WallRockChromiteGoldCrabNF = 
+ent-WallRockChromiteGoldCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo de Ouro
 
-ent-WallRockChromiteGoldGolem = 
+ent-WallRockChromiteGoldGolem = {ent-WallRockChromite}
     .suffix = Golem de Ouro
 
-ent-WallRockChromiteIronCrabNF = 
+ent-WallRockChromiteIronCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo de Ferro
 
-ent-WallRockChromiteIronGolem = 
+ent-WallRockChromiteIronGolem = {ent-WallRockChromite}
     .suffix = Golem de Ferro
 
-ent-WallRockChromitePlasmaCrabNF = 
+ent-WallRockChromitePlasmaCrabNF = {ent-WallRockChromite}
     .suffix = Crab Plasma
 
-ent-WallRockChromitePlasmaGolem = 
+ent-WallRockChromitePlasmaGolem = {ent-WallRockChromite}
     .suffix = Plasma Golem
 
-ent-WallRockChromiteQuartzCrabNF = 
+ent-WallRockChromiteQuartzCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo de Quartzo
 
-ent-WallRockChromiteQuartzGolem = 
+ent-WallRockChromiteQuartzGolem = {ent-WallRockChromite}
     .suffix = Quartzo Golem
 
-ent-WallRockChromiteSaltCrabNF = 
+ent-WallRockChromiteSaltCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo Salgado
 
-ent-WallRockChromiteSaltGolem = 
+ent-WallRockChromiteSaltGolem = {ent-WallRockChromite}
     .suffix = Salt Golem
 
-ent-WallRockChromiteSilverCrabNF = 
+ent-WallRockChromiteSilverCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo prateado
 
-ent-WallRockChromiteSilverGolem = 
+ent-WallRockChromiteSilverGolem = {ent-WallRockChromite}
     .suffix = Golem de Prata
 
-ent-WallRockChromiteUraniumCrabNF = 
+ent-WallRockChromiteUraniumCrabNF = {ent-WallRockChromite}
     .suffix = Caranguejo de urânio
 
-ent-WallRockChromiteUraniumGolem = 
+ent-WallRockChromiteUraniumGolem = {ent-WallRockChromite}
     .suffix = Urânio Golem
 
-ent-WallRockCoalCrabNF = 
+ent-WallRockCoalCrabNF = {ent-WallRock}
     .suffix = Caranguejo de Carvão
 
-ent-WallRockCoalGolem = 
+ent-WallRockCoalGolem = {ent-WallRock}
     .suffix = Carvão Golem
 
-ent-WallRockGoldCrabNF = 
+ent-WallRockGoldCrabNF = {ent-WallRock}
     .suffix = Caranguejo de Ouro
 
-ent-WallRockGoldGolem = 
+ent-WallRockGoldGolem = {ent-WallRock}
     .suffix = Golem de Ouro
 
-ent-WallRockIronCrabNF = 
+ent-WallRockIronCrabNF = {ent-WallRock}
     .suffix = Caranguejo de Ferro
 
-ent-WallRockIronGolem = 
+ent-WallRockIronGolem = {ent-WallRock}
     .suffix = Golem de Ferro
 
-ent-WallRockPlasmaCrabNF = 
+ent-WallRockPlasmaCrabNF = {ent-WallRock}
     .suffix = Crab Plasma
 
-ent-WallRockPlasmaGolem = 
+ent-WallRockPlasmaGolem = {ent-WallRock}
     .suffix = Plasma Golem
 
-ent-WallRockQuartzCrabNF = 
+ent-WallRockQuartzCrabNF = {ent-WallRock}
     .suffix = Caranguejo de Quartzo
 
-ent-WallRockQuartzGolem = 
+ent-WallRockQuartzGolem = {ent-WallRock}
     .suffix = Quartzo Golem
 
-ent-WallRockSaltCrabNF = 
+ent-WallRockSaltCrabNF = {ent-WallRock}
     .suffix = Caranguejo Salgado
 
-ent-WallRockSaltGolem = 
+ent-WallRockSaltGolem = {ent-WallRock}
     .suffix = Salt Golem
 
-ent-WallRockSandBananiumCrabNF = 
+ent-WallRockSandBananiumCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo de Bananium
 
-ent-WallRockSandBananiumGolem = 
+ent-WallRockSandBananiumGolem = {ent-WallRockSand}
     .suffix = Bananium Golem
 
-ent-WallRockSandCoalCrabNF = 
+ent-WallRockSandCoalCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo de Carvão
 
-ent-WallRockSandCoalGolem = 
+ent-WallRockSandCoalGolem = {ent-WallRockSand}
     .suffix = Carvão Golem
 
-ent-WallRockSandGoldCrabNF = 
+ent-WallRockSandGoldCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo de Ouro
 
-ent-WallRockSandGoldGolem = 
+ent-WallRockSandGoldGolem = {ent-WallRockSand}
     .suffix = Golem de Ouro
 
-ent-WallRockSandIronCrabNF = 
+ent-WallRockSandIronCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo de Ferro
 
-ent-WallRockSandIronGolem = 
+ent-WallRockSandIronGolem = {ent-WallRockSand}
     .suffix = Golem de Ferro
 
-ent-WallRockSandPlasmaCrabNF = 
+ent-WallRockSandPlasmaCrabNF = {ent-WallRockSand}
     .suffix = Crab Plasma
 
-ent-WallRockSandPlasmaGolem = 
+ent-WallRockSandPlasmaGolem = {ent-WallRockSand}
     .suffix = Plasma Golem
 
-ent-WallRockSandQuartzCrabNF = 
+ent-WallRockSandQuartzCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo de Quartzo
 
-ent-WallRockSandQuartzGolem = 
+ent-WallRockSandQuartzGolem = {ent-WallRockSand}
     .suffix = Quartzo Golem
 
-ent-WallRockSandSaltCrabNF = 
+ent-WallRockSandSaltCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo Salgado
 
-ent-WallRockSandSaltGolem = 
+ent-WallRockSandSaltGolem = {ent-WallRockSand}
     .suffix = Salt Golem
 
-ent-WallRockSandSilverCrabNF = 
+ent-WallRockSandSilverCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo prateado
 
-ent-WallRockSandSilverGolem = 
+ent-WallRockSandSilverGolem = {ent-WallRockSand}
     .suffix = Golem de Prata
 
-ent-WallRockSandUraniumCrabNF = 
+ent-WallRockSandUraniumCrabNF = {ent-WallRockSand}
     .suffix = Caranguejo de urânio
 
-ent-WallRockSandUraniumGolem = 
+ent-WallRockSandUraniumGolem = {ent-WallRockSand}
     .suffix = Urânio Golem
 
-ent-WallRockSilverCrabNF = 
+ent-WallRockSilverCrabNF = {ent-WallRock}
     .suffix = Caranguejo prateado
 
-ent-WallRockSilverGolem = 
+ent-WallRockSilverGolem = {ent-WallRock}
     .suffix = Golem de Prata
 
-ent-WallRockSnowBananiumCrabNF = 
+ent-WallRockSnowBananiumCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo de Bananium
 
-ent-WallRockSnowBananiumGolem = 
+ent-WallRockSnowBananiumGolem = {ent-WallRockSnow}
     .suffix = Bananium Golem
 
-ent-WallRockSnowCoalCrabNF = 
+ent-WallRockSnowCoalCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo de Carvão
 
-ent-WallRockSnowCoalGolem = 
+ent-WallRockSnowCoalGolem = {ent-WallRockSnow}
     .suffix = Carvão Golem
 
-ent-WallRockSnowGoldCrabNF = 
+ent-WallRockSnowGoldCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo de Ouro
 
-ent-WallRockSnowGoldGolem = 
+ent-WallRockSnowGoldGolem = {ent-WallRockSnow}
     .suffix = Golem de Ouro
 
-ent-WallRockSnowIronCrabNF = 
+ent-WallRockSnowIronCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo de Ferro
 
-ent-WallRockSnowIronGolem = 
+ent-WallRockSnowIronGolem = {ent-WallRockSnow}
     .suffix = Golem de Ferro
 
-ent-WallRockSnowPlasmaCrabNF = 
+ent-WallRockSnowPlasmaCrabNF = {ent-WallRockSnow}
     .suffix = Crab Plasma
 
-ent-WallRockSnowPlasmaGolem = 
+ent-WallRockSnowPlasmaGolem = {ent-WallRockSnow}
     .suffix = Plasma Golem
 
-ent-WallRockSnowQuartzCrabNF = 
+ent-WallRockSnowQuartzCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo de Quartzo
 
-ent-WallRockSnowQuartzGolem = 
+ent-WallRockSnowQuartzGolem = {ent-WallRockSnow}
     .suffix = Quartzo Golem
 
-ent-WallRockSnowSaltCrabNF = 
+ent-WallRockSnowSaltCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo Salgado
 
-ent-WallRockSnowSaltGolem = 
+ent-WallRockSnowSaltGolem = {ent-WallRockSnow}
     .suffix = Salt Golem
 
-ent-WallRockSnowSilverCrabNF = 
+ent-WallRockSnowSilverCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo prateado
 
-ent-WallRockSnowSilverGolem = 
+ent-WallRockSnowSilverGolem = {ent-WallRockSnow}
     .suffix = Golem de Prata
 
-ent-WallRockSnowUraniumCrabNF = 
+ent-WallRockSnowUraniumCrabNF = {ent-WallRockSnow}
     .suffix = Caranguejo de urânio
 
-ent-WallRockSnowUraniumGolem = 
+ent-WallRockSnowUraniumGolem = {ent-WallRockSnow}
     .suffix = Urânio Golem
 
-ent-WallRockUraniumCrabNF = 
+ent-WallRockUraniumCrabNF = {ent-WallRock}
     .suffix = Caranguejo de urânio
 
-ent-WallRockUraniumGolem = 
+ent-WallRockUraniumGolem = {ent-WallRock}
     .suffix = Urânio Golem
 
-ent-NFWallAndesiteCobblebrickBananiumCrab = 
+ent-NFWallAndesiteCobblebrickBananiumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallAndesiteCobblebrickBananiumGolem = 
+ent-NFWallAndesiteCobblebrickBananiumGolem = {ent-NFAsteroidWall}
     .suffix = Bananium Golem
 
 ent-NFWallAndesiteCobblebrickCoalCrab = {ent-NFWallAndesiteCobblebrickCoal}
@@ -11452,52 +11452,52 @@ ent-NFWallAndesiteCobblebrickCoalCrab = {ent-NFWallAndesiteCobblebrickCoal}
 ent-NFWallAndesiteCobblebrickCoalGolem = {ent-NFWallAndesiteCobblebrickCoal}
     .suffix = Carvão Golem
 
-ent-NFWallAndesiteCobblebrickGoldCrab = 
+ent-NFWallAndesiteCobblebrickGoldCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallAndesiteCobblebrickGoldGolem = 
+ent-NFWallAndesiteCobblebrickGoldGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ouro
 
-ent-NFWallAndesiteCobblebrickIronGolem = 
+ent-NFWallAndesiteCobblebrickIronGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ferro
 
-ent-NFWallAndesiteCobblebrickPlasmaCrab = 
+ent-NFWallAndesiteCobblebrickPlasmaCrab = {ent-NFAsteroidWall}
     .suffix = Crab Plasma
 
-ent-NFWallAndesiteCobblebrickPlasmaGolem = 
+ent-NFWallAndesiteCobblebrickPlasmaGolem = {ent-NFAsteroidWall}
     .suffix = Plasma Golem
 
-ent-NFWallAndesiteCobblebrickQuartzCrab = 
+ent-NFWallAndesiteCobblebrickQuartzCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallAndesiteCobblebrickQuartzGolem = 
+ent-NFWallAndesiteCobblebrickQuartzGolem = {ent-NFAsteroidWall}
     .suffix = Quartzo Golem
 
-ent-NFWallAndesiteCobblebrickSaltCrab = 
+ent-NFWallAndesiteCobblebrickSaltCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo Salgado
 
-ent-NFWallAndesiteCobblebrickSaltGolem = 
+ent-NFWallAndesiteCobblebrickSaltGolem = {ent-NFAsteroidWall}
     .suffix = Salt Golem
 
-ent-NFWallAndesiteCobblebrickSilverCrab = 
+ent-NFWallAndesiteCobblebrickSilverCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo prateado
 
-ent-NFWallAndesiteCobblebrickSilverGolem = 
+ent-NFWallAndesiteCobblebrickSilverGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Prata
 
-ent-NFWallAndesiteCobblebrickTinCrab = 
+ent-NFWallAndesiteCobblebrickTinCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallAndesiteCobblebrickUraniumCrab = 
+ent-NFWallAndesiteCobblebrickUraniumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de urânio
 
-ent-NFWallAndesiteCobblebrickUraniumGolem = 
+ent-NFWallAndesiteCobblebrickUraniumGolem = {ent-NFAsteroidWall}
     .suffix = Urânio Golem
 
-ent-NFWallBasaltCobblebrickBananiumCrab = 
+ent-NFWallBasaltCobblebrickBananiumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallBasaltCobblebrickBananiumGolem = 
+ent-NFWallBasaltCobblebrickBananiumGolem = {ent-NFAsteroidWall}
     .suffix = Bananium Golem
 
 ent-NFWallBasaltCobblebrickCoalCrab = {ent-NFWallBasaltCobblebrickCoal}
@@ -11506,52 +11506,52 @@ ent-NFWallBasaltCobblebrickCoalCrab = {ent-NFWallBasaltCobblebrickCoal}
 ent-NFWallBasaltCobblebrickCoalGolem = {ent-NFWallBasaltCobblebrickCoal}
     .suffix = Carvão Golem
 
-ent-NFWallBasaltCobblebrickGoldCrab = 
+ent-NFWallBasaltCobblebrickGoldCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallBasaltCobblebrickGoldGolem = 
+ent-NFWallBasaltCobblebrickGoldGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ouro
 
-ent-NFWallBasaltCobblebrickIronGolem = 
+ent-NFWallBasaltCobblebrickIronGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ferro
 
-ent-NFWallBasaltCobblebrickPlasmaCrab = 
+ent-NFWallBasaltCobblebrickPlasmaCrab = {ent-NFAsteroidWall}
     .suffix = Crab Plasma
 
-ent-NFWallBasaltCobblebrickPlasmaGolem = 
+ent-NFWallBasaltCobblebrickPlasmaGolem = {ent-NFAsteroidWall}
     .suffix = Plasma Golem
 
-ent-NFWallBasaltCobblebrickQuartzCrab = 
+ent-NFWallBasaltCobblebrickQuartzCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallBasaltCobblebrickQuartzGolem = 
+ent-NFWallBasaltCobblebrickQuartzGolem = {ent-NFAsteroidWall}
     .suffix = Quartzo Golem
 
-ent-NFWallBasaltCobblebrickSaltCrab = 
+ent-NFWallBasaltCobblebrickSaltCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo Salgado
 
-ent-NFWallBasaltCobblebrickSaltGolem = 
+ent-NFWallBasaltCobblebrickSaltGolem = {ent-NFAsteroidWall}
     .suffix = Salt Golem
 
-ent-NFWallBasaltCobblebrickSilverCrab = 
+ent-NFWallBasaltCobblebrickSilverCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo prateado
 
-ent-NFWallBasaltCobblebrickSilverGolem = 
+ent-NFWallBasaltCobblebrickSilverGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Prata
 
-ent-NFWallBasaltCobblebrickTinCrab = 
+ent-NFWallBasaltCobblebrickTinCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallBasaltCobblebrickUraniumCrab = 
+ent-NFWallBasaltCobblebrickUraniumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de urânio
 
-ent-NFWallBasaltCobblebrickUraniumGolem = 
+ent-NFWallBasaltCobblebrickUraniumGolem = {ent-NFAsteroidWall}
     .suffix = Urânio Golem
 
-ent-NFWallChromiteCobblebrickBananiumCrab = 
+ent-NFWallChromiteCobblebrickBananiumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallChromiteCobblebrickBananiumGolem = 
+ent-NFWallChromiteCobblebrickBananiumGolem = {ent-NFAsteroidWall}
     .suffix = Bananium Golem
 
 ent-NFWallChromiteCobblebrickCoalCrab = {ent-NFWallChromiteCobblebrickCoal}
@@ -11560,52 +11560,52 @@ ent-NFWallChromiteCobblebrickCoalCrab = {ent-NFWallChromiteCobblebrickCoal}
 ent-NFWallChromiteCobblebrickCoalGolem = {ent-NFWallChromiteCobblebrickCoal}
     .suffix = Carvão Golem
 
-ent-NFWallChromiteCobblebrickGoldCrab = 
+ent-NFWallChromiteCobblebrickGoldCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallChromiteCobblebrickGoldGolem = 
+ent-NFWallChromiteCobblebrickGoldGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ouro
 
-ent-NFWallChromiteCobblebrickIronGolem = 
+ent-NFWallChromiteCobblebrickIronGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ferro
 
-ent-NFWallChromiteCobblebrickPlasmaCrab = 
+ent-NFWallChromiteCobblebrickPlasmaCrab = {ent-NFAsteroidWall}
     .suffix = Crab Plasma
 
-ent-NFWallChromiteCobblebrickPlasmaGolem = 
+ent-NFWallChromiteCobblebrickPlasmaGolem = {ent-NFAsteroidWall}
     .suffix = Plasma Golem
 
-ent-NFWallChromiteCobblebrickQuartzCrab = 
+ent-NFWallChromiteCobblebrickQuartzCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallChromiteCobblebrickQuartzGolem = 
+ent-NFWallChromiteCobblebrickQuartzGolem = {ent-NFAsteroidWall}
     .suffix = Quartzo Golem
 
-ent-NFWallChromiteCobblebrickSaltCrab = 
+ent-NFWallChromiteCobblebrickSaltCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo Salgado
 
-ent-NFWallChromiteCobblebrickSaltGolem = 
+ent-NFWallChromiteCobblebrickSaltGolem = {ent-NFAsteroidWall}
     .suffix = Salt Golem
 
-ent-NFWallChromiteCobblebrickSilverCrab = 
+ent-NFWallChromiteCobblebrickSilverCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo prateado
 
-ent-NFWallChromiteCobblebrickSilverGolem = 
+ent-NFWallChromiteCobblebrickSilverGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Prata
 
-ent-NFWallChromiteCobblebrickTinCrab = 
+ent-NFWallChromiteCobblebrickTinCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallChromiteCobblebrickUraniumCrab = 
+ent-NFWallChromiteCobblebrickUraniumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de urânio
 
-ent-NFWallChromiteCobblebrickUraniumGolem = 
+ent-NFWallChromiteCobblebrickUraniumGolem = {ent-NFAsteroidWall}
     .suffix = Urânio Golem
 
-ent-NFWallCobblebrickBananiumCrab = 
+ent-NFWallCobblebrickBananiumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallCobblebrickBananiumGolem = 
+ent-NFWallCobblebrickBananiumGolem = {ent-NFAsteroidWall}
     .suffix = Bananium Golem
 
 ent-NFWallCobblebrickCoalCrab = {ent-NFWallCobblebrickCoal}
@@ -11614,52 +11614,52 @@ ent-NFWallCobblebrickCoalCrab = {ent-NFWallCobblebrickCoal}
 ent-NFWallCobblebrickCoalGolem = {ent-NFWallCobblebrickCoal}
     .suffix = Carvão Golem
 
-ent-NFWallCobblebrickGoldCrab = 
+ent-NFWallCobblebrickGoldCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallCobblebrickGoldGolem = 
+ent-NFWallCobblebrickGoldGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ouro
 
-ent-NFWallCobblebrickIronGolem = 
+ent-NFWallCobblebrickIronGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ferro
 
-ent-NFWallCobblebrickPlasmaCrab = 
+ent-NFWallCobblebrickPlasmaCrab = {ent-NFAsteroidWall}
     .suffix = Crab Plasma
 
-ent-NFWallCobblebrickPlasmaGolem = 
+ent-NFWallCobblebrickPlasmaGolem = {ent-NFAsteroidWall}
     .suffix = Plasma Golem
 
-ent-NFWallCobblebrickQuartzCrab = 
+ent-NFWallCobblebrickQuartzCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallCobblebrickQuartzGolem = 
+ent-NFWallCobblebrickQuartzGolem = {ent-NFAsteroidWall}
     .suffix = Quartzo Golem
 
-ent-NFWallCobblebrickSaltCrab = 
+ent-NFWallCobblebrickSaltCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo Salgado
 
-ent-NFWallCobblebrickSaltGolem = 
+ent-NFWallCobblebrickSaltGolem = {ent-NFAsteroidWall}
     .suffix = Salt Golem
 
-ent-NFWallCobblebrickSilverCrab = 
+ent-NFWallCobblebrickSilverCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo prateado
 
-ent-NFWallCobblebrickSilverGolem = 
+ent-NFWallCobblebrickSilverGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Prata
 
-ent-NFWallCobblebrickTinCrab = 
+ent-NFWallCobblebrickTinCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallCobblebrickUraniumCrab = 
+ent-NFWallCobblebrickUraniumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de urânio
 
-ent-NFWallCobblebrickUraniumGolem = 
+ent-NFWallCobblebrickUraniumGolem = {ent-NFAsteroidWall}
     .suffix = Urânio Golem
 
-ent-NFWallIceBananiumCrab = 
+ent-NFWallIceBananiumCrab = {ent-NFWallIce}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallIceBananiumGolem = 
+ent-NFWallIceBananiumGolem = {ent-NFWallIce}
     .suffix = Bananium Golem
 
 ent-NFWallIceCoalCrab = {ent-NFWallIceCoal}
@@ -11668,52 +11668,52 @@ ent-NFWallIceCoalCrab = {ent-NFWallIceCoal}
 ent-NFWallIceCoalGolem = {ent-NFWallIceCoal}
     .suffix = Carvão Golem
 
-ent-NFWallIceGoldCrab = 
+ent-NFWallIceGoldCrab = {ent-NFWallIce}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallIceGoldGolem = 
+ent-NFWallIceGoldGolem = {ent-NFWallIce}
     .suffix = Golem de Ouro
 
-ent-NFWallIceIronGolem = 
+ent-NFWallIceIronGolem = {ent-NFWallIce}
     .suffix = Golem de Ferro
 
-ent-NFWallIcePlasmaCrab = 
+ent-NFWallIcePlasmaCrab = {ent-NFWallIce}
     .suffix = Crab Plasma
 
-ent-NFWallIcePlasmaGolem = 
+ent-NFWallIcePlasmaGolem = {ent-NFWallIce}
     .suffix = Plasma Golem
 
-ent-NFWallIceQuartzCrab = 
+ent-NFWallIceQuartzCrab = {ent-NFWallIce}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallIceQuartzGolem = 
+ent-NFWallIceQuartzGolem = {ent-NFWallIce}
     .suffix = Quartzo Golem
 
-ent-NFWallIceSaltCrab = 
+ent-NFWallIceSaltCrab = {ent-NFWallIce}
     .suffix = Caranguejo Salgado
 
-ent-NFWallIceSaltGolem = 
+ent-NFWallIceSaltGolem = {ent-NFWallIce}
     .suffix = Salt Golem
 
-ent-NFWallIceSilverCrab = 
+ent-NFWallIceSilverCrab = {ent-NFWallIce}
     .suffix = Caranguejo prateado
 
-ent-NFWallIceSilverGolem = 
+ent-NFWallIceSilverGolem = {ent-NFWallIce}
     .suffix = Golem de Prata
 
-ent-NFWallIceTinCrab = 
+ent-NFWallIceTinCrab = {ent-NFWallIce}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallIceUraniumCrab = 
+ent-NFWallIceUraniumCrab = {ent-NFWallIce}
     .suffix = Caranguejo de urânio
 
-ent-NFWallIceUraniumGolem = 
+ent-NFWallIceUraniumGolem = {ent-NFWallIce}
     .suffix = Urânio Golem
 
-ent-NFWallNecropolisBananiumCrab = 
+ent-NFWallNecropolisBananiumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallNecropolisBananiumGolem = 
+ent-NFWallNecropolisBananiumGolem = {ent-NFAsteroidWall}
     .suffix = Bananium Golem
 
 ent-NFWallNecropolisCoalCrab = {ent-NFWallNecropolisCoal}
@@ -11722,52 +11722,52 @@ ent-NFWallNecropolisCoalCrab = {ent-NFWallNecropolisCoal}
 ent-NFWallNecropolisCoalGolem = {ent-NFWallNecropolisCoal}
     .suffix = Carvão Golem
 
-ent-NFWallNecropolisGoldCrab = 
+ent-NFWallNecropolisGoldCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallNecropolisGoldGolem = 
+ent-NFWallNecropolisGoldGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ouro
 
-ent-NFWallNecropolisIronGolem = 
+ent-NFWallNecropolisIronGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ferro
 
-ent-NFWallNecropolisPlasmaCrab = 
+ent-NFWallNecropolisPlasmaCrab = {ent-NFAsteroidWall}
     .suffix = Crab Plasma
 
-ent-NFWallNecropolisPlasmaGolem = 
+ent-NFWallNecropolisPlasmaGolem = {ent-NFAsteroidWall}
     .suffix = Plasma Golem
 
-ent-NFWallNecropolisQuartzCrab = 
+ent-NFWallNecropolisQuartzCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallNecropolisQuartzGolem = 
+ent-NFWallNecropolisQuartzGolem = {ent-NFAsteroidWall}
     .suffix = Quartzo Golem
 
-ent-NFWallNecropolisSaltCrab = 
+ent-NFWallNecropolisSaltCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo Salgado
 
-ent-NFWallNecropolisSaltGolem = 
+ent-NFWallNecropolisSaltGolem = {ent-NFAsteroidWall}
     .suffix = Salt Golem
 
-ent-NFWallNecropolisSilverCrab = 
+ent-NFWallNecropolisSilverCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo prateado
 
-ent-NFWallNecropolisSilverGolem = 
+ent-NFWallNecropolisSilverGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Prata
 
-ent-NFWallNecropolisTinCrab = 
+ent-NFWallNecropolisTinCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallNecropolisUraniumCrab = 
+ent-NFWallNecropolisUraniumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de urânio
 
-ent-NFWallNecropolisUraniumGolem = 
+ent-NFWallNecropolisUraniumGolem = {ent-NFAsteroidWall}
     .suffix = Urânio Golem
 
-ent-NFWallSandstoneBananiumCrab = 
+ent-NFWallSandstoneBananiumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Bananium
 
-ent-NFWallSandstoneBananiumGolem = 
+ent-NFWallSandstoneBananiumGolem = {ent-NFAsteroidWall}
     .suffix = Bananium Golem
 
 ent-NFWallSandstoneCoalCrab = {ent-NFWallSandstoneCoal}
@@ -11776,46 +11776,46 @@ ent-NFWallSandstoneCoalCrab = {ent-NFWallSandstoneCoal}
 ent-NFWallSandstoneCoalGolem = {ent-NFWallSandstoneCoal}
     .suffix = Carvão Golem
 
-ent-NFWallSandstoneGoldCrab = 
+ent-NFWallSandstoneGoldCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ouro
 
-ent-NFWallSandstoneGoldGolem = 
+ent-NFWallSandstoneGoldGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ouro
 
-ent-NFWallSandstoneIronGolem = 
+ent-NFWallSandstoneIronGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Ferro
 
-ent-NFWallSandstonePlasmaCrab = 
+ent-NFWallSandstonePlasmaCrab = {ent-NFAsteroidWall}
     .suffix = Crab Plasma
 
-ent-NFWallSandstonePlasmaGolem = 
+ent-NFWallSandstonePlasmaGolem = {ent-NFAsteroidWall}
     .suffix = Plasma Golem
 
-ent-NFWallSandstoneQuartzCrab = 
+ent-NFWallSandstoneQuartzCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Quartzo
 
-ent-NFWallSandstoneQuartzGolem = 
+ent-NFWallSandstoneQuartzGolem = {ent-NFAsteroidWall}
     .suffix = Quartzo Golem
 
-ent-NFWallSandstoneSaltCrab = 
+ent-NFWallSandstoneSaltCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo Salgado
 
-ent-NFWallSandstoneSaltGolem = 
+ent-NFWallSandstoneSaltGolem = {ent-NFAsteroidWall}
     .suffix = Salt Golem
 
-ent-NFWallSandstoneSilverCrab = 
+ent-NFWallSandstoneSilverCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo prateado
 
-ent-NFWallSandstoneSilverGolem = 
+ent-NFWallSandstoneSilverGolem = {ent-NFAsteroidWall}
     .suffix = Golem de Prata
 
-ent-NFWallSandstoneTinCrab = 
+ent-NFWallSandstoneTinCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de Ferro
 
-ent-NFWallSandstoneUraniumCrab = 
+ent-NFWallSandstoneUraniumCrab = {ent-NFAsteroidWall}
     .suffix = Caranguejo de urânio
 
-ent-NFWallSandstoneUraniumGolem = 
+ent-NFWallSandstoneUraniumGolem = {ent-NFAsteroidWall}
     .suffix = Urânio Golem
 
 ent-AdminInstantEffectEMP7 = {ent-AdminInstantEffectBase}

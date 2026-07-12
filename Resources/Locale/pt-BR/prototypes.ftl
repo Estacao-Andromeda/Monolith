@@ -14518,7 +14518,7 @@ ent-BaseImplantOnlyImplanter = {ent-BaseImplanter}
 ent-BaseImplantOnlyImplanterSyndi = implantador do Sindicato
     .desc = Uma seringa descartável compacta exclusivamente projetada para a injeção de implantes subdérmicos.
 
-ent-BikeHornImplanter = {ent-BaseImplantOnlyImplanter}
+ent-BikeHornImplanter = {ent-BaseImplanter}
     .suffix = bike horn
     .desc = {ent-BaseImplantOnlyImplanter.desc}
 
@@ -14553,7 +14553,7 @@ ent-ImplanterAdmeme = {ent-BaseImplanter}
     .suffix = Admeme
     .desc = {ent-BaseImplanter.desc}
 
-ent-LightImplanter = {ent-BaseImplantOnlyImplanter}
+ent-LightImplanter = {ent-BaseImplanter}
     .suffix = light
     .desc = {ent-BaseImplantOnlyImplanter.desc}
 
@@ -14565,7 +14565,7 @@ ent-MicroBombImplanter = {ent-BaseImplantOnlyImplanterSyndi}
     .suffix = micro-bomb
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
 
-ent-MindShieldImplanter = {ent-BaseImplantOnlyImplanter}
+ent-MindShieldImplanter = {ent-BaseImplanter}
     .suffix = mindshield
     .desc = {ent-BaseImplantOnlyImplanter.desc}
 
@@ -14573,11 +14573,11 @@ ent-RadioImplanter = {ent-BaseImplantOnlyImplanterSyndi}
     .suffix = radio Syndicate
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
 
-ent-RadioImplanterCentcomm = {ent-BaseImplantOnlyImplanter}
+ent-RadioImplanterCentcomm = {ent-BaseImplanter}
     .suffix = radio Centcomm
     .desc = {ent-BaseImplantOnlyImplanter.desc}
 
-ent-SadTromboneImplanter = {ent-BaseImplantOnlyImplanter}
+ent-SadTromboneImplanter = {ent-BaseImplanter}
     .suffix = sad trombone
     .desc = {ent-BaseImplantOnlyImplanter.desc}
 
@@ -14589,7 +14589,7 @@ ent-StorageImplanter = {ent-BaseImplantOnlyImplanterSyndi}
     .suffix = storage
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
 
-ent-TrackingImplanter = {ent-BaseImplantOnlyImplanter}
+ent-TrackingImplanter = {ent-BaseImplanter}
     .suffix = tracking
     .desc = {ent-BaseImplantOnlyImplanter.desc}
 
@@ -23062,7 +23062,7 @@ ent-AsteroidRockSilver = {ent-AsteroidRock}
     .suffix = Silver
     .desc = An ore vein rich with silver.
 
-ent-AsteroidRockSilverCrab = {ent-BaseWall}
+ent-AsteroidRockSilverCrab = {ent-AsteroidRock}
     .suffix = Silver Crab
     .desc = {ent-BaseWall.desc}
 
@@ -23070,7 +23070,7 @@ ent-AsteroidRockTin = {ent-AsteroidRock}
     .suffix = Iron
     .desc = An ore vein rich with iron.
 
-ent-AsteroidRockTinCrab = {ent-BaseWall}
+ent-AsteroidRockTinCrab = {ent-AsteroidRock}
     .suffix = Iron Crab
     .desc = {ent-BaseWall.desc}
 
@@ -23078,7 +23078,7 @@ ent-AsteroidRockUranium = {ent-AsteroidRock}
     .suffix = Uranium
     .desc = An ore vein rich with uranium.
 
-ent-AsteroidRockUraniumCrab = {ent-BaseWall}
+ent-AsteroidRockUraniumCrab = {ent-AsteroidRock}
     .suffix = Uranium Crab
     .desc = {ent-BaseWall.desc}
 

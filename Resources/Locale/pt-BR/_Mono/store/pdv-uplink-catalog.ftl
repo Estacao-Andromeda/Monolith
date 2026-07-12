@@ -67,7 +67,7 @@ uplink-pirate-radio-jammer-desc = Este dispositivo interromperá qualquer comuni
 uplink-pirate-hypopen-name = Hypopen
 uplink-pirate-hypopen-desc = Um hipospray químico disfarçado de caneta, capaz de injetar instantaneamente até 10u de reagentes. Começa vazio.
 
-uplink-pirate-implanter-freelance-name = Implantaor Vanguard
+uplink-pirate-implanter-freelance-name = Implantador de rádio Vanguard
 uplink-pirate-implanter-freelance-desc = Implanta um rádio Vanguard, permitindo comunicação secreta sem fone de ouvido.
 
 uplink-pirate-emag-name = Sequenciador Criptográfico
