@@ -42,8 +42,6 @@ uplink-pirate-omnizine-jug-desc = Um jarro de omnizine que pode ser usado para f
 uplink-pirate-medical-assembler-name = Flatpack de Montador Médico
 uplink-pirate-medical-assembler-desc = Um montador que pode ser usado para fazer suprimentos médicos úteis.
 
-
-
 # MARCA: Utilidade
 
 uplink-pirate-romerol-name = Seringa de Romerol
@@ -98,8 +96,6 @@ uplink-pirate-cash100000-desc = Esse é meu garoto, você realmente fez meu dia.
 uplink-syndicate-applicator-name = Aplicador de Nanites Avançado
 uplink-syndicate-applicator-desc = Aplicador de nanites avançado com uma capacidade de nanites pesadamente melhorada capaz de auto geração de nanites.
 
-
-
 # MARCA: Armas
 
 uplink-pirate-energy-cutlass-name = Cutelo de Energia
@@ -152,8 +148,6 @@ uplink-pirate-blueprint-launcher-rocket-desc = Um blueprint para RPG-7 e a muni�
 
 uplink-pirate-grenade-launcher-bundle-name = Kit China Lake
 uplink-pirate-grenade-launcher-bundle-desc = PLOOP!
-
-
 
 # MARCA: Munição
 
@@ -208,8 +202,6 @@ uplink-pirate-frag-grenade-desc = Uma granada de fragmentação 40mm amplamente 
 uplink-pirate-blast-grenade-name = Granada de Explosão
 uplink-pirate-blast-grenade-desc = Uma granada termobárica 40mm altamente letal para o China Lake. Altamente destrutiva em um raio preciso.
 
-
-
 # MARCA: Equipamento
 
 uplink-pirate-combat-hardsuit-name = Traje Tático SCAF
@@ -229,8 +221,6 @@ uplink-pirate-syndie-mask-desc = Uma máscara de gás tática resistente a flash
 
 uplink-pirate-modsuit-name = Modsuit RX-01 PDV
 uplink-pirate-modsuit-desc = Um protótipo de modsuit experimental desenvolvido pela Ullman Industries. Quando alimentado, fornece agilidade aprimorada e sensores melhorados. "O cliente original morreu então uh, divirta-se" - Felix Ullman
-
-
 
 # MARCA: Explosivos
 
@@ -258,8 +248,6 @@ uplink-pirate-shrapnelgrenade-box-desc = Uma caixa contendo 4 granadas de estilh
 uplink-pirate-explosivegrenade-box-name = Caixa de Granadas Explosivas
 uplink-pirate-explosivegrenade-box-desc = Uma caixa contendo 4 granadas explosivas.
 
-
-
 # MARCA: $Apostas$
 
 uplink-pirate-syndisurplus-name = Caixa de Excedentes
@@ -268,8 +256,8 @@ uplink-pirate-syndisurplus-desc = Contém uma grande quantidade de bens importad
 uplink-pirate-syndisupersurplus-name = Caixa de Super Excedentes
 uplink-pirate-syndisupersurplus-desc = Contém uma quantidade enorme de bens importados de uma empresa apoiando a Dinastia Phaethon. Este item não é reembolsável, não discuta com nossos advogados.
 
-
 # Vouchers
+
 
 uplink-pdv-t0-voucher-name = Voucher de Nave PDV Tier 0
 uplink-pdv-t0-voucher-desc = Um voucher de uso único para qualquer nave pequena.
@@ -310,40 +298,11 @@ uplink-pdv-t2-motleyanne-voucher-desc = Um pequeno cartão que contém os dados 
 uplink-pdv-t3-saintie-voucher-name = Saintie LPC PDV [T3]
 uplink-pdv-t3-saintie-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de um cruzador classe Saintie das reservas da nau-capitânia.
 
+uplink-pdv-t2-kortik-voucher-name = Kortik-R LPC PDV [T2]
+uplink-pdv-t2-kortik-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de uma "fragata" classe Kortik-R das reservas da nau-capitânia.
+
+uplink-pdv-t3-kortik-voucher-name = Kortik-EM LPC PDV [T3]
+uplink-pdv-t3-kortik-voucher-desc = Um pequeno cartão que contém os dados para a aquisição de uma "fragata" classe Kortik-EM das reservas da nau-capitânia.
+
 uplink-pdv-t4-saturn-voucher-name = Saturn LPC PDV [T4]
 uplink-pdv-t4-saturn-voucher-desc = Um pequeno cartão que autoriza a aquisição do Saturn.
-
-# Altnames/box variants for vendor
-
-uplink-pirate-box-highcal-desc = Uma caixa de munição de propósito geral para o rifle pesado Burner.
-uplink-pirate-box-highcal-he-desc = Uma caixa de munição explosiva para o rifle pesado Burner.
-uplink-pirate-box-highcal-he-name = Caixa HE 12.7x99mm
-uplink-pirate-box-highcal-name = Caixa 12.7x99mm
-uplink-pirate-box-magazine-light-rifle-desc = Uma caixa cheia de 4 carregadores 7.62x39mm.
-uplink-pirate-box-magazine-light-rifle-name = Caixa de carregadores 7.62x39mm
-uplink-pirate-box-magazine-pistol-desc = Uma caixa cheia de 4 carregadores de pistola 9x19mm.
-uplink-pirate-box-magazine-pistol-name = Caixa de carregadores de pistola 9x19mm
-uplink-pirate-box-smg-magazine-desc = Uma caixa cheia de 3 carregadores de SMG 9x19mm.
-uplink-pirate-box-smg-magazine-name = Caixa de carregadores de SMG 9x19mm
-uplink-pirate-empgrenade-box-desc = Uma caixa contendo 4 granadas EMP.
-uplink-pirate-empgrenade-box-name = Caixa de Granadas EMP
-uplink-pirate-explosivegrenade-box-desc = Uma caixa contendo 4 granadas explosivas.
-uplink-pirate-explosivegrenade-box-name = Caixa de Granadas Explosivas
-uplink-pirate-flashbanggrenade-box-desc = Uma caixa contendo 4 granadas flashbang.
-uplink-pirate-flashbanggrenade-box-name = Caixa de Granadas Flashbang
-uplink-pirate-incendiarygrenade-box-desc = Uma caixa contendo 4 granadas incendiárias.
-uplink-pirate-incendiarygrenade-box-name = Caixa de Granadas Incendiárias
-uplink-pirate-light-rifle-magazine-box-big-desc = Uma caixa contendo 200 cartuchos 7.62x39mm.
-uplink-pirate-light-rifle-magazine-box-big-name = Caixa de munição (7.62x39mm FMJ)
-uplink-pirate-magazine-box-45_magnum-desc = Uma caixa contendo 4 speedloaders .45 magnum.
-uplink-pirate-magazine-box-45_magnum-name = Caixa de speedloaders .45 magnum
-uplink-pirate-shell-box-lethal-desc = Uma caixa contendo 16 cartuchos de escopeta calibre 12.
-uplink-pirate-shell-box-lethal-name = Caixa de cartuchos (letal)
-uplink-pirate-shrapnelgrenade-box-desc = Uma caixa contendo 4 granadas de estilhaço.
-uplink-pirate-shrapnelgrenade-box-name = Caixa de Granadas de Estilhaço
-uplink-pirate-smg-ammo-box-desc = Uma caixa contendo 60 cartuchos de pistola 9x19mm. Pode ser usado para carregar carregadores de SMG.
-uplink-pirate-smg-ammo-box-name = Caixa de munição (9x19mm FMJ)
-uplink-pirate-smokegrenade-box-desc = Uma caixa contendo 4 granadas de fumaça.
-uplink-pirate-smokegrenade-box-name = Caixa de Granadas de Fumaça
-uplink-subsonic-box-desc = Uma caixa de munição para o WSPR.
-uplink-subsonic-box-name = Caixa de rifle subsônico 7.62x39mm

@@ -7900,177 +7900,234 @@ ent-JugOmnizine = {ent-Jug}
     .suffix = Omnizina
 
 ent-AirlockHeavyCaptainLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Capitão, trancado.
 
 ent-AirlockHeavyCommand = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando
 
 ent-AirlockHeavyCommandFrontierBridgeLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Ponte Fronteira, trancada.
 
 ent-AirlockHeavyCommandFrontierCommandLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando de Fronteira, bloqueado.
 
 ent-AirlockHeavyGrandVizierLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Grande Vizir, trancado.
 
 ent-AirlockHeavyPDV = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = PDV
 
 ent-AirlockHeavyPDVCommandLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando PDV, bloqueado.
 
 ent-AirlockHeavyPDVLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = PDV, trancado.
 
 ent-AirlockHeavySecurity = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Fronteira
 
 ent-AirlockHeavySecurityFrontierBridgeLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Ponte Fronteira, trancada.
 
 ent-AirlockHeavySecurityFrontierCommandLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando de Fronteira, bloqueado.
 
 ent-AirlockHeavySecurityFrontierLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Fronteira, trancada.
 
 ent-AirlockHeavyTsfEngineeringLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia TSF, trancada.
 
 ent-AirlockHeavyTSFMC = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = TSFMC
 
 ent-AirlockHeavyTSFMCArmoryLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Armory da TMFMC, trancado.
 
 ent-AirlockHeavyTSFMCLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = TSFMC, trancado.
 
 ent-AirlockHeavyUSSP = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP
 
 ent-AirlockHeavyUSSPCommandLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando USSP, bloqueado.
 
 ent-AirlockHeavyUSSPLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP, Bloqueado
 
 ent-AirlockHeavyUSSPSecureLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP Seguro, trancado
 
 ent-AirlockHeavyViperCommandLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando do Grupo Viper, bloqueado.
 
 ent-AirlockHeavyViperLocked = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Grupo Viper, trancado.
 
 ent-AirlockGlassShuttleNfsdCapitalLocked = {ent-AirlockGlassShuttleNfsd}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = CAPITAL SOMENTE, TMFMC, Vidro, Acoplamento, Bloqueado
 
 ent-AirlockGlassShuttleNfsdOutpostLocked = {ent-AirlockGlassShuttleNfsd}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Apenas para fora, TMFMC, vidro, acoplagem, travado
 
 ent-AirlockShuttleNfsdCapitalLocked = {ent-AirlockShuttleNfsd}
+    .desc = {ent-Airlock.desc}
     .suffix = CAPITAL SOMENTE, TSFMC, Acoplamento, Trancado
 
 ent-AirlockShuttleNfsdOutpostLocked = {ent-AirlockShuttleNfsd}
+    .desc = {ent-Airlock.desc}
     .suffix = Apenas o melhor, TMFMC, acoplagem, travado
 
 ent-HighSecTSFMCLocked = {ent-HighSecDoor}
     .suffix = TSFMC, trancado.
 
 ent-AirlockTsfEngineering = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia TSF, trancada.
 
 ent-AirlockUSSP = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP, Bloqueado
 
 ent-AirlockUSSPCommand = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando USSP, bloqueado.
 
 ent-AirlockUSSPSecure = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP Seguro, trancado
 
 ent-AirlockViper = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Grupo Viper, trancado.
 
 ent-AirlockViperCommand = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando do Grupo Viper, bloqueado.
 
 ent-AirlockExternalGlassUSSPLocked = {ent-Airlock}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Externo, Glass, USSP, bloqueado.
 
 ent-AirlockExternalUSSPLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, USSP, bloqueado.
 
 ent-AirlockTsfEngineeringGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Engenharia TSF, trancada.
 
 ent-AirlockUSSPCommandGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando USSP, bloqueado.
 
 ent-AirlockUSSPGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = USSP, Bloqueado
 
 ent-AirlockUSSPSecureGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = USSP Seguro, trancado
 
 ent-AirlockViperCommandGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando do Grupo Viper, bloqueado.
 
 ent-AirlockViperGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Grupo Viper, trancado.
 
 ent-AirlockHatchGrandVizierLocked = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = Grande Vizir, trancado.
 
 ent-AirlockHatchPDVCommandLocked = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando PDV, bloqueado.
 
 ent-AirlockHatchUSSP = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP, Bloqueado
 
 ent-AirlockHatchUSSPCommand = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando USSP, bloqueado.
 
 ent-AirlockHatchUSSPSecure = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP Seguro, trancado
 
 ent-AirlockHatchViper = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = Grupo Viper, trancado.
 
 ent-AirlockHatchViperCommand = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando do Grupo Viper, bloqueado.
 
 ent-AirlockHeavyEngineering = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia
 
 ent-AirlockHeavyGrey = {ent-AirlockHeavy}
+    .desc = {ent-Airlock.desc}
     .suffix = Cinza
 
 ent-AirlockHeavyAssemblyCommand = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando
 
 ent-AirlockHeavyAssemblyEngineering = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia
 
 ent-AirlockHeavyAssemblyGlass = {ent-AirlockHeavyAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Vidro
 
 ent-AirlockHeavyAssemblyGrey = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Cinza
 
 ent-AirlockHeavyAssemblyPDV = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = PDV
 
 ent-AirlockHeavyAssemblySecurity = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Segurança.
 
 ent-AirlockHeavyAssemblyTSFMC = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = TSFMC
 
 ent-AirlockHeavyAssemblyUSSP = {ent-AirlockHeavyAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = USSP
 
 ent-HighSecUSSPCommandLocked = {ent-HighSecDoor}
@@ -8089,51 +8146,67 @@ ent-HighSecViperLocked = {ent-HighSecDoor}
     .suffix = Grupo Viper, trancado.
 
 ent-AirlockExternalGlassShuttleUSSPLocked = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = USSP, Bloqueado, Vidro
 
 ent-AirlockExternalGlassShuttleViperLocked = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Grupo Viper, bloqueado, vidro
 
 ent-AirlockExternalShuttleUSSPLocked = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Acoplamento, USSP, Trancado
 
 ent-AirlockExternalShuttleViperLocked = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, acoplagem, grupo Viper, trancado
 
 ent-AirlockGlassShuttleNfsdCapital = {ent-AirlockGlassShuttleNfsd}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = CAPITAL SOMENTE, TMFMC, Vidro, Acoplamento
 
 ent-AirlockGlassShuttleNfsdOutpost = {ent-AirlockGlassShuttleNfsd}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Apenas para fora, TMFMC, vidro, acoplagem
 
 ent-AirlockGlassShuttleOutpost = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = SOMENTE OUTPOST
 
 ent-AirlockGlassShuttleSyndicateCapital = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = CAPITAL SOMENTE, Sindicato, Vidro, Acoplamento
 
 ent-AirlockGlassShuttleSyndicateRogueLockedCapital = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = CAPITAL SOMENTE, Vampira, Trancada
 
 ent-AirlockGlassShuttleUSSPOutpostLocked = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = SOMENTE OUTPOST, USSP, Acoplamento, Trancado
 
 ent-AirlockShuttleNfsdCapital = {ent-AirlockShuttleNfsd}
+    .desc = {ent-Airlock.desc}
     .suffix = CAPITAL SOMENTE, TSFMC, Acoplamento
 
 ent-AirlockShuttleNfsdOutpost = {ent-AirlockShuttleNfsd}
+    .desc = {ent-Airlock.desc}
     .suffix = SOMENTE OUTPOST, TMFMC, Acoplamento.
 
 ent-AirlockShuttleOutpost = {ent-AirlockShuttle}
+    .desc = {ent-Airlock.desc}
     .suffix = SOMENTE OUTPOST
 
 ent-AirlockShuttleSyndicateCapital = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-Airlock.desc}
     .suffix = CAPITAL SOMENTE, Sindicato, Acoplamento
 
 ent-AirlockShuttleSyndicateRogueLockedCapital = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-Airlock.desc}
     .suffix = CAPITAL SOMENTE, Vampira, Trancada
 
 ent-AirlockShuttleUSSPOutpostLocked = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-Airlock.desc}
     .suffix = SOMENTE OUTPOST, USSP, Acoplamento, Trancado
 
 ent-PlasmaWindoorSecureRogueLocked = {ent-WindoorSecurePlasma}

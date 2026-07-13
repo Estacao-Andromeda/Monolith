@@ -5516,111 +5516,147 @@ ent-CondimentDispenserEmpty = {ent-CondimentDispenser}
 # From: _NF/Entities/Structures/Doors/Airlocks/access.yml
 
 ent-AirlockExternalGlassMailCarrierLocked = {ent-Airlock}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Correio, Vidro, Travado
 
 ent-AirlockExternalGlassNfsdLocked = {ent-Airlock}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = TSFMC, Vidro, Travado
 
 ent-AirlockExternalGlassRogueLocked = {ent-Airlock}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = PDV, Vidro, Travado
 
 ent-AirlockExternalMailCarrierLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Correio, Travado
 
 ent-AirlockFrontierBridgeGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Ponte Fronteira, Travado
 
 ent-AirlockFrontierBridgeLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Ponte Fronteira, Travado
 
 ent-AirlockFrontierCommandAtmosphericsGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Fronteira, Travado
 
 ent-AirlockFrontierCommandEngineeringGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Fronteira, Travado
 
 ent-AirlockFrontierCommandEngineeringLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando Fronteira, Travado
 
 ent-AirlockFrontierCommandGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Fronteira, Travado
 
 ent-AirlockFrontierCommandLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando Fronteira, Travado
 
 ent-AirlockFrontierGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Fronteira, Travado
 
 ent-AirlockFrontierLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Fronteira, Travado
 
 ent-AirlockGlassShuttleNfsdLocked = {ent-AirlockGlassShuttleNfsd}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = TSFMC, Vidro, Acoplamento, Travado
 
 ent-AirlockGlassShuttleSyndicateRogueLocked = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = PDV, Vidro, Travado
 
 ent-AirlockHatchRogueLocked = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = PDV, Travado
 
 ent-AirlockMailCarrierGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Correio, Travado
 
 ent-AirlockMailCarrierLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Correio, Travado
 
 ent-AirlockMaintFrontierBridgeLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Ponte Frontier, Travado
 
 ent-AirlockMercenaryGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Mercenário, Travado
 
 ent-AirlockMercenaryLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Mercenário, Travado
 
 ent-AirlockMiningGlassRogueLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = PDV, Vidro, Travado
 
 ent-AirlockNfsdArmoryGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Arsenal TSFMC, Travado
 
 ent-AirlockNfsdArmoryLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Arsenal TSFMC, Travado
 
 ent-AirlockNfsdBrigGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Brigada TSFMC, Travado
 
 ent-AirlockNfsdBrigLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Brigada TSFMC, Travado
 
 ent-AirlockNfsdDetectiveGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Detetive TSFMC, Travado
 
 ent-AirlockNfsdDetectiveLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Detetive TSFMC, Travado
 
 ent-AirlockNfsdGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = TSFMC, Travado
 
 ent-AirlockNfsdLawyerGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Advogado TSFMC, Travado
 
 ent-AirlockNfsdLawyerLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Advogado TSFMC, Travado
 
 ent-AirlockNfsdLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = TSFMC, Travado
 
 ent-AirlockRogueGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = PDV, Travado
 
 ent-AirlockSeviceFrontierLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Frontier, Travado
 
 ent-AirlockShuttleNfsdLocked = {ent-AirlockShuttleNfsd}
+    .desc = {ent-Airlock.desc}
     .suffix = TSFMC, Acoplamento, Travado
 
 ent-AirlockShuttleSyndicateRogueLocked = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-Airlock.desc}
     .suffix = PDV, Travado
 
 ent-HighSecFrontierCommandLocked = {ent-HighSecDoor}
@@ -5629,29 +5665,37 @@ ent-HighSecFrontierCommandLocked = {ent-HighSecDoor}
 # From: _NF/Entities/Structures/Doors/Airlocks/airlocks.yml
 
 ent-AirlockExternalGlassShuttleMcCargo = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Externo, McCargo, Vidro, Acoplamento
 
 ent-AirlockExternalGlassShuttleTransit = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Externo, TransportePúb, Vidro, Acoplamento
 
 ent-AirlockMedicalGlassLockedSecurity = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Travado, Segurança
 
 ent-AirlockMercenary = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Mercenário
 
 ent-AirlockMercenaryGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Mercenário
 
 ent-AirlockNfsd = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = TSFMC
 
 ent-AirlockNfsdGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = TSFMC
 
 # From: _NF/Entities/Structures/Doors/Airlocks/external.yml
 
 ent-AirlockExternalGlassNfsd = {ent-Airlock}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = TSFMC, Vidro
 
 # From: _NF/Entities/Structures/Doors/Airlocks/shuttle.yml
@@ -6799,6 +6843,7 @@ ent-ArgocyteEgg = ovo de argócito
 # From: _NF/Entities/Structures/Specific/bloodcult.yml
 
 ent-AirlockBloodCult = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Culte de Sangue
 
 ent-BloodCollector = coletor de sangue

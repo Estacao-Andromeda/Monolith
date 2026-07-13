@@ -1761,7 +1761,7 @@ ent-ShardCrystalRed = fragmento de cristal vermelho
 # From: Entities/Objects/Materials/ingots.yml
 # Abstract entity (referenceable by children)
 
-ent-IngotBase = 
+ent-IngotBase =
     .desc = Um lingote pesado de metal.
 
 ent-IngotGold = barra de ouro
@@ -1786,7 +1786,7 @@ ent-MaterialBananium1 = {ent-MaterialBananium}
 
 # Abstract entity (referenceable by children)
 
-ent-MaterialBase = 
+ent-MaterialBase =
     .desc = Uma matéria-prima.
 
 ent-MaterialBiomass = biomassa
@@ -1928,7 +1928,7 @@ ent-GoldOre1 = {ent-GoldOre}
 
 # Abstract entity (referenceable by children)
 
-ent-OreBase = 
+ent-OreBase =
     .desc = Um pedaço de minério não refinado.
 
 ent-PlasmaOre = minério de plasma
@@ -2097,7 +2097,7 @@ ent-ScrapTube = tubo de amostra estraçalhado
 # From: Entities/Objects/Materials/shards.yml
 # Abstract entity (referenceable by children)
 
-ent-ShardBase = 
+ent-ShardBase =
     .desc = É um fragmento de algum material desconhecido.
 
 ent-ShardGlass = caco de vidro
@@ -2189,7 +2189,7 @@ ent-SheetBrass10 = latão
 
 # Abstract entity (referenceable by children)
 
-ent-SheetMetalBase = 
+ent-SheetMetalBase =
     .desc = Uma chapa de metal, usado frequentemente na estação em várias aplicações.
 
 ent-SheetPlasteel = plastaço
@@ -2223,7 +2223,7 @@ ent-MaterialSheetMeat1 = {ent-MaterialSheetMeat}
 
 # Abstract entity (referenceable by children)
 
-ent-SheetOtherBase = 
+ent-SheetOtherBase =
     .desc = Uma chapa de material, usado frequentemente na estação em várias aplicações.
 
 ent-SheetPaper = papel
@@ -3356,7 +3356,7 @@ ent-FloorTileItemBar = piso de bar
 
 # Abstract entity (referenceable by children)
 
-ent-FloorTileItemBase = 
+ent-FloorTileItemBase =
     .desc = Estes poderiam servir como uma arma de arremesso bastante decente.
 
 ent-FloorTileItemBCircuit = piso de circuito azul
@@ -7167,414 +7167,551 @@ ent-SodaDispenserEmpty = {ent-SodaDispenser}
 # From: Entities/Structures/Doors/Airlocks/access.yml
 
 ent-AirlockArmoryGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Arsenal, Travado
 
 ent-AirlockArmoryLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Arsenal, Travado
 
 ent-AirlockAtmosphericsGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Atmosférico, Travado
 
 ent-AirlockAtmosphericsLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Atmosférico, Travado
 
 ent-AirlockBarGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Bar, Travado
 
 ent-AirlockBarKitchenGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-AirlockBarKitchenLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-AirlockBarLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Bar, Travado
 
 ent-AirlockBrigGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Brig, Travado
 
 ent-AirlockBrigLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Brig, Travado
 
 ent-AirlockCaptainGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Capitão, Travado
 
 ent-AirlockCaptainLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Capitão, Travado
 
 ent-AirlockCargoGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Carga, Travado
 
 ent-AirlockCargoLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Carga, Travado
 
 ent-AirlockCentralCommandGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Central, Travado
 
 ent-AirlockCentralCommandLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando Central, Travado
 
 ent-AirlockChapelGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Capela, Travado
 
 ent-AirlockChapelLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Capela, Travado
 
 ent-AirlockChemistryGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Química, Travado
 
 ent-AirlockChemistryLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Química, Travado
 
 ent-AirlockChiefEngineerGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeDeEngenharia, Travado
 
 ent-AirlockChiefEngineerLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeDeEngenharia, Travado
 
 ent-AirlockChiefMedicalOfficerGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeMédico, Travado
 
 ent-AirlockChiefMedicalOfficerLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeMédico, Travado
 
 ent-AirlockCommandGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando, Travado
 
 ent-AirlockCommandLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando, Travado
 
 ent-AirlockDetectiveGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Detetive, Travado
 
 ent-AirlockDetectiveLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Detetive, Travado
 
 ent-AirlockEngineeringGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Engenharia, Travado
 
 ent-AirlockEngineeringLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia, Travado
 
 ent-AirlockEVAGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = EVA, Travado
 
 ent-AirlockEVALocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = EVA, Travado
 
 ent-AirlockExternalAtmosphericsLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Atmosférico, Travado
 
 ent-AirlockExternalCargoLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Carga, Travado
 
 ent-AirlockExternalCommandLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Comando, Travado
 
 ent-AirlockExternalEngineeringLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Engenharia, Travado
 
 ent-AirlockExternalGlassAtmosphericsLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Atmosférico, Travado
 
 ent-AirlockExternalGlassCargoLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Carga, Travado
 
 ent-AirlockExternalGlassCommandLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Comando, Travado
 
 ent-AirlockExternalGlassEngineeringLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Engenharia, Travado
 
 ent-AirlockExternalGlassLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Travado
 
 ent-AirlockExternalGlassNukeopLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Nukeop, Travado
 
 ent-AirlockExternalGlassShuttleArrivals = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Chegadas, Vidro, Acoplamento
 
 ent-AirlockExternalGlassShuttleEmergencyLocked = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Emergência, Vidro, Acoplamento, Travado
 
 ent-AirlockExternalGlassShuttleEscape = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Fuga 3x4, Vidro, Acoplamento
 
 ent-AirlockExternalGlassShuttleLocked = {ent-AirlockGlassShuttle}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Acoplamento, Travado
 
 ent-AirlockExternalGlassShuttleNukeopLocked = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Nukeop, Travado, Vidro
 
 ent-AirlockExternalGlassShuttleSyndicateLocked = {ent-AirlockGlassShuttleSyndicate}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Sindicato, Travado, Vidro
 
 ent-AirlockExternalGlassSyndicateLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternalGlass.desc}
     .suffix = Externo, Vidro, Sindicato, Travado
 
 ent-AirlockExternalLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Travado
 
 ent-AirlockExternalNukeopLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Nukeop, Travado
 
 ent-AirlockExternalShuttleLocked = {ent-AirlockShuttle}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Acoplamento, Travado
 
 ent-AirlockExternalShuttleNukeopLocked = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Acoplamento, Nukeop, Travado
 
 ent-AirlockExternalShuttleSyndicateLocked = {ent-AirlockShuttleSyndicate}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Acoplamento, Sindicato, Travado
 
 ent-AirlockExternalSyndicateLocked = {ent-Airlock}
+    .desc = {ent-AirlockExternal.desc}
     .suffix = Externo, Sindicato, Travado
 
 ent-AirlockFreezerHydroponicsLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockFreezerKitchenHydroLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Cozinha/Hidroponia, Travado
 
 ent-AirlockFreezerLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockHatchSyndicate = {ent-AirlockHatch}
+    .desc = {ent-Airlock.desc}
     .suffix = Sindicato, Travado
 
 ent-AirlockHeadOfPersonnelGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-AirlockHeadOfPersonnelLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-AirlockHeadOfSecurityGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeDeSegurança, Travado
 
 ent-AirlockHeadOfSecurityLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeDeSegurança, Travado
 
 ent-AirlockHydroGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockHydroponicsLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockJanitorGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Zelador, Travado
 
 ent-AirlockJanitorLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Zelador, Travado
 
 ent-AirlockKitchenGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockKitchenLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockLawyerGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Advogado, Travado
 
 ent-AirlockLawyerLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Advogado, Travado
 
 ent-AirlockMaintArmoryLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Arsenal, Travado
 
 ent-AirlockMaintAtmoLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Atmosférico, Travado
 
 ent-AirlockMaintBarKitchenLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-AirlockMaintBarLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Bar, Travado
 
 ent-AirlockMaintCaptainLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Capitão, Travado
 
 ent-AirlockMaintCargoLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Carga, Travado
 
 ent-AirlockMaintChapelLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Capela, Travado
 
 ent-AirlockMaintChemLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Química, Travado
 
 ent-AirlockMaintChiefEngineerLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeDeEngenharia, Travado
 
 ent-AirlockMaintChiefMedicalOfficerLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeMédico, Travado
 
 ent-AirlockMaintCommandLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando, Travado
 
 ent-AirlockMaintCommonLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Comum, Travado
 
 ent-AirlockMaintDetectiveLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Detetive, Travado
 
 ent-AirlockMaintEngiLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia, Travado
 
 ent-AirlockMaintGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Travado
 
 ent-AirlockMaintHeadOfSecurityLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeDeSegurança, Travado
 
 ent-AirlockMaintHOPLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-AirlockMaintHydroLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockMaintIntLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Interior, Travado
 
 ent-AirlockMaintJanitorLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Zelador, Travado
 
 ent-AirlockMaintKitchenHydroLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Cozinha/Hidroponia, Travado
 
 ent-AirlockMaintKitchenLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockMaintLawyerLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Advogado, Travado
 
 ent-AirlockMaintLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Travado
 
 ent-AirlockMaintMedLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Médico, Travado
 
 ent-AirlockMaintQuartermasterLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = QuartelMestre, Travado
 
 ent-AirlockMaintResearchDirectorLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = DiretorDePesquisa, Travado
 
 ent-AirlockMaintRnDLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Ciência, Travado
 
 ent-AirlockMaintRnDMedLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Médico/Ciência, Travado
 
 ent-AirlockMaintSalvageLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Salvamento, Travado
 
 ent-AirlockMaintSecLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Segurança, Travado
 
 ent-AirlockMaintServiceLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Serviço, Travado
 
 ent-AirlockMaintTheatreLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Teatro, Travado
 
 ent-AirlockMedicalGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Médico, Travado
 
 ent-AirlockMedicalLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Médico, Travado
 
 ent-AirlockMedicalMorgueGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Necrotério, Travado
 
 ent-AirlockMedicalMorgueLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Necrotério, Travado
 
 ent-AirlockMedicalMorgueMaintLocked = {ent-AirlockMaint}
+    .desc = {ent-Airlock.desc}
     .suffix = Necrotério, Travado
 
 ent-AirlockMedicalScienceGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Médico/Ciência, Travado
 
 ent-AirlockMedicalScienceLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Médico/Ciência, Travado
 
 ent-AirlockMiningGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Mineração(Salvamento), Travado
 
 ent-AirlockMiningLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Mineração(Salvamento), Travado
 
 ent-AirlockQuartermasterGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = QuartelMestre, Travado
 
 ent-AirlockQuartermasterLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = QuartelMestre, Travado
 
 ent-AirlockResearchDirectorGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = DiretorDePesquisa, Travado
 
 ent-AirlockResearchDirectorLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = DiretorDePesquisa, Travado
 
 ent-AirlockSalvageGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Salvamento, Travado
 
 ent-AirlockSalvageLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Salvamento, Travado
 
 ent-AirlockScienceGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Ciência, Travado
 
 ent-AirlockScienceLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Ciência, Travado
 
 ent-AirlockSecurityGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança, Travado
 
 ent-AirlockSecurityLawyerGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança/Advogado, Travado
 
 ent-AirlockSecurityLawyerLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Segurança/Advogado, Travado
 
 ent-AirlockSecurityLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Segurança, Travado
 
 ent-AirlockServiceGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Serviço, Travado
 
 ent-AirlockServiceLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Serviço, Travado
 
 ent-AirlockSyndicateGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Sindicato, Travado
 
 ent-AirlockSyndicateLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Sindicato, Travado
 
 ent-AirlockSyndicateNukeopGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Nukeop, Travado
 
 ent-AirlockSyndicateNukeopLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Nukeop, Travado
 
 ent-AirlockTheatreGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Teatro, Travado
 
 ent-AirlockTheatreLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Teatro, Travado
 
 ent-AirlockVaultLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Cofre, Travado
 
 ent-AirlockVirologyGlassLocked = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Virologia, Travado
 
 ent-AirlockVirologyLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Virologia, Travado
 
 ent-AirlockXenoMaintLocked = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Manutenção, Travado
 
 ent-HighSecArmoryLocked = {ent-HighSecDoor}
@@ -7592,45 +7729,59 @@ ent-HighSecCommandLocked = {ent-HighSecDoor}
 # From: Entities/Structures/Doors/Airlocks/airlocks.yml
 
 ent-AirlockAtmospherics = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Atmosférico
 
 ent-AirlockAtmosphericsGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Atmosférico
 
 ent-AirlockCargo = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Carga
 
 ent-AirlockCargoGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Carga
 
 ent-AirlockCentralCommand = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando Central
 
 ent-AirlockCentralCommandGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Central
 
 ent-AirlockChemistry = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Química
 
 ent-AirlockChemistryGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Química
 
 ent-AirlockCommand = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando
 
 ent-AirlockCommandGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando
 
 ent-AirlockEngineering = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia
 
 ent-AirlockEngineeringGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Engenharia
 
 ent-AirlockFreezer = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Congelador
 
 ent-AirlockGlassXeno = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Xeno
 
 ent-AirlockHatch = escotilha hermética
@@ -7638,160 +7789,211 @@ ent-AirlockHatch = escotilha hermética
 ent-AirlockHatchMaintenance = escotilha de manutenção
 
 ent-AirlockHydroponics = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Hidroponia
 
 ent-AirlockHydroponicsGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Hidroponia
 
 ent-AirlockMaint = acesso de manutenção
 
 ent-AirlockMaintGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Manutenção
 
 ent-AirlockMedical = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Médico
 
 ent-AirlockMedicalGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Médico
 
 ent-AirlockMining = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Mineração(Salvamento)
 
 ent-AirlockMiningGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Mineração(Salvamento)
 
 ent-AirlockScience = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Ciência
 
 ent-AirlockScienceGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Ciência
 
 ent-AirlockSecurity = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Segurança
 
 ent-AirlockSecurityGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança
 
 ent-AirlockSyndicate = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Sindicato
 
 ent-AirlockSyndicateGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Sindicato
 
 ent-AirlockVirology = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Virologia
 
 ent-AirlockVirologyGlass = {ent-AirlockGlass}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Virologia
 
 ent-AirlockXeno = {ent-Airlock}
+    .desc = {ent-Airlock.desc}
     .suffix = Xeno
 
 # From: Entities/Structures/Doors/Airlocks/assembly.yml
 
 ent-AirlockAssemblyAtmospherics = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Atmosférico
 
 ent-AirlockAssemblyAtmosphericsGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Atmosférico, Vidro
 
 ent-AirlockAssemblyCargo = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Carga
 
 ent-AirlockAssemblyCargoGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Carga, Vidro
 
 ent-AirlockAssemblyCentralCommand = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = ComandoCentral
 
 ent-AirlockAssemblyCentralCommandGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = ComandoCentral, Vidro
 
 ent-AirlockAssemblyCommand = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Comando
 
 ent-AirlockAssemblyCommandGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Comando, Vidro
 
 ent-AirlockAssemblyEngineering = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Engenharia
 
 ent-AirlockAssemblyEngineeringGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Engenharia, Vidro
 
 ent-AirlockAssemblyExternal = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo
 
 ent-AirlockAssemblyExternalGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Externo, Vidro
 
 ent-AirlockAssemblyFreezer = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Congelador
 
 ent-AirlockAssemblyGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Vidro
 
 ent-AirlockAssemblyHighSec = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = AltaSegurança
 
 ent-AirlockAssemblyHydroponics = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Hidroponia
 
 ent-AirlockAssemblyHydroponicsGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Hidroponia, Vidro
 
 ent-AirlockAssemblyMaintenance = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Manutenção
 
 ent-AirlockAssemblyMaintenanceGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Manutenção, Vidro
 
 ent-AirlockAssemblyMedical = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Médico
 
 ent-AirlockAssemblyMedicalGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Médico, Vidro
 
 ent-AirlockAssemblyMining = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Mineração
 
 ent-AirlockAssemblyMiningGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Mineração, Vidro
 
 ent-AirlockAssemblyScience = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Ciência
 
 ent-AirlockAssemblyScienceGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Ciência, Vidro
 
 ent-AirlockAssemblySecurity = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Segurança
 
 ent-AirlockAssemblySecurityGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança, Vidro
 
 ent-AirlockAssemblyShuttle = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Navette
 
 ent-AirlockAssemblyShuttleGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Navette, Vidro
 
 ent-AirlockAssemblyShuttleSyndicate = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = NavetteSindicato
 
 ent-AirlockAssemblyShuttleSyndicateGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = NavetteSindicato, Vidro
 
 ent-AirlockAssemblySyndicate = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Sindicato
 
 ent-AirlockAssemblySyndicateGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Sindicato, Vidro
 
 ent-AirlockAssemblyVirology = {ent-AirlockAssembly}
+    .desc = {ent-Airlock.desc}
     .suffix = Virologia
 
 ent-AirlockAssemblyVirologyGlass = {ent-AirlockAssembly}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Virologia, Vidro
 
 ent-PinionAirlockAssembly = montagem de airlock
@@ -7811,6 +8013,7 @@ ent-Airlock = airlock
     .desc = Abre, fecha, e talvez te esmague.
 
 ent-AirlockGlass = airlock de vidro
+    .desc = {ent-Airlock.desc}
 
 # From: Entities/Structures/Doors/Airlocks/clockwork.yml
 
@@ -7827,6 +8030,7 @@ ent-AirlockExternal = {ent-Airlock}
     .desc = Abre, fecha, talvez te esmague, e pode ter apenas espaço atrás dele.
 
 ent-AirlockExternalGlass = {ent-Airlock}
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Vidro, Externo
 
 # From: Entities/Structures/Doors/Airlocks/highsec.yml
@@ -10143,7 +10347,7 @@ ent-DisposalUnit = unidade de descarte
 
 # Abstract entity (referenceable by children)
 
-ent-DisposalUnitBase = 
+ent-DisposalUnitBase =
     .desc = Uma unidade de descarte de resíduos pneumática.
 
 ent-MailingUnit = unidade de correio
@@ -11269,7 +11473,7 @@ ent-InvisibleCrate = {ent-CrateGeneric}
 # From: Entities/Structures/Storage/filing_cabinets.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseFilingCabinet = 
+ent-BaseFilingCabinet =
     .suffix = Vazio
     .desc = Um arquivo para todas as suas necessidades de arquivamento.
 
@@ -14696,10 +14900,10 @@ ent-MassArrestObjective = Coloque todos como procurados
 ent-NinjaSurviveObjective = Sobreviva
     .desc = Você não seria um ninja muito bom se morresse, agora seria?
 
-ent-SpiderChargeObjective = 
+ent-SpiderChargeObjective =
     .desc = Esta bomba pode ser detonada em um local específico. Note que a bomba não funcionará em nenhum outro lugar!
 
-ent-StealResearchObjective = 
+ent-StealResearchObjective =
     .desc = Suas luvas podem ser usadas para hackear um servidor de pesquisa e roubar seus preciosos dados. Se a ciência tem sido preguiçosa você terá que começar a trabalhar.
 
 ent-TerrorObjective = Chame uma ameaça
@@ -14718,16 +14922,16 @@ ent-DieObjective = Morra uma morte gloriosa
 ent-EscapeShuttleObjective = Fuja para a centcomm vivo e sem restrições.
     .desc = Um de nossos agentes secretos irá debrief você quando você chegar. Não apareça algemado.
 
-ent-KillRandomHeadObjective = 
+ent-KillRandomHeadObjective =
     .desc = Precisamos que esta cabeça desapareça e você provavelmente sabe por quê. Boa sorte, agente.
 
-ent-KillRandomPersonObjective = 
+ent-KillRandomPersonObjective =
     .desc = Faça de como você goste, apenas certifique-se de que eles não cheguem à centcomm.
 
-ent-RandomTraitorAliveObjective = 
+ent-RandomTraitorAliveObjective =
     .desc = Identifique-se por seu próprio risco. Apenas precisamos que eles estejam vivos.
 
-ent-RandomTraitorProgressObjective = 
+ent-RandomTraitorProgressObjective =
     .desc = Identifique-se por seu próprio risco. Apenas precisamos que eles tenham sucesso.
 
 # From: Objectives/wizard.yml
@@ -18321,7 +18525,7 @@ ent-ClothingOuterWinterWeb = casaco de inverno de tecido
 # From: Entities/Clothing/Shoes/base_clothingshoes.yml
 # Abstract entity (referenceable by children)
 
-ent-ClothingShoesBaseWinterBoots = 
+ent-ClothingShoesBaseWinterBoots =
     .desc = Botas fofinhas para ajudar a sobreviver até mesmo aos invernos mais frios.
 
 # From: Entities/Clothing/Shoes/boots.yml
@@ -19217,7 +19421,7 @@ ent-ClothingRandomSpawner = roupa colorida aleatória
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingUniformRandom = 
+ent-ClothingUniformRandom =
     .suffix = Visual aleatório
     .desc = Gerado por redes neurais baseado nas últimas tendências da moda.
 
@@ -19276,7 +19480,7 @@ ent-ClothingUniformJumpsuitChameleon = macacão preto
 
 # From: Entities/Debugging/clicktest.yml
 
-ent-ClickTestBase = 
+ent-ClickTestBase =
     .suffix = DEBUG
 
 ent-ClickTestFixedCornerInvisible = ClickTestFixedCornerInvisible
@@ -19328,7 +19532,7 @@ ent-DebugItemShapeWeird = item de forma estranha
 
 # From: Entities/Debugging/options_visualizer.yml
 
-ent-OptionsVisualizerTest = 
+ent-OptionsVisualizerTest =
     .suffix = DEBUG
 
 # From: Entities/Debugging/spanisharmyknife.yml
@@ -19482,7 +19686,7 @@ ent-RadiationPulse = anomalia cintilante
 
 # From: Entities/Effects/shuttle.yml
 
-ent-FtlVisualizerEntity = 
+ent-FtlVisualizerEntity =
     .desc = Visualizador para chegadas de nave. Você não deveria ver isso!
 
 # From: Entities/foldable.yml
@@ -20610,7 +20814,7 @@ ent-MobSnake = cobra
 # From: Entities/Mobs/NPCs/argocyte.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMobArgocyte = 
+ent-BaseMobArgocyte =
     .suffix = IA
     .desc = Um alienígena perigoso encontrado no lado errado dos planetas, conhecido por sua propensão a mastigar ruínas.
 
@@ -21330,7 +21534,7 @@ ent-ActionToggleLighting = Alternar Iluminação
 
 # Abstract entity (referenceable by children)
 
-ent-Incorporeal = 
+ent-Incorporeal =
     .desc = Mobs sem corpos físicos
 
 # Abstract entity (referenceable by children)
@@ -21625,15 +21829,15 @@ ent-VisitorZookeeperSpawner = gerador de zoologista visitante
 
 # From: Entities/Mobs/Player/silicon.yml
 
-ent-AiHeld = 
+ent-AiHeld =
     .desc = Componentes adicionados / removidos de uma entidade que é inserida em um núcleo de IA.
 
-ent-AiHeldIntellicard = 
+ent-AiHeldIntellicard =
     .desc = Componentes adicionados / removidos de uma entidade que é inserida em um Intellicard.
 
 # Abstract entity (referenceable by children)
 
-ent-AiHolder = 
+ent-AiHolder =
     .desc = Manipula interações de IA através de holocartas + núcleos de IA
 
 ent-AntimovCircuitBoard = placa de lei (Antimov)
@@ -21777,7 +21981,7 @@ ent-BaseMobMoth = Enzo Fluff da Silva
 
 ent-BaseMobReptilian = Urisst' Mzhand
 
-ent-MobReptilianDummy = 
+ent-MobReptilianDummy =
     .desc = Um réptil dummy destinado a ser usado na configuração de personagem.
 
 # From: Entities/Mobs/Species/skeleton.yml
@@ -22678,7 +22882,7 @@ ent-FoodBagel = beigel
 
 # Abstract entity (referenceable by children)
 
-ent-FoodBagelBase = 
+ent-FoodBagelBase =
     .desc = Um beigel delicioso.
 
 ent-FoodBagelCotton = beigel de algodão
@@ -22882,7 +23086,7 @@ ent-FoodCakePumpkinSlice = fatia de bolo de abóbora
 
 # Abstract entity (referenceable by children)
 
-ent-FoodCakeSliceBase = 
+ent-FoodCakeSliceBase =
     .desc = Apenas uma fatia de bolo, é suficiente para todos.
 
 ent-FoodCakeSlime = bolo de slime
@@ -22979,7 +23183,7 @@ ent-FoodDonutApple = donut de maçã
 
 # Abstract entity (referenceable by children)
 
-ent-FoodDonutBase = 
+ent-FoodDonutBase =
     .desc = Combina great com café robusto.
 
 ent-FoodDonutBluePumpkin = donut de abóbora azul
@@ -23208,7 +23412,7 @@ ent-FoodPiePumpkinSlice = fatia de torta de abóbora
 
 # Abstract entity (referenceable by children)
 
-ent-FoodPieSliceBase = 
+ent-FoodPieSliceBase =
     .desc = Uma fatia de torta. Tasty!
 
 ent-FoodPieXeno = torta de xeno
@@ -23625,7 +23829,7 @@ ent-FoodEgg = ovo
 
 # Abstract entity (referenceable by children)
 
-ent-FoodEggBase = 
+ent-FoodEggBase =
     .desc = Um ovo!
 
 ent-FoodEggBoiled = ovo cozido
@@ -23691,7 +23895,7 @@ ent-FoodBadRecipe = bagunça queimada
 
 # Abstract entity (referenceable by children)
 
-ent-FoodBakingBase = 
+ent-FoodBakingBase =
     .desc = Usado em várias receitas.
 
 ent-FoodButter = tablete de manteiga
@@ -23821,7 +24025,7 @@ ent-DisgustingSweptSoup = miso cola salgado doce
 
 # Abstract entity (referenceable by children)
 
-ent-FoodMealBase = 
+ent-FoodMealBase =
     .desc = Uma refeição deliciosa, cozida com amor.
 
 ent-FoodMealBearsteak = filet migrawr
@@ -24103,7 +24307,7 @@ ent-FoodNoodles = espaguete
 
 # Abstract entity (referenceable by children)
 
-ent-FoodNoodlesBase = 
+ent-FoodNoodlesBase =
     .desc = Agora isso é uma massa boa!
 
 ent-FoodNoodlesBoiled = macarrão cozido
@@ -24399,7 +24603,7 @@ ent-FoodPacketSyndiTrash = caixa de syndi-cakes
 
 # Abstract entity (referenceable by children)
 
-ent-FoodPacketTrash = 
+ent-FoodPacketTrash =
     .desc = Isto é lixo.
 
 ent-FoodSnackBoritos = boritos
@@ -24635,7 +24839,7 @@ ent-FoodTacoShell = casco de taco
 # From: Entities/Objects/Consumable/Smokeables/base_smokeables.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseSmokable = 
+ent-BaseSmokable =
     .desc = Se você quer ter câncer, pode também fazê-lo com estilo.
 
 # From: Entities/Objects/Consumable/Smokeables/Cigarettes/cartons.yml
@@ -24849,7 +25053,7 @@ ent-BaseRock = rocha
 
 # Abstract entity (referenceable by children)
 
-ent-BaseTree = 
+ent-BaseTree =
     .desc = Sim, é uma árvore.
 
 ent-FloraStalagmite = estalagmite
@@ -26720,7 +26924,7 @@ ent-ImmovableRodWizard = {ent-ImmovableRod}
 # From: Entities/Objects/Fun/Instruments/base_instruments.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseHandheldInstrument = 
+ent-BaseHandheldInstrument =
     .desc = Isso é um instrumento.
 
 # Abstract entity (referenceable by children)
