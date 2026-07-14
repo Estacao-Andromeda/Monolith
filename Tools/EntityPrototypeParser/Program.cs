@@ -84,11 +84,11 @@ class Program
         // Build casing normalization map
         BuildCasingNormalizationMap(LocaleOutputPath);
 
-        // Backup existing prototypes.ftl files for pt-BR locale (translation preservation)
+        // Backup existing entities.ftl files for pt-BR locale (translation preservation)
         if (TargetLocale == "pt-BR")
         {
-            Console.WriteLine("Backing up existing prototypes.ftl files...");
-            BackupExistingPrototypesFtl(LocaleOutputPath);
+            Console.WriteLine("Backing up existing entities.ftl files...");
+            BackupExistingEntitiesFtl(LocaleOutputPath);
             Console.WriteLine();
         }
 
@@ -304,7 +304,7 @@ class Program
         }
     }
 
-    static void BackupExistingPrototypesFtl(string localePath)
+    static void BackupExistingEntitiesFtl(string localePath)
     {
         var backupDir = Path.Combine(localePath, "_backup");
 
@@ -315,8 +315,8 @@ class Program
         }
         Directory.CreateDirectory(backupDir);
 
-        // Find all prototypes.ftl files
-        foreach (var ftlFile in Directory.GetFiles(localePath, "prototypes.ftl", SearchOption.AllDirectories))
+        // Find all entities.ftl files
+        foreach (var ftlFile in Directory.GetFiles(localePath, "entities.ftl", SearchOption.AllDirectories))
         {
             // Skip if already in _backup or _generated
             if (ftlFile.Contains("_backup") || ftlFile.Contains("_generated"))
@@ -332,7 +332,7 @@ class Program
 
         if (_backedUpFiles == 0)
         {
-            Console.WriteLine("  No existing prototypes.ftl files found to backup.");
+            Console.WriteLine("  No existing entities.ftl files found to backup.");
         }
     }
 
@@ -352,7 +352,7 @@ class Program
             return;
         }
 
-        // Step 1: Parse ALL backed up prototypes.ftl files into a single dictionary
+        // Step 1: Parse ALL backed up entities.ftl files into a single dictionary
         var allBackupTranslations = new Dictionary<string, string>();
 
         foreach (var backupFile in Directory.GetFiles(backupDir, "*.ftl", SearchOption.AllDirectories))
