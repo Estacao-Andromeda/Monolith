@@ -22509,3 +22509,16 @@ Entries:
   id: 2487
   time: '2026-07-14T18:46:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4230
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        Added an industrial-sized uranium centrifuge to drillsite, and a NFR.
+        Much better at the job, I assure you.
+    - type: Tweak
+      message: >-
+        Buffed the drills on the derelict drillsite speed by 10x. Increased
+        power draw too.
+  id: 2488
+  time: '2026-07-14T18:55:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4257
