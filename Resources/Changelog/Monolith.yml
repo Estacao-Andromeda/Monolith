@@ -22483,3 +22483,12 @@ Entries:
   id: 2484
   time: '2026-07-14T18:21:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4270
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Slowed parallax background scrolling to compensate for our significantly
+        higher top speeds
+  id: 2485
+  time: '2026-07-14T18:26:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4277
