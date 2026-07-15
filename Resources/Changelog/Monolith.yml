@@ -22531,3 +22531,12 @@ Entries:
   id: 2489
   time: '2026-07-14T19:15:43.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4254
+- author: kasature90
+  changes:
+    - type: Add
+      message: >-
+        90mm Flak ammo. Make it in a lathe or buy it at cargo, put it in your
+        Dravons.
+  id: 2490
+  time: '2026-07-15T03:25:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4278
