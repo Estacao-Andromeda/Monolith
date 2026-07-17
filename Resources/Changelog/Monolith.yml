@@ -22598,3 +22598,10 @@ Entries:
   id: 2495
   time: '2026-07-17T08:30:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4297
+- author: kasature90
+  changes:
+    - type: Fix
+      message: Fixed cases where guns could get negative spread from attachments.
+  id: 2496
+  time: '2026-07-17T08:58:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4301
