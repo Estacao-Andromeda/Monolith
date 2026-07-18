@@ -22659,3 +22659,14 @@ Entries:
   id: 2502
   time: '2026-07-18T08:37:13.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4288
+- author: EldritchPineapple
+  changes:
+    - type: Add
+      message: Added two frontal fangs to the Saintie for defense
+    - type: Tweak
+      message: >-
+        reworked the saintie external look with lattices, added some armor
+        (changed a few walls) to make it a little more survivable in some places
+  id: 2503
+  time: '2026-07-18T08:38:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4291
