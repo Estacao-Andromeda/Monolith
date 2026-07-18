@@ -22641,3 +22641,12 @@ Entries:
   id: 2500
   time: '2026-07-18T08:09:34.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4302
+- author: Corrupt142
+  changes:
+    - type: Tweak
+      message: Added ore magnets to eris and shiv
+    - type: Tweak
+      message: Remapped shiv
+  id: 2501
+  time: '2026-07-18T08:34:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4294
