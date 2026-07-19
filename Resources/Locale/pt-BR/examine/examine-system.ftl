@@ -1,11 +1,10 @@
 ## Sistema de Examinar
 
-examine-system-entity-does-not-exist =isso entidade doesn't existir
+examine-system-entity-does-not-exist = Essa entidade não existe!
 
-examine-system-cant-see-entity =você pode't fazer fora qualquer isso é.
+examine-system-cant-see-entity = Você não pode ver bem o que é isso.
 
 examine-verb-name = Básico
 
 examinable-anchored =Está [color=darkgreen]ancorado[/color] ao chão.
-
-examinable-unanchored =isso é [color=darkred]unanchored[/color] do Chão.
+examinable-unanchored =Está [color=darkred]desancorado[/color] do chão.

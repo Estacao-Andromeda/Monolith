@@ -2097,7 +2097,7 @@ ent-ScrapTube = tubo de amostra estraçalhado
 # From: Entities/Objects/Materials/shards.yml
 # Abstract entity (referenceable by children)
 
-ent-ShardBase =
+ent-ShardBase = caco de vidro
     .desc = É um fragmento de algum material desconhecido.
 
 ent-ShardGlass = caco de vidro
@@ -2119,19 +2119,23 @@ ent-ShardGlassUranium = caco de vidro de urânio
 
 ent-SheetClockworkGlass = vidro mecânico
     .suffix = Completo
-    .desc = Uma chapa de vidro endurecido com latão, usado principalmente por entusiastas de clockwork e remanescentes de cultos ratvarianos.
+    .desc = Uma chapa de vidro endurecido com latão, usado principalmente por entusiastas de estética mecânica e remanescentes de cultos ratvarianos.
 
-ent-SheetClockworkGlass1 = vidro mecânico
+ent-SheetClockworkGlass1 = {ent-SheetClockworkGlass}
     .suffix = Único
+    .desc = {ent-SheetClockworkGlass.desc}
 
-ent-SheetGlass = {ent-SheetGlassBase}
+ent-SheetGlass = vidro
     .suffix = Completo
+    .desc = {ent-SheetGlassBase.desc}
 
 ent-SheetGlass1 = {ent-SheetGlassBase}
     .suffix = Único
+    .desc = {ent-SheetGlassBase.desc}
 
 ent-SheetGlass10 = {ent-SheetGlassBase}
     .suffix = 10
+    .desc = {ent-SheetGlassBase.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -2143,37 +2147,42 @@ ent-SheetGlassLingering0 = {ent-SheetGlassBase}
 
 ent-SheetPGlass = vidro de plasma
     .suffix = Completo
-    .desc = Uma chapa de plasma translúcido.
+    .desc = Uma chapa de vidro de plasma translúcido.
 
-ent-SheetPGlass1 = vidro de plasma
+ent-SheetPGlass1 = {ent-SheetPGlass}
     .suffix = Único
+    .desc = {ent-SheetPGlass.desc}
 
 ent-SheetRGlass = vidro reforçado
     .suffix = Completo
     .desc = Uma chapa de vidro reforçado.
 
-ent-SheetRGlass1 = vidro reforçado
+ent-SheetRGlass1 = {ent-SheetRGlass}
     .suffix = Único
+    .desc = {ent-SheetRGlass.desc}
 
 ent-SheetRPGlass = vidro de plasma reforçado
     .suffix = Completo
     .desc = Uma chapa de plasma translúcido reforçado.
 
-ent-SheetRPGlass1 = vidro de plasma reforçado
+ent-SheetRPGlass1 = {ent-SheetRPGlass}
     .suffix = Único
+    .desc = {ent-SheetRPGlass.desc}
 
 ent-SheetRUGlass = vidro de urânio reforçado
     .desc = Uma chapa de urânio reforçado.
 
-ent-SheetRUGlass1 = vidro de urânio reforçado
+ent-SheetRUGlass1 = {ent-SheetRUGlass}
     .suffix = Único
+    .desc = {ent-SheetRUGlass.desc}
 
 ent-SheetUGlass = vidro de urânio
     .suffix = Completo
     .desc = Uma chapa de vidro de urânio.
 
-ent-SheetUGlass1 = vidro de urânio
+ent-SheetUGlass1 = {ent-SheetUGlass}
     .suffix = Único
+    .desc = {ent-SheetUGlass.desc}
 
 # From: Entities/Objects/Materials/Sheets/metal.yml
 
@@ -2181,86 +2190,109 @@ ent-SheetBrass = latão
     .suffix = Completo
     .desc = Uma chapa de latão, usado principalmente por entusiastas de clockwork e remanescentes de cultos ratvarianos.
 
-ent-SheetBrass1 = latão
+ent-SheetBrass1 = {ent-SheetBrass}
     .suffix = Único
+    .desc = {ent-SheetBrass.desc}
 
-ent-SheetBrass10 = latão
+ent-SheetBrass10 = {ent-SheetBrass}
     .suffix = 10
+    .desc = {ent-SheetBrass.desc}
 
 # Abstract entity (referenceable by children)
 
-ent-SheetMetalBase =
+ent-SheetMetalBase = aço
     .desc = Uma chapa de metal, usado frequentemente na estação em várias aplicações.
 
-ent-SheetPlasteel = plastaço
+ent-SheetPlasteel = plastiaço
     .suffix = Completo
+    .desc = Uma chapa de metal reforçada, usado frequentemente na estação em várias aplicações.
 
-ent-SheetPlasteel1 = plastaço
+ent-SheetPlasteel1 = {ent-SheetPlasteel}
     .suffix = Único
+    .desc = {ent-SheetPlasteel.desc}
 
-ent-SheetPlasteel10 = plastaço
+ent-SheetPlasteel10 = {ent-SheetPlasteel}
     .suffix = 10
+    .desc = {ent-SheetPlasteel.desc}
 
 ent-SheetSteel = aço
     .suffix = Completo
+    .desc = Uma chapa de metal, usado frequentemente na estação em várias aplicações.
 
-ent-SheetSteel1 = aço
+ent-SheetSteel1 = {ent-SheetSteel}
     .suffix = Único
+    .desc = {ent-SheetSteel.desc}
 
-ent-SheetSteel10 = aço
+ent-SheetSteel10 = {ent-SheetSteel}
     .suffix = 10
+    .desc = {ent-SheetSteel.desc}
 
 ent-SheetSteelLingering0 = {ent-SheetSteel}
     .suffix = Persistente, 0
+    .desc = {ent-SheetSteel.desc}
 
 # From: Entities/Objects/Materials/Sheets/other.yml
 
 ent-MaterialSheetMeat = chapa de carne
     .suffix = Completa
+    .desc = Uma chapa de carne. Grotesco.
 
 ent-MaterialSheetMeat1 = {ent-MaterialSheetMeat}
     .suffix = Única
+    .desc = {ent-MaterialSheetMeat}
 
 # Abstract entity (referenceable by children)
 
-ent-SheetOtherBase =
+ent-SheetOtherBase = chapa de material
     .desc = Uma chapa de material, usado frequentemente na estação em várias aplicações.
 
 ent-SheetPaper = papel
     .suffix = Completo
+    .desc = Folhas de papel, específicas para diagramas.
 
-ent-SheetPaper1 = papel
+ent-SheetPaper1 = {ent-SheetPaper}
     .suffix = Único
+    .desc = {ent-SheetPaper.desc}
 
 ent-SheetPlasma = plasma
     .suffix = Completo
+    .desc = Chapas de plasma, prontas para uso o em várias aplicações.
 
 ent-SheetPlasma1 = plasma
     .suffix = Único
+    .desc = {ent-SheetPlasma.desc}
 
 ent-SheetPlasma10 = {ent-SheetPlasma}
     .suffix = 10
+    .desc = {ent-SheetPlasma.desc}
 
 ent-SheetPlastic = plástico
     .suffix = Completo
+    .desc = Chapas de plástico, prontas para o uso em várias aplicações.
 
 ent-SheetPlastic1 = plástico
     .suffix = Único
+    .desc = {ent-SheetPlastic.desc}
 
 ent-SheetPlastic10 = plástico
     .suffix = 10
+    .desc = {ent-SheetPlastic.desc}
 
 ent-SheetUranium = urânio
     .suffix = Completo
+    .desc = Chapas de urânio não ativados, prontas para o uso em várias aplicações. Não ingerir.
 
 ent-SheetUranium1 = urânio
     .suffix = Único
+    .desc = {ent-SheetUranium.desc}
 
 ent-SheetUranium10 = urânio
     .suffix = 10
+    .desc = {ent-SheetUranium.desc}
 
 ent-SheetUranium30 = urânio
     .suffix = 30
+    .desc = {ent-SheetUranium.desc}
 
 # From: Entities/Objects/Misc/arabianlamp.yml
 
@@ -2270,17 +2302,20 @@ ent-ArabianLamp = lâmpada
 # From: Entities/Objects/Misc/bedsheets.yml
 # Abstract entity (referenceable by children)
 
-ent-BedsheetBase = BedsheetBase
+ent-BedsheetBase = lençol
     .desc = Um lençol de linho surpreendentemente macio.
 
 ent-BedsheetBlack = lençol preto
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetBlue = lençol azul
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetBrigmedic = lençol de médico da brigada
     .desc = Não é pior que algodão.
 
 ent-BedsheetBrown = lençol marrom
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetCaptain = lençol do capitão
     .desc = Tem um símbolo da Nanotrasen nele, e foi tecido com um tipo revolucionário de linha garantido para ter 0,01% de permeabilidade para a maioria das substâncias não-químicas, popular entre a maioria dos capitães modernos.
@@ -2304,8 +2339,10 @@ ent-BedsheetCult = lençol de culto
     .desc = Você pode sonhar com Nar'Sie se dormir com isso. Parece bastante esfarrapado e brilha com uma presença eldritch.
 
 ent-BedsheetGreen = lençol verde
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetGrey = lençol cinza
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetHOP = lençol do chefe de pessoal
     .desc = É decorado com um emblema de chave. Para aqueles momentos raros em que você pode descansar e aconchegar com Ian sem alguém gritando por você no rádio.
@@ -2314,6 +2351,7 @@ ent-BedsheetHOS = lençol do chefe de segurança
     .desc = É decorado com um emblema de escudo. Enquanto o crime não dorme, você dorme, mas você ainda é A LEI!
 
 ent-BedsheetIan = lençol do Ian
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetMedical = lençol médico
     .desc = É um cobertor esterilizado comumente usado no Medbay. A esterilização é anulada se um virologista estiver presente a bordo da estação.
@@ -2325,29 +2363,37 @@ ent-BedsheetNT = lençol da NT
     .desc = Tem o logo da Nanotrasen nele e uma aura de dever.
 
 ent-BedsheetOrange = lençol laranja
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetPurple = lençol roxo
+    .desc = {ent-BedsheetBase.desc}
 
-ent-BedsheetQM = lençol do quartermestre
+ent-BedsheetQM = lençol do intendente de logística
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetRainbow = lençol arco-íris
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetRD = lençol do diretor de pesquisa
     .desc = Parece ter um emblema de béquer, e é feito de material resistente ao fogo, embora provavelmente não vá proteger você contra incêndios com os quais você está familiarizado todos os dias.
 
 ent-BedsheetRed = lençol vermelho
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetSyndie = lençol do Sindicato
     .desc = Tem um emblema do Sindicato e tem uma aura do mal.
 
 ent-BedsheetUSA = lençol dos EUA
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetWhite = lençol branco
+    .desc = {ent-BedsheetBase.desc}
 
 ent-BedsheetWiz = lençol de mago
     .desc = Um tecido especial encantado com magia para que você possa ter uma noite encantada. Até brilha!
 
 ent-BedsheetYellow = lençol amarelo
+    .desc = {ent-BedsheetBase.desc}
 
 # From: Entities/Objects/Misc/books_author.yml
 
@@ -2527,9 +2573,11 @@ ent-BriefcaseBase = {ent-BaseStorageItem}
     .desc = Útil para carregar itens em suas mãos.
 
 ent-BriefcaseBrown = maleta marrom
+    .desc = {ent-BriefcaseBase.desc}
 
 ent-BriefcaseSyndie = {ent-BriefcaseBrown}
     .suffix = Sindicato, Vazia
+    .desc = {ent-BriefcaseBase.desc}
 
 # From: Entities/Objects/Misc/broken_bottle.yml
 
@@ -2547,50 +2595,71 @@ ent-Candle = vela
     .desc = Um pavio fino passando pela gordura.
 
 ent-CandleBlack = vela preta
+    .desc = {ent-Candle.desc}
 
 ent-CandleBlackInfinite = vela preta mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleBlackSmall = vela preta pequena
+    .desc = {ent-Candle.desc}
 
 ent-CandleBlackSmallInfinite = vela preta pequena mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleBlue = vela azul
+    .desc = {ent-Candle.desc}
 
 ent-CandleBlueInfinite = vela azul mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleBlueSmall = vela azul pequena
+    .desc = {ent-Candle.desc}
 
 ent-CandleBlueSmallInfinite = vela azul pequena mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleGreen = vela verde
+    .desc = {ent-Candle.desc}
 
 ent-CandleGreenInfinite = vela verde mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleGreenSmall = vela verde pequena
+    .desc = {ent-Candle.desc}
 
 ent-CandleGreenSmallInfinite = vela verde pequena mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleInfinite = vela mágica
     .suffix = Decorativa
     .desc = Ou é magia ou alta tecnologia, mas esta vela nunca se apaga. Por outro lado, sua chama é bem fria.
 
 ent-CandlePurple = vela roxa
+    .desc = {ent-Candle.desc}
 
 ent-CandlePurpleInfinite = vela roxa mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandlePurpleSmall = vela roxa pequena
+    .desc = {ent-Candle.desc}
 
 ent-CandlePurpleSmallInfinite = vela roxa pequena mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleRed = vela vermelha
+    .desc = {ent-Candle.desc}
 
 ent-CandleRedInfinite = vela vermelha mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleRedSmall = vela vermelha pequena
+    .desc = {ent-Candle.desc}
 
 ent-CandleRedSmallInfinite = vela vermelha pequena mágica
+    .desc = {ent-CandleInfinite.desc}
 
 ent-CandleSmall = vela pequena
+    .desc = {ent-Candle.desc}
 
 # From: Entities/Objects/Misc/candy_bowl.yml
 
@@ -2599,35 +2668,45 @@ ent-CandyBowl = tigela de doces
 
 # From: Entities/Objects/Misc/carpets.yml
 
+ent-FloorCarpetItemRed = carpete
+    .suffix = Vermelho
+    .desc = Um lindo carpete.
+
 ent-FloorCarpetItemBlack = {ent-FloorCarpetItemRed}
     .suffix = Preto
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemBlue = {ent-FloorCarpetItemRed}
     .suffix = Azul
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemCyan = {ent-FloorCarpetItemRed}
     .suffix = Ciano
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemGreen = {ent-FloorCarpetItemRed}
     .suffix = Verde
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemOrange = {ent-FloorCarpetItemRed}
     .suffix = Laranja
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemPink = {ent-FloorCarpetItemRed}
     .suffix = Rosa
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemPurple = {ent-FloorCarpetItemRed}
     .suffix = Roxo
-
-ent-FloorCarpetItemRed = carpete
-    .suffix = Vermelho
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemSkyBlue = {ent-FloorCarpetItemRed}
-    .suffix = Azul Celeste
+    .suffix = Azul Céu
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 ent-FloorCarpetItemWhite = {ent-FloorCarpetItemRed}
     .suffix = Branco
+    .desc = {ent-FloorCarpetItemRed.desc}
 
 # From: Entities/Objects/Misc/cds.yml
 
@@ -2745,62 +2824,90 @@ ent-IceCrust = crosta de gelo
 
 ent-AgentIDCard = cartão de ID de contratista
     .suffix = Agente
+    .desc = {ent-IDCardStandard.desc}
 
 ent-AtmosIDCard = cartão de ID de técnico atmosférico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-BartenderIDCard = cartão de ID de barman
+    .desc = {ent-IDCardStandard.desc}
 
 ent-BotanistIDCard = cartão de ID de botânico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-BoxerIDCard = cartão de ID de pugilista
+    .desc = {ent-IDCardStandard.desc}
 
 ent-BrigmedicIDCard = cartão de ID de médico da brigada
+    .desc = {ent-IDCardStandard.desc}
 
 ent-CaptainIDCard = cartão de ID do capitão
+    .desc = {ent-IDCardStandard.desc}
 
 ent-CargoIDCard = cartão de ID de carga
+    .desc = {ent-IDCardStandard.desc}
 
 ent-CBURNIDcard = cartão de ID de CBURN
+    .desc = {ent-IDCardStandard.desc}
     .suffix = CBURN
 
 ent-CEIDCard = cartão de ID do engenheiro chefe
+    .desc = {ent-IDCardStandard.desc}
 
 ent-CentcomIDCard = cartão de ID do oficial de comando
+    .desc = {ent-IDCardStandard.desc}
 
 ent-CentcomIDCardDeathsquad = cartão de ID do esquadrão da morte
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ChaplainIDCard = cartão de ID de capelão
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ChefIDCard = cartão de ID de chef
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ChemistIDCard = cartão de ID de químico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ClownIDCard = cartão de ID de palhaço
+    .desc = {ent-IDCardStandard.desc}
 
 ent-CluwneIDCard = cartão de ID de clown
+    .desc = {ent-IDCardStandard.desc}
     .suffix = Irremovível
 
 ent-CMOIDCard = cartão de ID do médico chefe
+    .desc = {ent-IDCardStandard.desc}
 
 ent-DetectiveIDCard = cartão de ID de detetive
+    .desc = {ent-IDCardStandard.desc}
 
 ent-EngineeringIDCard = cartão de ID de engenheiro
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ERTChaplainIDCard = cartão de ID de capelão da ERT
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ERTEngineerIDCard = cartão de ID de engenheiro da ERT
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ERTJanitorIDCard = cartão de ID de zelador da ERT
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ERTLeaderIDCard = cartão de ID de líder da ERT
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ERTMedicIDCard = cartão de ID de médico da ERT
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ERTSecurityIDCard = cartão de ID de segurança da ERT
+    .desc = {ent-IDCardStandard.desc}
 
 ent-HoPIDCard = cartão de ID do chefe de pessoal
+    .desc = {ent-IDCardStandard.desc}
 
 ent-HoSIDCard = cartão de ID do chefe de segurança
+    .desc = {ent-IDCardStandard.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -2808,79 +2915,111 @@ ent-IDCardStandard = cartão de identificação
     .desc = Um cartão necessário para acessar várias áreas a bordo da estação.
 
 ent-JanitorIDCard = cartão de ID de zelador
+    .desc = {ent-IDCardStandard.desc}
 
 ent-LawyerIDCard = cartão de ID de advogado
+    .desc = {ent-IDCardStandard.desc}
 
 ent-LibrarianIDCard = cartão de ID de bibliotecário
+    .desc = {ent-IDCardStandard.desc}
 
 ent-MedicalIDCard = cartão de ID médico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-MedicalInternIDCard = cartão de ID de interno médico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-MimeIDCard = cartão de ID de mímico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-MusicianIDCard = cartão de ID de músico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-NukieAgentIDCard = cartão de ID de contratista
+    .desc = {ent-IDCardStandard.desc}
     .suffix = Nukie
 
 ent-ParamedicIDCard = cartão de ID de paramédico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-PassengerIDCard = cartão de ID de passageiro
+    .desc = {ent-IDCardStandard.desc}
 
 ent-PirateIDCard = cartão de ID de pirata
+    .desc = {ent-IDCardStandard.desc}
 
 ent-PsychologistIDCard = cartão de ID de psicólogo
+    .desc = {ent-IDCardStandard.desc}
 
 ent-PunPunIDCard = cartão de ID do pun pun
+    .desc = {ent-IDCardStandard.desc}
 
-ent-QuartermasterIDCard = cartão de ID de quartermestre
+ent-QuartermasterIDCard = cartão de ID do intendente de logística
+    .desc = {ent-IDCardStandard.desc}
 
 ent-RDIDCard = cartão de ID do diretor de pesquisa
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ReporterIDCard = cartão de ID de repórter
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ResearchAssistantIDCard = cartão de ID de assistente de pesquisa
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ResearchIDCard = cartão de ID de pesquisa
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SalvageIDCard = cartão de ID de salvamento
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SecurityCadetIDCard = cartão de ID de cadete de segurança
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SecurityIDCard = cartão de ID de segurança
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SeniorEngineerIDCard = cartão de ID de engenheiro sênior
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SeniorOfficerIDCard = cartão de ID de oficial sênior
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SeniorPhysicianIDCard = cartão de ID de médico sênior
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SeniorResearcherIDCard = cartão de ID de pesquisador sênior
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ServiceWorkerIDCard = cartão de ID de trabalhador de serviço
+    .desc = {ent-IDCardStandard.desc}
 
 ent-SyndicateIDCard = cartão de ID do Sindicato
+    .desc = {ent-IDCardStandard.desc}
 
 ent-TechnicalAssistantIDCard = cartão de ID de assistente técnico
+    .desc = {ent-IDCardStandard.desc}
 
 ent-UniversalIDCard = cartão de ID universal
     .suffix = Admin
     .desc = Um cartão de ID que lhe dá acesso além dos seus sonhos mais selvagens.
 
 ent-VisitorIDCard = cartão de ID de visitante
+    .desc = {ent-IDCardStandard.desc}
 
 ent-WardenIDCard = cartão de ID de carcereiro
+    .desc = {ent-IDCardStandard.desc}
 
 ent-WizardIDCard = cartão de ID de mago
+    .desc = {ent-IDCardStandard.desc}
 
 ent-ZookeeperIDCard = cartão de ID de zoólogo
+    .desc = {ent-IDCardStandard.desc}
 
 # From: Entities/Objects/Misc/implanters.yml
 # Abstract entity (referenceable by children)
 
 ent-BaseImplanter = implantador
-    .desc = Uma seringa exclusivamente projetada para a injeção e extração de implantes subcutâneos. Use cuidado ao extrair implantes, pois configurações incorretas de tração podem ferir o usuário.
+    .desc = Uma seringa exclusivamente projetada para a injeção e extração de implantes subcutâneos. Use cuidado ao extrair implantes, pois configurações incorretas de extração podem ferir o usuário.
 
 # Abstract entity (referenceable by children)
 
@@ -2893,24 +3032,31 @@ ent-BaseImplantOnlyImplanterSyndi = implantador do Sindicato
     .desc = Uma seringa compacta descartável exclusivamente projetada para a injeção de implantes subcutâneos.
 
 ent-BikeHornImplanter = {ent-BaseImplanter}
+    .desc = {ent-BaseImplanter.desc}
     .suffix = buzina de bicicleta
 
 ent-DeathAcidifierImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = acidificador da morte
 
 ent-DeathRattleImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = estertor da morte
 
 ent-DnaScramblerImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = embaralhador de DNA
 
 ent-EmpImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = EMP
 
 ent-FakeMindShieldImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = mindshield falso
 
 ent-FreedomImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = liberdade
 
 ent-Implanter = {ent-BaseImplanter}
@@ -2918,38 +3064,50 @@ ent-Implanter = {ent-BaseImplanter}
 
 ent-ImplanterAdmeme = {ent-BaseImplanter}
     .suffix = Admeme
+    .desc = {ent-BaseImplanter.desc}
 
 ent-LightImplanter = {ent-BaseImplanter}
+    .desc = {ent-BaseImplanter.desc}
     .suffix = luz
 
 ent-MacroBombImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = macro-bomba
 
 ent-MicroBombImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = micro-bomba
 
 ent-MindShieldImplanter = {ent-BaseImplanter}
+    .desc = {ent-BaseImplanter.desc}
     .suffix = mindshield
 
 ent-RadioImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = rádio Sindicato
 
 ent-RadioImplanterCentcomm = {ent-BaseImplanter}
-    .suffix = rádio Centcomm
+    .desc = {ent-BaseImplanter.desc}
+    .suffix = rádio CentComm
 
 ent-SadTromboneImplanter = {ent-BaseImplanter}
+    .desc = {ent-BaseImplanter.desc}
     .suffix = trombone triste
 
 ent-ScramImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = scram
 
 ent-StorageImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = armazenamento
 
 ent-TrackingImplanter = {ent-BaseImplanter}
+    .desc = {ent-BaseImplanter.desc}
     .suffix = rastreamento
 
 ent-UplinkImplanter = {ent-BaseImplantOnlyImplanterSyndi}
+    .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = uplink
 
 # From: Entities/Objects/Misc/improvised_gun_parts.yml
@@ -3009,9 +3167,9 @@ ent-CapacitorStockPart = capacitor
     .suffix = Nível 1
     .desc = Um capacitor básico usado na construção de uma variedade de dispositivos.
 
-ent-MatterBinStockPart = compartimento de matéria
+ent-MatterBinStockPart = caixa de matéria
     .suffix = Nível 1
-    .desc = Um compartimento de matéria básico usado na construção de uma variedade de dispositivos.
+    .desc = Uma caixa de matéria básica usada na construção de uma variedade de dispositivos.
 
 ent-MicroManipulatorStockPart = manipulador
     .suffix = Nível 1
@@ -3161,6 +3319,7 @@ ent-PotatoAIChip = chip de IA supercompacto
 # From: Entities/Objects/Misc/rubber_stamp.yml
 
 ent-RubberStampApproved = carimbo de APROVADO
+    .desc = {ent-RubberStampBase.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -3170,46 +3329,64 @@ ent-RubberStampBase = carimbo genérico
 # Abstract entity (referenceable by children)
 
 ent-RubberStampBaseAlt = carimbo alternativo
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampCaptain = carimbo do capitão
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampCE = carimbo do engenheiro chefe
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampCentcom = carimbo do CentComm
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampChaplain = carimbo do capelão
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampClown = carimbo do palhaço
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampCMO = carimbo do médico chefe
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampDenied = carimbo de NEGADO
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampDetective = carimbo do detetive
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampGreytide = carimbo do greytide
     .desc = Um carimbo de borracha para carimbar documentos importantes. A maré lava sobre você, só de olhar para ele...
 
 ent-RubberStampHop = carimbo do chefe de pessoal
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampHos = carimbo do chefe de segurança
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampLawyer = carimbo do advogado
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampMime = carimbo do mimo
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampPsychologist = carimbo do psicólogo
     .desc = Um carimbo de borracha para carimbar documentos importantes. Prescreva esses tratamentos!
 
 ent-RubberStampQm = carimbo do intendente
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampRd = carimbo do diretor de pesquisa
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampSyndicate = carimbo do Sindicato
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampTrader = carimbo do comerciante
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampWarden = carimbo do carcereiro
+    .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampWizard = carimbo do mago
     .desc = Um carimbo de mago caótico para servir papelada caótica, que irônico.
@@ -3220,47 +3397,58 @@ ent-SpaceCash = créditos
     .desc = Créditos Padrão Veridian, a força vital da galáxia! Mais comumente referidos como "Créditos", são impressos emitidos pelo Veridian Emerald Bank, o maior banco da galáxia.
 
 ent-SpaceCash10 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 10
 
 ent-SpaceCash100 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 100
 
 ent-SpaceCash1000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 1000
 
 ent-SpaceCash10000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 10000
 
 ent-SpaceCash1000000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 1000000
 
 ent-SpaceCash20000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 20000
 
 ent-SpaceCash2500 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 2500
 
 ent-SpaceCash30000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 30000
 
 ent-SpaceCash500 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 500
 
 ent-SpaceCash5000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 5000
 
 ent-SpaceCash7500 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 7500
 
 # From: Entities/Objects/Misc/spaceshroom.yml
 
-ent-FoodSpaceshroom = espaço-cogumelo
+ent-FoodSpaceshroom = espaçomelo
     .desc = Um cogumelo selvagem. Não há como dizer qual efeito ele pode ter...
 
-ent-FoodSpaceshroomCooked = espaço-cogumelo cozido
+ent-FoodSpaceshroomCooked = espaçomelo cozido
     .desc = Um cogumelo selvagem que foi cozido. Parece que o calor removeu seus efeitos químicos.
 
-ent-Spaceshroom = espaço-cogumelo
+ent-Spaceshroom = espaçomelo
     .suffix = Estrutura
     .desc = Um aglomerado de cogumelos selvagens que gosta de crescer em ambientes escuros e úmidos.
 
@@ -3716,7 +3904,7 @@ ent-PowerCageSmallEmpty = {ent-PowerCageSmall}
     .suffix = Vazia
 
 ent-PowerCellAntiqueProto = protótipo de célula de energia antiga
-    .desc = Uma pequena célula que se recarrega sozinha. Usada em pesquisa de braços laser antigos.
+    .desc = Uma pequena célula que se recarrega sozinha. Usada em pesquisas de armas laser antigas.
 
 ent-PowerCellHigh = célula de energia de alta capacidade
     .suffix = Cheia
@@ -9128,12 +9316,12 @@ ent-ComputerEmergencyShuttle = console de nave de emergência
 ent-ComputerId = computador de cartão ID
     .desc = Terminal para programar cartões ID de funcionários Nanotrasen para acessar partes da estação.
 
-ent-ComputerIFF = computador IFF
-    .desc = Permite que você controle as características IFF desta nave.
+ent-ComputerIFF = computador de IFF
+    .desc = Permite que você controle a visibilidade do IFF desta nave.
 
-ent-ComputerIFFSyndicate = computador IFF
+ent-ComputerIFFSyndicate = {ent-ComputerIFF}
     .suffix = Sindicato
-    .desc = Permite que você controle as características IFF e furtivas desta nave.
+    .desc = Permite que você controle a visibilidade do IFF e as características furtivas desta nave.
 
 ent-ComputerMassMedia = console de gerenciador de notícias
     .desc = Escreva sua mensagem para o mundo!

@@ -1592,7 +1592,7 @@ ent-MaterialIridite = iridita
     .suffix = Cheio
     .desc = Uma liga complexa sintetizada a partir de gases atmosféricos, comumente usada fora do setor para maquinário industrial pesado, nanofibras e computadores de alta qualidade.
 
-ent-MaterialPyrogel = pirogel
+ent-MaterialPyrogel = gel ígneo
     .suffix = Cheio
     .desc = O gel químico experimental da Paycheck Bratva.
 
@@ -3580,7 +3580,7 @@ ent-NailBombGunpowder = bomba de pregos
 ent-PyrogelBomb = bomba de pírogel
     .desc = Tecnologia experimental de bomba em garrafa.
 
-ent-PyrogelBombEmpty = bomba de pirogel
+ent-PyrogelBombEmpty = bomba de gel ígneo
     .suffix = vazio
     .desc = Alternativa barata a bombas nucleares. Este não tem combustível.
 
@@ -7273,7 +7273,7 @@ ent-AFInterceptorMFilled = {ent-AFInterceptorM}
 ent-SalvageSpawnerPlastitaniumCommon = {ent-SalvageSpawnerScrapCommon}
     .suffix = Plastânio, 1-3
 
-ent-SpawnerPlastitaniumCommon = 
+ent-SpawnerPlastitaniumCommon =
     .suffix = Plastânio, 1-3
 
 ent-ScrapProcessorRollTrunk = O processador de sucata rolou o porta-malas.

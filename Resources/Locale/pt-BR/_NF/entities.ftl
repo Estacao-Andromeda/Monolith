@@ -1446,25 +1446,25 @@ ent-DungeonHumanCorpseRandomService = {ent-DungeonHumanCorpse}
 ent-SpawnRandomHumanoidCorpseMedicalBounty = cadáver de recompensa médica
     .suffix = Sem Equipamento
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyCargo = 
+ent-SpawnRandomHumanoidCorpseMedicalBountyCargo =
     .suffix = Carga
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyCommand = 
+ent-SpawnRandomHumanoidCorpseMedicalBountyCommand =
     .suffix = Comando
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyEngineering = 
+ent-SpawnRandomHumanoidCorpseMedicalBountyEngineering =
     .suffix = Engenharia
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyMedical = 
+ent-SpawnRandomHumanoidCorpseMedicalBountyMedical =
     .suffix = Médico
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyScience = 
+ent-SpawnRandomHumanoidCorpseMedicalBountyScience =
     .suffix = Ciência
 
-ent-SpawnRandomHumanoidCorpseMedicalBountySecurity = 
+ent-SpawnRandomHumanoidCorpseMedicalBountySecurity =
     .suffix = Segurança
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyService = 
+ent-SpawnRandomHumanoidCorpseMedicalBountyService =
     .suffix = Serviço
 
 # From: _NF/Entities/Mobs/NPCs/animals.yml
@@ -3330,7 +3330,7 @@ ent-PrizeTicket60 = bilhete de prêmio
 
 # Abstract entity (referenceable by children)
 
-ent-PrizeTicketBase = 
+ent-PrizeTicketBase =
     .desc = Um bilhete de prêmio, pronto para ser resgatado no balcão de prêmios.
 
 # From: _NF/Entities/Objects/Fun/spaceblade_boxes.yml
@@ -3939,41 +3939,41 @@ ent-SadTromboneImplanterLabeled = {ent-BaseImplanter}
 
 # From: _NF/Entities/Objects/Misc/machine_parts.yml
 
-ent-AdvancedCapacitorStockPart = capacitor avançado
+ent-AdvancedMatterBinStockPart = caixa de matéria avançada
     .suffix = Nível 3
-    .desc = Um capacitor avançado usado na construção de uma variedade de dispositivos.
+    .desc = Um bin de matéria avançado usado na construção e aprimoramento de uma variedade de dispositivos.
 
-ent-AdvancedMatterBinStockPart = bin de matéria avançado
-    .suffix = Nível 3
-    .desc = Um bin de matéria avançado usado na construção de uma variedade de dispositivos.
+ent-SuperMatterBinStockPart = super caixa de matéria
+    .suffix = Nível 4
+    .desc = Uma super caixa de matéria usada na construção e aprimoramento de uma variedade de dispositivos.
 
-ent-BluespaceMatterBinStockPart = bin de matéria bluespace
+ent-BluespaceMatterBinStockPart = caixa de matéria bluespace
     .suffix = Nível 6
-    .desc = Um bin de matéria bluespace usado na construção de uma variedade de dispositivos.
-
-ent-FemtoManipulatorStockPart = manipulador bluespace
-    .suffix = Nível 6
-    .desc = Um manipulador bluespace usado na construção de uma variedade de dispositivos.
+    .desc = Um bin de matéria bluespace usado na construção e aprimoramento de uma variedade de dispositivos.
 
 ent-NanoManipulatorStockPart = manipulador avançado
     .suffix = Nível 3
-    .desc = Um manipulador avançado usado na construção de uma variedade de dispositivos.
+    .desc = Um manipulador avançado usado na construção e aprimoramento de uma variedade de dispositivos.
 
-ent-PicoManipulatorStockPart = manipulador super
+ent-PicoManipulatorStockPart = super manipulador
     .suffix = Nível 4
-    .desc = Um manipulador super usado na construção de uma variedade de dispositivos.
+    .desc = Um super manipulador usado na construção e aprimoramento de uma variedade de dispositivos.
+
+ent-FemtoManipulatorStockPart = manipulador bluespace
+    .suffix = Nível 6
+    .desc = Um manipulador bluespace usado na construção e aprimoramento de uma variedade de dispositivos.
+
+ent-AdvancedCapacitorStockPart = capacitor avançado
+    .suffix = Nível 3
+    .desc = Um capacitor avançado usado na construção e aprimoramento de uma variedade de dispositivos.
+
+ent-SuperCapacitorStockPart = super capacitor
+    .suffix = Nível 4
+    .desc = Um super capacitor super usado na construção e aprimoramento de uma variedade de dispositivos.
 
 ent-QuadraticCapacitorStockPart = capacitor bluespace
     .suffix = Nível 6
-    .desc = Um capacitor bluespace usado na construção de uma variedade de dispositivos.
-
-ent-SuperCapacitorStockPart = capacitor super
-    .suffix = Nível 4
-    .desc = Um capacitor super usado na construção de uma variedade de dispositivos.
-
-ent-SuperMatterBinStockPart = bin de matéria super
-    .suffix = Nível 4
-    .desc = Um bin de matéria super usado na construção de uma variedade de dispositivos.
+    .desc = Um capacitor bluespace usado na construção e aprimoramento de uma variedade de dispositivos
 
 # From: _NF/Entities/Objects/Misc/mail_capsule.yml
 
@@ -4650,7 +4650,7 @@ ent-VendingMachineRestockPottedPlantVend = caixa de reposição da Plant-O-Matic
 # From: _NF/Entities/Objects/Specific/Wizard/conjured_items.yml
 # Abstract entity (referenceable by children)
 
-ent-ConjuredObject10 = 
+ent-ConjuredObject10 =
     .suffix = Conjuro
     .desc = Uma entidade criada magicamente, que eventualmente desaparecerá da existência.
 
@@ -5433,7 +5433,7 @@ ent-SpawnMobKoboldYipyip = Gerador de Yip Yip
 
 # From: _NF/Entities/Stations/nanotrasen.yml
 
-ent-StandardFrontierStation = 
+ent-StandardFrontierStation =
     .suffix = DEBUG
 
 # From: _NF/Entities/Structures/atm.yml
@@ -5747,7 +5747,7 @@ ent-WindoorSecureMercenaryLocked = {ent-WindoorSecure}
 # From: _NF/Entities/Structures/Dungeon/airlocks.yml
 # Abstract entity (referenceable by children)
 
-ent-AirlockGlassMurkyDungeon = 
+ent-AirlockGlassMurkyDungeon =
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Um airlock com janelas de vidro turvo, é difícil ver o que tem do outro lado.
 
@@ -5760,20 +5760,20 @@ ent-GrilleDungeon = {ent-Grille}
 # From: _NF/Entities/Structures/Dungeon/windoor.yml
 # Abstract entity (referenceable by children)
 
-ent-WindoorMurkyDungeon = 
+ent-WindoorMurkyDungeon =
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma porta-vidro com vidro turvo, é difícil ver o que tem do outro lado.
 
 # From: _NF/Entities/Structures/Dungeon/windows.yml
 # Abstract entity (referenceable by children)
 
-ent-WindowDirectionalMurkyDungeon = 
+ent-WindowDirectionalMurkyDungeon =
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma janela de vidro turvo, é difícil ver o que tem do outro lado.
 
 # Abstract entity (referenceable by children)
 
-ent-WindowMurkyDungeon = 
+ent-WindowMurkyDungeon =
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma janela de vidro turvo, é difícil ver o que tem do outro lado.
 
@@ -6192,9 +6192,9 @@ ent-ComputerContrabandPalletConsole = computador de troca de tecnologia
 ent-ComputerContrabandPalletConsolePirate = console de entrega de tecnologia
     .desc = Recebe tecnologia de facções para ser enviada para pesquisa e concede DC em troca.
 
-ent-ComputerIFFPOI = computador de FRI
+ent-ComputerIFFPOI = {ent-ComputerIFF}
     .suffix = POI
-    .desc = Permite controlar as características de FRI e furtividade desta estação.
+    .desc = {ent-ComputerIFFSyndicate.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -10082,142 +10082,142 @@ ent-PaperWrittenPirateScribbles = refrigerante em falta
 # From: _NF/Catalog/Fills/StorageFillTemplates/departmental_eva.yml
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitAtmosTech = 
+ent-StorageFillEVASuitAtmosTech =
     .desc = Contém um kit EVA padrão de técnico atmosférico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerBlue = 
+ent-StorageFillEVASuitBoxerBlue =
     .desc = Contém um traje de boxeador azul e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerGreen = 
+ent-StorageFillEVASuitBoxerGreen =
     .desc = Contém um traje de boxeador verde e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerRandom = 
+ent-StorageFillEVASuitBoxerRandom =
     .desc = Contém um traje de boxeador e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerRed = 
+ent-StorageFillEVASuitBoxerRed =
     .desc = Contém um traje de boxeador vermelho e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerYellow = 
+ent-StorageFillEVASuitBoxerYellow =
     .desc = Contém um traje de boxeador amarelo e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitCaptain = 
+ent-StorageFillEVASuitCaptain =
     .desc = Contém um kit EVA padrão de capitão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitCargo = 
+ent-StorageFillEVASuitCargo =
     .desc = Contém um kit EVA padrão de técnico de carga.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitChaplain = 
+ent-StorageFillEVASuitChaplain =
     .desc = Contém um kit EVA padrão de capelão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitContractor = 
+ent-StorageFillEVASuitContractor =
     .desc = Contém um kit EVA padrão de contratado.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitEmergency = 
+ent-StorageFillEVASuitEmergency =
     .desc = Contém um kit EVA padrão de emergência.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitEngineer = 
+ent-StorageFillEVASuitEngineer =
     .desc = Contém um kit EVA padrão de engenheiro.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitFsb = 
+ent-StorageFillEVASuitFsb =
     .desc = Contém um traje EVA padrão da Far Star Biotech (FSB).
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitGoblin = 
+ent-StorageFillEVASuitGoblin =
     .desc = Contém um traje EVA tradicional de goblin e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitHydro = 
+ent-StorageFillEVASuitHydro =
     .desc = Contém um kit EVA padrão de botânico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitJanitor = 
+ent-StorageFillEVASuitJanitor =
     .desc = Contém um kit EVA padrão de zelador.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitLvhi = 
+ent-StorageFillEVASuitLvhi =
     .desc = Contém um kit EVA padrão da Langstad-Voigt Heavy Industries (LVHI).
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitMail = 
+ent-StorageFillEVASuitMail =
     .desc = Contém um kit EVA padrão de carteiro.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitMedic = 
+ent-StorageFillEVASuitMedic =
     .desc = Contém um kit EVA padrão de especialista médico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitMercenary = 
+ent-StorageFillEVASuitMercenary =
     .desc = Contém um kit EVA padrão de mercenário.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitNfsd = 
+ent-StorageFillEVASuitNfsd =
     .desc = Contém um kit EVA padrão da TSFMC.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitParamedic = 
+ent-StorageFillEVASuitParamedic =
     .desc = Contém um kit de traje vácuo padrão de paramédico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitPilot = 
+ent-StorageFillEVASuitPilot =
     .desc = Contém um kit EVA padrão de piloto.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitPrivateSec = 
+ent-StorageFillEVASuitPrivateSec =
     .desc = Contém um kit EVA padrão de segurança privada.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitSalvage = 
+ent-StorageFillEVASuitSalvage =
     .desc = Contém um kit EVA padrão de especialista em salvamento.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitScientist = 
+ent-StorageFillEVASuitScientist =
     .desc = Contém um kit EVA padrão de cientista.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitServiceWorker = 
+ent-StorageFillEVASuitServiceWorker =
     .desc = Contém um kit EVA padrão de funcionário de serviço.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitSr = 
+ent-StorageFillEVASuitSr =
     .desc = Contém um kit EVA padrão de representante da estação.
 
 # From: _NF/Entities/Actions/cancel-escape-inventory.yml

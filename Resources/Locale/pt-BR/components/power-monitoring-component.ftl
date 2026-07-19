@@ -13,7 +13,7 @@ power-monitoring-window-unknown-location = Localização desconhecida
 power-monitoring-window-total-sources = Saída total do gerador
 power-monitoring-window-total-battery-usage = Uso total da bateria
 power-monitoring-window-total-loads = Cargas totais da rede
-power-monitoring-window-value = { POWERWATTS($valor) }
+power-monitoring-window-value = { POWERWATTS($value) }
 power-monitoring-window-button-value = {$value} W
 power-monitoring-window-show-inactive-consumers = Mostrar Consumidores Inativos
 

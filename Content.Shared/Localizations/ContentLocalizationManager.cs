@@ -42,6 +42,8 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural); // Andromeda
             _loc.AddFunction(culture, "MANY", FormatMany); // Andromeda
             _loc.AddFunction(culture, "LOWERCASE", FormatLowercase); // Andromeda
+            _loc.AddFunction(culture, "INDEFINITE", FuncIndefinitePt); // Andromeda
+            _loc.AddFunction(culture, "ADJECTIVE", FuncAdjectivePt); // Andromeda
 
 
             /*

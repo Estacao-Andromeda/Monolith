@@ -10,6 +10,8 @@ stack-uraniumfissile = urânio físsil
 materials-uraniumdepleted = urânio empobrecido
 stack-uraniumdepleted = urânio empobrecido
 
+materials-pyrogel = gel ígneo
+
 # Industry
 
 # Ores

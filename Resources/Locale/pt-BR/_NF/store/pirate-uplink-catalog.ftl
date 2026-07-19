@@ -8,6 +8,9 @@ store-category-pirateexplosives = Explosivos
 store-category-pdvvouchers = Vouchers
 store-category-pirategambling = Jogos de Azar
 # Mono edit end
+# Andromeda: and another one
+store-category-piratebundles = Pacotes
+# Androme end
 
 uplink-pirate-hardsuit-name = Traje Pesado PDV
 uplink-pirate-hardsuit-desc = Um traje espacial pesado que oferece alguma proteção básica das frias e duras realidades do espaço profundo.

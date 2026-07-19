@@ -13,7 +13,7 @@ ui-options-apply = Salvar e aplicar
 ui-options-reset-all = Redefinir alterados
 ui-options-default = Redefinir para padrão
 
-ui-options-value-percent ={ TOSTRING($valor, "P0") }
+ui-options-value-percent ={ TOSTRING($value, "P0") }
 
 # Misc/General menu
 

@@ -17,3 +17,6 @@ job-description-pdv-borg = Metade humano, metade máquina. Siga suas leis, sirva
 job-description-vg-infanteer = Siga as ordens de cima. Complete contratos. Receba pagamento.
 job-description-vg-lieutenant = Dirija os destacamentos de infantaria. Garanta que os padrões sejam mantidos. Alcance prosperidade e riqueza.
 job-description-vg-commander = Lidere os Vipers à glória e riqueza. Forje novas relações comerciais. Mostre ao setor que suas presas não ficaram cegas.
+
+# MARK: Solstício do inverno
+job-description-operations-officer = [to-do]

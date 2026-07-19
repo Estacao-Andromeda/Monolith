@@ -12,3 +12,4 @@ id-card-access-level-tsf-engineer = Engenharia TSF
 
 id-card-access-level-vg = Grupo Víper
 id-card-access-level-vg-high = Comando do Grupo Víper
+id-card-access-level-vg-command = {id-card-access-level-vg-high}

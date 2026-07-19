@@ -1,275 +1,139 @@
 tiles-space = espaço
-
 tiles-plating = chapeamento
-
+tiles-plating-space = espaço
 tiles-lattice = treliça
-
 tiles-lattice-train = treliça de trem
-
 tiles-steel-floor = azulejo de aço
-
 tiles-steel-floor-mini = mini-azulejo de aço
-
 tiles-steel-floor-pavement = pavimento de aço
-
 tiles-steel-floor-diagonal = azulejo diagonal de aço
-
 tiles-steel-floor-offset = azulejo de aço defasado
-
 tiles-steel-floor-mono = azulejo mono de aço
-
 tiles-steel-floor-pavement-vertical = pavimento vertical de aço
-
 tiles-steel-floor-herringbone = espinha de peixe de aço
-
 tiles-steel-floor-diagonal-mini = mini-azulejo diagonal de aço
-
 tiles-steel-floor-checker-dark = azulejo xadrez escuro de aço
-
 tiles-steel-floor-checker-light = azulejo xadrez claro de aço
-
 tiles-plastic-floor = azulejo plástico
-
 tiles-wood = madeira
-
 tiles-white-floor = azulejo de aço branco
-
 tiles-white-floor-mini = mini-azulejo de aço branco
-
 tiles-white-floor-pavement = pavimento de aço branco
-
 tiles-white-floor-diagonal = azulejo diagonal de aço branco
-
 tiles-white-floor-offset = azulejo de aço branco defasado
-
 tiles-white-floor-mono = azulejo mono de aço branco
-
 tiles-white-floor-pavement-vertical = pavimento vertical de aço branco
-
 tiles-white-floor-herringbone = espinha de peixe de aço branco
-
 tiles-white-floor-diagonal-mini = mini-azulejo diagonal de aço branco
-
 tiles-plastic-white-floor = azulejo plástico branco
-
 tiles-dark-floor = azulejo de aço escuro
-
 tiles-dark-floor-mini = mini-azulejo de aço escuro
-
 tiles-dark-floor-pavement = pavimento de aço escuro
-
 tiles-dark-floor-diagonal = azulejo diagonal de aço escuro
-
 tiles-dark-floor-offset = azulejo de aço escuro defasado
-
 tiles-dark-floor-mono = azulejo mono de aço escuro
-
 tiles-dark-floor-pavement-vertical = pavimento vertical de aço escuro
-
 tiles-dark-floor-herringbone = espinha de peixe de aço escuro
-
 tiles-dark-floor-diagonal-mini = mini-azulejo diagonal de aço escuro
-
 tiles-plastic-dark-floor = azulejo plástico escuro
-
 tiles-techmaint-floor = chão de manutenção técnica
-
 tiles-techmaint-floor-dark = chão de manutenção técnica escuro
-
 tiles-reinforced-floor = chão reforçado
-
 tiles-super-reinforced-floor = chão reforçado endurecido
-
 tiles-mono-floor = chão mono
-
 tiles-linoleum-floor = chão de linóleo
-
 tiles-dirty-steel-floor = chão de aço sujo
-
 tiles-elevator-shaft = poço do elevador
-
 tiles-diamond-plate-floor = chão de placas diamantadas
-
 tiles-rock-floor = chão de rocha
-
 tiles-blue-tile = azulejo azul
-
 tiles-mining-tile = azulejo de mineração
-
 tiles-mining-dark-tile = azulejo de mineração escuro
-
 tiles-mining-light-tile = azulejo de mineração claro
-
 tiles-freezer = congelador
-
 tiles-showroom-floor = sala de exposição
-
 tiles-lime-floor = chão lima
-
 tiles-hydro-floor = chão hidro
-
 tiles-bar-floor = chão de bar
-
 tiles-clown-floor = chão de palhaço
-
 tiles-brass-plating = chapeamento de latão
-
 tiles-brass-floor-filled = chapeamento de latão preenchido
-
 tiles-brass-floor-reebe = chapeamento de latão liso
-
 tiles-mime-floor = chão de mímico
-
 tiles-kitchen-floor = chão de cozinha
-
 tiles-laundry-floor = chão de lavanderia
-
 tiles-concrete-tile = azulejo de concreto
-
 tiles-concrete-slab = laje de concreto
-
 tiles-concrete-smooth = chão de concreto liso
-
 tiles-gray-concrete-tile = azulejo de concreto cinza
-
 tiles-gray-concrete-slab = laje de concreto cinza
-
 tiles-gray-concrete-smooth = chão de concreto cinza liso
-
 tiles-old-concrete-tile = azulejo de concreto antigo
-
 tiles-old-concrete-slab = laje de concreto antigo
-
 tiles-old-concrete-smooth = chão de concreto antigo liso
-
 tiles-blue-arcade-floor = chão de fliperama azul
-
 tiles-red-arcade-floor = chão de fliperama vermelho
-
 tiles-eighties-floor = chão anos 80
-
 tiles-clown-carpet-floor = carpete de palhaço
-
 tiles-office-carpet-floor = carpete de escritório
-
 tiles-boxing-ring-floor = chão de ringue de boxe
-
 tiles-gym-floor = chão de academia
-
 tiles-white-shuttle-floor = chão de nave branca
-
 tiles-blue-shuttle-floor = chão de nave azul
-
 tiles-orange-shuttle-floor = chão de nave laranja
-
 tiles-purple-shuttle-floor = chão de nave roxa
-
 tiles-red-shuttle-floor = chão de nave vermelha
-
 tiles-grey-shuttle-floor = chão de nave cinza
-
 tiles-black-shuttle-floor = chão de nave preta
-
 tiles-gold-tile = azulejo dourado
-
 tiles-silver-tile = azulejo prateado
-
 tiles-glass-floor = chão de vidro
-
 tiles-reinforced-glass-floor = chão de vidro reforçado
-
 tiles-metal-foam = chão de espuma metálica
-
 tiles-green-circuit-floor = chão de circuito verde
-
 tiles-blue-circuit-floor = chão de circuito azul
-
 tiles-red-circuit-floor = chão de circuito vermelho
-
 tiles-snow = neve
-
 tiles-snow-plating = chapeamento nevado
-
 tiles-snow-dug = neve escavada
-
 tiles-ice = gelo
-
 tiles-grass-floor = chão de grama
-
 tiles-asphalt = asfalto
-
 tiles-planet-grass-floor = chão de grama
-
 tiles-jungle-grass-floor = chão de grama da selva
-
 tiles-dark-grass-floor = chão de grama escura
-
 tiles-light-grass-floor = chão de grama clara
-
 tiles-dirt-floor = chão de terra
-
 tiles-asteroid-sand = areia de asteroide
-
 tiles-asteroid-sand-dug = areia de asteroide escavada
-
 tiles-asteroid-tile = azulejo de asteroide
-
 tiles-asteroid-plating = chapeamento de asteroide
-
 tiles-asteroid-ironsand = areia férrea de asteroide
-
 tiles-cave = caverna
-
 tiles-cave-drought = caverna seca
-
 tiles-flesh-floor = chão de carne
-
 tiles-techmaint3-floor = chão de manutenção gradeado
-
 tiles-techmaint2-floor = chão de manutenção de aço
-
 tiles-wood2 = chão de padrão de madeira
-
 tiles-desert-floor = chão de deserto
-
 tiles-low-desert-floor = chão de deserto baixo
-
 tiles-grass-planet-floor = chão de planeta gramado
-
 tiles-basalt-floor = chão de basalto
-
 tiles-snow-floor = chão de neve
-
 tiles-wood3 = chão de madeira quebrada
-
 tiles-hull = chapeamento de casco externo
-
 tiles-hull-reinforced = chapeamento de casco reforçado externo
-
 tiles-web = azulejo de teia
-
 tiles-chromite = cromita
-
 tiles-astro-grass = astro-grama
-
 tiles-mowed-astro-grass = astro-grama cortada
-
 tiles-jungle-astro-grass = astro-grama da selva
-
 tiles-astro-ice = astro-gelo
-
 tiles-astro-snow = astro-neve
-
 tiles-astro-asteroid-sand = areia astro de asteroide
-
 tiles-wood-large = madeira grande
-
 tiles-xeno-floor = chão xeno
-
 tiles-xeno-steel = azulejo de aço xeno
-
 tiles-xeno-steel-corner = azulejo de canto de aço xeno
-
 tiles-xeno-maint = manutenção técnica xeno
-
 tiles-dark-squiggly = azulejo de aço escuro sinuoso

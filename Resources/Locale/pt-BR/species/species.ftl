@@ -10,6 +10,8 @@ species-name-moth = Mariposa
 species-name-skeleton = Esqueleto
 species-name-vox = Vox
 species-name-gingerbread = Biscoito Gengibre
+species-name-monkey = Macaco
+species-name-kobold = Kobold
 
 ## Misc
 

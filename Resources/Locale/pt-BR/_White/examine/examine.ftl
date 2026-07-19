@@ -2,7 +2,7 @@
 
 examine-name = É [bold]{$name}[/bold]!
 examine-can-see = Olhando para {OBJECT($ent)}, você pode ver:
-examine-can-see-nothing = {CAPITALIZE(GENDER($ent))} está completamente nu!
+examine-can-see-nothing = {CAPITALIZE(OBJECT($ent))} está completamente nu!
 
 id-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] no cinto de {POSS-ADJ($ent)}.
 head-examine = • {CAPITALIZE(POSS-ADJ($ent))} [bold]{$item}[/bold] na cabeça de {POSS-ADJ($ent)}.
@@ -45,4 +45,4 @@ shoes-examine-selfaware = • Seu [bold]{$item}[/bold] nos seus pés.
 comp-hands-examine-empty-selfaware = Você não está segurando nada.
 comp-hands-examine-selfaware = Você está segurando { $items }.
 
-humanoid-appearance-component-examine-selfaware = Você é { INDEFINITE($age) } { $age } { $species }.
+humanoid-appearance-component-examine-selfaware = {CAPITALIZE(SUBJECT($user))} {CONJUGATE-BE($user)} {INDEFINITE($user)} {$species} {$age}.
