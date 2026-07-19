@@ -14,7 +14,7 @@ alerts-high-pressure-name = [color=red]Alta Pressão[/color]
 alerts-high-pressure-desc = O ar ao seu redor está [color=red]perigosamente denso[/color]. Um [color=green]traje pressurizado[/color] seria suficiente para protegê-lo.
 
 alerts-on-fire-name = [color=red]Em Chamas[/color]
-alerts-on-fire-desc = Você está [color=red]pegando fogo[/color]. Clique no alerta para parar, drop and roll para apagar o fogo ou mova-se para uma área de vácuo.
+alerts-on-fire-desc = Você está [color=red]pegando fogo[/color]. Clique no alerta para parar, deitar e rolar para apagar o fogo, ou mova-se para uma área de vácuo.
 
 alerts-too-cold-name = [color=cyan]Muito Frio[/color]
 alerts-too-cold-desc = Você está [color=cyan]congelando![/color] Vá para algum lugar mais quente e tire qualquer roupa isolante como um traje espacial.

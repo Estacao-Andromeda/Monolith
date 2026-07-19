@@ -123,8 +123,8 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} and {list[1]}",
-                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, and {list[^1]}"
+                2 => $"{list[0]} e {list[1]}",
+                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, e {list[^1]}"
             };
         }
 
@@ -137,8 +137,8 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} or {list[1]}",
-                _ => $"{string.Join(" or ", list)}"
+                2 => $"{list[0]} ou {list[1]}",
+                _ => $"{string.Join(" ou ", list)}"
             };
         }
 

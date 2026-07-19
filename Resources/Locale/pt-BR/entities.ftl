@@ -3882,23 +3882,23 @@ ent-PortableRecharger = carregador portátil
 
 # From: Entities/Objects/Power/powercells.yml
 
-ent-PowerCageHigh = gaiola de energia de alta capacidade
-    .desc = Uma gaiola de energia recarregável para dispositivos grandes. Capacidade aumentada para níveis de energia aumentados.
+ent-PowerCageHigh = cápsula de energia de alta capacidade
+    .desc = Uma cápsula de energia recarregável para dispositivos grandes. Capacidade aumentada para níveis de energia aumentados.
 
 ent-PowerCageHighEmpty = {ent-PowerCageHigh}
     .suffix = Vazia
 
-ent-PowerCageMech = célula de combustível de mecha
-    .desc = Uma célula de combustível com autorecarga para mechas.
+ent-PowerCageMech = cápsula de energia de mecha
+    .desc = Uma cápsula de energia com autorecarga, feita com mechas em mente.
 
-ent-PowerCageMedium = gaiola de energia de capacidade média
-    .desc = Uma gaiola de energia recarregável para dispositivos grandes. O padrão ouro de capacidade e custo.
+ent-PowerCageMedium = cápsula de energia de capacidade média
+    .desc = Uma cápsula de energia recarregável para dispositivos grandes. O padrão ouro de capacidade e custo.
 
 ent-PowerCageMediumEmpty = {ent-PowerCageMedium}
     .suffix = Vazia
 
-ent-PowerCageSmall = gaiola de energia de pequena capacidade
-    .desc = Uma gaiola de energia recarregável para dispositivos grandes. Este é o tipo mais barato que você pode encontrar, mas vem com algum blindagem moderada contra EMP.
+ent-PowerCageSmall = cápsula de energia de pequena capacidade
+    .desc = Uma cápsula de energia recarregável para dispositivos grandes. Este é o tipo mais barato que você pode encontrar, mas vem com algum blindagem moderada contra EMP.
 
 ent-PowerCageSmallEmpty = {ent-PowerCageSmall}
     .suffix = Vazia
@@ -3946,7 +3946,7 @@ ent-PowerCellSmallPrinted = {ent-PowerCellSmall}
 
 # From: Entities/Objects/Power/powersink.yml
 
-ent-PowerSink = dissipador de energia
+ent-PowerSink = dreno de energia
     .desc = Drena quantidades imensas de eletricidade da rede.
 
 # From: Entities/Objects/Shields/shields.yml
@@ -5526,7 +5526,7 @@ ent-Bucket = balde
 
 # From: Entities/Objects/Tools/cable_coils.yml
 
-ent-CableApcStack = bobina de cabo BV
+ent-CableApcStack = bobina de cabos BV
     .suffix = Cheia
     .desc = Bobina de fios de Baixa Voltagem para conectar APCs a máquinas e outros propósitos.
 
@@ -5539,9 +5539,9 @@ ent-CableApcStack10 = {ent-CableApcStack}
 ent-CableApcStackLingering10 = {ent-CableApcStack}
     .suffix = Persistente, 10
 
-ent-CableHVStack = bobina de cabo AT
+ent-CableHVStack = bobina de cabos AV
     .suffix = Cheia
-    .desc = Cabos de Alta Tensão para conectar motores a maquinário pesado, SMES e subestações.
+    .desc = Cabos de Alta Voltagem para conectar geradores á maquinários pesados, SMES e subestações.
 
 ent-CableHVStack1 = {ent-CableHVStack}
     .suffix = 1
@@ -5552,9 +5552,9 @@ ent-CableHVStack10 = {ent-CableHVStack}
 ent-CableHVStackLingering10 = {ent-CableHVStack}
     .suffix = Persistente, 10
 
-ent-CableMVStack = bobina de cabo MT
+ent-CableMVStack = bobina de cabos MV
     .suffix = Cheia
-    .desc = Cabos de Média Tensão para conectar subestações a APCs, e também alimentando algumas coisas como emissores.
+    .desc = Cabos de Média Voltagem para conectar subestações a APCs, e também energizar algumas coisas como emissores.
 
 ent-CableMVStack1 = {ent-CableMVStack}
     .suffix = 1
@@ -9411,12 +9411,15 @@ ent-FaxMachineBase = fax de longo alcance
 
 ent-FaxMachineCaptain = fax de longo alcance do capitão
     .suffix = CódigosNucleares
+    .desc = {ent-FaxMachineBase.desc}
 
-ent-FaxMachineCentcom = fax de longo alcance do ComCent
-    .suffix = ComCent
+ent-FaxMachineCentcom = fax de longo alcance do CentComm
+    .suffix = CentComm
+    .desc = {ent-FaxMachineBase.desc}
 
 ent-FaxMachineSyndie = fax de longo alcance do Sindicato
     .suffix = Sindicato
+    .desc = {ent-FaxMachineBase.desc}
 
 # From: Entities/Structures/Machines/flatpacker.yml
 
@@ -10563,21 +10566,26 @@ ent-PlasticFlapsOpaque = abas de plástico
 
 ent-APCBasic = {ent-BaseAPC}
     .suffix = Básico, 50kJ
+    .desc = {ent-BaseAPC.desc}
 
 ent-APCConstructed = {ent-BaseAPC}
     .suffix = Aberto
+    .desc = {ent-BaseAPC.desc}
 
 ent-APCFrame = chassi de APC
     .desc = Um terminal de controle para os sistemas elétricos da área, faltando os eletrônicos.
 
 ent-APCHighCapacity = {ent-BaseAPC}
     .suffix = Alta Capacidade, 100kJ
+    .desc = {ent-BaseAPC.desc}
 
 ent-APCHyperCapacity = {ent-BaseAPC}
     .suffix = Hiper Capacidade, 200kJ
+    .desc = {ent-BaseAPC.desc}
 
 ent-APCSuperCapacity = {ent-BaseAPC}
     .suffix = Super Capacidade, 150kJ
+    .desc = {ent-BaseAPC.desc}
 
 ent-BaseAPC = APC
     .desc = Um terminal de controle para os sistemas elétricos da área.
@@ -10589,6 +10597,7 @@ ent-CableTerminal = terminal de cabo
 
 ent-CableTerminalUncuttable = {ent-CableTerminal}
     .suffix = incortável
+    .desc = Você vê um pequeno aviso nos cabos vermelhos em tinta preta suja. "CONECTE O VERMELHO À BATERIA PARA CARREGAR."
 
 # From: Entities/Structures/Power/cables.yml
 
@@ -10597,18 +10606,21 @@ ent-CableApcExtension = cabo de energia BT
 
 ent-CableApcExtensionUncuttable = {ent-CableApcExtension}
     .suffix = incortável
+    .desc = {ent-CableApcExtension.desc}
 
 ent-CableHV = cabo de energia AT
     .desc = Um cabo de energia de alta tensão laranja.
 
 ent-CableHVUncuttable = {ent-CableHV}
     .suffix = incortável
+    .desc = {ent-CableHV.desc}
 
 ent-CableMV = cabo de energia MT
     .desc = Um cabo de energia de média tensão.
 
 ent-CableMVUncuttable = {ent-CableMV}
     .suffix = incortável
+    .desc = {ent-CableMV.desc}
 
 # From: Entities/Structures/Power/chargers.yml
 
@@ -10867,7 +10879,7 @@ ent-TeslaEnergyBall = raio globular
     .desc = Uma bola gigante de energia pura. O espaço ao redor está zumbindo e derretendo.
 
 ent-TeslaMiniEnergyBall = mini raio globular
-    .desc = O filhote de uma gaiola de energia destrutiva. Não tão perigoso, mas ainda não vale a pena tocar com mãos nuas.
+    .desc = O filhote de uma cápsula de energia destrutiva. Não tão perigoso, mas ainda não vale a pena tocar com mãos nuas.
 
 # From: Entities/Structures/Power/Generation/Tesla/generator.yml
 
@@ -10929,7 +10941,7 @@ ent-ShuttleGunKinetic = PTK-1500e \"Matter Dematerializer\"
     .desc = Torre de mineração, eficaz para explodir alvos endurecidos. Tem alcance considerável mas cadência menor.
 
 ent-ShuttleGunPerforator = LSE-1200c \"Perforator\"
-    .desc = Unidade laser estacionária avançada. Aniquila eletrônicos e é extremamente perigosa para a saúde! Usa a gaiola de energia para disparar.
+    .desc = Unidade laser estacionária avançada. Aniquila eletrônicos e é extremamente perigosa para a saúde! Usa a cápsula de energia para disparar.
 
 ent-ShuttleGunPirateCannon = canhão de navio pirata
     .desc = Cabum!
@@ -10946,9 +10958,11 @@ ent-StationAnchorBase = âncora de estação
 
 ent-StationAnchorIndestructible = {ent-StationAnchorBase}
     .suffix = Indestrutível, Desligado
+    .desc = {ent-StationAnchorBase.desc}
 
 ent-StationAnchorOff = {ent-StationAnchorBase}
     .suffix = Desligado
+    .desc = {ent-StationAnchorBase.desc}
 
 # From: Entities/Structures/Shuttles/thrusters.yml
 # Abstract entity (referenceable by children)
@@ -11709,7 +11723,7 @@ ent-Morgue = necrotério
 # From: Entities/Structures/Storage/ore_box.yml
 
 ent-OreBox = caixa de minério
-    .desc = Um grande contêiner de armazenamento para segurar minérios não processados.
+    .desc = Um grande contêiner de armazenamento para guardar minérios não processados.
 
 # From: Entities/Structures/Storage/paper_bin.yml
 
@@ -11719,12 +11733,15 @@ ent-PaperBin = coletor de papel
 
 ent-PaperBin10 = {ent-PaperBin}
     .suffix = 10
+    .desc = {ent-PaperBin.desc}
 
 ent-PaperBin20 = {ent-PaperBin}
     .suffix = 20
+    .desc = {ent-PaperBin.desc}
 
 ent-PaperBin5 = {ent-PaperBin}
     .suffix = 5
+    .desc = {ent-PaperBin.desc}
 
 # From: Entities/Structures/Storage/storage.yml
 
@@ -11751,6 +11768,7 @@ ent-WaterTank = tanque de água
 
 ent-WaterTankFull = {ent-WaterTank}
     .suffix = Cheio
+    .desc = {ent-WaterTank.desc}
 
 ent-WaterTankHighCapacity = tanque de água de alta capacidade
     .suffix = Cheio
@@ -11762,6 +11780,7 @@ ent-WeldingFuelTank = tanque de combustível
 
 ent-WeldingFuelTankFull = {ent-WeldingFuelTank}
     .suffix = Cheio
+    .desc = {ent-WeldingFuelTank.desc}
 
 ent-WeldingFuelTankHighCapacity = tanque de combustível de alta capacidade
     .suffix = Cheio
@@ -11793,12 +11812,15 @@ ent-DefibrillatorCabinet = armário de desfibrilador
 
 ent-DefibrillatorCabinetFilled = {ent-DefibrillatorCabinet}
     .suffix = Preenchido
+    .desc = {ent-DefibrillatorCabinet.desc}
 
 ent-DefibrillatorCabinetFilledOpen = {ent-DefibrillatorCabinet}
     .suffix = Preenchido, Aberto
+    .desc = {ent-DefibrillatorCabinet.desc}
 
 ent-DefibrillatorCabinetOpen = {ent-DefibrillatorCabinet}
     .suffix = Aberto
+    .desc = {ent-DefibrillatorCabinet.desc}
 
 # From: Entities/Structures/Wallmounts/extinguisher_cabinet.yml
 
@@ -11807,12 +11829,15 @@ ent-ExtinguisherCabinet = armário de extintor
 
 ent-ExtinguisherCabinetFilled = {ent-ExtinguisherCabinet}
     .suffix = Preenchido
+    .desc = {ent-ExtinguisherCabinet.desc}
 
 ent-ExtinguisherCabinetFilledOpen = {ent-ExtinguisherCabinet}
     .suffix = Preenchido, Aberto
+    .desc = {ent-ExtinguisherCabinet.desc}
 
 ent-ExtinguisherCabinetOpen = {ent-ExtinguisherCabinet}
     .suffix = Aberto
+    .desc = {ent-ExtinguisherCabinet.desc}
 
 # From: Entities/Structures/Wallmounts/fire_alarm.yml
 
@@ -11835,12 +11860,15 @@ ent-FireAxeCabinet = armário de machado de bombeiro
 
 ent-FireAxeCabinetFilled = {ent-FireAxeCabinet}
     .suffix = Preenchido
+    .desc = {ent-FireAxeCabinet.desc}
 
 ent-FireAxeCabinetFilledOpen = {ent-FireAxeCabinet}
     .suffix = Preenchido, Aberto
+    .desc = {ent-FireAxeCabinet.desc}
 
 ent-FireAxeCabinetOpen = {ent-FireAxeCabinet}
     .suffix = Aberto
+    .desc = {ent-FireAxeCabinet.desc}
 
 # From: Entities/Structures/Wallmounts/intercom.yml
 # Abstract entity (referenceable by children)
@@ -11850,6 +11878,7 @@ ent-BaseIntercom = interfone
 
 ent-IntercomAll = {ent-BaseIntercom}
     .suffix = Todos
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomAssembly = conjunto de interfone
     .desc = Um interfone. Não parece muito útil agora.
@@ -11860,31 +11889,39 @@ ent-IntercomCommand = {ent-BaseIntercom}
 
 ent-IntercomCommon = {ent-BaseIntercom}
     .suffix = Comum
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomConstructed = {ent-BaseIntercom}
     .suffix = Vazio, Painel Aberto
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomEngineering = {ent-BaseIntercom}
     .suffix = Engenharia
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomFreelance = {ent-BaseIntercom}
     .suffix = Freelance
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomMedical = {ent-BaseIntercom}
     .suffix = Médico
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomScience = {ent-BaseIntercom}
     .suffix = Ciência
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomSecurity = {ent-BaseIntercom}
     .suffix = Segurança
-    .desc = Um interfone. Foi reforçado com metal de capacetes de segurança, tornando-o um verdadeiro desafio para abrir.
+    .desc = Um interfone. Foi reforçado com metal de capacetes dos seguranças, tornando-o um verdadeiro desafio para abrir.
 
 ent-IntercomService = {ent-BaseIntercom}
     .suffix = Serviço
+    .desc = {ent-BaseIntercom.desc}
 
 ent-IntercomSupply = {ent-BaseIntercom}
     .suffix = Suprimentos
+    .desc = {ent-BaseIntercom.desc}
 
 # From: Entities/Structures/Wallmounts/memorial.yml
 
@@ -11977,16 +12014,19 @@ ent-ShelfWood = prateleira de madeira
 # From: Entities/Structures/Wallmounts/shotgun_cabinet.yml
 
 ent-ShotGunCabinet = armário de escopeta
-    .desc = Há um pequeno rótulo que diz \"Somente para uso de emergência\" junto com detalhes para uso seguro da escopeta. Como se.
+    .desc = Há um pequeno rótulo que diz \"Somente para uso de emergência\" junto com detalhes para uso seguro da escopeta - como se você fosse seguir isso.
 
 ent-ShotGunCabinetFilled = {ent-ShotGunCabinet}
     .suffix = Preenchido
+    .desc = {ent-ShotGunCabinet.desc}
 
 ent-ShotGunCabinetFilledOpen = {ent-ShotGunCabinet}
     .suffix = Preenchido, Aberto
+    .desc = {ent-ShotGunCabinet.desc}
 
 ent-ShotGunCabinetOpen = {ent-ShotGunCabinet}
     .suffix = Aberto
+    .desc = {ent-ShotGunCabinet.desc}
 
 # From: Entities/Structures/Wallmounts/Signs/atmos_plaque.yml
 
@@ -13807,60 +13847,79 @@ ent-BaseRailing = corrimão
 # Abstract entity (referenceable by children)
 
 ent-BaseWall = parede base
-    .desc = Mantém o ar dentro e a greytide fora.
+    .desc = Mantém o ar dentro e a quimera fora.
 
 ent-WallAndesiteCobblebrick = parede de tijolos de andesito
+    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallAsteroidCobblebrick = parede de tijolos de pedra de asteroide
+    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallBasaltCobblebrick = parede de tijolos de basalto
+    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallBrick = parede de tijolos
+    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallChromiteCobblebrick = parede de tijolos de cromita
+    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallClock = parede de relógio
+    .desc = {ent-BaseWall.desc}
 
 ent-WallClown = parede de banânio
+    .desc = {ent-BaseWall.desc}
 
 ent-WallCobblebrick = parede de tijolos de calçamento
     .desc = Pedra por pedra, perfeitamente encaixadas para formar uma parede.
 
 ent-WallCult = parede de culto
+    .desc = {ent-BaseWall.desc}
 
 ent-WallDebug = parede de debug
+    .desc = {ent-BaseWall.desc}
     .suffix = DEBUG
 
 ent-WallDiamond = parede de diamante
+    .desc = {ent-BaseWall.desc}
 
 ent-WallForce = parede de força
+    .desc = {ent-BaseWall.desc}
 
 ent-WallGold = parede de ouro
+    .desc = {ent-BaseWall.desc}
 
 ent-WallIce = parede de gelo
+    .desc = {ent-BaseWall.desc}
 
 ent-WallInvisible = parede invisível
+    .desc = {ent-BaseWall.desc}
 
 ent-WallMeat = parede de carne
     .desc = Pegajosa.
 
 ent-WallMining = parede de mineração
+    .desc = {ent-BaseWall.desc}
 
 ent-WallMiningDiagonal = parede de mineração
+    .desc = {ent-BaseWall.desc}
     .suffix = diagonal
 
 ent-WallNecropolis = parede de pedra
+    .desc = {ent-BaseWall.desc}
 
 ent-WallPlasma = parede de plasma
+    .desc = {ent-BaseWall.desc}
 
 ent-WallPlastic = parede de plástico
+    .desc = {ent-BaseWall.desc}
 
 ent-WallPlastitanium = parede de plastitânio
-    .desc = Mantém o ar dentro e a quimera fora.
+    .desc = {ent-BaseWall.desc}
 
 ent-WallPlastitaniumDiagonal = parede de plastitânio
     .suffix = diagonal
-    .desc = Mantém o ar dentro e a quimera fora.
+    .desc = {ent-BaseWall.desc}
 
 ent-WallPlastitaniumDiagonalIndestructible = parede de plastitânio
     .suffix = diagonal, indestrutível
@@ -13871,106 +13930,131 @@ ent-WallPlastitaniumIndestructible = parede de plastitânio
     .desc = Skub sabe que esta parede é muito difícil de destruir.
 
 ent-WallReinforced = parede reforçada
+    .desc = {ent-BaseWall.desc}
 
 ent-WallReinforcedChitin = quitina reforçada
+    .desc = {ent-BaseWall.desc}
 
 ent-WallReinforcedDiagonal = parede reforçada
+    .desc = {ent-BaseWall.desc}
     .suffix = diagonal
 
 ent-WallReinforcedRust = {ent-WallReinforced}
+    .desc = {ent-BaseWall.desc}
     .suffix = enferrujada
 
 ent-WallRiveted = parede rebiteada
     .suffix = APENAS POSTO
 
 ent-WallSandCobblebrick = parede de tijolos de arenito
+    .desc = {ent-BaseWall.desc}
+    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallSandstone = parede de arenito
+    .desc = {ent-BaseWall.desc}
 
 ent-WallShuttle = parede de shuttle
+    .desc = {ent-BaseWall.desc}
     .suffix = Reforçada, Externa
 
 ent-WallShuttleDiagonal = parede de shuttle
     .suffix = Diagonal
-    .desc = Mantém o ar dentro e a greytide fora.
+    .desc = {ent-BaseWall.desc}
 
 ent-WallShuttleInterior = parede de shuttle
+    .desc = {ent-BaseWall.desc}
     .suffix = Interna
 
 ent-WallSilver = parede de prata
+    .desc = {ent-BaseWall.desc}
 
 ent-WallSnowCobblebrick = parede de tijolos de neve
     .desc = Uma parede fria, não tão impenetrável.
 
 ent-WallSolid = parede sólida
+    .desc = {ent-BaseWall.desc}
 
 ent-WallSolidChitin = quitina sólida
+    .desc = {ent-BaseWall.desc}
 
 ent-WallSolidDiagonal = parede sólida
+    .desc = {ent-BaseWall.desc}
     .suffix = diagonal
 
 ent-WallSolidRust = {ent-WallSolid}
+    .desc = {ent-BaseWall.desc}
     .suffix = enferrujada
 
 ent-WallUranium = parede de urânio
+    .desc = {ent-BaseWall.desc}
 
 ent-WallVaultAlien = parede de cofre alienígena
     .desc = Uma parede misteriosa ornamentada. Pode haver perigos antigos dentro.
 
 ent-WallVaultRock = parede de cofre de rocha
+    .desc = {ent-BaseWall.desc}
 
 ent-WallVaultSandstone = parede de cofre de arenito
+    .desc = {ent-BaseWall.desc}
 
 ent-WallWeb = parede de teia
     .desc = Mantém as aranhas dentro e a quimera fora.
 
 ent-WallWood = parede de madeira
-    .desc = A defesa tradicional da greytide.
+    .desc = A defesa tradicional dos tiders.
 
 # From: Entities/Structures/Windows/clockwork.yml
 
 ent-ClockworkWindow = janela de relógio
-    .desc = Não manche o latão ali embaixo.
+    .desc = Cuidado pra não manchar o latão ali em baixo.
 
-ent-ClockworkWindowDiagonal = {ent-ClockworkWindow}
+ent-ClockworkWindowDiagonal = {ent-ClockworkWindow} diagonal
     .suffix = diagonal
+    .desc = {ent-ClockworkWindow.desc}
 
-ent-WindowClockworkDirectional = janela de relógio direcional
-    .desc = Não manche o latão ali embaixo.
+ent-WindowClockworkDirectional = {ent-ClockworkWindow} direcional
+    .desc = {ent-ClockworkWindow.desc}
 
 # From: Entities/Structures/Windows/mining.yml
 
 ent-MiningWindow = janela de mineração
+    .desc = {ent-Window.desc}
 
 ent-MiningWindowDiagonal = janela de mineração
     .suffix = diagonal
+    .desc = {ent-MiningWindow.desc}
 
 # From: Entities/Structures/Windows/plasma.yml
 
 ent-PlasmaWindow = janela de plasma
+    .desc = {ent-Window.desc}
 
 ent-PlasmaWindowDiagonal = {ent-PlasmaWindow}
     .suffix = diagonal
+    .desc = {ent-PlasmaWindow.desc}
 
 ent-PlasmaWindowDirectional = janela de plasma direcional
-    .desc = Não manche o vidro ali embaixo.
+    .desc = {ent-PlasmaWindow.desc}
 
 # From: Entities/Structures/Windows/plastitanium.yml
 
 ent-PlastitaniumWindow = janela de plastitânio
+    .desc = {ent-PlastitaniumWindowBase.desc}
 
 # Abstract entity (referenceable by children)
 
 ent-PlastitaniumWindowBase = janela de plastitânio
-    .desc = Não manche o vidro ali embaixo.
+    .desc = {ent-Window.desc}
 
 ent-PlastitaniumWindowDiagonal = janela de plastitânio
     .suffix = diagonal
+    .desc = {ent-PlastitaniumWindowDiagonalBase.desc}
 
 # Abstract entity (referenceable by children)
 
 ent-PlastitaniumWindowDiagonalBase = janela de plastitânio
     .suffix = diagonal
+    .desc = {ent-PlastitaniumWindowBase.desc}
 
 ent-PlastitaniumWindowDiagonalIndestructible = janela de plastitânio
     .suffix = diagonal, indestrutível
@@ -13987,65 +14071,78 @@ ent-PlastitaniumWindowSquareBase = janela de plastitânio
 # From: Entities/Structures/Windows/reinforced.yml
 
 ent-ReinforcedWindow = janela reforçada
+    .desc = {ent-Window.desc}
 
-ent-ReinforcedWindowDiagonal = {ent-ReinforcedWindow}
+ent-ReinforcedWindowDiagonal = {ent-ReinforcedWindow} diagonal
     .suffix = diagonal
+    .desc = {ent-ReinforcedWindow.desc}
 
-ent-WindowReinforcedDirectional = janela reforçada direcional
-    .desc = Não manche o vidro ali embaixo.
+ent-WindowReinforcedDirectional = {ent-ReinforcedWindow} direcional
+    .desc = {ent-ReinforcedWindow.desc}
 
 # From: Entities/Structures/Windows/rplasma.yml
 
 ent-PlasmaReinforcedWindowDirectional = janela de plasma reforçada direcional
-    .desc = Não manche o vidro ali embaixo.
+    .desc = {ent-ReinforcedWindow.desc}
 
 ent-ReinforcedPlasmaWindow = janela de plasma reforçada
+    .desc = {ent-Window.desc}
 
-ent-ReinforcedPlasmaWindowDiagonal = {ent-ReinforcedPlasmaWindow}
+ent-ReinforcedPlasmaWindowDiagonal = {ent-ReinforcedPlasmaWindow} diagonal
     .suffix = diagonal
+    .desc = {ent-ReinforcedPlasmaWindow.desc}
 
 # From: Entities/Structures/Windows/ruranium.yml
 
 ent-ReinforcedUraniumWindow = janela de urânio reforçada
+    .desc = {ent-Window.desc}
 
-ent-ReinforcedUraniumWindowDiagonal = {ent-ReinforcedUraniumWindow}
+ent-ReinforcedUraniumWindowDiagonal = {ent-ReinforcedUraniumWindow} diagonal
     .suffix = diagonal
+    .desc = {ent-ReinforcedUraniumWindow.desc}
 
 ent-UraniumReinforcedWindowDirectional = janela de urânio reforçada direcional
-    .desc = Não manche o vidro ali embaixo.
+    .desc = {ent-ReinforcedUraniumWindow.desc}
 
 # From: Entities/Structures/Windows/shuttle.yml
 
 ent-ShuttleWindow = janela de shuttle
+    .desc = {ent-Window.desc}
 
-ent-ShuttleWindowDiagonal = {ent-ShuttleWindow}
+ent-ShuttleWindowDiagonal = {ent-ShuttleWindow} diagonal
     .suffix = diagonal
+    .desc = {ent-ShuttleWindow.desc}
 
 # From: Entities/Structures/Windows/uranium.yml
 
 ent-UraniumWindow = janela de urânio
+    .desc = {ent-Window.desc}
 
-ent-UraniumWindowDiagonal = {ent-UraniumWindow}
+ent-UraniumWindowDiagonal = {ent-UraniumWindow} diagonal
     .suffix = diagonal
+    .desc = {ent-UraniumWindow.desc}
 
 ent-UraniumWindowDirectional = janela de urânio direcional
-    .desc = Não manche o vidro ali embaixo.
+    .desc = Cuidado pra não manchar o vidro ali em baixo.
+    .desc = {ent-UraniumWindow.desc}
 
 # From: Entities/Structures/Windows/window.yml
 
 ent-TintedWindow = janela fosca
+    .desc = {ent-Window.desc}
 
 ent-Window = janela
-    .desc = Não manche o vidro ali embaixo.
+    .desc = Cuidado pra não manchar o vidro ali em baixo.
 
-ent-WindowDiagonal = {ent-Window}
+ent-WindowDiagonal = {ent-Window} diagonal
     .suffix = diagonal
+    .desc = {ent-Window.desc}
 
-ent-WindowDirectional = janela direcional
-    .desc = Não manche o vidro ali embaixo.
+ent-WindowDirectional = {ent-Window} direcional
+    .desc = {ent-Window.desc}
 
-ent-WindowFrostedDirectional = janela fosca direcional
-    .desc = Não manche o vidro ali embaixo.
+ent-WindowFrostedDirectional = {ent-Window} fosca direcional
+    .desc = {ent-TintedWindow.desc}
 
 # From: Entities/Structures/Windows/xenoresin.yml
 
@@ -14081,7 +14178,7 @@ ent-FloorSnowChasm = {ent-FloorChasmEntity}
 # From: Entities/Tiles/lava.yml
 
 ent-FloorLavaEntity = lava
-    .desc = Não pule. Não vale a pena, não importa o quão engraçado seja.
+    .desc = Não se joga. Não vale a pena, não importa o quão engraçado seja.
 
 # From: Entities/Tiles/liquid_plasma.yml
 
@@ -18615,7 +18712,7 @@ ent-ClothingOuterWinterCargo = casaco de inverno de carga
 
 ent-ClothingOuterWinterCE = casaco de inverno do engenheiro-chefe
 
-ent-ClothingOuterWinterCentcom = casaco de inverno do ComCent
+ent-ClothingOuterWinterCentcom = casaco de inverno do CentComm
 
 ent-ClothingOuterWinterChef = casaco de freezer do chefe
     .desc = Um casaco projetado especificamente para trabalhar dentro de câmaras frias, dolorosamente necessário para chefes lagartos de sangue frio.
@@ -19307,17 +19404,17 @@ ent-ClothingUniformJumpsuitCasualPurple = macacão casual roxo
 ent-ClothingUniformJumpsuitCasualRed = macacão casual vermelho
     .desc = Uma camisa vermelha solta gasta com uma calça cinza, perfeita para alguém procurando relaxar.
 
-ent-ClothingUniformJumpsuitCentcomAgent = macacão de agente do ComCent
-    .desc = Um terno usado pela equipe legal do ComCent. Cheira a café queimado.
+ent-ClothingUniformJumpsuitCentcomAgent = macacão de agente do CentComm
+    .desc = Um terno usado pela equipe legal do CentComm. Cheira a café queimado.
 
 ent-ClothingUniformJumpsuitCentcomFormal = terno formal do comando central
     .desc = Um terno para ocasiões especiais.
 
-ent-ClothingUniformJumpsuitCentcomOfficer = macacão de oficial do ComCent
-    .desc = É um macacão usado por Oficiais do ComCent.
+ent-ClothingUniformJumpsuitCentcomOfficer = macacão de oficial do CentComm
+    .desc = É um macacão usado por Oficiais do CentComm.
 
-ent-ClothingUniformJumpsuitCentcomOfficial = macacão de oficial do ComCent
-    .desc = É um macacão usado por Oficiais do ComCent.
+ent-ClothingUniformJumpsuitCentcomOfficial = macacão de oficial do CentComm
+    .desc = É um macacão usado por Oficiais do CentComm.
 
 ent-ClothingUniformJumpsuitChaplain = macacão de capelão
     .desc = É um macacão preto, frequentemente usado por gente religiosa.
@@ -19377,19 +19474,19 @@ ent-ClothingUniformJumpsuitERTChaplain = uniforme de capelão da ERT
     .desc = Um traje especial feito para o corpo de capelães de elite do Comando Central.
 
 ent-ClothingUniformJumpsuitERTEngineer = uniforme de engenharia da ERT
-    .desc = Um traje especial feito para os engenheiros de elite sob o ComCent.
+    .desc = Um traje especial feito para os engenheiros de elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitERTJanitor = uniforme de zeladoria da ERT
-    .desc = Um traje especial feito para os zeladores de elite sob o ComCent.
+    .desc = Um traje especial feito para os zeladores de elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitERTLeader = uniforme de líder da ERT
-    .desc = Um traje especial feito para o melhor dos elite sob o ComCent.
+    .desc = Um traje especial feito para o melhor dos elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitERTMedic = uniforme médico da ERT
-    .desc = Um traje especial feito para os médicos de elite sob o ComCent.
+    .desc = Um traje especial feito para os médicos de elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitERTSecurity = uniforme de segurança da ERT
-    .desc = Um traje especial feito para a segurança de elite sob o ComCent.
+    .desc = Um traje especial feito para a segurança de elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitFamilyGuy = roupas familiares
     .desc = Faz você lembrar da vez que você fez algo engraçado.
@@ -21469,7 +21566,7 @@ ent-MobSpiderSpaceSalvage = {ent-MobSpiderSpace}
 # From: Entities/Mobs/NPCs/spacetick.yml
 
 ent-MobTick = carrapato espacial
-    .desc = É um carrapato espacial, cuidado com sua mordida nasty. ComCent relata que 90 por cento das amputações de perna de cargueiros são devidas a mordidas de carrapato espacial.
+    .desc = É um carrapato espacial, cuidado com sua mordida nasty. CentComm relata que 90 por cento das amputações de perna de cargueiros são devidas a mordidas de carrapato espacial.
 
 ent-MobTickSalvage = {ent-MobTick}
     .suffix = Regras de Salvamento
@@ -21627,7 +21724,7 @@ ent-MobHumanWizard = Mago
 ent-RandomHumanoidSpawnerCBURNUnit = Agente CBURN
     .suffix = ERTFunção
 
-ent-RandomHumanoidSpawnerCentcomOfficial = oficial do ComCent
+ent-RandomHumanoidSpawnerCentcomOfficial = oficial do CentComm
 
 ent-RandomHumanoidSpawnerCluwne = Cluwne
     .suffix = gera um cluwne
@@ -21828,7 +21925,7 @@ ent-RandomHumanoidVisitorJanitor = função de fantasia de zelador visitante
 
 ent-RandomHumanoidVisitorLawyer = função de fantasia de advogado visitante
 
-ent-RandomHumanoidVisitorLawyerCentcom = função de fantasia de advogado do ComCent visitante
+ent-RandomHumanoidVisitorLawyerCentcom = função de fantasia de advogado do CentComm visitante
 
 ent-RandomHumanoidVisitorLibrarian = função de fantasia de bibliotecário visitante
 
@@ -21967,7 +22064,7 @@ ent-VisitorHOSSpawner = gerador de chefe de segurança visitante
 
 ent-VisitorJanitorSpawner = gerador de zelador visitante
 
-ent-VisitorLawyerCentcomSpawner = gerador de advogado do ComCent visitante
+ent-VisitorLawyerCentcomSpawner = gerador de advogado do CentComm visitante
 
 ent-VisitorLawyerSpawner = gerador de advogado visitante
 
@@ -25710,7 +25807,7 @@ ent-PortableScrubberMachineCircuitBoard = placa de máquina de scrubber portáti
     .desc = Uma placa de circuito impresso de máquina para um scrubber portátil.
 
 ent-PowerCageRechargerCircuitboard = placa de máquina de recarregador de gaiola
-    .desc = Uma placa de circuito impresso de máquina para um recarregador de gaiola de energia.
+    .desc = Uma placa de circuito impresso de máquina para um recarregador de cápsula de energia.
 
 ent-ProtolatheHyperConvectionMachineCircuitboard = placa de máquina de torno avançado de conveção hiper
     .desc = Uma placa de circuito impresso de máquina para um torno avançado de conveção hiper.

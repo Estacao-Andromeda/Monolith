@@ -4985,7 +4985,10 @@ ent-VehicleKeyHoverbikeNF = chaves de hoverbike
 
 # From: _NF/Entities/Objects/Vehicles/vehicles.yml
 
-ent-NFVehicleJanicartKey = {ent-VehicleJanicart}
+ent-NFVehicleJanicart = {ent-VehicleJanicart}
+    .desc = {ent-VehicleJanicart.desc}
+
+ent-NFVehicleJanicartKey = {ent-NFVehicleJanicart}
     .suffix = Com chave
 
 ent-VehicleATVNF = ATV
@@ -6276,7 +6279,7 @@ ent-ComputerWallmountFrame = computador
 # From: _NF/Entities/Structures/Machines/contraband_pallet.yml
 
 ent-ContrabandPallet = palete de troca de contrabando
-    .desc = Designa itens válidos para trocar com ComCent por Créditos Militares da Federação.
+    .desc = Designa itens válidos para trocar com CentComm por Créditos Militares da Federação.
 
 ent-ContrabandPalletPirate = plataforma de troca de dados
     .desc = Envia ativos roubados e contrabando para fichas de dados.
@@ -6675,38 +6678,49 @@ ent-GaslockFrame = gás-lock portátil
 
 ent-GasPressurePumpOn = {ent-GasPressurePump}
     .suffix = Ligado
+    .desc = {ent-GasPressurePump.desc}
 
 ent-GasPressurePumpOnMax = {ent-GasPressurePump}
     .suffix = Ligado, Max
+    .desc = {ent-GasPressurePump.desc}
 
 ent-GasVolumePumpOn = {ent-GasVolumePump}
     .suffix = Ligado
+    .desc = {ent-GasVolumePump.desc}
 
 # From: _NF/Entities/Structures/Piping/Atmospherics/trinary.yml
 
 ent-GasFilterNitrogenOn = {ent-GasFilterBase}
     .suffix = Ligado, Nitrogênio
+    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterNitrogenOnFlipped = {ent-GasFilterFlipped}
     .suffix = Ligado, Nitrogênio, Invertido
+    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterOn = {ent-GasFilterBase}
     .suffix = Ligado
+    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterOnFlipped = {ent-GasFilterFlipped}
     .suffix = Ligado, Invertido
+    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterOxygenOn = {ent-GasFilterBase}
     .suffix = Ligado, Oxigênio
+    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterOxygenOnFlipped = {ent-GasFilterFlipped}
     .suffix = Ligado, Oxigênio, Invertido
+    .desc = {ent-GasFilterBase.desc}
 
 ent-GasMixerOn = {ent-GasMixer}
     .suffix = Ligado
+    .desc = {ent-GasMixer.desc}
 
 ent-GasMixerOnFlipped = {ent-GasMixerFlipped}
     .suffix = Ligado, Invertido
+    .desc = {ent-GasMixer.desc}
 
 # From: _NF/Entities/Structures/Piping/Atmospherics/unary.yml
 
@@ -6719,6 +6733,7 @@ ent-GasSalePoint = ponto de venda de gás
 
 ent-GasSalePort = porta de venda de gás
     .suffix = Acoplável
+    .desc = {ent-GasSalePoint.desc}
 
 # From: _NF/Entities/Structures/Power/chargers.yml
 
@@ -6736,34 +6751,43 @@ ent-PortableGeneratorDKJr = gerador portátil tipo D-K Jr.
     .desc = Um reator de fissão Dunn-Kikko miniaturizado. Use com cautela.\nFunciona com banânio e tem classificação de até 100 kW.\nBastante radioativo sem proteção.
 
 ent-PortableGeneratorDKJrShuttle = {ent-PortableGeneratorDKJr}
-    .suffix = Banânio, Rad-, 60 kW, Navio
+    .suffix = Banânio, Rad-, 60 kW, Nave
+    .desc = {ent-PortableGeneratorDKJr.desc}
 
 ent-PortableGeneratorDKShuttle = {ent-PortableGeneratorDK}
-    .suffix = Banânio, Rad+, 60 kW, Navio
+    .suffix = Banânio, Rad+, 60 kW, Nave
+    .desc = {ent-PortableGeneratorDK.desc}
 
 ent-PortableGeneratorJrPacmanShuttle = {ent-PortableGeneratorJrPacman}
-    .suffix = Combustível de Solda, 6 kW, Navio
+    .suffix = Combustível de Solda, 6 kW, Nave
+    .desc = {ent-PortableGeneratorJrPacman.desc}
 
 ent-PortableGeneratorPacmanShuttle = {ent-PortableGeneratorPacman}
-    .suffix = Plasma, 15 kW, Navio
+    .suffix = Plasma, 15 kW, Nave
+    .desc = {ent-PortableGeneratorPacman.desc}
 
 ent-PortableGeneratorSuperPacmanShuttle = {ent-PortableGeneratorSuperPacman}
-    .suffix = Urânio, 30 kW, Navio
+    .suffix = Urânio, 30 kW, Nave
+    .desc = {ent-PortableGeneratorSuperPacman.desc}
 
 # From: _NF/Entities/Structures/Shuttles/cannons.yml
 
 ent-ShuttleGunDusterNfsd = {ent-ShuttleGunDuster}
     .suffix = TSFMC
+    .desc = {ent-ShuttleGunDuster}
 
 ent-ShuttleGunFriendshipNfsd = {ent-ShuttleGunFriendship}
     .suffix = TSFMC
+    .desc = {ent-ShuttleGunFriendship}
 
 # From: _NF/Entities/Structures/Shuttles/station_anchor.yml
 
 ent-MiniStationAnchor = âncora de mini estação
+    .desc = {ent-StationAnchorBase.desc}
 
 ent-MiniStationAnchorOff = {ent-MiniStationAnchor}
     .suffix = Desligado
+    .desc = {ent-MiniStationAnchor.desc}
 
 # From: _NF/Entities/Structures/Shuttles/thrusters_nfsd.yml
 
@@ -11304,7 +11328,7 @@ ent-ClothingUniformJumpsuitChaplainPilgrimVest = macacão de peregrino
     .desc = Toc-toc. Você gostaria de ter uma palavra sobre nosso Senhor-e-Salvador Nar-Sss.. Err.. Space Jeebus?
 
 ent-ClothingUniformJumpsuitERTMailCarrier = uniforme de carteiro da RET
-    .desc = Um terno especial feito para os carteiros de elite sob o ComCent.
+    .desc = Um terno especial feito para os carteiros de elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitGalaxyBlue = terno azul galáxia
     .desc = Terno azul ou aqueles que conduzem negócios em escala galáctica.

@@ -22,8 +22,8 @@ gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} está vazio.
 gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} já está completamente carregado.
 
 # CartridgeAmmo
-gun-cartridge-spent = Está [color=red]gasta[/color].
-gun-cartridge-unspent = Está [color=lime]não gasta[/color].
+gun-cartridge-spent = Já [color=red]foi gastada[/color].
+gun-cartridge-unspent = Ainda [color=lime]não foi gastada[/color].
 
 # BatteryAmmoProvider
 gun-battery-examine = Tem carga suficiente para [color={$color}]{$count}[/color] tiros.
