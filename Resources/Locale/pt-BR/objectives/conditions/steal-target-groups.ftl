@@ -60,7 +60,7 @@ steal-target-groups-fire-axe = machado de bombeiro
 
 steal-target-groups-ame-part-flatpack = flatpack de AME
 
-steal-target-groups-salvage-expeditions-computer-circuitboard = placa de computador de expedições de salvamento
+steal-target-groups-salvage-expeditions-computer-circuitboard = placa de computador de expedições de salvagem
 
 steal-target-groups-cargo-shuttle-console-circuitboard = placa de console de nave de carga
 

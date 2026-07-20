@@ -2599,7 +2599,7 @@ ent-BookHowToKeepStationClean = como manter a estação limpa
     .desc = Este livro é muito limpo.
 
 ent-BookHowToRockAndStone = como rock and stone
-    .desc = Um guia muito detalhado sobre salvamento escrito por Karl, um minerador espacial lendário, no entanto ele está desaparecido. Ele te motiva a rock and stone.
+    .desc = Um guia muito detalhado sobre salvagem escrito por Karl, um minerador espacial lendário, no entanto ele está desaparecido. Ele te motiva a rock and stone.
 
 ent-BookHowToSurvive = como sobreviver
     .desc = Ironicamente, o autor deste livro está morto.
@@ -3058,7 +3058,7 @@ ent-ResearchAssistantIDCard = cartão de ID de assistente de pesquisa
 ent-ResearchIDCard = cartão de ID de pesquisa
     .desc = {ent-IDCardStandard.desc}
 
-ent-SalvageIDCard = cartão de ID de salvamento
+ent-SalvageIDCard = cartão de ID de salvagem
     .desc = {ent-IDCardStandard.desc}
 
 ent-SecurityCadetIDCard = cartão de ID de cadete de segurança
@@ -5475,12 +5475,12 @@ ent-PositronicBrain = cérebro positrônico
 # From: Entities/Objects/Specific/Salvage/ore_bag_holding.yml
 
 ent-OreBagOfHolding = bolsa de minério de manutenção
-    .desc = Uma bolsa robusta de manutenção para bilionários de salvatagem e mineiros ricos transportarem grandes quantidades de minério. Magnetiza qualquer minério próximo quando anexada a um cinto.
+    .desc = Uma bolsa robusta de manutenção para bilionários de salvagem e mineiros ricos transportarem grandes quantidades de minério. Magnetiza qualquer minério próximo quando anexada a um cinto.
 
 # From: Entities/Objects/Specific/Salvage/ore_bag.yml
 
 ent-OreBag = bolsa de minério
-    .desc = Uma bolsa robusta para especialistas de salvatagem e mineiros transportarem grandes quantidades de minério. Magnetiza qualquer minério próximo quando anexada a um cinto.
+    .desc = Uma bolsa robusta para especialistas de salvagem e mineiros transportarem grandes quantidades de minério. Magnetiza qualquer minério próximo quando anexada a um cinto.
 
 # From: Entities/Objects/Specific/Salvage/scanner.yml
 
@@ -5608,8 +5608,8 @@ ent-VendingMachineRestockRobotics = caixa de reposição Robotech Deluxe
 ent-VendingMachineRestockRobustSoftdrinks = caixa de reposição de bebidas
     .desc = Um recipiente frio e desajeitado de cilindros frios colidentes. Use apenas conforme dirigido pela Robust Industries, LLC. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SE DANIFICADA."
 
-ent-VendingMachineRestockSalvageEquipment = caixa de reposição de Vendedor de Salvatagem
-    .desc = Golpeie a terra antes que a carpa espacial morda sua traseira! Encaixe em um vendedor de salvatagem para começar. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SE DANIFICADA."
+ent-VendingMachineRestockSalvageEquipment = caixa de reposição de Vendedor de Salvagem
+    .desc = Golpeie a terra antes que a carpa espacial morda sua traseira! Encaixe em um vendedor de salvagem para começar. Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SE DANIFICADA."
 
 ent-VendingMachineRestockSecTech = caixa de reposição SecTech
     .desc = Comunistas cuidado: os reforços chegaram! Um rótulo diz "A CAIXA É À PROVA DE TAMPER E DESTRUIRÁ SEU CONTEÚDO SE DANIFICADA."
@@ -7235,8 +7235,8 @@ ent-SpearUranium = lança de urânio
 
 # From: Entities/Objects/Weapons/Melee/stunprod.yml
 
-ent-Stunprod = choque elétrico
-    .desc = Um choque elétrico para incapacitação questionavelmente legal.
+ent-Stunprod = bastão de choque caseiro
+    .desc = Um bastão de choque caseiro para incapacitação. Legalidade duvidosa.
 
 # From: Entities/Objects/Weapons/Melee/sword.yml
 
@@ -8185,7 +8185,7 @@ ent-AirlockMaintRnDMedLocked = {ent-AirlockMaint}
 ent-AirlockMaintSalvageLocked = {ent-AirlockMaint}
     .desc = { ent-AirlockMaint.desc }
     .desc = {ent-Airlock.desc}
-    .suffix = Salvamento, Travado
+    .suffix = Salvagem, Travado
 
 ent-AirlockMaintSecLocked = {ent-AirlockMaint}
     .desc = { ent-AirlockMaint.desc }
@@ -8240,12 +8240,12 @@ ent-AirlockMedicalScienceLocked = {ent-Airlock}
 ent-AirlockMiningGlassLocked = {ent-AirlockGlass}
     .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
-    .suffix = Mineração(Salvamento), Travado
+    .suffix = Mineração(Salvagem), Travado
 
 ent-AirlockMiningLocked = {ent-Airlock}
     .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
-    .suffix = Mineração(Salvamento), Travado
+    .suffix = Mineração(Salvagem), Travado
 
 ent-AirlockQuartermasterGlassLocked = {ent-AirlockGlass}
     .desc = { ent-AirlockGlass.desc }
@@ -8270,12 +8270,12 @@ ent-AirlockResearchDirectorLocked = {ent-Airlock}
 ent-AirlockSalvageGlassLocked = {ent-AirlockGlass}
     .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
-    .suffix = Salvamento, Travado
+    .suffix = Salvagem, Travado
 
 ent-AirlockSalvageLocked = {ent-Airlock}
     .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
-    .suffix = Salvamento, Travado
+    .suffix = Salvagem, Travado
 
 ent-AirlockScienceGlassLocked = {ent-AirlockGlass}
     .desc = { ent-AirlockGlass.desc }
@@ -8489,12 +8489,12 @@ ent-AirlockMedicalGlass = {ent-AirlockGlass}
 ent-AirlockMining = {ent-Airlock}
     .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
-    .suffix = Mineração(Salvamento)
+    .suffix = Mineração(Salvagem)
 
 ent-AirlockMiningGlass = {ent-AirlockGlass}
     .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
-    .suffix = Mineração(Salvamento)
+    .suffix = Mineração(Salvagem)
 
 ent-AirlockScience = {ent-Airlock}
     .desc = { ent-Airlock.desc }
@@ -9196,7 +9196,7 @@ ent-WindoorSecurePlasma = windoor segura de plasma
 
 ent-WindoorSecureSalvageLocked = {ent-WindoorSecure}
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Salvamento, Travado
+    .suffix = Salvagem, Travado
 
 ent-WindoorSecureScienceLocked = {ent-WindoorSecure}
     .desc = { ent-WindoorSecure.desc }
@@ -10028,8 +10028,8 @@ ent-ComputerResearchAndDevelopment = computador de P&D
 ent-ComputerRoboticsControl = console de controle de robótica
     .desc = Usado para monitorar, desativar e destruir remotamente os ciborgues da estação.
 
-ent-ComputerSalvageExpedition = computador de expedições de salvamento
-    .desc = Usado para aceitar missões de salvamento, se você for forte o suficiente.
+ent-ComputerSalvageExpedition = computador de expedições de salvagem
+    .desc = Usado para aceitar missões de salvagem, se você for forte o suficiente.
 
 ent-ComputerSensorMonitoring = computador de monitoramento de sensores
     .suffix = TESTANDO, NÃO MAPEAR
@@ -10199,7 +10199,7 @@ ent-HolopadCargoMailroom = {ent-Holopad}
 
 ent-HolopadCargoSalvageBay = {ent-Holopad}
     .desc = { ent-Holopad.desc }
-    .suffix = Baia de Salvamento
+    .suffix = Baia de Salvagem
 
 ent-HolopadCargoShuttle = {ent-HolopadLongRange}
     .desc = { ent-HolopadLongRange.desc }
@@ -10845,7 +10845,7 @@ ent-VendingMachineBooze = Booze-O-Mat
     .desc = Uma maravilha tecnológica, supostamente capaz de misturar exatamente a mistura que você gostaria de beber no momento em que pedir uma.
 
 ent-VendingMachineBoozeSyndicate = Bruise-O-Mat
-    .desc = Um Booze-O-Mat recondicionado para aumentar o moral dos operativos. Uma impressão de um macacão vermelho-sangue é visível em um lado, e a tinta parece queimada no outro lado.
+    .desc = Um Booze-O-Mat recondicionado para aumentar o moral dos operativos. Uma impressão de um traje rígido vermelho-sangue é visível em um lado, e a tinta parece queimada no outro lado.
 
 ent-VendingMachineCargoDrobe = CargoDrobe
     .desc = Uma máquina de vendas altamente avançada para comprar roupas relacionadas a carga de graça.
@@ -12247,7 +12247,7 @@ ent-GhostBox = caixa fantasma
 ent-StealthBox = {ent-BaseBigBox}
     .desc = { ent-BaseBigBox.desc }
     .suffix = furtiva
-    .desc = Te fez esperar, hein?
+    .desc = Te fiz esperar, hein?
 
 # From: Entities/Structures/Storage/Closets/closets.yml
 
@@ -12338,9 +12338,11 @@ ent-LockerEvidence = armário de evidências
 
 ent-LockerFreezer = freezer
     .suffix = Cozinha, Trancado
+    .desc = { ent-CrateFreezer.desc }
 
 ent-LockerFreezerBase = freezer
     .suffix = Sem Acesso
+    .desc = { ent-CrateFreezer.desc }
 
 ent-LockerHeadOfPersonnel = armário do chefe de pessoal
 
@@ -12477,7 +12479,7 @@ ent-WardrobePrison = guarda-roupa de prisão
 
 ent-WardrobeRobotics = guarda-roupa de robótica
 
-ent-WardrobeSalvage = guarda-roupa de salvamento
+ent-WardrobeSalvage = guarda-roupa de salvagem
     .desc = Notavelmente não recuperado.
 
 ent-WardrobeScience = guarda-roupa de ciência
@@ -12521,6 +12523,7 @@ ent-CrateEngineering = caixote de engenharia
 ent-CrateEngineeringSecure = caixote de engenharia seguro
 
 ent-CrateFreezer = freezer
+    .desc = Um lugar conveniente para armazenar perecíveis.
 
 ent-CrateGenericSteel = caixote
 
@@ -13701,8 +13704,8 @@ ent-SignDirectionalLibrary = placa direcional de biblioteca
 ent-SignDirectionalMed = placa direcional de médico
     .desc = Uma placa direcional, apontando para onde fica o departamento Médico.
 
-ent-SignDirectionalSalvage = placa direcional de salvamento
-    .desc = Uma placa direcional, apontando para onde fica o departamento de Salvamento.
+ent-SignDirectionalSalvage = placa direcional de salvagem
+    .desc = Uma placa direcional, apontando para onde fica o departamento de Salvagem.
 
 ent-SignDirectionalSci = placa direcional de ciência
     .desc = Uma placa direcional, apontando para onde fica o departamento de Ciência.
@@ -13902,8 +13905,8 @@ ent-SignRND = placa de pesquisa e desenvolvimento
 ent-SignRobo = placa de robótica
     .desc = Uma placa indicando o laboratório de robótica.
 
-ent-SignSalvage = placa de salvamento
-    .desc = Uma placa indicando a área de salvamento.
+ent-SignSalvage = placa de salvagem
+    .desc = Uma placa indicando a área de salvagem.
 
 ent-SignScience = placa de ciência
     .desc = Uma placa indicando a área de ciência.
@@ -14239,7 +14242,7 @@ ent-LockableButtonResearchDirector = {ent-LockableButton}
 
 ent-LockableButtonSalvage = {ent-LockableButton}
     .desc = { ent-LockableButton.desc }
-    .suffix = Salvamento
+    .suffix = Salvagem
 
 ent-LockableButtonSecurity = {ent-LockableButton}
     .desc = { ent-LockableButton.desc }
@@ -15369,13 +15372,13 @@ ent-AsteroidDebrisMedium = detritos de asteroide médios
 
 ent-AsteroidDebrisSmall = detritos de asteroide pequenos
 
-ent-AsteroidSalvageHuge = salvamento de asteroide enorme
+ent-AsteroidSalvageHuge = salvagem de asteroide enorme
 
-ent-AsteroidSalvageLarge = salvamento de asteroide grande
+ent-AsteroidSalvageLarge = salvagem de asteroide grande
 
-ent-AsteroidSalvageMedium = salvamento de asteroide médio
+ent-AsteroidSalvageMedium = salvagem de asteroide médio
 
-ent-AsteroidSalvageSmall = salvamento de asteroide pequeno
+ent-AsteroidSalvageSmall = salvagem de asteroide pequeno
 
 # Abstract entity (referenceable by children)
 
@@ -15590,11 +15593,11 @@ ent-ClothingBeltMartialBlack = faixa preta
 
 # From: Nyanotrasen/Entities/Clothing/Head/hardsuit-helmets.yml
 
-ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = capacete de macacão de combate SA-127
-    .desc = Um capacete de macacão de assalto featuring um polímero translúcido ultra-secreto.
+ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = capacete de traje rígido de combate SA-127
+    .desc = Um capacete de traje rígido de assalto feito com um polímero translúcido ultra-secreto.
 
-ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = capacete de macacão de combate SA-123
-    .desc = Um capacete de macacão avançado projetado para trabalho em operações especiais.
+ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = capacete de traje rígido de combate SA-123
+    .desc = Um capacete de traje rígido avançado projetado para trabalho em operações especiais.
 
 # From: Nyanotrasen/Entities/Clothing/Head/hats.yml
 
@@ -15635,11 +15638,11 @@ ent-ClothingOuterArmorTouseiGusoku = tousei-gusoku
 
 # From: Nyanotrasen/Entities/Clothing/OuterClothing/hardsuits.yml
 
-ent-ClothingOuterHardsuitJuggernautReverseEngineered = macacão de assalto SA-126
+ent-ClothingOuterHardsuitJuggernautReverseEngineered = traje rígido de assalto SA-126
     .suffix = engenharia-reversa
-    .desc = Um macacão feito pelo departamento de aquisições especiais da Nanotrasen para ser hiper-resiliente.
+    .desc = Um traje rígido feito pelo departamento de aquisições especiais da Nanotrasen para ser hiper-resiliente.
 
-ent-ClothingOuterHardsuitSyndieReverseEngineered = macacão de combate SA-122
+ent-ClothingOuterHardsuitSyndieReverseEngineered = traje rígido de combate SA-122
     .suffix = engenharia-reversa
 
 # From: Nyanotrasen/Entities/Clothing/OuterClothing/suits.yml
@@ -16376,7 +16379,7 @@ ent-WizardSurviveObjective = Sobreviva
 
 # From: Procedural/salvage_mods.yml
 
-ent-SalvageShuttleMarker = marcador de nave de salvamento
+ent-SalvageShuttleMarker = marcador de nave de salvagem
 
 # From: Procedural/Themes/maints.yml
 
@@ -16617,9 +16620,9 @@ ent-CratePartsT4 = caixa de peças de nível 4
 
 ent-CrateSalvageAssortedGoodies = {ent-CrateGenericSteel}
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Preenchida, Salvamento Aleatório
+    .suffix = Preenchida, Salvagem Aleatório
 
-ent-CrateSalvageEquipment = caixa de equipamento de salvamento
+ent-CrateSalvageEquipment = caixa de equipamento de salvagem
     .suffix = Preenchida
     .desc = Para os ousados.
 
@@ -16793,8 +16796,8 @@ ent-CrateVendingMachineRestockRoboticsFilled = caixa de reposição Robotech Del
 ent-CrateVendingMachineRestockRobustSoftdrinksFilled = caixa de reposição de bebidas
     .desc = Contém caixas de reposição para máquinas de vendas de bebidas.
 
-ent-CrateVendingMachineRestockSalvageEquipmentFilled = caixa de reposição Salvamento
-    .desc = Contém uma caixa de reposição para o distribuidor de salvamento.
+ent-CrateVendingMachineRestockSalvageEquipmentFilled = caixa de reposição Salvagem
+    .desc = Contém uma caixa de reposição para o distribuidor de salvagem.
 
 ent-CrateVendingMachineRestockSecTechFilled = caixa de reposição SecTech
     .desc = Contém uma caixa de reposição para a máquina de vendas SecTech.
@@ -17043,7 +17046,7 @@ ent-LockerSalvageSpecialistFilled = {ent-LockerSalvageSpecialist}
 
 ent-LockerSalvageSpecialistFilledHardsuit = {ent-LockerSalvageSpecialist}
     .desc = { ent-LockerSalvageSpecialist.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 # From: Catalog/Fills/Lockers/dressers.yml
 
@@ -17095,7 +17098,7 @@ ent-LockerAtmosphericsFilled = {ent-LockerAtmospherics}
 
 ent-LockerAtmosphericsFilledHardsuit = {ent-LockerAtmospherics}
     .desc = { ent-LockerAtmospherics.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 ent-LockerElectricalSuppliesFilled = {ent-LockerElectricalSupplies}
     .desc = { ent-LockerElectricalSupplies.desc }
@@ -17107,7 +17110,7 @@ ent-LockerEngineerFilled = {ent-LockerEngineer}
 
 ent-LockerEngineerFilledHardsuit = {ent-LockerEngineer}
     .desc = { ent-LockerEngineer.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 ent-LockerWeldingSuppliesFilled = {ent-LockerWeldingSupplies}
     .desc = { ent-LockerWeldingSupplies.desc }
@@ -17121,7 +17124,7 @@ ent-LockerCaptainFilled = {ent-LockerCaptain}
 
 ent-LockerCaptainFilledHardsuit = {ent-LockerCaptain}
     .desc = { ent-LockerCaptain.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 ent-LockerCaptainFilledNoLaser = {ent-LockerCaptain}
     .desc = { ent-LockerCaptain.desc }
@@ -17133,7 +17136,7 @@ ent-LockerChiefEngineerFilled = {ent-LockerChiefEngineer}
 
 ent-LockerChiefEngineerFilledHardsuit = {ent-LockerChiefEngineer}
     .desc = { ent-LockerChiefEngineer.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 ent-LockerChiefMedicalOfficerFilled = {ent-LockerChiefMedicalOfficer}
     .desc = { ent-LockerChiefMedicalOfficer.desc }
@@ -17141,7 +17144,7 @@ ent-LockerChiefMedicalOfficerFilled = {ent-LockerChiefMedicalOfficer}
 
 ent-LockerChiefMedicalOfficerFilledHardsuit = {ent-LockerChiefMedicalOfficer}
     .desc = { ent-LockerChiefMedicalOfficer.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 ent-LockerFreezerVaultFilled = {ent-LockerFreezerBase}
     .desc = { ent-LockerFreezerBase.desc }
@@ -17157,7 +17160,7 @@ ent-LockerHeadOfSecurityFilled = {ent-LockerHeadOfSecurity}
 
 ent-LockerHeadOfSecurityFilledHardsuit = {ent-LockerHeadOfSecurity}
     .desc = { ent-LockerHeadOfSecurity.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 ent-LockerQuarterMasterFilled = {ent-LockerQuarterMaster}
     .desc = { ent-LockerQuarterMaster.desc }
@@ -17169,7 +17172,7 @@ ent-LockerResearchDirectorFilled = {ent-LockerResearchDirector}
 
 ent-LockerResearchDirectorFilledHardsuit = {ent-LockerResearchDirector}
     .desc = { ent-LockerResearchDirector.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 # From: Catalog/Fills/Lockers/medical.yml
 
@@ -17276,7 +17279,7 @@ ent-LockerWardenFilled = {ent-LockerWarden}
 
 ent-LockerWardenFilledHardsuit = {ent-LockerWarden}
     .desc = { ent-LockerWarden.desc }
-    .suffix = Preenchida, Macacão Rígido
+    .suffix = Preenchida, Traje rígido
 
 # From: Catalog/Fills/Lockers/service.yml
 
@@ -17329,7 +17332,7 @@ ent-SuitStorageAtmos = {ent-SuitStorageBase}
 
 ent-SuitStorageBasic = {ent-SuitStorageBase}
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Macacão Rígido Básico
+    .suffix = Traje rígido Básico
 
 ent-SuitStorageCaptain = {ent-SuitStorageBase}
     .desc = { ent-SuitStorageBase.desc }
@@ -17389,7 +17392,7 @@ ent-SuitStorageRD = {ent-SuitStorageBase}
 
 ent-SuitStorageSalv = {ent-SuitStorageBase}
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Salvamento
+    .suffix = Salvagem
 
 ent-SuitStorageSec = {ent-SuitStorageBase}
     .desc = { ent-SuitStorageBase.desc }
@@ -17397,7 +17400,7 @@ ent-SuitStorageSec = {ent-SuitStorageBase}
 
 ent-SuitStorageSyndie = {ent-SuitStorageBase}
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Macacão Rígido de Sindicato
+    .suffix = Traje rígido de Sindicato
 
 ent-SuitStorageWarden = {ent-SuitStorageBase}
     .desc = { ent-SuitStorageBase.desc }
@@ -17604,7 +17607,7 @@ ent-ClothingBackpackMercenary = mochila de mercenário
 ent-ClothingBackpackMime = mochila de mímico
     .desc = Uma mochila silenciosa feita para aqueles trabalhadores silenciosos. Silence Co.
 
-ent-ClothingBackpackSalvage = bolsa de salvamento
+ent-ClothingBackpackSalvage = bolsa de salvagem
     .desc = Uma mochila robusta para guardar seu saque.
 
 ent-ClothingBackpackScience = mochila de ciência
@@ -17662,7 +17665,7 @@ ent-ClothingBackpackDuffelMedical = bolsa de transporte médica
 ent-ClothingBackpackDuffelMime = bolsa de transporte de mímico
     .desc = Uma bolsa grande para guardar... coisas... de mímico.
 
-ent-ClothingBackpackDuffelSalvage = bolsa de transporte de salvamento
+ent-ClothingBackpackDuffelSalvage = bolsa de transporte de salvagem
     .desc = Uma bolsa grande para guardar tesouros exóticos extras.
 
 ent-ClothingBackpackDuffelScience = bolsa de transporte de ciência
@@ -17725,7 +17728,7 @@ ent-ClothingBackpackSatchelMedical = maleta médica
 ent-ClothingBackpackSatchelMime = maleta de mímico
     .desc = Uma maleta projetada para a arte silenciosa e expressiva da mímica.
 
-ent-ClothingBackpackSatchelSalvage = maleta de salvamento
+ent-ClothingBackpackSatchelSalvage = maleta de salvagem
     .desc = Uma maleta robusta para guardar seu saque.
 
 ent-ClothingBackpackSatchelScience = maleta de ciência
@@ -17791,7 +17794,7 @@ ent-ClothingBeltMilitaryWebbingMed = colete tático médico
 ent-ClothingBeltPlant = cinturão botânico
     .desc = Um cinturão usado para segurar a maioria dos suprimentos de hidroponia. Surpreendentemente, não é verde.
 
-ent-ClothingBeltSalvageWebbing = equipamento de salvamento
+ent-ClothingBeltSalvageWebbing = equipamento de salvagem
     .desc = Sistema de descarga universal para trabalho no espaço.
 
 ent-ClothingBeltSecurity = cinturão de segurança
@@ -18257,7 +18260,7 @@ ent-ClothingHeadEVAHelmetBase = capacete espacial base
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingHeadHardsuitBase = capacete de macacão rígido base
+ent-ClothingHeadHardsuitBase = capacete de traje rígido base
 
 # Abstract entity (referenceable by children)
 
@@ -18270,7 +18273,7 @@ ent-ClothingHeadLightBase = capacete base com luz
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingHeadSuitWithLightBase = capacete de macacão rígido base com luz
+ent-ClothingHeadSuitWithLightBase = capacete de traje rígido base com luz
 
 # From: Entities/Clothing/Head/eva-helmets.yml
 
@@ -18394,7 +18397,7 @@ ent-ClothingHeadHelmetHardsuitPirateEVA = capacete EVA de espaço profundo
 ent-ClothingHeadHelmetHardsuitRd = capacete de rígido de pesquisa experimental
     .desc = Capacete de rígido leve que não restringe os movimentos da sua cabeça.
 
-ent-ClothingHeadHelmetHardsuitSalvage = capacete de rígido de salvamento
+ent-ClothingHeadHelmetHardsuitSalvage = capacete de rígido de salvagem
     .desc = Um capacete especial projetado para trabalho em ambiente perigoso de baixa pressão. Tem blindagem reforçada para encontros com animais selvagens e dois holofotes.
 
 ent-ClothingHeadHelmetHardsuitSanta = capacete de rígido do Papai Noel
@@ -19165,7 +19168,7 @@ ent-ClothingMaskJoy = máscara de alegria
 ent-ClothingMaskMime = máscara de mímico
     .desc = A máscara tradicional de mímico. Tem uma postura facial sinistra.
 
-ent-ClothingMaskMuzzle = focinho
+ent-ClothingMaskMuzzle = mordaça
     .desc = Para parar aquele barulho horrível.
 
 ent-ClothingMaskNeckGaiter = gorro de pescoço
@@ -19620,7 +19623,7 @@ ent-ClothingOuterEVASuitBase = traje EVA base
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingOuterHardsuitBase = rígido base
+ent-ClothingOuterHardsuitBase = traje rígido base
 
 # From: Entities/Clothing/OuterClothing/bio.yml
 
@@ -19752,14 +19755,14 @@ ent-ClothingOuterDogi = dogi de samurai
 
 # From: Entities/Clothing/OuterClothing/hardsuits.yml
 
-ent-ClothingOuterHardsuitAtmos = rígido atmosférico
+ent-ClothingOuterHardsuitAtmos = traje rígido atmosférico
     .desc = Um traje especial que protege contra ambientes perigosos de baixa pressão. Tem blindagem térmica.
 
-ent-ClothingOuterHardsuitBasic = rígido básico
+ent-ClothingOuterHardsuitBasic = traje rígido básico
     .desc = Um rígido básico universal que protege o usuário contra os horrores da vida no espaço. É melhor do que não ter um rígido, pelo menos.
 
-ent-ClothingOuterHardsuitBrigmedic = rígido de médico de brigada
-    .desc = Rígido especial do anjo da guarda da brigada. É a versão médica do rígido de segurança.
+ent-ClothingOuterHardsuitBrigmedic = traje rígido de médico de brigada
+    .desc = traje rígido especial do anjo da guarda da brigada. É a versão médica do rígido de segurança.
 
 ent-ClothingOuterHardsuitCap = traje espacial blindado do capitão
     .desc = Um traje espacial blindado formal, feito para o capitão da estação.
@@ -19767,98 +19770,98 @@ ent-ClothingOuterHardsuitCap = traje espacial blindado do capitão
 ent-ClothingOuterHardsuitCBURN = exoesqueleto CBURN
     .desc = Um exoesqueleto leve, porém forte, usado para operações especiais de limpeza.
 
-ent-ClothingOuterHardsuitClown = rígido de palhaço
+ent-ClothingOuterHardsuitClown = traje rígido de palhaço
     .desc = Um rígido de palhaço personalizado.
 
-ent-ClothingOuterHardsuitDeathsquad = rígido de esquadrão da morte
+ent-ClothingOuterHardsuitDeathsquad = traje rígido de esquadrão da morte
     .desc = Um rígido avançado favorecido por comandos para uso em operações especiais.
 
-ent-ClothingOuterHardsuitEngineering = rígido de engenharia
+ent-ClothingOuterHardsuitEngineering = traje rígido de engenharia
     .desc = Um traje especial que protege contra ambientes perigosos de baixa pressão. Tem blindagem contra radiação.
 
-ent-ClothingOuterHardsuitEngineeringWhite = rígido do engenheiro chefe
+ent-ClothingOuterHardsuitEngineeringWhite = traje rígido do engenheiro chefe
     .desc = Um rígido especial que protege contra ambientes perigosos de baixa pressão, feito para o engenheiro chefe da estação.
 
-ent-ClothingOuterHardsuitERTChaplain = rígido de capelão da ERT
+ent-ClothingOuterHardsuitERTChaplain = traje rígido de capelão da ERT
     .desc = Um rígido protetor usado pelos capelães de uma Equipe de Resposta de Emergência.
 
-ent-ClothingOuterHardsuitERTEngineer = rígido de engenheiro da ERT
+ent-ClothingOuterHardsuitERTEngineer = traje rígido de engenheiro da ERT
     .desc = Um rígido protetor usado pelos engenheiros de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitERTJanitor = rígido de zelador da ERT
+ent-ClothingOuterHardsuitERTJanitor = traje rígido de zelador da ERT
     .desc = Um rígido protetor usado pelos zeladores de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitERTLeader = rígido de líder da ERT
+ent-ClothingOuterHardsuitERTLeader = traje rígido de líder da ERT
     .desc = Um rígido protetor usado pelo líder de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitERTMedical = rígido de médico da ERT
+ent-ClothingOuterHardsuitERTMedical = traje rígido de médico da ERT
     .desc = Um rígido protetor usado pelos médicos de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitERTSecurity = rígido de segurança da ERT
+ent-ClothingOuterHardsuitERTSecurity = traje rígido de segurança da ERT
     .desc = Um rígido protetor usado pelos oficiais de segurança de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitGoliath = rígido de golias
+ent-ClothingOuterHardsuitGoliath = traje rígido de golias
     .desc = Um rígido leve, adornado com um remendo de couro espesso e quitinoso de golias.
 
 ent-ClothingOuterHardsuitJuggernaut = traje de tanque da Cybersun
     .desc = Um traje originalmente feito pelo departamento de P&D de ponta da cybersun para ser hiper resiliente, agora reciclado e usado pela Dinastia Phaethon. Robusto e durável, mas não totalmente isolado.
 
-ent-ClothingOuterHardsuitLing = macacão espacial orgânico
+ent-ClothingOuterHardsuitLing = traje rígido espacial orgânico
     .desc = Uma biomassa espacial digna de tecido resistente à pressão e temperatura.
 
-ent-ClothingOuterHardsuitLuxury = macacão de mineração de luxo
-    .desc = Um macacão de mineração reformulado, com as cores do Quartel-Mestre. O revestimento de grafeno oferece menos proteção, mas permite muito mais mobilidade.
+ent-ClothingOuterHardsuitLuxury = traje rígido de mineração de luxo
+    .desc = Um traje rígido de mineração reformulado, com as cores do Quartel-Mestre. O revestimento de grafeno oferece menos proteção, mas permite muito mais mobilidade.
 
-ent-ClothingOuterHardsuitMaxim = macacão salvador maxim
+ent-ClothingOuterHardsuitMaxim = traje rígido salvador maxim
     .desc = Fogo. Calor. Estas coisas forjam grandes armas, também forjam grandes salvadores.
 
-ent-ClothingOuterHardsuitMedical = macacão do médico-chefe
+ent-ClothingOuterHardsuitMedical = traje rígido do médico-chefe
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Construído com materiais leves para maior mobilidade.
 
-ent-ClothingOuterHardsuitMime = macacão de mímico
-    .desc = Um macacão de mímico personalizado.
+ent-ClothingOuterHardsuitMime = traje rígido de mímico
+    .desc = Um traje rígido de mímico personalizado.
 
-ent-ClothingOuterHardsuitPirateCap = macacão do capitão pirata
-    .desc = Um macacão blindado antigo, perfeito para se defender contra o escorbuto espacial e saqueiros com caixas de ferramentas.
+ent-ClothingOuterHardsuitPirateCap = traje rígido do capitão pirata
+    .desc = Um traje rígido blindado antigo, perfeito para se defender contra o escorbuto espacial e saqueiros com caixas de ferramentas.
 
-ent-ClothingOuterHardsuitPirateEVA = macacão EVA de espaço profundo
+ent-ClothingOuterHardsuitPirateEVA = traje rígido EVA de espaço profundo
     .suffix = Renegado
-    .desc = Um macacão espacial robusto que oferece proteção básica contra as frias e duras realidades do espaço profundo.
+    .desc = Um traje rígido espacial robusto que oferece proteção básica contra as frias e duras realidades do espaço profundo.
 
-ent-ClothingOuterHardsuitRd = macacão de pesquisa experimental
+ent-ClothingOuterHardsuitRd = traje rígido de pesquisa experimental
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Possui uma camada adicional de blindagem.
 
-ent-ClothingOuterHardsuitSalvage = macacão de mineração
+ent-ClothingOuterHardsuitSalvage = traje rígido de mineração
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Possui placas reforçadas para encontros com vida selvagem.
 
-ent-ClothingOuterHardsuitSanta = macacão do Papai Noel
-    .desc = Um macacão festivo e alegre que protege o generoso presenteador durante passeios de trenó no espaço. Oferece alguma resistência contra impactos de asteroides.
+ent-ClothingOuterHardsuitSanta = traje rígido do Papai Noel
+    .desc = Um traje rígido festivo e alegre que protege o generoso presenteador durante passeios de trenó no espaço. Oferece alguma resistência contra impactos de asteroides.
 
-ent-ClothingOuterHardsuitSecurity = macacão de segurança
+ent-ClothingOuterHardsuitSecurity = traje rígido de segurança
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Possui uma camada adicional de blindagem.
 
-ent-ClothingOuterHardsuitSecurityRed = macacão do chefe de segurança
+ent-ClothingOuterHardsuitSecurityRed = traje rígido do chefe de segurança
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Possui uma camada adicional de blindagem.
 
-ent-ClothingOuterHardsuitSpatio = macacão de espaçonauta
-    .desc = Um macacão leve projetado para atividades extraveiculares industriais em gravidade zero.
+ent-ClothingOuterHardsuitSpatio = traje rígido de espaçonauta
+    .desc = Um traje rígido leve projetado para atividades extraveiculares industriais em gravidade zero.
 
-ent-ClothingOuterHardsuitSyndie = macacão vermelho-sangue
-    .desc = Um macacão pesadamente blindado projetado para operações especiais. Propriedade dos Saqueadores Gorlex.
+ent-ClothingOuterHardsuitSyndie = traje rígido vermelho-sangue
+    .desc = Um traje rígido pesadamente blindado projetado para operações especiais. Propriedade dos Saqueadores Gorlex.
 
-ent-ClothingOuterHardsuitSyndieCommander = macacão do comandante do Sindicato
-    .desc = Uma versão reforçada do macacão vermelho-sangue, construído especificamente para o comandante de um esquadrão de operativos do Sindicato. Possui blindagem significativamente melhorada para aqueles tiroteios mortais na linha de frente.
+ent-ClothingOuterHardsuitSyndieCommander = traje rígido do comandante do Sindicato
+    .desc = Uma versão reforçada do traje rígido vermelho-sangue, construído especificamente para o comandante de um esquadrão de operativos do Sindicato. Possui blindagem significativamente melhorada para aqueles tiroteios mortais na linha de frente.
 
-ent-ClothingOuterHardsuitSyndieElite = macacão de elite do Sindicato
-    .desc = Uma versão de elite do macacão vermelho-sangue, com mobilidade aprimorada e proteção contra fogo. Propriedade dos Saqueadores Gorlex.
+ent-ClothingOuterHardsuitSyndieElite = traje rígido de elite do Sindicato
+    .desc = Uma versão de elite do traje rígido vermelho-sangue, com mobilidade aprimorada e proteção contra fogo. Propriedade dos Saqueadores Gorlex.
 
-ent-ClothingOuterHardsuitSyndieMedic = macacão vermelho-sangue de médico
-    .desc = Um macacão avançado pesadamente blindado e ágil projetado especificamente para operações médicas de campo.
+ent-ClothingOuterHardsuitSyndieMedic = traje rígido vermelho-sangue de médico
+    .desc = Um traje rígido avançado pesadamente blindado e ágil projetado especificamente para operações médicas de campo.
 
-ent-ClothingOuterHardsuitWarden = macacão do carcereiro
+ent-ClothingOuterHardsuitWarden = traje rígido do carcereiro
     .desc = Um traje de controle de distúrbios especializado para combater ambientes de baixa pressão.
 
-ent-ClothingOuterHardsuitWizard = macacão de mago
+ent-ClothingOuterHardsuitWizard = traje rígido de mago
     .desc = Um traje bizarro incrustado de gemas que irradia energias mágicas.
 
 # From: Entities/Clothing/OuterClothing/misc.yml
@@ -19946,23 +19949,23 @@ ent-ClothingOuterWizardViolet = vestes de mago violeta
 
 # From: Entities/Clothing/OuterClothing/softsuits.yml
 
-ent-ClothingOuterHardsuitAncientEVA = macacão de vazio NTSRA
-    .desc = Um macacão espacial antigo, projetado pelo ramo NTSRA da Nanotrasen antes de seu pacto com o Governo Central. É muito bem feito, permitindo maior mobilidade do que a maioria dos macacões espaciais modernos.
+ent-ClothingOuterHardsuitAncientEVA = traje espacial NTSRA
+    .desc = Um traje espacial antigo, projetado pelo ramo NTSRA da Nanotrasen antes de seu pacto com o Governo Central. É muito bem feito, permitindo maior mobilidade do que a maioria dos macacões espaciais modernos.
 
-ent-ClothingOuterHardsuitEVA = macacão EVA
-    .desc = Um macacão espacial leve com a capacidade básica de proteger o usuário do vácuo do espaço durante emergências.
+ent-ClothingOuterHardsuitEVA = traje EVA
+    .desc = Um traje espacial leve com a capacidade básica de proteger o usuário do vácuo do espaço durante emergências.
 
-ent-ClothingOuterHardsuitEVAPrisoner = macacão EVA de prisioneiro
-    .desc = Um macacão espacial leve para prisioneiros se protegerem do vácuo do espaço durante emergências.
+ent-ClothingOuterHardsuitEVAPrisoner = traje EVA de prisioneiro
+    .desc = Um traje espacial leve para prisioneiros se protegerem do vácuo do espaço durante emergências.
 
-ent-ClothingOuterHardsuitSyndicate = macacão EVA do Sindicato
+ent-ClothingOuterHardsuitSyndicate = traje EVA do Sindicato
     .desc = Tem uma etiqueta nas costas que diz: 'Definitivamente não é propriedade de uma corporação inimiga, honesto!'
 
-ent-ClothingOuterHardsuitVoidParamed = macacão de paramédico
-    .desc = Um macacão de vazio feito para paramédicos.
+ent-ClothingOuterHardsuitVoidParamed = traje espacial de paramédico
+    .desc = Um traje espacial feito para paramédicos.
 
-ent-ClothingOuterSuitEmergency = macacão EVA de emergência
-    .desc = Um macacão EVA de emergência com capacete embutido. É horrivelmente lento e carente de proteção térmica, mas suficiente para comprar tempo contra o harsh vácuo do espaço.
+ent-ClothingOuterSuitEmergency = traje EVA de emergência
+    .desc = Um traje EVA de emergência com capacete embutido. É horrivelmente lento e carente de proteção térmica, mas suficiente para ganhar tempo contra o vácuo agonizante do espaço.
 
 # From: Entities/Clothing/OuterClothing/specific.yml
 
@@ -19974,7 +19977,7 @@ ent-ClothingOuterChameleon = colete
 
 ent-ClothingOuterHardsuitCarp = {ent-ClothingOuterSuitCarp}
     .desc = { ent-ClothingOuterSuitCarp.desc }
-    .suffix = Macacão, NÃO MAPEAR
+    .suffix = Traje Rígido, NÃO MAPEAR
 
 ent-ClothingOuterSuitAtmosFire = traje de combate a incêndio atmosférico
     .desc = Um traje de bombeiro caro que protege contra até os incêndios mais mortais da estação. Projetado para proteger mesmo se o usuário estiver em chamas.
@@ -20136,7 +20139,7 @@ ent-ClothingOuterWinterWarden = casaco de inverno blindado de carcereiro
 ent-ClothingOuterWinterWardenUnarmored = casaco de inverno de carcereiro
     .desc = Um casaco robusto, um casaco quente, mas não um casaco blindado.
 
-ent-ClothingOuterWinterWeb = casaco de inverno de tecido
+ent-ClothingOuterWinterWeb = casaco de inverno de teia
     .desc = Parece o interior de um casulo, não que isso tornaria você menos medroso de estar dentro de um.
 
 # From: Entities/Clothing/Shoes/base_clothingshoes.yml
@@ -20171,8 +20174,8 @@ ent-ClothingShoesBootsMercenary = botas de mercenário
 ent-ClothingShoesBootsPerformer = botas de performer
     .desc = Estas botas fornecem ótima tração quando você está no palco.
 
-ent-ClothingShoesBootsSalvage = botas de salvamento
-    .desc = Botas de salvamento com biqueira de aço para salvaguardas em ambientes perigosos.
+ent-ClothingShoesBootsSalvage = botas de salvagem
+    .desc = Botas de salvagem com biqueira de aço para salvaguardas em ambientes perigosos.
 
 ent-ClothingShoesBootsWinter = botas de inverno
 
@@ -20189,8 +20192,8 @@ ent-ClothingShoesBootsWinterSec = botas de inverno de segurança
 ent-ClothingShoesBootsWinterSyndicate = botas de inverno do Sindicato
     .desc = Botas pesadas duráveis, parecem mercadoria de "Sindicatolândia".
 
-ent-ClothingShoesBootsWinterWeb = botas de inverno de tecido
-    .desc = Botas feitas de tecido denso para ajudar a sobreviver até mesmo aos invernos mais frios.
+ent-ClothingShoesBootsWinterWeb = botas de inverno de teia
+    .desc = Botas feitas de teia dens para ajudar a sobreviver até mesmo aos invernos mais frios.
 
 ent-ClothingShoesBootsWork = botas de trabalho
     .desc = Botas de trabalho de engenharia com cadarços para os realmente classe trabalhadora.
@@ -20692,8 +20695,8 @@ ent-ClothingUniformJumpskirtVirology = macacão saia de virologia
 ent-ClothingUniformJumpskirtWarden = uniforme do carcereiro
     .desc = Um terno de segurança formal para oficiais completo com fivela de cintura Star brilhante.
 
-ent-ClothingUniformJumpskirtWeb = macacão saia de tecido
-    .desc = Deixa claro que você é um com os tecidos.
+ent-ClothingUniformJumpskirtWeb = macacão saia de teia
+    .desc = Deixa claro que você é uma com as teias.
 
 # From: Entities/Clothing/Uniforms/jumpsuits.yml
 
@@ -20973,7 +20976,7 @@ ent-ClothingUniformJumpsuitRoboticist = macacão de roboticista
 ent-ClothingUniformJumpsuitSafari = traje de safari
     .desc = Perfeito para uma excursão na selva.
 
-ent-ClothingUniformJumpsuitSalvageSpecialist = macacão de especialista em salvamento
+ent-ClothingUniformJumpsuitSalvageSpecialist = macacão de especialista em salvagem
     .desc = É um macacão elegante com um conjunto robusto de macacão. Está muito sujo.
 
 ent-ClothingUniformJumpsuitScientist = macacão de cientista
@@ -21015,8 +21018,8 @@ ent-ClothingUniformJumpsuitVirology = macacão de virologia
 ent-ClothingUniformJumpsuitWarden = uniforme do carcereiro
     .desc = Um terno de segurança formal para oficiais completo com fivela de cinto Nanotrasen.
 
-ent-ClothingUniformJumpsuitWeb = macacão de tecido
-    .desc = Deixa claro que você é um com os tecidos.
+ent-ClothingUniformJumpsuitWeb = macacão de teia
+    .desc = Deixa claro que você é um com as teias.
 
 ent-ClothingUniformOveralls = macacão
     .desc = Ótimo para trabalhar ao ar livre.
@@ -21558,7 +21561,7 @@ ent-SpawnPointResearchAssistant = assistente de pesquisa
 
 ent-SpawnPointResearchDirector = diretor de pesquisa
 
-ent-SpawnPointSalvageSpecialist = especialista em salvamento
+ent-SpawnPointSalvageSpecialist = especialista em salvagem
 
 ent-SpawnPointScientist = cientista
 
@@ -22024,42 +22027,42 @@ ent-PottedPlantRandomPlastic = spawner de planta em vaso plástica aleatória
 
 # From: Entities/Markers/Spawners/Random/salvage.yml
 
-ent-SalvageFleshSpawner = spawner de Carne de Salvamento
+ent-SalvageFleshSpawner = spawner de Carne de Salvagem
     .suffix = 100
 
-ent-SalvageLootSpawner = spawner de saque de salvamento
+ent-SalvageLootSpawner = spawner de saque de salvagem
 
-ent-SalvageMaterialCrateSpawner = spawner de Caixote de Material de Salvamento
+ent-SalvageMaterialCrateSpawner = spawner de Caixote de Material de Salvagem
 
-ent-SalvageMobSpawner = spawner de Criatura de Salvamento
+ent-SalvageMobSpawner = spawner de Criatura de Salvagem
     .suffix = 25
 
 ent-SalvageMobSpawner75 = {ent-SalvageMobSpawner}
     .desc = { ent-SalvageMobSpawner.desc }
     .suffix = 75
 
-ent-SpaceTickSpawner = spawner de Carrapato Espacial de Salvamento
+ent-SpaceTickSpawner = spawner de Carrapato Espacial de Salvagem
     .suffix = 100
 
-ent-SpawnMobBearSalvage = Spawner de Urso Espacial de Salvamento
+ent-SpawnMobBearSalvage = Spawner de Urso Espacial de Salvagem
 
-ent-SpawnMobCobraSalvage = Spawner de Cobra Espacial de Salvamento
+ent-SpawnMobCobraSalvage = Spawner de Cobra Espacial de Salvagem
 
-ent-SpawnMobKangarooSalvage = Spawner de Canguru Espacial de Salvamento
+ent-SpawnMobKangarooSalvage = Spawner de Canguru Espacial de Salvagem
 
-ent-SpawnMobSpiderSalvage = Spawner de Aranha Espacial de Salvamento
+ent-SpawnMobSpiderSalvage = Spawner de Aranha Espacial de Salvagem
 
 # From: Entities/Markers/Spawners/Random/Salvage/spawners.yml
 
-ent-SalvageCanisterSpawner = spawner de Cilindro de Salvamento
+ent-SalvageCanisterSpawner = spawner de Cilindro de Salvagem
 
-ent-SalvageSpawnerEquipment = Spawner de Equipamento de Salvamento
+ent-SalvageSpawnerEquipment = Spawner de Equipamento de Salvagem
     .suffix = Comum, 75%
 
-ent-SalvageSpawnerEquipmentValuable = Spawner de Equipamento de Salvamento
+ent-SalvageSpawnerEquipmentValuable = Spawner de Equipamento de Salvagem
     .suffix = Valioso, 75%
 
-ent-SalvageSpawnerMobMagnet = Spawner de Criatura Magnética de Salvamento
+ent-SalvageSpawnerMobMagnet = Spawner de Criatura Magnética de Salvagem
     .suffix = 50%
 
 ent-SalvageSpawnerMobMagnet100 = {ent-SalvageSpawnerMobMagnet}
@@ -22072,26 +22075,26 @@ ent-SalvageSpawnerMobMagnet75 = {ent-SalvageSpawnerMobMagnet}
 
 ent-SalvageSpawnerMobMiningAsteroid = Spawner de Criatura de Asteroide de Mineração
 
-ent-SalvageSpawnerMobShark = Spawner de Tubarão de Salvamento
+ent-SalvageSpawnerMobShark = Spawner de Tubarão de Salvagem
 
-ent-SalvageSpawnerScrapCommon = Spawner de Sucata de Salvamento
+ent-SalvageSpawnerScrapCommon = Spawner de Sucata de Salvagem
     .suffix = Comum, 50%
 
 ent-SalvageSpawnerScrapCommon75 = {ent-SalvageSpawnerScrapCommon}
     .desc = { ent-SalvageSpawnerScrapCommon.desc }
     .suffix = Comum, 75%
 
-ent-SalvageSpawnerScrapValuable = Spawner de Sucata de Salvamento
+ent-SalvageSpawnerScrapValuable = Spawner de Sucata de Salvagem
     .suffix = Valioso, 50%
 
 ent-SalvageSpawnerScrapValuable75 = {ent-SalvageSpawnerScrapValuable}
     .desc = { ent-SalvageSpawnerScrapValuable.desc }
     .suffix = Valioso, 75%
 
-ent-SalvageSpawnerTreasure = Spawner de Tesouro de Salvamento
+ent-SalvageSpawnerTreasure = Spawner de Tesouro de Salvagem
     .suffix = Comum, 75%
 
-ent-SalvageSpawnerTreasureValuable = Spawner de Tesouro de Salvamento
+ent-SalvageSpawnerTreasureValuable = Spawner de Tesouro de Salvagem
     .suffix = Valioso, 75%
 
 # From: Entities/Markers/Spawners/Random/smokables.yml
@@ -22236,7 +22239,7 @@ ent-BorgChassisJanitor = ciborgue zelador
 
 ent-BorgChassisMedical = ciborgue médico
 
-ent-BorgChassisMining = ciborgue de salvamento
+ent-BorgChassisMining = ciborgue de salvagem
 
 ent-BorgChassisService = ciborgue de serviço
 
@@ -22584,14 +22587,14 @@ ent-MobCarpRainbow = carpa arco-íris
 
 ent-MobCarpSalvage = {ent-BaseMobCarp}
     .desc = { ent-BaseMobCarp.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 ent-MobShark = tubarãozinho
     .desc = Um tubarão perigoso da escuridão do espaço infinito, que adora beber sangue.
 
 ent-MobSharkSalvage = {ent-MobShark}
     .desc = { ent-MobShark.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 # From: Entities/Mobs/NPCs/dummy_npcs.yml
 
@@ -22683,7 +22686,7 @@ ent-BaseMobFlesh = carne aberrante
 # Abstract entity (referenceable by children)
 
 ent-BaseMobFleshSalvage = carne aberrante
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
     .desc = Uma massa ambulante de carne, animada por energia anômala.
 
 ent-MobAbomination = abominação
@@ -22930,21 +22933,21 @@ ent-MobBearSpace = urso espacial
 
 ent-MobBearSpaceSalvage = {ent-MobBearSpace}
     .desc = { ent-MobBearSpace.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 ent-MobCobraSpace = cobra espacial
     .desc = Presas longas e um capuz brilhante, e o olhar cativante pede para chegar mais perto.
 
 ent-MobCobraSpaceSalvage = {ent-MobCobraSpace}
     .desc = { ent-MobCobraSpace.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 ent-MobKangarooSpace = canguru espacial
     .desc = Parece amigável. Por que não dá um abraço nele?
 
 ent-MobKangarooSpaceSalvage = {ent-MobKangarooSpace}
     .desc = { ent-MobKangarooSpace.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 ent-MobSnail = caracol
     .desc = Repugnante, a menos que você seja francês.
@@ -22969,7 +22972,7 @@ ent-MobSpiderSpace = aranha espacial
 
 ent-MobSpiderSpaceSalvage = {ent-MobSpiderSpace}
     .desc = { ent-MobSpiderSpace.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 # From: Entities/Mobs/NPCs/spacetick.yml
 
@@ -22978,7 +22981,7 @@ ent-MobTick = carrapato espacial
 
 ent-MobTickSalvage = {ent-MobTick}
     .desc = { ent-MobTick.desc }
-    .suffix = Regras de Salvamento
+    .suffix = Regras de Salvagem
 
 # From: Entities/Mobs/NPCs/xeno.yml
 
@@ -23369,7 +23372,7 @@ ent-RandomHumanoidVisitorReporter = função de fantasia de repórter visitante
 
 ent-RandomHumanoidVisitorResearchAssistant = função de fantasia de assistente de pesquisa visitante
 
-ent-RandomHumanoidVisitorSalvageSpecialist = função de fantasia de especialista em salvamento visitante
+ent-RandomHumanoidVisitorSalvageSpecialist = função de fantasia de especialista em salvagem visitante
 
 ent-RandomHumanoidVisitorScientist = função de fantasia de cientista visitante
 
@@ -23510,7 +23513,7 @@ ent-VisitorReporterSpawner = spawner de repórter visitante
 
 ent-VisitorResearchAssistantSpawner = spawner de assistente de pesquisa visitante
 
-ent-VisitorSalvageSpecialistSpawner = spawner de especialista em salvamento visitante
+ent-VisitorSalvageSpecialistSpawner = spawner de especialista em salvagem visitante
 
 ent-VisitorScientistSpawner = spawner de cientista visitante
 
@@ -27142,8 +27145,8 @@ ent-RoboticsConsoleComputerCircuitboard = placa de computador de console de cont
 ent-RogueCommsComputerCircuitboard = placa de computador de comunicações da vanguarda imperial
     .desc = Uma placa de circuito impresso de computador para um console do pdv.
 
-ent-SalvageExpeditionsComputerCircuitboard = placa de computador de expedições de salvamento
-    .desc = Uma placa de circuito impresso de computador para um computador de expedições de salvamento.
+ent-SalvageExpeditionsComputerCircuitboard = placa de computador de expedições de salvagem
+    .desc = Uma placa de circuito impresso de computador para um computador de expedições de salvagem.
 
 ent-SensorConsoleCircuitboard = placa de computador de console de monitoramento de sensores
     .desc = Uma placa de circuito impresso de computador para um console de monitoramento de sensores.
@@ -27402,8 +27405,8 @@ ent-ReagentGrinderMachineCircuitboard = placa de máquina de moedor de reagentes
 ent-ResearchAndDevelopmentServerMachineCircuitboard = placa de máquina de servidor de P&D
     .desc = Uma placa de circuito impresso de máquina para o servidor de P&D.
 
-ent-SalvageMagnetMachineCircuitboard = placa de máquina de ímã de salvamento
-    .desc = Uma placa de circuito impresso de máquina para um ímã de salvamento.
+ent-SalvageMagnetMachineCircuitboard = placa de máquina de ímã de salvagem
+    .desc = Uma placa de circuito impresso de máquina para um ímã de salvagem.
 
 ent-SecurityTechFabCircuitboard = placa de máquina de techfab de segurança
     .desc = Uma placa de circuito impresso de máquina para um techfab de segurança.

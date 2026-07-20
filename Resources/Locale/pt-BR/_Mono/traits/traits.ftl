@@ -87,4 +87,4 @@ trait-nanite-repair-drones-name = Drones de Reparo de Nanites
 trait-nanite-repair-drones-desc = Seu chassi tem Drones de Reparo de Nanites percorrendo-o que respondem a trauma físico. Embora não tão rápidos quanto reparo manual, estes reduzirão significativamente a manutenção dia a dia.
 
 trait-hardened-lymphocytes-name = Linfócitos Endurecidos
-trait-hardened-lymphocytes-desc = Sua medula foi tratada com células-tronco endurecidas por melanócitos que reduzem dano da exposição à radiação. Efetivo até 1 rad; adequado para operações leves de salvamento e mineração.
+trait-hardened-lymphocytes-desc = Sua medula foi tratada com células-tronco endurecidas por melanócitos que reduzem dano da exposição à radiação. Efetivo até 1 rad; adequado para operações leves de salvagem e mineração.

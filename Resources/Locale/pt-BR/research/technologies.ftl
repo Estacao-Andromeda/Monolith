@@ -5,7 +5,7 @@ research-discipline-experimental = Experimental
 research-discipline-civilian-services = Serviços Civis
 
 research-technology-fulton = Fultons
-research-technology-salvage-equipment = Equipamento de Salvamento
+research-technology-salvage-equipment = Equipamento de Salvagem
 research-technology-advanced-powercells = Células de Energia Avançadas
 research-technology-mechanical-compression = Compressão Mecânica
 research-technology-compact-power = Energia Compacta
@@ -22,7 +22,7 @@ research-technology-portable-fission = Fissão Portátil
 research-technology-space-scanning = Escaneamento Espacial
 research-technology-excavation = Escavação em Massa
 
-research-technology-salvage-weapons = Armas de Salvamento
+research-technology-salvage-weapons = Armas de Salvagem
 research-technology-draconic-munitions = Munições Dracônicas
 research-technology-uranium-munitions = Munições de Urânio
 research-technology-explosive-technology = Tecnologia de Explosivos Fundamental

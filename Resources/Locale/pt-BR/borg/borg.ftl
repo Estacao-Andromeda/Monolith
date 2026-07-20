@@ -45,9 +45,9 @@ borg-type-engineering-name = Engenharia
 borg-type-engineering-desc = Assista a equipe de engenharia na construção da estação, reparando danos, ou consertando problemas elétricos e atmosféricos.
 borg-type-engineering-transponder = cyborg de engenharia
 
-borg-type-mining-name = Salvamento
-borg-type-mining-desc = Junte-se ao salvamento e ajude-os a minerar materiais, saquear destroços, e combater a vida selvagem hostil.
-borg-type-mining-transponder = cyborg de salvamento
+borg-type-mining-name = Salvagem
+borg-type-mining-desc = Junte-se ao salvagem e ajude-os a minerar materiais, saquear destroços, e combater a vida selvagem hostil.
+borg-type-mining-transponder = cyborg de salvagem
 
 borg-type-janitor-name = Zelador
 borg-type-janitor-desc = Mantenha a estação limpa e organizada, limpe derramamentos, colete e descarte corretamente o lixo deixado por tripulantes preguiçosos.

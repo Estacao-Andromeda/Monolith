@@ -95,7 +95,7 @@ command-description-xenoartifact-averageResearch =
 command-description-xenoartifact-unlockAllNodes =
     Destrava todos os nós do artefato.
 command-description-jobboard-completeJob =
-    Completa um emprego do quadro de empregos de salvamento dado para a estação.
+    Completa um emprego do quadro de empregos de salvagem dado para a estação.
 command-description-scale-set =
     Define o tamanho do sprite de uma entidade para uma certa escala (sem mudar sua fixture).
 command-description-scale-get =

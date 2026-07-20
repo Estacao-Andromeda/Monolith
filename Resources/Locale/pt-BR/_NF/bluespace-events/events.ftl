@@ -3,7 +3,7 @@ station-event-bluespace-dungeon-start-announcement = Assinaturas de um grande ob
 station-event-bluespace-dungeon-warning-announcement = Instabilidade de azulespço detectada no objeto estranho, cinco minutos até a partida estimada.
 station-event-bluespace-dungeon-end-announcement = Instabilidade de azulespço crítica detectada, o objeto estranho saiu do setor.
 
-station-event-bluespace-scrap-start-announcement = Tempestades detectadas nas rotas de azulespço, expectativa de destroços em breve. Naves destruídas são alvos válidos de salvamento.
+station-event-bluespace-scrap-start-announcement = Tempestades detectadas nas rotas de azulespço, expectativa de destroços em breve. Naves destruídas são alvos válidos de salvagem.
 station-event-bluespace-scrap-warning-announcement = Instabilidade de azulespço detectada nos destroços, cinco minutos até a partida estimada.
 station-event-bluespace-scrap-end-announcement = Instabilidade de azulespço crítica detectada, os destroços da tempestade saíram do setor.
 

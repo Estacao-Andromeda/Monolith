@@ -91,8 +91,8 @@ ghost-role-information-rat-king-description = Você é o Rei dos Ratos, seus int
 ghost-role-information-rat-servant-name = Servo dos Ratos
 ghost-role-information-rat-servant-description = Você é um Servo dos Ratos. Você deve seguir as ordens do seu rei.
 
-ghost-role-information-salvage-carp-name = Carpa Espacial em Naufrágio de Salvamento
-ghost-role-information-salvage-carp-description = Defenda o saque dentro do naufrágio de salvamento!
+ghost-role-information-salvage-carp-name = Carpa Espacial em Naufrágio de Salvagem
+ghost-role-information-salvage-carp-description = Defenda o saque dentro do naufrágio de salvagem!
 
 ghost-role-information-sentient-carp-name = Carpa Sapiente
 ghost-role-information-sentient-carp-description = Ajude o dragão a inundar a estação com carpas!
@@ -299,10 +299,10 @@ ghost-role-information-cossack-name = Viajante Antigo
 ghost-role-information-cossack-description = De uma história perdida no tempo, você se encontra lançado nos dias de hoje.
 
 ghost-role-information-pirate-name = Pirata Espacial
-ghost-role-information-pirate-description = Arrr camarada! Colete algum saque legal, mas certifique-se de evitar segurança e salvamento!
+ghost-role-information-pirate-description = Arrr camarada! Colete algum saque legal, mas certifique-se de evitar segurança e salvagem!
 
 ghost-role-information-pirate-captain-name = Capitão Pirata Espacial
-ghost-role-information-pirate-captain-description = Arrr camarada! Você está no comando aqui e precisa elaborar um plano para conseguir aquele saque suculento de qualquer forma. Apenas certifique-se de evitar segurança e salvamento!
+ghost-role-information-pirate-captain-description = Arrr camarada! Você está no comando aqui e precisa elaborar um plano para conseguir aquele saque suculento de qualquer forma. Apenas certifique-se de evitar segurança e salvagem!
 
 ghost-role-information-artifact-name = Artefato Sapiente
 ghost-role-information-artifact-description = Coloque em prática seus caprichos eldritch. Force seus nós a ativarem para o bem ou para o mal.

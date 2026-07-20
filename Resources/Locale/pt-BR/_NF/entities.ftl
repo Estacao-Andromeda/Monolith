@@ -140,7 +140,7 @@ ent-ClothingBackpackDuffelEVABundlePilot = pacote EVA de piloto
 ent-ClothingBackpackDuffelEVABundlePrivateSec = pacote EVA de segurança privada
     .suffix = Preenchido
 
-ent-ClothingBackpackDuffelEVABundleSalvage = pacote EVA de especialista em salvamento
+ent-ClothingBackpackDuffelEVABundleSalvage = pacote EVA de especialista em salvagem
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleScientist = pacote EVA de cientista
@@ -1177,16 +1177,16 @@ ent-RandomPaintingHalloween = {ent-RandomPainting}
 
 # From: _NF/Entities/Markers/Spawners/Random/parts.yml
 
-ent-SalvagePartsT2Spawner = spawner de peças de máquina t2 de salvamento
+ent-SalvagePartsT2Spawner = spawner de peças de máquina t2 de salvagem
     .suffix = Gerador
 
-ent-SalvagePartsT3Spawner = spawner de peças de máquina t3 de salvamento
+ent-SalvagePartsT3Spawner = spawner de peças de máquina t3 de salvagem
     .suffix = Gerador
 
-ent-SalvagePartsT3T4Spawner = spawner de peças de máquina t3/4 de salvamento
+ent-SalvagePartsT3T4Spawner = spawner de peças de máquina t3/4 de salvagem
     .suffix = Gerador
 
-ent-SalvagePartsT4Spawner = spawner de peças de máquina t4 de salvamento
+ent-SalvagePartsT4Spawner = spawner de peças de máquina t4 de salvagem
     .suffix = Gerador
 
 # From: _NF/Entities/Markers/Spawners/Random/salvage.yml
@@ -1226,7 +1226,7 @@ ent-IceElementalSpawner = spawner de Elemental de Gelo
 ent-NecropolisElementalSpawner = spawner de Elemental da Necrópole
     .suffix = 45
 
-ent-NFSalvageMaterialCrateSpawner = spawner de Caixa de Materiais de Salvamento
+ent-NFSalvageMaterialCrateSpawner = spawner de Caixa de Materiais de Salvagem
 
 ent-NFSalvageMobSpawner = {ent-SalvageMobSpawner}
     .suffix = 95
@@ -1236,19 +1236,19 @@ ent-RandomBook = gerador de livro aleatório
 ent-RockElementalSpawner = spawner de elemental de rocha
     .suffix = 45
 
-ent-SalvageBrassFurnitureSpawner = spawner de móveis de latão aleatórios de salvamento
+ent-SalvageBrassFurnitureSpawner = spawner de móveis de latão aleatórios de salvagem
 
-ent-SalvageFurnitureSpawner = spawner de móveis aleatórios de salvamento
+ent-SalvageFurnitureSpawner = spawner de móveis aleatórios de salvagem
 
-ent-SalvageGeneratorSpawner = spawner de gerador de salvamento
+ent-SalvageGeneratorSpawner = spawner de gerador de salvagem
 
-ent-SalvageHandheldFlagSpawner = spawner de bandeira portátil de salvamento
+ent-SalvageHandheldFlagSpawner = spawner de bandeira portátil de salvagem
 
-ent-SalvageLockerSpawner = spawner de armário de salvamento
+ent-SalvageLockerSpawner = spawner de armário de salvagem
 
-ent-SalvageSuitStorageSpawner = spawner de armazenamento de macacão de salvamento
+ent-SalvageSuitStorageSpawner = spawner de armazenamento de macacão de salvagem
 
-ent-SalvageTankSpawnerHighCapacity = gerador de tanque de salvamento
+ent-SalvageTankSpawnerHighCapacity = gerador de tanque de salvagem
     .suffix = Alta Capacidade, 95%
 
 ent-SandElementalSpawner = spawner de elemental de areia
@@ -1803,7 +1803,7 @@ ent-ActionSeismicCharge = [color=yellow]Arremessar Carga Sísmica[/color]
 ent-MobExplorerBase = explorador
 
 ent-MobExplorerBoss = capitão explorador
-    .desc = Líderes de equipes de salvamento destemidos e endurecidos pela batalha, leva anos escolhendo através dos cantos mais escuros do espaço e navegando pela criminalidade subterrânea da galáxia antes que você possa se tornar um capitão. Não deve ser subestimado.
+    .desc = Líderes de equipes de salvagem destemidos e endurecidos pela batalha, leva anos escolhendo através dos cantos mais escuros do espaço e navegando pela criminalidade subterrânea da galáxia antes que você possa se tornar um capitão. Não deve ser subestimado.
 
 ent-MobExplorerHauler = carregador
     .desc = Carregado com equipamentos pesados para saques em escala industrial. Com licença, "recuperação de ativos".
@@ -2840,8 +2840,8 @@ ent-RadiationCollectorFullTankFlatpack = flatpack de coletor de radiação
 ent-ResearchAndDevelopmentServerFlatpack = flatpack de servidor de pesquisa e desenvolvimento
     .desc = Um flatpack usado para construir um servidor de pesquisa e desenvolvimento.
 
-ent-SalvageTechfabNFFlatpack = flatpack de techfab de salvamento
-    .desc = Um flatpack usado para construir um techfab de salvamento.
+ent-SalvageTechfabNFFlatpack = flatpack de techfab de salvagem
+    .desc = Um flatpack usado para construir um techfab de salvagem.
 
 ent-ScrapProcessorFlatpack = flatpack de processador de sucata
     .desc = Um flatpack usado para construir um processador de sucata.
@@ -3122,8 +3122,8 @@ ent-PortableGeneratorDKJrMachineCircuitboard = placa de máquina de gerador port
 ent-PortableGeneratorDKMachineCircuitboard = placa de máquina de gerador portátil tipo D-K
     .desc = Uma placa de circuito impresso de máquina para um gerador portátil tipo D-K.
 
-ent-SalvageTechFabCircuitboardNF = placa de máquina de techfab de salvamento
-    .desc = Uma placa de circuito impresso de máquina para uma techfab de salvamento.
+ent-SalvageTechFabCircuitboardNF = placa de máquina de techfab de salvagem
+    .desc = Uma placa de circuito impresso de máquina para uma techfab de salvagem.
 
 ent-ShredderMachineCircuitboard = placa de máquina de trituradora
     .desc = Uma placa de circuito impresso de máquina para uma trituradora.
@@ -3751,7 +3751,7 @@ ent-CratePirateChestGrapeShot = baú de tiro de uva
 # From: _NF/Catalog/Fills/Crates/salvage.yml
 
 ent-NFCrateSalvageAssortedGoodies = {ent-CrateGenericSteel}
-    .suffix = Preenchido, Salvamento Aleatório
+    .suffix = Preenchido, Salvagem Aleatório
 
 # From: _NF/Catalog/Fills/Crates/science.yml
 
@@ -4706,7 +4706,7 @@ ent-NFPouchPrivateSecurity = bolsa de segurança privada
 
 ent-NFPouchPunk = bolsa punk
 
-ent-NFPouchSalvage = bolsa do especialista em salvamento
+ent-NFPouchSalvage = bolsa do especialista em salvagem
 
 ent-NFPouchScience = bolsa do cientista
 
@@ -5834,7 +5834,7 @@ ent-StructureMeleeWeaponRackBloodCultFilled = {ent-StructureMeleeWeaponRack}
     .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedSalvageFilled = {ent-StructureMeleeWeaponRack}
-    .suffix = Salvamento, Preenchido, MontagemNaParede
+    .suffix = Salvagem, Preenchido, MontagemNaParede
     .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRackPiratesFilled = {ent-StructurePistolRack}
@@ -5856,7 +5856,7 @@ ent-StructureGunRackNfsd = {ent-StructureGunRack}
     .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackSalvage = {ent-StructureGunRack}
-    .suffix = Salvamento, Vazio
+    .suffix = Salvagem, Vazio
     .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedMercenary = {ent-StructureGunRack}
@@ -5868,7 +5868,7 @@ ent-StructureGunRackWallmountedNfsd = {ent-StructureGunRack}
     .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedSalvage = {ent-StructureGunRack}
-    .suffix = Salvamento, Vazio, MontagemNaParede
+    .suffix = Salvagem, Vazio, MontagemNaParede
     .desc = { ent-StructureGunRack.desc }
 
 ent-StructureMeleeWeaponRackBloodCult = {ent-StructureMeleeWeaponRack}
@@ -5884,7 +5884,7 @@ ent-StructureMeleeWeaponRackNfsd = {ent-StructureMeleeWeaponRack}
     .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackSalvage = {ent-StructureMeleeWeaponRack}
-    .suffix = Salvamento, Vazio
+    .suffix = Salvagem, Vazio
     .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedMercenary = {ent-StructureMeleeWeaponRack}
@@ -5896,7 +5896,7 @@ ent-StructureMeleeWeaponRackWallmountedNfsd = {ent-StructureMeleeWeaponRack}
     .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedSalvage = {ent-StructureMeleeWeaponRack}
-    .suffix = Salvamento, Vazio, MontagemNaParede
+    .suffix = Salvagem, Vazio, MontagemNaParede
     .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRackLockSheriff = {ent-StructurePistolRackLock}
@@ -5928,7 +5928,7 @@ ent-StructurePistolRackPirates = {ent-StructurePistolRack}
     .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackSalvage = {ent-StructurePistolRack}
-    .suffix = Salvamento, Vazio
+    .suffix = Salvagem, Vazio
     .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedMercenary = {ent-StructurePistolRack}
@@ -5940,7 +5940,7 @@ ent-StructurePistolRackWallmountedNfsd = {ent-StructurePistolRack}
     .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedSalvage = {ent-StructurePistolRack}
-    .suffix = Salvamento, Vazio, MontagemNaParede
+    .suffix = Salvagem, Vazio, MontagemNaParede
     .desc = { ent-StructurePistolRack.desc }
 
 # From: _NF/Entities/Structures/Furniture/bedroll.yml
@@ -6530,7 +6530,7 @@ ent-NfsdTechFab = techfab TSFMC
 ent-PrizeCounter = balcão de prêmios
     .desc = Resgate seu prêmio e ganhe alguns brinquedos e pelúcias fofas!
 
-ent-SalvageTechfabNF = techfab de salvatagem
+ent-SalvageTechfabNF = techfab de salvagem
     .desc = Imprime equipamentos para salvadores.
 
 ent-ScrapProcessor = processador de sucata
@@ -6964,7 +6964,7 @@ ent-DinosaurEgg = ovo de dinossauro
 
 # From: _NF/Entities/Structures/Specific/explorers.yml
 
-ent-ExplorersLootRadar = radar de salvamento com mau funcionamento
+ent-ExplorersLootRadar = radar de salvagem com mau funcionamento
     .desc = Ferramenta essencial para qualquer saqueador.
 
 # From: _NF/Entities/Structures/Specific/mercenaries.yml
@@ -7240,7 +7240,7 @@ ent-LockerWallEVAColorPilot = armário EVA na parede de piloto
 
 ent-LockerWallEVAColorPrivateSec = armário EVA na parede de segurança privada
 
-ent-LockerWallEVAColorSalvage = armário EVA na parede de especialista em salvamento
+ent-LockerWallEVAColorSalvage = armário EVA na parede de especialista em salvagem
 
 ent-LockerWallEVAColorScientist = armário EVA na parede de cientista
 
@@ -7275,7 +7275,7 @@ ent-LockerWallColorHydroponics = armário na parede de botânico
 
 ent-LockerWallColorMedical = armário na parede médico
 
-ent-LockerWallColorSalvage = armário na parede de especialista em salvamento
+ent-LockerWallColorSalvage = armário na parede de especialista em salvagem
 
 ent-LockerWallColorServiceWorker = armário na parede de funcionário de serviço
 
@@ -10023,7 +10023,7 @@ ent-SuitStorageEVAPrivateSec = {ent-SuitStorageBase}
     .suffix = EVA, Segurança Privada
 
 ent-SuitStorageEVASalvage = {ent-SuitStorageBase}
-    .suffix = EVA, Especialista em Salvamento
+    .suffix = EVA, Especialista em Salvagem
 
 ent-SuitStorageEVAScientist = {ent-SuitStorageBase}
     .suffix = EVA, Cientista
@@ -10134,7 +10134,7 @@ ent-PaperWrittenFrontierEmployment = contrato de emprego
 
 ent-PaperWrittenFrontierFundRequisition = requisição de fundos
 
-ent-PaperWrittenFrontierShuttleDerelict = declaração de salvamento
+ent-PaperWrittenFrontierShuttleDerelict = declaração de salvagem
 
 ent-PaperWrittenFrontierShuttleTitleChange = alteração de título de nave
 
@@ -10278,7 +10278,7 @@ ent-StorageFillEVASuitPrivateSec =
 # Abstract entity (referenceable by children)
 
 ent-StorageFillEVASuitSalvage =
-    .desc = Contém um kit EVA padrão de especialista em salvamento.
+    .desc = Contém um kit EVA padrão de especialista em salvagem.
 
 # Abstract entity (referenceable by children)
 
@@ -10414,7 +10414,7 @@ ent-ClothingBackpackMessengerNfsdCream = bolsa mensageira da TSFMC
 ent-ClothingBackpackMessengerPilot = bolsa mensageira de piloto
     .desc = Uma bolsa mensageira robusta para peças de nave.
 
-ent-ClothingBackpackMessengerSalvage = bolsa mensageira de salvamento
+ent-ClothingBackpackMessengerSalvage = bolsa mensageira de salvagem
     .desc = Uma bolsa mensageira robusta para esconder seu espólio.
 
 ent-ClothingBackpackMessengerScience = bolsa mensageira de ciência
@@ -10817,7 +10817,7 @@ ent-ClothingHeadEVAHelmetPilot = capacete EVA de piloto
 
 ent-ClothingHeadEVAHelmetPrivateSec = capacete EVA de segurança privada
 
-ent-ClothingHeadEVAHelmetSalvage = capacete EVA de especialista em salvamento
+ent-ClothingHeadEVAHelmetSalvage = capacete EVA de especialista em salvagem
 
 ent-ClothingHeadEVAHelmetScientist = capacete EVA de cientista
 
@@ -11224,8 +11224,8 @@ ent-ClothingOuterEVASuitPilot = macacão EVA de piloto
 ent-ClothingOuterEVASuitPrivateSec = macacão EVA de segurança privada
     .desc = Um macacão EVA com capacete integrado geralmente emitido para segurança privada.
 
-ent-ClothingOuterEVASuitSalvage = macacão EVA de especialista em salvamento
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para especialistas em salvamento.
+ent-ClothingOuterEVASuitSalvage = macacão EVA de especialista em salvagem
+    .desc = Um macacão EVA com capacete integrado geralmente emitido para especialistas em salvagem.
 
 ent-ClothingOuterEVASuitScientist = macacão EVA de cientista
     .desc = Um macacão EVA com capacete integrado geralmente emitido para cientistas.

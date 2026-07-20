@@ -44,7 +44,7 @@ nf-tips-dataset-22 = Como fantasma, você pode usar o Menu de Verbos para orbita
 
 nf-tips-dataset-23 = Você pode examinar seu headset para ver quais canais de rádio você tem disponíveis e os atalhos de chat para falar neles.
 
-nf-tips-dataset-24 = Ao fazer salvamento, você pode usar seu acelerador cinético proto para se mover no espaço quando estiver em apuros. Cuidado, pois não é muito eficaz.
+nf-tips-dataset-24 = Ao fazer salvagem, você pode usar seu acelerador cinético proto para se mover no espaço quando estiver em apuros. Cuidado, pois não é muito eficaz.
 
 nf-tips-dataset-25 = Muitos químicos têm reações únicas - Certifique-se de verificar os efeitos e fontes de cada um! Conhecer sua medicina pode salvar sua vida.
 
@@ -232,11 +232,11 @@ nf-tips-dataset-116 = Cada console de nave tem um intercom de tráfego interno. 
 
 nf-tips-dataset-117 = Se você ficar encalhado no espaço, certifique-se de notificar outros usando o rádio! Ficar deprimido e cair em coma nunca é a melhor solução.
 
-nf-tips-dataset-118 = Salvamento não é apenas sobre bater em rochas. Você pode tentar encontrar grandes estações abandonadas ou tentar enterrar fundo em um asteroide incomum - mas cuidado com os perigos que esperam você dentro.
+nf-tips-dataset-118 = Salvagem não é apenas sobre bater em rochas. Você pode tentar encontrar grandes estações abandonadas ou tentar enterrar fundo em um asteroide incomum - mas cuidado com os perigos que esperam você dentro.
 
 nf-tips-dataset-119 = Confiança é algo que leva idades para construir, e segundos para perder. Não dê jogadores e administradores um motivo para odiarem você!
 
-nf-tips-dataset-120 = Há várias maneiras de ganhar dinheiro. Por que não conseguir um emprego no Posto Colonial, entrar TSFMC, fazer salvamento, fazer ciência ou fazer algo totalmente ilegal? Outros jogadores podem ensinar cada um deles para você!
+nf-tips-dataset-120 = Há várias maneiras de ganhar dinheiro. Por que não conseguir um emprego no Posto Colonial, entrar TSFMC, fazer salvagem, fazer ciência ou fazer algo totalmente ilegal? Outros jogadores podem ensinar cada um deles para você!
 
 nf-tips-dataset-121 = Como um imperial PD, você pode conseguir recompensas para ganhar fichas de dados! Pense em qual nave seria mais provável ter os itens que você precisa.
 

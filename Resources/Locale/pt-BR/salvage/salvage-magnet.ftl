@@ -1,10 +1,10 @@
 salvage-system-announcement-losing = O imã não é mais capaz de segurar os destroços recuperáveis. Tempo estimado até a perda: {$timeLeft} segundos.
 salvage-system-announcement-spawn-debris-disintegrated = Destroços se desintegraram durante a transferência orbital.
-salvage-system-announcement-spawn-no-debris-available = Nenhum destroço pôde ser recuperado pelo ímã de salvamento.
+salvage-system-announcement-spawn-no-debris-available = Nenhum destroço pôde ser recuperado pelo ímã de salvagem.
 salvage-system-announcement-arrived = Um pedaço de destroços recuperável foi puxado. Tempo estimado de retenção: {$timeLeft} segundos.
 salvage-asteroid-name = Asteroide
 
-salvage-magnet-window-title = Ímã de salvamento
+salvage-magnet-window-title = Ímã de salvagem
 salvage-expedition-window-progression = Progresso
 
 salvage-magnet-resources = {$resource ->
@@ -18,7 +18,7 @@ salvage-magnet-resources = {$resource ->
     [OrePlasma] Plasma
     [OreUranium] Urânio
     [OreArtifactFragment] Fragmentos de artefato
-    [OreBananium] Bananium
+    [OreBananium] Banânio
     *[other] {$resource}
 }
 

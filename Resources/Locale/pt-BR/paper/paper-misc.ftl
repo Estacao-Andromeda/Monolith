@@ -92,7 +92,7 @@ book-text-cargo-outage = Caro Usuário,
       As teorias principais para essa interrupção repentina ainda estão sendo revisadas por pares, mas até agora implicam o fenômeno nebuloso de "vento espacial" como a causa raiz.
 
       Enquanto isso, muitas fontes alternativas de carga estão disponíveis no setor - isso inclui recuperação de mercadorias abandonadas, entrega de materiais desejados a constituintes,
-      e salvamento de cargueiros abandonados.
+      e salvagem de cargueiros abandonados.
 
       Mais detalhes estão sendo refinados. Agradecemos sua paciência.
 

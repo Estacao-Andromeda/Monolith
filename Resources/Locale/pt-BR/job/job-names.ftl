@@ -68,7 +68,7 @@ job-name-bartender = Barman
 
 job-name-passenger = Passageiro
 
-job-name-salvagespec = Especialista em Salvamento
+job-name-salvagespec = Especialista em Salvagem
 
 job-name-station-ai = IA da Estação
 
@@ -196,7 +196,7 @@ JobResearchAssistant = Assistente de Pesquisa
 
 JobResearchDirector = Diretor de Pesquisa
 
-JobSalvageSpecialist = Especialista em Salvamento
+JobSalvageSpecialist = Especialista em Salvagem
 
 JobScientist = Cientista
 

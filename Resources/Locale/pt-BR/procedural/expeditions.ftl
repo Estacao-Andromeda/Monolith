@@ -7,7 +7,7 @@ salvage-expedition-structure-remaining = {$count ->
 # Frontier: megafauna<targets (syndies and robots are not megafauna)
 salvage-expedition-megafauna-remaining = {$count} alvos restantes.
 
-salvage-expedition-window-title = Expedições de Salvamento
+salvage-expedition-window-title = Expedições de Salvagem
 salvage-expedition-window-difficulty = Dificuldade:
 salvage-expedition-window-details = Detalhes:
 salvage-expedition-window-hostiles = Hostis:

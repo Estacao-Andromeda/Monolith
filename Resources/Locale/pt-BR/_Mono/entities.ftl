@@ -602,7 +602,7 @@ ent-ClothingBalaclavaSkiMaskYellow = balaclava máscara de ski amarela
 # From: _Mono/Entities/Clothing/Belt/belts.yml
 
 ent-ClothingBeltDrakeIndustries = cintilho da Drake Industries
-    .desc = Muito menos durável do que o couro regular com o quais os equipamentos de salvatagem são feitos, pelo menos vem na cor preta. Pintado com as cores da Drake Industries.
+    .desc = Muito menos durável do que o couro regular com o quais os equipamentos de salvagem são feitos, pelo menos vem na cor preta. Pintado com as cores da Drake Industries.
 
 ent-ClothingBeltSheathVizier = bainha do grão-vizir
     .desc = Um par de bainha e coldre, feito sob medida para grão-vizires do PDV para carregar as armas de seu cargo.
@@ -2378,7 +2378,7 @@ ent-ShipVoucherRavager = LPC de ravager
     .desc = Um pequeno cartão que contém os dados para a aquisição de uma nave-mãe classe Ravager das reservas da nau capitânia.
 
 ent-ShipVoucherRemontnik = LPC Remontnik USSP [T1]
-    .desc = Um pequeno cartão que contém os dados para a aquisição de uma nave de salvamento e suporte classe Remontnik.
+    .desc = Um pequeno cartão que contém os dados para a aquisição de uma nave de salvagem e suporte classe Remontnik.
 
 ent-ShipVoucherRook = LPC de rook
     .desc = Um pequeno cartão que contém os dados para a aquisição de um drone classe Rook
@@ -3444,7 +3444,7 @@ ent-TechDiskMechGygax = disco de tecnologia de mechas de combate terrestre
     .desc = Um disco capaz de adicionar construção de mechas Gygax às receitas de um servidor.
 
 ent-TechDiskMechHeavyIndustrial = disco de tecnologia de mechas industriais pesados
-    .desc = Um disco capaz de adicionar mechas pesados de carga e salvamento às receitas de um servidor.
+    .desc = Um disco capaz de adicionar mechas pesados de carga e salvagem às receitas de um servidor.
 
 ent-TechDiskMechIFF = disco de tecnologia de mechas IFF
     .desc = Um disco capaz de adicionar equipamentos IFF de mecha às receitas de um servidor.
@@ -6715,11 +6715,11 @@ ent-OreMagnetFlatpack = flatpack de ímã de minérios
 
 # From: _Mono/Entities/Structures/Machines/salvage_radar.yml
 
-ent-MachineSalvageRadar = radar de salvamento
+ent-MachineSalvageRadar = radar de salvagem
     .desc = Este radar aumenta o alcance de detecção de asteroides e destroços, permitindo que rochas sejam atingidas de mais longe. Ferramenta essencial para salvadores.
 
-ent-SalvageRadarFlatpack = flatpack de radar de salvamento
-    .desc = Um flatpack usado para construir radar de salvamento.
+ent-SalvageRadarFlatpack = flatpack de radar de salvagem
+    .desc = Um flatpack usado para construir radar de salvagem.
 
 # From: _Mono/Entities/Structures/Machines/shield_generator.yml
 

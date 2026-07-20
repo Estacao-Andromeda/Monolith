@@ -50,7 +50,7 @@ salvage-dungeon-mod-lava-mercenary = Base de Mercenários de Lava
 
 salvage-dungeon-mod-virology-lab = Laboratório de Virologia
 
-salvage-dungeon-mod-salvage-outpost = Posto de Salvamento
+salvage-dungeon-mod-salvage-outpost = Posto de Salvagem
 
 salvage-air-mod-1 = 82 N2, 21 O2
 

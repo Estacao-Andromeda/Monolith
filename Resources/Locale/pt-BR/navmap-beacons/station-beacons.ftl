@@ -41,7 +41,7 @@ station-beacon-supply= Suprimentos
 station-beacon-cargo= Carga
 station-beacon-cargo-bay= Baía de Carga
 station-beacon-qm= Mestre de Carga
-station-beacon-salvage= Salvatagem
+station-beacon-salvage= Salvagem
 
 station-beacon-engineering= Engenharia
 station-beacon-ce= Engenheiro Chefe

@@ -99,9 +99,9 @@ loadout-group-cargo-technician-backpack = Mochila de Técnico de Carga
 loadout-group-cargo-technician-outerclothing = Roupa externa de Técnico de Carga
 loadout-group-cargo-technician-shoes = Sapatos de Técnico de Carga
 
-loadout-group-salvage-specialist-backpack = Mochila de Especialista em Salvamento
-loadout-group-salvage-specialist-outerclothing = Roupa externa de Especialista em Salvamento
-loadout-group-salvage-specialist-shoes = Sapatos de Especialista em Salvamento
+loadout-group-salvage-specialist-backpack = Mochila de Especialista em Salvagem
+loadout-group-salvage-specialist-outerclothing = Roupa externa de Especialista em Salvagem
+loadout-group-salvage-specialist-shoes = Sapatos de Especialista em Salvagem
 
 # Engineering
 loadout-group-chief-engineer-head = Cabeça de Engenheiro Chefe
