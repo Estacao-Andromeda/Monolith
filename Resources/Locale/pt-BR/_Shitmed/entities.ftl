@@ -365,5 +365,6 @@ ent-SurgeryStepSealTendWound = Selar a ferida
 ent-SurgeryStepSealWounds = Selar feridas
 
 ent-AutodocSyndieCircuitboard = {ent-AutodocCircuitboard}
+    .desc = {ent-AutodocCircuitboard.desc}
     .suffix = Syndie.
 

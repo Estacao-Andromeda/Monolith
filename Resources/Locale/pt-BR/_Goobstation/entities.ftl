@@ -1407,39 +1407,51 @@ ent-HeatExchangerInlineBend = radiador contínuo curvado
     .desc = { ent-HeatExchangerInline.desc }
 
 ent-ClothingBeltHolsterFilledCentComm = {ent-ClothingBeltHolster}
+    .desc = {ent-ClothingBeltHolster.desc}
     .suffix = Cheio, N1984.
 
 ent-ClothingBeltMilitaryWebbingCMOFilled = {ent-ClothingBeltMilitaryWebbingCMO}
+    .desc = {ent-ClothingBeltMilitaryWebbingCMO.desc}
     .suffix = Preenchido, não mapeie.
 
 ent-ClothingBeltSheathFilledNavyOfficer = {ent-ClothingBeltSheath}
+    .desc = {ent-ClothingBeltSheath.desc}
     .suffix = Preenchido, Oficial de Solstício de Inverno.
 
 ent-BriefcaseCentcomm = {ent-BriefcaseBrown}
+    .desc = {ent-BriefcaseBrown.desc}
     .suffix = Adme, não mapeie.
 
 ent-ClothingBackpackStasisBatteryUnremoveable = {ent-ClothingBackpackStasisBattery}
+    .desc = {ent-ClothingBackpackStasisBattery.desc}
     .suffix = Não removível
 
 ent-ClothingBackpackStasisBatteryUnremoveableFilled = {ent-ClothingBackpackStasisBattery}
+    .desc = {ent-ClothingBackpackStasisBattery.desc}
     .suffix = Cheio, não removível
 
 ent-ClothingHeadsetChronolegioneerUnremoveable = {ent-ClothingHeadsetChronolegioneer}
+    .desc = {ent-ClothingHeadsetChronolegioneer.desc}
     .suffix = Não removível
 
 ent-ClothingEyesHudChronoUnremoveable = {ent-ClothingEyesHudChrono}
+    .desc = {ent-ClothingEyesHudChrono.desc}
     .suffix = Não removível
 
 ent-ClothingHandsGlovesChronoLegioneerUnremoveable = {ent-ClothingHandsGlovesChronoLegioneer}
+    .desc = {ent-ClothingHandsGlovesChronoLegioneer.desc}
     .suffix = Não removível
 
 ent-ClothingMaskGasChronoUnremoveable = {ent-ClothingMaskGasChrono}
+    .desc = {ent-ClothingMaskGasChrono.desc}
     .suffix = Não removível
 
 ent-ClothingOuterHardsuitChronolegioneerUnremoveable = {ent-ClothingOuterHardsuitChronolegioneer}
+    .desc = {ent-ClothingOuterHardsuitChronolegioneer.desc}
     .suffix = Não removível
 
 ent-ClothingShoesBootsChronoUnremoveable = {ent-ClothingShoesBootsChrono}
+    .desc = {ent-ClothingShoesBootsChrono.desc}
     .suffix = Não removível
 
 ent-MaterialHexNutSingle = {ent-MaterialHexNut}
@@ -1449,47 +1461,62 @@ ent-MaterialScrewSingle = {ent-MaterialScrew}
     .suffix = Solteiro
 
 ent-MechClarkeBattery = {ent-MechClarke}
+    .desc = {ent-MechClarke.desc}
     .suffix = Bateria
 
 ent-MechDurandBattery = {ent-MechDurand}
+    .desc = {ent-MechDurand.desc}
     .suffix = Bateria
 
 ent-MechGygaxBattery = {ent-MechGygax}
+    .desc = {ent-MechGygax.desc}
     .suffix = Bateria
 
 ent-MechGygaxSyndieBattery = {ent-MechGygaxSyndie}
+    .desc = {ent-MechGygaxSyndie.desc}
     .suffix = Bateria
 
 ent-MechGygaxSyndieFilled = {ent-MechGygaxSyndie}
+    .desc = {ent-MechGygaxSyndie.desc}
     .suffix = Bateria, cheia.
 
 ent-MechHonkerFilled = {ent-MechHonker}
+    .desc = {ent-MechHonker.desc}
     .suffix = Bateria, cheia.
 
 ent-MechMarauderBattery = {ent-MechMarauder}
+    .desc = {ent-MechMarauder.desc}
     .suffix = Bateria
 
 ent-MechMarauderFilled = {ent-MechMarauder}
+    .desc = {ent-MechMarauder.desc}
     .suffix = Bateria, cheia.
 
 ent-MechMaulerSyndieBattery = {ent-MechMaulerSyndie}
+    .desc = {ent-MechMaulerSyndie.desc}
     .suffix = Bateria
 
 ent-MechMaulerSyndieFilled = {ent-MechMaulerSyndie}
+    .desc = {ent-MechMaulerSyndie.desc}
     .suffix = Bateria, cheia.
 
 ent-MechRipley2Battery = {ent-MechRipley2}
+    .desc = {ent-MechRipley2.desc}
     .suffix = Bateria
 
 ent-MechSeraphBattery = {ent-MechSeraph}
+    .desc = {ent-MechSeraph.desc}
     .suffix = Bateria
 
 ent-MechSeraphFilled = {ent-MechSeraph}
+    .desc = {ent-MechSeraph.desc}
     .suffix = Bateria, cheia.
 
 ent-JetpackChronoUnremoveable = {ent-JetpackChrono}
+    .desc = {ent-JetpackChrono.desc}
     .suffix = Não removível
 
 ent-DefibrillatorCompactEmpty = {ent-DefibrillatorCompact}
+    .desc = {ent-DefibrillatorCompact.desc}
     .suffix = Vazio
 

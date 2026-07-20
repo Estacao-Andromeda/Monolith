@@ -29,14 +29,18 @@ ent-BetrayalKnife = faca da traição
     .desc = Cuidado com as costas!
 
 ent-ClothingEyesNightVisionGogglesNukie = {ent-ClothingEyesNightVisionGoggles}
+    .desc = {ent-ClothingEyesNightVisionGoggles.desc}
     .suffix = Camaleão, NukeOps
 
 ent-ClothingEyesNightVisionGogglesSyndie = {ent-ClothingEyesNightVisionGoggles}
+    .desc = {ent-ClothingEyesNightVisionGoggles.desc}
     .suffix = Camaleão
 
 ent-ClothingEyesThermalVisionGogglesNukie = {ent-ClothingEyesThermalVisionGoggles}
+    .desc = {ent-ClothingEyesThermalVisionGoggles.desc}
     .suffix = Camaleão, NukeOps
 
 ent-ClothingEyesThermalVisionGogglesSyndie = {ent-ClothingEyesThermalVisionGoggles}
+    .desc = {ent-ClothingEyesThermalVisionGoggles.desc}
     .suffix = Camaleão
 

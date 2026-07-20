@@ -7084,63 +7084,82 @@ ent-FloorTileItemTechMaintAlt = piso de manutenção mecânico
 ent-FloorTileItemTechmaintSterile = piso techmaint estéril
 
 ent-BoxSurvivalMonoNitrogenExtended = {ent-BoxBaseSurvivalMono}
+    .desc = {ent-BoxBaseSurvivalMono.desc}
     .suffix = Nitrogênio
 
 ent-BoxSurvivalMonoOxygenExtended = {ent-BoxBaseSurvivalMono}
+    .desc = {ent-BoxBaseSurvivalMono.desc}
     .suffix = Oxigênio.
 
 ent-ClothingBeltSheathFilledNavy = {ent-ClothingBeltSheath}
+    .desc = {ent-ClothingBeltSheath.desc}
     .suffix = Cheio, NavySabre.
 
 ent-SyringeCaseAltFilled = {ent-SyringeCaseAlt}
+    .desc = {ent-SyringeCaseAlt.desc}
     .suffix = Cheio
 
 ent-WeaponCaseHeavyAmmo150AP = {ent-WeaponCaseHeavyAmmo}
+    .desc = {ent-WeaponCaseHeavyAmmo.desc}
     .suffix = Pesado, navio, 150mm perfurante
 
 ent-WeaponCaseHeavyAmmo150EMP = {ent-WeaponCaseHeavyAmmo}
+    .desc = {ent-WeaponCaseHeavyAmmo.desc}
     .suffix = Pesado, nave, 150mm EMP
 
 ent-WeaponCaseAbielle = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, Abielle Smartgun
 
 ent-WeaponCaseAnnie = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, Annie
 
 ent-WeaponCaseBigLeady = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, Big Leady
 
 ent-WeaponCaseDP29 = {ent-WeaponCaseHeavy}
+    .desc = {ent-WeaponCaseHeavy.desc}
     .suffix = Dungeon, DP-29.
 
 ent-WeaponCaseLongAK220 = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, AK-220
 
 ent-WeaponCaseMla34 = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, MIA-34
 
 ent-WeaponCaseMla73 = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, MIA-73
 
 ent-WeaponCaseMla79 = {ent-WeaponCaseHeavy}
+    .desc = {ent-WeaponCaseHeavy.desc}
     .suffix = Dungeon, MIA-79
 
 ent-WeaponCaseMr8c = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, MR-8C
 
 ent-WeaponCaseShortAnaconda = {ent-WeaponCaseShort}
+    .desc = {ent-WeaponCaseShort.desc}
     .suffix = Dungeon, Anaconda
 
 ent-WeaponCaseShortEg4 = {ent-WeaponCaseShort}
+    .desc = {ent-WeaponCaseShort.desc}
     .suffix = Dungeon, EG-4
 
 ent-WeaponCaseWspr = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Dungeon, WSPR
 
 ent-LockerWallEVAColorDMEFilled = {ent-LockerWallEVAColorDME}
     .suffix = Cheio
 
 ent-ClosetMaintenanceFilledRandomMono = {ent-ClosetMaintenance}
+    .desc = {ent-ClosetMaintenance.desc}
     .suffix = Cheio, Aleatório, Mono
 
 ent-SuitStorageWallmountEVAAtmosTech = {ent-SuitStorageWallmount}
@@ -7219,66 +7238,87 @@ ent-SuitStorageWallmountParamedic = {ent-SuitStorageWallmount}
     .suffix = EVA, Paramédico
 
 ent-SuitStorageCommissar = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = USSP Comissar Suits
 
 ent-SuitStorageM82b = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = M82b Hardsuit
 
 ent-SuitStorageM82c = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = M82c Hardsuit
 
 ent-SuitStorageM86 = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = M86 Hardsuit
 
 ent-SuitStorageSheriff = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Coronel da TMFMC
 
 ent-SuitStorageSyndieCommander = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Comandante Hardsuit
 
 ent-SuitStorageSyndieMedic = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Sindicate Medic Hardsuit
 
 ent-SuitStorageUssp = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = USSP L-27
 
 ent-SuitStorageUsspL10 = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = USSP L-10
 
 ent-SuitStorageViperJackal = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Grupo Viper, Chacal.
 
 ent-SuitStorageViperWL = {ent-SuitStorageBase}
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Grupo Viper - BROOD
 
 ent-StructureGunRackBanditFilled = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = Cheio, Bandit DMR
 
 ent-StructureGunRackMla34Filled = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = Cheio, MLA-34 Smartgun
 
 ent-ClothingModsuitMercenaryPowerCell = {ent-ClothingModsuitMercenary}
+    .desc = {ent-ClothingModsuitMercenary.desc}
     .suffix = Bateria de alta capacidade
 
 ent-ClothingModsuitRoguePowerCell = {ent-ClothingModsuitRogue}
+    .desc = {ent-ClothingModsuitRogue.desc}
     .suffix = Bateria de alta capacidade
 
 ent-ClothingModsuitUSSPVaryagPowerCell = {ent-ClothingModsuitUSSPVaryag}
+    .desc = {ent-ClothingModsuitUSSPVaryag.desc}
     .suffix = Bateria de alta capacidade
 
 ent-ClothingModsuitUSSPZastavnikPowerCell = {ent-ClothingModsuitUSSPZastavnik}
+    .desc = {ent-ClothingModsuitUSSPZastavnik.desc}
     .suffix = Bateria de alta capacidade
 
 ent-ClothingModsuitVoltaPowerCell = {ent-ClothingModsuitVolta}
+    .desc = {ent-ClothingModsuitVolta.desc}
     .suffix = Bateria de alta capacidade
 
 ent-ClothingOuterHardsuitAsakimUnremoveable = {ent-ClothingOuterHardsuitAsakim}
+    .desc = {ent-ClothingOuterHardsuitAsakim.desc}
     .suffix = 120 StripDelay
 
 ent-AFInterceptorMBattery = {ent-AFInterceptorM}
+    .desc = {ent-AFInterceptorM.desc}
     .suffix = Bateria
 
 ent-AFInterceptorMFilled = {ent-AFInterceptorM}
+    .desc = {ent-AFInterceptorM.desc}
     .suffix = Bateria, cheia.
 
 ent-SalvageSpawnerPlastitaniumCommon = {ent-SalvageSpawnerScrapCommon}
@@ -7293,201 +7333,267 @@ ent-MaterialDiamond5 = {ent-MaterialDiamond}
     .suffix = Salvage
 
 ent-MaterialPyrogel1 = {ent-MaterialPyrogel}
+    .desc = {ent-MaterialPyrogel.desc}
     .suffix = 1
 
 ent-SheetIridite1 = {ent-MaterialIridite}
+    .desc = {ent-MaterialIridite.desc}
     .suffix = 1
 
 ent-SheetIridite10 = {ent-MaterialIridite}
+    .desc = {ent-MaterialIridite.desc}
     .suffix = 10
 
 ent-SheetIridite50 = {ent-MaterialIridite}
+    .desc = {ent-MaterialIridite.desc}
     .suffix = 50
 
 ent-SheetPlastitanium1 = {ent-SheetPlastitanium}
+    .desc = {ent-SheetPlastitanium.desc}
     .suffix = 1
 
 ent-SheetPlastitanium10 = {ent-SheetPlastitanium}
+    .desc = {ent-SheetPlastitanium.desc}
     .suffix = 10
 
 ent-SheetUraniumDepleted1 = {ent-SheetUraniumDepleted}
+    .desc = {ent-SheetUraniumDepleted.desc}
     .suffix = 1
 
 ent-SheetUraniumFissile1 = {ent-SheetUraniumFissile}
+    .desc = {ent-SheetUraniumFissile.desc}
     .suffix = 1
 
 ent-NpcStationAiRammerSmart = {ent-NpcStationAiRammer}
+    .desc = {ent-NpcStationAiRammer.desc}
     .suffix = AI, Smart
 
 ent-NpcStationAiRammerSmartDodging = {ent-NpcStationAiRammer}
+    .desc = {ent-NpcStationAiRammer.desc}
     .suffix = Al, Smart, Abnegação
 
 ent-NpcStationAiRammerStraight = {ent-NpcStationAiRammer}
+    .desc = {ent-NpcStationAiRammer.desc}
     .suffix = Al, sem Evasão
 
 ent-PlayerBorgPDV = {ent-BorgChassisSelectablePDV}
+    .desc = {ent-BorgChassisSelectablePDV.desc}
     .suffix = Bateria, Módulo
 
 ent-PlayerBorgRedacted = {ent-BorgChassisRedacted}
+    .desc = {ent-BorgChassisRedacted.desc}
     .suffix = Bateria, Módulo
 
 ent-PlayerBorgRedactedGhostRole = {ent-BorgChassisRedacted}
+    .desc = {ent-BorgChassisRedacted.desc}
     .suffix = Fantasma
 
 ent-PlayerBorgRedactedGhostRolePlaytime = {ent-BorgChassisRedacted}
+    .desc = {ent-BorgChassisRedacted.desc}
     .suffix = Ghost, hora da brincadeira.
 
 ent-PlayerBorgTSF = {ent-BorgChassisSelectableTSF}
+    .desc = {ent-BorgChassisSelectableTSF.desc}
     .suffix = Bateria, Módulo
 
 ent-PlayerStationAiPDV = {ent-PlayerStationAiEmpty}
+    .desc = {ent-PlayerStationAiEmpty.desc}
     .suffix = Papel Fantasma, PDV
 
 ent-PlayerStationAiRedacted = {ent-PlayerStationAiEmpty}
+    .desc = {ent-PlayerStationAiEmpty.desc}
     .suffix = Papel Fantasma, Remanescente
 
 ent-PlayerStationAiSecurity = {ent-PlayerStationAiEmpty}
+    .desc = {ent-PlayerStationAiEmpty.desc}
     .suffix = Papel Fantasma, Segurança
 
 ent-PlayerStationAiTSFMC = {ent-PlayerStationAiEmpty}
+    .desc = {ent-PlayerStationAiEmpty.desc}
     .suffix = Papel Fantasma, TMFMC
 
 ent-PlayerStationAiVessel = {ent-PlayerStationAiEmpty}
+    .desc = {ent-PlayerStationAiEmpty.desc}
     .suffix = Papel Fantasma, Nave
 
 ent-DrinkBerryTea = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Chá de bagas
 
 ent-DrinkChamomileTea = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Chá de camomila
 
 ent-DrinkDecafBlackTea = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Chá preto descafeinado
 
 ent-DrinkDecafCoffee = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Café descafeinado.
 
 ent-DrinkFruitTea = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Chá de frutas
 
 ent-DrinkSyndicateTea = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Chá de sindie.
 
 ent-DrinkYorkshireTea = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Chá Yorkshire.
 
 ent-DoorElectronicsGrandVizier = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Grande Vizir, trancado.
 
 ent-DoorElectronicsPdvCommand = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Comando PDV, bloqueado.
 
 ent-DoorElectronicsTsfEngineer = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Engenharia TSF, trancada.
 
 ent-DoorElectronicsUSSP = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = USSP, Bloqueado
 
 ent-DoorElectronicsUSSPCommand = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Comando USSP, bloqueado.
 
 ent-DoorElectronicsUSSPHigh = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = USSP Seguro, trancado
 
 ent-DoorElectronicsViper = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Grupo Viper, trancado.
 
 ent-DoorElectronicsViperCommand = {ent-DoorElectronics}
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Comando do Grupo Viper, bloqueado.
 
 ent-DefaultStationBeaconExpedLounge = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Salão Expedido
 
 ent-DefaultStationBeaconMailRoom = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Correios
 
 ent-DefaultStationBeaconUSSPArmory = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Armatório USSP
 
 ent-DefaultStationBeaconUSSPBrig = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = USSP Brig
 
 ent-DefaultStationBeaconUSSPCargo = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = USSP Cargo
 
 ent-DefaultStationBeaconUSSPCommissar = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Comissário da USSP
 
 ent-DefaultStationBeaconUSSPControl = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala de Controle da USSP
 
 ent-DefaultStationBeaconUSSPDockAlpha = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = USSP Docks
 
 ent-DefaultStationBeaconUSSPDockBeta = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = USSP Docks
 
 ent-DefaultStationBeaconUSSPDorms = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = USSP Dormitórios
 
 ent-DefaultStationBeaconUSSPReception = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Recepção USSP
 
 ent-DefaultStationBeaconUSSPServers = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Servidores USSP
 
 ent-DefaultStationBeaconUSSPShipyard = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Estaleiro USSP
 
 ent-DefaultStationBeaconViperArmory = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Grupo Viper Arsenal
 
 ent-DefaultStationBeaconViperBrig = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Brig do Grupo Viper
 
 ent-DefaultStationBeaconViperCargo = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Carga do Grupo Viper
 
 ent-DefaultStationBeaconViperCommander = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Comandante do Grupo Viper.
 
 ent-DefaultStationBeaconViperControl = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala de Controle do Grupo Viper
 
 ent-DefaultStationBeaconViperDockAlpha = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Grupo Viper Docks, Alfa
 
 ent-DefaultStationBeaconViperDockBeta = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Grupo Viper Docks, Beta
 
 ent-DefaultStationBeaconViperDorms = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Grupo Viper dormitórios
 
 ent-DefaultStationBeaconViperReception = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Recepção do Grupo Viper
 
 ent-DefaultStationBeaconViperServers = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Servidores do Grupo Viper
 
 ent-DefaultStationBeaconViperShipyard = {ent-DefaultStationBeacon}
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Estaleiro do Grupo Viper
 
 ent-SheetCopper1 = {ent-MaterialCopper}
+    .desc = {ent-MaterialCopper.desc}
     .suffix = 1
 
 ent-SheetCopper10 = {ent-MaterialCopper}
+    .desc = {ent-MaterialCopper.desc}
     .suffix = 10
 
 ent-SheetCopper50 = {ent-MaterialCopper}
+    .desc = {ent-MaterialCopper.desc}
     .suffix = 50
 
 ent-SheetLithium1 = {ent-MaterialLithium}
+    .desc = {ent-MaterialLithium.desc}
     .suffix = 1
 
 ent-SheetLithium10 = {ent-MaterialLithium}
+    .desc = {ent-MaterialLithium.desc}
     .suffix = 10
 
 ent-SheetLithium50 = {ent-MaterialLithium}
+    .desc = {ent-MaterialLithium.desc}
     .suffix = 50
 
 ent-CopperOre1 = {ent-CopperOre}
@@ -7497,417 +7603,555 @@ ent-LithiumOre1 = {ent-LithiumOre}
     .suffix = Solteiro
 
 ent-GooglyEyesAdmeme = {ent-GooglyEyes}
+    .desc = {ent-GooglyEyes.desc}
     .suffix = Adme
 
 ent-GooglyEyesWatchful = {ent-GooglyEyes}
+    .desc = {ent-GooglyEyes.desc}
     .suffix = Cuidado.
 
 ent-GooglyEyesWatchfulAdmeme = {ent-GooglyEyes}
+    .desc = {ent-GooglyEyes.desc}
     .suffix = Adme, cuidado.
 
 ent-RadioImplanterUssp = {ent-BaseImplanter}
+    .desc = {ent-BaseImplanter.desc}
     .suffix = - Não, não, não.
 
 ent-BlueLobsterUncursed = {ent-BlueLobster}
+    .desc = {ent-BlueLobster.desc}
     .suffix = Não amaldiçoado.
 
 ent-SpaceCash50000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 50000
 
 ent-SpaceCash75000 = {ent-SpaceCash}
+    .desc = {ent-SpaceCash.desc}
     .suffix = 75000
 
 ent-WeaponTurretCC = {ent-BaseWeaponBallisticTurret}
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = CC, Colossus
 
 ent-WeaponTurretPDV = {ent-BaseWeaponBallisticTurret}
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = PDV
 
 ent-WeaponTurretTSFMC = {ent-BaseWeaponBallisticTurret}
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = TSFMC
 
 ent-WeaponTurretUSSP = {ent-BaseWeaponBallisticTurret}
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = USSP
 
 ent-WeaponTurretViper = {ent-BaseWeaponBallisticTurret}
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = Viper.
 
 ent-PowerCellCombatPrinted = {ent-PowerCellCombat}
+    .desc = {ent-PowerCellCombat.desc}
     .suffix = Vazio
 
 ent-DeepGasDeposit = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Normal.
 
 ent-DeepGasDepositAirLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Ar-like, Grande
 
 ent-DeepGasDepositAirSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Ar-like, Small
 
 ent-DeepGasDepositAirVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Ar-like, Muito Grande
 
 ent-DeepGasDepositAirVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Ar-like, Muito Pequeno
 
 ent-DeepGasDepositAmmoniaLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Amônia, Grande
 
 ent-DeepGasDepositAmmoniaSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Amônia, Pequena
 
 ent-DeepGasDepositAmmoniaVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Amônia, muito grande.
 
 ent-DeepGasDepositAmmoniaVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Amônia, muito pequena.
 
 ent-DeepGasDepositCarbonDioxideLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Dióxido de Carbono, Grande
 
 ent-DeepGasDepositCarbonDioxideSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Dióxido de Carbono, Pequeno
 
 ent-DeepGasDepositCarbonDioxideVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Dióxido de carbono, muito grande.
 
 ent-DeepGasDepositCarbonDioxideVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Dióxido de Carbono, Muito Pequeno
 
 ent-DeepGasDepositFrezonLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Frezon, grande.
 
 ent-DeepGasDepositFrezonSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Frezon, Pequeno.
 
 ent-DeepGasDepositFrezonVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Frezon, muito grande.
 
 ent-DeepGasDepositFrezonVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Frezon, muito pequeno.
 
 ent-DeepGasDepositLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Grande.
 
 ent-DeepGasDepositMuddleEvenLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Confundido, Grande
 
 ent-DeepGasDepositMuddleEvenSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Misterioso, Pequeno
 
 ent-DeepGasDepositMuddleEvenVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Muddled, Muito Grande
 
 ent-DeepGasDepositMuddleEvenVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Confundido, Muito pequeno
 
 ent-DeepGasDepositMuddlePlasmaLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = P+ confuso, grande
 
 ent-DeepGasDepositMuddlePlasmaSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = P+ confuso, pequeno
 
 ent-DeepGasDepositMuddlePlasmaVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = P+ confuso, muito grande.
 
 ent-DeepGasDepositMuddlePlasmaVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = P+ confuso, muito pequeno.
 
 ent-DeepGasDepositNitrogenLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Nitrogênio, Grande
 
 ent-DeepGasDepositNitrogenSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Nitrogênio, Pequeno
 
 ent-DeepGasDepositNitrogenVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Nitrogênio, muito grande.
 
 ent-DeepGasDepositNitrogenVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Nitrogênio, muito pequeno.
 
 ent-DeepGasDepositNitrousOxideLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Óxido nitroso, grande
 
 ent-DeepGasDepositNitrousOxideSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Óxido nitroso, pequeno
 
 ent-DeepGasDepositNitrousOxideVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Óxido nitroso, muito grande.
 
 ent-DeepGasDepositNitrousOxideVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Óxido nitroso, muito pequeno.
 
 ent-DeepGasDepositOxygenLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Oxigênio, Grande
 
 ent-DeepGasDepositOxygenSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Oxigênio, Pequeno
 
 ent-DeepGasDepositOxygenVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Oxigênio, muito grande.
 
 ent-DeepGasDepositOxygenVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Oxigênio, muito pequeno.
 
 ent-DeepGasDepositPlasmaLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Plasma, grande
 
 ent-DeepGasDepositPlasmaSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Plasma, Pequeno
 
 ent-DeepGasDepositPlasmaVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Plasma, muito grande.
 
 ent-DeepGasDepositPlasmaVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Plasma, muito pequeno.
 
 ent-DeepGasDepositSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Pequeno.
 
 ent-DeepGasDepositVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Muito grande.
 
 ent-DeepGasDepositVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Muito pequeno.
 
 ent-DeepGasDepositWaterVaporLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Vapor de água, grande
 
 ent-DeepGasDepositWaterVaporSmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Vapor de água, Pequeno
 
 ent-DeepGasDepositWaterVaporVeryLarge = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Vapor de água, muito grande
 
 ent-DeepGasDepositWaterVaporVerySmall = {ent-BaseDeepGasDeposit}
+    .desc = {ent-BaseDeepGasDeposit.desc}
     .suffix = Vapor de água, muito pequeno
 
 ent-JerryCanNaniteFuel = {ent-JerryCan}
+    .desc = {ent-JerryCan.desc}
     .suffix = Combustível nanite
 
 ent-DrinkTeaGlassEmpty = {ent-DrinkGlass}
+    .desc = {ent-DrinkGlass.desc}
     .suffix = Vazio
 
 ent-DesertSand1 = {ent-DesertSand}
+    .desc = {ent-DesertSand.desc}
     .suffix = 1
 
 ent-DesertSand50 = {ent-DesertSand}
+    .desc = {ent-DesertSand.desc}
     .suffix = 50
 
 ent-FloraRockSolidPlanet = {ent-BaseRock}
+    .desc = {ent-BaseRock.desc}
     .suffix = planeta
 
 ent-Telecrystal1 = {ent-Telecrystal}
+    .desc = {ent-Telecrystal.desc}
     .suffix = 1 TC
 
 ent-MotionDetectorBorg = {ent-MotionDetector}
+    .desc = {ent-MotionDetector.desc}
     .suffix = Borg.
 
 ent-MotionDetectorEmpty = {ent-MotionDetector}
+    .desc = {ent-MotionDetector.desc}
     .suffix = Vazio
 
 ent-WeaponLauncherMPSSMASM = {ent-WeaponLauncherMPSSM}
+    .desc = {ent-WeaponLauncherMPSSM.desc}
     .suffix = ASM.
 
 ent-WeaponCaseAbielleRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregar, Abielle Smartgun
 
 ent-WeaponCaseAk502Registered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, AK-502.
 
 ent-WeaponCaseAnnieRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregar, Annie
 
 ent-WeaponCaseBigLeadyRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, Grande Leady
 
 ent-WeaponCaseLongEnforcerRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregar, Forçador.
 
 ent-WeaponCaseLongMR3CRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, MR-3C.
 
 ent-WeaponCaseLongVulcanRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregar, Vulcano.
 
 ent-WeaponCaseMalandroRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregar, Malandro.
 
 ent-WeaponCaseMla34Registered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, MIA-34.
 
 ent-WeaponCaseMla73Registered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, MIA-73
 
 ent-WeaponCaseMla79Registered = {ent-WeaponCaseHeavy}
+    .desc = {ent-WeaponCaseHeavy.desc}
     .suffix = Carregamento, MIA-79
 
 ent-WeaponCaseShortAnacondaRegistered = {ent-WeaponCaseShort}
+    .desc = {ent-WeaponCaseShort.desc}
     .suffix = Carregar, Anaconda
 
 ent-WeaponCaseShortEg4Registered = {ent-WeaponCaseShort}
+    .desc = {ent-WeaponCaseShort.desc}
     .suffix = Carregar, EG-4.
 
 ent-WeaponCaseVector45AcpRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregar, Vector, 45 ACP.
 
 ent-WeaponCaseVector9mmRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, Vector, 9mm.
 
 ent-WeaponCaseWsprRegistered = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = Carregamento, WSPR
 
 ent-WeaponEnergyRevolverRegistered = {ent-WeaponEnergyRevolver}
+    .desc = {ent-WeaponEnergyRevolver.desc}
     .suffix = Registrado
 
 ent-WeaponPistolAnacondaRegistered = {ent-WeaponPistolAnaconda}
+    .desc = {ent-WeaponPistolAnaconda.desc}
     .suffix = Registrado
 
 ent-WeaponRifleAK502Registered = {ent-WeaponRifleAK502}
+    .desc = {ent-WeaponRifleAK502.desc}
     .suffix = Registrado
 
 ent-WeaponRifleAnnieRegistered = {ent-WeaponRifleAnnie}
+    .desc = {ent-WeaponRifleAnnie.desc}
     .suffix = Registrado
 
 ent-WeaponRifleMla34Registered = {ent-WeaponRifleMla34}
+    .desc = {ent-WeaponRifleMla34.desc}
     .suffix = Registrado
 
 ent-WeaponRifleMR3CRegistered = {ent-WeaponRifleMR3C}
+    .desc = {ent-WeaponRifleMR3C.desc}
     .suffix = Registrado
 
 ent-WeaponRifleVulcanRegistered = {ent-WeaponRifleVulcan}
+    .desc = {ent-WeaponRifleVulcan.desc}
     .suffix = Registrado
 
 ent-WeaponRifleWSPRRegistered = {ent-WeaponRifleWSPR}
+    .desc = {ent-WeaponRifleWSPR.desc}
     .suffix = Registrado
 
 ent-WeaponShotgunBigLeadyRegistered = {ent-WeaponShotgunBigLeady}
+    .desc = {ent-WeaponShotgunBigLeady.desc}
     .suffix = Registrado
 
 ent-WeaponShotgunEnforcerRegistered = {ent-WeaponShotgunEnforcer}
+    .desc = {ent-WeaponShotgunEnforcer.desc}
     .suffix = Registrado
 
 ent-WeaponSmartLmgRegistered = {ent-WeaponSmartLmg}
+    .desc = {ent-WeaponSmartLmg.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunMalandroRegistered = {ent-WeaponSubMachineGunMalandro}
+    .desc = {ent-WeaponSubMachineGunMalandro.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunMla73Registered = {ent-WeaponSubMachineGunMla73}
+    .desc = {ent-WeaponSubMachineGunMla73.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunVector45_ACPRegistered = {ent-WeaponSubMachineGunVector45_ACP}
+    .desc = {ent-WeaponSubMachineGunVector45_ACP.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunVector9x19mmRegistered = {ent-WeaponSubMachineGunVector9x19mm}
+    .desc = {ent-WeaponSubMachineGunVector9x19mm.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineSmartRegistered = {ent-WeaponSubMachineSmart}
+    .desc = {ent-WeaponSubMachineSmart.desc}
     .suffix = Registrado
 
 ent-WeaponDisablerSMGPMC = {ent-WeaponDisablerSMG}
+    .desc = {ent-WeaponDisablerSMG.desc}
     .suffix = Registrado
 
 ent-WeaponEnergyGunPMC = {ent-WeaponEnergyGun}
+    .desc = {ent-WeaponEnergyGun.desc}
     .suffix = Registrado
 
 ent-WeaponLaserCannonPMC = {ent-WeaponLaserCannon}
+    .desc = {ent-WeaponLaserCannon.desc}
     .suffix = Registrado
 
 ent-WeaponPistolViperPMC = {ent-WeaponPistolViper}
+    .desc = {ent-WeaponPistolViper.desc}
     .suffix = Registrado
 
 ent-WeaponRifleLecterPMC = {ent-WeaponRifleLecter}
+    .desc = {ent-WeaponRifleLecter.desc}
     .suffix = Registrado
 
 ent-WeaponShotgunEnforcerPMC = {ent-WeaponShotgunEnforcer}
+    .desc = {ent-WeaponShotgunEnforcer.desc}
     .suffix = Registrado
 
 ent-WeaponShotgunKammererPMC = {ent-WeaponShotgunKammerer}
+    .desc = {ent-WeaponShotgunKammerer.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunC20rPMC = {ent-WeaponSubMachineGunC20r}
+    .desc = {ent-WeaponSubMachineGunC20r.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunDrozdPMC = {ent-WeaponSubMachineGunDrozd}
+    .desc = {ent-WeaponSubMachineGunDrozd.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunMalandroPMC = {ent-WeaponSubMachineGunMalandro}
+    .desc = {ent-WeaponSubMachineGunMalandro.desc}
     .suffix = Registrado
 
 ent-WeaponSubMachineGunWt550PMC = {ent-WeaponSubMachineGunWt550}
+    .desc = {ent-WeaponSubMachineGunWt550.desc}
     .suffix = Registrado
 
 ent-WeaponCaseLongIrohSecurity = {ent-WeaponCaseLong}
+    .desc = {ent-WeaponCaseLong.desc}
     .suffix = CC, Iroh
 
 ent-WeaponTurretHeavyAllHostile = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = Todos hostis.
 
 ent-WeaponTurretHeavyCC = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = CC, Colossus
 
 ent-WeaponTurretHeavyHostile = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = Hostil
 
 ent-WeaponTurretHeavyMD = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = Médico
 
 ent-WeaponTurretHeavyNanoTrasen = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = NanoTrasen
 
 ent-WeaponTurretHeavyRIPAllHostile = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = Todos hostis.
 
 ent-WeaponTurretHeavyRIPCC = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = CC, Colossus
 
 ent-WeaponTurretHeavyRIPHostile = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = Hostil
 
 ent-WeaponTurretHeavyRIPMD = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = Médico
 
 ent-WeaponTurretHeavyRIPNanoTrasen = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = NanoTrasen
 
 ent-WeaponTurretHeavyRIPSilicon = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = IA Rogue.
 
 ent-WeaponTurretHeavyRIPSyndicate = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = Sindicato
 
 ent-WeaponTurretHeavyRIPTSFMC = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = TSF
 
 ent-WeaponTurretHeavyRIPVDN = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = PDV
 
 ent-WeaponTurretHeavyRIPViper = {ent-WeaponTurretHeavyRIPBase}
+    .desc = {ent-WeaponTurretHeavyRIPBase.desc}
     .suffix = Viper.
 
 ent-WeaponTurretHeavySilicon = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = IA Rogue.
 
 ent-WeaponTurretHeavySyndicate = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = Sindicato
 
 ent-WeaponTurretHeavyTSFMC = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = TSF
 
 ent-WeaponTurretHeavyVDN = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = PDV
 
 ent-WeaponTurretHeavyViper = {ent-BallisticTurretHeavyBase}
+    .desc = {ent-BallisticTurretHeavyBase.desc}
     .suffix = Viper.
 
 ent-WeaponTurretPaladinInfinite = {ent-WeaponTurretPaladin}
+    .desc = {ent-WeaponTurretPaladin.desc}
     .suffix = Grande, T4, Infinito
 
 ent-WeaponTurretVanquisherInfinite = {ent-WeaponTurretVanquisher}
+    .desc = {ent-WeaponTurretVanquisher.desc}
     .suffix = Grande, T4, Infinito
 
 ent-JugOmnizine = {ent-Jug}
+    .desc = {ent-Jug.desc}
     .suffix = Omnizina
 
 ent-AirlockHeavyCaptainLocked = {ent-AirlockHeavy}
@@ -8015,6 +8259,7 @@ ent-AirlockShuttleNfsdOutpostLocked = {ent-AirlockShuttleNfsd}
     .suffix = Apenas o melhor, TMFMC, acoplagem, travado
 
 ent-HighSecTSFMCLocked = {ent-HighSecDoor}
+    .desc = {ent-HighSecDoor.desc}
     .suffix = TSFMC, trancado.
 
 ent-AirlockTsfEngineering = {ent-Airlock}
@@ -8142,18 +8387,23 @@ ent-AirlockHeavyAssemblyUSSP = {ent-AirlockHeavyAssembly}
     .suffix = USSP
 
 ent-HighSecUSSPCommandLocked = {ent-HighSecDoor}
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Comando USSP, bloqueado.
 
 ent-HighSecUSSPLocked = {ent-HighSecDoor}
+    .desc = {ent-HighSecDoor.desc}
     .suffix = USSP, Bloqueado
 
 ent-HighSecUSSPSecureLocked = {ent-HighSecDoor}
+    .desc = {ent-HighSecDoor.desc}
     .suffix = USSP Seguro, trancado
 
 ent-HighSecViperCommandLocked = {ent-HighSecDoor}
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Comando do Grupo Viper, bloqueado.
 
 ent-HighSecViperLocked = {ent-HighSecDoor}
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Grupo Viper, trancado.
 
 ent-AirlockExternalGlassShuttleUSSPLocked = {ent-AirlockGlassShuttleSyndicate}
@@ -8221,21 +8471,27 @@ ent-AirlockShuttleUSSPOutpostLocked = {ent-AirlockShuttleSyndicate}
     .suffix = SOMENTE OUTPOST, USSP, Acoplamento, Trancado
 
 ent-PlasmaWindoorSecureRogueLocked = {ent-WindoorSecurePlasma}
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Rogue, Trancada, Plasma
 
 ent-SmallLightDim = {ent-SmallLight}
+    .desc = {ent-SmallLight.desc}
     .suffix = Sempre ligada, Fraca.
 
 ent-PoweredlightBlueAirAlarm = {ent-PoweredlightEmpty}
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Azul, Off
 
 ent-ComputerTabletopShuttleANALR67RWR = {ent-ComputerShuttleANALR67RWR}
+    .desc = {ent-ComputerShuttleANALR67RWR.desc}
     .suffix = Tabletop, alt AN/ALR-67
 
 ent-ComputerTabletopShuttleKPV63RWR = {ent-ComputerShuttleKPV63RWR}
+    .desc = {ent-ComputerShuttleKPV63RWR.desc}
     .suffix = Mesa, PDV/USSP KPV-63 RWR
 
 ent-ComputerTabletopShuttleTSFNVWS = {ent-ComputerShuttleTSFNVWS}
+    .desc = {ent-ComputerShuttleTSFNVWS.desc}
     .suffix = Tabletop, TSFN/TSFMC VWS
 
 ent-FaxMachinePDVJupiter = {ent-FaxMachineBase}
@@ -8291,48 +8547,58 @@ ent-UraniumOre15 = {ent-UraniumOre}
     .suffix = Quinze.
 
 ent-FactionLatheImmmovable = {ent-FactionLathe}
+    .desc = {ent-FactionLathe.desc}
     .suffix = IMÓVEL
 
 ent-USSPLatheImmmovable = {ent-USSPLathe}
+    .desc = {ent-USSPLathe.desc}
     .suffix = IMÓVEL
 
 ent-ViperLatheImmmovable = {ent-ViperLathe}
+    .desc = {ent-ViperLathe.desc}
     .suffix = IMÓVEL
 
 ent-APCBasicTSF = {ent-BaseAPC}
+    .desc = {ent-BaseAPC.desc}
     .suffix = Básico, 50kJ, engenharia TSFMC travada
 
 ent-NuclearReactorCC = {ent-BaseNuclearReactor}
+    .desc = {ent-BaseNuclearReactor.desc}
     .suffix = Supervisor Trancado
 
 ent-NuclearReactorCCSmall = {ent-NuclearReactorSmall}
     .suffix = Supervisor Trancado
 
 ent-NuclearReactorPDV = {ent-BaseNuclearReactor}
+    .desc = {ent-BaseNuclearReactor.desc}
     .suffix = PDV Denasvar bloqueado
 
 ent-NuclearReactorPDVSmall = {ent-NuclearReactorSmall}
     .suffix = PDV Denasvar bloqueado
 
 ent-NuclearReactorTSF = {ent-BaseNuclearReactor}
+    .desc = {ent-BaseNuclearReactor.desc}
     .suffix = TSF FTL bloqueado
 
 ent-NuclearReactorTSFSmall = {ent-NuclearReactorSmall}
     .suffix = TSF FTL bloqueado
 
 ent-NuclearReactorUnaffiliated = {ent-BaseNuclearReactor}
+    .desc = {ent-BaseNuclearReactor.desc}
     .suffix = Não afiliado, Capitão Bloqueado.
 
 ent-NuclearReactorUnaffiliatedSmall = {ent-NuclearReactorSmall}
     .suffix = Não afiliado, Capitão Bloqueado.
 
 ent-NuclearReactorUSSP = {ent-BaseNuclearReactor}
+    .desc = {ent-BaseNuclearReactor.desc}
     .suffix = USSP Serzhant bloqueado
 
 ent-NuclearReactorUSSPSmall = {ent-NuclearReactorSmall}
     .suffix = USSP Serzhant bloqueado
 
 ent-GeneratorCRPinchShuttle = {ent-GeneratorCRPinch}
+    .desc = {ent-GeneratorCRPinch.desc}
     .suffix = Plasma, Rad+, 105 kW, nave.
 
 ent-ThrusterLargePartsT2 = {ent-ThrusterLarge}
@@ -8360,6 +8626,7 @@ ent-ThrusterUSSP = {ent-ThrusterSecurity}
     .suffix = USSP
 
 ent-GyroscopeDebugStrength = {ent-Gyroscope}
+    .desc = {ent-Gyroscope.desc}
     .suffix = Força de depuração
 
 ent-ThrusterDebugStrength = {ent-ThrusterSecurity}
@@ -8375,27 +8642,35 @@ ent-LockableButtonViper = {ent-LockableButton}
     .suffix = Viper.
 
 ent-WallPlastitaniumOutpost = {ent-WallPlastitanium}
+    .desc = {ent-WallPlastitanium.desc}
     .suffix = SOMENTE OUTPOST
 
 ent-WallReinforcedOutpost = {ent-WallReinforced}
+    .desc = {ent-WallReinforced.desc}
     .suffix = SOMENTE OUTPOST
 
 ent-PlastitaniumWindowDiagonalOutpost = {ent-PlastitaniumWindowDiagonal}
+    .desc = {ent-PlastitaniumWindowDiagonal.desc}
     .suffix = diagonal, SOMENTE OUTPOST
 
 ent-PlastitaniumWindowOutpost = {ent-PlastitaniumWindow}
+    .desc = {ent-PlastitaniumWindow.desc}
     .suffix = SOMENTE OUTPOST
 
 ent-ReinforcedWindowDiagonalOutpost = {ent-ReinforcedWindow}
+    .desc = {ent-ReinforcedWindow.desc}
     .suffix = diagonal, SOMENTE OUTPOST
 
 ent-WindowTimedSeal120Minutes = {ent-WindowTimedSeal}
+    .desc = {ent-WindowTimedSeal.desc}
     .suffix = 120 minutos, indestrutível.
 
 ent-WindowTimedSeal180Minutes = {ent-WindowTimedSeal}
+    .desc = {ent-WindowTimedSeal.desc}
     .suffix = 180 Minutos, indestrutível.
 
 ent-WindowTimedSeal60Minutes = {ent-WindowTimedSeal}
+    .desc = {ent-WindowTimedSeal.desc}
     .suffix = 60 Minutos, indestrutível.
 
 ent-MailMonoAK = {ent-BaseMailLarge}

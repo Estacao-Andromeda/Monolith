@@ -1,15 +1,15 @@
 shuttle-console-designation = Designação:
 shuttle-console-designation-unknown = Desconhecido
 shuttle-console-maximum-iff-distance = Distância Máxima IFF
-shuttle-console-maximum-speed = Velocidade Máxima da Lançadeira
+shuttle-console-maximum-speed = Velocidade Máxima da Nave
 
 shuttle-console-iff-search = Buscar IFF
-shuttle-console-inertia-dampener-off = Cruzeiro
+shuttle-console-inertia-dampener-off = Cruzar
 shuttle-console-inertia-dampener-dampen = Dirigir
 shuttle-console-inertia-dampener-anchor = Estacionar
 
 # Mono
-shuttle-console-force-anchored = Você não é capaz de FTL um posto avançado.
+shuttle-console-force-anchored = Você não é capaz de fazer um posto dar FTL.
 shuttle-console-signature-infrared = Assinatura Térmica
 
 # Mono - Unknowns
@@ -25,7 +25,7 @@ shuttle-console-signature-unknown =
 
 # Network Port Buttons
 shuttle-console-network-ports = Portas de Rede
-shuttle-console-network-connect-tooltip = Os botões no console da lançadeira enviam um sinal quando pressionados, use uma multiferramenta no console e conecte-a a um dispositivo!
+shuttle-console-network-connect-tooltip = Os botões no console da nave enviam um sinal quando pressionados, use uma multiferramenta no console e conecte-a a um dispositivo!
 
 # Device Link Buttons
 shuttle-console-device-button-1 = Porta 1

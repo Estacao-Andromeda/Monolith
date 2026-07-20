@@ -196,5 +196,6 @@ ent-SolCommonTranslatorImplanter = implante tradutor sol-comum
 ent-ValyrianStandardTranslatorImplanter = implante tradutor valiriano padrão
 
 ent-Translator = {ent-TranslatorUnpowered}
+    .desc = {ent-TranslatorUnpowered.desc}
     .suffix = Carregado
 

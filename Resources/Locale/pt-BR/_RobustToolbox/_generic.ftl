@@ -1,3 +1,3 @@
-generic-map = map
+generic-map = mapa
 generic-grid = grid
-generic-mapid = map Id
+generic-mapid = ID do mapa

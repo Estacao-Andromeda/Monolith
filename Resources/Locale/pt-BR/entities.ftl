@@ -5303,20 +5303,25 @@ ent-CockroachCube = cubo de barata
     .desc = Basta adicionar ág- MEU DEUS!
 
 ent-CowCube = cubo de vaca
+    .desc = { ent-MonkeyCube.desc }
 
 ent-DehydratedSpaceCarp = carpa espacial desidratada
     .desc = Parece um carpa de pelúcia, mas basta adicionar água e se torna uma carpa espacial de verdade!
 
 ent-GoatCube = cubo de cabra
+    .desc = { ent-MonkeyCube.desc }
 
 ent-KoboldCube = cubo de kobold
+    .desc = { ent-MonkeyCube.desc }
 
 ent-MonkeyCube = cubo de macaco
     .desc = Basta adicionar água!
 
 ent-MothroachCube = cubo de traça-mariposa
+    .desc = { ent-MonkeyCube.desc }
 
 ent-MouseCube = cubo de camundongo
+    .desc = { ent-MonkeyCube.desc }
 
 ent-SpaceCarpCube = cubo de carpa
     .desc = Basta adicionar água! Por sua conta e risco.
@@ -5404,76 +5409,106 @@ ent-BaseBorgModule = módulo de borg
     .desc = Um pedaço de tecnologia que dá aos ciborgues novas habilidades.
 
 ent-BorgModuleAdvancedCleaning = módulo de limpeza avançada de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleAdvancedSurgery = módulo de cirurgia avançada de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleAdvancedTool = módulo de ferramentas avançadas de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleAdvancedTreatment = módulo de tratamento avançado de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleAnomaly = módulo de anomalia de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleAppraisal = módulo de cargueiro de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleArtifact = módulo de artefato de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleCable = módulo de cabos de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleCleaning = módulo de limpeza de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleClowning = módulo de palhaçada de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleConstruction = módulo de construção de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleDefibrillator = módulo de desfibrilador de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleDiagnosis = módulo de diagnóstico de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleEsword = módulo de espada de energia de ciborgue
     .desc = Um módulo que vem com uma espada de energia dupla.
 
 ent-BorgModuleFireExtinguisher = módulo de extintor de incêndio de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleGardening = módulo de jardinagem de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleGPS = módulo de GPS de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleGrapplingGun = módulo de arpão de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleHarvesting = módulo de colheita de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleL6C = módulo de ciborgue L6C ROW
     .desc = Um módulo que vem com uma L6C.
 
 ent-BorgModuleLightReplacer = módulo de troca de lâmpadas de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleMartyr = módulo de mártir de ciborgue
     .desc = Um módulo que vem com um explosivo que você provavelmente não vai querer manipular.
 
 ent-BorgModuleMercenary = módulo de mercenário de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleMining = módulo de mineração de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleMusique = módulo de musique de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleOperative = módulo de operativo de ciborgue
     .desc = Um módulo que vem com uma pé de cabra, um Emag, um Quebrador de Acesso e um localizador do Sindicato.
 
 ent-BorgModuleRadiationDetection = módulo de detecção de radiação de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleRCD = módulo de RCD de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleSecurity = módulo de segurança de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleService = módulo de serviço de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleSurgery = módulo de cirurgia de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleSyndicateWeapon = módulo de armas de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleTool = módulo de ferramentas de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 ent-BorgModuleTreatment = módulo de tratamento de ciborgue
+    .desc = { ent-BaseBorgModule }
 
 # From: Entities/Objects/Specific/Robotics/endoskeleton.yml
 

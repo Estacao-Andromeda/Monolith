@@ -1,3 +1,3 @@
-﻿debug-builtin-connection-screen-invalid-username-with-reason = The given username is invalid: {$invalidreason}
-debug-builtin-connection-screen-invalid-username = Invalid Username.
-debug-builtin-connection-screen-failed-to-connect = Failed to connect: {$reason}
+﻿debug-builtin-connection-screen-invalid-username-with-reason = Usuário inválido: {$invalidreason}
+debug-builtin-connection-screen-invalid-username = Usuário Inválido.
+debug-builtin-connection-screen-failed-to-connect = Falha ao conectar: {$reason}

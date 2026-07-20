@@ -327,12 +327,15 @@ ent-PaperStickyNote = nota adesiva
     .desc = Uma nota adesiva, para quando você quer que seus lembretes grudem
 
 ent-PaperStickyNoteBlue = {ent-PaperStickyNote}
+    .desc = {ent-PaperStickyNote.desc}
     .suffix = azul
 
 ent-PaperStickyNoteGreen = {ent-PaperStickyNote}
+    .desc = {ent-PaperStickyNote.desc}
     .suffix = verde
 
 ent-PaperStickyNotePink = {ent-PaperStickyNote}
+    .desc = {ent-PaperStickyNote.desc}
     .suffix = rosa
 
 ent-PaperStickyNoteStack = pilha de notas adesivas
@@ -478,8 +481,10 @@ ent-BluespaceOre1 = {ent-BluespaceOre}
     .suffix = Um
 
 ent-WindoorMailLocked = {ent-Windoor}
+    .desc = {ent-Windoor.desc}
     .suffix = Correio, trancado
 
 ent-WindoorSecureMailLocked = {ent-WindoorSecure}
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Correio, trancado
 

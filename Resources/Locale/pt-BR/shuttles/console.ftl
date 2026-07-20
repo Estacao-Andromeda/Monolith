@@ -17,9 +17,9 @@ shuttle-console-position = Posição:
 shuttle-console-position-value = {$X}, {$Y}
 shuttle-console-orientation = Orientação:
 shuttle-console-orientation-value  = {$angle}
-shuttle-console-linear-velocity = Velocidade Linear:
+shuttle-console-linear-velocity = Vel. Linear:
 shuttle-console-linear-velocity-value = {$X}, {$Y}
-shuttle-console-angular-velocity = Velocidade Angular:
+shuttle-console-angular-velocity = Vel. Angular:
 shuttle-console-angular-velocity-value = {$angularVelocity}
 
 shuttle-console-unknown = Desconhecido
