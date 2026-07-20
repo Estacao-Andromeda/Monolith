@@ -4380,7 +4380,7 @@ ent-Magazine10PhzEmpty = carregador DEW (10Phz qualquer)
 
 ent-BaseMagazine12_gauge = tambor de munição (calibre 12)
 
-ent-Magazine12_gaugeBeanbag = tambor de munição (calibre 12 beanbags)
+ent-Magazine12_gaugeBeanbag = tambor de munição (calibre 12 feijão)
 
 ent-Magazine12_gaugeBuckshot = tambor de munição (calibre 12 chumbo)
 
@@ -6716,7 +6716,7 @@ ent-OreMagnetFlatpack = flatpack de ímã de minérios
 # From: _Mono/Entities/Structures/Machines/salvage_radar.yml
 
 ent-MachineSalvageRadar = radar de salvagem
-    .desc = Este radar aumenta o alcance de detecção de asteroides e destroços, permitindo que rochas sejam atingidas de mais longe. Ferramenta essencial para salvadores.
+    .desc = Este radar aumenta o alcance de detecção de asteroides e destroços, permitindo que rochas sejam atingidas de mais longe. Ferramenta essencial para salvagistas.
 
 ent-SalvageRadarFlatpack = flatpack de radar de salvagem
     .desc = Um flatpack usado para construir radar de salvagem.
@@ -8221,10 +8221,10 @@ ent-AirlockShuttleUSSPOutpostLocked = {ent-AirlockShuttleSyndicate}
     .suffix = SOMENTE OUTPOST, USSP, Acoplamento, Trancado
 
 ent-PlasmaWindoorSecureRogueLocked = {ent-WindoorSecurePlasma}
-    .suffix = Vagabunda, trancada, Plasma
+    .suffix = Rogue, Trancada, Plasma
 
 ent-SmallLightDim = {ent-SmallLight}
-    .suffix = Sempre ajeitado, Dim.
+    .suffix = Sempre ligada, Fraca.
 
 ent-PoweredlightBlueAirAlarm = {ent-PoweredlightEmpty}
     .suffix = Azul, Off
@@ -8240,24 +8240,31 @@ ent-ComputerTabletopShuttleTSFNVWS = {ent-ComputerShuttleTSFNVWS}
 
 ent-FaxMachinePDVJupiter = {ent-FaxMachineBase}
     .suffix = PDI, PDV Júpiter
+    .desc = {ent-FaxMachineBase.desc}
 
 ent-FaxMachineUSSP = {ent-FaxMachineBase}
     .suffix = POI, USSP
+    .desc = {ent-FaxMachineBase.desc}
 
 ent-FaxMachineUSSPCommisar = {ent-FaxMachineBase}
     .suffix = POI, Comissão do USSP
+    .desc = {ent-FaxMachineBase.desc}
 
 ent-HolopadCommissarBaikal = {ent-NFHolopadShip}
     .suffix = Comissário da USSP
+    .desc = {ent-NFHolopadShip.desc}
 
 ent-HolopadJupiter = {ent-NFHolopadShip}
     .suffix = PDV Júpiter
+    .desc = {ent-NFHolopadShip.desc}
 
 ent-HolopadUSSPBaikal = {ent-NFHolopadShip}
     .suffix = USSP Baikal, POI
+    .desc = {ent-NFHolopadShip.desc}
 
 ent-HolopadVG = {ent-NFHolopadShip}
     .suffix = VG, Camelot.
+    .desc = {ent-NFHolopadShip.desc}
 
 ent-CopperOre15 = {ent-CopperOre}
     .suffix = Quinze.

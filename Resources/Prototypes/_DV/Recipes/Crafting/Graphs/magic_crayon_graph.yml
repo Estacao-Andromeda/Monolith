@@ -9,17 +9,17 @@
             - material: Bluespace
               amount: 1
             - tag: CrayonRed
-              name: red crayon
+              name: graphs-MagicCrayonGraph-CrayonRed-name
               icon:
                 sprite: Objects/Fun/crayons.rsi
                 state: red
             - tag: CrayonGreen
-              name: green crayon
+              name: graphs-MagicCrayonGraph-CrayonGreen-name
               icon:
                 sprite: Objects/Fun/crayons.rsi
                 state: green
             - tag: CrayonBlue
-              name: blue crayon
+              name: graphs-MagicCrayonGraph-CrayonBlue-name
               icon:
                 sprite: Objects/Fun/crayons.rsi
                 state: blue

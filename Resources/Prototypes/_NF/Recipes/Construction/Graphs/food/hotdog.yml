@@ -8,7 +8,7 @@
     - to: hotteddog
       steps:
       - tag: NFHotdog
-        name: construction-graph-tag-hotdog
+        name: graphs-NFHotdog-NFHotdog-name
 
   - node: hotteddog
     entity: FoodMealHotdog

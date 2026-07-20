@@ -759,7 +759,7 @@ ent-ClothingBackpackDuffelSyndicateFilledRevolver = pacote Python
     .desc = Vá alto e orgulhoso com um 45_magnum Python completamente carregado, agrupado com dois speed loaders.
 
 ent-ClothingBackpackDuffelSyndicateFilledShotgun = pacote Bulldog
-    .desc = Elegante e mean: Contém o popular Shotgun Bulldog e quatro tambores de buckshot 12g.
+    .desc = Elegante e mean: Contém o popular Shotgun Bulldog e quatro tambores de chumbo calibre 12.
 
 ent-ClothingBackpackDuffelSyndicateFilledSMG = pacote C-20r
     .desc = Velho confiável: A clássica Submetralhadora C-20r, agrupada com três carregadores.
@@ -796,17 +796,17 @@ ent-BookshelfFilled = {ent-Bookshelf}
 ent-BoxMagazine = caixa de carregadores
     .desc = Uma caixa cheia de carregadores.
 
-ent-BoxMagazine12_gauge = caixa de tambores de munição (calibre 12 cartucho)
-    .desc = Uma caixa cheia de tambores de munição (calibre 12 cartucho).
+ent-BoxMagazine12_gauge = caixa de tambores de munição (calibre 12)
+    .desc = Uma caixa cheia de tambores de munição (calibre 12).
 
-ent-BoxMagazine12_gaugeBeanbag = caixa de tambores de munição (calibre 12 beanbag)
-    .desc = Uma caixa cheia de tambores de munição (calibre 12 beanbag).
+ent-BoxMagazine12_gaugeBeanbag = caixa de tambores de munição (calibre 12 feijão)
+    .desc = Uma caixa cheia de tambores de munição (calibre 12 feijão).
 
 ent-BoxMagazine12_gaugeIncendiary = caixa de tambores de munição (calibre 12 incendiário)
     .desc = Uma caixa cheia de tambores de munição (calibre 12 incendiário).
 
-ent-BoxMagazine12_gaugeSlug = caixa de tambores de munição (calibre 12 slug)
-    .desc = Uma caixa cheia de tambores de munição (calibre 12 slug).
+ent-BoxMagazine12_gaugeSlug = caixa de tambores de munição (calibre 12 balote)
+    .desc = Uma caixa cheia de tambores de munição (calibre 12 balote).
 
 ent-BoxMagazine45_ACPFMJ = caixa de carregadores de pistola .45 ACP
     .desc = Uma caixa cheia de carregadores de pistola .45 ACP.
@@ -1763,42 +1763,53 @@ ent-ShardCrystalBase = fragmento de cristal
     .desc = Um pequeno pedaço de cristal.
 
 ent-ShardCrystalBlue = fragmento de cristal azul
+    .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalCyan = fragmento de cristal ciano
-    .desc = Um pequeno pedaço de cristal.
+    .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalGreen = fragmento de cristal verde
+    .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalOrange = fragmento de cristal laranja
+    .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalPink = fragmento de cristal rosa
+    .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalRandom = fragmento de cristal aleatório
+    .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalRed = fragmento de cristal vermelho
+    .desc = { ent-ShardCrystalBase.desc }
 
 # From: Entities/Objects/Materials/ingots.yml
 # Abstract entity (referenceable by children)
 
-ent-IngotBase =
+ent-IngotBase = barra de metal
     .desc = Um lingote pesado de metal.
 
 ent-IngotGold = barra de ouro
     .suffix = Completa
+    .desc = { ent-IngotBase.desc }
 
 ent-IngotGold1 = barra de ouro
     .suffix = Única
+    .desc = { ent-IngotGold.desc }
 
 ent-IngotSilver = barra de prata
     .suffix = Completa
+    .desc = { ent-IngotBase.desc }
 
 ent-IngotSilver1 = barra de prata
     .suffix = Única
+    .desc = { ent-IngotSilver.desc }
 
 # From: Entities/Objects/Materials/materials.yml
 
 ent-MaterialBananium = banânio
     .suffix = Completo
+    .desc = Uma pedra rica em honk. Ingerir té fará buzinar.
 
 ent-MaterialBananium1 = {ent-MaterialBananium}
     .desc = { ent-MaterialBananium.desc }
@@ -1806,11 +1817,12 @@ ent-MaterialBananium1 = {ent-MaterialBananium}
 
 # Abstract entity (referenceable by children)
 
-ent-MaterialBase =
-    .desc = Uma matéria-prima.
+ent-MaterialBase = material
+    .desc = Um material, com vários fins.
 
 ent-MaterialBiomass = biomassa
     .suffix = Completa
+    .desc = { ent-MaterialBase.desc }
 
 ent-MaterialBiomass1 = {ent-MaterialBiomass}
     .desc = { ent-MaterialBiomass.desc }
@@ -1818,6 +1830,7 @@ ent-MaterialBiomass1 = {ent-MaterialBiomass}
 
 ent-MaterialBones = ossos
     .suffix = Completo
+    .desc = { ent-MaterialBase.desc }
 
 ent-MaterialBones1 = {ent-MaterialBones}
     .desc = { ent-MaterialBones.desc }
@@ -1825,6 +1838,7 @@ ent-MaterialBones1 = {ent-MaterialBones}
 
 ent-MaterialCardboard = papelão
     .suffix = Completo
+    .desc = { ent-MaterialBase.desc }
 
 ent-MaterialCardboard1 = {ent-MaterialCardboard}
     .desc = { ent-MaterialCardboard.desc }
@@ -1835,6 +1849,7 @@ ent-MaterialCardboard10 = {ent-MaterialCardboard}
     .suffix = 10
 
 ent-MaterialCloth = tecido
+    .desc = Tecido de algodão, pronto para uso em várias aplicações.
     .suffix = Completo
 
 ent-MaterialCloth1 = {ent-MaterialCloth}
@@ -1847,6 +1862,7 @@ ent-MaterialCloth10 = {ent-MaterialCloth}
 
 ent-MaterialCotton = algodão
     .suffix = Completo
+    .desc= Algodão pronto para ser refinado em tecido.
 
 ent-MaterialCotton1 = {ent-MaterialCotton}
     .desc = { ent-MaterialCotton.desc }
@@ -1861,6 +1877,7 @@ ent-MaterialDiamond1 = {ent-MaterialDiamond}
 
 ent-MaterialDurathread = durafio
     .suffix = Completo
+    .desc = Tecido de algodão fortalecido com plástico. Possui uma boa durabilidade.
 
 ent-MaterialDurathread1 = {ent-MaterialDurathread}
     .desc = { ent-MaterialDurathread.desc }
@@ -1899,7 +1916,7 @@ ent-MaterialToothSharkminnow1 = {ent-MaterialToothSharkminnow}
 
 ent-MaterialToothSpaceCarp = dente de carpa espacial
     .suffix = Completo
-    .desc = Bem pequeno mas bastante nasty. Você gosta mais deles quando não estão afundando em você.
+    .desc = Bem pequeno mas ainda bem perigoso. Você gosta mais deles quando não estão fincados em você.
 
 ent-MaterialToothSpaceCarp1 = {ent-MaterialToothSpaceCarp}
     .desc = { ent-MaterialToothSpaceCarp.desc }
@@ -2033,11 +2050,14 @@ ent-FloorTileItemWhiteLingering0 = {ent-FloorTileItemWhite}
 
 ent-PartRodMetal = barra de metal
     .suffix = Completa
+    .desc = Barras de metal, usadas para expandir uma nave ou estação e em outras aplicações.
 
 ent-PartRodMetal1 = barra de metal
+    .desc = { ent-PartRodMetal.desc }
     .suffix = Única
 
 ent-PartRodMetal10 = barra de metal
+    .desc = { ent-PartRodMetal.desc }
     .suffix = 10
 
 ent-PartRodMetalLingering0 = {ent-PartRodMetal}
@@ -3225,8 +3245,8 @@ ent-UplinkImplanter = {ent-BaseImplantOnlyImplanterSyndi}
 ent-ModularReceiver = receptor modular
     .desc = Uma peça vital usada na criação de armas de fogo.
 
-ent-RifleStock = estoque de rifle
-    .desc = Um estoque de madeira robusto, usado na criação de armas de fogo.
+ent-RifleStock = coronha de rifle
+    .desc = Uma coronha de madeira robusta, usado na criação de armas de fogo.
 
 # From: Entities/Objects/Misc/inflatable_wall.yml
 
@@ -9880,11 +9900,11 @@ ent-PoweredStrobeLightSiren = {ent-PoweredStrobeLightEmpty}
 ent-MachineAnomalyGenerator = gerador de anomalias
     .desc = O ápice da tecnologia pseudocientífica.
 
-ent-MachineAnomalyVessel = vaso de anomalia
+ent-MachineAnomalyVessel = receptáculo de anomalias
     .desc = Um recipiente capaz de aproveitar uma varredura de uma anomalia e transformá-la em dados de pesquisa.
 
-ent-MachineAnomalyVesselExperimental = vaso de anomalia experimental
-    .desc = Um vaso de anomalia avançado capaz de maior potencial de pesquisa ao custo de volatilidade aumentada e decaimento radioativo de baixo nível no ambiente.
+ent-MachineAnomalyVesselExperimental = receptáculo de anomalias experimental
+    .desc = Um receptáculo de anomalias avançado capaz de maior potencial de pesquisa ao custo de volatilidade aumentada e decaimento radioativo de baixo nível no ambiente.
 
 ent-MachineAPE = A.P.E.
     .desc = Um Emissor de Partículas Anômalo, capaz de disparar partículas instáveis que podem interagir com anomalias.
@@ -10112,12 +10132,12 @@ ent-MachineFlatpacker = Flatpacker 1001
 
 # From: Entities/Structures/Machines/frame.yml
 
-ent-MachineFrame = moldura de máquina (1x1)
+ent-MachineFrame = estrutura de máquina (1x1)
     .suffix = Pronta
 
-ent-MachineFrameDestroyed = moldura de máquina destruída (1x1)
+ent-MachineFrameDestroyed = estrutura de máquina destruída (1x1)
 
-ent-UnfinishedMachineFrame = moldura de máquina (1x1)
+ent-UnfinishedMachineFrame = estrutura de máquina (1x1)
     .suffix = Inacabada
     .desc = Uma máquina em construção. Precisa de mais peças.
 
@@ -18377,7 +18397,7 @@ ent-ClothingHeadHelmetHardsuitLing = capacete espacial orgânico
 ent-ClothingHeadHelmetHardsuitLuxury = capacete de rígido de mineração de luxo
     .desc = Um capacete de rígido de mineração reformado, com acolchoamento de cetim e uma antena extra (não funcional), porque você é especial.
 
-ent-ClothingHeadHelmetHardsuitMaxim = capacete maxim de salvador
+ent-ClothingHeadHelmetHardsuitMaxim = capacete maxim de salvagista
     .desc = Uma predição de decadência se acumula em sua mente.
 
 ent-ClothingHeadHelmetHardsuitMedical = capacete de rígido do médico chefe
@@ -19812,8 +19832,8 @@ ent-ClothingOuterHardsuitLing = traje rígido espacial orgânico
 ent-ClothingOuterHardsuitLuxury = traje rígido de mineração de luxo
     .desc = Um traje rígido de mineração reformulado, com as cores do Quartel-Mestre. O revestimento de grafeno oferece menos proteção, mas permite muito mais mobilidade.
 
-ent-ClothingOuterHardsuitMaxim = traje rígido salvador maxim
-    .desc = Fogo. Calor. Estas coisas forjam grandes armas, também forjam grandes salvadores.
+ent-ClothingOuterHardsuitMaxim = traje rígido salvagista maxim
+    .desc = Fogo. Calor. Estas coisas forjam grandes armas, também forjam grandes salvagistas.
 
 ent-ClothingOuterHardsuitMedical = traje rígido do médico-chefe
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Construído com materiais leves para maior mobilidade.
@@ -22705,7 +22725,7 @@ ent-MobCivilian = civil
 ent-MobCluwne = pessoa
     .desc = Um polymorfado azarado.
 
-ent-MobSalvager = salvador
+ent-MobSalvager = salvagista
 
 ent-MobSpirate = espirata
     .desc = Yarr!
@@ -24975,7 +24995,7 @@ ent-FoodDonkpocketBerryWarm = berry-pocket quente
     .desc = Um donk-pocket implacavelmente doce, agora quente e delicioso.
 
 ent-FoodDonkpocketCarp = carp-pocket
-    .desc = Uma edição perdida há muito tempo de donk pocket, feita especificamente para salvadores trabalhadores.
+    .desc = Uma edição perdida há muito tempo de donk pocket, feita especificamente para salvagistas trabalhadores.
 
 ent-FoodDonkpocketCarpWarm = carp-pocket quente
 
@@ -27245,11 +27265,11 @@ ent-AmmoTechFabCircuitboard = placa de circuito de techfab de munição
 ent-AnomalySynchronizerCircuitboard = placa de máquina de sincronizador de anomalias
     .desc = Uma placa de circuito impresso de máquina para um sincronizador de anomalias.
 
-ent-AnomalyVesselCircuitboard = placa de máquina de vaso de anomalia
-    .desc = Uma placa de circuito impresso de máquina para um vaso de anomalia.
+ent-AnomalyVesselCircuitboard = placa de máquina de receptáculo de anomalias
+    .desc = Uma placa de circuito impresso de máquina para um receptáculo de anomalias.
 
-ent-AnomalyVesselExperimentalCircuitboard = placa de máquina de vaso de anomalia experimental
-    .desc = Uma placa de circuito impresso de máquina para um vaso de anomalia experimental.
+ent-AnomalyVesselExperimentalCircuitboard = placa de máquina de receptáculo de anomalias experimental
+    .desc = Uma placa de circuito impresso de máquina para um receptáculo de anomalias experimental.
 
 ent-APECircuitboard = placa de máquina A.P.E.
     .desc = Uma placa de circuito impresso de máquina para um A.P.E.
@@ -27682,12 +27702,12 @@ ent-DoorElectronicsVault = {ent-DoorElectronics}
 
 # From: Entities/Objects/Devices/Electronics/door.yml
 
-ent-DoorElectronics = eletrônica de porta
+ent-DoorElectronics = placa de circuitos de porta
     .desc = Uma placa eletrônica usada em portas e fechaduras.
 
 # From: Entities/Objects/Devices/Electronics/firelock.yml
 
-ent-FirelockElectronics = eletrônica de corta-fogo
+ent-FirelockElectronics = placa de circuitos de corta-fogo
     .desc = Uma placa eletrônica usada para detectar diferenças de pressão, temperatura e concentrações de gás entre os dois lados da porta.
 
 # From: Entities/Objects/Devices/Electronics/igniter.yml
@@ -27697,7 +27717,7 @@ ent-Igniter = ignitor
 
 # From: Entities/Objects/Devices/Electronics/intercom.yml
 
-ent-IntercomElectronics = eletrônica de interfone
+ent-IntercomElectronics = placa de circuitos de interfone
     .desc = Uma placa eletrônica usada em interfones.
 
 # From: Entities/Objects/Devices/Electronics/mech.yml
@@ -27725,24 +27745,24 @@ ent-RipleyPeripheralsElectronics = módulo de controle de periféricos ripley
 
 # From: Entities/Objects/Devices/Electronics/misc.yml
 
-ent-FreezerElectronics = eletrônica de freezer
+ent-FreezerElectronics = placa de circuitos de freezer
     .desc = Uma placa eletrônica usada em freezers de cozinha.
 
 # From: Entities/Objects/Devices/Electronics/power_electronics.yml
 
-ent-APCElectronics = eletrônica de APC
+ent-APCElectronics = placa de circuitos de APC
     .desc = Circuito usado na construção de APCs. Pode ser colocado em uma estrutura de máquina para alternativamente fazer um APC grande.
 
-ent-SolarTrackerElectronics = eletrônica de rastreador solar
+ent-SolarTrackerElectronics = placa de circuitos de rastreador solar
     .desc = Placa de circuito avançada usada para rastrear a estrela mais próxima.
 
-ent-WallmountGeneratorAPUElectronics = eletrônica de APU de parede
+ent-WallmountGeneratorAPUElectronics = placa de circuitos de APU de parede
     .desc = Circuito usado para construir um APU de parede.
 
-ent-WallmountGeneratorElectronics = eletrônica de gerador de parede
+ent-WallmountGeneratorElectronics = placa de circuitos de gerador de parede
     .desc = Circuito usado para construir um gerador de parede.
 
-ent-WallmountSubstationElectronics = eletrônica de subestação de parede
+ent-WallmountSubstationElectronics = placa de circuitos de subestação de parede
     .desc = Circuito usado para construir uma subestação de parede.
 
 # From: Entities/Objects/Devices/Electronics/signaller.yml
@@ -27755,22 +27775,22 @@ ent-RemoteSignallerAdvanced = sinalizador remoto avançado
 
 # From: Entities/Objects/Devices/Electronics/timer.yml
 
-ent-BrigTimerElectronics = eletrônica de temporizador de prisão
+ent-BrigTimerElectronics = placa de circuitos de temporizador de prisão
 
-ent-ScreenTimerElectronics = eletrônica de temporizador de tela
+ent-ScreenTimerElectronics = placa de circuitos de temporizador de tela
 
-ent-SignalTimerElectronics = eletrônica de temporizador de sinal
+ent-SignalTimerElectronics = placa de circuitos de temporizador de sinal
     .desc = Uma placa eletrônica usada em circuitos de temporização. Parece que você pode usar uma chave de fenda para mudar o tipo de placa.
 
 # From: Entities/Objects/Devices/Electronics/triggers.yml
 
-ent-SignalTrigger = disparador de sinal
+ent-SignalTrigger = gatilho de sinal
     .desc = Adiciona um link de máquina que é ativado por sinais.
 
-ent-TimerTrigger = disparador de temporizador
+ent-TimerTrigger = gatilho de temporizador
     .desc = Um temporizador configurável.
 
-ent-VoiceTrigger = disparador de voz
+ent-VoiceTrigger = gatilho de voz
     .desc = Adiciona um link de máquina que é ativado por palavras-chave vocais.
 
 # From: Entities/Objects/Devices/encryption_keys.yml
@@ -27945,7 +27965,7 @@ ent-MousetrapArmed = ratoeira
 # From: Entities/Objects/Devices/payload.yml
 
 ent-ChemicalPayload = carga química
-    .desc = Uma carga química. Tem espaço para armazenar dois bequers. Em combinação com um disparador e um estojo, pode ser usada para iniciar reações químicas.
+    .desc = Uma carga química. Tem espaço para armazenar dois bequers. Em combinação com um gatilho em uma granada modular, pode ser usada para iniciar reações químicas.
 
 ent-ExplosivePayload = carga explosiva
 

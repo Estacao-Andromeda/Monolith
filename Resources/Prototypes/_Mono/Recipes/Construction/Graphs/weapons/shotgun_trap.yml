@@ -13,19 +13,19 @@
               amount: 4
               doAfter: 1
             - tag: ModularReceiver
-              name: modular receiver
+              name: graphs-ShotgunTrap-ModularReceiver-name
               icon:
                 sprite: Objects/Misc/modular_receiver.rsi
                 state: icon
               doAfter: 2
             - tag: Pipe
-              name: pipe
+              name: graphs-ShotgunTrap-Pipe-name
               icon:
                 sprite: Structures/Piping/Atmospherics/pipe.rsi
                 state: pipeStraight
               doAfter: 2
             - tag: RemoteSignaller
-              name: remote signaller
+              name: graphs-ShotgunTrap-RemoteSignaller-name
               icon:
                 sprite: Objects/Devices/signaller.rsi
                 state: signaller

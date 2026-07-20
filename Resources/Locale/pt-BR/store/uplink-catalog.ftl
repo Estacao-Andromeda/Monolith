@@ -238,7 +238,7 @@ uplink-c20r-bundle-name = Pacote C-20r
 uplink-c20r-bundle-desc = Velho fiel: A clássica submetralhadora C-20r, acompanhada de três carregadores.
 
 uplink-buldog-bundle-name = Pacote Bulldog
-uplink-buldog-bundle-desc = Magro e mortal: Contém o popular Shotgun Bulldog e quatro tambores de cartuchos 12g.
+uplink-buldog-bundle-desc = Magro e mortal: Contém o popular Shotgun Bulldog e quatro tambores de cartuchos calibre 12.
 
 uplink-grenade-launcher-bundle-name = Pacote China-Lake
 uplink-grenade-launcher-bundle-desc = Um velho lançador de granadas China-Lake acompanhado de 11 cartuchos de capacidade destrutiva variada.

@@ -14,7 +14,7 @@
           data: 1
 
       - tag: HonkerCentralControlModule
-        name: H.O.N.K. central control module
+        name: graphs-Honker-HonkerCentralControlModule-name
         icon:
           sprite: "Objects/Misc/module.rsi"
           state: "mainboard"
@@ -31,7 +31,7 @@
           data: 3
 
       - tag: HonkerPeripheralsControlModule
-        name: H.O.N.K. peripherals control module
+        name: graphs-Honker-HonkerPeripheralsControlModule-name
         icon:
           sprite: "Objects/Misc/module.rsi"
           state: id_mod
@@ -48,7 +48,7 @@
           data: 5
 
       - tag: HonkerTargetingControlModule
-        name: H.O.N.K. weapon control and targeting module
+        name: graphs-Honker-HonkerTargetingControlModule-name
         icon:
           sprite: "Objects/Misc/module.rsi"
           state: id_mod
@@ -68,7 +68,7 @@
 #currently mechs don't support upgrading. add them back in once that's squared away.
 
       - component: PowerCell
-        name: power cell
+        name: graphs-Honker-PowerCell-name
         store: battery-container
         icon:
           sprite: Objects/Power/power_cells.rsi
@@ -89,7 +89,7 @@
         icon:
           sprite: "Clothing/Mask/clown.rsi"
           state: "icon"
-        name: "a clown's mask"
+        name: graphs-Honker-ClownMask-name
         doAfter: 1
         completed:
         - !type:VisualizerDataInt
@@ -100,7 +100,7 @@
         icon:
           sprite: "Clothing/Shoes/Specific/clown.rsi"
           state: "icon"
-        name: "a clown's shoes"
+        name: graphs-Honker-ClownShoes-name
         doAfter: 1
         completed:
         - !type:VisualizerDataInt

@@ -7,19 +7,19 @@
         - to: whoopiemod
           steps:
             - tag: ClownShoes
-              name: clown shoes
+              name: graphs-GraphClothingShoesClownModUltimate-ClownShoes-name
               icon:
                 sprite: Clothing/Shoes/Specific/clown.rsi
                 state: icon
               doAfter: 1
             - tag: WhoopieCushion
-              name: whoopie cushion
+              name: graphs-GraphClothingShoesClownModUltimate-WhoopieCushion-name
               icon:
                 sprite: Objects/Fun/whoopie.rsi
                 state: icon
               doAfter: 1
             - tag: WhoopieCushion
-              name: whoopie cushion
+              name: graphs-GraphClothingShoesClownModUltimate-WhoopieCushion-name
               icon:
                 sprite: Objects/Fun/whoopie.rsi
                 state: icon
@@ -36,13 +36,13 @@
         - to: ketchupmod
           steps:
             - tag: ClownShoes
-              name: clown shoes
+              name: graphs-GraphClothingShoesClownModUltimate-ClownShoes-name
               icon:
                 sprite: Clothing/Shoes/Specific/clown.rsi
                 state: icon
               doAfter: 1
             - component: CondimentKetchup
-              name: squeeze bottle
+              name: graphs-GraphClothingShoesClownModUltimate-CondimentKetchup-name
               icon:
                 sprite: _NF/Objects/Consumable/Food/condiments.rsi
                 state: squeeze-bottle-ketchup
@@ -59,19 +59,19 @@
         - to: mustarchupmod
           steps:
             - tag: ClownShoes
-              name: clown shoes
+              name: graphs-GraphClothingShoesClownModUltimate-ClownShoes-name
               icon:
                 sprite: Clothing/Shoes/Specific/clown.rsi
                 state: icon
               doAfter: 1
             - component: CondimentKetchup
-              name: ketchup
+              name: graphs-GraphClothingShoesClownModMustarchup-CondimentKetchup-name
               icon:
                 sprite: _NF/Objects/Consumable/Food/condiments.rsi
                 state: squeeze-bottle-ketchup
               doAfter: 1
             - component: CondimentMustard
-              name: mustard
+              name: graphs-GraphClothingShoesClownModMustarchup-CondimentMustard-name
               icon:
                 sprite: _NF/Objects/Consumable/Food/condiments.rsi
                 state: squeeze-bottle-mustard
@@ -88,19 +88,19 @@
         - to: ultimatemod
           steps:
             - tag: ClownShoes
-              name: clown shoes
+              name: graphs-GraphClothingShoesClownModUltimate-ClownShoes-name
               icon:
                 sprite: Clothing/Shoes/Specific/clown.rsi
                 state: icon
               doAfter: 1
             - component: CondimentKetchup
-              name: squeeze bottle
+              name: graphs-GraphClothingShoesClownModUltimate-CondimentKetchup-name
               icon:
                 sprite: _NF/Objects/Consumable/Food/condiments.rsi
                 state: squeeze-bottle-ketchup
               doAfter: 1
             - tag: WhoopieCushion
-              name: whoopie cushion
+              name: graphs-GraphClothingShoesClownModUltimate-WhoopieCushion-name
               icon:
                 sprite: Objects/Fun/whoopie.rsi
                 state: icon

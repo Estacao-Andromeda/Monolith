@@ -642,10 +642,10 @@ ent-StorageBinCircuitboard = Placa de Máquina Recipiente de Armazenamento
 
 ent-BaseExosuitParts = Componentes Base
 
-ent-DurandArmorPlate = Placas de Blindagem Durand
+ent-DurandArmorPlate = placas de blindagem Durand
     .desc = Placas de blindagem feitas de plasteel para o exoesqueleto Durand.
 
-ent-GygaxArmorPlate = Placas de Blindagem Gygax
+ent-GygaxArmorPlate = placas de blindagem Gygax
     .desc = Placas de blindagem feitas de aço para o exoesqueleto Gygax.
 
 ent-MechAirTank = Tanque de Ar de Exoesqueleto
@@ -659,34 +659,34 @@ ent-RipleyUpgradeKit = Kit de Atualização de Exoesqueleto
 
 # From: _Goobstation/Entities/Objects/Devices/Electronics/mech.yml
 
-ent-ClarkeCentralElectronics = Módulo de Controle Central Clarke
+ent-ClarkeCentralElectronics = módulo de controle central clarke
     .desc = O centro de controle elétrico para o mech Clarke.
 
-ent-ClarkePeripheralsElectronics = Módulo de Controle Periférico Clarke
+ent-ClarkePeripheralsElectronics = módulo de controle periférico clarke
     .desc = O controle elétrico periférico para o mech Clarke.
 
-ent-DurandCentralElectronics = Módulo de Controle Central Durand
+ent-DurandCentralElectronics = módulo de controle central durand
     .desc = O centro de controle elétrico para o mech Durand.
 
-ent-DurandPeripheralsElectronics = Módulo de Controle Periférico Durand
+ent-DurandPeripheralsElectronics = módulo de controle periférico durand
     .desc = O controle elétrico periférico para o mech Durand.
 
-ent-DurandTargetingElectronics = Módulo de Controle de Armas e Mira Durand
+ent-DurandTargetingElectronics = módulo de mira e controle de armas durand
     .desc = O controle elétrico de mira para o mech Durand.
 
-ent-GygaxCentralElectronics = Módulo de Controle Central Gygax
+ent-GygaxCentralElectronics = módulo de controle central gygax
     .desc = O centro de controle elétrico para o mech Gygax.
 
-ent-GygaxPeripheralsElectronics = Módulo de Controle Periférico Gygax
+ent-GygaxPeripheralsElectronics = módulo de controle periférico gygax
     .desc = O controle elétrico periférico para o mech Gygax.
 
-ent-GygaxTargetingElectronics = Módulo de Controle de Armas e Mira Gygax
+ent-GygaxTargetingElectronics = módulo de mira e controle de armas gygax
     .desc = O controle elétrico de mira para o mech Gygax.
 
 # From: _Goobstation/Entities/Objects/Devices/encryption_keys.yml
 
 ent-EncryptionKeyFuture = Chave de Criptografia Futurista
-    .desc = whiskey echo... o que vem a seguir?
+    .desc = Whiskey, Echo... que que vem depois?
 
 # From: _Goobstation/Entities/Objects/Devices/flatpack.yml
 
@@ -696,7 +696,7 @@ ent-TimelineDisruptorFlatpack = Flatpack de Disruptor de Linha Temporal
 # From: _Goobstation/Entities/Objects/Devices/pda.yml
 
 ent-ChronoPDA = PDA Futurista
-    .desc = Um computador quântico poderoso disfarçado como um PDA regular para disfarce.
+    .desc = Um computador quântico poderoso disfarçado como um PDA regular.
 
 ent-DiplomatPDA = PDA de Diplomata
 

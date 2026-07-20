@@ -24,7 +24,7 @@
           steps:
             - component: ComputerTabletopBoard
               store: board
-              name: any tabletop computer circuit board
+              name: graphs-ComputerTabletop-ComputerTabletopBoard-name
               icon:
                 sprite: "Objects/Misc/module.rsi"
                 state: "id_mod"

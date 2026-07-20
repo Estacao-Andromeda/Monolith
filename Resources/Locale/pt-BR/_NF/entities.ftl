@@ -1147,28 +1147,28 @@ ent-SpawnMobWizFedWizardBlue = Gerador de Mago Azul
     .suffix = IA
 
 ent-SpawnMobWizFedWizardBlueHardsuit = Gerador de Mago Azul
-    .suffix = IA, Macacão Rígido
+    .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardHardsuit = Gerador de Mago Aleatório
-    .suffix = IA, Macacão Rígido
+    .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardRed = Gerador de Mago Vermelho
     .suffix = IA
 
 ent-SpawnMobWizFedWizardRedHardsuit = Gerador de Mago Vermelho
-    .suffix = IA, Macacão Rígido
+    .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardSoap = Gerador de Mago Sabão
     .suffix = IA
 
 ent-SpawnMobWizFedWizardSoapHardsuit = Gerador de Mago Sabão
-    .suffix = IA, Macacão Rígido
+    .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardViolet = Gerador de Mago Violeta
     .suffix = IA
 
 ent-SpawnMobWizFedWizardVioletHardsuit = Gerador de Mago Violeta
-    .suffix = IA, Macacão Rígido
+    .suffix = IA, Traje rígido
 
 # From: _NF/Entities/Markers/Spawners/Random/paintings.yml
 
@@ -1379,8 +1379,8 @@ ent-CrateMcCargoMaterialBiomass50 = caixa de mcbiomassa
 ent-MaterialBiomass50 = {ent-MaterialBiomass}
     .suffix = 50
 
-ent-MaterialHideRosyMothroach = couro de mariposa-cucarija rosa
-    .desc = Uma camada fina de couro de mariposa-cucarija rosa.
+ent-MaterialHideRosyMothroach = couro de baraposa rosa
+    .desc = Uma camada fina de couro de baraposa rosa.
 
 # From: _NF/Entities/Materials/ore.yml
 
@@ -1820,11 +1820,11 @@ ent-MobExplorerMeleeT3 = mineirador
 ent-MobExplorerRangedT1 = triturador
     .desc = Acelerador próto-cinético em uma mão, lanterna na outra, cerveja na barriga. Assim é que você explora.
 
-ent-MobExplorerRangedT2 = salvador
-    .desc = Acelerador próto-cinético serrado em uma mão, punhal esmagador na outra, magm-ale tanto na barriga quanto nas botas do macacão rígido.
+ent-MobExplorerRangedT2 = salvagista
+    .desc = Acelerador próto-cinético serrado em uma mão, punhal esmagador na outra, magm-ale tanto na barriga quanto nas botas do traje rígido.
 
 ent-MobExplorerRangedT3 = explorador
-    .desc = Trituradores veteranos, estes salvadores são ricos o suficiente para explorar ruínas abandonadas apenas pela adrenalina e aventura.
+    .desc = Trituradores veteranos, estes salvagistas são ricos o suficiente para explorar ruínas abandonadas apenas pela adrenalina e aventura.
 
 ent-SeismicChargeGun = arma de carga sísmica
     .desc = Necessário para disparar a carga.
@@ -2249,29 +2249,29 @@ ent-FoodBurgerClurger = clurguer
 ent-FoodBurgerRosyMothRoach = hambúrguer de mariposa-rosa
     .desc = A última lâmpada que ele viu foi a dentro do micro-ondas.
 
-ent-PrettyBurgerBlack = hambúrguer bonito preto
-    .desc = É bonito... preto?
+ent-PrettyBurgerBlack = hambúrguer preto bonito
+    .desc = É bonito... e preto?
 
-ent-PrettyBurgerBlue = hambúrguer bonito azul
-    .desc = É bonito... azul?
+ent-PrettyBurgerBlue = hambúrguer azul bonito
+    .desc = É bonito... e azul?
 
-ent-PrettyBurgerGreen = hambúrguer bonito verde
-    .desc = É bonito... verde?
+ent-PrettyBurgerGreen = hambúrguer verde bonito
+    .desc = É bonito... e verde?
 
-ent-PrettyBurgerOrange = hambúrguer bonito laranja
-    .desc = É bonito... laranja?
+ent-PrettyBurgerOrange = hambúrguer laranja bonito
+    .desc = É bonito... e laranja?
 
-ent-PrettyBurgerPurple = hambúrguer bonito roxo
-    .desc = É bonito... roxo?
+ent-PrettyBurgerPurple = hambúrguer roxo bonito
+    .desc = É bonito... e roxo?
 
-ent-PrettyBurgerRed = hambúrguer bonito vermelho
-    .desc = É bonito... vermelho?
+ent-PrettyBurgerRed = hambúrguer vermelho bonito
+    .desc = É bonito... e vermelho?
 
-ent-PrettyBurgerWhite = hambúrguer bonito branco
-    .desc = É bonito... branco?
+ent-PrettyBurgerWhite = hambúrguer branco bonito
+    .desc = É bonito... e branco?
 
-ent-PrettyBurgerYellow = hambúrguer bonito amarelo
-    .desc = É bonito... amarelo?
+ent-PrettyBurgerYellow = hambúrguer amarelo bonito
+    .desc = É bonito... e amarelo?
 
 # From: _NF/Entities/Objects/Consumable/Food/Containers/box.yml
 
@@ -2279,43 +2279,43 @@ ent-FoodBoxSushi = bandeja de sushi
     .desc = Recipiente de sushi plástico com tampa.
 
 ent-FoodBoxSushiBad = {ent-FoodBoxSushi}
-    .suffix = Ruim
+    .suffix = Estragado
 
-ent-HappyHonkMcCargo = refeição mccargo
+ent-HappyHonkMcCargo = lanche mccargo
 
 # From: _NF/Entities/Objects/Consumable/Food/Containers/condiments.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseFoodCondimentSqueezeBottle = squeeze bottle
+ent-BaseFoodCondimentSqueezeBottle = frasco de apertar
     .desc = Um recipiente plástico fino usado para armazenar condimentos.
 
-ent-FoodCondimentBottleSoysauce = soy sauce bottle
+ent-FoodCondimentBottleSoysauce = garrafa de molho shoyu
     .desc = Usado para temperar pratos à perfeição umami. Com sódio extra!
 
 ent-FoodCondimentSqueezeBottleClear = {ent-BaseFoodCondimentSqueezeBottle}
-    .desc = Quando se trata de squeeze bottles, esta é a escolha clara.
+    .desc = Quando se trata de frascos de apertar, esta é a escolha clara. Porque ela é translúcida. Entendeu? Entendeu??? Haha.
 
 # From: _NF/Entities/Objects/Consumable/Food/frozen.yml
 
 ent-FoodFrozenMochi = mochi
     .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. Delicioso!
 
-ent-FoodFrozenMochiBungo = bungo mochi
-    .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. É saborizado com bungo!
+ent-FoodFrozenMochiBungo = mochi de bungo
+    .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. Tem gosto de bungo!
 
-ent-FoodFrozenMochiCherry = cherry mochi
-    .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. É saborizado com cereja!
+ent-FoodFrozenMochiCherry = mochi de cereja
+    .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. Tem gosto de cereja!
 
-ent-FoodFrozenMochiChocolate = chocolate mochi
-    .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. É saborizado com chocolate!
+ent-FoodFrozenMochiChocolate = mochi de chocolate
+    .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. Tem gosto de chocolate!
 
-ent-FoodFrozenMochiFiber = fiber mochi
+ent-FoodFrozenMochiFiber = mochi fibroso
     .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. É tecido com fibras!
 
-ent-FoodFrozenMochiMoth = rosy mochi
+ent-FoodFrozenMochiMoth = mochi rosado
     .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. É quase fofo demais para comer! Quase.
 
-ent-FoodFrozenMochiTea = tea mochi
+ent-FoodFrozenMochiTea = mochi de chá
     .desc = Uma deliciosa bolinha de arroz pegajoso e mastigável encapsulando um núcleo de sorvete. É infundido com chá!
 
 ent-FoodFrozenMochiUbe = ube mochi
@@ -2323,40 +2323,40 @@ ent-FoodFrozenMochiUbe = ube mochi
 
 # From: _NF/Entities/Objects/Consumable/Food/ingredients.yml
 
-ent-FoodCoffeeBeansRaw = raw coffee beans
+ent-FoodCoffeeBeansRaw = grãos de café cru
     .desc = Grãos de café verdes, esperando para serem torrados.
 
-ent-FoodCoffeeBeansRoastedDark = dark roasted coffee beans
+ent-FoodCoffeeBeansRoastedDark = grãos de café torrado escuro
     .desc = Grãos de café torrado estilo Viena. Defumado e picante.
 
-ent-FoodCoffeeBeansRoastedLight = light roasted coffee beans
+ent-FoodCoffeeBeansRoastedLight = grãos de café torrado claro
     .desc = Grãos de café torrado claro. Brilhante e frutado.
 
-ent-FoodCoffeeBeansRoastedMedium = medium roasted coffee beans
+ent-FoodCoffeeBeansRoastedMedium = grãos de café torrado médio
     .desc = Grãos de café torrado médio. Suave e com nozes.
 
-ent-FoodDoughFlatButtered = buttered flat dough
+ent-FoodDoughFlatButtered = massa achatada manteigada
     .desc = Uma massa achatada e manteigada.
 
-ent-FoodDoughFlatPastry = pastry dough
+ent-FoodDoughFlatPastry = massa de pastelaria
     .desc = Uma massa de pastelaria manteigosa e aberta.
 
-ent-FoodRiceDough = rice dough
+ent-FoodRiceDough = massa de arroz
     .desc = Você tem certeza que isso é apenas arroz e água. Você não faz ideia de como isso se mantém junto.
 
-ent-FoodRiceDoughSlice = rice dough slice
+ent-FoodRiceDoughSlice = fatia de massa de arroz
     .desc = Uma fatia de massa de arroz.
 
-ent-FoodRiceNoodles = rice noodles
+ent-FoodRiceNoodles = macarrão de arroz
     .desc = Um ninho de macarrão de arroz delicado. Provavelmente melhor cozido.
 
-ent-FoodRiceNoodlesSheet = rice noodles sheet
+ent-FoodRiceNoodlesSheet = folha de macarrão de arroz
     .desc = Uma folha de arroz, pronta para ser picada em macarrão. Provavelmente melhor cozida.
 
-ent-FoodSausageCasing = sausage casing
+ent-FoodSausageCasing = casca de linguiça
     .desc = O intestino ou equivalente de alguma pobre criatura por aí..
 
-ent-FoodSausageRaw = raw sausage
+ent-FoodSausageRaw = linguiça crua
     .desc = Uma linguiça simples. Quem sabe o que tem nisso?
 
 ent-ReagentContainerChocolate = cocoa powder bag
@@ -2376,10 +2376,10 @@ ent-ReagentContainerSalt = salt container
 
 # From: _NF/Entities/Objects/Consumable/Food/meals.yml
 
-ent-FoodBreadAvocadoToast = avocado toast
+ent-FoodBreadAvocadoToast = torrada de abacate
     .desc = Era isso ou a casa própria.
 
-ent-FoodMealBasicNoodles = basic noodles
+ent-FoodMealBasicNoodles = macarrão básico
     .desc = Uma tigela de ramen simples com macarrão e caldo. Hum!
 
 ent-FoodMealBreakfastBagel = breakfast bagel
@@ -2388,7 +2388,7 @@ ent-FoodMealBreakfastBagel = breakfast bagel
 ent-FoodMealBreakfastBagelPoppy = poppyseed breakfast bagel
     .desc = O café da manhã dos mineradores. Dê uma mordida a cada vez que você levar um soco na cara.
 
-ent-FoodMealCucumberSandwich = cucumber sandwich
+ent-FoodMealCucumberSandwich = sanduíche de pepino
     .desc = Eles esqueceram de cortar as cascas NOVAMENTE.
 
 ent-FoodMealDragonOmelette = dragon omelette
@@ -2397,158 +2397,158 @@ ent-FoodMealDragonOmelette = dragon omelette
 ent-FoodMealHotdog = hotdog
     .desc = Hot diggity dog!
 
-ent-FoodMealMisoNoodles = miso noodles
+ent-FoodMealMisoNoodles = macarrão miso
     .desc = Caldo de miso, ou pasta de feijão fermentado, com cebolinha e ovo. Robusto!
 
-ent-FoodMealPearsBelleHelene = pears belle helene
+ent-FoodMealPearsBelleHelene = pêras belle hélene
     .desc = O sabor delicado da pêra imaculada banhada em chocolate.
 
-ent-FoodMealPoachedPears = poached pears
+ent-FoodMealPoachedPears = pêras pochê
     .desc = O uso mais chique para uma lata de vinho.
 
-ent-FoodMealShioNoodles = shio noodles
+ent-FoodMealShioNoodles = macarrão shio
     .desc = Caldo de sal do mar com milho e algas. Leve!
 
-ent-FoodMealShoyuNoodles = shoyu noodles
+ent-FoodMealShoyuNoodles = macarrão shoyu
     .desc = Caldo de molho de soja com milho, ovo e porco. Salgado!
 
-ent-FoodMealSpicyNoodles = spicy noodles
+ent-FoodMealSpicyNoodles = macarrão picante
     .desc = Uma tigela de ramen nada simples com macarrão, caldo e tofu. Picante!
 
-ent-FoodMealTonkatsuNoodles = tonkatsu noodles
+ent-FoodMealTonkatsuNoodles = macarrão tonkatsu
     .desc = Caldo de osso de porco com alho e porco. Rico!
 
-ent-FoodMeatSausage = cooked sausage
+ent-FoodMeatSausage = linguiça cozida
     .desc = Uma linguiça simples. Quem sabe o que tem nisso?
 
-ent-FoodSaladAvocado = avocado salad
+ent-FoodSaladAvocado = salada de abacate
     .desc = Você esteve tão perto de fazer guacamole. Tão perto.
 
-ent-FoodSaladGreek = greek salad
+ent-FoodSaladGreek = salada grega
     .desc = Esta é a salada que todos estão comendo naqueles comerciais.
 
-ent-MobCatCrispy = crispy
+ent-MobCatCrispy = Crispy
     .desc = Erros foram cometidos.
 
-ent-MobCatSpooky = spooky
+ent-MobCatSpooky = Spooky
     .suffix = Admeme
     .desc = Um erro grave.
 
 # From: _NF/Entities/Objects/Consumable/Food/meat_goblin.yml
 
-ent-FoodMeatGoblin = raw goblin meat
+ent-FoodMeatGoblin = carne crua de goblin
     .desc = Olhe para esse marmorização! Espera, isso é microplástico?
 
 # From: _NF/Entities/Objects/Consumable/Food/meat.yml
 
-ent-FoodCuredCarp = raw fish fillet
+ent-FoodCuredCarp = filé de peixe cru
     .desc = Uma fatia de peixe do espaço fresco, seguro para comer. Cheira a espaço e peixe.
 
-ent-FoodCuredCarpBattered = battered raw fish fillet
+ent-FoodCuredCarpBattered = filé de peixe empanado cru
     .desc = Uma fatia de peixe do espaço fresco, empanado em uma mistura gosma de farinha e ovo.
 
-ent-FoodCuredCarpFried = fried fish
+ent-FoodCuredCarpFried = peixe frito
     .desc = Uma fatia deliciosa de peixe, crocante e frito à perfeição.
 
-ent-FoodMeatCat = prime-cut cat meat
+ent-FoodMeatCat = carne de gato de primeira
     .desc = O presente contaminado de um crime malévolo. A carne pode ser deliciosa, mas a que custo?
 
-ent-FoodMeatChickenBattered = breaded chicken
+ent-FoodMeatChickenBattered = frango empanado
     .desc = Frango empanado em uma mistura gosma de farinha e ovo.
 
-ent-FoodMeatChickenCutletBattered = breaded chicken cutlet
+ent-FoodMeatChickenCutletBattered = filé de frango empanado
     .desc = Um corte de frango, empanado em uma mistura gosma de farinha e ovo.
 
-ent-FoodMeatGlazedHam = honey glazed ham
+ent-FoodMeatGlazedHam = presunto glaceado com mel
     .desc = Um presunto cozido lentamente, glaceado em mel caramelizado e curado com sal.
 
-ent-FoodMeatGlazedHamSlice = honey glazed ham slice
+ent-FoodMeatGlazedHamSlice = fatia de presunto glaceado com mel
     .desc = Uma fatia de presento maravilhoso, glaceado em mel delicioso.
 
 # From: _NF/Entities/Objects/Consumable/Food/produce.yml
 
-ent-FoodAvocado = avocado
+ent-FoodAvocado = abacate
     .desc = Como grama manteigosa deliciosa.
 
-ent-FoodAvocadoSlice = avocado slice
+ent-FoodAvocadoSlice = fatia de abacate
     .desc = Como grama manteigosa deliciosa em tamanho diversão.
 
-ent-FoodCoffee = coffee berries
+ent-FoodCoffee = bagas de café
     .desc = Bagas vermelhas encapsulando grãos de café.
 
-ent-FoodCucumber = cucumber
+ent-FoodCucumber = pepino
     .desc = Como água crocante fresca.
 
-ent-FoodCucumberSlice = cucumber slice
+ent-FoodCucumberSlice = fatia de pepino
     .desc = Como água crocante fresca, mas menor.
 
-ent-FoodHoneyComb = honeycomb
+ent-FoodHoneyComb = favo de mel
     .desc = Recipiente crocante de mel.
 
-ent-FoodPear = pear
-    .desc = É muito pera.
+ent-FoodPear = pêra
+    .desc = Pêraê!!
 
-ent-FoodPickle = pickle
+ent-FoodPickle = picles
     .desc = Como água crocante azeda.
 
-ent-FoodPickleSlice = pickle slice
+ent-FoodPickleSlice = fatia de picles
     .desc = Como água crocante azeda, mas menor.
 
-ent-FoodPotatoSlice = sliced potato
+ent-FoodPotatoSlice = batata fatiada
     .desc = Bastões de batata crua prontos para a fritadeira.
 
 # From: _NF/Entities/Objects/Consumable/Food/spoiled.yml
 
-ent-FoodBurgerBaconRotten = rotten burger
+ent-FoodBurgerBaconRotten = hambúrguer podre
 
-ent-FoodBurgerBigBiteRotten = rotten burger
+ent-FoodBurgerBigBiteRotten = hambúrguer podre
 
-ent-FoodBurgerCheeseRotten = rotten burger
+ent-FoodBurgerCheeseRotten = hambúrguer podre
 
-ent-FoodBurgerEmpoweredRotten = rotten burger
+ent-FoodBurgerEmpoweredRotten = hambúrguer podre
 
-ent-FoodBurgerPlainRotten = rotten burger
+ent-FoodBurgerPlainRotten = hambúrguer podre
 
-ent-FoodNoodlesMeatballMoldy = moldy food
+ent-FoodNoodlesMeatballMoldy = comida mofada
 
-ent-FoodNoodlesMoldy = moldy food
+ent-FoodNoodlesMoldy = comida mofada
 
-ent-FoodRiceEggMoldy = moldy food
+ent-FoodRiceEggMoldy = comida mofada
 
-ent-FoodSaladCaesarMoldy = moldy food
+ent-FoodSaladCaesarMoldy = comida mofada
 
-ent-FoodSoupMeatballMoldy = moldy food
+ent-FoodSoupMeatballMoldy = comida mofada
 
-ent-FoodSpoiledMoldy = moldy food
+ent-FoodSpoiledMoldy = comida mofada
     .desc = Provavelmente ainda está comestível, só precisa raspar esta coisa fora. E esta também. E esta.
 
-ent-FoodSpoiledRotten = rotten food
+ent-FoodSpoiledRotten = comida podre
     .desc = Provavelmente ainda está comestível, só precisa raspar esta coisa fora. E esta também. E esta.
 
 # From: _NF/Entities/Objects/Consumable/Food/sushi.yml
 
-ent-CuredCarpSushi = fresh fish sushi
+ent-CuredCarpSushi = sushi de peixe fresco
     .desc = Menos arriscado, ainda delicioso. Você ainda não tem certeza de onde a alga veio.
 
-ent-FoodMealAvocadoSushi = avocado sushi
+ent-FoodMealAvocadoSushi = sushi de abacate
     .desc = De onde a alga veio?
 
-ent-FoodMealAvocadoSushiSlice = avocado sushi
+ent-FoodMealAvocadoSushiSlice = sushi de abacate
     .desc = De onde a alga veio?
 
-ent-FoodMealCarpSushi = carp sushi
+ent-FoodMealCarpSushi = sushi de carpa
     .desc = Certamente vale o risco.
 
-ent-FoodMealCarpSushiSlice = carp sushi
+ent-FoodMealCarpSushiSlice = sushi de carpa
     .desc = Certamente vale o risco menor.
 
-ent-FoodMealCuredCarpSushiSlice = fresh fish sushi
+ent-FoodMealCuredCarpSushiSlice = sushi de peixe fresco
     .desc = Ainda menos arriscado, ainda delicioso. Você ainda não tem certeza de onde a alga veio.
 
 ent-FoodMealGasBadSushiSlice = {ent-FoodMealGasSafeSushiSlice}
     .suffix = Bad
 
-ent-FoodMealGasSafeSushiSlice = gas station sushi
+ent-FoodMealGasSafeSushiSlice = sushi de posto de gasolina
     .suffix = Safe
     .desc = Vale o risco?
 
@@ -2578,26 +2578,26 @@ ent-HandTeleporterAdmin = {ent-HandTeleporter}
 
 # From: _NF/Entities/Objects/Devices/cartridges.yml
 
-ent-AppraisalCartridge = AppraiseAll cartridge
+ent-AppraisalCartridge = cartucho AvaliaTudo
     .desc = Um programa para avaliar o valor monetário de itens.
 
-ent-BountyContractsCartridge = bounty contracts cartridge
+ent-BountyContractsCartridge = cartucho de contratos de recompensa
     .desc = Um programa para rastrear e colocar contratos de recompensa.
 
-ent-ContrabandForensicsModule = contraband forensics module
-    .desc = Um programa para escanear e reportar dropes e pods de contrabando para recompensas.
+ent-ContrabandForensicsModule = módulo de forênsica de contrabando
+    .desc = Um programa para escanear e reportar drop pods de contrabando para recompensas.
 
-ent-LedgerCartridge = SpesoFlow Lite cartridge
+ent-LedgerCartridge = cartucho SpesoFlow Lite
     .desc = Um programa para manter controle de contas bancárias do setor.
 
 # From: _NF/Entities/Objects/Devices/Circuitboards/computer.yml
 
-ent-ComputerWithdrawBankATMComputerCircuitboard = withdraw only atm computer board
+ent-ComputerWithdrawBankATMComputerCircuitboard = placa de computador de caixa eletrônico apenas de saque
     .desc = Uma placa de circuito impresso de computador para um computador caixa eletrônico apenas de saque.
 
 # From: _NF/Entities/Objects/Devices/door_remote.yml
 
-ent-DoorRemoteNfsd = TSFMC door remote
+ent-DoorRemoteNfsd = controle de portas da TSFMC
 
 # From: _NF/Entities/Objects/Devices/Electronics/door_access.yml
 
@@ -2622,7 +2622,7 @@ ent-DoorElectronicsPirate = {ent-DoorElectronics}
 # From: _NF/Entities/Objects/Devices/encryption_keys.yml
 
 ent-EncryptionKeyDoc = chave de criptografia de despacho médico
-    .desc = Uma chave de criptografia para coordenar despacho médico.
+    .desc = Uma chave de criptografia para coordenar o despacho médico.
 
 ent-EncryptionKeyNfsd = chave de criptografia do TSFMC
     .desc = Uma chave de criptografia para o canal do TSFMC.
@@ -2765,11 +2765,11 @@ ent-LockerBotanistFilledFlatpack = flatpack de armário de botânico
 ent-MachineAnomalyGeneratorFlatpack = flatpack de gerador de anomalias
     .desc = Um flatpack usado para construir um gerador de anomalias.
 
-ent-MachineAnomalyVesselExperimentalFlatpack = flatpack de vaso de anomalia experimental
-    .desc = Um flatpack usado para construir um vaso de anomalia experimental.
+ent-MachineAnomalyVesselExperimentalFlatpack = flatpack de receptáculo de anomalias experimental
+    .desc = Um flatpack usado para construir um receptáculo de anomalias experimental.
 
-ent-MachineAnomalyVesselFlatpack = flatpack de vaso de anomalia
-    .desc = Um flatpack usado para construir um vaso de anomalia.
+ent-MachineAnomalyVesselFlatpack = flatpack de receptáculo de anomalias
+    .desc = Um flatpack usado para construir um receptáculo de anomalias.
 
 ent-MachineAPEFlatpack = flatpack de A.P.E.
     .desc = Um flatpack usado para construir um A.P.E..
@@ -2873,8 +2873,8 @@ ent-TelecomServerFlatpack = flatpack de servidor de telecomunicações
 ent-TelevisionFlatpack = flatpack de televisão
     .desc = Um flatpack usado para construir uma televisão.
 
-ent-TimpaniInstrumentFlatpack = flatpack de tímpano
-    .desc = Um flatpack contendo um tímpano.
+ent-TimpaniInstrumentFlatpack = flatpack de timpano
+    .desc = Um flatpack contendo um timpano.
 
 ent-TomDrumsInstrumentFlatpack = flatpack de tambores tom
     .desc = Um flatpack contendo tambores tom.
@@ -2888,7 +2888,7 @@ ent-UniformPrinterFlatpack = flatpack de impressora de uniformes
 ent-UprightPianoInstrumentFlatpack = flatpack de piano vertical
     .desc = Um flatpack contendo um piano vertical.
 
-ent-VendingMachineBoozeFlatpack = flatpack de bebidas-o-mat
+ent-VendingMachineBoozeFlatpack = flatpack de booze-o-mat
     .desc = Um flatpack usado para construir uma máquina de vendas de bebidas.
 
 ent-VendingMachineBountyVendPunkFlatpack = flatpack de bonanzamatic
@@ -2918,8 +2918,8 @@ ent-VendingMachineNutriFlatpack = flatpack de nutrimax
 ent-VendingMachineSeedsUnlockedFlatpack = flatpack de megasementes
     .desc = Um flatpack usado para construir um vending machine de megasementes.
 
-ent-VendingMachineSyndieContrabandFlatpack = flatpack de contravendo
-    .desc = Um flatpack usado para construir um vending machine de contravendo.
+ent-VendingMachineSyndieContrabandFlatpack = flatpack de contravend
+    .desc = Um flatpack usado para construir um vending machine de contravend.
 
 ent-VendingMachineWallMedicalFlatpack = flatpack de nanomed
     .desc = Um flatpack usado para construir um vending machine nanomed.
@@ -3026,7 +3026,7 @@ ent-DeputyPDA = PDA de fuzileiro TSFMC
 ent-DocPDA = PDA de diretor de cuidados
     .desc = Cheira a desinfetante.
 
-ent-ERTMailCarrierPDA = {ent-ERTLeaderPDA}
+ent-ERTMailCarrierPDA = PDA de carteiro ERT
     .suffix = Carteiro
 
 ent-MercenaryPDA = PDA de mercenário
@@ -3557,17 +3557,17 @@ ent-CrateEngineeringSmallThruster = caixote de propulsor pequeno
 
 # From: _NF/Catalog/Fills/Crates/expeditions_loot.yml
 
-ent-CrateAtmosTechHardsuit = caixote de macacão rígido de técnico atmosférico
-    .desc = Contém um macacão rígido de técnico atmosférico.
+ent-CrateAtmosTechHardsuit = caixote de traje rígido de técnico atmosférico
+    .desc = Contém um traje rígido de técnico atmosférico.
 
 ent-CrateChemistrySecureKitChemist = kit de química
     .desc = Contém um kit de equipamentos de químico.
 
-ent-CrateEngineerChiefHardsuit = caixote de macacão rígido de engenheiro chefe
-    .desc = Contém um macacão rígido de engenheiro chefe.
+ent-CrateEngineerChiefHardsuit = caixote de traje rígido de engenheiro chefe
+    .desc = Contém um traje rígido de engenheiro chefe.
 
-ent-CrateEngineerHardsuit = caixote de macacão rígido de engenheiro de estação
-    .desc = Contém um macacão rígido de engenheiro de estação.
+ent-CrateEngineerHardsuit = caixote de traje rígido de engenheiro de estação
+    .desc = Contém um traje rígido de engenheiro de estação.
 
 ent-CrateEngineeringKitFabrication = kit de fabricação
     .desc = Contém um kit completo para construir uma instalação de fabricação de engenharia.
@@ -3578,8 +3578,8 @@ ent-CrateEngineeringKitRtg = kit de ferramentas GTR
 ent-CrateEngineeringKitShipyardRcd = kit de ferramentas RCD de estaleiro
     .desc = Contém um kit RCD completo de estaleiro.
 
-ent-CrateEvaKitCmo = kit de macacão rígido de diretor médico
-    .desc = Contém um kit completo de macacão rígido de diretor médico.
+ent-CrateEvaKitCmo = kit de traje rígido de diretor médico
+    .desc = Contém um kit completo de traje rígido de diretor médico.
 
 ent-CrateEvaKitParamedic = kit de traje de vácuo de paramédico
     .desc = Contém um kit completo de traje de vácuo de paramédico.
@@ -3596,17 +3596,17 @@ ent-CrateMedicalSecureMedicine = baú de medicamentos
 ent-CrateMedicalSecureMedicinePierce = baú de medicamentos
     .desc = Contém suprimentos médicos essenciais.
 
-ent-CrateSecureMercenaryHardsuit = caixote de macacão rígido de mercenário
-    .desc = Contém um macacão rígido de mercenário.
+ent-CrateSecureMercenaryHardsuit = caixote de traje rígido de mercenário
+    .desc = Contém um traje rígido de mercenário.
 
-ent-CrateSecureMercenaryHardsuitMagBoots = caixote de macacão rígido de mercenário
-    .desc = Contém um macacão rígido de mercenário.
+ent-CrateSecureMercenaryHardsuitMagBoots = caixote de traje rígido de mercenário
+    .desc = Contém um traje rígido de mercenário.
 
-ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de macacão rígido de segurança privada
-    .desc = Contém um macacão rígido de segurança privada.
+ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de traje rígido de segurança privada
+    .desc = Contém um traje rígido de segurança privada.
 
-ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de macacão rígido de segurança privada
-    .desc = Contém um macacão rígido de segurança privada.
+ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de traje rígido de segurança privada
+    .desc = Contém um traje rígido de segurança privada.
 
 ent-CrateServiceKitChemLab = kit de laboratório de química
     .desc = Contém um kit completo para construir um laboratório de química.
@@ -4755,8 +4755,8 @@ ent-AccessConfiguratorAntag = configurador de acesso do mercado negro
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_armory.yml
 
-ent-BlueprintClothingOuterHardsuitScaf = projeto de macacão rígido scaf
-    .desc = Um projeto com esquema de um macacão rígido scaf. Pode ser inserido em um torno ou em um techfab.
+ent-BlueprintClothingOuterHardsuitScaf = projeto de traje rígido scaf
+    .desc = Um projeto com esquema de um traje rígido scaf. Pode ser inserido em um torno ou em um techfab.
 
 ent-NFBlueprintPortableRecharger = projeto de carregador portátil
     .desc = Um projeto com esquema de um carregador portátil. Pode ser inserido em um torno ou em um techfab.
@@ -4865,8 +4865,8 @@ ent-NFBlueprintVialBluespace = diagrama de frasco de vidro bluespace
 ent-NFBlueprintAdvancedMineralScannerEmpty = diagrama de scanner mineral avançado
     .desc = Um diagrama com um esquema de um scanner mineral avançado. Pode ser inserido em um torno ou em uma techfab.
 
-ent-NFBlueprintClothingOuterHardsuitMaximPrototype = diagrama de macacão rígido de salvador experimental
-    .desc = Um diagrama com um esquema de um macacão rígido de salvador experimental. Pode ser inserido em um torno ou em uma techfab.
+ent-NFBlueprintClothingOuterHardsuitMaximPrototype = diagrama de traje rígido de salvagista experimental
+    .desc = Um diagrama com um esquema de um traje rígido de salvagista experimental. Pode ser inserido em um torno ou em uma techfab.
 
 ent-NFBlueprintMiningDrillDiamond = diagrama de broca de mineração com ponta de diamante
     .desc = Um diagrama com um esquema de uma broca de mineração com ponta de diamante. Pode ser inserido em um torno ou em uma techfab.
@@ -6531,7 +6531,7 @@ ent-PrizeCounter = balcão de prêmios
     .desc = Resgate seu prêmio e ganhe alguns brinquedos e pelúcias fofas!
 
 ent-SalvageTechfabNF = techfab de salvagem
-    .desc = Imprime equipamentos para salvadores.
+    .desc = Imprime equipamentos para salvagistas.
 
 ent-ScrapProcessor = processador de sucata
     .desc = Produz chapas e lingotes usando sucata.
@@ -7522,7 +7522,7 @@ ent-LockerNfsdSheriffFilled = {ent-LockerNfsdSheriff}
     .suffix = Preenchido
 
 ent-LockerQuarterMasterFilledHardsuit = {ent-LockerQuarterMaster}
-    .suffix = Preenchido, Macacão Rígido
+    .suffix = Preenchido, Traje rígido
 
 ent-LockerStationRepresentativeFilled = {ent-LockerStationRepresentative}
     .suffix = Preenchido
@@ -9917,7 +9917,7 @@ ent-LockerMailCarrierFilled = {ent-LockerMailCarrier}
 # From: _NF/Catalog/Fills/Lockers/medical.yml
 
 ent-LockerParamedicFilledHardsuit = {ent-LockerParamedic}
-    .suffix = Cheio, Macacão Rígido
+    .suffix = Cheio, Traje rígido
 
 ent-LockerPsychologistFilled = armário de psicólogo
     .suffix = Cheio
@@ -10308,7 +10308,7 @@ ent-ClothingBackpackArcadia = mochila da Arcadia
 ent-ClothingBackpackClippy = mochila do Clippy
     .desc = Feita de um Clippy de verdade.
 
-ent-ClothingBackpackERTMailCarrier = mochila de carteiro da RET
+ent-ClothingBackpackERTMailCarrier = mochila de carteiro da ERT
     .desc = Uma mochila espaçosa com muitos bolsos, usada por carteiros de uma Equipe de Resposta de Emergência.
 
 ent-ClothingBackpackNfsdBrown = mochila da TSFMC
@@ -10636,25 +10636,25 @@ ent-ClothingHeadHatHoodGoblin = capuz tradicional de goblin
 
 # From: _NF/Entities/Clothing/Head/hardsuit-helmets.yml
 
-ent-ClothingHeadHelmetHardsuitERTMailCarrier = capacete de macacão rígido de carteiro da ERT
-    .desc = Um capacete de macacão rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTMailCarrier = capacete de traje rígido de carteiro da ERT
+    .desc = Um capacete de traje rígido especial usado por membros de uma equipe de resposta de emergência.
 
-ent-ClothingHeadHelmetHardsuitMaximPrototype = capacete de salvador experimental
+ent-ClothingHeadHelmetHardsuitMaximPrototype = capacete de salvagista experimental
     .desc = Uma predição de decadência lava sua mente.
 
-ent-ClothingHeadHelmetHardsuitMercenary = capacete de macacão rígido de mercenário
-    .desc = Capacete de macacão rígido levemente blindado para necessidades de mercenários.
+ent-ClothingHeadHelmetHardsuitMercenary = capacete de traje rígido de mercenário
+    .desc = Capacete de traje rígido levemente blindado para necessidades de mercenários.
 
-ent-ClothingHeadHelmetHardsuitPilot = capacete de macacão rígido de piloto
-    .desc = Capacete de macacão rígido leve para pilotos.
+ent-ClothingHeadHelmetHardsuitPilot = capacete de traje rígido de piloto
+    .desc = Capacete de traje rígido leve para pilotos.
 
-ent-ClothingHeadHelmetHardsuitPirateElite = capacete de macacão rígido de pirata elite
-    .desc = Capacetes de macacão rígido com blindagem elite para yo-hoers.
+ent-ClothingHeadHelmetHardsuitPirateElite = capacete de traje rígido de pirata elite
+    .desc = Capacetes de traje rígido com blindagem elite para yo-hoers.
 
-ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de macacão rígido de segurança privada
-    .desc = Capacete de macacão rígido levemente blindado para necessidades de segurança privada.
+ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de traje rígido de segurança privada
+    .desc = Capacete de traje rígido levemente blindado para necessidades de segurança privada.
 
-ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de macacão rígido de empregada tática
+ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de traje rígido de empregada tática
     .desc = Aço inoxidável soldado coberto por múltiplas camadas de materiais anticorrosivos, perfeito para limpeza.
 
 # From: _NF/Entities/Clothing/Head/hats.yml
@@ -11118,123 +11118,123 @@ ent-ClothingOuterJacketSr = jaqueta de supervisor
 
 # From: _NF/Entities/Clothing/OuterClothing/goblin_outerclothing.yml
 
-ent-ClothingOuterCoatRobesGoblin = vestes de goblin
-    .desc = Vestes tradicionais do povo goblin. Muito régias.
+ent-ClothingOuterCoatRobesGoblin = roupão de goblin
+    .desc = Vestes tradicionais do povo goblin. Muito majestoso.
 
-ent-ClothingOuterEVASuitGoblin = macacão EVA de goblin
-    .desc = Vestes tradicionais dos goblins adaptadas para EVA. Muito régio.
+ent-ClothingOuterEVASuitGoblin = traje EVA de goblin
+    .desc = Vestes tradicionais dos goblins adaptadas para EVA. Muito majestoso.
 
 # From: _NF/Entities/Clothing/OuterClothing/hardsuits.yml
 
-ent-ClothingOuterHardsuitERTMailCarrier = macacão rígido de carteiro da RET
-    .desc = Um macacão rígido de proteção usado pelos carteiros de uma equipe de resposta de emergência.
+ent-ClothingOuterHardsuitERTMailCarrier = traje rígido de carteiro da ERT
+    .desc = Um traje rígido de proteção usado pelos carteiros de uma equipe de resposta de emergência.
 
-ent-ClothingOuterHardsuitMaximPrototype = macacão rígido de salvador experimental
-    .desc = Fogo. Calor. Estas coisas forjam grandes armas, elas também forjam grandes salvadores.
+ent-ClothingOuterHardsuitMaximPrototype = traje rígido de salvagista experimental
+    .desc = Fogo. Calor. Estas coisas forjam grandes armas, elas também forjam grandes salvagistas.
 
-ent-ClothingOuterHardsuitMercenary = macacão rígido de mercenário
+ent-ClothingOuterHardsuitMercenary = traje rígido de mercenário
     .desc = Um traje especial que protege dos perigos do espaço, empregado por forças mercenárias. Certificado como resistente a escopetas.
 
-ent-ClothingOuterHardsuitPilot = macacão rígido de piloto
-    .desc = Um macacão rígido adaptado para alguém que passa a maior parte do tempo preso a uma cadeira.
+ent-ClothingOuterHardsuitPilot = traje rígido de piloto
+    .desc = Um traje rígido adaptado para alguém que passa a maior parte do tempo preso a uma cadeira.
 
-ent-ClothingOuterHardsuitPirateElite = macacão rígido de pirata elite
-    .desc = Um macacão rígido blindado elite antigo, projetado por um homem barbado desconhecido e construído como uma casa de tijolos.
+ent-ClothingOuterHardsuitPirateElite = traje rígido de pirata elite
+    .desc = Um traje rígido blindado elite antigo, projetado por um homem barbado desconhecido e construído como uma casa de tijolos.
 
-ent-ClothingOuterHardsuitPrivateSecurity = macacão rígido de segurança privada
+ent-ClothingOuterHardsuitPrivateSecurity = traje rígido de segurança privada
     .desc = Um traje especial que protege dos perigos do espaço, empregado por forças de segurança privada.
 
-ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = macacão rígido do Sindicato
+ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = traje rígido do Sindicato
 
-ent-ClothingOuterHardsuitSyndieEliteUnremoveable = macacão rígido do Sindicato
+ent-ClothingOuterHardsuitSyndieEliteUnremoveable = traje rígido do Sindicato
 
-ent-ClothingOuterHardsuitTacticalMaid = macacão rígido de empregada doméstica tática
-    .desc = Camadas de ligas resistentes a manchas integradas em um único traje. Até vem com um avental reforçado!
+ent-ClothingOuterHardsuitTacticalMaid = traje rígido de empregada doméstica tática
+    .desc = Camadas de ligas resistentes a manchas integradas em um único traje. Vem até com um avental reforçado!
 
 # From: _NF/Entities/Clothing/OuterClothing/softsuits.yml
 
-ent-ClothingOuterEVASuitArcadia = macacão EVA da Arcadia
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para pessoal da Arcadia Industries.
+ent-ClothingOuterEVASuitArcadia = traje EVA da Arcadia
+    .desc = Um traje EVA com capacete integrado geralmente emitido para pessoal da Arcadia Industries.
 
-ent-ClothingOuterEVASuitAtmosTech = macacão EVA de técnico atmosférico
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para técnicos atmosféricos.
+ent-ClothingOuterEVASuitAtmosTech = traje EVA de técnico atmosférico
+    .desc = Um traje EVA com capacete integrado geralmente emitido para técnicos atmosféricos.
 
-ent-ClothingOuterEVASuitBoxerBlue = macacão EVA de boxeador
+ent-ClothingOuterEVASuitBoxerBlue = traje EVA de boxeador
     .suffix = Azul
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para boxeadores no canto azul.
+    .desc = Um traje EVA com capacete integrado geralmente emitido para boxeadores no canto azul.
 
-ent-ClothingOuterEVASuitBoxerGreen = macacão EVA de boxeador
+ent-ClothingOuterEVASuitBoxerGreen = traje EVA de boxeador
     .suffix = Verde
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para boxeadores no canto verde.
+    .desc = Um traje EVA com capacete integrado geralmente emitido para boxeadores no canto verde.
 
-ent-ClothingOuterEVASuitBoxerRandom = macacão EVA de boxeador
+ent-ClothingOuterEVASuitBoxerRandom = traje EVA de boxeador
     .suffix = Cores aleatórias
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para boxeadores no canto aleatório.
+    .desc = Um traje EVA com capacete integrado geralmente emitido para boxeadores no canto aleatório.
 
-ent-ClothingOuterEVASuitBoxerRed = macacão EVA de boxeador
+ent-ClothingOuterEVASuitBoxerRed = traje EVA de boxeador
     .suffix = Vermelho
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para boxeadores no canto vermelho.
+    .desc = Um traje EVA com capacete integrado geralmente emitido para boxeadores no canto vermelho.
 
-ent-ClothingOuterEVASuitBoxerYellow = macacão EVA de boxeador
+ent-ClothingOuterEVASuitBoxerYellow = traje EVA de boxeador
     .suffix = Amarelo
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para boxeadores no canto amarelo.
+    .desc = Um traje EVA com capacete integrado geralmente emitido para boxeadores no canto amarelo.
 
-ent-ClothingOuterEVASuitCaptain = macacão EVA de capitão
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para capitães.
+ent-ClothingOuterEVASuitCaptain = traje EVA de capitão
+    .desc = Um traje EVA com capacete integrado geralmente emitido para capitães.
 
-ent-ClothingOuterEVASuitCargo = macacão EVA de técnico de carga
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para técnicos de carga.
+ent-ClothingOuterEVASuitCargo = traje EVA de técnico de carga
+    .desc = Um traje EVA com capacete integrado geralmente emitido para técnicos de carga.
 
-ent-ClothingOuterEVASuitChaplain = macacão EVA de capelão
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para capelães.
+ent-ClothingOuterEVASuitChaplain = traje EVA de capelão
+    .desc = Um traje EVA com capacete integrado geralmente emitido para capelães.
 
-ent-ClothingOuterEVASuitContractor = macacão EVA de contratado
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para contratados.
+ent-ClothingOuterEVASuitContractor = traje EVA de contratado
+    .desc = Um traje EVA com capacete integrado geralmente emitido para contratados.
 
-ent-ClothingOuterEVASuitEngineer = macacão EVA de engenheiro
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para engenheiros.
+ent-ClothingOuterEVASuitEngineer = traje EVA de engenheiro
+    .desc = Um traje EVA com capacete integrado geralmente emitido para engenheiros.
 
-ent-ClothingOuterEVASuitFsb = macacão EVA da FSB
-    .desc = O macacão EVA padrão para embarcações da corporação Far Star Biotech. Vem com dois porta-copos.
+ent-ClothingOuterEVASuitFsb = traje EVA da FSB
+    .desc = O traje EVA padrão para embarcações da corporação Far Star Biotech. Vem com dois porta-copos.
 
-ent-ClothingOuterEVASuitHydro = macacão EVA de botânico
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para trabalhadores de hidroponia.
+ent-ClothingOuterEVASuitHydro = traje EVA de botânico
+    .desc = Um traje EVA com capacete integrado geralmente emitido para trabalhadores de hidroponia.
 
-ent-ClothingOuterEVASuitJanitor = macacão EVA de zelador
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para zeladores.
+ent-ClothingOuterEVASuitJanitor = traje EVA de zelador
+    .desc = Um traje EVA com capacete integrado geralmente emitido para zeladores.
 
-ent-ClothingOuterEVASuitLvhi = macacão EVA da LVHI
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para pessoal da Langstad-Voigt Heavy Industries (LVHI).
+ent-ClothingOuterEVASuitLvhi = traje EVA da LVHI
+    .desc = Um traje EVA com capacete integrado geralmente emitido para pessoal da Langstad-Voigt Heavy Industries (LVHI).
 
-ent-ClothingOuterEVASuitMailman = macacão EVA de carteiro
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para trabalhadores de hidroponia.
+ent-ClothingOuterEVASuitMailman = traje EVA de carteiro
+    .desc = Um traje EVA com capacete integrado geralmente emitido para trabalhadores de hidroponia.
 
-ent-ClothingOuterEVASuitMedic = macacão EVA de especialista médico
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para especialistas médicos.
+ent-ClothingOuterEVASuitMedic = traje EVA de especialista médico
+    .desc = Um traje EVA com capacete integrado geralmente emitido para especialistas médicos.
 
-ent-ClothingOuterEVASuitMercenary = macacão EVA de mercenário
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para mercenários.
+ent-ClothingOuterEVASuitMercenary = traje EVA de mercenário
+    .desc = Um traje EVA com capacete integrado geralmente emitido para mercenários.
 
-ent-ClothingOuterEVASuitNfsd = macacão EVA da TSFMC
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para pessoal da TSFMC.
+ent-ClothingOuterEVASuitNfsd = traje EVA da TSFMC
+    .desc = Um traje EVA com capacete integrado geralmente emitido para pessoal da TSFMC.
 
-ent-ClothingOuterEVASuitPilot = macacão EVA de piloto
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para pilotos.
+ent-ClothingOuterEVASuitPilot = traje EVA de piloto
+    .desc = Um traje EVA com capacete integrado geralmente emitido para pilotos.
 
-ent-ClothingOuterEVASuitPrivateSec = macacão EVA de segurança privada
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para segurança privada.
+ent-ClothingOuterEVASuitPrivateSec = traje EVA de segurança privada
+    .desc = Um traje EVA com capacete integrado geralmente emitido para segurança privada.
 
-ent-ClothingOuterEVASuitSalvage = macacão EVA de especialista em salvagem
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para especialistas em salvagem.
+ent-ClothingOuterEVASuitSalvage = traje EVA de especialista em salvagem
+    .desc = Um traje EVA com capacete integrado geralmente emitido para especialistas em salvagem.
 
-ent-ClothingOuterEVASuitScientist = macacão EVA de cientista
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para cientistas.
+ent-ClothingOuterEVASuitScientist = traje EVA de cientista
+    .desc = Um traje EVA com capacete integrado geralmente emitido para cientistas.
 
-ent-ClothingOuterEVASuitServiceWorker = macacão EVA de trabalhador de serviço
-    .desc = Um macacão EVA com capacete integrado geralmente emitido para trabalhadores de serviço.
+ent-ClothingOuterEVASuitServiceWorker = traje EVA de trabalhador de serviço
+    .desc = Um traje EVA com capacete integrado geralmente emitido para trabalhadores de serviço.
 
-ent-ClothingOuterEVASuitSr = macacão EVA de supervisor
-    .desc = Um macacão EVA com capacete integrado emitido para o supervisor do Colossus Central.
+ent-ClothingOuterEVASuitSr = traje EVA de supervisor
+    .desc = Um traje EVA com capacete integrado emitido para o supervisor do Colossus Central.
 
 # From: _NF/Entities/Clothing/OuterClothing/suits.yml
 
@@ -11376,9 +11376,9 @@ ent-ClothingUniformJumpsuitBHGrey = terno noir
     .desc = Um terno cinza, completo com prendedor de gravata.
 
 ent-ClothingUniformJumpsuitChaplainPilgrimVest = macacão de peregrino
-    .desc = Toc-toc. Você gostaria de ter uma palavra sobre nosso Senhor-e-Salvador Nar-Sss.. Err.. Space Jeebus?
+    .desc = Toc-toc. Você gostaria de ter uma palavra sobre nosso Senhor-e-Salvador Nar-Sss.. Err.. Jeebus Espacial?
 
-ent-ClothingUniformJumpsuitERTMailCarrier = uniforme de carteiro da RET
+ent-ClothingUniformJumpsuitERTMailCarrier = uniforme de carteiro da ERT
     .desc = Um terno especial feito para os carteiros de elite sob a CentComm.
 
 ent-ClothingUniformJumpsuitGalaxyBlue = terno azul galáxia

@@ -172,8 +172,8 @@ uplink-pirate-smg-ammo-box-desc = Uma caixa contendo 60 cartuchos de pistola 9x1
 uplink-pirate-box-bulldog-ammo-name = Caixa de tambores de balas calibre 12
 uplink-pirate-box-bulldog-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com balas.
 
-uplink-pirate-box-bulldog-slug-ammo-name = Caixa de tambores de slugs calibre 12
-uplink-pirate-box-bulldog-slug-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com slugs.
+uplink-pirate-box-bulldog-balote-ammo-name = Caixa de tambores de slugs calibre 12
+uplink-pirate-box-bulldog-balote-ammo-desc = Uma caixa contendo 4 tambores de escopeta calibre 12 com slugs.
 
 uplink-pirate-box-smg-magazine-name = Caixa de carregadores de SMG 9x19mm
 uplink-pirate-box-smg-magazine-desc = Uma caixa cheia de 3 carregadores de SMG 9x19mm.

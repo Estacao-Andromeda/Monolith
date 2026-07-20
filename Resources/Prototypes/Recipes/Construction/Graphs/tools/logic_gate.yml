@@ -40,7 +40,7 @@
         icon:
           sprite: _NF/Objects/Tools/multitool.rsi # Frontier: separate sprites (add _NF folder)
           state: icon
-        name: a multitool
+        name: graphs-LogicGate-Multitool-name
       - material: Cable
         amount: 2
         doAfter: 1
