@@ -3,8 +3,8 @@
 - type: vessel
   id: Garm
   parent: BaseVesselAntag
-  name: WEN Garm
-  description: Gruff hull with 3 GPOL's and long-range Bofors artillery for station bombardments and fleet support.
+  name: vessel-Garm-name
+  description: vessel-Garm-desc
   price: 105200 # 86700 appraisegrid
   purchasable: false # voucher only
   category: Medium
@@ -27,7 +27,7 @@
       stationProto: StandardFrontierVessel
       gridComponents:
       - type: VesselInfo
-        description: "Old cargo hull, now carries heavy bombardment arnament, capable of sending stations back to the Stone Age."
+        description: vessel-Garm-desc
       components:
         - type: StationNameSetup
           mapNameTemplate: 'Garm PDV{1}'

@@ -3,8 +3,8 @@
 - type: vessel
   id: Remontnik
   parent: BaseVesselAntag
-  name: PPU Remontnik
-  description: A USSP engineering and mining vessel designed by PPU. Comes with an FTL, potatoes with butter and alcohol in the fridge.
+  name: vessel-Remontnik-name
+  description: vessel-Remontnik-desc
   price: 102000
   category: Medium
   group: Ussp

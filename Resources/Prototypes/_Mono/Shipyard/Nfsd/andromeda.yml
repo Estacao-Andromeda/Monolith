@@ -3,8 +3,8 @@
 - type: vessel
   id: Andromeda
   parent: BaseVesselAntag
-  name: TSF-CRSW Andromeda
-  description: A experimental heavy frigate, with heavy burst frontal firepower and fast maneuveability.
+  name: vessel-Andromeda-name
+  description: vessel-Andromeda-desc
   limit: 3
   hyperwarLimit: 5
   hyperwarTimelock: 1800
@@ -30,7 +30,7 @@
       stationProto: StandardFrontierSecurityVessel
       gridComponents:
       - type: VesselInfo
-        description: "Enough guns to blot out the stars."
+        description: vessel-Andromeda-desc
       components:
       - type: StationNameSetup
         mapNameTemplate: 'Andromeda TSF{1}'

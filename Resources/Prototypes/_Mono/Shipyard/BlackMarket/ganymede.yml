@@ -3,8 +3,8 @@
 - type: vessel
   id: Ganymede
   parent: BaseVesselAntag
-  name: IDY Ganymede
-  description: A Heavy "frigate" armed with 4x Hydra 220mm cannons, lots of PD, 2x Fang 90mm autocannons and some flares to top it all off!
+  name: vessel-Ganymede-name
+  description: vessel-Ganymede-desc
   limit: 3
   hyperwarLimit: 5
   hyperwarTimelock: 1800
@@ -30,7 +30,7 @@
     Ganymede:
       gridComponents:
       - type: VesselInfo
-        description: "Half-built, bashed together to fight off TSF scum.."
+        description: vessel-Ganymede-desc
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup

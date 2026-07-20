@@ -3,8 +3,8 @@
 - type: vessel
   id: Akula
   parent: BaseVesselAntag
-  name: PPU Akula
-  description: A USSP long range harasser, meant for hit and runs. Comes with two dravons and CTLA-25.
+  name: vessel-Akula-name
+  description: vessel-Akula-desc
   price: 64000
   category: Medium
   group: Ussp

@@ -2,8 +2,8 @@
 - type: vessel
   id: BaseVessel
   abstract: true
-  name: AAA Bikeshed
-  description: Questionably spaceworthy.
+  name: vessel-BaseVessel-name
+  description: vessel-BaseVessel-desc
   price: 50000
   category: Medium
   group: Shipyard

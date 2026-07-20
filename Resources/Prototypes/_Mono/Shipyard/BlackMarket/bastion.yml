@@ -3,8 +3,8 @@
 - type: vessel
   id: Bastion
   parent: BaseVesselAntag
-  name: PDV Bastion
-  description: A long ranged design using 2 Hydra 220mm Cannons and 4 AK570 57mm autocannons, stand firm and sink the invaders.
+  name: vessel-Bastion-name
+  description: vessel-Bastion-desc
   price: 95500
   purchasable: false # voucher only
   category: Medium

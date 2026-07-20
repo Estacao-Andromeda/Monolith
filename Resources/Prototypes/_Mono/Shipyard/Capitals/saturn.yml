@@ -9,8 +9,8 @@
 - type: vessel
   id: Saturn
   parent: BaseVesselAntag
-  name: PDW-HSS Saturn
-  description: Commissioned by the Sultanate for dire need for heavy firepower against the Federation on their borders. A one of a kind ship, specifically designed with the vanguard stationed in Helios.
+  name: vessel-Saturn-name
+  description: vessel-Saturn-desc
   limit: 1
   hyperwarLimit: 3
   hyperwarTimelock: 3600
@@ -42,7 +42,7 @@
       stationProto: StandardFrontierSecurityVessel
       gridComponents:
       - type: VesselInfo
-        description: "The Sultan's answer to TSFMC invaders. She takes punishment like no other hull. Praise the Sultan."
+        description: vessel-Saturn-desc
       components:
       - type: StationNameSetup
         mapNameTemplate: 'Saturn HSS{1}'

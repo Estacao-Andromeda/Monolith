@@ -1,8 +1,8 @@
 - type: vessel
   id: Flyssa
   parent: BaseVesselAntag
-  name: TSF-SKR Flyssa-K
-  description: Lended over from the TSFN for you marines. A one-ship fleet on this scale of combat.
+  name: vessel-Flyssa-name
+  description: vessel-Flyssa-desc
   limit: 1
   hyperwarLimit: 3
   hyperwarTimelock: 3600
@@ -33,7 +33,7 @@
       stationProto: StandardFrontierSecurityVessel
       gridComponents:
       - type: VesselInfo
-        description: "The pride and joy of the TSFN, and a shining star in the sector. Sol invictus."
+        description: vessel-Flyssa-desc
       components:
       - type: StationNameSetup
         mapNameTemplate: 'Flyssa TSFN{1}'

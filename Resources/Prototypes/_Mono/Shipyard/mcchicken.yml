@@ -6,8 +6,8 @@
 - type: vessel
   id: McChicken
   parent: BaseVessel
-  name: AES McChicken
-  description: A cheap, fried food ship. For those who enjoy ungodly ammounts of calories, now made on the go!.
+  name: vessel-McChicken-name
+  description: vessel-McChicken-desc
   price: 28875
   category: Medium
   group: Shipyard

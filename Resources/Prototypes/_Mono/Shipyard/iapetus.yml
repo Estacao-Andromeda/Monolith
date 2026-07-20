@@ -7,8 +7,8 @@
 - type: vessel
   id: Iapetus
   parent: BaseVessel
-  name: TSF-SKR Iapetus
-  description: A basic artifact research ship, with minimal armament.
+  name: vessel-Iapetus-name
+  description: vessel-Iapetus-desc
   price: 36900
   category: Small
   group: Shipyard

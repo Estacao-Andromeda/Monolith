@@ -3,8 +3,8 @@
 - type: vessel
   id: Kortik
   parent: BaseVesselAntag
-  name: PDV-NCI Kortik-EM
-  description: A further upgrade to the Kortik-R, swapping the 2 R-300 howitzers for 2 CHARON mass drivers. FULLY UNABLE TO USE SHIELD GENERATORS.
+  name: vessel-Kortik-name
+  description: vessel-Kortik-desc
   limit: 1
   hyperwarLimit: 2
   hyperwarTimelock: 3600

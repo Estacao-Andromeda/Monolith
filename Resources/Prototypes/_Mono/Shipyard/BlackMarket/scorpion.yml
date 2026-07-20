@@ -3,8 +3,8 @@
 - type: vessel
   id: Scorpion
   parent: BaseVesselAntag
-  name: PDV Scorpion
-  description: An unusual variant from the same shipyards manufacturing Anacondas, using a mix of missile pods and 2 large-caliber cannons.
+  name: vessel-Scorpion-name
+  description: vessel-Scorpion-desc
   price: 113200
   purchasable: false # voucher only
   category: Medium

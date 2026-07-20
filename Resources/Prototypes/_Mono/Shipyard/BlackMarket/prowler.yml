@@ -4,8 +4,8 @@
 - type: vessel
   id: Prowler
   parent: BaseVesselAntag
-  name: PDV Prowler
-  description: A very stealth-focused craft, with special thrusters and power generation to minimize thermal signature. Guzzles plasma like a demon though. Thermal signature of about ~750m with generator on, and a visual signature of ~330m with SMES power (rated for 16 minutes).
+  name: vessel-Prowler-name
+  description: vessel-Prowler-desc
   limit: 1
   hyperwarLimit: 1
   hyperwarTimelock: 300 # It's hilarious.

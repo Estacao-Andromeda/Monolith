@@ -2,8 +2,8 @@
 - type: vessel
   id: Calypso
   parent: BaseVesselAntag
-  name: TSF-SKR Calypso
-  description: Moderately armed and (relatively) heavily armored multipurpose corvette. Armed with 2 AK-820s and 2 AK-570s for consistent damage, 4 Phalanxes for PD, and 2 ASM-220s for the biggest targets.
+  name: vessel-Calypso-name
+  description: vessel-Calypso-desc
   price: 134000
   purchasable: false # voucher only
   category: Medium
