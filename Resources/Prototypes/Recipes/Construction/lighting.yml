@@ -1,11 +1,11 @@
 ﻿- type: construction
-  name: cyan light tube
+  name: construction-CyanLight-name
   id: CyanLight
   graph: CyanLight
   startNode: start
   targetNode: icon
   category: construction-category-utilities
-  description: A high powered light tube containing a cyan crystal.
+  description: construction-CyanLight-desc
   icon: { sprite: Objects/Power/light_tube.rsi, state: normal }
   objectType: Item
 

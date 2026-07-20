@@ -1,11 +1,11 @@
 - type: construction
-  name: HF katana
+  name: construction-WeaponHFKatana-name
   id: WeaponHFKatana
   graph: GraphWeaponHFKatana
   startNode: start
   targetNode: WeaponHFKatana
   category: construction-category-weapons
-  description: A true weapon of a true warrior.
+  description: construction-WeaponHFKatana-desc
   icon:
     sprite: _Mono/Objects/Weapons/Melee/hfblade.rsi
     state: icon
