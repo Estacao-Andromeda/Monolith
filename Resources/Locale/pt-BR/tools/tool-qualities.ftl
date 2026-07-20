@@ -1,35 +1,35 @@
-tool-quality-anchoring-name = Fixação
-tool-quality-anchoring-tool-name = Chave Inglesa
+tool-quality-anchoring-name = Ancorar
+tool-quality-anchoring-tool-name = chave inglesa
 
-tool-quality-prying-name = Alavanca
-tool-quality-prying-tool-name = Pé de Cabra
+tool-quality-prying-name = Alavancar
+tool-quality-prying-tool-name = pé de cabra
 
 tool-quality-screwing-name = Parafusar
-tool-quality-screwing-tool-name = Chave de Fenda
+tool-quality-screwing-tool-name = chave de fenda
 
-tool-quality-cutting-name = Corte
-tool-quality-cutting-tool-name = Alicate de Corte
+tool-quality-cutting-name = Cortar
+tool-quality-cutting-tool-name = alicate de corte
 
-tool-quality-welding-name = Soldagem
-tool-quality-welding-tool-name = Soldador
+tool-quality-welding-name = Soldar
+tool-quality-welding-tool-name = soldador
 
-tool-quality-pulsing-name = Pulso
-tool-quality-pulsing-tool-name = Multiferramenta
+tool-quality-pulsing-name = Pulsar
+tool-quality-pulsing-tool-name = multiferramenta
 
 tool-quality-slicing-name = Fatiar
-tool-quality-slicing-tool-name = Faca
+tool-quality-slicing-tool-name = faca
 
 tool-quality-sawing-name = Serrar
-tool-quality-sawing-tool-name = Serra
+tool-quality-sawing-tool-name = serra
 
-tool-quality-honking-name = Apito
-tool-quality-honking-tool-name = Bicicleta com Apito
+tool-quality-honking-name = Honk
+tool-quality-honking-tool-name = buzina
 
-tool-quality-woodcutting-name = Corte de Madeira
-tool-quality-woodcutting-tool-name = Machado
+tool-quality-woodcutting-name = Cortar Madeira
+tool-quality-woodcutting-tool-name = machado
 
 tool-quality-rolling-name = Amassar
-tool-quality-rolling-tool-name = Rolo de Amassar
+tool-quality-rolling-tool-name = rolo de amassar
 
-tool-quality-digging-name = Escavar
-tool-quality-digging-tool-name = Pá
+tool-quality-digging-name = Cavar
+tool-quality-digging-tool-name = pá

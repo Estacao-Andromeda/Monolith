@@ -1,5 +1,5 @@
 # APC
-construction-examine-condition-apc-open = Primeiro, desenrosque o APC.
-construction-examine-condition-apc-close = Primeiro, enrosque o APC.
-construction-step-condition-apc-open = O painel eletrnico do APC deve estar desenroscado.
-construction-step-condition-apc-close = O painel eletrnico do APC deve estar enroscado.
+construction-examine-condition-apc-open = Primeiro, abra o painél do APC.
+construction-examine-condition-apc-close = Primeiro, feche o painél do APC.
+construction-step-condition-apc-open = O painel de eletrónicos do APC deve estar aberto.
+construction-step-condition-apc-close = O painel de eletrónicos do APC deve estar fechado.

@@ -1,5 +1,5 @@
 # Locked
-construction-examine-condition-unlock = Primeiro, [color=limegreen]desbloqueie[/color]-o.
-construction-examine-condition-lock = Primeiro, [color=red]bloqueie[/color]-o.
-construction-step-condition-unlock = Deve estar desbloqueado.
-construction-step-condition-lock = Deve estar bloqueado.
+construction-examine-condition-unlock = Primeiro, [color=limegreen]destranque[/color]-o.
+construction-examine-condition-lock = Primeiro, [color=red]tranque[/color]-o.
+construction-step-condition-unlock = Deve estar destrancado.
+construction-step-condition-lock = Deve estar trancado.

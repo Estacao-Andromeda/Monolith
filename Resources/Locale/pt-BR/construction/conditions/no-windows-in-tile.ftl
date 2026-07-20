@@ -1,1 +1,1 @@
-construction-step-condition-no-windows-in-tile =lá pode ser não windows em isso Azulejo.
+construction-step-condition-no-windows-in-tile = Não podem ter janelas nesse tile.

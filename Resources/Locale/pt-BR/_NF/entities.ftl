@@ -3941,7 +3941,7 @@ ent-SadTromboneImplanterLabeled = {ent-BaseImplanter}
 
 ent-AdvancedMatterBinStockPart = caixa de matéria avançada
     .suffix = Nível 3
-    .desc = Um bin de matéria avançado usado na construção e aprimoramento de uma variedade de dispositivos.
+    .desc = Uma caixa de matéria avançada usado na construção e aprimoramento de uma variedade de dispositivos.
 
 ent-SuperMatterBinStockPart = super caixa de matéria
     .suffix = Nível 4
@@ -3949,7 +3949,7 @@ ent-SuperMatterBinStockPart = super caixa de matéria
 
 ent-BluespaceMatterBinStockPart = caixa de matéria bluespace
     .suffix = Nível 6
-    .desc = Um bin de matéria bluespace usado na construção e aprimoramento de uma variedade de dispositivos.
+    .desc = Uma caixa de matéria bluespace usado na construção e aprimoramento de uma variedade de dispositivos.
 
 ent-NanoManipulatorStockPart = manipulador avançado
     .suffix = Nível 3
