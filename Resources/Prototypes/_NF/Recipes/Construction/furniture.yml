@@ -1,8 +1,8 @@
 # Beds
 - type: construction
   id: Mattres
-  name: mattress
-  description: Marginally preferable to sleeping on the floor.
+  name: construction-Mattres-name
+  description: construction-Mattres-desc
   graph: bedNF
   startNode: start
   targetNode: mattress
@@ -18,8 +18,8 @@
 
 - type: construction
   id: PsychBed
-  name: psychologist bed
-  description: An upholstered bed for the psychological care of patients.
+  name: construction-PsychBed-name
+  description: construction-PsychBed-desc
   graph: bedNF
   startNode: start
   targetNode: PsychBed
@@ -36,8 +36,8 @@
 # Seat
 - type: construction
   id: BenchSofaMiddle
-  name: sofa (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaMiddle-name
+  description: construction-BenchSofaMiddle-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaMiddleNode
@@ -53,8 +53,8 @@
 
 - type: construction
   id: BenchSofaLeft
-  name: sofa (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaLeft-name
+  description: construction-BenchSofaLeft-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaLeftNode
@@ -70,8 +70,8 @@
 
 - type: construction
   id: BenchSofaRight
-  name: sofa (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaRight-name
+  description: construction-BenchSofaRight-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaRightNode
@@ -87,8 +87,8 @@
 
 - type: construction
   id: BenchSofaCorner
-  name: sofa (corner)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaCorner-name
+  description: construction-BenchSofaCorner-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaCornerNode
@@ -104,8 +104,8 @@
 
 - type: construction
   id: BenchSofaCorpMiddle
-  name: grey sofa (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaCorpMiddle-name
+  description: construction-BenchSofaCorpMiddle-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaCorpMiddleNode
@@ -121,8 +121,8 @@
 
 - type: construction
   id: BenchSofaCorpLeft
-  name: grey sofa (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaCorpLeft-name
+  description: construction-BenchSofaCorpLeft-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaCorpLeftNode
@@ -138,8 +138,8 @@
 
 - type: construction
   id: BenchSofaCorpRight
-  name: grey sofa (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaCorpRight-name
+  description: construction-BenchSofaCorpRight-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaCorpRightNode
@@ -155,8 +155,8 @@
 
 - type: construction
   id: BenchSofaCorpCorner
-  name: grey sofa (corner)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSofaCorpCorner-name
+  description: construction-BenchSofaCorpCorner-desc
   graph: SofasGraph
   startNode: start
   targetNode: BenchSofaCorpCornerNode
@@ -172,8 +172,8 @@
 
 - type: construction
   id: BenchSteelMiddle
-  name: steel bench (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSteelMiddle-name
+  description: construction-BenchSteelMiddle-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchSteelMiddleNode
@@ -189,8 +189,8 @@
 
 - type: construction
   id: BenchSteelRight
-  name: steel bench (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSteelRight-name
+  description: construction-BenchSteelRight-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchSteelRightNode
@@ -206,8 +206,8 @@
 
 - type: construction
   id: BenchSteelLeft
-  name: steel bench (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSteelLeft-name
+  description: construction-BenchSteelLeft-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchSteelLeftNode
@@ -223,8 +223,8 @@
 
 - type: construction
   id: BenchPewMiddle
-  name: pew (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchPewMiddle-name
+  description: construction-BenchPewMiddle-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchPewMiddleNode
@@ -240,8 +240,8 @@
 
 - type: construction
   id: BenchPewRight
-  name: pew (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchPewRight-name
+  description: construction-BenchPewRight-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchPewRightNode
@@ -257,8 +257,8 @@
 
 - type: construction
   id: BenchPewLeft
-  name: pew (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchPewLeft-name
+  description: construction-BenchPewLeft-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchPewLeftNode
@@ -274,8 +274,8 @@
 
 - type: construction
   id: BenchParkMiddle
-  name: park bench (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchParkMiddle-name
+  description: construction-BenchParkMiddle-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchParkMiddleNode
@@ -291,8 +291,8 @@
 
 - type: construction
   id: BenchParkRight
-  name: park bench (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchParkRight-name
+  description: construction-BenchParkRight-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchParkRightNode
@@ -308,8 +308,8 @@
 
 - type: construction
   id: BenchParkLeft
-  name: park bench (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchParkLeft-name
+  description: construction-BenchParkLeft-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchParkLeftNode
@@ -325,8 +325,8 @@
 
 - type: construction
   id: BenchSteelWhiteMiddle
-  name: white bench (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSteelWhiteMiddle-name
+  description: construction-BenchSteelWhiteMiddle-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchSteelWhiteMiddleNode
@@ -342,8 +342,8 @@
 
 - type: construction
   id: BenchSteelWhiteRight
-  name: white bench (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSteelWhiteRight-name
+  description: construction-BenchSteelWhiteRight-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchSteelWhiteRightNode
@@ -359,8 +359,8 @@
 
 - type: construction
   id: BenchSteelWhiteLeft
-  name: white bench (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchSteelWhiteLeft-name
+  description: construction-BenchSteelWhiteLeft-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchSteelWhiteLeftNode
@@ -376,8 +376,8 @@
 
 - type: construction
   id: BenchParkBambooMiddle
-  name: bamboo park bench (middle)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchParkBambooMiddle-name
+  description: construction-BenchParkBambooMiddle-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchParkBambooMiddleNode
@@ -393,8 +393,8 @@
 
 - type: construction
   id: BenchParkBambooRight
-  name: bamboo park bench (right)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchParkBambooRight-name
+  description: construction-BenchParkBambooRight-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchParkBambooRightNode
@@ -410,8 +410,8 @@
 
 - type: construction
   id: BenchParkBambooLeft
-  name: bamboo park bench (left)
-  description: Multiple seats spanning a single object. Truly a marvel of science.
+  name: construction-BenchParkBambooLeft-name
+  description: construction-BenchParkBambooLeft-desc
   graph: BenchesGraph
   startNode: start
   targetNode: BenchParkBambooLeftNode
@@ -428,8 +428,8 @@
 # Storage
 - type: construction
   id: LockerWoodenGeneric
-  name: wooden cabinet
-  description: Dusty old wooden cabinet.
+  name: construction-LockerWoodenGeneric-name
+  description: construction-LockerWoodenGeneric-desc
   graph: StorageFurnitureGraph
   startNode: start
   targetNode: LockerWoodenGenericNode
@@ -446,8 +446,8 @@
 # Decorations (bonfire, fireplace)
 - type: construction
   id: Bonfire
-  name: bonfire
-  description: What can be better then late evening under the sky with guitar and friends.
+  name: construction-Bonfire-name
+  description: construction-Bonfire-desc
   graph: FiresGraph
   startNode: start
   targetNode: BonfireNode
@@ -463,8 +463,8 @@
 
 - type: construction
   id: Fireplace
-  name: fireplace
-  description: A place that has fire. Cozy!
+  name: construction-Fireplace-name
+  description: construction-Fireplace-desc
   graph: FiresGraph
   startNode: start
   targetNode: FireplaceNode
@@ -481,8 +481,8 @@
 # Banners
 - type: construction
   id: BannerNanotrasen
-  name: nanotrasen banner
-  description: A banner displaying the Nanotrasen logo.
+  name: construction-BannerNanotrasen-name
+  description: construction-BannerNanotrasen-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerNanotrasenNode
@@ -498,8 +498,8 @@
 
 - type: construction
   id: BannerCargo
-  name: cargo banner
-  description: A banner displaying the colors of the cargo department.
+  name: construction-BannerCargo-name
+  description: construction-BannerCargo-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerCargoNode
@@ -515,8 +515,8 @@
 
 - type: construction
   id: BannerEngineering
-  name: engineering banner
-  description: A banner displaying the colors of the engineering department.
+  name: construction-BannerEngineering-name
+  description: construction-BannerEngineering-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerEngineeringNode
@@ -532,8 +532,8 @@
 
 - type: construction
   id: BannerMedical
-  name: medical banner
-  description: A banner displaying the colors of the medical department.
+  name: construction-BannerMedical-name
+  description: construction-BannerMedical-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerMedicalNode
@@ -549,8 +549,8 @@
 
 - type: construction
   id: BannerScience
-  name: science banner
-  description: A banner displaying the colors of the science department.
+  name: construction-BannerScience-name
+  description: construction-BannerScience-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerScienceNode
@@ -566,8 +566,8 @@
 
 - type: construction
   id: BannerSecurity
-  name: security banner
-  description: A banner displaying the colors of the security department.
+  name: construction-BannerSecurity-name
+  description: construction-BannerSecurity-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerSecurityNode
@@ -583,8 +583,8 @@
 
 - type: construction
   id: BannerBlue
-  name: blue banner
-  description: A banner displaying the color blue.
+  name: construction-BannerBlue-name
+  description: construction-BannerBlue-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerBlueNode
@@ -600,8 +600,8 @@
 
 - type: construction
   id: BannerRed
-  name: red banner
-  description: A banner displaying the color red.
+  name: construction-BannerRed-name
+  description: construction-BannerRed-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerRedNode
@@ -617,8 +617,8 @@
 
 - type: construction
   id: BannerYellow
-  name: yellow banner
-  description: A banner displaying the color yellow.
+  name: construction-BannerYellow-name
+  description: construction-BannerYellow-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerYellowNode
@@ -634,8 +634,8 @@
 
 - type: construction
   id: BannerGreen
-  name: green banner
-  description: A banner displaying the color green.
+  name: construction-BannerGreen-name
+  description: construction-BannerGreen-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerGreenNode
@@ -651,8 +651,8 @@
 
 - type: construction
   id: BannerRevolution
-  name: revolution banner
-  description: A banner displaying revolution. Viva!
+  name: construction-BannerRevolution-name
+  description: construction-BannerRevolution-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerRevolutionNode
@@ -668,8 +668,8 @@
 
 - type: construction
   id: BannerSyndicate
-  name: syndicate banner
-  description: A banner from which, according to the syndicate, you should feel hatred for NT.
+  name: construction-BannerSyndicate-name
+  description: construction-BannerSyndicate-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerSyndicateNode
@@ -685,8 +685,8 @@
 
 - type: construction
   id: BannerGoblin01
-  name: goblinkind banner
-  description: A banner displaying the ancient goblinkind logo.
+  name: construction-BannerGoblin01-name
+  description: construction-BannerGoblin01-desc
   graph: BannersGraph
   startNode: start
   targetNode: BannerGoblin01
@@ -703,8 +703,8 @@
 # Altars
 - type: construction
   id: AltarToolbox
-  name: toolbox altar
-  description: Altar of the Gods.
+  name: construction-AltarToolbox-name
+  description: construction-AltarToolbox-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarToolboxNode
@@ -720,8 +720,8 @@
 
 - type: construction
   id: AltarConvertMaint
-  name: maint altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertMaint-name
+  description: construction-AltarConvertMaint-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertMaintNode
@@ -737,8 +737,8 @@
 
 - type: construction
   id: AltarConvertBlue
-  name: blue altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertBlue-name
+  description: construction-AltarConvertBlue-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertBlueNode
@@ -754,8 +754,8 @@
 
 - type: construction
   id: AltarConvertBurden
-  name: burden altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertBurden-name
+  description: construction-AltarConvertBurden-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertBurdenNode
@@ -771,8 +771,8 @@
 
 - type: construction
   id: AltarConvertYellow
-  name: yellow altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertYellow-name
+  description: construction-AltarConvertYellow-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertYellowNode
@@ -788,8 +788,8 @@
 
 - type: construction
   id: AltarConvertRed
-  name: red altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertRed-name
+  description: construction-AltarConvertRed-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertRedNode
@@ -805,8 +805,8 @@
 
 - type: construction
   id: AltarConvertWhite
-  name: white altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertWhite-name
+  description: construction-AltarConvertWhite-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertWhiteNode
@@ -822,8 +822,8 @@
 
 - type: construction
   id: AltarConvertOrange
-  name: orange altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertOrange-name
+  description: construction-AltarConvertOrange-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertOrangeNode
@@ -839,8 +839,8 @@
 
 - type: construction
   id: AltarTechnology
-  name: technology altar
-  description: Altar of the Gods.
+  name: construction-AltarTechnology-name
+  description: construction-AltarTechnology-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarTechnologyNode
@@ -856,8 +856,8 @@
 
 - type: construction
   id: AltarNanotrasen
-  name: nanotrasen altar
-  description: Altar of the Gods.
+  name: construction-AltarNanotrasen-name
+  description: construction-AltarNanotrasen-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarNanotrasenNode
@@ -873,8 +873,8 @@
 
 - type: construction
   id: AltarChaos
-  name: chaos altar
-  description: Altar of the Gods.
+  name: construction-AltarChaos-name
+  description: construction-AltarChaos-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarChaosNode
@@ -890,8 +890,8 @@
 
 - type: construction
   id: AltarDruid
-  name: druid altar
-  description: Altar of the Gods.
+  name: construction-AltarDruid-name
+  description: construction-AltarDruid-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarDruidNode
@@ -907,8 +907,8 @@
 
 - type: construction
   id: AltarSpaceChristian
-  name: space-Christian altar
-  description: Altar of the Gods.
+  name: construction-AltarSpaceChristian-name
+  description: construction-AltarSpaceChristian-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarSpaceChristianNode
@@ -924,8 +924,8 @@
 
 - type: construction
   id: AltarSatana
-  name: satanic altar
-  description: Altar of the Gods.
+  name: construction-AltarSatana-name
+  description: construction-AltarSatana-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarSatanaNode
@@ -941,8 +941,8 @@
 
 - type: construction
   id: AltarConvertFestival
-  name: festival altar
-  description: Altar of the Gods.
+  name: construction-AltarConvertFestival-name
+  description: construction-AltarConvertFestival-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarConvertFestivalNode
@@ -958,8 +958,8 @@
 
 - type: construction
   id: AltarMail
-  name: mail altar
-  description: Altar of the Gods.
+  name: construction-AltarMail-name
+  description: construction-AltarMail-desc
   graph: AltarsGraph
   startNode: start
   targetNode: AltarMailNode
@@ -975,8 +975,8 @@
 
 - type: construction
   id: ChairWoodFancyBlack
-  name: fancy black chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyBlack-name
+  description: construction-ChairWoodFancyBlack-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyBlack
@@ -992,8 +992,8 @@
 
 - type: construction
   id: ChairWoodFancyBlue
-  name: fancy blue chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyBlue-name
+  description: construction-ChairWoodFancyBlue-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyBlue
@@ -1009,8 +1009,8 @@
 
 - type: construction
   id: ChairWoodFancyCyan
-  name: fancy cyan chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyCyan-name
+  description: construction-ChairWoodFancyCyan-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyCyan
@@ -1026,8 +1026,8 @@
 
 - type: construction
   id: ChairWoodFancyGreen
-  name: fancy green chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyGreen-name
+  description: construction-ChairWoodFancyGreen-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyGreen
@@ -1043,8 +1043,8 @@
 
 - type: construction
   id: ChairWoodFancyOrange
-  name: fancy orange chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyOrange-name
+  description: construction-ChairWoodFancyOrange-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyOrange
@@ -1060,8 +1060,8 @@
 
 - type: construction
   id: ChairWoodFancyPink
-  name: fancy pink chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyPink-name
+  description: construction-ChairWoodFancyPink-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyPink
@@ -1077,8 +1077,8 @@
 
 - type: construction
   id: ChairWoodFancyPurple
-  name: fancy purple chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyPurple-name
+  description: construction-ChairWoodFancyPurple-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyPurple
@@ -1094,8 +1094,8 @@
 
 - type: construction
   id: ChairWoodFancyRed
-  name: fancy red chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyRed-name
+  description: construction-ChairWoodFancyRed-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyRed
@@ -1111,8 +1111,8 @@
 
 - type: construction
   id: ChairWoodFancyWhite
-  name: fancy white chair
-  description: A chair, but fancy.
+  name: construction-ChairWoodFancyWhite-name
+  description: construction-ChairWoodFancyWhite-desc
   graph: Seat
   startNode: start
   targetNode: chairWoodFancyWhite
@@ -1129,8 +1129,8 @@
 # Folding table
 - type: construction
   id: TableFolding
-  name: folding table
-  description: A table, but foldable.
+  name: construction-TableFolding-name
+  description: construction-TableFolding-desc
   graph: TableFoldingGraph
   startNode: start
   targetNode: TableFolding

@@ -1,12 +1,12 @@
 # SURVEILLANCE
 - type: construction
-  name: camera
+  name: construction-camera-name
   id: camera
   graph: SurveillanceCamera
   startNode: start
   targetNode: camera
   category: construction-category-utilities
-  description: "Surveillance camera. It's watching. Soon."
+  description: construction-camera-desc
   icon:
     sprite: Structures/Wallmounts/camera.rsi
     state: camera
@@ -14,13 +14,13 @@
   placementMode: SnapgridCenter
 
 - type: construction
-  name: telescreen
+  name: construction-WallmountTelescreen-name
   id: WallmountTelescreen
   graph: WallmountTelescreen
   startNode: start
   targetNode: Telescreen
   category: construction-category-utilities
-  description: "A surveillance camera monitor for the wall."
+  description: construction-WallmountTelescreen-desc
   icon:
     sprite: Structures/Machines/computers.rsi
     state: telescreen_frame
@@ -29,13 +29,13 @@
   canBuildInImpassable: true
 
 - type: construction
-  name: station map
+  name: construction-StationMap-name
   id: StationMap
   graph: StationMap
   startNode: start
   targetNode: station_map
   category: construction-category-structures
-  description: A station map.
+  description: construction-StationMap-desc
   icon:
     sprite: Structures/Machines/station_map.rsi
     state: station_map0
@@ -48,13 +48,13 @@
 
 # POWER
 - type: construction
-  name: APC
+  name: construction-APC-name
   id: APC
   graph: APC
   startNode: start
   targetNode: apc
   category: construction-category-utilities
-  description: "Area Power Controller (APC). Controls power. In an area."
+  description: construction-APC-desc
   icon:
     sprite: Structures/Power/apc.rsi
     state: base
@@ -63,13 +63,13 @@
   canBuildInImpassable: true
 
 - type: construction
-  name: cable terminal
+  name: construction-CableTerminal-name
   id: CableTerminal
   graph: CableTerminal
   startNode: start
   targetNode: cable_terminal
   category: construction-category-utilities
-  description: "Input of devices such as the SMES. The red cables needs to face the device."
+  description: construction-CableTerminal-desc
   icon:
     sprite: Structures/Power/cable_terminal.rsi
     state: term
@@ -78,13 +78,13 @@
   canBuildInImpassable: false
 
 - type: construction
-  name: wallmount substation
+  name: construction-WallmountSubstation-name
   id: WallmountSubstation
   graph: WallmountSubstation
   startNode: start
   targetNode: substation
   category: construction-category-utilities
-  description: "A wallmount substation for compact spaces. Make sure to place cable underneath before building the wall."
+  description: construction-WallmountSubstation-desc
   icon:
     sprite: Structures/Power/substation.rsi
     state: substation_wall
@@ -94,13 +94,13 @@
 
 - type: construction
   hide: true # Frontier
-  name: wallmount generator
+  name: construction-WallmountGenerator-name
   id: WallmountGenerator
   graph: WallmountGenerator
   startNode: start
   targetNode: generator
   category: construction-category-utilities
-  description: "A wallmount generator for compact spaces. Make sure to place cable underneath before building the wall."
+  description: construction-WallmountGenerator-desc
   icon:
     sprite: Structures/Power/Generation/wallmount_generator.rsi
     state: panel
@@ -110,13 +110,13 @@
 
 - type: construction
   hide: true # Frontier
-  name: wallmount APU
+  name: construction-WallmountGeneratorAPU-name
   id: WallmountGeneratorAPU
   graph: WallmountGenerator
   startNode: start
   targetNode: APU
   category: construction-category-utilities
-  description: "A wallmount APU for compact shuttles. Make sure to place cable underneath before building the wall."
+  description: construction-WallmountGeneratorAPU-desc
   icon:
     sprite: Structures/Power/Generation/wallmount_generator.rsi
     state: panel
@@ -126,8 +126,8 @@
 
 # DISPOSALS
 - type: construction
-  name: disposal unit
-  description: A pneumatic waste disposal unit.
+  name: construction-DisposalUnit-name
+  description: construction-DisposalUnit-desc
   id: DisposalUnit
   graph: DisposalMachine
   startNode: start
@@ -140,8 +140,8 @@
     state: "disposal"
 
 - type: construction
-  name: mailing unit
-  description: A pneumatic mail delivery unit.
+  name: construction-MailingUnit-name
+  description: construction-MailingUnit-desc
   id: MailingUnit
   graph: DisposalMachine
   startNode: start
@@ -154,9 +154,9 @@
     state: "mailing"
 
 - type: construction
-  name: disposal pipe
+  name: construction-DisposalPipe-name
   id: DisposalPipe
-  description: A huge pipe segment used for constructing disposal systems.
+  description: construction-DisposalPipe-desc
   graph: DisposalPipe
   startNode: start
   targetNode: pipe
@@ -168,8 +168,8 @@
     state: conpipe-s
 
 - type: construction
-  name: disposal tagger
-  description: A pipe that tags entities for routing.
+  name: construction-DisposalTagger-name
+  description: construction-DisposalTagger-desc
   id: DisposalTagger
   graph: DisposalPipe
   startNode: start
@@ -182,8 +182,8 @@
     state: conpipe-tagger
 
 - type: construction
-  name: disposal trunk
-  description: A pipe trunk used as an entry point for disposal systems.
+  name: construction-DisposalTrunk-name
+  description: construction-DisposalTrunk-desc
   id: DisposalTrunk
   graph: DisposalPipe
   startNode: start
@@ -196,8 +196,8 @@
     state: conpipe-t
 
 - type: construction
-  name: disposal router
-  description: A three-way router. Entities with matching tags get routed to the side.
+  name: construction-DisposalRouter-name
+  description: construction-DisposalRouter-desc
   id: DisposalRouter
   graph: DisposalPipe
   startNode: start
@@ -212,8 +212,8 @@
 
 - type: construction
   hide: true
-  name: disposal router
-  description: A three-way router. Entities with matching tags get routed to the side.
+  name: construction-DisposalRouterFlipped-name
+  description: construction-DisposalRouterFlipped-desc
   id: DisposalRouterFlipped
   graph: DisposalPipe
   startNode: start
@@ -227,8 +227,8 @@
   mirror: DisposalRouter
 
 - type: construction
-  name: disposal signal router
-  description: A signal-controlled three-way router.
+  name: construction-DisposalSignalRouter-name
+  description: construction-DisposalSignalRouter-desc
   id: DisposalSignalRouter
   graph: DisposalPipe
   startNode: start
@@ -243,8 +243,8 @@
 
 - type: construction
   hide: true
-  name: disposal signal router
-  description: A signal-controlled three-way router.
+  name: construction-DisposalSignalRouterFlipped-name
+  description: construction-DisposalSignalRouterFlipped-desc
   id: DisposalSignalRouterFlipped
   graph: DisposalPipe
   startNode: start
@@ -258,8 +258,8 @@
   mirror: DisposalSignalRouter
 
 - type: construction
-  name: disposal junction
-  description: A three-way junction. The arrow indicates where items exit.
+  name: construction-DisposalJunction-name
+  description: construction-DisposalJunction-desc
   id: DisposalJunction
   graph: DisposalPipe
   startNode: start
@@ -274,8 +274,8 @@
 
 - type: construction
   hide: true
-  name: disposal junction
-  description: A three-way junction. The arrow indicates where items exit.
+  name: construction-DisposalJunctionFlipped-name
+  description: construction-DisposalJunctionFlipped-desc
   id: DisposalJunctionFlipped
   graph: DisposalPipe
   startNode: start
@@ -289,8 +289,8 @@
   mirror: DisposalJunction
 
 - type: construction
-  name: disposal Y junction
-  description: A three-way junction with another exit point.
+  name: construction-DisposalYJunction-name
+  description: construction-DisposalYJunction-desc
   id: DisposalYJunction
   graph: DisposalPipe
   startNode: start
@@ -303,8 +303,8 @@
     state: conpipe-y
 
 - type: construction
-  name: disposal bend
-  description: A tube bent at a 90 degree angle.
+  name: construction-DisposalBend-name
+  description: construction-DisposalBend-desc
   id: DisposalBend
   graph: DisposalPipe
   startNode: start
@@ -318,13 +318,13 @@
 
 # ATMOS
 - type: construction
-  name: air alarm
+  name: construction-AirAlarmFixture-name
   id: AirAlarmFixture
   graph: AirAlarm
   startNode: start
   targetNode: air_alarm
   category: construction-category-structures
-  description: An air alarm. Alarms... air?
+  description: construction-AirAlarmFixture-desc
   icon:
     sprite: Structures/Wallmounts/air_monitors.rsi
     state: alarm0
@@ -336,13 +336,13 @@
   - !type:WallmountCondition {}
 
 - type: construction
-  name: fire alarm
+  name: construction-FireAlarm-name
   id: FireAlarm
   graph: FireAlarm
   startNode: start
   targetNode: fire_alarm
   category: construction-category-structures
-  description: A fire alarm. Spicy!
+  description: construction-FireAlarm-desc
   icon:
     sprite: Structures/Wallmounts/air_monitors.rsi
     state: fire0
@@ -354,13 +354,13 @@
   - !type:WallmountCondition {}
 
 - type: construction
-  name: air sensor
+  name: construction-AirSensor-name
   id: AirSensor
   graph: AirSensor
   startNode: start
   targetNode: sensor
   category: construction-category-structures
-  description: An air sensor. Senses air.
+  description: construction-AirSensor-desc
   icon:
     sprite: Structures/Specific/Atmospherics/sensor.rsi
     state: gsensor1
@@ -369,13 +369,13 @@
   canRotate: true
 
 - type: construction
-  name: gas pipe sensor
+  name: construction-GasPipeSensor-name
   id: GasPipeSensor
   graph: GasPipeSensor
   startNode: start
   targetNode: sensor
   category: construction-category-structures
-  description: Reports on the status of the gas within the attached pipe network.
+  description: construction-GasPipeSensor-desc
   placementMode: AlignAtmosPipeLayers
   objectType: Structure
   canRotate: true
@@ -440,9 +440,9 @@
 
 # ATMOS PIPES
 - type: construction
-  name: gas pipe half
+  name: construction-GasPipeHalf-name
   id: GasPipeHalf
-  description: Half of a gas pipe. No skateboards.
+  description: construction-GasPipeHalf-desc
   graph: GasPipe
   startNode: start
   targetNode: half
@@ -492,9 +492,9 @@
   - GasPipeHalfAlt2
 
 - type: construction
-  name: gas pipe straight
+  name: construction-GasPipeStraight-name
   id: GasPipeStraight
-  description: A straight pipe segment.
+  description: construction-GasPipeStraight-desc
   graph: GasPipe
   startNode: start
   targetNode: straight
@@ -544,9 +544,9 @@
   - GasPipeStraightAlt2
 
 - type: construction
-  name: gas pipe bend
+  name: construction-GasPipeBend-name
   id: GasPipeBend
-  description: A pipe segment bent at a 90 degree angle.
+  description: construction-GasPipeBend-desc
   graph: GasPipe
   startNode: start
   targetNode: bend
@@ -596,9 +596,9 @@
   - GasPipeBendAlt2
 
 - type: construction
-  name: gas pipe T junction
+  name: construction-GasPipeTJunction-name
   id: GasPipeTJunction
-  description: A pipe segment with a T junction.
+  description: construction-GasPipeTJunction-desc
   graph: GasPipe
   startNode: start
   targetNode: tjunction
@@ -648,9 +648,9 @@
   - GasPipeTJunctionAlt2
 
 - type: construction
-  name: gas pipe fourway
+  name: construction-GasPipeFourway-name
   id: GasPipeFourway
-  description: A pipe segment with a fourway junction.
+  description: construction-GasPipeFourway-desc
   graph: GasPipe
   startNode: start
   targetNode: fourway
@@ -701,8 +701,8 @@
 
 - type: construction
   id: GasPipeManifold
-  name: gas pipe manifold
-  description: A pipe segment used for transporting gas across different layers.
+  name: construction-GasPipeManifold-name
+  description: construction-GasPipeManifold-desc
   graph: GasPipe
   startNode: start
   targetNode: manifold
@@ -715,8 +715,8 @@
 
 # ATMOS UNARY
 - type: construction
-  name: air vent
-  description: Pumps gas into the room.
+  name: construction-GasVentPump-name
+  description: construction-GasVentPump-desc
   id: GasVentPump
   graph: GasUnary
   startNode: start
@@ -736,8 +736,8 @@
   - !type:NoUnstackableInTile
 
 - type: construction
-  name: passive vent
-  description: Unpowered vent that equalises gases on both sides.
+  name: construction-GasPassiveVent-name
+  description: construction-GasPassiveVent-desc
   id: GasPassiveVent
   graph: GasUnary
   startNode: start
@@ -757,8 +757,8 @@
   - !type:NoUnstackableInTile
 
 - type: construction
-  name: air scrubber
-  description: Sucks gas into connected pipes.
+  name: construction-GasVentScrubber-name
+  description: construction-GasVentScrubber-desc
   id: GasVentScrubber
   graph: GasUnary
   startNode: start
@@ -778,8 +778,8 @@
   - !type:NoUnstackableInTile
 
 - type: construction
-  name: air injector
-  description: Injects air into the atmosphere.
+  name: construction-GasOutletInjector-name
+  description: construction-GasOutletInjector-desc
   id: GasOutletInjector
   graph: GasUnary
   startNode: start
@@ -800,9 +800,9 @@
 
 # ATMOS BINARY
 - type: construction
-  name: gas pump
+  name: construction-GasPressurePump-name
   id: GasPressurePump
-  description: A pump that moves gas by pressure.
+  description: construction-GasPressurePump-desc
   graph: GasBinary
   startNode: start
   targetNode: pressurepump
@@ -873,8 +873,8 @@
   - GasPressurePumpAlt2
 
 - type: construction
-  name: volumetric gas pump
-  description: A pump that moves gas by volume.
+  name: construction-GasVolumePump-name
+  description: construction-GasVolumePump-desc
   id: GasVolumePump
   graph: GasBinary
   startNode: start
@@ -947,8 +947,8 @@
 
 - type: construction
   id: GasPassiveGate
-  name: passive gate
-  description: A one-way air valve that does not require power.
+  name: construction-GasPassiveGate-name
+  description: construction-GasPassiveGate-desc
   graph: GasBinary
   startNode: start
   targetNode: passivegate
@@ -1020,8 +1020,8 @@
 
 - type: construction
   id: GasPressureRegulator
-  name: gas pressure regulator
-  description: A air valve used for regulating pressure.
+  name: construction-GasPressureRegulator-name
+  description: construction-GasPressureRegulator-desc
   graph: GasBinary
   startNode: start
   targetNode: pressureregulator
@@ -1093,8 +1093,8 @@
 
 - type: construction
   id: GasValve
-  name: manual valve
-  description: A pipe with a valve that can be used to disable the flow of gas through it.
+  name: construction-GasValve-name
+  description: construction-GasValve-desc
   graph: GasBinary
   startNode: start
   targetNode: valve
@@ -1166,8 +1166,8 @@
 
 - type: construction
   id: SignalControlledValve
-  name: signal valve
-  description: Valve controlled by signal inputs.
+  name: construction-SignalControlledValve-name
+  description: construction-SignalControlledValve-desc
   graph: GasBinary
   startNode: start
   targetNode: signalvalve
@@ -1239,8 +1239,8 @@
 
 - type: construction
   id: GasPort
-  name: connector port
-  description: For connecting portable devices related to atmospherics control.
+  name: construction-GasPort-name
+  description: construction-GasPort-desc
   graph: GasBinary
   startNode: start
   targetNode: port
@@ -1260,8 +1260,8 @@
 
 - type: construction
   id: GasDualPortVentPump
-  name: dual-port air vent
-  description: Has a valve and a pump attached to it. There are two ports, one is an input for releasing air, the other is an output when siphoning.
+  name: construction-GasDualPortVentPump-name
+  description: construction-GasDualPortVentPump-desc
   graph: GasBinary
   startNode: start
   targetNode: dualportventpump
@@ -1279,8 +1279,8 @@
 
 - type: construction
   id: HeatExchanger
-  name: radiator
-  description: Transfers heat between the pipe and its surroundings.
+  name: construction-HeatExchanger-name
+  description: construction-HeatExchanger-desc
   graph: GasBinary
   startNode: start
   targetNode: radiator
@@ -1293,8 +1293,8 @@
 
 - type: construction
   id: HeatExchangerBend
-  name: radiator bend
-  description: Transfers heat between the pipe and its surroundings.
+  name: construction-HeatExchangerBend-name
+  description: construction-HeatExchangerBend-desc
   graph: GasBinary
   startNode: start
   targetNode: bendradiator
@@ -1308,8 +1308,8 @@
 # ATMOS TRINARY
 - type: construction
   id: GasFilter
-  name: gas filter
-  description: Very useful for filtering gases.
+  name: construction-GasFilter-name
+  description: construction-GasFilter-desc
   graph: GasTrinary
   startNode: start
   targetNode: filter
@@ -1326,8 +1326,8 @@
 - type: construction
   id: GasFilterFlipped
   hide: true
-  name: gas filter
-  description: Very useful for filtering gases.
+  name: construction-GasFilterFlipped-name
+  description: construction-GasFilterFlipped-desc
   graph: GasTrinary
   startNode: start
   targetNode: filterflipped
@@ -1343,8 +1343,8 @@
 
 - type: construction
   id: GasMixer
-  name: gas mixer
-  description: Very useful for mixing gases.
+  name: construction-GasMixer-name
+  description: construction-GasMixer-desc
   graph: GasTrinary
   startNode: start
   targetNode: mixer
@@ -1361,8 +1361,8 @@
 - type: construction
   id: GasMixerFlipped
   hide: true
-  name: gas mixer
-  description: Very useful for mixing gases.
+  name: construction-GasMixerFlipped-name
+  description: construction-GasMixerFlipped-desc
   graph: GasTrinary
   startNode: start
   targetNode: mixerflipped
@@ -1378,8 +1378,8 @@
 
 - type: construction
   id: PressureControlledValve
-  name: pneumatic valve
-  description: A bidirectional valve controlled by pressure. Opens if the output pipe is lower than the pressure of the control pipe by 101.325 kPa.
+  name: construction-PressureControlledValve-name
+  description: construction-PressureControlledValve-desc
   graph: GasTrinary
   startNode: start
   targetNode: pneumaticvalve
@@ -1394,13 +1394,13 @@
 
 # INTERCOM
 - type: construction
-  name: intercom
+  name: construction-IntercomAssembly-name
   id: IntercomAssembly
   graph: Intercom
   startNode: start
   targetNode: intercom
   category: construction-category-structures
-  description: An intercom. For when the station just needs to know something.
+  description: construction-IntercomAssembly-desc
   icon:
     sprite: Structures/Wallmounts/intercom.rsi
     state: base
@@ -1413,13 +1413,13 @@
 
 # TIMERS
 - type: construction
-  name: signal timer
+  name: construction-SignalTimer-name
   id: SignalTimer
   graph: Timer
   startNode: start
   targetNode: signal
   category: construction-category-utilities
-  description: "A wallmounted timer for sending timed signals to things."
+  description: construction-SignalTimer-desc
   icon:
     sprite: Structures/Wallmounts/switch.rsi
     state: on
@@ -1430,13 +1430,13 @@
   - !type:WallmountCondition
 
 - type: construction
-  name: screen timer
+  name: construction-ScreenTimer-name
   id: ScreenTimer
   graph: Timer
   startNode: start
   targetNode: screen
   category: construction-category-utilities
-  description: "A wallmounted timer for sending timed signals to things. This one has a screen for displaying text."
+  description: construction-ScreenTimer-desc
   icon:
     sprite: Structures/Wallmounts/signalscreen.rsi
     state: signalscreen
@@ -1448,13 +1448,13 @@
   - !type:WallmountCondition
 
 - type: construction
-  name: brig timer
+  name: construction-BrigTimer-name
   id: BrigTimer
   graph: Timer
   startNode: start
   targetNode: brig
   category: construction-category-utilities
-  description: "A wallmounted timer for sending timed signals to things. This one has a screen for displaying text and requires security access to use."
+  description: construction-BrigTimer-desc
   icon:
     sprite: Structures/Wallmounts/signalscreen.rsi
     state: signalscreen

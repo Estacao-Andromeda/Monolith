@@ -1,5 +1,6 @@
 using Content.Shared.Construction.Conditions;
 using Content.Shared.Whitelist;
+using Robust.Shared.Localization;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype;
 using Robust.Shared.Utility;
@@ -21,13 +22,25 @@ public sealed partial class ConstructionPrototype : IPrototype
     ///     Friendly name displayed in the construction GUI.
     /// </summary>
     [DataField("name")]
-    public string Name = string.Empty;
+    private LocId _name = string.Empty;
 
     /// <summary>
     ///     "Useful" description displayed in the construction GUI.
     /// </summary>
     [DataField("description")]
-    public string Description = string.Empty;
+    private LocId _description = string.Empty;
+
+    /// <summary>
+    ///     Friendly name displayed in the construction GUI (localized).
+    /// </summary>
+    [ViewVariables(VVAccess.ReadOnly)]
+    public string Name => Loc.GetString(_name);
+
+    /// <summary>
+    ///     "Useful" description displayed in the construction GUI (localized).
+    /// </summary>
+    [ViewVariables(VVAccess.ReadOnly)]
+    public string Description => Loc.GetString(_description);
 
     /// <summary>
     ///     The <see cref="ConstructionGraphPrototype"/> this construction will be using.

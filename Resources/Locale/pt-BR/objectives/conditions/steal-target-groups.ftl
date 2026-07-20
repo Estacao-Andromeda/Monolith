@@ -58,7 +58,7 @@ steal-target-groups-research-and-development-server-machine-circuitboard = placa
 
 steal-target-groups-fire-axe = machado de bombeiro
 
-steal-target-groups-ame-part-flatpack = kit plano de AME
+steal-target-groups-ame-part-flatpack = flatpack de AME
 
 steal-target-groups-salvage-expeditions-computer-circuitboard = placa de computador de expedições de salvamento
 

@@ -1325,25 +1325,27 @@ ent-WeaponSubMachineSmart = PA Abielle SMG Inteligente (.160 Inteligente)
 
 # From: _Goobstation/Entities/Objects/Weapons/Guns/Stasis/stasis_gun.yml
 
-ent-WeaponStasisGun = Arma Estática
+ent-WeaponStasisGun = Arma de Estase
     .desc = Um dispositivo para parar o fluxo temporal de qualquer criatura viva (ou não)
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/e_sword_welder.yml
 
-ent-EnergySwordWelder = Espada de Energia de Soldador
-    .desc = Grossamente convertida de uma ferramenta de solda, essa espada de energia ronca uma chama instável. Parece que está prestes a desmoronar.
+ent-EnergySwordWelder = espada de energia de soldador
+    .desc = Brutamente convertida de uma ferramenta de solda, essa espada de energia ronca uma chama instável. Parece que está prestes a desmoronar.
 
-ent-EnergySwordWelderExperimental = Espada de Energia de Soldador Experimental
-    .desc = Uma espada muito alta e perigosa com um feixe feito de plasma puro e concentrado. Corta alvos sem blindagem como manteiga.
+ent-EnergySwordWelderExperimental = espada de energia de soldador experimental
+    .desc = Uma espada muito alta e perigosa com um feixe feito de plasma puro e concentrado. Corta alvos sem armadura como manteiga.
 
-ent-EnergySwordWelderIndustrial = Espada de Energia de Soldador Industrial
+ent-EnergySwordWelderIndustrial = espada de energia de soldador industrial
 
-ent-UnfinishedWelderSword = Espada de Soldador Inacabada
+ent-UnfinishedWelderSword = espada de soldador inacabada
     .desc = Uma montagem crua de peças que lembra vagamente uma arma. É completamente não funcional.
 
-ent-UnfinishedWelderSwordExperimental = Espada de Soldador Experimental Inacabada
+ent-UnfinishedWelderSwordExperimental = espada de soldador experimental inacabada
+    .desc = { ent-UnfinishedWelderSword.desc }
 
-ent-UnfinishedWelderSwordIndustrial = Espada de Soldador Industrial Inacabada
+ent-UnfinishedWelderSwordIndustrial = espada de soldador industrial inacabada
+    .desc = { ent-UnfinishedWelderSword.desc }
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/hammer.yml
 
@@ -1393,13 +1395,16 @@ ent-StorageBin = Recipiente de Armazenamento
 
 # From: _Goobstation/Entities/Structures/Piping/Atmospherics/trinary.yml
 
-ent-GasFilterInline = Filtro de Gás em Linha
+ent-GasFilterInline = filtro de gás contínuo
     .desc = Filtra gases de uma rede de tubos sem dividi-lo em dois.
 
 # From: _Goobstation/Entities/Structures/Piping/Atmospherics/unary.yml
 
-ent-HeatExchangerInline = Radiador em Linha
+ent-HeatExchangerInline = radiador contínuo
     .desc = Transfere calor entre o tubo e seus arredores. Não precisa de fluxo de gás.
+
+ent-HeatExchangerInlineBend = radiador contínuo curvado
+    .desc = { ent-HeatExchangerInline.desc }
 
 ent-ClothingBeltHolsterFilledCentComm = {ent-ClothingBeltHolster}
     .suffix = Cheio, N1984.

@@ -296,13 +296,13 @@ ent-CrateVendingMachineRestockBaristaFilled = Caixa de Reposição BaristaVend
 
 # From: _Mono/Catalogs/Fills/Lockers/salvmaint_locker.yml
 
-ent-MonoMaintenanceFluffSpawner = Gerador de Saque de Manutenção Mono
+ent-MonoMaintenanceFluffSpawner = spawner de Saque de Manutenção Mono
     .suffix = Diversos+Roupas
 
-ent-MonoMaintenanceToolSpawner = Gerador de Saque de Manutenção Mono
+ent-MonoMaintenanceToolSpawner = spawner de Saque de Manutenção Mono
     .suffix = Ferramentas+Células+Matérias
 
-ent-MonoMaintenanceWeaponSpawner = Gerador de Saque de Manutenção Mono
+ent-MonoMaintenanceWeaponSpawner = spawner de Saque de Manutenção Mono
     .suffix = Sucata+Armas
 
 # From: _Mono/Catalogs/Fills/Lockers/vizier_locker.yml
@@ -6358,10 +6358,10 @@ ent-PaperWrittenDispenserOutageNote = aviso de interrupção do comércio de car
 
 # From: _Mono/Entities/Structures/Doors/Airlocks/heavy_airlock.yml
 
-ent-AirlockHeavy = porta corta-fogo pesada
+ent-AirlockHeavy = airlock pesada
     .desc = Abre, fecha, e talvez te esmague. Um modelo mais blindado e avançado, para uso em aplicações industriais pesadas e militares. Abertura mais rápida e suave, mais força, e mais letal quando te esmaga.
 
-ent-AirlockHeavyGlass = porta corta-fogo de vidro pesada
+ent-AirlockHeavyGlass = airlock de vidro pesada
     .desc = Abre, fecha, e talvez te esmague. Um modelo mais blindado e avançado, para uso em aplicações industriais pesadas e militares. Abertura mais rápida e suave, mais força, e mais letal quando te esmaga.
 
 # From: _Mono/Entities/Structures/Doors/Airlocks/heavy_assembly.yml
@@ -6578,24 +6578,32 @@ ent-GunneryServerBase = server de controle de armamentos
     .desc = Gerencia a operação remota de armas de navio.
 
 ent-GunneryServerHigh = servidor de controle de artilharia de alta potência
+    .desc = { ent-GunneryServerBase.desc }
 
 ent-GunneryServerLow = servidor de controle de artilharia de baixa potência
+    .desc = { ent-GunneryServerBase.desc }
 
-ent-GunneryServerMedium = servidor de controle de artilharia de potência média
+ent-GunneryServerMedium = servidor de controle de artilharia de média potência
+    .desc = { ent-GunneryServerBase.desc }
 
 ent-GunneryServerOmega = servidor de controle de artilharia de potência ômega
+    .desc = { ent-GunneryServerBase.desc }
 
 ent-GunneryServerStation = servidor de controle de artilharia de estação
+    .desc = { ent-GunneryServerBase.desc }
 
-ent-GunneryServerStationConsolesEnforced = servidor de controle de artilharia de estação
+ent-GunneryServerStationConsolesEnforced = { ent-GunneryServerStation }
     .suffix = Máximo de Consoles Forçado
+    .desc = { ent-GunneryServerStation.desc }
 
-ent-GunneryServerUltra = servidor de controle de artilharia de potência ultra
+ent-GunneryServerUltra = servidor de controle de artilharia de ultra potência
+    .desc = { ent-GunneryServerBase.desc }
 
 # From: _Mono/Entities/Structures/Machines/frames/frame_2x1.yml
 
 ent-MachineFrame2x1 = estrutura de máquina (2x1)
     .suffix = Pronta
+    .desc = { ent-UnfinishedMachineFrame2x1.desc }
 
 ent-MachineFrameDestroyed2x1 = estrutura de máquina destruída (2x1)
 
@@ -6607,6 +6615,7 @@ ent-UnfinishedMachineFrame2x1 = estrutura de máquina (2x1)
 
 ent-MachineFrame2x2 = estrutura de máquina (2x2)
     .suffix = Pronta
+    .desc = { ent-UnfinishedMachineFrame2x2.desc }
 
 ent-MachineFrameDestroyed2x2 = estrutura de máquina destruída (2x2)
 
@@ -6618,6 +6627,7 @@ ent-UnfinishedMachineFrame2x2 = estrutura de máquina (2x2)
 
 ent-MachineFrame3x2 = estrutura de máquina (3x2)
     .suffix = Pronta
+    .desc = { ent-UnfinishedMachineFrame3x2.desc }
 
 ent-MachineFrameDestroyed3x2 = estrutura de máquina destruída (3x2)
 
@@ -6629,6 +6639,7 @@ ent-UnfinishedMachineFrame3x2 = estrutura de máquina (3x2)
 
 ent-MachineFrame3x3 = estrutura de máquina (3x3)
     .suffix = Pronta
+    .desc = { ent-UnfinishedMachineFrame3x3.desc }
 
 ent-MachineFrameDestroyed3x3 = estrutura de máquina destruída (3x3)
 
@@ -6983,7 +6994,7 @@ ent-PlasturaniumWindowRadProofIndestructible = janela de plasturanio
 ent-ReinforcedWindowOutpost = janela reforçada
     .suffix = APENAS OUTPOST
 
-ent-TimedSealsTableSpawner = gerador aleatório de selos temporizados (30-180 minutos)
+ent-TimedSealsTableSpawner = spawner aleatório de selos temporizados (30-180 minutos)
 
 ent-WindowTimedSeal = selo temporizado
     .suffix = 30 Minutos, Indestrutível
@@ -7861,7 +7872,7 @@ ent-WeaponTurretHeavyRIPNanoTrasen = {ent-WeaponTurretHeavyRIPBase}
     .suffix = NanoTrasen
 
 ent-WeaponTurretHeavyRIPSilicon = {ent-WeaponTurretHeavyRIPBase}
-    .suffix = - AI Vampira.
+    .suffix = IA Rogue.
 
 ent-WeaponTurretHeavyRIPSyndicate = {ent-WeaponTurretHeavyRIPBase}
     .suffix = Sindicato
@@ -7876,7 +7887,7 @@ ent-WeaponTurretHeavyRIPViper = {ent-WeaponTurretHeavyRIPBase}
     .suffix = Viper.
 
 ent-WeaponTurretHeavySilicon = {ent-BallisticTurretHeavyBase}
-    .suffix = - AI Vampira.
+    .suffix = IA Rogue.
 
 ent-WeaponTurretHeavySyndicate = {ent-BallisticTurretHeavyBase}
     .suffix = Sindicato
@@ -8179,7 +8190,7 @@ ent-AirlockGlassShuttleSyndicateCapital = {ent-AirlockGlassShuttleSyndicate}
 
 ent-AirlockGlassShuttleSyndicateRogueLockedCapital = {ent-AirlockGlassShuttleSyndicate}
     .desc = {ent-AirlockGlass.desc}
-    .suffix = CAPITAL SOMENTE, Vampira, Trancada
+    .suffix = CAPITAL SOMENTE, Rogue, Trancada
 
 ent-AirlockGlassShuttleUSSPOutpostLocked = {ent-AirlockGlassShuttleSyndicate}
     .desc = {ent-AirlockGlass.desc}
@@ -8203,7 +8214,7 @@ ent-AirlockShuttleSyndicateCapital = {ent-AirlockShuttleSyndicate}
 
 ent-AirlockShuttleSyndicateRogueLockedCapital = {ent-AirlockShuttleSyndicate}
     .desc = {ent-Airlock.desc}
-    .suffix = CAPITAL SOMENTE, Vampira, Trancada
+    .suffix = CAPITAL SOMENTE, Rogue, Trancada
 
 ent-AirlockShuttleUSSPOutpostLocked = {ent-AirlockShuttleSyndicate}
     .desc = {ent-Airlock.desc}
@@ -8324,13 +8335,13 @@ ent-ThrusterLargeNfsd = {ent-ThrusterLarge}
     .suffix = TSFMC
 
 ent-DebugThrusterRogue = {ent-DebugThrusterSecurity}
-    .suffix = DEBUG, Vampira
+    .suffix = DEBUG, Rogue.
 
 ent-ThrusterLargeRogue = {ent-ThrusterLarge}
-    .suffix = Vampira.
+    .suffix = Rogue.
 
 ent-ThrusterRogue = {ent-ThrusterSecurity}
-    .suffix = Vampira.
+    .suffix = Rogue.
 
 ent-DebugThrusterUSSP = {ent-DebugThrusterSecurity}
     .suffix = DEBUG, USSP

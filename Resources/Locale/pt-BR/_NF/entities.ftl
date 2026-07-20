@@ -530,13 +530,13 @@ ent-SpawnMobBloodCultistAscendedSummons = invocação de cultista ascendido
 
 # From: _NF/Entities/Markers/Spawners/Random/cargo.yml
 
-ent-RandomCargoAnimalSpawner = gerador de carga aleatório
+ent-RandomCargoAnimalSpawner = spawner de carga aleatório
     .suffix = Animal
 
-ent-RandomCargoGenericSpawner = gerador de carga aleatório
+ent-RandomCargoGenericSpawner = spawner de carga aleatório
     .suffix = Genérico
 
-ent-RandomCargoSpawner = gerador de carga aleatório
+ent-RandomCargoSpawner = spawner de carga aleatório
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_corpses.yml
 
@@ -995,7 +995,7 @@ ent-SpawnDungeonLootMeleeT5 = arma aleatória
 
 # From: _NF/Entities/Markers/Spawners/Random/generator.yml
 
-ent-RandomDungeonPortableGeneratorSpawner = gerador de gerador portátil aleatório
+ent-RandomDungeonPortableGeneratorSpawner = spawner de gerador portátil aleatório
     .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_aberrant_flesh.yml
@@ -1008,7 +1008,7 @@ ent-SpawnMobAberrantFleshNewbornExpeditions = gerador de carne aberrante recém-
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_argocyte.yml
 
-ent-ArgocyteAISpawner = gerador de argócito
+ent-ArgocyteAISpawner = spawner de argócito
     .suffix = IA, Hostil
 
 ent-SpawnMobArgocyteBig = gerador de argócito
@@ -1177,87 +1177,87 @@ ent-RandomPaintingHalloween = {ent-RandomPainting}
 
 # From: _NF/Entities/Markers/Spawners/Random/parts.yml
 
-ent-SalvagePartsT2Spawner = gerador de peças de máquina t2 de salvamento
+ent-SalvagePartsT2Spawner = spawner de peças de máquina t2 de salvamento
     .suffix = Gerador
 
-ent-SalvagePartsT3Spawner = gerador de peças de máquina t3 de salvamento
+ent-SalvagePartsT3Spawner = spawner de peças de máquina t3 de salvamento
     .suffix = Gerador
 
-ent-SalvagePartsT3T4Spawner = gerador de peças de máquina t3/4 de salvamento
+ent-SalvagePartsT3T4Spawner = spawner de peças de máquina t3/4 de salvamento
     .suffix = Gerador
 
-ent-SalvagePartsT4Spawner = gerador de peças de máquina t4 de salvamento
+ent-SalvagePartsT4Spawner = spawner de peças de máquina t4 de salvamento
     .suffix = Gerador
 
 # From: _NF/Entities/Markers/Spawners/Random/salvage.yml
 
-ent-AndesiteCobblebrickElementalSpawner = Gerador de Elemental de Pedra Ardósia Andesita
+ent-AndesiteCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Andesita
     .suffix = 45
 
-ent-AndesiteElementalSpawner = gerador de elemental de andesito
+ent-AndesiteElementalSpawner = spawner de elemental de andesito
     .suffix = 45
 
-ent-AsteroidRockElementalSpawner = gerador de elemental de rocha de asteroide
+ent-AsteroidRockElementalSpawner = spawner de elemental de rocha de asteroide
     .suffix = 45
 
-ent-AsteroidScrapBotSpawner = gerador de robô de sucata de asteroide
+ent-AsteroidScrapBotSpawner = spawner de robô de sucata de asteroide
 
-ent-AsteroidScrapBotWallSpawner = gerador de rocha de robô de sucata de asteroide
+ent-AsteroidScrapBotWallSpawner = spawner de rocha de robô de sucata de asteroide
     .suffix = 45
 
-ent-BasaltCobblebrickElementalSpawner = Gerador de Elemental de Pedra Ardósia Basalto
+ent-BasaltCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Basalto
     .suffix = 45
 
-ent-BasaltElementalSpawner = gerador de elemental de basalto
+ent-BasaltElementalSpawner = spawner de elemental de basalto
     .suffix = 45
 
-ent-ChromiteCobblebrickElementalSpawner = Gerador de Elemental de Pedra Ardósia Cromita
+ent-ChromiteCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Cromita
     .suffix = 45
 
-ent-ChromiteElementalSpawner = gerador de elemental de cromita
+ent-ChromiteElementalSpawner = spawner de elemental de cromita
     .suffix = 45
 
-ent-CobblebrickElementalSpawner = Gerador de Elemental de Pedra Ardósia
+ent-CobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia
     .suffix = 45
 
-ent-IceElementalSpawner = Gerador de Elemental de Gelo
+ent-IceElementalSpawner = spawner de Elemental de Gelo
     .suffix = 45
 
-ent-NecropolisElementalSpawner = Gerador de Elemental da Necrópole
+ent-NecropolisElementalSpawner = spawner de Elemental da Necrópole
     .suffix = 45
 
-ent-NFSalvageMaterialCrateSpawner = Gerador de Caixa de Materiais de Salvamento
+ent-NFSalvageMaterialCrateSpawner = spawner de Caixa de Materiais de Salvamento
 
 ent-NFSalvageMobSpawner = {ent-SalvageMobSpawner}
     .suffix = 95
 
 ent-RandomBook = gerador de livro aleatório
 
-ent-RockElementalSpawner = gerador de elemental de rocha
+ent-RockElementalSpawner = spawner de elemental de rocha
     .suffix = 45
 
-ent-SalvageBrassFurnitureSpawner = gerador de móveis de latão aleatórios de salvamento
+ent-SalvageBrassFurnitureSpawner = spawner de móveis de latão aleatórios de salvamento
 
-ent-SalvageFurnitureSpawner = gerador de móveis aleatórios de salvamento
+ent-SalvageFurnitureSpawner = spawner de móveis aleatórios de salvamento
 
-ent-SalvageGeneratorSpawner = gerador de gerador de salvamento
+ent-SalvageGeneratorSpawner = spawner de gerador de salvamento
 
-ent-SalvageHandheldFlagSpawner = gerador de bandeira portátil de salvamento
+ent-SalvageHandheldFlagSpawner = spawner de bandeira portátil de salvamento
 
-ent-SalvageLockerSpawner = gerador de armário de salvamento
+ent-SalvageLockerSpawner = spawner de armário de salvamento
 
-ent-SalvageSuitStorageSpawner = gerador de armazenamento de macacão de salvamento
+ent-SalvageSuitStorageSpawner = spawner de armazenamento de macacão de salvamento
 
 ent-SalvageTankSpawnerHighCapacity = gerador de tanque de salvamento
     .suffix = Alta Capacidade, 95%
 
-ent-SandElementalSpawner = gerador de elemental de areia
+ent-SandElementalSpawner = spawner de elemental de areia
     .suffix = 45
 
-ent-SandstoneCobblebrickElementalSpawner = Gerador de Elemental de Pedra Ardósia Arenito
+ent-SandstoneCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Arenito
     .suffix = 45
 
-ent-SnowElementalSpawner = gerador de elemental de neve
+ent-SnowElementalSpawner = spawner de elemental de neve
     .suffix = 45
 
 ent-SpawnVehicleAntagVehicle = Gerador de Veículo Antagônico
@@ -2915,20 +2915,20 @@ ent-VendingMachineMedicalFlatpack = flatpack de nanomed plus
 ent-VendingMachineNutriFlatpack = flatpack de nutrimax
     .desc = Um flatpack usado para construir uma nutrimax.
 
-ent-VendingMachineSeedsUnlockedFlatpack = kit plano de megasementes
-    .desc = Um kit plano usado para construir um vending machine de megasementes.
+ent-VendingMachineSeedsUnlockedFlatpack = flatpack de megasementes
+    .desc = Um flatpack usado para construir um vending machine de megasementes.
 
-ent-VendingMachineSyndieContrabandFlatpack = kit plano de contravendo
-    .desc = Um kit plano usado para construir um vending machine de contravendo.
+ent-VendingMachineSyndieContrabandFlatpack = flatpack de contravendo
+    .desc = Um flatpack usado para construir um vending machine de contravendo.
 
-ent-VendingMachineWallMedicalFlatpack = kit plano de nanomed
-    .desc = Um kit plano usado para construir um vending machine nanomed.
+ent-VendingMachineWallMedicalFlatpack = flatpack de nanomed
+    .desc = Um flatpack usado para construir um vending machine nanomed.
 
-ent-VibraphoneInstrumentFlatpack = kit plano de vibrafone
-    .desc = Um kit plano contendo um vibrafone.
+ent-VibraphoneInstrumentFlatpack = flatpack de vibrafone
+    .desc = Um flatpack contendo um vibrafone.
 
-ent-WeaponCapacitorRechargerFlatpack = kit plano de recarregador
-    .desc = Um kit plano usado para construir um recarregador.
+ent-WeaponCapacitorRechargerFlatpack = flatpack de recarregador
+    .desc = Um flatpack usado para construir um recarregador.
 
 # From: _NF/Entities/Objects/Devices/holoprojectors.yml
 
@@ -5436,8 +5436,8 @@ ent-SpawnMobKoboldYipyip = Gerador de Yip Yip
 
 # From: _NF/Entities/Stations/nanotrasen.yml
 
-ent-StandardFrontierStation =
-    .suffix = DEBUG
+# ent-StandardFrontierStation =
+#     .suffix = DEBUG
 
 # From: _NF/Entities/Structures/atm.yml
 # Abstract entity (referenceable by children)
@@ -5750,7 +5750,7 @@ ent-WindoorSecureMercenaryLocked = {ent-WindoorSecure}
 # From: _NF/Entities/Structures/Dungeon/airlocks.yml
 # Abstract entity (referenceable by children)
 
-ent-AirlockGlassMurkyDungeon =
+ent-AirlockGlassMurkyDungeon = { ent-AirlockGlass }
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Um airlock com janelas de vidro turvo, é difícil ver o que tem do outro lado.
 
@@ -5763,20 +5763,20 @@ ent-GrilleDungeon = {ent-Grille}
 # From: _NF/Entities/Structures/Dungeon/windoor.yml
 # Abstract entity (referenceable by children)
 
-ent-WindoorMurkyDungeon =
+ent-WindoorMurkyDungeon = { ent-Windoor }
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma porta-vidro com vidro turvo, é difícil ver o que tem do outro lado.
 
 # From: _NF/Entities/Structures/Dungeon/windows.yml
 # Abstract entity (referenceable by children)
 
-ent-WindowDirectionalMurkyDungeon =
+ent-WindowDirectionalMurkyDungeon = { ent-WindowDirectional }
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma janela de vidro turvo, é difícil ver o que tem do outro lado.
 
 # Abstract entity (referenceable by children)
 
-ent-WindowMurkyDungeon =
+ent-WindowMurkyDungeon = { ent-Window }
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma janela de vidro turvo, é difícil ver o que tem do outro lado.
 
@@ -5784,128 +5784,164 @@ ent-WindowMurkyDungeon =
 
 ent-AltarFrameNF = moldura de altar
     .suffix = Inacabado
-    .desc = Altar dos Deuses. Meiooco para ser honesto.
+    .desc = Altar dos Deuses. Meio oco para ser honesto.
 
 # From: _NF/Entities/Structures/Furniture/altar.yml
 
 ent-AltarMail = altar de correios
+    .desc = { ent-AltarBase.desc }
 
 # From: _NF/Entities/Structures/Furniture/Armory/base_weapon_rack.yml
 
-ent-StructureGunRack = rack de armas
+ent-StructureGunRack = rack de armas de fogo
     .suffix = Vazio
+    .desc = { ent-StructureWeaponRackBase.desc }
 
-ent-StructureGunRackWallmounted = {ent-StructureGunRack}
+ent-StructureGunRackWallmounted = rack de parede de armas de fogo
     .suffix = Vazio, MontagemNaParede
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureMeleeWeaponRack = rack de armas corpo a corpo
     .suffix = Vazio
+    .desc = { ent-StructureWeaponRackBase.desc }
 
-ent-StructureMeleeWeaponRackWallmounted = {ent-StructureMeleeWeaponRack}
+ent-StructureMeleeWeaponRackWallmounted = rack de parede de armas corpo a corpo
     .suffix = Vazio, MontagemNaParede
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRack = rack de armas secundárias
     .suffix = Vazio
+    .desc = { ent-StructureWeaponRackBase.desc }
 
 # Abstract entity (referenceable by children)
 
-ent-StructurePistolRackLock = rack de armas de defesa pessoal
+ent-StructurePistolRackLock = { ent-StructurePistolRack }
+    .desc = { ent-StructurePistolRack.desc }
 
-ent-StructurePistolRackWallmounted = {ent-StructurePistolRack}
+ent-StructurePistolRackWallmounted = rack de parede de armas secundárias
     .suffix = Vazio, MontagemNaParede
+    .desc = { ent-StructurePistolRack.desc }
 
 # Abstract entity (referenceable by children)
 
 ent-StructureWeaponRackBase = rack de armas
-    .desc = Uma unidade de armazenamento para medidas de pacificação aceleradas.
+    .desc = Uma unidade de armazenamento para medidas de pacificação expedicionadas.
 
 # From: _NF/Entities/Structures/Furniture/Armory/weapon_racks_filled.yml
 
 ent-StructureMeleeWeaponRackBloodCultFilled = {ent-StructureMeleeWeaponRack}
     .suffix = CultoSanguíneo, Preenchido
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedSalvageFilled = {ent-StructureMeleeWeaponRack}
     .suffix = Salvamento, Preenchido, MontagemNaParede
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRackPiratesFilled = {ent-StructurePistolRack}
     .suffix = Pirata, Preenchido
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedMercenaryFilled = {ent-StructurePistolRack}
     .suffix = Masmorra, Mercenário, Preenchido, MontagemNaParede
+    .desc = { ent-StructurePistolRack.desc }
 
 # From: _NF/Entities/Structures/Furniture/Armory/weapon_racks.yml
 
 ent-StructureGunRackMercenary = {ent-StructureGunRack}
     .suffix = Mercenário, Vazio
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackNfsd = {ent-StructureGunRack}
     .suffix = TSFMC, Vazio
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackSalvage = {ent-StructureGunRack}
     .suffix = Salvamento, Vazio
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedMercenary = {ent-StructureGunRack}
     .suffix = Mercenário, Vazio, MontagemNaParede
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedNfsd = {ent-StructureGunRack}
     .suffix = TSFMC, Vazio, MontagemNaParede
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedSalvage = {ent-StructureGunRack}
     .suffix = Salvamento, Vazio, MontagemNaParede
+    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureMeleeWeaponRackBloodCult = {ent-StructureMeleeWeaponRack}
     .suffix = CultoSanguíneo, Vazio
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackMercenary = {ent-StructureMeleeWeaponRack}
     .suffix = Mercenário, Vazio
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackNfsd = {ent-StructureMeleeWeaponRack}
     .suffix = TSFMC, Vazio
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackSalvage = {ent-StructureMeleeWeaponRack}
     .suffix = Salvamento, Vazio
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedMercenary = {ent-StructureMeleeWeaponRack}
     .suffix = Mercenário, Vazio, MontagemNaParede
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedNfsd = {ent-StructureMeleeWeaponRack}
     .suffix = TSFMC, Vazio, MontagemNaParede
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedSalvage = {ent-StructureMeleeWeaponRack}
     .suffix = Salvamento, Vazio, MontagemNaParede
+    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRackLockSheriff = {ent-StructurePistolRackLock}
     .suffix = Coronel, Vazio
+    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackLockSheriffWallmounted = {ent-StructurePistolRackLock}
     .suffix = Coronel, Vazio, MontagemNaParede
+    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackLockSR = {ent-StructurePistolRackLock}
     .suffix = SR, Vazio
+    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackLockSRWallmounted = {ent-StructurePistolRackLock}
     .suffix = SR, Vazio, MontagemNaParede
+    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackMercenary = {ent-StructurePistolRack}
     .suffix = Mercenário, Vazio
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackNfsd = {ent-StructurePistolRack}
     .suffix = TSFMC, Vazio
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackPirates = {ent-StructurePistolRack}
     .suffix = Pirata, Vazio
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackSalvage = {ent-StructurePistolRack}
     .suffix = Salvamento, Vazio
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedMercenary = {ent-StructurePistolRack}
     .suffix = Mercenário, Vazio, MontagemNaParede
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedNfsd = {ent-StructurePistolRack}
     .suffix = TSFMC, Vazio, MontagemNaParede
+    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedSalvage = {ent-StructurePistolRack}
     .suffix = Salvamento, Vazio, MontagemNaParede
+    .desc = { ent-StructurePistolRack.desc }
 
 # From: _NF/Entities/Structures/Furniture/bedroll.yml
 
@@ -5917,12 +5953,15 @@ ent-NFBedroll = colchão
 
 ent-NFBedrollAlt = {ent-NFBedroll}
     .suffix = alt
+    .desc = {ent-NFBedroll.desc}
 
 ent-NFBedrollAltFolded = {ent-NFBedroll}
     .suffix = dobrado, alt
+    .desc = {ent-NFBedroll.desc}
 
 ent-NFBedrollFolded = {ent-NFBedroll}
     .suffix = dobrado
+    .desc = {ent-NFBedroll.desc}
 
 ent-NFBedrollStained = {ent-NFBedroll}
     .suffix = Manchado
@@ -5930,6 +5969,7 @@ ent-NFBedrollStained = {ent-NFBedroll}
 
 ent-NFBedrollStainedFolded = {ent-NFBedroll}
     .suffix = dobrado, manchado
+    .desc = {ent-NFBedrollStained.desc}
 
 # From: _NF/Entities/Structures/Furniture/chairs.yml
 # Abstract entity (referenceable by children)
@@ -5939,35 +5979,45 @@ ent-ChairWoodFancyBase = cadeira de madeira elegante
 
 ent-ChairWoodFancyBlack = {ent-ChairWoodFancyBase}
     .suffix = Preto
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyBlue = {ent-ChairWoodFancyBase}
     .suffix = Azul
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyCyan = {ent-ChairWoodFancyBase}
     .suffix = Ciano
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyGreen = {ent-ChairWoodFancyBase}
     .suffix = Verde
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyOrange = {ent-ChairWoodFancyBase}
     .suffix = Laranja
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyPink = {ent-ChairWoodFancyBase}
     .suffix = Rosa
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyPurple = {ent-ChairWoodFancyBase}
     .suffix = Roxo
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyRed = {ent-ChairWoodFancyBase}
     .suffix = Vermelho
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 ent-ChairWoodFancyWhite = {ent-ChairWoodFancyBase}
     .suffix = Branco
+    .desc = {ent-ChairWoodFancyBase.desc}
 
 # From: _NF/Entities/Structures/Furniture/icebox.yml
 
 ent-Icebox = caixa de gelo
     .suffix = Gelo
+    .desc = {ent-IceboxEmpty.desc}
 
 ent-IceboxEmpty = caixa de gelo
     .desc = Esta máquina deliciosa está lentamente enchendo com gelo!
@@ -6666,15 +6716,15 @@ ent-VendingMachineYouToolPOI = {ent-VendingMachineYouTool}
 # From: _NF/Entities/Structures/Piping/Atmospherics/binary.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseGaslock = gás-lock
+ent-BaseGaslock = doca de gás
 
 # Abstract entity (referenceable by children)
 
-ent-BasePressurePumpGaslock = gás-lock externo
-    .desc = Conecta tubulações de gás em navios ou estações separados para permitir transferência de gás. Ambos os lados devem estar atracados e bombeando na mesma direção para aceitar fluxo.
+ent-BasePressurePumpGaslock = doca de gás externa
+    .desc = Conecta tubulações de gás em naves ou estações separadas para permitir transferência de gás. Ambos os lados devem estar atracados e bombeando na mesma direção para aceitar fluxo.
 
-ent-GaslockFrame = gás-lock portátil
-    .desc = Bombeia gás através. Aceita atracação, mas não pode atracar. Ambos os lados devem estar atracados e bombeando na mesma direção para o gás fluir.
+ent-GaslockFrame = doca de gás portátil
+    .desc = Bombeia gás. Aceita atracação, mas não pode atracar. Ambos os lados devem estar atracados e bombeando na mesma direção para o gás fluir.
 
 ent-GasPressurePumpOn = {ent-GasPressurePump}
     .suffix = Ligado
@@ -7666,7 +7716,7 @@ ent-IntercomNfsd = {ent-BaseIntercom}
 
 ent-NoticeBoardNF = quadro de avisos
     .suffix = Frontier
-    .desc = Você gostaria de poder usar isto nas suas costas mas ai.
+    .desc = Você gostaria de poder usar isso nas suas costas, mas infelizmente...
 
 # From: _NF/Entities/Structures/Wallmounts/shelfs.yml
 
@@ -7678,6 +7728,7 @@ ent-ShelfRWoodSecurity = {ent-ShelfRWood}
 
 ent-ShelfWallFreezerDark = freezer de parede
     .suffix = Frontier, Escuro
+    .desc = Um lugar conveniente para armazenar perecíveis.
 
 ent-ShelfWallFreezerWhite = freezer de parede
     .suffix = Frontier, Branco
@@ -11256,7 +11307,7 @@ ent-ClothingShoesBootsMagSecurity = botas magnéticas de segurança
 ent-ActionToggleMoonBoots = Alternar Botas Lunares
     .desc = Alterna as botas lunares ligadas e desligadas.
 
-ent-ClothingShoesClothwrap = envoltórios de pano para os pés
+ent-ClothingShoesClothwrap = envoltórios de pés de pano
     .desc = Um rolo de lona tratada usado para envolver pés ou patas.
 
 ent-NFClothingShoesBootsMoon = botas lunares
