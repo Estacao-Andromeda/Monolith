@@ -385,7 +385,7 @@ ent-TrialTimer = cronômetro de julgamento
 # From: _DV/Entities/Objects/Specific/Service/vending_machine_restock.yml
 
 ent-VendingMachineRestockPride = caixa de reposição Pride-O-Mat
-    .desc = A estação precisa de mais tubarões de pelúcia e você sabe disso. Um rótulo diz \"A CAIXA É À PROVA DE VIOLAÇÃO E DESTRUIRÁ SEU CONTEÚDO SE FOR DANIFICADA.\"
+    .desc = A estação precisa de mais tubarões de pelúcia e você sabe disso. Um rótulo diz A CAIXA É À PROVA DE VIOLAÇÃO E DESTRUIRÁ SEU CONTEÚDO SE FOR DANIFICADA.
 
 # From: _DV/Entities/Objects/Specific/Species/chitinid.yml
 
@@ -422,7 +422,7 @@ ent-WeaponEnergyGunMultiphase = arma de energia multifásica LWC X-01
 
 # From: _DV/Entities/Objects/Weapons/Guns/Pistols/pistols.yml
 
-ent-WeaponPistolMk32 = MA Mk32 \"Universal\" (9x19mm)
+ent-WeaponPistolMk32 = MA Mk32 Universal (9x19mm)
     .desc = Uma arma de porte barata, de nível civil, onipresente, produzida pela Midnight Arms Co. Embora compartilhe semelhanças com a MK58, foi totalmente melhorada em relação à sua contraparte da Guerra Corporativa. Usa munição 9x19mm.
 
 ent-WeaponPistolPollock = LWC C17 Pollock (9x19mm)
@@ -449,8 +449,8 @@ ent-WeaponRevolverLucky = Lucky 37 (.45 magnum)
 ent-WeaponRifleJackdaw = CS CAWS-25 Jackdaw (635x40mm)
     .desc = O começo do fim é anunciado pela canção de uma Jackdaw. Usa munição 6.35x40mm sem estojo.
 
-ent-WeaponRifleVulcan = HWM FCM \"Vulcan\" (7.62x51mm)
-    .desc = Uma das armas pequenas mais pesadas a abençoar o arsenal de Segurança, o FCM (Fusil de Combat Moyen) \"Vulcan\" da Herstal Weapon Manufacture, este rifle é uma versão moderna de um clássico, informalmente apelidado de \"Braço Direito do Mundo Livre\". Usa munição 7.62x51mm.
+ent-WeaponRifleVulcan = HWM FCM "Vulcan" (7.62x51mm)
+    .desc = Uma das armas pequenas mais pesadas a abençoar o arsenal de Segurança, o FCM (Fusil de Combat Moyen) "Vulcan" da Herstal Weapon Manufacture, este rifle é uma versão moderna de um clássico, informalmente apelidado de "Braço Direito do Mundo Livre". Usa munição 7.62x51mm.
 
 ent-WeaponSniperCeremonial = rifle cerimonial (7.62x51mm)
     .desc = Uma variante cerimonial do Rifle Mark 1, em azul e branco de bom gosto. Usa munição 7.62x51mm.

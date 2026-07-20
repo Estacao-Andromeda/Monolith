@@ -235,7 +235,7 @@ ghost-role-information-syndicate-kobold-reinforcement-description = Alguém prec
 
 ghost-role-information-syndicate-cyborg-assault-name = Ciborgue de Assalto do Sindicato
 ghost-role-information-syndicate-cyborg-saboteur-name = Ciborgue Sabotador do Sindicato
-ghost-role-information-syndicate-cyborg-description = O Sindicato precisa de reforços. Você, uma máquina de matar de silício frio, os ajudará.
+ghost-role-information-syndicate-cyborg-description = O Sindicato precisa de reforços. Você, um silício frio - uma máquina de matar - os ajudará.
 
 ghost-role-information-derelict-cyborg-name = Ciborgue Abandonado
 ghost-role-information-derelict-cyborg-description = Você é um ciborgue comum que se perdeu no espaço. Após anos de exposição a tempestades iônicas você se encontra perto de uma estação espacial.

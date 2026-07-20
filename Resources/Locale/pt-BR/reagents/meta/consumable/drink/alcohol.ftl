@@ -19,7 +19,7 @@ reagent-desc-dead-rum = Bebida alcoólica destilada feita de água salgada.
 reagent-name-ethanol = etanol
 reagent-desc-ethanol = Um álcool simples, deixa você bêbado se consumido, inflamável.
 
-reagent-name-gin = gim
+reagent-name-gin = gin
 reagent-desc-gin = Uma bebida alcoólica destilada que deriva seu sabor predominante de bagas de zimbro.
 
 reagent-name-coffeeliqueur = licor de café
@@ -136,10 +136,10 @@ reagent-desc-erika-surprise = A surpresa é, é verde!
 reagent-name-gargle-blaster = Gargalhadeira Pan-Galáctica
 reagent-desc-gargle-blaster = Uau, essa coisa parece volátil!
 
-reagent-name-gin-fizz = gim fizz
+reagent-name-gin-fizz = gin com gás
 reagent-desc-gin-fizz = Refrescantemente limonado, deliciosamente seco.
 
-reagent-name-gin-tonic = gim tônica
+reagent-name-gin-tonic = gin tônica
 reagent-desc-gin-tonic = Um clássico de todos os tempos, coquetel suave.
 
 reagent-name-gildlager = Gildlager
@@ -173,7 +173,7 @@ reagent-name-long-island-iced-tea = chá gelado de Long Island
 reagent-desc-long-island-iced-tea = O armário de licores, reunidos numa mistura deliciosa. Intencionado apenas para mulheres alcoólatras de meia-idade.
 
 reagent-name-manhattan = Manhattan
-reagent-desc-manhattan = A bebida disfarçada de escolha do Detetive. Ele nunca conseguiu aguentar gim...
+reagent-desc-manhattan = A bebida disfarçada de escolha do Detetive. Ele nunca conseguiu aguentar gin...
 
 reagent-name-manhattan-project = Projeto Manhattan
 reagent-desc-manhattan-project = Uma bebida de escolha do cientista, para ponderar maneiras de explodir a nave.
@@ -188,7 +188,7 @@ reagent-name-the-martinez = O Martinez
 reagent-desc-the-martinez = A lenda do edgerunner. Lembrado por uma bebida, esquecido por um bêbado.
 
 reagent-name-martini = martini clássico
-reagent-desc-martini = Vermute com Gim. Não é bem como 007 gostava, mas ainda delicioso.
+reagent-desc-martini = Vermute com Gin. Não é bem como 007 gostava, mas ainda delicioso.
 
 reagent-name-mead = hidromel
 reagent-desc-mead = Uma bebida Viking, embora barata.
@@ -248,13 +248,13 @@ reagent-name-three-mile-island = chá gelado Three Mile Island
 reagent-desc-three-mile-island = "Feito para uma mulher, forte o suficiente para um homem."
 
 reagent-name-toxins-special = especial toxinas
-reagent-desc-toxins-special = Isso está PEGANDO FOGO! CHAME O DAMN SHUTTLE!
+reagent-desc-toxins-special = Isso TÁ PEGANDO FOGO! CHAMA EVAC
 
 reagent-name-vodka-martini = martini de vódca
-reagent-desc-vodka-martini = Vódca em vez de Gim. Não é bem como 007 gostava, mas ainda delicioso.
+reagent-desc-vodka-martini = Vódca ao invés de gin. Não é bem como 007 gostava, mas ainda delicioso.
 
 reagent-name-vodka-tonic = vódca tônica
-reagent-desc-vodka-tonic = Para quando uma gim tônica não é russa o suficiente.
+reagent-desc-vodka-tonic = Pra quando uma gin tônica não é russa o suficiente.
 
 reagent-name-whiskey-cola = uísque cola
 reagent-desc-whiskey-cola = Uísque, misturado com cola. Surpreendentemente refrescante.

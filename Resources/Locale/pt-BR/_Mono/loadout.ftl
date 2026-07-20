@@ -9,3 +9,4 @@ loadout-group-ussp-jumpsuit = Jumpsuit USSP
 loadout-group-ussp-head = Vestimenta de Cabeça USSP
 loadout-group-ussp-outerclothing = Vestimenta Externa USSP
 loadout-group-ussp-backpack = Mochila USSP
+loadout-group-chatrank = Rank

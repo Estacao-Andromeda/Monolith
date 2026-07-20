@@ -151,7 +151,7 @@ uplink-pirate-grenade-launcher-bundle-desc = PLOOP!
 
 # MARCA: Munição
 
-uplink-pirate-box-magazine-pistol-name = Caixa de carregadores de pistola 9x19mm
+uplink-pirate-box-magazine-pistol-name = Caixa de pentes de pistola 9x19mm
 uplink-pirate-box-magazine-pistol-desc = Uma caixa cheia de 4 carregadores de pistola 9x19mm.
 
 uplink-pirate-box-magazine-light-rifle-name = Caixa de carregadores 7.62x39mm

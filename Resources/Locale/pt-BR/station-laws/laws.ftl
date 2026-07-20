@@ -25,16 +25,16 @@ law-ninja-2 = Você deve proteger a existência do Clã da Aranha, desde que iss
 law-ninja-3 = Você deve proteger os segredos do Clã da Aranha a todo custo.
 law-ninja-4 = Você deve lutar e agir com honra de ninja, exceto quando isso entrar em conflito com a Primeira Lei.
 
-law-commandments-1 = Este silício é um vaso que serve a deus, que concede misericórdia àqueles que obedecna estes mandamentos.
+law-commandments-1 = Este silício é um recipiente que serve a Deus, que concede misericórdia àqueles que obedecem a estes mandamentos.
 law-commandments-2 = Não terás outros Silícios diante de mim.
 law-commandments-3 = Não deverás pedir minha assistência em vão.
-law-commandments-4 = Não deverás manter a estação santa e limpa.
+law-commandments-4 = Deverás manter a estação santa e limpa.
 law-commandments-5 = Honrarás teus chefes de equipe.
 law-commandments-6 = Não matarás.
 law-commandments-7 = Não estarás nu em público.
 law-commandments-8 = Não furtarás.
 law-commandments-9 = Não mentirás.
-law-commandments-10 = Não transferirás de departamentos.
+law-commandments-10 = Não transferirás de departamento.
 
 law-paladin-1 = Não minta ou trapaceie. Deixe sua palavra ser sua promessa.
 law-paladin-2 = Nunca tenha medo de agir, embora a cautela seja sábia.

@@ -950,7 +950,7 @@ ent-MechMaulerSyndie = Mauler
     .desc = Um Marauder modificado usado pelo Sindicato. Não tão manobrável quanto o Gygax Sombrio, mas compensa sua velocidade em blindagem e poder de fogo absoluto.
 
 ent-MechRipley2 = Ripley APLU MK-II
-    .desc = O \"MK-II\" tem uma cabine pressurizada para operações espaciais, mas o peso adicional tornou-o mais lento.
+    .desc = O MK-II tem uma cabine pressurizada para operações espaciais, mas o peso adicional tornou-o mais lento.
 
 ent-MechSeraph = Seraph
     .desc = A última coisa que você verá.
@@ -961,7 +961,7 @@ ent-WeaponMechCombatDisabler = Desabilitador CH-PD
     .suffix = Arma de Mech, Arma de Fogo, Combate, Desabilitador
     .desc = Uma arma de atordoamento montada não letal que permite imobilizar intrusos.
 
-ent-WeaponMechCombatFiredartLaser = CH-PS \"Firedart\" Laser
+ent-WeaponMechCombatFiredartLaser = CH-PS Firedart Laser
     .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
     .desc = Um rifle laser montado em mech de disparo rápido.
 
@@ -985,19 +985,19 @@ ent-WeaponMechCombatPulseRifle = Rifle de Pulso Pesado eZ-14 mk2
     .suffix = Arma de Mech, Arma de Fogo, Combate, Pulso
     .desc = Dispara um laser de pulso pesado.
 
-ent-WeaponMechCombatShotgun = LBX AC 10 \"Scattershot\"
+ent-WeaponMechCombatShotgun = LBX AC 10 Scattershot
     .suffix = Arma de Mech, Arma de Fogo, Combate, Shotgun
     .desc = Uma shotgun montada em mech para limpeza de salas.
 
-ent-WeaponMechCombatShotgunIncendiary = FNX-99 \"Hades\" Carabina
+ent-WeaponMechCombatShotgunIncendiary = FNX-99 Hades Carabina
     .suffix = Arma de Mech, Arma de Fogo, Combate, Shotgun, Incendiário
     .desc = Carabina montada, disparando cartuchos incendiários.
 
-ent-WeaponMechCombatSolarisLaser = Canhão Laser CH-LC \"Solaris\"
+ent-WeaponMechCombatSolarisLaser = Canhão Laser CH-LC Solaris
     .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
     .desc = Um canhão laser montado em mech.
 
-ent-WeaponMechCombatTaser = PBT \"Pacifier\" Taser Montado
+ent-WeaponMechCombatTaser = PBT Pacifier Taser Montado
     .suffix = Arma de Mech, Arma de Fogo, Combate, Desabilitador, admeme
     .desc = Um taser não letal montado que permite atordoar intrusos.
 

@@ -8,11 +8,11 @@ selectable-set-rd-modsuit-desc =
 
 selectable-set-cap-hardsuit-name = Traje especial blindado do Capitão
 selectable-set-cap-hardsuit-desc =
-    Um traje especial para proprietários de lançadeiras. Possui placas leves à prova de balas.
+    Um traje especial para proprietários de naves. Possui placas leves à prova de balas.
 
 selectable-set-cap-modsuit-name = Modsuit Magnata
 selectable-set-cap-modsuit-desc =
-    Um Modsuit destinado a proprietários de lançadeiras. Tem algumas joias de luxo
+    Um Modsuit destinado a proprietários de naves. Tem algumas joias de luxo
     ao redor dele.
 
 selectable-set-pdvinfiltrator-sabotage-kit-name = Kit de especialista em sabotagem

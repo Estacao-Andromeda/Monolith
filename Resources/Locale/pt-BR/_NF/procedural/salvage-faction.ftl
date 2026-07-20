@@ -7,5 +7,5 @@ salvage-faction-argocytes = Argócitos
 salvage-faction-dinosaurs = Dinossauros
 salvage-faction-mercenaries = Mercenários
 salvage-faction-explorers = Exploradores
-salvage-faction-silicons = Silício Selvagem
+salvage-faction-silicons = Silício Rebelde
 salvage-faction-punks = Punks

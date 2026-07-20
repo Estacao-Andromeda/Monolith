@@ -46,7 +46,7 @@ reagent-desc-phosphorus = Um metal reativo usado em pirotecnia e armas.
 reagent-name-radium = rádio
 reagent-desc-radium = Um metal radioativo, branco-prateado em sua forma pura. Brilha devido à sua radioatividade e é altamente tóxico.
 
-reagent-name-silicon = silício
+reagent-name-silicon = silicone
 reagent-desc-silicon = Um sólido cristalino duro e quebradiço com cor azul-cinza.
 
 reagent-name-silver = prata

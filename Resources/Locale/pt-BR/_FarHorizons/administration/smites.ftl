@@ -1,6 +1,6 @@
 ## Smite names
 
-admin-smite-become-fuelrod-name = Tornar-se Vareta de Combustível
+admin-smite-become-fuelrod-name = Tornar-se Combustível
 
 ## Smite descriptions
 

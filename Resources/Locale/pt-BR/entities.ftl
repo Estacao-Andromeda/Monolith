@@ -808,7 +808,7 @@ ent-BoxMagazine12_gaugeIncendiary = caixa de tambores de munição (calibre 12 i
 ent-BoxMagazine12_gaugeSlug = caixa de tambores de munição (calibre 12 balote)
     .desc = Uma caixa cheia de tambores de munição (calibre 12 balote).
 
-ent-BoxMagazine45_ACPFMJ = caixa de carregadores de pistola .45 ACP
+ent-BoxMagazine45_ACPFMJ = caixa de pentes de pistola .45 ACP
     .desc = Uma caixa cheia de carregadores de pistola .45 ACP.
 
 ent-BoxMagazine45_ACPPistolHighCapacityFMJ = caixa de carregadores de metralhadora de mão .45 ACP
@@ -817,10 +817,10 @@ ent-BoxMagazine45_ACPPistolHighCapacityFMJ = caixa de carregadores de metralhado
 ent-BoxMagazine45_ACPPistolHighCapacityPractice = caixa de carregadores de metralhadora de mão .45 ACP (prática)
     .desc = Uma caixa cheia de carregadores de metralhadora de mão .45 ACP (prática).
 
-ent-BoxMagazine45_ACPPractice = caixa de carregadores de pistola .45 ACP (prática)
+ent-BoxMagazine45_ACPPractice = caixa de pentes de pistola .45 ACP (prática)
     .desc = Uma caixa cheia de carregadores.
 
-ent-BoxMagazine45_ACPRubber = caixa de carregadores de pistola .45 ACP (borracha)
+ent-BoxMagazine45_ACPRubber = caixa de pentes de pistola .45 ACP (borracha)
     .desc = Uma caixa cheia de carregadores de pistola .45 ACP (borracha).
 
 ent-BoxMagazine45_ACPSubMachineGunEmp = caixa de carregadores de SMG .45 ACP (emp)
@@ -883,7 +883,7 @@ ent-BoxMagazine762x54mmRFMJ = caixa de carregadores 7.62x54mmR
 ent-BoxMagazine8x65mmFMJ = caixa de carregadores 8x65mm
     .desc = Uma caixa cheia de carregadores 8x65mm SKR.
 
-ent-BoxMagazine9x19mmFMJ = caixa de carregadores de pistola 9x19mm
+ent-BoxMagazine9x19mmFMJ = caixa de pentes de pistola 9x19mm
     .desc = Uma caixa cheia de carregadores de pistola 9x19mm.
 
 ent-BoxMagazine9x19mmPistolHighCapacityFMJ = caixa de carregadores de metralhadora de mão 9x19mm
@@ -892,7 +892,7 @@ ent-BoxMagazine9x19mmPistolHighCapacityFMJ = caixa de carregadores de metralhado
 ent-BoxMagazine9x19mmPistolHighCapacityPractice = caixa de carregadores de metralhadora de mão 9x19mm (prática)
     .desc = Uma caixa cheia de carregadores de metralhadora de mão 9x19mm (prática).
 
-ent-BoxMagazine9x19mmPractice = caixa de carregadores de pistola 9x19mm (prática)
+ent-BoxMagazine9x19mmPractice = caixa de pentes de pistola 9x19mm (prática)
     .desc = Uma caixa cheia de carregadores.
 
 ent-BoxMagazine9x19mmSubMachineGunEmp = caixa de carregadores de SMG 9x19mm (emp)
@@ -2931,7 +2931,7 @@ ent-IceCrust = crosta de gelo
 
 # From: Entities/Objects/Misc/identification_cards.yml
 
-ent-AgentIDCard = cartão de ID de contratista
+ent-AgentIDCard = cartão de ID de espaciano
     .suffix = Agente
     .desc = {ent-IDCardStandard.desc}
 
@@ -3044,7 +3044,7 @@ ent-MimeIDCard = cartão de ID de mímico
 ent-MusicianIDCard = cartão de ID de músico
     .desc = {ent-IDCardStandard.desc}
 
-ent-NukieAgentIDCard = cartão de ID de contratista
+ent-NukieAgentIDCard = cartão de ID de espaciano
     .desc = {ent-IDCardStandard.desc}
     .suffix = Nukie
 
@@ -4261,7 +4261,7 @@ ent-JugRadium = {ent-Jug}
 
 ent-JugSilicon = {ent-Jug}
     .desc = { ent-Jug.desc }
-    .suffix = silício
+    .suffix = silicone
 
 ent-JugSilver = {ent-Jug}
     .desc = { ent-Jug.desc }
@@ -9542,7 +9542,7 @@ ent-PottedPlantBioluminscent = planta em vaso bioluminescente
     .desc = Ela produz luz!
 
 ent-PottedPlantRD = planta em vaso do RD
-    .desc = Um presente da equipe botânica, apresentado após a reatribuição do RD. Há uma etiqueta que diz \"Voltem sempre, ouviram?\"\nNão parece muito saudável...
+    .desc = Um presente da equipe botânica, apresentado após a reatribuição do RD. Há uma etiqueta que diz Voltem sempre, ouviram?\nNão parece muito saudável...
 
 # From: Entities/Structures/Furniture/rollerbeds.yml
 
@@ -11831,22 +11831,22 @@ ent-SubstationWallBasic = {ent-BaseSubstationWall}
 
 ent-ShuttleGunBase = canhão de navette
 
-ent-ShuttleGunDuster = EXP-2100g \"Duster\"
+ent-ShuttleGunDuster = EXP-2100g Duster
     .desc = Um poderoso lança-granadas estacionário. Um cartucho é necessário para uso.
 
-ent-ShuttleGunFriendship = EXP-320g \"Friendship\"
+ent-ShuttleGunFriendship = EXP-320g Friendship
     .desc = Um pequeno lança-granadas estacionário que segura 2 granadas.
 
-ent-ShuttleGunKinetic = PTK-1500e \"Matter Dematerializer\"
+ent-ShuttleGunKinetic = PTK-1500e Matter Dematerializer
     .desc = Torre de mineração, eficaz para explodir alvos endurecidos. Tem alcance considerável mas cadência menor.
 
-ent-ShuttleGunPerforator = LSE-1200c \"Perforator\"
+ent-ShuttleGunPerforator = LSE-1200c Perforator
     .desc = Unidade laser estacionária avançada. Aniquila eletrônicos e é extremamente perigosa para a saúde! Usa a cápsula de energia para disparar.
 
 ent-ShuttleGunPirateCannon = canhão de navio pirata
     .desc = Cabum!
 
-ent-ShuttleGunSvalinnMachineGun = LSE-400c \"Svalinn machine gun\"
+ent-ShuttleGunSvalinnMachineGun = LSE-400c Svalinn machine gun
     .desc = Unidade laser estacionária básica. Eficaz contra alvos vivos e eletrônicos. Usa células de energia regulares para disparar, e tem uma cadência extremamente alta.
 
 # From: Entities/Structures/Shuttles/station_anchor.yml
@@ -12775,7 +12775,7 @@ ent-WeldingFuelTankFull = {ent-WeldingFuelTank}
 
 ent-WeldingFuelTankHighCapacity = tanque de combustível de alta capacidade
     .suffix = Cheio
-    .desc = Um tanque de combustível altamente pressurizado feito para armazenar quantidades gigantescas de combustível de soldagem.
+    .desc = Um tanque de combustível altamente pressurizado feito para armazenar quantidades gigantescas de combustível de solda.
 
 # From: Entities/Structures/Wallmounts/air_alarm.yml
 
@@ -12853,7 +12853,7 @@ ent-FireAlarmXeno = alarme de incêndio
 # From: Entities/Structures/Wallmounts/fireaxe_cabinet.yml
 
 ent-FireAxeCabinet = armário de machado de bombeiro
-    .desc = Há um pequeno rótulo que diz \"Somente para uso de emergência\" junto com detalhes para uso seguro do machado. Como se.
+    .desc = Há um pequeno rótulo que diz Somente para uso de emergência junto com detalhes para uso seguro do machado. Como se.
 
 ent-FireAxeCabinetFilled = {ent-FireAxeCabinet}
     .desc = { ent-FireAxeCabinet.desc }
@@ -13026,7 +13026,7 @@ ent-ShelfWood = prateleira de madeira
 # From: Entities/Structures/Wallmounts/shotgun_cabinet.yml
 
 ent-ShotGunCabinet = armário de escopeta
-    .desc = Há um pequeno rótulo que diz \"Somente para uso de emergência\" junto com detalhes para uso seguro da escopeta - como se você fosse seguir isso.
+    .desc = Há um pequeno rótulo que diz Somente para uso de emergência junto com detalhes para uso seguro da escopeta - como se você fosse seguir isso.
 
 ent-ShotGunCabinetFilled = {ent-ShotGunCabinet}
     .desc = { ent-ShotGunCabinet.desc }
@@ -13139,7 +13139,7 @@ ent-BlankFlag = bandeira branca
     .desc = Um pedaço de pano branco. Definitivamente não é a bandeira da França.
 
 ent-LGBTQFlag = bandeira LGBTQ
-    .desc = \"Se gay, cometa crimes\" bandeira.
+    .desc = Se gay, cometa crimes bandeira.
 
 ent-NTFlag = bandeira da Nanotrasen
     .desc = Glória à NT! Espera, eles realmente fizeram uma bandeira para uma corporação?
@@ -13241,7 +13241,7 @@ ent-PosterContrabandBorgFancyv2 = Borg Chique v2
     .desc = Borg Chique, Agora aceitando apenas os mais chiques.
 
 ent-PosterContrabandBountyHunters = Caçadores de Recompensas
-    .desc = Um pôster anunciando serviços de caça de recompensas. \"Ouvi que você tem um problema.\"
+    .desc = Um pôster anunciando serviços de caça de recompensas. Ouvi que você tem um problema.
 
 ent-PosterContrabandBustyBackdoorExoBabes6 = Busty Backdoor Exo Babes 6
     .desc = Carregue ou dê um pouco destes Exos naturais!
@@ -13328,7 +13328,7 @@ ent-PosterContrabandMissingSpacepen = Caneta Espacial Desaparecida
     .desc = Este pôster retrata algo que você nunca encontrará.
 
 ent-PosterContrabandMoth = Mariposa do Sindicato - Operação Nuclear
-    .desc = Um pôster encomendado pelo Sindicato que usa a Mariposa do Sindicato™ para dizer ao espectador para manter o disco de autenticação nuclear inseguro. \"A paz nunca foi uma opção!\" Nenhum bom funcionário ouviria este disparate.
+    .desc = Um pôster encomendado pelo Sindicato que usa a Mariposa do Sindicato™ para dizer ao espectador para manter o disco de autenticação nuclear inseguro. A paz nunca foi uma opção! Nenhum bom funcionário ouviria este disparate.
 
 ent-PosterContrabandNuclearDeviceInformational = Dispositivo Nuclear Informativo
     .desc = Este pôster retrata uma imagem de um dispositivo explosivo nuclear antigo, bem como algumas informações úteis sobre o que fazer se um tiver sido definido. Sugere deitar no chão e chorar.
@@ -13400,7 +13400,7 @@ ent-PosterContrabandUnreadableAnnouncement = Anúncio Ilegível
     .desc = Um pôster anunciando algo por alguém, estranhamente eles parecem ter esquecido de torná-lo legível.
 
 ent-PosterContrabandVoteWeh = Vote Weh
-    .desc = Um pôster estiloso, elegante e bem ilustrado para um novo candidato progressista \"Weh\"nderful chegando nesta temporada de eleições.
+    .desc = Um pôster estiloso, elegante e bem ilustrado para um novo candidato progressista Wehnderful chegando nesta temporada de eleições.
 
 ent-PosterContrabandWaffleCorp = Make Mine a Waffle Corp: Rifles Finos, Preços Econômicos
     .desc = Um anúncio antigo para rifles da Waffle Corp. 'Melhores armas, preços mais baixos!'
@@ -13493,7 +13493,7 @@ ent-PosterLegitObey = Obedeça
     .desc = Um pôster instruindo o espectador a obedecer a autoridade.
 
 ent-PosterLegitOppenhopper = Oppenhopper
-    .desc = Um pôster para um filme muito esquecido. Segue um grupo de novatos tenazes do Setor Gafanhoto enquanto eles defendem contra investidas dos Operativos Nucleares infames. O slogan diz: \"Nuke Ops continuará até que a robustez melhore.\"
+    .desc = Um pôster para um filme muito esquecido. Segue um grupo de novatos tenazes do Setor Gafanhoto enquanto eles defendem contra investidas dos Operativos Nucleares infames. O slogan diz: Nuke Ops continuará até que a robustez melhore.
 
 ent-PosterLegitPDAAd = PDA Ad
     .desc = Um pôster anunciando o mais recente PDA dos fornecedores da Nanotrasen.
@@ -13517,19 +13517,19 @@ ent-PosterLegitSafetyMothDelam = Mariposa de Segurança - Precauções de Deslam
     .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para se esconder em armários quando o Cristal de Supermatéria se deslamina, para evitar alucinações. Evacuar pode ser uma estratégia melhor.
 
 ent-PosterLegitSafetyMothEpi = Mariposa de Segurança - Epinefrina
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para informar o espectador para ajudar tripulantes feridos/falecidos com seus injetores de epinefrina. \"Previna apodrecimento de órgãos com este truque simples!\"
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para informar o espectador para ajudar tripulantes feridos/falecidos com seus injetores de epinefrina. Previna apodrecimento de órgãos com este truque simples!
 
 ent-PosterLegitSafetyMothHardhat = Mariposa de Segurança - Capacetes
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para usar capacetes em áreas cautelosas. \"É como uma lâmpada para sua cabeça!\"
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para usar capacetes em áreas cautelosas. É como uma lâmpada para sua cabeça!
 
 ent-PosterLegitSafetyMothMeth = Mariposa de Segurança - Metanfetamina
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para buscar aprovação do CM antes de cozinhar metanfetamina. \"Fique perto da temperatura alvo e nunca passe!\" ...Você nunca deveria fazer isto.
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para buscar aprovação do CM antes de cozinhar metanfetamina. Fique perto da temperatura alvo e nunca passe! ...Você nunca deveria fazer isto.
 
 ent-PosterLegitSafetyMothPiping = Mariposa de Segurança - Tubulação
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer aos técnicos atmosféricos os tipos corretos de tubulação a serem usados. \"Tubos, não Bombas! A colocação adequada de tubos previne mau desempenho!\"
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer aos técnicos atmosféricos os tipos corretos de tubulação a serem usados. Tubos, não Bombas! A colocação adequada de tubos previne mau desempenho!
 
 ent-PosterLegitSafetyMothSSD = Mariposa de Segurança - Distúrbio do Sono Espacial
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador sobre o Distúrbio do Sono Espacial (SSD), uma condição onde a pessoa para de reagir às coisas. \"Trate tripulantes com SSD com cuidado! Eles podem acordar a qualquer momento!\"
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador sobre o Distúrbio do Sono Espacial (SSD), uma condição onde a pessoa para de reagir às coisas. Trate tripulantes com SSD com cuidado! Eles podem acordar a qualquer momento!
 
 ent-PosterLegitSafetyReport = Segurança: Denuncie
     .desc = Um pôster instruindo o espectador a denunciar atividade suspeita à força de segurança.
@@ -13895,7 +13895,7 @@ ent-SignNosmoking = placa de não fumar
     .desc = Uma placa indicando que fumar não é permitido nas proximidades.
 
 ent-SignNTMine = placa de mina
-    .desc = Uma placa. \"Mina\" está escrito nela.
+    .desc = Uma placa. Mina está escrito nela.
 
 ent-SignOptical = placa de aviso óptico
     .desc = Uma placa indicando um risco de radiação óptica.
@@ -14012,7 +14012,7 @@ ent-SignSurgery = placa de cirurgia
     .desc = Uma placa indicando o centro cirúrgico.
 
 ent-SignSurvival = placa de sobrevivência
-    .desc = Uma placa. \"Sobrevivência\" está escrito nela.
+    .desc = Uma placa. Sobrevivência está escrito nela.
 
 ent-SignTelecomms = placa de telecomunicações
     .desc = Uma placa indicando a sala de telecomunicações.
@@ -23826,8 +23826,8 @@ ent-DrinkEnergyDrinkJug = jarra de Red Bool
 ent-DrinkGildlagerBottleFull = garrafa de Gildlager
     .desc = Schnapps de canela 100 proof, feito para meninas alcoólatras em férias de primavera.
 
-ent-DrinkGinBottleFull = gim de Griffeater
-    .desc = Uma garrafa de gim de alta qualidade, produzido na Estação Espacial New London.
+ent-DrinkGinBottleFull = gin de Griffeater
+    .desc = Uma garrafa de gin de alta qualidade, produzido na Estação Espacial New London.
 
 ent-DrinkGreenTeaJug = jarra de chá verde
     .desc = É como chá... mas verde! Ótimo para acalmar o estômago.
@@ -24343,11 +24343,11 @@ ent-DrinkGinFizzGlass = {ent-DrinkGlass}
 
 ent-DrinkGinGlass = {ent-DrinkGlass}
     .desc = { ent-DrinkGlass.desc }
-    .suffix = gim
+    .suffix = gin
 
 ent-DrinkGinTonicglass = {ent-DrinkGlass}
     .desc = { ent-DrinkGlass.desc }
-    .suffix = gim e tônica
+    .suffix = gin e tônica
 
 ent-DrinkGlass = copo metamórfico
     .desc = Um copo metamórfico que magicamente se transforma em um copo apropriado para a bebida dentro. Há um número de patente lixado no fundo.
@@ -27247,25 +27247,25 @@ ent-BaseMachineCircuitboard = placa de máquina
 
 # From: Entities/Objects/Devices/Circuitboards/Machine/cannons.yml
 
-ent-ShuttleGunDusterCircuitboard = placa de máquina EXP-2100g \"Duster\"
+ent-ShuttleGunDusterCircuitboard = placa de máquina EXP-2100g Duster
     .suffix = NÃO MAPEAR, Placa de Máquina
-    .desc = Uma placa de circuito impresso de máquina para um EXP-2100g \"Duster\".
+    .desc = Uma placa de circuito impresso de máquina para um EXP-2100g Duster.
 
-ent-ShuttleGunFriendshipCircuitboard = placa de máquina EXP-320g \"Friendship\"
+ent-ShuttleGunFriendshipCircuitboard = placa de máquina EXP-320g Friendship
     .suffix = NÃO MAPEAR, Placa de Máquina
-    .desc = Uma placa de circuito impresso de máquina para um EXP-320g \"Friendship\".
+    .desc = Uma placa de circuito impresso de máquina para um EXP-320g Friendship.
 
-ent-ShuttleGunKineticCircuitboard = placa de máquina PTK-1500e \"Matter Dematerializer\"
+ent-ShuttleGunKineticCircuitboard = placa de máquina PTK-1500e Matter Dematerializer
     .suffix = NÃO MAPEAR, Placa de Máquina
-    .desc = Uma placa de circuito impresso de máquina para um PTK-1500e \"Matter Dematerializer\".
+    .desc = Uma placa de circuito impresso de máquina para um PTK-1500e Matter Dematerializer.
 
-ent-ShuttleGunPerforatorCircuitboard = placa de máquina LSE-1200c \"Perforator\"
+ent-ShuttleGunPerforatorCircuitboard = placa de máquina LSE-1200c Perforator
     .suffix = NÃO MAPEAR, Placa de Máquina
-    .desc = Uma placa de circuito impresso de máquina para um LSE-1200c \"Perforator\".
+    .desc = Uma placa de circuito impresso de máquina para um LSE-1200c Perforator.
 
-ent-ShuttleGunSvalinnMachineGunCircuitboard = placa de máquina LSE-400c \"Svalinn machine gun\"
+ent-ShuttleGunSvalinnMachineGunCircuitboard = placa de máquina LSE-400c Svalinn machine gun
     .suffix = NÃO MAPEAR, Placa de Máquina
-    .desc = Uma placa de circuito impresso de máquina para um LSE-400c \"Svalinn machine gun\".
+    .desc = Uma placa de circuito impresso de máquina para um LSE-400c Svalinn machine gun.
 
 # From: Entities/Objects/Devices/Circuitboards/Machine/holopad.yml
 
@@ -28048,7 +28048,7 @@ ent-CentcomPDA = PDA do CentComm
 ent-CEPDA = PDA de engenheiro chefe
     .desc = Parece que mal foi usado.
 
-ent-ChameleonPDA = PDA de contratista
+ent-ChameleonPDA = PDA de espaciano
     .suffix = Camaleão
     .desc = Por que não é cinza?
 

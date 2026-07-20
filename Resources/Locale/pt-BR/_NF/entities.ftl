@@ -110,7 +110,7 @@ ent-ClothingBackpackDuffelEVABundleCargo = pacote EVA de técnico de carga
 ent-ClothingBackpackDuffelEVABundleChaplain = pacote EVA de capelão
     .suffix = Preenchido
 
-ent-ClothingBackpackDuffelEVABundleContractor = pacote EVA de contratado
+ent-ClothingBackpackDuffelEVABundleContractor = pacote EVA de espaciano
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleEngineer = pacote EVA de engenheiro
@@ -256,7 +256,7 @@ ent-BoxMagazine635x40mmCaselessRubber = caixa de carregadores 635x40mm Sem Espol
 ent-BoxMagazine762x39mmRubber = caixa de carregadores 762x39mm (borracha)
     .desc = Uma caixa cheia de carregadores 762x39mm (prática).
 
-ent-BoxMagazine9x19mmRubber = caixa de carregadores de pistola 9x19mm (borracha)
+ent-BoxMagazine9x19mmRubber = caixa de pentes de pistola 9x19mm (borracha)
     .desc = Uma caixa cheia de carregadores de pistola 9x19mm (borracha).
 
 ent-BoxMagazine9x19mmSubMachineGunRubber = caixa de carregadores de SMG 9x19mm (borracha)
@@ -486,7 +486,7 @@ ent-SpawnPointBailiff = bailio
 
 ent-SpawnPointCadet = cadete
 
-ent-SpawnPointContractor = contratista
+ent-SpawnPointContractor = espaciano
 
 ent-SpawnPointDeputy = delegado
 
@@ -1993,10 +1993,10 @@ ent-MobRogueSiliconDroneScience = {ent-MobRogueSiliconDroneBase}
 ent-MobRogueSiliconGuardian = unidade guardiã
     .desc = Um silício de segurança avançado, geralmente usado para salvaguardar áreas de alta segurança, como cofres e salas de servidores. Depois de ser hackeado, esta unidade cumpre a vontade da IA.
 
-ent-MobRogueSiliconHerder = unidade condutor
+ent-MobRogueSiliconHerder = unidade condutora
     .desc = A diretiva primária desta unidade de silício renegada é reunir e conduzir cativos. Sua vara de choque pode ser usada com bom efeito, tome cautela.
 
-ent-MobRogueSiliconHunter = unidade caçador
+ent-MobRogueSiliconHunter = unidade caçadora
     .desc = Estes drones móveis são encarregados de reconhecimento, identificação de ameaças e eliminação de alvos.
 
 ent-MobRogueSiliconScrapAsteroid = unidade de sucata com defeito
@@ -2608,19 +2608,19 @@ ent-FoodMealGasSafeSushiSlice = sushi de posto de gasolina
 
 # From: _NF/Entities/Objects/Consumable/Smokables/Pipes/tobacco_pouch.yml
 
-ent-TobaccoPouchBlueFilled = \"Stonecut Leaf\" pouch
+ent-TobaccoPouchBlueFilled = Stonecut Leaf pouch
     .suffix = Filled
     .desc = Um rótulo na embalagem orgulhosamente declara que o tabaco de cachimbo é misturado com o pó mais fino dos minerais mais raros, a lista de minerais ocupa a maior parte do espaço do rótulo.
 
-ent-TobaccoPouchBrownFilled = \"Galaxy Core Blend\" pouch
+ent-TobaccoPouchBrownFilled = Galaxy Core Blend pouch
     .suffix = Filled
     .desc = Uma coleção ardente de tabacos exóticos, cada folha revestida com agente de preservação. Você deve lavar antes de fumar?
 
-ent-TobaccoPouchPurpleFilled = \"Sweet Dreams\" pouch
+ent-TobaccoPouchPurpleFilled = Sweet Dreams pouch
     .suffix = Filled
-    .desc = Este pouch de tabaco anuncia seus fumantes sendo \"abençoados com cochilos aconchegantes e tranquilos\", o que quer que isso signifique.
+    .desc = Este pouch de tabaco anuncia seus fumantes sendo abençoados com cochilos aconchegantes e tranquilos, o que quer que isso signifique.
 
-ent-TobaccoPouchRedFilled = \"Fungal Whiff\" pouch
+ent-TobaccoPouchRedFilled = Fungal Whiff pouch
     .suffix = Filled
     .desc = Cultivado profundamente nas florestas de cogumelos, Fungal Whiff oferece uma fumaça suave e terrosa que é perfeita para esses momentos contemplativos passados tramando o próximo roubo.
 
@@ -2909,8 +2909,8 @@ ent-ScrapProcessorFlatpack = flatpack de processador de sucata
 ent-ServiceTechFabFlatpack = flatpack de techfab de serviço
     .desc = Um flatpack usado para construir um techfab de serviço.
 
-ent-ShuttleGunKineticFlatpack = flatpack de PTK-1500e \"Desmaterializador de Matéria\"
-    .desc = Um flatpack usado para construir um PTK-1500e \"Desmaterializador de Matéria\".
+ent-ShuttleGunKineticFlatpack = flatpack de PTK-1500e Desmaterializador de Matéria
+    .desc = Um flatpack usado para construir um PTK-1500e Desmaterializador de Matéria.
 
 ent-SmallGyroscopeFlatpack = flatpack de giroscópio pequeno
     .desc = Um flatpack usado para construir um giroscópio pequeno.
@@ -4491,7 +4491,7 @@ ent-PinpointerGasDeposit = localizador de depósito de gás
 
 # From: _NF/Entities/Objects/Specific/chemical-containers.yml
 
-ent-FuelBananium = vara de banânio combustível
+ent-FuelBananium = banânio combustível
     .suffix = 25
     .desc = Uma vara feita de cascas de banânio prensadas, adequada para combustível.
 
@@ -4499,7 +4499,7 @@ ent-FuelBananium1 = {ent-FuelBananium}
     .desc = {ent-FuelBananium.desc}
     .suffix = Unitária
 
-ent-FuelPlasma = vara de plasma combustível
+ent-FuelPlasma = plasma combustível
     .suffix = 25
     .desc = Uma vara feita de plasma dessaturado, adequada para combustível.
 
@@ -4507,7 +4507,7 @@ ent-FuelPlasma1 = {ent-FuelPlasma}
     .desc = {ent-FuelPlasma.desc}
     .suffix = Unitária
 
-ent-FuelUranium = vara de urânio combustível
+ent-FuelUranium = urânio combustível
     .suffix = 25
     .desc = Uma vara feita de urânio semiprocessado, adequada para combustível.
 
@@ -4566,7 +4566,7 @@ ent-ReinforcedJugPotassium = {ent-ReinforcedJug}
 
 ent-ReinforcedJugSilicon = {ent-ReinforcedJug}
     .desc = {ent-ReinforcedJug.desc}
-    .suffix = silício
+    .suffix = silicone
 
 ent-ReinforcedJugSugar = {ent-ReinforcedJug}
     .desc = {ent-ReinforcedJug.desc}
@@ -4906,7 +4906,7 @@ ent-NFPouchChaplain = bolsa do capelão
 
 ent-NFPouchClown = bolsa do palhaço
 
-ent-NFPouchContractor = bolsa do contratista
+ent-NFPouchContractor = bolsa do espaciano
 
 ent-NFPouchEngineering = bolsa do engenheiro
 
@@ -7472,7 +7472,7 @@ ent-ChemicalBarrelFluorine = {ent-BaseBarrel}
 
 ent-ChemicalBarrelGin = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
-    .suffix = Gim
+    .suffix = Gin
 
 ent-ChemicalBarrelGold = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
@@ -7548,7 +7548,7 @@ ent-ChemicalBarrelRum = {ent-BaseBarrel}
 
 ent-ChemicalBarrelSilicon = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
-    .suffix = Silício
+    .suffix = Silicone
 
 ent-ChemicalBarrelSilver = {ent-BaseBarrel}
     .desc = {ent-BaseBarrel.desc}
@@ -7657,7 +7657,7 @@ ent-LockerWallEVAColorCargo = armário EVA na parede de técnico de carga
 
 ent-LockerWallEVAColorChaplain = armário EVA na parede de capelão
 
-ent-LockerWallEVAColorContractor = armário EVA na parede de contratado
+ent-LockerWallEVAColorContractor = armário EVA na parede de espaciano
 
 ent-LockerWallEVAColorEmergency = armário EVA de emergência na parede
 
@@ -10586,7 +10586,7 @@ ent-LockerWallMaterialsFuelUraniumFilled2 = {ent-LockerWallColorUranium}
     .suffix = Cheio, Urânio (x2 Geradores)
 
 ent-LockerWallMaterialsFuelWeldingFilled = {ent-LockerWallColorWelding}
-    .suffix = Cheio, Combustível de Soldagem (x2)
+    .suffix = Cheio, Combustível de Solda (x2)
 
 # From: _NF/Catalog/Fills/Lockers/mail.yml
 
@@ -10680,7 +10680,7 @@ ent-SuitStorageEVAChaplain = {ent-SuitStorageBase}
 
 ent-SuitStorageEVAContractor = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
-    .suffix = EVA, Contratado
+    .suffix = EVA, Espaciano
 
 ent-SuitStorageEVAEngineer = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
@@ -10917,7 +10917,7 @@ ent-StorageFillEVASuitChaplain =
 # Abstract entity (referenceable by children)
 
 ent-StorageFillEVASuitContractor =
-    .desc = Contém um kit EVA padrão de contratado.
+    .desc = Contém um kit EVA padrão de espaciano.
 
 # Abstract entity (referenceable by children)
 
@@ -11091,7 +11091,7 @@ ent-ClothingBackpackMessengerColorRed = bolsa mensageira vermelha
 
 ent-ClothingBackpackMessengerColorWhite = bolsa mensageira branca
 
-ent-ClothingBackpackMessengerContractor = bolsa mensageira de contratado
+ent-ClothingBackpackMessengerContractor = bolsa mensageira de espaciano
     .desc = Uma bolsa mensageira com aparência moderna em cores de bom gosto.
 
 ent-ClothingBackpackMessengerEngineering = bolsa mensageira de engenharia
@@ -11514,7 +11514,7 @@ ent-ClothingHeadEVAHelmetCargo = capacete EVA de carga
 
 ent-ClothingHeadEVAHelmetChaplain = capacete EVA de capelão
 
-ent-ClothingHeadEVAHelmetContractor = capacete EVA de contratado
+ent-ClothingHeadEVAHelmetContractor = capacete EVA de espaciano
 
 ent-ClothingHeadEVAHelmetEngineer = capacete EVA de engenheiro
 
@@ -11908,8 +11908,8 @@ ent-ClothingOuterEVASuitCargo = traje EVA de técnico de carga
 ent-ClothingOuterEVASuitChaplain = traje EVA de capelão
     .desc = Um traje EVA com capacete integrado geralmente emitido para capelães.
 
-ent-ClothingOuterEVASuitContractor = traje EVA de contratado
-    .desc = Um traje EVA com capacete integrado geralmente emitido para contratados.
+ent-ClothingOuterEVASuitContractor = traje EVA de espaciano
+    .desc = Um traje EVA com capacete integrado geralmente emitido para espacianos.
 
 ent-ClothingOuterEVASuitEngineer = traje EVA de engenheiro
     .desc = Um traje EVA com capacete integrado geralmente emitido para engenheiros.
@@ -12135,7 +12135,7 @@ ent-ClothingUniformJumpsuitPirateSlops = trapos de pirata
     .desc = Um uniforme esfarrapado mas confortável para saquear o setor.
 
 ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança privada
-    .desc = Um uniforme especializado para um guarda de segurança privada. Para o contratado privado exigente que precisa de uma aparência profissional.
+    .desc = Um uniforme especializado para um guarda de segurança privada. Para o espaciano privado exigente que precisa de uma aparência profissional.
 
 ent-ClothingUniformJumpsuitPublicAffairsLiaison = macacão de liaison de assuntos públicos
     .desc = Um terno engomado e passado para o liaison de assuntos públicos.
@@ -12235,13 +12235,13 @@ ent-ClothingUniformJumpsuitMilitaryColorYellow = macacão amarelo
     .suffix = Militar
     .desc = Um macacão amarelo genérico sem marcações de patente.
 
-ent-ClothingUniformJumpsuitMilitaryContractor = macacão de contratado
+ent-ClothingUniformJumpsuitMilitaryContractor = macacão de espaciano
     .suffix = Militar
-    .desc = Um macacão robusto, comumente emitido para contratados da NT.
+    .desc = Um macacão robusto, comumente emitido para espacianos da NT.
 
-ent-ClothingUniformJumpsuitMilitaryContractorTac = macacão de contratado
+ent-ClothingUniformJumpsuitMilitaryContractorTac = macacão de espaciano
     .suffix = Militar, Tático
-    .desc = Um macacão robusto, comumente emitido para contratados da NT.
+    .desc = Um macacão robusto, comumente emitido para espacianos da NT.
 
 ent-ClothingUniformJumpsuitMilitaryEngineering = {ent-ClothingUniformJumpsuitEngineering}
     .desc = {ent-ClothingUniformJumpsuitEngineering.desc}

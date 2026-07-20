@@ -25,7 +25,7 @@ shipyard-console-appraisal-label = Valor de Revenda da Nave (Taxado):{" "}
 shipyard-console-no-voucher-redemptions = Todos os resgates de vale foram usados.
 shipyard-console-invalid-voucher-type = Este vale não pode ser usado neste console.
 shipyard-console-denied = Você não pode comprar essa nave neste momento.
-shipyard-console-limited = Há muitas lançadeiras ativas deste tipo, tente novamente mais tarde!
+shipyard-console-limited = Há muitas naves ativas deste tipo, tente novamente mais tarde!
 
 shipyard-console-contraband-onboard = Contrabando contrabandeado detectado a bordo.
 shipyard-console-station-resources = Recursos vitais da estação detectados a bordo.
@@ -77,7 +77,7 @@ shipyard-console-class-Pursuit = Perseguição
 # Mono changes start
 shipyard-console-class-Corvette = Corveta
 shipyard-console-class-Frigate = Fragata
-shipyard-console-class-Destroyer = Destróier
+shipyard-console-class-Destroyer = Contratorpedeiro
 shipyard-console-class-Cruiser = Cruzador
 # Mono changes end
 
@@ -90,7 +90,7 @@ shipyard-console-engine-Singularity = Singularidade
 shipyard-console-engine-Solar = Solar
 shipyard-console-engine-RTG = GTR
 shipyard-console-engine-APU = APU
-shipyard-console-engine-Welding = Combustível de Soldagem
+shipyard-console-engine-Welding = Combustível de Solda
 shipyard-console-engine-Plasma = Plasma
 shipyard-console-engine-Uranium = Urânio
 shipyard-console-engine-Bananium = Banânio

@@ -13,7 +13,7 @@ reagent-desc-chlorine-trifluoride = Você realmente, REALMENTE não quer por ess
 reagent-name-foaming-agent = agente espumante
 reagent-desc-foaming-agent = Faz espuma como a necessária em granadas de espuma de metal.
 
-reagent-name-welding-fuel = combustível de soldagem
+reagent-name-welding-fuel = combustível de solda
 reagent-desc-welding-fuel = Usado por soldadores para soldar.
 
 reagent-name-fluorosurfactant = fluorossurfactante

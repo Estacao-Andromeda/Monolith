@@ -1,5 +1,5 @@
-rotatable-component-try-rotate-stuck = It's Preso.
+rotatable-component-try-rotate-stuck = Está preso.
 
-rotate-verb-get-data-text = Rotacionar clockwise
+rotate-verb-get-data-text = Rotacionar sentido horário
 
-rotate-counter-verb-get-data-text = Rotacionar counter-clockwise
+rotate-counter-verb-get-data-text = Rotacionar sentido antihorário

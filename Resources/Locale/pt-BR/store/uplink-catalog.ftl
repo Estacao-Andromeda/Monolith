@@ -82,14 +82,14 @@ uplink-shrapnel-grenade-name = Granada de Estilhaços
 uplink-shrapnel-grenade-desc = Lança um spray de fragmentos afiados causando grandes danos contra alvos sem blindagem.
 
 # Ammo
-uplink-pistol-magazine-name = Carregador de Pistola (9x19mm FMJ)
-uplink-pistol-magazine-desc = Carregador de pistola com 10 cartuchos. Compatível com a Viper.
+uplink-pistol-magazine-name = Pente de pistola (9x19mm FMJ)
+uplink-pistol-magazine-desc = Pente de pistola com 10 cartuchos. Compatível com a Viper.
 
 uplink-pistol-magazine-c20r-name = Carregador de SMG (9x19mm FMJ)
 uplink-pistol-magazine-c20r-desc = Carregador de rifle com 30 cartuchos. Compatível com C-20r.
 
-uplink-pistol-magazine-caseless-name = Carregador de Pistola (6.35x40mm Sem cartucho)
-uplink-pistol-magazine-caseless-desc = Carregador de pistola com 10 cartuchos. Compatível com a Cobra.
+uplink-pistol-magazine-caseless-name = Pente de pistola (6.35x40mm Sem cartucho)
+uplink-pistol-magazine-caseless-desc = Pente de pistola com 10 cartuchos. Compatível com a Cobra.
 
 uplink-speedloader-45_magnum-name = Speedloader (.45 magnum AP)
 uplink-speedloader-magnu-desc = Speedloader de revólver com 6 cartuchos perfurantes de blindagem, capaz de ignorar blindagem completamente. Compatível com a Python.

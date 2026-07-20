@@ -1,5 +1,5 @@
 ui-lobby-title = Átrio: {$serverName}
-ui-lobby-ahelp-button = AjAdmin
+ui-lobby-ahelp-button = AHelp
 ui-lobby-options-button = Opções
 ui-lobby-leave-button = Sair
 ui-lobby-observe-button = Observar

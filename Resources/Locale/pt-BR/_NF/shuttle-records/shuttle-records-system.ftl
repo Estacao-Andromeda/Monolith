@@ -1,4 +1,4 @@
-shuttle-records-console-window-title = Computador de Registros de Lançadeiras
+shuttle-records-console-window-title = Computador de Registros de Naves
 shuttle-records-copy-deed-button = Copiar Título para Cartão de ID
 shuttle-records-shuttle-name-label = Nome da Nave: {$name}
 shuttle-records-shuttle-owner-label = Comprado por: {$owner}
@@ -17,5 +17,5 @@ shuttle-records-transaction-confirm = Tem certeza?
 shuttle-records-transaction-cost = Custo da Transação: {$cost}
 shuttle-records-search = Pesquisar nave ou capitão
 shuttle-records-time-of-purchase = Horário da compra: [color=white]{ $time }[/color]
-shuttle-records-show-active-only = Mostrar apenas lançadeiras ativas
+shuttle-records-show-active-only = Mostrar apenas naves ativas
 shuttle-records-purchased-voucher = A nave foi comprada com um vale.
