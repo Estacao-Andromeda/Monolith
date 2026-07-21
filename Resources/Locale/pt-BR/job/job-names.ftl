@@ -54,7 +54,7 @@ job-name-librarian = Bibliotecário
 
 job-name-lawyer = Advogado
 
-job-name-mime = Mimo
+job-name-mime = Mímico
 
 job-name-ce = Engenheiro Chefe
 
@@ -178,7 +178,7 @@ JobMedicalDoctor = Médico
 
 JobMedicalIntern = Interno Médico
 
-JobMime = Mimo
+JobMime = Mímico
 
 JobMusician = Músico
 

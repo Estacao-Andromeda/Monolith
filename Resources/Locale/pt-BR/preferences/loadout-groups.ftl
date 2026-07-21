@@ -16,7 +16,7 @@ loadout-group-breath-tool = Ferramentas de respiração dependentes de espécie
 loadout-group-tank-harness = Equipamento de sobrevivência específico de espécie
 loadout-group-EVA-tank = Tanque de gás específico de espécie
 loadout-group-pocket-tank-double = Tanque de emergência duplo específico de espécie no bolso
-loadout-group-survival-mime = Caixa de Sobrevivência de Mimo
+loadout-group-survival-mime = Caixa de Sobrevivência de Mímico
 
 # Command
 loadout-group-captain-head = Cabeça de Capitão
@@ -76,12 +76,12 @@ loadout-group-clown-backpack = Mochila de Palhaço
 loadout-group-clown-outerclothing = Roupa externa de Palhaço
 loadout-group-clown-shoes = Sapatos de Palhaço
 
-loadout-group-mime-head = Cabeça de Mimo
-loadout-group-mime-mask = Máscara de Mimo
-loadout-group-mime-jumpsuit = Macacão de Mimo
-loadout-group-mime-backpack = Mochila de Mimo
-loadout-group-mime-outerclothing = Roupa externa de Mimo
-loadout-group-mime-belt = Cinto de Mimo
+loadout-group-mime-head = Cabeça de Mímico
+loadout-group-mime-mask = Máscara de Mímico
+loadout-group-mime-jumpsuit = Macacão de Mímico
+loadout-group-mime-backpack = Mochila de Mímico
+loadout-group-mime-outerclothing = Roupa externa de Mímico
+loadout-group-mime-belt = Cinto de Mímico
 
 loadout-group-musician-jumpsuit = Macacão de Músico
 loadout-group-musician-outerclothing = Roupa externa de Músico

@@ -10,7 +10,7 @@ reagent-desc-diphenhydramine = Elimina rapidamente o corpo de histamina, reduz t
 reagent-name-arithrazine = aritrazina
 reagent-desc-arithrazine = Um medicamento levemente instável usado para o caso mais extremo de envenenamento por radiação. Exerce estresse menor no corpo.
 
-reagent-name-bicaridine = bicaridina
+reagent-name-bicaridine = bicardina
 reagent-desc-bicaridine = Um analgésico que é altamente eficaz no tratamento de danos de contusão. É útil para estabilizar pessoas que foram severamente espancadas, bem como tratar lesões menos ameaçadoras à vida.
 
 # Frontier: consistent cryogenics descriptors

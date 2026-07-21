@@ -12,6 +12,7 @@ ent-ActionActivateDissonantWhispersImplant = Sussurros Dissonantes
 # De: _NF/Body/Organs/goblin_organs.yml
 
 ent-OrganGoblinAppendix = apêndice
+    .desc = Um appendix.
     .suffix = Goblin
 
 ent-OrganGoblinBrain = cérebro
@@ -19,18 +20,23 @@ ent-OrganGoblinBrain = cérebro
     .desc = A fonte dos seus infortúnios.
 
 ent-OrganGoblinEars = orelhas
+    .desc = Para ouvir.
     .suffix = Goblin
 
 ent-OrganGoblinEyes = olhos
+    .desc = Para ver.
     .suffix = Goblin
 
 ent-OrganGoblinHeart = coração
+    .desc = Bombeia sangue.
     .suffix = Goblin
 
 ent-OrganGoblinKidneys = rins
+    .desc = Filtra o sangue.
     .suffix = Goblin
 
 ent-OrganGoblinLiver = fígado
+    .desc = Filtra toxinas.
     .suffix = Goblin
 
 ent-OrganGoblinLungs = pulmões
@@ -42,6 +48,7 @@ ent-OrganGoblinStomach = estômago
     .desc = Cogumelos vão aqui.
 
 ent-OrganGoblinTongue = língua
+    .desc = Para provar.
     .suffix = Goblin
 
 # De: _NF/Body/Organs/synthetic_organs.yml
@@ -84,72 +91,95 @@ ent-TorsoGoblin = torso de goblin
 # De: _NF/Catalog/Fills/Backpacks/duffelbag.yml
 
 ent-ClothingBackpackDuffelEVABundleAtmosTech = pacote EVA de técnico atmosférico
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleBoxerBlue = pacote EVA de boxeador
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido, Azul
 
 ent-ClothingBackpackDuffelEVABundleBoxerGreen = pacote EVA de boxeador
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido, Verde
 
 ent-ClothingBackpackDuffelEVABundleBoxerRandom = pacote EVA de boxeador
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido, Aleatório
 
 ent-ClothingBackpackDuffelEVABundleBoxerRed = pacote EVA de boxeador
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido, Vermelho
 
 ent-ClothingBackpackDuffelEVABundleBoxerYellow = pacote EVA de boxeador
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido, Amarelo
 
 ent-ClothingBackpackDuffelEVABundleCaptain = pacote EVA de capitão
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleCargo = pacote EVA de técnico de carga
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleChaplain = pacote EVA de capelão
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleContractor = pacote EVA de espaciano
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleEngineer = pacote EVA de engenheiro
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleHydro = pacote EVA de botânico
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleJanitor = pacote EVA de zelador
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleMail = pacote EVA de carteiro
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleMedical = pacote EVA de especialista médico
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleMercenary = pacote EVA de mercenário
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleNfsd = pacote EVA de TSFMC
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundlePilot = pacote EVA de piloto
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
-ent-ClothingBackpackDuffelEVABundlePrivateSec = pacote EVA de segurança privada
+ent-ClothingBackpackDuffelEVABundlePrivateSec = pacote EVA de segurança particular
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleSalvage = pacote EVA de especialista em salvagem
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleScientist = pacote EVA de cientista
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleServiceWorker = pacote EVA de trabalhador de serviço
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelEVABundleSr = pacote EVA de supervisor
+    .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
 ent-ClothingBackpackDuffelNfsdEmpBundle = pacote EMP do Lago da TSFMC
@@ -162,7 +192,7 @@ ent-ClothingBackpackDuffelSurgeryAdvancedFilled = bolsa cirúrgica avançada
     .desc = Uma bolsa grande para segregar suprimentos médicos extras - esta parece ser projetada para segurar ferramentas cirúrgicas avançadas.
 
 ent-ClothingBackpackDuffelSurgeryImpovFilled = bolsa cirúrgica improvisada
-    .desc = Isto parece ser um conjunto de ferramentas cirúrgicas improvisadas reunidas por alguém.
+    .desc = Isso parece ser um conjunto de ferramentas cirúrgicas improvisadas reunidas por alguém.
 
 ent-ClothingBackpackDuffelSyndicateFilledEmpGrenadeLauncher = pacote EMP China-Lake
     .desc = Um velho lançador de granadas China-Lake incluído com 8 munições de EMP.
@@ -359,105 +389,135 @@ ent-CrateArmoryEnergyGunExpedition = caixeto de armas de energia
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_argocyte.yml
 
 ent-SpawnMobArgocyteLeviathingExpeditions = gerador de leviathing
+    .desc = Gera um argócito.
     .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_bloodcult.yml
 
 ent-SpawnMobBloodCultistAcolyte = gerador de acólito de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Corpo a Corpo
 
 ent-SpawnMobBloodCultistAscended = gerador de cultista ascendido
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Lancer, Megafauna
 
 ent-SpawnMobBloodCultistCaster = gerador de fanático de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Lancer
 
 ent-SpawnMobBloodCultistJanitor = gerador de zelador de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Corpo a Corpo
 
 ent-SpawnMobBloodCultistPriest = gerador de sacerdote de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Lancer
 
 ent-SpawnMobBloodCultistZealotMelee = gerador de fanático de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Corpo a Corpo
 
 ent-SpawnMobBloodCultistZealotRanged = gerador de fanático de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, À Distância
 
 ent-SpawnMobBloodCultLeech = gerador de sanguessuga de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil, Corpo a Corpo, Rápido
 
 ent-SpawnMobCatBloodCult = gerador de gato de culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = Fantasma
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_explorers.yml
 
 ent-SpawnMobExplorerBoss = gerador de chefe de explorador
+    .desc = Gera um explorador.
     .suffix = IA, Hostil, Chefe
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_mercenaries.yml
 
 ent-SpawnMobMercenaryCaptain = gerador de chefe mercenário
+    .desc = Gera um mercenário.
     .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_rogue_ai.yml
 
 ent-SpawnMobRogueSiliconBoss = gerador de unidade de uma estrela
+    .desc = Gera um silício rebelde.
     .suffix = IA, Hostil
 
 ent-SpawnMobRogueSiliconGuardian = gerador de unidade guardiã
+    .desc = Gera um silício rebelde.
     .suffix = IA, Hostil
 
 ent-SpawnMobViscerator = gerador de unidade viscera
+    .desc = Gera um robô de combate viscera.
     .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_syndicate_voidsmen.yml
 
 ent-SpawnMobCleanBotSyndie = gerador de robô de limpeza sindicato
+    .desc = Gera um mob.
     .suffix = IA
 
 ent-SpawnMobSyndicateNavalCaptainVoid = gerador de capitão naval do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, Voidsman
 
 ent-SpawnMobSyndicateNavalDeckhandVoid = gerador de marinheiro naval do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, Voidsman
 
 ent-SpawnMobSyndicateNavalEngineerVoid = gerador de engenheiro naval do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, Voidsman
 
 ent-SpawnMobSyndicateNavalMedicVoid = gerador de médico naval do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, Voidsman
 
 ent-SpawnMobSyndicateNavalOperatorVoid = gerador de operador naval do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, Voidsman
 
 ent-SpawnMobSyndicateNavalSecondOfficerVoid = gerador de segundo oficial naval do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, Voidsman
 
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_xeno.yml
 
 ent-NFSpawnMobXenoBurrower = gerador de xeno escavador
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoDrone = gerador de xeno drone
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoPraetorian = gerador de xeno pretoriano
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoQueen = gerador de xeno rainha
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoRavager = gerador de xeno devastador
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoRunner = gerador de xeno corredor
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoSpitter = gerador de xeno cuspideiro
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil
 
 ent-NFSpawnMobXenoT1 = gerador de xeno
+    .desc = Gera um xenomorfo.
     .suffix = IA, Hostil, T1
 
 ent-NFSpawnMobXenoT2 = {ent-NFSpawnMobXenoT1}
@@ -471,17 +531,21 @@ ent-NFSpawnMobXenoT3 = {ent-NFSpawnMobXenoT1}
 # From: _NF/Entities/Markers/Spawners/Conditional/turret_spawner.yml
 
 ent-SpawnMobWeaponTurretLaserNanoTrasenDeployed = gerador de SLAT
+    .desc = Gera uma torreta automática.
     .suffix = NT, Fronteira
 
 ent-SpawnMobWeaponTurretLaserSyndicateNF = gerador de torre de laser do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = Hostil, Fronteira
 
 ent-SpawnMobWeaponTurretSyndicate = gerador de torre balística do sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = Hostil, Fronteira
 
 # From: _NF/Entities/Markers/Spawners/jobs.yml
 
 ent-NFSpawnPointDetective = detetive
+    .desc = Uma entidade.
     .suffix = Fronteira
 
 ent-NFSpawnPointJanitor = {ent-SpawnPointJanitor}
@@ -533,20 +597,25 @@ ent-SpawnMobArcIndShredder = Gerador de Triturador da Arcadia Industries
 # From: _NF/Entities/Markers/Spawners/Random/bloodcult_inhand_weapons.yml
 
 ent-SpawnInhandMeleeWeaponBloodCultHigh = arma corpo a corpo aleatória
+    .desc = Gera um item na mão.
     .suffix = Culto sanguinário, Alto
 
 ent-SpawnInhandMeleeWeaponBloodCultLow = arma corpo a corpo aleatória
+    .desc = Gera um item na mão.
     .suffix = Culto sanguinário, Baixo
 
 ent-SpawnMobBloodCultistAscendedSummons = invocação de cultista ascendido
+    .desc = Gera um cultista de sangue.
     .suffix = IA, Hostil
 
 # From: _NF/Entities/Markers/Spawners/Random/cargo.yml
 
 ent-RandomCargoAnimalSpawner = spawner de carga aleatório
+    .desc = Uma entidade.
     .suffix = Animal
 
 ent-RandomCargoGenericSpawner = spawner de carga aleatório
+    .desc = Uma entidade.
     .suffix = Genérico
 
 ent-RandomCargoSpawner = spawner de carga aleatório
@@ -554,555 +623,727 @@ ent-RandomCargoSpawner = spawner de carga aleatório
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_corpses.yml
 
 ent-SpawnDungeonRandomHumanCorpse = cadáver aleatório
+    .desc = Gera um item aleatório.
     .suffix = Masmorra, Cadáver
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_engineering.yml
 
 ent-SpawnDungeonLootCircuitBoardEngi = placa de máquina aleatória
+    .desc = Gera equipamentos de engenharia.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootClothesEngi = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootClutterEngi = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootCrateEmptyEngi = caixa aleatória (vazia)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootCrateEngi = caixa aleatória
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootCrateRestockEngi = caixa aleatória (reabastecer)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootFlatpacksEngi = flatpack aleatório
+    .desc = Gera flatpacks para construção de mobília.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootLatheEngi = máquina techfab aleatória
+    .desc = Gera equipamentos de engenharia.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootLockersEngi = armário aleatório
+    .desc = Gera armários cheios.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootPartsEngi = peças aleatórias
+    .desc = Gera equipamentos de engenharia.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootPowerCell = célula de energia aleatória
+    .desc = Gera células de energia.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootSuitStorageUnitsEngi = unidade de armazenamento de traje aleatória
+    .desc = Gera equipamentos de engenharia.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonLootToolbox = caixa de ferramentas aleatória
+    .desc = Gera loot de masmorra.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootToolsAdvancedEngineering = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Engenheiro Chefe
 
 ent-SpawnDungeonLootToolsBasicEngineering = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Engenharia
 
 ent-SpawnDungeonVendomatsEngi = vending machines aleatórios
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Engenharia
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_general.yml
 
 ent-SpawnDungeonCanisterBroken = cilindro quebrado aleatório
+    .desc = Um gerador.
     .suffix = Masmorra
 
 ent-SpawnDungeonComputerFrame = estrutura de computador aleatória
+    .desc = Um gerador.
     .suffix = Masmorra
 
 ent-SpawnDungeonFurnitureBedroom = quarto aleatório
+    .desc = Gera mobília.
     .suffix = Masmorra, Mobília
 
 ent-SpawnDungeonLootBriefcase = maleta aleatória
+    .desc = Gera maletas.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootBureaucracy = bagunça aleatória
+    .desc = Gera suprimentos burocráticos.
     .suffix = Masmorra, Burocracia
 
 ent-SpawnDungeonLootBureaucracyPen = caneta aleatória
+    .desc = Gera suprimentos burocráticos.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootCircuitBoard = placa de máquina aleatória
+    .desc = Gera placas de circuito e componentes.
     .suffix = Masmorra, Geral
 
 ent-SpawnDungeonLootCrateGeneral = caixa aleatória
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Geral
 
 ent-SpawnDungeonLootCrateMaterials = caixa aleatória
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Materiais
 
 ent-SpawnDungeonLootCrateRestockClothes = caixa aleatória (reabastecer)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Roupas
 
 ent-SpawnDungeonLootCrateRestockGeneral = caixa aleatória (reabastecer)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Geral
 
 ent-SpawnDungeonLootCrateVehicle = caixa de veículo aleatória
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootFlatpacks = flatpack aleatório
+    .desc = Gera flatpacks para construção de mobília.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootLathe = máquina techfab aleatória
+    .desc = Gera placas de circuito e componentes.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootLawBoards = placa de leis aleatória
+    .desc = Gera quadros de lei.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootLockersGeneral = armário aleatório
+    .desc = Gera armários cheios.
     .suffix = Masmorra, Genérico
 
 ent-SpawnDungeonLootLockersProtectiveGear = armário aleatório
+    .desc = Gera armários cheios.
     .suffix = Masmorra, Equipamento de Proteção
 
 ent-SpawnDungeonLootMaterialsBasicFull = materiais aleatórios
+    .desc = Gera materiais de construção.
     .suffix = Masmorra, Básico
 
 ent-SpawnDungeonLootMaterialsBasicSingle = materiais aleatórios
+    .desc = Gera materiais de construção.
     .suffix = Masmorra, Básico, Único
 
 ent-SpawnDungeonLootMaterialsValuableFull = materiais aleatórios
+    .desc = Gera materiais de construção.
     .suffix = Masmorra, Valioso
 
 ent-SpawnDungeonLootMaterialsValuableSingle = materiais aleatórios
+    .desc = Gera materiais de construção.
     .suffix = Masmorra, Valioso, Único
 
 ent-SpawnDungeonLootOresFull = minérios aleatórios
+    .desc = Gera depósitos de minério.
     .suffix = Masmorra, Completo
 
 ent-SpawnDungeonLootOresSingle = minérios aleatórios
+    .desc = Gera depósitos de minério.
     .suffix = Masmorra, Único
 
 ent-SpawnDungeonLootSpesos = créditos aleatórios
+    .desc = Gera maços de dinheiro.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootSuitStorageUnitsGeneral = unidade de armazenamento de traje aleatória
+    .desc = Gera unidades de armazenamento de roupas.
     .suffix = Masmorra, Genérico
 
 ent-SpawnDungeonLootVendingRestocks = caixa de reposição aleatória
+    .desc = Gera caixas de reabastecimento.
     .suffix = Masmorra
 
 ent-SpawnDungeonMachineFrame = chassi de máquina aleatório
+    .desc = Gera máquinas.
     .suffix = Masmorra
 
 ent-SpawnDungeonVendomatsClothes = vending machine aleatório
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Roupas
 
 ent-SpawnDungeonVendomatsRecreational = vending machine aleatório
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Recreacional
 
 ent-SpawnDungeonVendomatsTools = vending machine aleatório
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Ferramentas
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_hydroponics.yml
 
 ent-SpawnDungeonLootChemsHydroponics = químicos aleatórios
+    .desc = Gera suprimentos químicos.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootClothesHydroponics = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootClutterHydroponics = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootCrateEmptyHydro = caixe aleatório (vazio)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootCrateHydro = caixe aleatório
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootCrateRestockHydro = caixe aleatório (reposição)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootSeed = semente aleatória
+    .desc = Gera sementes.
     .suffix = Masmorra, Hidroponia
 
 ent-SpawnDungeonLootToolsHydroponics = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Hidroponia
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_kitchen.yml
 
 ent-SpawnDungeonFurnitureKitchen = mobília aleatória
+    .desc = Gera mobília.
     .suffix = Masmorra, Cozinha
 
 ent-SpawnDungeonLootClothesKitchen = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Cozinha
 
 ent-SpawnDungeonLootClutterKitchen = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Cozinha
 
 ent-SpawnDungeonLootCrateEmptyService = caixe aleatório (vazio)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Serviço
 
 ent-SpawnDungeonLootCrateRestockService = caixe aleatório (reposição)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Serviço
 
 ent-SpawnDungeonLootCrateService = caixe aleatório
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Serviço
 
 ent-SpawnDungeonLootCutlery = talheres aleatórios
+    .desc = Gera talheres.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootFlatpacksService = flatpack aleatório
+    .desc = Gera flatpacks para construção de mobília.
     .suffix = Masmorra, Serviço
 
 ent-SpawnDungeonLootFood = comida aleatória
+    .desc = Gera itens de comida.
     .suffix = Masmorra, Estragada
 
 ent-SpawnDungeonLootKitchenTabletop = techfab de mesa aleatório
+    .desc = Gera equipamentos de cozinha.
     .suffix = Masmorra, Cozinha, Mesa
 
 ent-SpawnDungeonLootMugs = caneca aleatória
+    .desc = Gera canecas.
     .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_medical.yml
 
 ent-SpawnDungeonClutterBeakerEmpty = béquer aleatório
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Vazio
 
 ent-SpawnDungeonClutterHypospray = hypospray aleatório
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra
 
 ent-SpawnDungeonClutterImplanter = implanter aleatório
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra
 
 ent-SpawnDungeonClutterMedical = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonClutterMedipens = medipens aleatórios
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra
 
 ent-SpawnDungeonClutterMedsFull = remédios aleatórios
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Completo
 
 ent-SpawnDungeonClutterMedsSingle = remédios aleatórios
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Único
 
 ent-SpawnDungeonClutterPatientTransport = transporte de paciente aleatório
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra
 
 ent-SpawnDungeonClutterSyringe = seringa aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootChems = químicos aleatórios
+    .desc = Gera suprimentos químicos.
     .suffix = Masmorra, Química
 
 ent-SpawnDungeonLootCircuitBoardMed = placa de máquina aleatória
+    .desc = Gera suprimentos médicos.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootClothesMed = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootCrateEmptyMed = caixe aleatório (vazio)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootCrateMed = caixe aleatório
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootCrateRestockMed = caixe aleatório (reposição)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootFlatpacksMed = flatpack aleatório
+    .desc = Gera flatpacks para construção de mobília.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootKitsFirstAid = kit de primeiros socorros aleatório
+    .desc = Gera kits de equipamentos.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootKitSurgery = kit de cirurgia aleatório
+    .desc = Gera equipamentos cirúrgicos.
     .suffix = Masmorra
 
 ent-SpawnDungeonLootLockersMed = armário aleatório
+    .desc = Gera armários cheios.
     .suffix = Masmorra, Médico
 
 ent-SpawnDungeonLootToolsSurgery = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Cirurgia
 
 ent-SpawnDungeonLootToolsSurgeryAdvanced = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Cirurgia, Avançada
 
 ent-SpawnDungeonLootToolsSurgeryCrude = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Cirurgia, Improvisada
 
 ent-SpawnDungeonVendomatsMed = vending machine aleatório
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Médico
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_mercenary.yml
 
 ent-SpawnDungeonLootArmorMercenary = armadura aleatória
+    .desc = Gera equipamentos mercenários.
     .suffix = Masmorra, Mercenário
 
 ent-SpawnDungeonLootArmoryClutter = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Mercenário
 
 ent-SpawnDungeonLootArmoryClutterSec = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Segurança
 
 ent-SpawnDungeonLootArmoryExplosives = arma aleatória
+    .desc = Gera equipamentos de arsenal.
     .suffix = Masmorra, Explosivos, T1-T2
 
 ent-SpawnDungeonLootArmoryGuns = arma aleatória
+    .desc = Gera equipamentos de arsenal.
     .suffix = Masmorra, Soltas, T1
 
 ent-SpawnDungeonLootArmoryMelee = arma aleatória
+    .desc = Gera equipamentos de arsenal.
     .suffix = Masmorra, Corpo a Corpo, T1-T2
 
 ent-SpawnDungeonLootArmoryRare = arma aleatória
+    .desc = Gera equipamentos de arsenal.
     .suffix = Masmorra, Cofre, T3
 
 ent-SpawnDungeonLootClothesMercenary = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Mercenário
 
 ent-SpawnDungeonLootCrateArmoryArmor = caixe aleatório
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Arsenal, Armadura
 
 ent-SpawnDungeonLootCrateArmoryWeapon = caixe aleatório
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Arsenal, Arma
 
 ent-SpawnDungeonLootCrateRestockArmory = caixe aleatório (reposição)
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Arsenal
 
 ent-SpawnDungeonLootHardsuitsMercenary = hardsuits aleatórios
+    .desc = Gera equipamentos mercenários.
     .suffix = Masmorra, Mercenário
 
 ent-SpawnDungeonLootLatheArmory = techfab de máquina aleatório
+    .desc = Gera equipamentos de arsenal.
     .suffix = Masmorra, Arsenal
 
 ent-SpawnDungeonLootLockersArmory = armário aleatório
+    .desc = Gera armários cheios.
     .suffix = Masmorra, Arsenal, Mercenário
 
 ent-SpawnDungeonLootShieldsMercenary = escudos aleatórios
+    .desc = Gera equipamentos mercenários.
     .suffix = Masmorra, Mercenário
 
 ent-SpawnDungeonLootSuitStorageUnitsMercenary = unidade de armazenamento de traje aleatória
+    .desc = Gera equipamentos mercenários.
     .suffix = Masmorra, Mercenário
 
 ent-SpawnDungeonLootVaultGuns = arma aleatória
+    .desc = Gera armas de fogo.
     .suffix = Masmorra, Cofre, T2
 
 ent-SpawnDungeonVendomatsArmory = vending machine aleatório
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Arsenal
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_research.yml
 
 ent-SpawnDungeonFurnitureScience = mobília aleatória
+    .desc = Gera mobília.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLawBoardScience = quadro de leis aleatório
+    .desc = Gera quadros de lei.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLootCircuitBoardScience = placa de máquina aleatória
+    .desc = Gera equipamentos científicos.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLootClothesScience = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLootClutterScience = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLootCrateScience = caixe aleatório
+    .desc = Gera caixas de suprimentos.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLootFlatpacksScience = flatpack aleatório
+    .desc = Gera flatpacks para construção de mobília.
     .suffix = Masmorra, Ciência
 
 ent-SpawnDungeonLootRnDDisk = disco aleatório
+    .desc = Gera discos de pesquisa.
     .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_supply.yml
 
 ent-SpawnDungeonLootCircuitBoardSalvage = placa de máquina aleatória
+    .desc = Gera loot de salvagem.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootClothesSalvage = roupas aleatórias
+    .desc = Gera roupas.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootClutterSalvage = bagunça aleatória
+    .desc = Gera itens diversos de bagunça.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootFlatpacksSuppl = flatpack aleatório
+    .desc = Gera flatpacks para construção de mobília.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootHardsuitsSalvage = hardsuits aleatórios
+    .desc = Gera loot de salvagem.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootLatheSalvage = techfab de máquina aleatório
+    .desc = Gera loot de salvagem.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootLockersSalvage = armário aleatório
+    .desc = Gera armários cheios.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootSuitStorageUnitsSalvage = unidade de armazenamento de traje aleatória
+    .desc = Gera loot de salvagem.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonLootToolsSalvage = ferramenta aleatória
+    .desc = Gera ferramentas.
     .suffix = Masmorra, Salvagem
 
 ent-SpawnDungeonVendomatsSalvage = vending machine aleatório
+    .desc = Gera máquinas de venda.
     .suffix = Masmorra, Salvagem
 
 # From: _NF/Entities/Markers/Spawners/Random/dungeon_items_weapons.yml
 
 ent-SpawnDungeonLootAmmoIncendiary = munição aleatória
+    .desc = Gera munição.
     .suffix = Masmorra, Munição, Incendiária
 
 ent-SpawnDungeonLootAmmoLethal = munição aleatória
+    .desc = Gera munição.
     .suffix = Masmorra, Munição, Letal
 
 ent-SpawnDungeonLootAmmoPractice = munição aleatória
+    .desc = Gera munição.
     .suffix = Masmorra, Munição, Prática
 
 ent-SpawnDungeonLootAmmoRubber = munição aleatória
+    .desc = Gera munição.
     .suffix = Masmorra, Munição, Borracha
 
 ent-SpawnDungeonLootAmmoUranium = munição aleatória
+    .desc = Gera munição.
     .suffix = Masmorra, Munição, Urânio
 
 ent-SpawnDungeonLootExplosivesT1 = arma aleatória
+    .desc = Gera explosivos.
     .suffix = Masmorra, Explosivos, T1
 
 ent-SpawnDungeonLootExplosivesT2 = arma aleatória
+    .desc = Gera explosivos.
     .suffix = Masmorra, Explosivos, T2
 
 ent-SpawnDungeonLootExplosivesT3 = arma aleatória
+    .desc = Gera explosivos.
     .suffix = Masmorra, Explosivos, T3
 
 ent-SpawnDungeonLootExplosivesT4 = arma aleatória
+    .desc = Gera explosivos.
     .suffix = Masmorra, Explosivos, T4
 
 ent-SpawnDungeonLootExplosivesT5 = arma aleatória
+    .desc = Gera explosivos.
     .suffix = Masmorra, Explosivos, T5
 
 ent-SpawnDungeonLootGunT1 = arma aleatória
+    .desc = Gera armas de fogo.
     .suffix = Masmorra, Arma, T1
 
 ent-SpawnDungeonLootGunT2 = arma aleatória
+    .desc = Gera armas de fogo.
     .suffix = Masmorra, Arma, T2
 
 ent-SpawnDungeonLootGunT3 = arma aleatória
+    .desc = Gera armas de fogo.
     .suffix = Masmorra, Arma, T3
 
 ent-SpawnDungeonLootGunT4 = arma aleatória
+    .desc = Gera armas de fogo.
     .suffix = Masmorra, Arma, T4
 
 ent-SpawnDungeonLootGunT5 = arma aleatória
+    .desc = Gera armas de fogo.
     .suffix = Masmorra, Arma, T5
 
 ent-SpawnDungeonLootMeleeT1 = arma aleatória
+    .desc = Gera armas corpo a corpo.
     .suffix = Masmorra, Corpo a Corpo, T1
 
 ent-SpawnDungeonLootMeleeT2 = arma aleatória
+    .desc = Gera armas corpo a corpo.
     .suffix = Masmorra, Corpo a Corpo, T2
 
 ent-SpawnDungeonLootMeleeT3 = arma aleatória
+    .desc = Gera armas corpo a corpo.
     .suffix = Masmorra, Corpo a Corpo, T3
 
 ent-SpawnDungeonLootMeleeT4 = arma aleatória
+    .desc = Gera armas corpo a corpo.
     .suffix = Masmorra, Corpo a Corpo, T4
 
 ent-SpawnDungeonLootMeleeT5 = arma aleatória
+    .desc = Gera armas corpo a corpo.
     .suffix = Masmorra, Corpo a Corpo, T5
 
 # From: _NF/Entities/Markers/Spawners/Random/generator.yml
 
 ent-RandomDungeonPortableGeneratorSpawner = spawner de gerador portátil aleatório
+    .desc = Um gerador portátil.
     .suffix = Masmorra
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_aberrant_flesh.yml
 
 ent-SpawnMobAberrantFleshExpeditions = gerador de carne aberrante
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobAberrantFleshNewbornExpeditions = gerador de carne aberrante recém-nascida
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil, RND
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_argocyte.yml
 
 ent-ArgocyteAISpawner = spawner de argócito
+    .desc = Uma entidade.
     .suffix = IA, Hostil
 
 ent-SpawnMobArgocyteBig = gerador de argócito
+    .desc = Gera um argócito.
     .suffix = IA, Hostil, Grande
 
 ent-SpawnMobArgocyteMedium = gerador de argócito
+    .desc = Gera um argócito.
     .suffix = IA, Hostil, Médio
 
 ent-SpawnMobArgocyteSmall = gerador de argócito
+    .desc = Gera um argócito.
     .suffix = IA, Hostil, Pequeno
 
 ent-SpawnMobArgocyteTiny = gerador de argócito
+    .desc = Gera um argócito.
     .suffix = IA, Hostil, Minúsculo
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_bloodcult.yml
 
 ent-SpawnMobCatBloodCultLowChance = gerador de gato do culto sanguinário
+    .desc = Gera um cultista de sangue.
     .suffix = Fantasma, 5% de Chance de Spawn
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_dinosaurs.yml
 
 ent-SpawnMobDinosaurBig = gerador de dinossauro
+    .desc = Gera um dinossauro.
     .suffix = IA, Hostil, Grande
 
 ent-SpawnMobDinosaurMedium = gerador de dinossauro
+    .desc = Gera um dinossauro.
     .suffix = IA, Hostil, Médio
 
 ent-SpawnMobDinosaurSmall = gerador de dinossauro
+    .desc = Gera um dinossauro.
     .suffix = IA, Hostil, Pequeno
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_explorers.yml
 
 ent-SpawnMobExplorerT1 = gerador de explorador
+    .desc = Gera um explorador.
     .suffix = IA, Hostil, T1
 
 ent-SpawnMobExplorerT2 = gerador de explorador
+    .desc = Gera um explorador.
     .suffix = IA, Hostil, T2
 
 ent-SpawnMobExplorerT3 = gerador de explorador
+    .desc = Gera um explorador.
     .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_mercenaries.yml
 
 ent-SpawnMobMercenaryT1 = gerador de mercenário
+    .desc = Gera um mercenário.
     .suffix = IA, Hostil, T1
 
 ent-SpawnMobMercenaryT2 = gerador de mercenário
+    .desc = Gera um mercenário.
     .suffix = IA, Hostil, T2
 
 ent-SpawnMobMercenaryT3 = gerador de mercenário
+    .desc = Gera um mercenário.
     .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_punkgangers.yml
 
 ent-SpawnMobPunkLeader = gerador de líder punk
+    .desc = Gera um punk.
     .suffix = IA, Hostil
 
 ent-SpawnMobPunkT1 = gerador de punk
+    .desc = Gera um punk.
     .suffix = IA, Hostil, T1
 
 ent-SpawnMobPunkT2 = gerador de punk
+    .desc = Gera um punk.
     .suffix = IA, Hostil, T2
 
 ent-SpawnMobPunkT3 = gerador de punk
+    .desc = Gera um punk.
     .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_silicons.yml
 
 ent-SpawnMobRogueDronesT1 = gerador de drone
+    .desc = Gera um drone.
     .suffix = IA, Hostil, T1
 
 ent-SpawnMobRogueScapT1 = gerador de unidade de sucata
+    .desc = Gera um mob.
     .suffix = IA, Hostil, T1
 
 ent-SpawnMobRogueSiliconBossRandom = gerador de chefe de silício rebelado
+    .desc = Gera um silício rebelde.
     .suffix = IA, Hostil, Aleatório
 
 ent-SpawnMobRogueSiliconsT2 = gerador de unidade rebelada
+    .desc = Gera um silício rebelde.
     .suffix = IA, Hostil, T2
 
 ent-SpawnMobRogueSiliconsT3 = gerador de unidade rebelada
+    .desc = Gera um silício rebelde.
     .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_syndicate.yml
@@ -1110,77 +1351,101 @@ ent-SpawnMobRogueSiliconsT3 = gerador de unidade rebelada
 ent-SpawnMobCatSyndy = sindicato
 
 ent-SpawnMobExperimentationVictim = gerador de vítima de experimentação
+    .desc = Gera um mob.
     .suffix = IA, Hostil
 
 ent-SpawnMobSyndicateNavalCaptain = gerador de capitão naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalChemwarrior = gerador de guerreiro químico naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalCommander = gerador de comandante naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalDeckhand = gerador de moço de convés naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalEngineer = gerador de engenheiro naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalGrenadier = gerador de granadeiro naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalHardVoid = gerador de mobs mais difíceis navais do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND (baixo), Void
 
 ent-SpawnMobSyndicateNavalHorror = gerador de horror naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalMedic = gerador de médico naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
-ent-SpawnMobSyndicateNavalMime = gerador de mimo naval do Sindicato
+ent-SpawnMobSyndicateNavalMime = gerador de mímico naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil
 
 ent-SpawnMobSyndicateNavalOperator = gerador de operador naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalSaboteur = gerador de sabotador naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 ent-SpawnMobSyndicateNavalSecondOfficer = gerador de segundo oficial naval do Sindicato
+    .desc = Gera um membro da tripulação do Sindicato.
     .suffix = IA, Hostil, RND
 
 # From: _NF/Entities/Markers/Spawners/Random/mobs_hostile_wizardfederation.yml
 
 ent-SpawnMobWizFedWizard = Gerador de Mago Aleatório
+    .desc = Gera um mago.
     .suffix = IA
 
 ent-SpawnMobWizFedWizardBlue = Gerador de Mago Azul
+    .desc = Gera um mago.
     .suffix = IA
 
 ent-SpawnMobWizFedWizardBlueHardsuit = Gerador de Mago Azul
+    .desc = Gera um mago.
     .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardHardsuit = Gerador de Mago Aleatório
+    .desc = Gera um mago.
     .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardRed = Gerador de Mago Vermelho
+    .desc = Gera um mago.
     .suffix = IA
 
 ent-SpawnMobWizFedWizardRedHardsuit = Gerador de Mago Vermelho
+    .desc = Gera um mago.
     .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardSoap = Gerador de Mago Sabão
+    .desc = Gera um mago.
     .suffix = IA
 
 ent-SpawnMobWizFedWizardSoapHardsuit = Gerador de Mago Sabão
+    .desc = Gera um mago.
     .suffix = IA, Traje rígido
 
 ent-SpawnMobWizFedWizardViolet = Gerador de Mago Violeta
+    .desc = Gera um mago.
     .suffix = IA
 
 ent-SpawnMobWizFedWizardVioletHardsuit = Gerador de Mago Violeta
+    .desc = Gera um mago.
     .suffix = IA, Traje rígido
 
 # From: _NF/Entities/Markers/Spawners/Random/paintings.yml
@@ -1192,52 +1457,67 @@ ent-RandomPaintingHalloween = {ent-RandomPainting}
 # From: _NF/Entities/Markers/Spawners/Random/parts.yml
 
 ent-SalvagePartsT2Spawner = spawner de peças de máquina t2 de salvagem
+    .desc = Gera peças mecânicas.
     .suffix = Gerador
 
 ent-SalvagePartsT3Spawner = spawner de peças de máquina t3 de salvagem
+    .desc = Gera peças mecânicas.
     .suffix = Gerador
 
 ent-SalvagePartsT3T4Spawner = spawner de peças de máquina t3/4 de salvagem
+    .desc = Gera peças mecânicas.
     .suffix = Gerador
 
 ent-SalvagePartsT4Spawner = spawner de peças de máquina t4 de salvagem
+    .desc = Gera peças mecânicas.
     .suffix = Gerador
 
 # From: _NF/Entities/Markers/Spawners/Random/salvage.yml
 
 ent-AndesiteCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Andesita
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-AndesiteElementalSpawner = spawner de elemental de andesito
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-AsteroidRockElementalSpawner = spawner de elemental de rocha de asteroide
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-AsteroidScrapBotSpawner = spawner de robô de sucata de asteroide
 
 ent-AsteroidScrapBotWallSpawner = spawner de rocha de robô de sucata de asteroide
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-BasaltCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Basalto
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-BasaltElementalSpawner = spawner de elemental de basalto
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-ChromiteCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Cromita
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-ChromiteElementalSpawner = spawner de elemental de cromita
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-CobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-IceElementalSpawner = spawner de Elemental de Gelo
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-NecropolisElementalSpawner = spawner de Elemental da Necrópole
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-NFSalvageMaterialCrateSpawner = spawner de Caixa de Materiais de Salvagem
@@ -1249,6 +1529,7 @@ ent-NFSalvageMobSpawner = {ent-SalvageMobSpawner}
 ent-RandomBook = gerador de livro aleatório
 
 ent-RockElementalSpawner = spawner de elemental de rocha
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-SalvageBrassFurnitureSpawner = spawner de móveis de latão aleatórios de salvagem
@@ -1264,15 +1545,19 @@ ent-SalvageLockerSpawner = spawner de armário de salvagem
 ent-SalvageSuitStorageSpawner = spawner de armazenamento de macacão de salvagem
 
 ent-SalvageTankSpawnerHighCapacity = gerador de tanque de salvagem
+    .desc = Um gerador.
     .suffix = Alta Capacidade, 95%
 
 ent-SandElementalSpawner = spawner de elemental de areia
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-SandstoneCobblebrickElementalSpawner = spawner de Elemental de Pedra Ardósia Arenito
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-SnowElementalSpawner = spawner de elemental de neve
+    .desc = Uma entidade.
     .suffix = 45
 
 ent-SpawnVehicleAntagVehicle = Gerador de Veículo Antagônico
@@ -1288,6 +1573,7 @@ ent-NFAndesiteMineralHardRich = {ent-NFAndesiteMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFAndesiteMineralSoft = gerador de mineral de andesito
+    .desc = Gera veios de minerais de andezito quando salvado.
     .suffix = Suave
 
 ent-NFAsteroidMineralHard = {ent-NFAsteroidMineralSoft}
@@ -1299,6 +1585,7 @@ ent-NFAsteroidMineralHardRich = {ent-NFAsteroidMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFAsteroidMineralSoft = gerador de mineral de asteroide
+    .desc = Gera veios de minerais de asteroide quando salvado.
     .suffix = Suave
 
 ent-NFBasaltMineralHard = {ent-NFBasaltMineralSoft}
@@ -1310,6 +1597,7 @@ ent-NFBasaltMineralHardRich = {ent-NFBasaltMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFBasaltMineralSoft = gerador de mineral de basalto
+    .desc = Gera veios de minerais de basalto quando salvado.
     .suffix = Macio
 
 ent-NFChromiteMineralHard = {ent-NFChromiteMineralSoft}
@@ -1321,6 +1609,7 @@ ent-NFChromiteMineralHardRich = {ent-NFChromiteMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFChromiteMineralSoft = gerador de mineral de cromita
+    .desc = Gera veios de minerais de cromita quando salvado.
     .suffix = Macio
 
 ent-NFIceMineralHard = {ent-NFIceMineralSoft}
@@ -1332,6 +1621,7 @@ ent-NFIceMineralHardRich = {ent-NFIceMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFIceMineralSoft = gerador de mineral de gelo
+    .desc = Gera veios de minerais de gelo quando salvado.
     .suffix = Macio
 
 ent-NFRockMineralHard = {ent-NFRockMineralSoft}
@@ -1343,6 +1633,7 @@ ent-NFRockMineralHardRich = {ent-NFRockMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFRockMineralSoft = gerador de mineral de rocha
+    .desc = Gera veios de minerais de rocha quando salvado.
     .suffix = Macio
 
 ent-NFSandMineralHard = {ent-NFSandMineralSoft}
@@ -1354,9 +1645,11 @@ ent-NFSandMineralHardRich = {ent-NFSandMineralSoft}
     .suffix = Duro, Rico
 
 ent-NFSandMineralSoft = gerador de mineral de areia
+    .desc = Gera veios de minerais de arenito quando salvado.
     .suffix = Macio
 
 ent-NFScrapMineralSoft = gerador de mineral de sucata
+    .desc = Gera veios de minerais de rocha quando salvado.
     .suffix = Macio
 
 # From: _NF/Entities/Markers/Spawners/Random/Salvage/spawners.yml
@@ -1368,20 +1661,25 @@ ent-SalvageSpawnerScrapBrass75 = {ent-SalvageSpawnerScrapCommon}
 # From: _NF/Entities/Markers/Spawners/Random/shuttle_items.yml
 
 ent-SpawnShuttleGearSuitStorageUnitsMercenary = unidade de armazenamento de traje aleatória
+    .desc = Gera equipamentos de nave.
     .suffix = Naveta, Mercenário
 
 ent-SpawnShuttleVendomatsClothes = máquina de vendas aleatória
+    .desc = Gera equipamentos de nave.
     .suffix = Naveta, Roupas
 
 # From: _NF/Entities/Markers/Spawners/syndicate.yml
 
 ent-PinpointerSyndicatePOISpawner = Localizador de POI do Sindicato
+    .desc = Um pinpointer.
     .suffix = 10
 
 ent-SpawnContrabandCrate = Gerador de Caixa de Contrabando
+    .desc = Gera contrabando.
     .suffix = DeadDrop
 
 ent-SpawnEventContrabandCrate = Gerador de Caixa de Contrabando
+    .desc = Gera contrabando.
     .suffix = Evento
 
 # From: _NF/Entities/Markers/Spawners/vehicles.yml
@@ -1491,28 +1789,36 @@ ent-DungeonHumanCorpseRandomService = {ent-DungeonHumanCorpse}
 # From: _NF/Entities/Mobs/Corpses/medical_corpse.yml
 
 ent-SpawnRandomHumanoidCorpseMedicalBounty = cadáver de recompensa médica
+    .desc = Gera um corpo de recompensa médica aleatório.
     .suffix = Sem Equipamento
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyCargo =
+ent-SpawnRandomHumanoidCorpseMedicalBountyCargo = ""
     .suffix = Carga
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyCommand =
+ent-SpawnRandomHumanoidCorpseMedicalBountyCommand = ""
     .suffix = Comando
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyEngineering =
+ent-SpawnRandomHumanoidCorpseMedicalBountyEngineering = ""
     .suffix = Engenharia
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyMedical =
+ent-SpawnRandomHumanoidCorpseMedicalBountyMedical = ""
     .suffix = Médico
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyScience =
+ent-SpawnRandomHumanoidCorpseMedicalBountyScience = ""
     .suffix = Ciência
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountySecurity =
+ent-SpawnRandomHumanoidCorpseMedicalBountySecurity = ""
     .suffix = Segurança
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyService =
+ent-SpawnRandomHumanoidCorpseMedicalBountyService = ""
     .suffix = Serviço
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
 # From: _NF/Entities/Mobs/NPCs/animals.yml
 
@@ -1521,6 +1827,7 @@ ent-CageParrot = gaiola carregando papagaio
     .desc = Um lar fora do lar para seu amigo emplumado barulhento.
 
 ent-MobAngryBeeTimed = abelha
+    .desc = Um mob.
     .suffix = Raivosa, Temporizada
 
 ent-MobParrotNF = papagaio
@@ -2113,6 +2420,7 @@ ent-MobWizFedWizardRedHardsuit = Mago Vermelho
 ent-MobWizFedWizardSoap = Mago de Sabão
 
 ent-MobWizFedWizardSoapHardsuit = Mago de Sabão
+    .desc = Um mob.
     .suffix = IA, Macacão
 
 ent-MobWizFedWizardViolet = Mago Violeta
@@ -2209,9 +2517,11 @@ ent-MobIfritGuardianAI = {ent-MobIfritGuardian}
 # From: _NF/Entities/Mobs/Player/humanoid.yml
 
 ent-RandomHumanoidSpawnerERTMailCarrier = carteiro da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = PapelERT, Básico
 
 ent-RandomHumanoidSpawnerERTMailCarrierEVA = carteiro da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = PapelERT, Ambiente EVA
 
 # From: _NF/Entities/Mobs/Species/goblin.yml
@@ -3128,6 +3438,7 @@ ent-DocPDA = PDA de diretor de cuidados
     .desc = Cheira a desinfetante.
 
 ent-ERTMailCarrierPDA = PDA de carteiro ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = Carteiro
 
 ent-MercenaryPDA = PDA de mercenário
@@ -3457,23 +3768,28 @@ ent-PrizeBall = bola de prêmio
     .desc = Me pergunto o que tem dentro!
 
 ent-PrizeTicket = bilhete de prêmio
+    .desc = Um bilhete de prêmio.
     .suffix = Completo
 
 ent-PrizeTicket1 = bilhete de prêmio
+    .desc = Um bilhete de prêmio.
     .suffix = Único
 
 ent-PrizeTicket10 = bilhete de prêmio
+    .desc = Um bilhete de prêmio.
     .suffix = 10
 
 ent-PrizeTicket30 = bilhete de prêmio
+    .desc = Um bilhete de prêmio.
     .suffix = 30
 
 ent-PrizeTicket60 = bilhete de prêmio
+    .desc = Um bilhete de prêmio.
     .suffix = 60
 
 # Abstract entity (referenceable by children)
 
-ent-PrizeTicketBase =
+ent-PrizeTicketBase = ""
     .desc = Um bilhete de prêmio, pronto para ser resgatado no balcão de prêmios.
 
 # From: _NF/Entities/Objects/Fun/spaceblade_boxes.yml
@@ -3755,11 +4071,11 @@ ent-CrateSecureMercenaryHardsuit = caixote de traje rígido de mercenário
 ent-CrateSecureMercenaryHardsuitMagBoots = caixote de traje rígido de mercenário
     .desc = Contém um traje rígido de mercenário.
 
-ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de traje rígido de segurança privada
-    .desc = Contém um traje rígido de segurança privada.
+ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de traje rígido de segurança particular
+    .desc = Contém um traje rígido de segurança particular.
 
-ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de traje rígido de segurança privada
-    .desc = Contém um traje rígido de segurança privada.
+ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de traje rígido de segurança particular
+    .desc = Contém um traje rígido de segurança particular.
 
 ent-CrateServiceKitChemLab = kit de laboratório de química
     .desc = Contém um kit completo para construir um laboratório de química.
@@ -3814,9 +4130,11 @@ ent-CrateMaterialMetalRods = caixote de barras de metal
     .desc = 90 barras de metal, embaladas com abandono total.
 
 ent-CrateMaterialsBasic10Filled = caixote de materiais
+    .desc = Uma caixa cheia de suprimentos.
     .suffix = Preenchido, Materiais Básicos (10)
 
 ent-CrateMaterialsBasicFilled = caixote de materiais
+    .desc = Uma caixa cheia de suprimentos.
     .suffix = Preenchido, Materiais Básicos (completo)
 
 # From: _NF/Catalog/Fills/Crates/nfsd.yml
@@ -3886,21 +4204,27 @@ ent-CrateWoodCageClugg = {ent-CrateWoodCage}
 # From: _NF/Catalog/Fills/Crates/pirate.yml
 
 ent-CratePirateChest = baú de pirata da tripulação
+    .desc = Uma entidade.
     .suffix = Preenchido
 
 ent-CratePirateChestCannonBall = baú de bolas de canhão
+    .desc = Uma entidade.
     .suffix = Preenchido
 
 ent-CratePirateChestCannonBallEmp = baú de tiros de choque
+    .desc = Uma entidade.
     .suffix = Preenchido
 
 ent-CratePirateChestCaptain = baú de pirata do capitão
+    .desc = Um ponto de spawn de capitão pirata.
     .suffix = Preenchido
 
 ent-CratePirateChestGlassShot = baú de tiro de vidro
+    .desc = Uma entidade.
     .suffix = Preenchido
 
 ent-CratePirateChestGrapeShot = baú de tiro de uva
+    .desc = Uma entidade.
     .suffix = Preenchido
 
 # From: _NF/Catalog/Fills/Crates/salvage.yml
@@ -4038,6 +4362,7 @@ ent-UraniumOre5 = {ent-UraniumOre}
 # From: _NF/Entities/Objects/Materials/Sheets/other.yml
 
 ent-SheetPlastic5 = plástico
+    .desc = Cinco folhas de plástico.
     .suffix = 5
 
 # From: _NF/Entities/Objects/Misc/ashtray.yml
@@ -4166,29 +4491,30 @@ ent-MailBagCapsulePrimed = {ent-MailBag}
     .suffix = Cápsulas
 
 ent-MailCapsulePrimed = cápsula de correio
+    .desc = Uma cápsula de correio.
     .suffix = Preparada
 
 # From: _NF/Entities/Objects/Misc/monkeycube.yml
 
 ent-ChickenCubeWrapped = cubo de galinha
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de galinha.
+    .desc = Desembrulhe isso para obter um cubo de galinha.
 
 ent-CowCubeWrapped = cubo de vaca
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de vaca.
+    .desc = Desembrulhe isso para obter um cubo de vaca.
 
 ent-DuckCubeWrapped = cubo de pato
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de pato.
+    .desc = Desembrulhe isso para obter um cubo de pato.
 
 ent-GoatCubeWrapped = cubo de cabra
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de cabra.
+    .desc = Desembrulhe isso para obter um cubo de cabra.
 
 ent-PigCubeWrapped = cubo de porco
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de porco.
+    .desc = Desembrulhe isso para obter um cubo de porco.
 
 ent-PoultryCubeBox = caixa de cubos de aves
     .desc = Uma caixa de cubos de aves: galinhas e patos! Apenas adicione água!
@@ -4711,6 +5037,7 @@ ent-NFPillCanisterMannitol = {ent-PillCanister}
     .desc = Tome dois comprimidos diariamente.
 
 ent-NFPillMannitol = comprimido
+    .desc = Uma entidade.
     .suffix = Mannitol 10u
 
 ent-Suture10Lingering = {ent-MedicatedSuture}
@@ -4928,7 +5255,7 @@ ent-VendingMachineRestockPottedPlantVend = caixa de reposição da Plant-O-Matic
 # From: _NF/Entities/Objects/Specific/Wizard/conjured_items.yml
 # Abstract entity (referenceable by children)
 
-ent-ConjuredObject10 =
+ent-ConjuredObject10 = ""
     .suffix = Conjuro
     .desc = Uma entidade criada magicamente, que eventualmente desaparecerá da existência.
 
@@ -4980,7 +5307,7 @@ ent-NFPouchPirate = bolsa do pirata
 
 ent-NFPouchPirateCaptain = bolsa do capitão pirata
 
-ent-NFPouchPrivateSecurity = bolsa de segurança privada
+ent-NFPouchPrivateSecurity = bolsa de segurança particular
 
 ent-NFPouchPunk = bolsa punk
 
@@ -5154,8 +5481,8 @@ ent-NFBlueprintOreBagOfHolding = diagrama de saco de minério bluespace
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_science.yml
 
-ent-NFBlueprintClothingShoesBootsMagAdv = diagrama de magbotas avançadas
-    .desc = Um diagrama com um esquema de umas magbotas avançadas. Pode ser inserido em um torno ou em uma techfab.
+ent-NFBlueprintClothingShoesBootsMagAdv = diagrama de botas magnéticas avançadas
+    .desc = Um diagrama com um esquema de umas botas magnéticas avançadas. Pode ser inserido em um torno ou em uma techfab.
 
 ent-NFBlueprintPicoManipulatorStockPart = diagrama de super manipulador
     .desc = Um diagrama com um esquema de um super manipulador. Pode ser inserido em um torno ou em uma techfab.
@@ -5220,9 +5547,11 @@ ent-DoubleEmergencyAirTank = tanque de ar de emergência duplo
 # From: _NF/Entities/Objects/Tools/jetpacks.yml
 
 ent-JetpackNfsd = jato propulsor da TSFMC
+    .desc = Um jato.
     .suffix = Vazio
 
 ent-JetpackNfsdFilled = jato propulsor da TSFMC
+    .desc = Um jato com combustível.
     .suffix = Cheio
 
 # From: _NF/Entities/Objects/Tools/medicalappraisal.yml
@@ -5300,7 +5629,7 @@ ent-VehicleHoverbikeNfsdKey = {ent-VehicleHoverbikeNfsd}
     .suffix = Com chave
 
 ent-VehicleHoverbikePirate = hoverbike pirata
-    .desc = Arrr! Isto seja minha nave espacial soberana. Agora, cadê meu rum?
+    .desc = Arrr! Isso seja minha nave espacial soberana. Agora, cadê meu rum?
 
 ent-VehicleHoverbikePirateKey = {ent-VehicleHoverbikePirate}
     .desc = {ent-VehicleHoverbikePirate.desc}
@@ -5328,15 +5657,19 @@ ent-BoxCartridgeRGBB = caixa de RGBBs
 # From: _NF/Entities/Objects/Weapons/Guns/Ammunition/Magazines/turret_box_mag.yml
 
 ent-MagazineAsmgtUniversal556x45mm = caixa de munição compatível com ASMGT (5,56x45mm)
+    .desc = Munição.
     .suffix = Carregada
 
 ent-MagazineAsmgtUniversal635x40mm = caixa de munição compatível com ASMGT (6,35x40mm)
+    .desc = Munição.
     .suffix = Carregada
 
 ent-MagazineAsmgtUniversal762x39mm = caixa de munição compatível com ASMGT (7,62x39mm)
+    .desc = Munição.
     .suffix = Carregada
 
 ent-MagazineAsmgtUniversal9x19mm = caixa de munição compatível com ASMGT (9x19mm)
+    .desc = Munição.
     .suffix = Carregada
 
 ent-MagazineAsmgtUniversalEmpty = caixa de munição compatível com ASMGT
@@ -5438,6 +5771,7 @@ ent-WeaponPistolMk58Nonlethal = {ent-WeaponPistolMk58}
     .suffix = Não-letal
 
 ent-WeaponPistolN1984Nonlethal = N1984 (.45 magnum)
+    .desc = Uma arma não-letal.
     .suffix = Não-letal
 
 # From: _NF/Entities/Objects/Weapons/Guns/Projectiles/baby_dragon_fire.yml
@@ -5620,6 +5954,7 @@ ent-WeaponTurretContrabandDenyingPacked = CDET empacotada
     .desc = Uma Torreta de Energia de Negacao de Contrabando (CDET) desmontada e empacotada.
 
 ent-WeaponTurretLaserHostileNF = torreta de laser
+    .desc = Uma torreta.
     .suffix = Fronteira, Hostil
 
 ent-WeaponTurretLaserNanoTrasenDeployed = SLAT
@@ -5631,6 +5966,7 @@ ent-WeaponTurretLaserNanoTrasenPacked = SLAT empacotada
     .desc = Uma Torreta Automática de Laser de Autorecarga (SLAT) desmontada e empacotada.
 
 ent-WeaponTurretLaserSyndicateNF = torreta de laser
+    .desc = Uma torreta.
     .suffix = Fronteira, Sindicato
 
 # From: _NF/Entities/Objects/Weapons/Melee/brassknuckles.yml
@@ -5648,7 +5984,7 @@ ent-CavemanClub = clava de homem das cavernas
 
 ent-CavemanClubCursed = clava de homem das cavernas
     .suffix = Inremovível, Espuma
-    .desc = Porrete grande faz... isto não é madeira?
+    .desc = Porrete grande faz... isso não é madeira?
 
 # From: _NF/Entities/Objects/Weapons/Melee/e_sword.yml
 
@@ -5679,6 +6015,7 @@ ent-PlasteelArmingSword = espada de armas de plastiaço
 # From: _NF/Entities/Objects/Weapons/Melee/wizard_staff.yml
 
 ent-WizardStaffDarkBolt = cajado de cultista
+    .desc = Uma entidade.
     .suffix = Flecha negra
 
 ent-WizardStaffMeleeBase = cajado de mago
@@ -5739,6 +6076,7 @@ ent-SpawnMobKoboldYipyip = Gerador de Yip Yip
 # From: _NF/Entities/Stations/nanotrasen.yml
 
 ent-StandardFrontierStation = ""
+    .desc = O mapa padrão da Estação Frontier.
     .suffix = DEBUG
 
 # From: _NF/Entities/Structures/atm.yml
@@ -6264,6 +6602,7 @@ ent-StructurePistolRackWallmountedSalvage = {ent-StructurePistolRack}
 # From: _NF/Entities/Structures/Furniture/bedroll.yml
 
 ent-McHoboBedsRandom = gerador de colchões manchados
+    .desc = Uma cama.
     .suffix = Aleatório
 
 ent-NFBedroll = colchão
@@ -6361,6 +6700,7 @@ ent-HoloGraffiti = holografito
     .desc = Uma grafite composta de luz dura. Pode ser facilmente removido por força.
 
 ent-SpawnerHoloGraffitiRandom = holografito
+    .desc = Gera um item aleatório.
     .suffix = Aleatório
 
 # From: _NF/Entities/Structures/Holographic/projections.yml
@@ -6614,12 +6954,15 @@ ent-ComputerMarketConsoleNFBase = computador de mercado de carga
     .desc = Usado para comprar bens do sistema de mercado da estação.
 
 ent-ComputerMarketConsoleNFHigh = computador de mercado de carga
+    .desc = Um computador.
     .suffix = Alto
 
 ent-ComputerMarketConsoleNFLow = computador de mercado de carga
+    .desc = Um computador.
     .suffix = Baixo
 
 ent-ComputerMarketConsoleNFNormal = computador de mercado de carga
+    .desc = Um computador.
     .suffix = Normal
 
 ent-ComputerPalletConsoleNFHighMarket = {ent-ComputerPalletConsoleNFMarket}
@@ -6927,6 +7270,7 @@ ent-JukeboxWallmountShip = {ent-Jukebox}
 # From: _NF/Entities/Structures/Machines/lathe.yml
 
 ent-BiogeneratorFill = biogerador
+    .desc = Um biogerador.
     .suffix = Biomassa, 50
 
 ent-BlueprintLithograph = litógrafo de diagramas
@@ -6936,10 +7280,10 @@ ent-EngineeringTechFab = techfab de engenharia
     .desc = Imprime equipamentos para engenheiros.
 
 ent-MercenaryTechFab = techfab de mercenário
-    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança privada poderia precisar. Nada de especial.
+    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança particular poderia precisar. Nada de especial.
 
 ent-MercenaryTechFabHacked = techfab de mercenário hackeado
-    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança privada poderia precisar. Nada de especial.
+    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança particular poderia precisar. Nada de especial.
 
 ent-NfsdTechFab = techfab TSFMC
     .desc = Imprime equipamentos para uso pelo TSFMC.
@@ -7233,6 +7577,7 @@ ent-GasSalePort = porta de venda de gás
 # From: _NF/Entities/Structures/Power/chargers.yml
 
 ent-WallWeaponCapacitorRechargerOmnidirectional = recarregador de parede
+    .desc = Uma estrutura.
     .suffix = Onidirecional
 
 # From: _NF/Entities/Structures/Power/Generation/portable_generator.yml
@@ -7299,6 +7644,7 @@ ent-GyroscopeNfsd = {ent-Gyroscope}
     .suffix = TSFMC
 
 ent-SmallGyroscopeNfsd = giroscópio pequeno
+    .desc = Um giroscópio de nave.
     .suffix = TSFMC
 
 ent-ThrusterNfsd = {ent-ThrusterSecurity}
@@ -7308,9 +7654,11 @@ ent-ThrusterNfsd = {ent-ThrusterSecurity}
 # From: _NF/Entities/Structures/Shuttles/thrusters_security.yml
 
 ent-DebugGyroscopeSecurity = giroscópio
+    .desc = Para testes.
     .suffix = DEBUG, Segurança
 
 ent-DebugThrusterSecurity = propulsor
+    .desc = Para testes.
     .suffix = DEBUG, Segurança
 
 ent-GyroscopeSecurity = {ent-Gyroscope}
@@ -7318,9 +7666,11 @@ ent-GyroscopeSecurity = {ent-Gyroscope}
     .suffix = Segurança
 
 ent-SmallGyroscopeSecurity = giroscópio pequeno
+    .desc = Um giroscópio de nave.
     .suffix = Segurança
 
 ent-ThrusterSecurity = propulsor
+    .desc = Um propulsor de nave.
     .suffix = Segurança
 
 # From: _NF/Entities/Structures/Shuttles/thrusters.yml
@@ -7409,9 +7759,11 @@ ent-BloodCultProp07 = objeto curioso
     .desc = Huh, me pergunto o que é essa coisa e o que ela faz.
 
 ent-WallCultIndestructible = parede de culte
+    .desc = Uma parede indestrutível.
     .suffix = indestrutível
 
 ent-WindowCultIndestructibleInvisible = janela de culte
+    .desc = Uma parede invisível.
     .suffix = invisível, indestrutível
 
 # From: _NF/Entities/Structures/Specific/dinosaurs.yml
@@ -7667,36 +8019,49 @@ ent-ClosetO2N2 = armário de internos de emergência
 # From: _NF/Entities/Structures/Storage/Closets/Lockers/lockers.yml
 
 ent-LockerJanitor = armário de zelador
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerMailCarrier = armário de carteiro
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerMaterials = armário de materiais
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerMercenary = armário de mercenário
+    .desc = {ent-LockerSteel.desc}
 
-ent-LockerNfsdBailiff = armário da MCFT
+ent-LockerNfsdBailiff = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Bailiff
 
-ent-LockerNfsdBrigmedic = armário da MCFT
+ent-LockerNfsdBrigmedic = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Corpo de Fuzileiros
 
-ent-LockerNfsdCopper = armário da MCFT
+ent-LockerNfsdCopper = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Patrulheiro
 
-ent-LockerNfsdEvidence = armário de evidências da MCFT
+ent-LockerNfsdEvidence = armário de evidências da TSFMC
+    .desc = {ent-LockerSteel.desc}
 
-ent-LockerNfsdSergeant = armário da MCFT
+ent-LockerNfsdSergeant = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Líder de Esquadrão
 
-ent-LockerNfsdSheriff = armário da MCFT
+ent-LockerNfsdSheriff = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Coronel
 
-ent-LockerNfsdSilver = armário da MCFT
+ent-LockerNfsdSilver = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Fuzileiro
 
 ent-LockerPilot = armário de piloto
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerStationRepresentative = armário de supervisor
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerWoodenGeneric = armário de madeira
     .desc = Armário de madeira antigo e empoeirado. Cheira a avós.
@@ -7704,83 +8069,119 @@ ent-LockerWoodenGeneric = armário de madeira
 # From: _NF/Entities/Structures/Storage/Closets/suit_storage_wall.yml
 
 ent-SuitStorageWallmount = unidade de armazenamento de trajes na parede
+    .desc = {ent-SuitStorageBase.desc}
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers_department_eva.yml
 
 ent-LockerWallEVAColorAtmosTech = armário EVA na parede de técnico atmosférico
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorCaptain = armário EVA na parede de capitão
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorCargo = armário EVA na parede de técnico de carga
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorChaplain = armário EVA na parede de capelão
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorContractor = armário EVA na parede de espaciano
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorEmergency = armário EVA de emergência na parede
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorEngineer = armário EVA na parede de engenheiro
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorFsb = armário EVA na parede da FSB
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorGeneric = armário EVA na parede
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorHydroponics = armário EVA na parede de botânico
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorJanitor = armário EVA na parede de zelador
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorLvhi = armário EVA na parede da LVHI
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorMail = armário EVA na parede de carteiro
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorMedical = armário EVA na parede de médico
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorMercenary = armário EVA na parede de mercenário
+    .desc = {ent-SuitStorageWallmount.desc}
 
-ent-LockerWallEVAColorNfsd = armário EVA na parede da MCFT
+ent-LockerWallEVAColorNfsd = armário EVA na parede da TSFMC
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorPilot = armário EVA na parede de piloto
+    .desc = {ent-SuitStorageWallmount.desc}
 
-ent-LockerWallEVAColorPrivateSec = armário EVA na parede de segurança privada
+ent-LockerWallEVAColorPrivateSec = armário EVA na parede de segurança particular
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorSalvage = armário EVA na parede de especialista em salvagem
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorScientist = armário EVA na parede de cientista
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorServiceWorker = armário EVA na parede de funcionário de serviço
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorSr = armário EVA na parede de supervisor
+    .desc = {ent-SuitStorageWallmount.desc}
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers_department.yml
 
 ent-LockerWallColorAtmosTech = armário na parede de técnico atmosférico
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorCaptain = armário na parede de capitão
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorCargo = armário na parede de técnico de carga
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorChemistry = armário na parede de química
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorEngineer = armário na parede de engenheiro
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorGeneric = armário na parede
+    .desc = Um armário de parede.
 
 ent-LockerWallColorGenericBlack = armário na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
     .suffix = Fronteira, Preto
 
 ent-LockerWallColorGenericBlue = armário na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
     .suffix = Fronteira, Azul
 
 ent-LockerWallColorGenericGreen = armário na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
     .suffix = Fronteira, Verde
 
 ent-LockerWallColorHydroponics = armário na parede de botânico
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorMedical = armário na parede médico
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorSalvage = armário na parede de especialista em salvagem
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorServiceWorker = armário na parede de funcionário de serviço
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers.yml
 
@@ -7791,18 +8192,25 @@ ent-ClosetWallO2N2 = armário de internos de emergência na parede
     .desc = É uma unidade de armazenamento para equipamentos de respiração de emergência para todas as espécies.
 
 ent-LockerWallChemistry = armário de química na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorAme = armário de combustível AME na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorBananium = armário de combustível banânio na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorFuelPlasma = armário de combustível de plasma na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorL1Fire = armário de traje de fogo L1 na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorL2Radiation = armário de traje de radiação L2 na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorL3Biohazard = armário de traje de biohazardo L3 na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-WeaponCaseLongAk = {ent-WeaponCaseLong}
     .desc = {ent-WeaponCaseLong.desc}
@@ -8081,11 +8489,13 @@ ent-LockerFreezerSushi = {ent-LockerFreezerBase}
 # From: _NF/Catalog/Fills/Lockers/guns.yml
 
 ent-GunSafeShuttleCaptain = cofre de nave
+    .desc = Um cofre de armas.
     .suffix = Vazio, Capitão
 
 # From: _NF/Catalog/Fills/Lockers/heads.yml
 
 ent-GunSafeSr = cofre de armas pesado do supervisor
+    .desc = Um cofre de armas.
     .suffix = Preenchido
 
 ent-LockerNfsdSheriffFilled = {ent-LockerNfsdSheriff}
@@ -8123,9 +8533,11 @@ ent-ClosetWallO2N2FilledRandom = {ent-ClosetWallO2N2}
     .suffix = Preenchido, Aleatório
 
 ent-LockerWallColorChemistryFilled = armário de parede de química
+    .desc = Um armário de parede.
     .suffix = Preenchido, Frontier
 
 ent-LockerWallColorHydroponicsEmpty = armário de parede de botânico
+    .desc = Um armário de parede.
     .suffix = Vazio, Frontier
 
 ent-LockerWallColorHydroponicsFilled = {ent-LockerWallColorHydroponics}
@@ -8149,9 +8561,11 @@ ent-LockerWallColorL4BombFilled = {ent-LockerWallColorL4Bomb}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorMedicalDoctorFilled = armário de parede do médico
+    .desc = Um armário de parede.
     .suffix = Preenchido, Frontier
 
 ent-LockerWallColorMedicalFilled = armário de parede de medicina
+    .desc = Um armário de parede.
     .suffix = Preenchido, Frontier
 
 ent-LockerWallEVAColorAtmosTechFilled = {ent-LockerWallEVAColorAtmosTech}
@@ -8159,18 +8573,23 @@ ent-LockerWallEVAColorAtmosTechFilled = {ent-LockerWallEVAColorAtmosTech}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorBoxerBlueFilled = armário EVA de boxeador
+    .desc = Um armário de parede.
     .suffix = Preenchido, Azul
 
 ent-LockerWallEVAColorBoxerGreenFilled = armário EVA de boxeador
+    .desc = Um armário de parede.
     .suffix = Preenchido, Verde
 
 ent-LockerWallEVAColorBoxerRandomFilled = armário EVA de boxeador
+    .desc = Um armário de parede.
     .suffix = Preenchido, Aleatório
 
 ent-LockerWallEVAColorBoxerRedFilled = armário EVA de boxeador
+    .desc = Um armário de parede.
     .suffix = Preenchido, Vermelho
 
 ent-LockerWallEVAColorBoxerYellowFilled = armário EVA de boxeador
+    .desc = Um armário de parede.
     .suffix = Preenchido, Amarelo
 
 ent-LockerWallEVAColorCaptainFilled = {ent-LockerWallEVAColorCaptain}
@@ -8206,12 +8625,16 @@ ent-LockerWallEVAColorFsbFilled = {ent-LockerWallEVAColorFsb}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorL4Bomb = armário de parede de roupa de bomba L4
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorMaterials = armário de parede de materiais
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorUranium = armário de parede de combustível de urânio
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorWelding = armário de parede de combustível de solda
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-NFPrisonerClosetWallOrange = armário de parede de prisioneiro
     .desc = É uma unidade de armazenamento para roupas de prisioneiro compatíveis com a Lei Espacial.
@@ -8229,18 +8652,23 @@ ent-ConstructionBox = caixa de construção
 # From: _NF/Entities/Structures/Storage/Crates/crate.yml
 
 ent-CrateAmmoGeneric = caixote de munição
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateAmmoSecureMercenary = caixote de munição segura
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateFirearmsSecure = caixote de armas de fogo seguro
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateFreezerMcCargo = freezer mccargo
 
 ent-CrateNfsdBrigmedic = caixote de médico de brigada
 
 ent-CrateNfsdSecure1 = caixote TSFMC
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateNfsdSecure2 = caixote TSFMC
+    .desc = {ent-CrateSecure.desc}
 
 ent-CratePirateBounty = baú de recompensa de pirata
     .desc = Um baú para armazenar bens saqueados. Huh, este está em branco.
@@ -8252,13 +8680,16 @@ ent-CratePlasticBiodegradable = caixote de plástico biodegradável
     .desc = Parece incrivelmente frágil.
 
 ent-CrateSecureMercenary = caixote de mercenário
+    .desc = {ent-CrateSecure.desc}
 
-ent-CrateSecureMercenaryPrivateSec = caixote de segurança privada
+ent-CrateSecureMercenaryPrivateSec = caixote de segurança particular
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateUranium = caixote de urânio
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateWoodCage = gaiola de madeira
-    .desc = Parece que alguém fez isto em uma caverna, com uma caixa de sucata.
+    .desc = Parece que alguém fez isso em uma caverna, com uma caixa de sucata.
 
 # From: _NF/Entities/Structures/Storage/Crates/emergency_pod.yml
 
@@ -9958,6 +10389,7 @@ ent-NFWallSandstoneUraniumGolem = {ent-NFAsteroidWall}
 # From: _NF/Entities/Structures/Windows/window.yml
 
 ent-WallInvisibleShip = Parede Invisível
+    .desc = Uma parede invisível.
     .suffix = Nave
 
 # From: _NF/Entities/Tiles/water.yml
@@ -10250,6 +10682,7 @@ ent-DelayedEMP = EMP retardado (7 metros)
 ent-DelayedPetCarrierNPCEmotionalSupportSafe = animal de estimação de apoio emocional retardado
 
 ent-DelayedSmoke = fumaça retardada
+    .desc = Uma entidade.
     .suffix = (10s)
 
 ent-DrinkPremiumAbsintheBottleFull = garrafa de absinto Beijo da Burocracia
@@ -10288,9 +10721,11 @@ ent-WeaponVulpCannon = canhãozinho vulp
 # From: _NF/Mail/Items/paper.yml
 
 ent-PaperMailNFAntivirus = fatura de antivírus Snortin
+    .desc = Uma carta.
     .suffix = anúncio antivírus
 
 ent-PaperMailNFBuildABuddy = carta de adoção Monta-seu-Amigo
+    .desc = Uma carta.
     .suffix = monta-seu-amigo
 
 ent-PaperMailNFClurger = {ent-Paper}
@@ -10298,6 +10733,7 @@ ent-PaperMailNFClurger = {ent-Paper}
     .suffix = clurger
 
 ent-PaperMailNFEMPPreparedness = formulário de resposta de preparação para EMP
+    .desc = Uma carta.
     .suffix = preparação emp
 
 ent-PaperMailNFMime = {ent-Paper}
@@ -10309,6 +10745,7 @@ ent-PaperMailNFPaperPusherAd = {ent-Paper}
     .suffix = arrastador de papel
 
 ent-PaperMailNFPetBedAssemblyManual = manual de montagem de cama de animal
+    .desc = Uma carta.
     .suffix = manual de montagem de cama
 
 ent-PaperMailNFPipebombIntern = {ent-Paper}
@@ -10316,15 +10753,19 @@ ent-PaperMailNFPipebombIntern = {ent-Paper}
     .suffix = estagiário de bomba de cano
 
 ent-PaperMailNFPowerTool = anúncio Perigo Fraught
+    .desc = Uma carta.
     .suffix = anúncio ferramenta elétrica, formatado
 
 ent-PaperMailNFPwrGameAd = anúncio jogo pwr
+    .desc = Uma carta.
     .suffix = anúncio jogo pwr
 
 ent-PaperMailNFRedBoolAd = anúncio bool vermelho
+    .desc = Uma carta.
     .suffix = anúncio bool vermelho
 
 ent-PaperMailNFSpaceColaAd = anúncio space cola
+    .desc = Uma carta.
     .suffix = anúncio space cola
 
 ent-PaperMailNFSpaceLaw = {ent-Paper}
@@ -10332,9 +10773,11 @@ ent-PaperMailNFSpaceLaw = {ent-Paper}
     .suffix = lei espacial
 
 ent-PaperMailNFSpaceMountainWindAd = anúncio space mountain wind
+    .desc = Uma carta.
     .suffix = anúncio space mountain wind
 
 ent-PaperMailNFSpaceUpAd = anúncio space up
+    .desc = Uma carta.
     .suffix = anúncio space up
 
 ent-PaperMailNFVagueThreat1 = {ent-Paper}
@@ -10589,7 +11032,7 @@ ent-MailNFMedkit = {ent-BaseMailLarge}
 
 ent-MailNFMime = {ent-BaseMailLarge}
     .desc = {ent-BaseMailLarge.desc}
-    .suffix = mimo
+    .suffix = mímico
 
 ent-MailNFMoney = {ent-BaseMail}
     .desc = {ent-BaseMail.desc}
@@ -10813,6 +11256,7 @@ ent-WebNest = ninho de teia
 ent-MindRoleGhostRoleEmotionalSupportPet = Fantasma (Animal de Estimação de Apoio Emocional)
 
 ent-LockerWallEVAColorGoblinFilled = armário de parede EVA goblin
+    .desc = Um armário de parede.
     .suffix = Cheio
 
 ent-LockerWallEVAColorHydroponicsFilled = {ent-LockerWallEVAColorHydroponics}
@@ -10844,6 +11288,7 @@ ent-LockerWallEVAColorNfsdFilled = {ent-LockerWallEVAColorNfsd}
     .suffix = Cheio
 
 ent-LockerWallEVAColorParamedicFilled = armário de parede de traje de vácuo de paramédico
+    .desc = Um armário de parede.
     .suffix = Cheio
 
 ent-LockerWallEVAColorPilotFilled = {ent-LockerWallEVAColorPilot}
@@ -10919,6 +11364,7 @@ ent-LockerParamedicFilledHardsuit = {ent-LockerParamedic}
     .suffix = Cheio, Traje rígido
 
 ent-LockerPsychologistFilled = armário de psicólogo
+    .desc = Um armário.
     .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/misc.yml
@@ -10940,9 +11386,11 @@ ent-LockerPilotFilled = {ent-LockerPilot}
 # From: _NF/Catalog/Fills/Lockers/security.yml
 
 ent-GunSafeTurrets = cofre de torreta
+    .desc = Um cofre de armas.
     .suffix = TSFMC, Cheio
 
 ent-GunSafeTurretsCdet = cofre de torreta
+    .desc = Um cofre de armas.
     .suffix = CDET, Cheio
 
 ent-LockerMercenaryFilled = {ent-LockerMercenary}
@@ -11047,7 +11495,7 @@ ent-SuitStorageEVAPilot = {ent-SuitStorageBase}
 
 ent-SuitStorageEVAPrivateSec = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
-    .suffix = EVA, Segurança Privada
+    .suffix = EVA, Segurança particular
 
 ent-SuitStorageEVASalvage = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
@@ -11083,7 +11531,7 @@ ent-SuitStoragePilot = {ent-SuitStorageBase}
 
 ent-SuitStoragePrivateSecurity = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
-    .suffix = Segurança Privada
+    .suffix = Segurança particular
 
 ent-SuitStorageQuartermaster = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
@@ -11182,158 +11630,162 @@ ent-PaperWrittenFrontierShuttleTitleChange = alteração de título de nave
 # From: _NF/Catalog/Fills/Paper/misc.yml
 
 ent-PaperWrittenFrontierFridge = política da geladeira
+    .desc = Um documento escrito.
     .suffix = MappedPaper
 
 ent-PaperWrittenGriftyScript = roteiro do grifty
+    .desc = Um documento escrito.
     .suffix = PapelMapeado
 
 ent-PaperWrittenGriftyWindow = bilhete para o chefe
+    .desc = Um documento escrito.
     .suffix = PapelMapeado
 
 ent-PaperWrittenPartyProcedure = procedimento oficial de preparação de festa
 
 ent-PaperWrittenPirateScribbles = refrigerante em falta
+    .desc = Um documento escrito.
     .suffix = PapelMapeado
 
 # From: _NF/Catalog/Fills/StorageFillTemplates/departmental_eva.yml
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitAtmosTech =
+ent-StorageFillEVASuitAtmosTech = ""
     .desc = Contém um kit EVA padrão de técnico atmosférico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerBlue =
+ent-StorageFillEVASuitBoxerBlue = ""
     .desc = Contém um traje de boxeador azul e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerGreen =
+ent-StorageFillEVASuitBoxerGreen = ""
     .desc = Contém um traje de boxeador verde e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerRandom =
+ent-StorageFillEVASuitBoxerRandom = ""
     .desc = Contém um traje de boxeador e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerRed =
+ent-StorageFillEVASuitBoxerRed = ""
     .desc = Contém um traje de boxeador vermelho e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitBoxerYellow =
+ent-StorageFillEVASuitBoxerYellow = ""
     .desc = Contém um traje de boxeador amarelo e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitCaptain =
+ent-StorageFillEVASuitCaptain = ""
     .desc = Contém um kit EVA padrão de capitão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitCargo =
+ent-StorageFillEVASuitCargo = ""
     .desc = Contém um kit EVA padrão de técnico de carga.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitChaplain =
+ent-StorageFillEVASuitChaplain = ""
     .desc = Contém um kit EVA padrão de capelão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitContractor =
+ent-StorageFillEVASuitContractor = ""
     .desc = Contém um kit EVA padrão de espaciano.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitEmergency =
+ent-StorageFillEVASuitEmergency = ""
     .desc = Contém um kit EVA padrão de emergência.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitEngineer =
+ent-StorageFillEVASuitEngineer = ""
     .desc = Contém um kit EVA padrão de engenheiro.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitFsb =
+ent-StorageFillEVASuitFsb = ""
     .desc = Contém um traje EVA padrão da Far Star Biotech (FSB).
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitGoblin =
+ent-StorageFillEVASuitGoblin = ""
     .desc = Contém um traje EVA tradicional de goblin e um kit EVA padrão.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitHydro =
+ent-StorageFillEVASuitHydro = ""
     .desc = Contém um kit EVA padrão de botânico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitJanitor =
+ent-StorageFillEVASuitJanitor = ""
     .desc = Contém um kit EVA padrão de zelador.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitLvhi =
+ent-StorageFillEVASuitLvhi = ""
     .desc = Contém um kit EVA padrão da Langstad-Voigt Heavy Industries (LVHI).
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitMail =
+ent-StorageFillEVASuitMail = ""
     .desc = Contém um kit EVA padrão de carteiro.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitMedic =
+ent-StorageFillEVASuitMedic = ""
     .desc = Contém um kit EVA padrão de especialista médico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitMercenary =
+ent-StorageFillEVASuitMercenary = ""
     .desc = Contém um kit EVA padrão de mercenário.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitNfsd =
+ent-StorageFillEVASuitNfsd = ""
     .desc = Contém um kit EVA padrão da TSFMC.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitParamedic =
+ent-StorageFillEVASuitParamedic = ""
     .desc = Contém um kit de traje vácuo padrão de paramédico.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitPilot =
+ent-StorageFillEVASuitPilot = ""
     .desc = Contém um kit EVA padrão de piloto.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitPrivateSec =
-    .desc = Contém um kit EVA padrão de segurança privada.
+ent-StorageFillEVASuitPrivateSec = ""
+    .desc = Contém um kit EVA padrão de segurança particular.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitSalvage =
+ent-StorageFillEVASuitSalvage = ""
     .desc = Contém um kit EVA padrão de especialista em salvagem.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitScientist =
+ent-StorageFillEVASuitScientist = ""
     .desc = Contém um kit EVA padrão de cientista.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitServiceWorker =
+ent-StorageFillEVASuitServiceWorker = ""
     .desc = Contém um kit EVA padrão de funcionário de serviço.
 
 # Abstract entity (referenceable by children)
 
-ent-StorageFillEVASuitSr =
+ent-StorageFillEVASuitSr = ""
     .desc = Contém um kit EVA padrão de representante da estação.
 
 # From: _NF/Entities/Actions/cancel-escape-inventory.yml
@@ -11592,24 +12044,31 @@ ent-ClothingEyesHudNfsdPatch = tapa-olho com hud da TSFMC
 # From: _NF/Entities/Clothing/Hands/gloves_mob_hostile_npcs.yml
 
 ent-ClothingHandsGlovesColorBlackAK = luvas de combate
+    .desc = Segura um rifle AK.
     .suffix = ak
 
 ent-ClothingHandsGlovesColorBlackChinaLake = luvas de combate
+    .desc = Segura um lança-granadas China-Lake.
     .suffix = china lake
 
 ent-ClothingHandsGlovesColorBlackCrossbow = luvas de combate
+    .desc = Segura uma besta.
     .suffix = crossbow
 
 ent-ClothingHandsGlovesColorBlackLaserPistol = luvas de combate
+    .desc = Segura uma pistola laser.
     .suffix = laser pistol
 
 ent-ClothingHandsGlovesColorBlackPistol = luvas de combate
+    .desc = Segura uma pistola.
     .suffix = pistol
 
 ent-ClothingHandsGlovesColorBlackPython = luvas de combate
+    .desc = Segura um revólver Python.
     .suffix = python
 
 ent-ClothingHandsGlovesColorBlackShotgun = luvas de combate
+    .desc = Segura uma espingarda.
     .suffix = shotgun
 
 ent-ClothingHandsGlovesColorBlackSMG = luvas de combate
@@ -11617,36 +12076,47 @@ ent-ClothingHandsGlovesColorBlackSMG = luvas de combate
     .desc = Luvas pretas regulares que não impedem você de se fritar.
 
 ent-ClothingHandsGlovesColorBlackSprayNozzle = luvas de combate
+    .desc = Segura um bico de spray.
     .suffix = spray nozzle
 
 ent-ClothingHandsGlovesColorMercGestio = luvas de combate
+    .desc = Segura um rifle Gestio.
     .suffix = gestio
 
 ent-ClothingHandsGlovesColorMercHatchet = luvas de combate
+    .desc = Segura um machado.
     .suffix = hatchet
 
 ent-ClothingHandsGlovesColorMercLaserNSaw = luvas de combate
+    .desc = Segura uma serra.
     .suffix = laser and saw
 
 ent-ClothingHandsGlovesColorMercMachete = luvas de combate
+    .desc = Segura um facão.
     .suffix = hatchet
 
 ent-ClothingHandsGlovesColorMercMosin = luvas de combate
+    .desc = Segura um rifle Mosin.
     .suffix = mosin
 
 ent-ClothingHandsGlovesColorMercNovalite = luvas de combate
+    .desc = Segura um canhão Novalite.
     .suffix = novalite
 
 ent-ClothingHandsGlovesColorMercPistol = luvas de combate
+    .desc = Segura uma pistola.
     .suffix = pistol
 
 ent-ClothingHandsGlovesColorMercRepeater = luvas de combate
+    .desc = Segura um repetidor.
     .suffix = repeater
 
 ent-ClothingHandsGlovesColorMercRevolvers = luvas de combate
+    .desc = Segura revólveres.
     .suffix = double revolvers
 
 ent-ClothingHandsGlovesColorMercShotgun = luvas de combate
+    .desc = Segura uma espingarda.
     .suffix = shotgun
 
 ent-PunkHandsGlovesBaseballBat = luvas punk
@@ -11697,8 +12167,8 @@ ent-ClothingHeadHelmetHardsuitPilot = capacete de traje rígido de piloto
 ent-ClothingHeadHelmetHardsuitPirateElite = capacete de traje rígido de pirata elite
     .desc = Capacetes de traje rígido com blindagem elite para yo-hoers.
 
-ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de traje rígido de segurança privada
-    .desc = Capacete de traje rígido levemente blindado para necessidades de segurança privada.
+ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de traje rígido de segurança particular
+    .desc = Capacete de traje rígido levemente blindado para necessidades de segurança particular.
 
 ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de traje rígido de empregada tática
     .desc = Aço inoxidável soldado coberto por múltiplas camadas de materiais anticorrosivos, perfeito para limpeza.
@@ -11861,7 +12331,7 @@ ent-ClothingHeadEVAHelmetNfsd = capacete EVA do CMFTS
 
 ent-ClothingHeadEVAHelmetPilot = capacete EVA de piloto
 
-ent-ClothingHeadEVAHelmetPrivateSec = capacete EVA de segurança privada
+ent-ClothingHeadEVAHelmetPrivateSec = capacete EVA de segurança particular
 
 ent-ClothingHeadEVAHelmetSalvage = capacete EVA de especialista em salvagem
 
@@ -11912,24 +12382,31 @@ ent-ClothingNeckNfsdBadge = insígnia do CMFTS
     .desc = Respeite minha autoridade!
 
 ent-ClothingNeckNfsdBadgeDetective = insígnia de detetive do CMFTS
+    .desc = Um crachá.
     .suffix = Prata - Detetive
 
 ent-ClothingNeckNfsdBadgeSecurity = insígnia de delegado do CMFTS
+    .desc = Um crachá.
     .suffix = Prata - Delegado
 
 ent-ClothingNeckNfsdBadgeSecurityBrigmedic = insígnia de médico de brigada do CMFTS
+    .desc = Um crachá.
     .suffix = Prata - Médico de Brigada
 
 ent-ClothingNeckNfsdBadgeSecurityCadet = insígnia de cadete do CMFTS
+    .desc = Um crachá.
     .suffix = Bronze - Cadete
 
 ent-ClothingNeckNfsdBadgeSeniorOfficer = insígnia de sargento do CMFTS
+    .desc = Um crachá.
     .suffix = Ouro - Sargento
 
 ent-ClothingNeckNfsdBadgeSheriff = insígnia de coronel do CMFTS
+    .desc = Um crachá.
     .suffix = Estrela - Coronel
 
 ent-ClothingNeckNfsdBadgeWarden = insígnia de oficial de justiça do CMFTS
+    .desc = Um crachá.
     .suffix = Ouro - Oficial de Justiça
 
 ent-ClothingNeckPublicAffairsLiaisonBadge = insígnia de liaison de assuntos públicos
@@ -11944,12 +12421,12 @@ ent-ClothingNeckCloakSheriff = capa de coronel
     .desc = Uma capa requintada, adequada para aqueles que podem impor domínio sobre transgressores. Tente ser civil na persecução!
 
 ent-ClothingNeckCloakSr = capa de supervisor
-    .desc = Uma capa de primeira linha para o supervisor do Colossus Central. Feita de fibras e peles requintadas, isto deve ter custado uma fortuna! O fato de esta capa ter sido emitida mostra a confiança que o Comando Central está depositando em seu representante neste posto avançado.
+    .desc = Uma capa de primeira linha para o supervisor do Colossus Central. Feita de fibras e peles requintadas, isso deve ter custado uma fortuna! O fato de esta capa ter sido emitida mostra a confiança que o Comando Central está depositando em seu representante neste posto avançado.
 
 # From: _NF/Entities/Clothing/Neck/mantles.yml
 
 ent-ClothingNeckCloakJanitor = capa de zelador
-    .desc = Como você conseguiu isto? Você fez você mesmo?
+    .desc = Como você conseguiu isso? Você fez você mesmo?
 
 ent-ClothingNeckCloakJanitorFilled = {ent-ClothingNeckCloakJanitor}
     .desc = {ent-ClothingNeckCloakJanitor.desc}
@@ -11993,7 +12470,7 @@ ent-ClothingNeckMedalNfsdStarGold = estrela de valor
 # From: _NF/Entities/Clothing/Neck/misc.yml
 
 ent-ClothingNeckAmuletBloodCult = amuleto de cultista ascendido
-    .desc = Toda vez que você contempla isto, você sente como se estivesse contemplando de volta. Invoca um drenado que segue o usuário por um breve período de tempo. Tem um tempo de recarga.
+    .desc = Toda vez que você contempla isso, você sente como se estivesse contemplando de volta. Invoca um drenado que segue o usuário por um breve período de tempo. Tem um tempo de recarga.
 
 ent-ClothingNeckCrucifix = crucifixo
     .desc = Droga, é bom ser tão piedoso.
@@ -12040,6 +12517,7 @@ ent-ClothingNeckPonchoWeb = poncho de teia
 # From: _NF/Entities/Clothing/OuterClothing/armor_punk.yml
 
 ent-ClothingOuterArmorElitePunkRandomized = blindagem pesada punk
+    .desc = Armadura aleatória.
     .suffix = Visuais aleatórios
 
 ent-ClothingOuterArmorPunkGreen = blindagem punk
@@ -12047,6 +12525,7 @@ ent-ClothingOuterArmorPunkGreen = blindagem punk
 ent-ClothingOuterArmorPunkOrange = blindagem punk
 
 ent-ClothingOuterArmorPunkRandomized = blindagem punk
+    .desc = Armadura aleatória.
     .suffix = Visuais aleatórios
 
 ent-ClothingOuterArmorPunkRed = blindagem punk
@@ -12188,8 +12667,8 @@ ent-ClothingOuterHardsuitPilot = traje rígido de piloto
 ent-ClothingOuterHardsuitPirateElite = traje rígido de pirata elite
     .desc = Um traje rígido blindado elite antigo, projetado por um homem barbado desconhecido e construído como uma casa de tijolos.
 
-ent-ClothingOuterHardsuitPrivateSecurity = traje rígido de segurança privada
-    .desc = Um traje especial que protege dos perigos do espaço, empregado por forças de segurança privada.
+ent-ClothingOuterHardsuitPrivateSecurity = traje rígido de segurança particular
+    .desc = Um traje especial que protege dos perigos do espaço, empregado por forças de segurança particular.
 
 ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = traje rígido do Sindicato
 
@@ -12268,8 +12747,8 @@ ent-ClothingOuterEVASuitNfsd = traje EVA da TSFMC
 ent-ClothingOuterEVASuitPilot = traje EVA de piloto
     .desc = Um traje EVA com capacete integrado geralmente emitido para pilotos.
 
-ent-ClothingOuterEVASuitPrivateSec = traje EVA de segurança privada
-    .desc = Um traje EVA com capacete integrado geralmente emitido para segurança privada.
+ent-ClothingOuterEVASuitPrivateSec = traje EVA de segurança particular
+    .desc = Um traje EVA com capacete integrado geralmente emitido para segurança particular.
 
 ent-ClothingOuterEVASuitSalvage = traje EVA de especialista em salvagem
     .desc = Um traje EVA com capacete integrado geralmente emitido para especialistas em salvagem.
@@ -12341,18 +12820,31 @@ ent-ClothingShoesBootsMagGaloshes = galochas magnéticas
 ent-ClothingShoesBootsMagMercenary = botas magnéticas de mercenário
     .desc = Botas magnéticas de mercenário, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguro preso ao veículo.
 
+ent-ClothingShoesBootsMagMercenaryFilled = {ent-ClothingShoesBootsMagMercenary}
+    .desc = {ent-ClothingShoesBootsMagMercenary.desc}
+
 ent-ClothingShoesBootsMagNfsd = botas magnéticas da TSFMC
+    .desc = {ent-ClothingShoesBootsMagSecurity.desc}
+
+ent-ClothingShoesBootsMagNfsdFilled = {ent-ClothingShoesBootsMagNfsd}
+    .desc = {ent-ClothingShoesBootsMagNfsd.desc}
 
 ent-ClothingShoesBootsMagPirate = botas magnéticas de pirata
     .desc = Botas magnéticas de pirata, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguro preso ao veículo.
 
+ent-ClothingShoesBootsMagPirateFilled = {ent-ClothingShoesBootsMagPirate}
+    .desc = {ent-ClothingShoesBootsMagPirate.desc}
+
 ent-ClothingShoesBootsMagSecurity = botas magnéticas de segurança
     .desc = Botas magnéticas de segurança, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguro preso ao veículo.
+
+ent-ClothingShoesBootsMagSecurityFilled = {ent-ClothingShoesBootsMagSecurity}
+    .desc = {ent-ClothingShoesBootsMagSecurity.desc}
 
 # From: _NF/Entities/Clothing/Shoes/misc.yml
 
 ent-ActionToggleMoonBoots = Alternar Botas Lunares
-    .desc = Alterna as botas lunares ligadas e desligadas.
+    .desc = Alterna as botas lunares entre ligadas e desligadas.
 
 ent-ClothingShoesClothwrap = envoltórios de pés de pano
     .desc = Um rolo de lona tratada usado para envolver pés ou patas.
@@ -12366,7 +12858,7 @@ ent-ClothingUniformJumpskirtArcadia = saia-calça da Arcadia
     .desc = Uma saia-calça produzida pela Arcadia Industries. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
 ent-ClothingUniformJumpskirtBH = terno surrado
-    .desc = Alguém que usa isto significa negócios.
+    .desc = Alguém que usa isso significa negócios.
 
 ent-ClothingUniformJumpskirtBHGrey = terno noir
     .desc = Um terno cinza, completo com prendedor de gravata.
@@ -12380,8 +12872,8 @@ ent-ClothingUniformJumpskirtNfsd = saia-calça da TSFMC
 ent-ClothingUniformJumpskirtNfsdShort = saia-calça da TSFMC
     .desc = Uma saia-calça de mangas curtas produzida para coronéis-delegados. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpskirtPrivateSec = saia-calça de segurança privada
-    .desc = Um uniforme especializado para um guarda de segurança privada. Para o contratado privado exigente que precisa de uma aparência profissional.
+ent-ClothingUniformJumpskirtPrivateSec = saia-calça de segurança particular
+    .desc = Um uniforme especializado para um guarda de segurança particular. Para o contratado particular exigente que precisa de uma aparência profissional.
 
 ent-ClothingUniformJumpskirtPublicAffairsLiaison = saia-calça de liaison de assuntos públicos
     .desc = Um terno saia engomado e passado para o liaison de assuntos públicos.
@@ -12417,7 +12909,7 @@ ent-ClothingUniformJumpsuitArcadia = macacão da Arcadia
     .desc = Um macacão produzido pela Arcadia Industries. Projetado para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
 ent-ClothingUniformJumpsuitBH = terno surrado
-    .desc = Alguém que usa isto significa negócios.
+    .desc = Alguém que usa isso significa negócios.
 
 ent-ClothingUniformJumpsuitBHGrey = terno noir
     .desc = Um terno cinza, completo com prendedor de gravata.
@@ -12461,8 +12953,8 @@ ent-ClothingUniformJumpsuitPirateLuffy = uniforme de pirata suspeito
 ent-ClothingUniformJumpsuitPirateSlops = trapos de pirata
     .desc = Um uniforme esfarrapado mas confortável para saquear o setor.
 
-ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança privada
-    .desc = Um uniforme especializado para um guarda de segurança privada. Para o espaciano privado exigente que precisa de uma aparência profissional.
+ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança particular
+    .desc = Um uniforme especializado para um guarda de segurança particular. Para o espaciano particular exigente que precisa de uma aparência profissional.
 
 ent-ClothingUniformJumpsuitPublicAffairsLiaison = macacão de liaison de assuntos públicos
     .desc = Um terno engomado e passado para o liaison de assuntos públicos.
@@ -12623,6 +13115,7 @@ ent-ClothingUniformJumpsuitMilitaryService = macacão de funcionário de serviç
     .desc = Um macacão padrão emitido para funcionários de serviço da NT.
 
 ent-ClothingUniformJumpsuitMilitarySr = macacão do supervisor
+    .desc = Um macacão estilo militar.
     .suffix = Militar
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary = {ent-ClothingUniformJumpsuitMercenary}
@@ -12630,9 +13123,11 @@ ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary = {ent-ClothingUnifor
     .suffix = Militar, Azul
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = macacão de capitão mercenário
+    .desc = Um macacão estilo militar.
     .suffix = Militar, Azul
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = macacão de médico mercenário
+    .desc = Um macacão estilo militar.
     .suffix = Militar, Azul
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenary = {ent-ClothingUniformJumpsuitMercenary}
@@ -12640,9 +13135,11 @@ ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenary = {ent-ClothingUniformJum
     .suffix = Militar
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain = macacão de capitão mercenário
+    .desc = Um macacão estilo militar.
     .suffix = Militar
 
 ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic = macacão de médico mercenário
+    .desc = Um macacão estilo militar.
     .suffix = Militar
 
 ent-ClothingUniformJumpsuitMilitaryVirology = {ent-ClothingUniformJumpsuitVirology}
@@ -12654,24 +13151,28 @@ ent-ClothingUniformJumpsuitMilitaryVirology = {ent-ClothingUniformJumpsuitVirolo
 ent-ClothingSkirtRandomSpawner = fantasia de saia colorida aleatória
 
 ent-ClothingSkirtUniformRandomArmless = blusa sem mangas colorida e saia
+    .desc = Uma saia aleatória.
     .suffix = Saia
 
 ent-ClothingSkirtUniformRandomBra = sutiã colorido e saia
+    .desc = Uma saia aleatória.
     .suffix = Saia
 
 ent-ClothingSkirtUniformRandomShirt = blusa colorida estampada e saia
 
 ent-ClothingSkirtUniformRandomShorts = saia colorida
+    .desc = Uma saia aleatória.
     .suffix = Saia
 
 ent-ClothingSkirtUniformRandomStandard = blusa colorida e saia
+    .desc = Uma saia aleatória.
     .suffix = Saia
 
 # From: _NF/Entities/Clothing/Wallet/base_wallet.yml
 # Abstract entity (referenceable by children)
 
 ent-NFBaseWallet = carteira
-    .desc = Se alguém deixou isto cair, você deveria realmente devolver.
+    .desc = Se alguém deixou isso cair, você deveria realmente devolver.
 
 # From: _NF/Entities/Clothing/Wallet/leather.yml
 
@@ -12706,6 +13207,7 @@ ent-MobSpawnCoalGolem = gerador de golem de banânio
 ent-MobSpawnCrabNFIron = gerador de caranguejo de ferro
 
 ent-MobSpawnCrabNFQuartz = gerador de caranguejo de quartzo
+    .desc = Um mob.
     .suffix = Frontier
 
 ent-MobSpawnCrabNFSilver = gerador de caranguejo de prata
@@ -12830,20 +13332,26 @@ ent-ShuttleDeedIDCard = escritura de lança
 # From: _NF/Entities/Markers/Spawners/Conditional/mobs_hostile_aberrant_flesh.yml
 
 ent-SpawnMobFleshAssimilatedMiner = gerador de minerador de carne aberrante
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil
 
 ent-SpawnMobFleshClampExpeditions = gerador de pinça de carne aberrante
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil
 
 ent-SpawnMobFleshGolemExpeditions = gerador de golem de carne aberrante
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil
 
 ent-SpawnMobFleshJaredExpeditions = gerador de jared de carne aberrante
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil
 
 ent-SpawnMobFleshLoverExpeditions = gerador de amante de carne aberrante
+    .desc = Gera uma criatura de carne.
     .suffix = IA, Hostil
 
 ent-SpawnMobHorrorExpeditions = gerador de horror de carne aberrante
+    .desc = Gera um horror.
     .suffix = IA, Hostil
 

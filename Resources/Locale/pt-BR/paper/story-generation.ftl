@@ -106,7 +106,7 @@ story-gen-book-appearance27 = estranho
 
 story-gen-book-character1 = palhaço
 
-story-gen-book-character2 = mimo
+story-gen-book-character2 = mímico
 
 story-gen-book-character3 = repórter
 

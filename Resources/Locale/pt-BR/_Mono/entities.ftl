@@ -297,12 +297,15 @@ ent-CrateVendingMachineRestockBaristaFilled = Caixa de Reposição BaristaVend
 # From: _Mono/Catalogs/Fills/Lockers/salvmaint_locker.yml
 
 ent-MonoMaintenanceFluffSpawner = spawner de Saque de Manutenção Mono
+    .desc = Uma entidade.
     .suffix = Diversos+Roupas
 
 ent-MonoMaintenanceToolSpawner = spawner de Saque de Manutenção Mono
+    .desc = Uma entidade.
     .suffix = Ferramentas+Células+Matérias
 
 ent-MonoMaintenanceWeaponSpawner = spawner de Saque de Manutenção Mono
+    .desc = Uma entidade.
     .suffix = Sucata+Armas
 
 # From: _Mono/Catalogs/Fills/Lockers/vizier_locker.yml
@@ -413,10 +416,10 @@ ent-ClothingBackpackDuffelTacticalDuffelWhite = bagagem tática branca
 
 # From: _Mono/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitMercenary = unidade de controle de traje rígido mercenária gallóglach
+ent-ClothingModsuitMercenary = unidade de controle de traje mod mercenária gallóglach
     .desc = Um módulo de controle de traje rígido modular equipado com atuadores aprimorados nas pernas para permitir ações rápidas de assalto ou retirada.
 
-ent-ClothingModsuitRogue = unidade de controle de traje rígido RX-01
+ent-ClothingModsuitRogue = unidade de controle de traje mod RX-01
     .desc = Unidade de controle central para a RX-01. Sobrevive a picos de energia, brechas no casco e engenhosidade do mercado negro. De alguma forma. Também tem botas de vácuo experimentais embutidas.
 
 ent-ClothingModsuitUSSPVaryag = Núcleo de Modsuit USSP Varyag
@@ -1506,6 +1509,7 @@ ent-RepairGhost = fantasma de reparo
 # From: _Mono/Entities/Markers/Spawners/bitcoin.yml
 
 ent-SpawnLootDatafarmBitcoin = bitcoin aleatório
+    .desc = Gera loot.
     .suffix = Gerador de Bitcoin de Datafarm
 
 # From: _Mono/Entities/Markers/Spawners/ghost_roles.yml
@@ -1551,9 +1555,11 @@ ent-AFInterceptorFilled = {ent-BaseAFInterceptor}
     .suffix = Bateria, Cheio
 
 ent-SpawnMechAFInterceptorFilled = Gerador de AF-28 Broadsword
+    .desc = Um gerador.
     .suffix = Recheado
 
 ent-SpawnMechAFInterceptorMFilled = Gerador de AF-28-M Halberd
+    .desc = Um gerador.
     .suffix = Recheado
 
 # From: _Mono/Entities/Markers/Spawners/Random/Loot/weapons.yml
@@ -1579,11 +1585,13 @@ ent-NTLootT3Clothing = gerador de roupa NT T3
 # From: _Mono/Entities/Markers/Spawners/Random/paintings.yml
 
 ent-RandomPaintingConstructed = gerador de pintura aleatória
+    .desc = Uma pintura.
     .suffix = Construído
 
 # From: _Mono/Entities/Markers/Spawners/Random/posters.yml
 
 ent-RandomPosterConstructed = gerador de pôster aleatório
+    .desc = Um pôster.
     .suffix = Construído
 
 # From: _Mono/Entities/Materials/materials.yml
@@ -1641,6 +1649,7 @@ ent-MobLetoferolBeast = besta de carne de quimera
 ent-MobLetoferolHorror = besta de carne de quimera
 
 ent-MobLetoferolHorrorGhostrole = besta de carne de quimera
+    .desc = Uma manifestação horrífica de magia de sangue.
     .suffix = Ghostrole
 
 # From: _Mono/Entities/Mobs/Cyborgs/borg_chassis.yml
@@ -1666,6 +1675,7 @@ ent-TSFBorgChassisMedical = ciborgue médico TSF
 # From: _Mono/Entities/Mobs/Ghostroles/Asakim/roles.yml
 
 ent-MobAsakimGhostrole = guerreiro asakim
+    .desc = Um Asakim.
     .suffix = Asakim # Não há tradução adequada, nome próprio
 
 # From: _Mono/Entities/Mobs/Ghostroles/MARSOC/roles.yml
@@ -1675,6 +1685,7 @@ ent-MobHumanMarsocAMR = especialista MARSOC (AMR)
 ent-MobHumanMarsocAutorifleman = atirador automático MARSOC
 
 ent-MobHumanMarsocBase = operativo base
+    .desc = Um operador da Marsoc.
     .suffix = Humano, Base
 
 ent-MobHumanMarsocCorpsman = médico de combate MARSOC
@@ -1749,18 +1760,23 @@ ent-SpawnMobAttackerCoreSmart = gerador de núcleo atacante inteligente
 ent-SpawnMobAttackerCoreStaticSmart = gerador de núcleo atacante inteligente estático
 
 ent-SpawnMobDroneAiAssembly = gerador de núcleo atacante
+    .desc = Gera um drone.
     .suffix = Fogo Lateral, Drone-Assembly
 
 ent-SpawnMobDroneAiLance = gerador de núcleo atacante
+    .desc = Gera um drone.
     .suffix = Curto Alcance, Drone-Lance
 
 ent-SpawnMobDroneAiMedusa = gerador de núcleo atacante
+    .desc = Gera um drone.
     .suffix = Curto Alcance, Drone-Medusa
 
 ent-SpawnMobDroneAiMPulsar = gerador de núcleo atacante
+    .desc = Gera um drone.
     .suffix = Curto Alcance, Drone-MPulsar
 
 ent-SpawnMobDroneAiQuake = gerador de núcleo atacante
+    .desc = Gera um drone.
     .suffix = Drone-Quake
 
 ent-SpawnMobNpcStationAiAttackerBroadside = gerador de núcleo atacante de fogo lateral
@@ -1821,21 +1837,27 @@ ent-MobMonolithicHellLocust = gafanhoto do inferno monolítico
 ent-MobSpawnMonolithicBase = gerador de entidade monolítica base
 
 ent-MobSpawnMonolithicGestalt = gestalt monolítica
+    .desc = Um mob.
     .suffix = Gerador
 
 ent-MobSpawnMonolithicGolom = golom monolítico
+    .desc = Um mob.
     .suffix = Gerador
 
 ent-MobSpawnMonolithicGolomRanged = golom monolítico de ataque à distância
+    .desc = Um mob.
     .suffix = Gerador
 
 ent-MobSpawnMonolithicHellLocust = gafanhoto do inferno monolítico
+    .desc = Um mob.
     .suffix = Gerador
 
 ent-MobSpawnMonolithicRandomBasic = gerador de entidade monolítica
+    .desc = Gera um monolithicbasic aleatório.
     .suffix = Aleatório, Básico
 
 ent-MobSpawnMonolithicRandomIntermediate = gerador de entidade monolítica
+    .desc = Gera um monolithicintermediate aleatório.
     .suffix = Aleatório, Intermediário
 
 # From: _Mono/Entities/Mobs/Player/preview_observer.yml
@@ -1879,12 +1901,14 @@ ent-BorgChassisRedacted = sistema automatizado de defesa remanescente
 ent-BaseMobAsakim = Enzo Asakim da Silva
 
 ent-MobAsakim = Enzo Asakim da Silva
+    .desc = Um Asakim.
     .suffix = Urisst' MzAsakim
 
-ent-MobAsakimDummy = {ent-MobAsakin}
+ent-MobAsakimDummy = {ent-MobAsakim}
     .desc = Um Asakim fictício para ser usado na criação de personagem.
 
 ent-MobAsakimRandom = Enzo Asakim da Silva
+    .desc = Gera um asakim aleatório.
     .suffix = Aparência Aleatória
 
 # From: _Mono/Entities/Mobs/Species/protogen.yml
@@ -1907,6 +1931,7 @@ ent-DrinkRootBearFloatJug = jarra de root beer float
 # From: _Mono/Entities/Objects/Consumable/Drinks/trash_drinks.yml
 
 ent-DrinkBottleCervezaCristal = garrafa cerveza cristal
+    .desc = Uma garrafa de álcool.
     .suffix = Admeme
 
 # From: _Mono/Entities/Objects/Consumable/Food/Baked/misc.yml
@@ -2208,6 +2233,7 @@ ent-PDVGrandVizierIDCard = cartão ID de grão-vizir PDV
 ent-PDVRakhshanIDCard = cartão ID rakhshan PDV
 
 ent-PDVSpasakaIDCard = cartão ID spasaka
+    .desc = Um cartão de ID.
     .suffix = Camaleão
 
 ent-TsfEngiIDCard = cartão ID de engenheiro TSFMC
@@ -2529,9 +2555,11 @@ ent-MaterialLithium = lítio
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/ores.yml
 
 ent-CopperOre = malaquita
+    .desc = Um minério de cobre.
     .suffix = Full
 
 ent-LithiumOre = minério de lítio
+    .desc = Um minério de lítio.
     .suffix = Full
 
 # From: _Mono/Entities/Objects/Economy/EconomyMaterials/Veins/copper_veins.yml
@@ -2751,7 +2779,7 @@ ent-UsspTrackingImplant = implante de rastreamento da USSP
     .desc = Este implante tem um monitor de dispositivo de rastreamento para o canal de rádio da GLORIOSA UNIÃO DE PLANETAS SOVIÉTICOS SOCIALISTAS.
 
 ent-ViperTrackingImplant = implante de rastreamento do Grupo Viper
-    .desc = Este implante tem um monitor de dispositivo de rastreamento para o canal de rádio privado do Grupo Viper.
+    .desc = Este implante tem um monitor de dispositivo de rastreamento para o canal de rádio particular do Grupo Viper.
 
 # From: _Mono/Entities/Objects/Misc/trade.yml
 
@@ -2806,18 +2834,23 @@ ent-TradeGoodWeaponParts = caixa de peças de armas
 # From: _Mono/Entities/Objects/Misc/turret_spawner.yml
 
 ent-SpawnMobWeaponTurretLaserSilicon = gerador de torreta de laser de silício
+    .desc = Gera uma torreta automática.
     .suffix = Silicon, Frontier
 
 ent-SpawnMobWeaponTurretLaserTSFMC = gerador de torreta de laser TSFMC
+    .desc = Gera uma torreta automática.
     .suffix = TSFMC, Frontier
 
 ent-SpawnMobWeaponTurretPDV = gerador de torreta balística PDV
+    .desc = Gera uma torreta automática.
     .suffix = PDV, Frontier
 
 ent-SpawnMobWeaponTurretTFSMC = gerador de torreta balística TSFMC
+    .desc = Gera uma torreta automática.
     .suffix = TSFMC, Frontier
 
 ent-SpawnMobWeaponTurretUSSP = gerador de torreta balística USSP
+    .desc = Gera uma torreta automática.
     .suffix = USSP
 
 # From: _Mono/Entities/Objects/Misc/turrets.yml
@@ -2827,9 +2860,11 @@ ent-BaseMk290Sentry = Sentinela MK-290
     .desc = O sistema de sentinela implantável MK-290 projetado na antiga Nações Unidas da Terra, servindo uso contínuo com as forças armadas da TSF. Aceita qualquer carregador 762x39mm, no entanto atualizações recentes permitiram que use 6.8x52mm sem cartucho e 556x45mm para cumprir com o padrão TSF.
 
 ent-WeaponTurretLaserSilicon = torreta de laser
+    .desc = Uma torreta.
     .suffix = Frontier, Silicon
 
 ent-WeaponTurretLaserTSFMC = torreta de laser
+    .desc = Uma torreta.
     .suffix = TSFMC
 
 ent-WeaponTurretMk290 = {ent-BaseMk290Sentry}
@@ -3236,12 +3271,15 @@ ent-IFFMechaYellowTriangle = Sinalizador IFF de Mecha - TRIÂNGULO AMARELO
 # From: _Mono/Entities/Objects/Specific/Medical/healing.yml
 
 ent-PillCanisterMesotaxinide = frasco de pílulas
+    .desc = Um frasco de pílulas de mesotaxinide.
     .suffix = Mesotaxinida 15u, 5
 
 ent-PillCanisterStrange = frasco de pílulas
+    .desc = Um frasco de pílulas de strange.
     .suffix = Estranho, 10
 
 ent-PillMesotaxinide = pílula
+    .desc = Uma pílula de mesotaxinide.
     .suffix = Mesotaxinida
 
 # From: _Mono/Entities/Objects/Specific/Medical/syringecase.yml
@@ -3507,6 +3545,7 @@ ent-JetpackADM = jato de pré-fratura
     .desc = Um jato furtivo exótico de pré-fratura, classificado como invisível ao radar além de 16 metros.
 
 ent-JetpackADMFilled = jato de pré-fratura
+    .desc = Um jato com combustível.
     .suffix = Cheio
 
 # From: _Mono/Entities/Objects/Tools/motion_detector.yml
@@ -3631,6 +3670,7 @@ ent-BaseAmmoBox127x99mm = caixa de munição (12.7x99mm antimaterial)
 ent-AmmoBoxShenzhen = caixa de munição (13.4x92mm DU-APFSDS caseless)
 
 ent-AmmoBoxShenzhenBig = caixa grande de munição (13.4x92mm DU-APFSDS caseless)
+    .desc = Uma caixa de munição.
     .suffix = Grande (30)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/14.5x114mm.yml
@@ -3638,6 +3678,7 @@ ent-AmmoBoxShenzhenBig = caixa grande de munição (13.4x92mm DU-APFSDS caseless
 ent-AmmoBox145x114mm = caixa de munição (14.5x114mm)
 
 ent-AmmoBox145x114mmBig = caixa grande de munição (14.5x114mm)
+    .desc = Uma caixa de munição.
     .suffix = Grande (30)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/4_gauge.yml
@@ -3671,6 +3712,7 @@ ent-AmmoBox23x75mmUranium = caixa de cartuchos (calibre 4 urânio)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/4.6x30mm.yml
 
 ent-AmmoBox46x30mmBigFMJ = caixa grande de munição (4.6x30mm FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox46x30mmEmp = caixa de munição (4.6x30mm emp)
@@ -3698,6 +3740,7 @@ ent-BaseAmmoBox46x30mm = caixa de munição (4.6x30mm FMJ)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/45_ACP.yml
 
 ent-AmmoBox45_ACPBigFMJ = caixa grande de munição (.45 ACP FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox45_ACPEmp = caixa de munição (.45 ACP emp)
@@ -3727,6 +3770,7 @@ ent-BaseAmmoBox45_ACP = caixa de munição (.45 ACP FMJ)
 ent-AmmoBox45_magnumAP = caixa de munição (.45 magnum extreme perfurante)
 
 ent-AmmoBox45_magnumBigFMJ = caixa grande de munição (.45 magnum FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox45_magnumFMJ = caixa de munição (.45 magnum FMJ)
@@ -3752,6 +3796,7 @@ ent-BaseAmmoBox45_magnum = caixa de munição (.45 magnum FMJ)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/5.56x45mm.yml
 
 ent-AmmoBox556x45mmBigFMJ = caixa grande de munição (5.56x45mm FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox556x45mmBigRubber = caixa de munição (5.56x45mm borracha)
@@ -3779,6 +3824,7 @@ ent-BaseAmmoBox556x45mm = caixa de munição (5.56x45mm FMJ)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/5.7x28mm.yml
 
 ent-AmmoBox57x28mmBigFMJ = caixa grande de munição (5.7x28mm FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox57x28mmEmp = caixa de munição (5.7x28mm emp)
@@ -3808,9 +3854,11 @@ ent-BaseAmmoBox57x28mm = caixa de munição (5.7x28mm FMJ)
 ent-AmmoBox635x40mmCaseless = caixa de munição (635x40mm sem estojo)
 
 ent-AmmoBox635x40mmCaselessBig = caixa grande de munição (635x40mm sem estojo)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox635x40mmCaselessBigRubber = caixa grande de munição (635x40mm sem estojo borracha)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox635x40mmCaselessPractice = caixa de munição (635x40mm sem estojo prática)
@@ -3822,6 +3870,7 @@ ent-AmmoBox635x40mmCaselessRubber = caixa de munição (635x40mm sem estojo borr
 ent-AmmoBox68x52mmCaseless = caixa de munição (6.8x52mm STANAG sem estojo)
 
 ent-AmmoBox68x52mmCaselessBig = caixa grande de munição (6.8x52mm STANAG sem estojo)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox68x52mmCaselessHP = caixa de munição (6.8x52mm STANAG sem estojo HP)
@@ -3837,6 +3886,7 @@ ent-AmmoBox68x52mmCaselessRubber = caixa de munição (6.8x52mm STANAG sem estoj
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x39mm.yml
 
 ent-AmmoBox762x39mmBigFMJ = caixa grande de munição (7.62x39mm FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox762x39mmFMJ = caixa de munição (7.62x39mm FMJ)
@@ -3864,6 +3914,7 @@ ent-BaseAmmoBox762x39mm = caixa de munição (7.62x39mm FMJ)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x51mm.yml
 
 ent-AmmoBox762x51mmBigFMJ = caixa grande de munição (7.62x51mm FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox762x51mmFMJ = caixa de munição (7.62x51mm FMJ)
@@ -3889,6 +3940,7 @@ ent-BaseAmmoBox762x51mm = caixa de munição (7.62x51mm FMJ)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/7.62x54mmR.yml
 
 ent-AmmoBox762x54mmRBigFMJ = caixa grande de munição (7.62x54mmR FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox762x54mmRFMJ = caixa de munição (7.62x54mmR FMJ)
@@ -3926,6 +3978,7 @@ ent-AmmoBox8x65mmSKRPractice = caixa de munição (8x65mm SKR prática)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/9x19mm.yml
 
 ent-AmmoBox9x19mmBigFMJ = caixa grande de munição (9x19mm FMJ)
+    .desc = Uma caixa de munição.
     .suffix = Grande
 
 ent-AmmoBox9x19mmEmp = caixa de munição (9x19mm emp)
@@ -4341,15 +4394,19 @@ ent-BaseCannonBall = bola de canhão base
 ent-BaseGrenade = granada base
 
 ent-CannonBall = bola de canhão
+    .desc = Munição para um canhão.
     .suffix = Rogue
 
 ent-CannonBallEmp = bala choque
+    .desc = Munição para um canhão.
     .suffix = EMP
 
 ent-CannonBallGlassshot = estilhaço de vidro
+    .desc = Munição para um canhão.
     .suffix = Rogue
 
 ent-CannonBallGrapeshot = munição metralha
+    .desc = Munição para um canhão.
     .suffix = Rogue
 
 ent-CartridgeMPSSMHEAT = míssil MPSSM Mk.248
@@ -4375,6 +4432,7 @@ ent-BaseMagazine10Phz = pente DEW (10Phz DEW)
 ent-Magazine10Phz = pente DEW (10Phz)
 
 ent-Magazine10PhzEmpty = pente DEW (10Phz qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/12_gauge.yml
@@ -4387,6 +4445,7 @@ ent-Magazine12_gaugeBeanbag = tambor de munição (calibre 12 feijão)
 ent-Magazine12_gaugeBuckshot = tambor de munição (calibre 12 chumbo)
 
 ent-Magazine12_gaugeEmpty = tambor de munição (calibre 12 qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine12_gaugeFlechette = tambor de munição (calibre 12 flechetes)
@@ -4438,6 +4497,7 @@ ent-BaseMagazine4_gauge = cartucho de munição (calibre 4)
 ent-Magazine4_gaugeBuckshot = cartucho de munição (calibre 4 chumbo)
 
 ent-Magazine4_gaugeEmpty = cartucho de munição (calibre 4 qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/4.6x30mm.yml
@@ -4454,11 +4514,13 @@ ent-BaseMagazine46x30mmPistolHighCapacityFMJ = pente de pistola metralhadora (4,
 ent-BaseMagazine46x30mmSubMachineGunFMJ = pente de SMG (4,6x30mm FMJ)
 
 ent-Magazine46x30mmPistolEmpty = pente de pistola (4,6x30mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine46x30mmPistolFMJ = pente de pistola (4,6x30mm FMJ)
 
 ent-Magazine46x30mmPistolHighCapacityEmpty = pente de pistola metralhadora (4,6x30mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine46x30mmPistolHighCapacityFMJ = pente de pistola metralhadora (4,6x30mm FMJ)
@@ -4484,6 +4546,7 @@ ent-Magazine46x30mmPistolUranium = pente de pistola (4,6x30mm urânio)
 ent-Magazine46x30mmSubMachineGunEmp = pente de SMG (4,6x30mm EMP)
 
 ent-Magazine46x30mmSubMachineGunEmpty = pente de SMG (4,6x30mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine46x30mmSubMachineGunFMJ = pente de SMG (4,6x30mm FMJ)
@@ -4537,11 +4600,13 @@ ent-BaseMagazine45_ACPPistolHighCapacityFMJ = pente de pistola metralhadora (.45
 ent-BaseMagazine45_ACPSubMachineGunFMJ = pente de SMG (.45 ACP FMJ)
 
 ent-Magazine45_ACPPistolEmpty = pente de pistola (.45 ACP qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine45_ACPPistolFMJ = pente de pistola (.45 ACP FMJ)
 
 ent-Magazine45_ACPPistolHighCapacityEmpty = pente de pistola metralhadora (.45 ACP qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine45_ACPPistolHighCapacityFMJ = pente de pistola metralhadora (.45 ACP FMJ)
@@ -4567,6 +4632,7 @@ ent-Magazine45_ACPPistolUranium = pente de pistola (.45 ACP urânio)
 ent-Magazine45_ACPSubMachineGunEmp = pente de SMG (.45 ACP EMP)
 
 ent-Magazine45_ACPSubMachineGunEmpty = pente de SMG (.45 ACP qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine45_ACPSubMachineGunFMJ = pente de SMG (.45 ACP FMJ)
@@ -4605,11 +4671,13 @@ ent-BaseMagazine45_magnumSubMachineGunFMJ = pente de SMG (.45 magnum FMJ)
 ent-Magazine45_magnumPistolAP = pente de pistola (.45 magnum perfuração extrema)
 
 ent-Magazine45_magnumPistolEmpty = pente de pistola (.45 magnum qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine45_magnumPistolFMJ = pente de pistola (.45 magnum FMJ)
 
 ent-Magazine45_magnumPistolHighCapacityEmpty = pente de pistola metralhadora (.45 magnum qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine45_magnumPistolHighCapacityFMJ = pente de pistola metralhadora (.45 magnum FMJ)
@@ -4633,6 +4701,7 @@ ent-Magazine45_magnumPistolRubber = pente de pistola (.45 magnum borracha)
 ent-Magazine45_magnumPistolUranium = pente de pistola (.45 magnum urânio)
 
 ent-Magazine45_magnumSubMachineGunEmpty = pente de SMG (.45 magnum qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine45_magnumSubMachineGunFMJ = pente de SMG (.45 magnum FMJ)
@@ -4657,6 +4726,7 @@ ent-Magazine45_magnumSubMachineGunUranium = pente de SMG (.45 magnum urânio)
 ent-BaseMagazine556x45mm = pente (5,56x45mm FMJ)
 
 ent-Magazine556x45mmEmpty = pente (5,56x45mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine556x45mmFMJ = pente (5,56x45mm FMJ)
@@ -4676,12 +4746,15 @@ ent-Magazine556x45mmRubber = pente (5,56x45mm borracha)
 ent-Magazine556x45mmUranium = pente (5,56x45mm urânio)
 
 ent-MagazineNovaliteC1 = pente (5,56x45mm FMJ)
+    .desc = Munição.
     .suffix = cheio
 
 ent-MagazineNovaliteC1Empty = pente (5,56x45mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-MagazineNovaliteC1Rubber = pente (5,56x45mm borracha)
+    .desc = Um carregador carregado com balas de borracha.
     .suffix = cheio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/5.7x28mm.yml
@@ -4698,11 +4771,13 @@ ent-BaseMagazine57x28mmPistolHighCapacityFMJ = pente de pistola metralhadora (5,
 ent-BaseMagazine57x28mmSubMachineGunFMJ = pente de SMG (5,7x28mm FMJ)
 
 ent-Magazine57x28mmPistolEmpty = pente de pistola (5,7x28mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine57x28mmPistolFMJ = pente de pistola (5,7x28mm FMJ)
 
 ent-Magazine57x28mmPistolHighCapacityEmpty = pente de pistola metralhadora (5,7x28mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine57x28mmPistolHighCapacityFMJ = pente de pistola metralhadora (5,7x28mm FMJ)
@@ -4728,6 +4803,7 @@ ent-Magazine57x28mmPistolUranium = pente de pistola (5,7x28mm urânio)
 ent-Magazine57x28mmSubMachineGunEmp = pente de SMG (5,7x28mm EMP)
 
 ent-Magazine57x28mmSubMachineGunEmpty = pente de SMG (5,7x28mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine57x28mmSubMachineGunFMJ = pente de SMG (5,7x28mm FMJ)
@@ -4824,6 +4900,7 @@ ent-BaseMagazine762x39mm = pente (7,62x39mm FMJ)
 ent-Magazine762x39mmBox = caixa de carregador L6 SAW (7,62x39mm FMJ)
 
 ent-Magazine762x39mmEmpty = pente (7,62x39mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine762x39mmFMJ = pente (7,62x39mm FMJ)
@@ -4833,6 +4910,7 @@ ent-Magazine762x39mmHP = pente (7,62x39mm ogiva oca)
 ent-Magazine762x39mmIncendiary = pente (7,62x39mm incendiário)
 
 ent-Magazine762x39mmLowCapacityEmpty = pente de baixa capacidade (7,62x39mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine762x39mmLowCapacityFMJ = pente de baixa capacidade (7,62x39mm FMJ)
@@ -4869,6 +4947,7 @@ ent-MagazineDP29 = carregador DP-29 (7,62x39mm)
 ent-BaseMagazine762x51mm = pente (7,62x51mm FMJ)
 
 ent-Magazine762x51mmEmpty = pente (7,62x51mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine762x51mmFMJ = pente (7,62x51mm FMJ)
@@ -4878,6 +4957,7 @@ ent-Magazine762x51mmHP = pente (7,62x51mm ogiva oca)
 ent-Magazine762x51mmIncendiary = pente (7,62x51mm incendiário)
 
 ent-Magazine762x51mmLowCapacityEmpty = pente de baixa capacidade (7,62x51mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine762x51mmLowCapacityFMJ = pente de baixa capacidade (7,62x51mm FMJ)
@@ -4906,6 +4986,7 @@ ent-Magazine762x51mmUranium = pente (7,62x51mm urânio)
 ent-BaseMagazine762x54mmR = pente (7,62x54mmR FMJ)
 
 ent-Magazine762x54mmREmpty = pente (7,62x54mmR qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine762x54mmRFMJ = pente (7,62x54mmR FMJ)
@@ -4932,6 +5013,7 @@ ent-BaseMagazine700Thz = pente DEW (700Thz DEW)
 ent-Magazine700Thz = pente DEW (700Thz DEW)
 
 ent-Magazine700ThzEmpty = pente DEW (700Thz qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/8x65mm.yml
@@ -4944,9 +5026,11 @@ ent-BaseMagazine8x65mm = pente STANAG (8x65mm SKR)
 ent-BaseMagazine8x65mmBox = caixa SAW (8x65mm SKR)
 
 ent-Magazine8x65mmEmpty = pente STANAG (8x65mm SKR qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine8x65mmEmptyBox = caixa SAW (8x65mm SKR qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine8x65mmSKR = pente STANAG (8x65mm SKR)
@@ -4971,11 +5055,13 @@ ent-BaseMagazine9x19mmPistolHighCapacityFMJ = pente de pistola metralhadora (9x1
 ent-BaseMagazine9x19mmSubMachineGunFMJ = pente de SMG (9x19mm FMJ)
 
 ent-Magazine9x19mmPistolEmpty = pente de pistola (9x19mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine9x19mmPistolFMJ = pente de pistola (9x19mm FMJ)
 
 ent-Magazine9x19mmPistolHighCapacityEmpty = pente de pistola metralhadora (9x19mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine9x19mmPistolHighCapacityFMJ = pente de pistola metralhadora (9x19mm FMJ)
@@ -5001,6 +5087,7 @@ ent-Magazine9x19mmPistolUranium = pente de pistola (9x19mm urânio)
 ent-Magazine9x19mmSubMachineGunEmp = pente de SMG (9x19mm EMP)
 
 ent-Magazine9x19mmSubMachineGunEmpty = pente de SMG (9x19mm qualquer)
+    .desc = Um carregador vazio.
     .suffix = vazio
 
 ent-Magazine9x19mmSubMachineGunFMJ = pente de SMG (9x19mm FMJ)
@@ -5534,12 +5621,15 @@ ent-UllmanWeaponPulseSniper = rifle sniper de pulso U.I. DP-40
 # From: _Mono/Entities/Objects/Weapons/Guns/debug.yml
 
 ent-BulletDebugZoom = projétil bang, zoom
+    .desc = Uma entidade.
     .suffix = DEBUG
 
 ent-CartridgeDebugZoom = cartucho bang, zoom
+    .desc = Munição.
     .suffix = DEBUG
 
 ent-MagazinePistolDebugZoom = pente bang, zoom
+    .desc = Munição.
     .suffix = DEBUG
 
 ent-WeaponPistolDebugFast = cartucho bang, zoom
@@ -6385,9 +6475,11 @@ ent-BlastDoorMonolithic = rachadura monolith tenebris
 # From: _Mono/Entities/Structures/Furniture/bunk.yml
 
 ent-BunkBottom = beliche
+    .desc = Parte de uma beliche.
     .suffix = Inferior
 
 ent-BunkTop = beliche
+    .desc = Parte de uma beliche.
     .suffix = Superior
 
 # From: _Mono/Entities/Structures/Furniture/chairs.yml
@@ -6418,6 +6510,7 @@ ent-MachineCarpCaller = chamador de carpas
 # From: _Mono/Entities/Structures/Machines/chem_master.yml
 
 ent-ChemMasterFilled = ChemMaster 4000
+    .desc = Uma máquina de química.
     .suffix = PreFilled
 
 # From: _Mono/Entities/Structures/Machines/computers.yml
@@ -6534,15 +6627,19 @@ ent-DatafarmResearchFaction = fazenda de dados fixada (Pesquisa)
 ent-SpawnLootTechDiskPrinter = discos de impressora de disco de tecnologia
 
 ent-SpawnLootTechDisksPrinterT1 = discos de impressora de disco de tecnologia
+    .desc = Gera loot.
     .suffix = Impressora de Disco de Tecnologia T1
 
 ent-SpawnLootTechDisksPrinterT2 = discos de impressora de disco de tecnologia
+    .desc = Gera loot.
     .suffix = Impressora de Disco de Tecnologia T2
 
 ent-SpawnLootTechDisksPrinterT3 = discos de impressora de disco de tecnologia
+    .desc = Gera loot.
     .suffix = Impressora de Disco de Tecnologia T3
 
 ent-SpawnLootTechDisksPrinterT4 = discos de impressora de disco de tecnologia
+    .desc = Gera loot.
     .suffix = Impressora de Disco de Tecnologia T4
 
 ent-TechDiskPrinter = impressora de discos de tecnologia
@@ -6676,6 +6773,7 @@ ent-LaserDrill = perfuratriz a laser automática
     .desc = Uma perfuratriz automática grande que cava materiais aleatórios quando alimentada com 50 kW de HV. Só funciona em planetas de expedição.
 
 ent-SpawnLootOres15 = minérios aleatórios
+    .desc = Gera loot.
     .suffix = Perfuratriz a Laser, 15
 
 ent-StationLaserDrill = perfuratriz a laser automática avançada
@@ -6770,6 +6868,7 @@ ent-VendingMachineTSFMCUplink = estação de requisição de equipamentos TSFMC
 # From: _Mono/Entities/Structures/Machines/vending_machines.yml
 
 ent-VendingMachineAmmoPOIMercenary = estação de libertação PMC
+    .desc = Uma máquina de venda.
     .suffix = POI, PMC
 
 ent-VendingMachineBarista = Vendedor Barista
@@ -6799,6 +6898,7 @@ ent-VendingMachineTraderBaikal = Vendedor de Bens de Comércio Camelot
 ent-VendingMachineTraderDepot = Vendedor de Bens de Comércio de Depósito de Cargas
 
 ent-VendingMachineTraderDepotAlt = Vendedor de Bens de Comércio de Depósito de Cargas
+    .desc = Uma máquina de venda.
     .suffix = POI, Alt
 
 ent-VendingMachineTraderTradeMall = Vendedor de Bens de Comércio de Shopping de Comércio
@@ -6877,6 +6977,7 @@ ent-LockerWallEVAColorDME = armário de parede EVA DME
 # From: _Mono/Entities/Structures/Storage/Closets/wall_departments.yml
 
 ent-LockerWallColorDME = armário de parede DME
+    .desc = Um armário de parede.
     .suffix = DME, Empresa
 
 # From: _Mono/Entities/Structures/Storage/Crates/crate.yml
@@ -6961,20 +7062,25 @@ ent-BaseWallTierTwo = parede reforçada
     .desc = Mantém o ar dentro e a quimera fora.
 
 ent-WallPlastitaniumCapital = parede de plastitanio reforçada
+    .desc = Uma parede de plastitânio.
     .suffix = APENAS CAPITAL
 
 ent-WallPlastitaniumDiagonalCapital = parede de plastitanio reforçada
+    .desc = Uma parede diagonal.
     .suffix = diagonal, APENAS CAPITAL
 
 ent-WallPlastitaniumDiagonalOutpost = parede de plastitanio
+    .desc = Uma parede diagonal.
     .suffix = diagonal, APENAS OUTPOST
 
 ent-WallReinforcedChitinMonolithic = tenebris monolítico
 
 ent-WallReinforcedDiagonalOutpost = parede reforçada
+    .desc = Uma parede diagonal.
     .suffix = diagonal, APENAS OUTPOST
 
 ent-WallSolidChitinMonolithic = tenebris monolítico
+    .desc = Uma parede de quitina.
     .suffix = LEGADO
 
 # From: _Mono/Entities/Structures/windows.yml
@@ -6996,6 +7102,7 @@ ent-PlasturaniumWindowRadProofIndestructible = janela de plasturanio
     .desc = Não manche os rads aí embaixo.
 
 ent-ReinforcedWindowOutpost = janela reforçada
+    .desc = Uma parede de posto avançado.
     .suffix = APENAS OUTPOST
 
 ent-TimedSealsTableSpawner = spawner aleatório de selos temporizados (30-180 minutos)
@@ -7036,56 +7143,76 @@ ent-MonoPlanetmapFaunaDesert = gerador de fauna de planeta deserto
 # From: _Mono/Planets/ore.yml
 
 ent-MonoPlanetmapOreBasalt = gerador de minerais de planeta
+    .desc = Um mapa de planeta para salvagem.
     .suffix = Macio
 
 ent-MonoPlanetmapOreBase = gerador de minérios planetário
+    .desc = Um mapa de planeta para salvagem.
     .suffix = Macio
 
 ent-MonoPlanetmapOreChromite = gerador de minerais de planeta
+    .desc = Um mapa de planeta para salvagem.
     .suffix = Macio
 
 ent-MonoPlanetmapOreSand = gerador de minerais de planeta
+    .desc = Um mapa de planeta para salvagem.
     .suffix = Macio
 
 ent-MonoPlanetmapOreSnow = gerador de minerais de planeta
+    .desc = Um mapa de planeta para salvagem.
     .suffix = Macio
 
 # From: _Mono/Planets/permanent_planet.yml
 
 ent-MonoPlanetmapOreSandRich = gerador de minerais de planeta
+    .desc = Um mapa de planeta para salvagem.
     .suffix = Macio
 
 # From: _Mono/Turf/items.yml
 
 ent-FloorTileItemCatwalkHorizontal = piso de passagem horizontal
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemCatwalkVertical = piso de passagem vertical
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkSteelCommercial = piso de aço escuro comercial
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGreySteelCommercial = piso de aço cinza comercial
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGrid = piso de grade de manutenção
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGridDark = piso de grade de manutenção escura
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMaintMonoSterile = piso de maint mono estéril
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMaintSterile = piso de maint estéril
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelCommercial = piso de aço comercial
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelDarkMonoCommercial = piso de aço escuro mono comercial
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelGreyMonoCommercial = piso de aço cinza mono comercial
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelMonoCommercial = piso de aço mono comercial
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemTechMaintAlt = piso de manutenção mecânico
+    .desc = { ent-FloorTileItemBase.desc }
 
 # From: _Mono/Entities/Objects/Weapons/Bombs/bottlebomb.yml
 
 ent-FloorTileItemTechmaintSterile = piso techmaint estéril
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-BoxSurvivalMonoNitrogenExtended = {ent-BoxBaseSurvivalMono}
     .desc = {ent-BoxBaseSurvivalMono.desc}
@@ -7245,7 +7372,7 @@ ent-SuitStorageWallmountEVAPilot = {ent-SuitStorageWallmount}
 
 ent-SuitStorageWallmountEVAPrivateSec = {ent-SuitStorageWallmount}
     .desc = {ent-SuitStorageWallmount.desc}
-    .suffix = EVA, Segurança Privada
+    .suffix = EVA, Segurança particular
 
 ent-SuitStorageWallmountEVASalvage = {ent-SuitStorageWallmount}
     .desc = {ent-SuitStorageWallmount.desc}
@@ -7355,8 +7482,9 @@ ent-SalvageSpawnerPlastitaniumCommon = {ent-SalvageSpawnerScrapCommon}
     .desc = {ent-SalvageSpawnerScrapCommon.desc}
     .suffix = Plastânio, 1-3
 
-ent-SpawnerPlastitaniumCommon =
+ent-SpawnerPlastitaniumCommon = ""
     .suffix = Plastânio, 1-3
+    .desc = {ent-SalvageSpawnerScrapCommon.desc}
 
 ent-ScrapProcessorRollTrunk = O processador de sucata rolou o porta-malas.
 

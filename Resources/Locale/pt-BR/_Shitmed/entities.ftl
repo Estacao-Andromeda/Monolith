@@ -200,10 +200,10 @@ ent-MeleeDebugSever200 = severador bang 200dmg
 
 # From: _Shitmed/Entities/Mobs/Species/primate.yml
 
-ent-MobKoboldDummy =
+ent-MobKoboldDummy = ""
     .desc = Um boneco de kobold para ser usado na configuração de personagem.
 
-ent-MobMonkeyDummy =
+ent-MobMonkeyDummy = ""
     .desc = Um boneco de macaco para ser usado na configuração de personagem.
 
 # From: _Shitmed/Entities/Objects/Devices/Circuitboards/Machine/production.yml

@@ -2,7 +2,7 @@ stamp-component-stamped-name-default = Uma pessoa muito importante
 
 stamp-component-stamped-name-detective = Detetive
 
-stamp-component-stamped-name-mime = Mimo
+stamp-component-stamped-name-mime = Mímico
 
 stamp-component-stamped-name-captain = Capitão
 

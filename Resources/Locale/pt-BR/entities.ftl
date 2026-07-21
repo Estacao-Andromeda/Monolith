@@ -928,11 +928,11 @@ ent-BoxHugNitrogen = {ent-BoxHug}
 
 ent-BoxMime = {ent-BoxSurvival}
     .desc = {ent-BoxSurvival.desc}
-    .suffix = Mimo, Emergência
+    .suffix = Mímico, Emergência
 
 ent-BoxMimeNitrogen = {ent-BoxSurvival}
     .desc = {ent-BoxSurvival.desc}
-    .suffix = Mimo, Emergência N2
+    .suffix = Mímico, Emergência N2
 
 ent-BoxSurvival = caixa de sobrevivência
     .suffix = Padrão
@@ -1129,6 +1129,7 @@ ent-CombatBakeryKit = kit de padaria de combate
     .desc = Um kit de armas de panificação clandestinas.
 
 ent-ElectricalDisruptionKit = kit de interrupção elétrica
+    .desc = Um kit de interrupção elétrica.
     .suffix = Reabastecido
 
 ent-ThrowingKnivesKit = kit de facas de arremesso
@@ -1295,6 +1296,7 @@ ent-CrateEngineeringAMEShielding = caixote de reator de antimatéria embalado
     .desc = 9 peças para o corpo principal de um reator de antimatéria, ou para expandir um existente.
 
 ent-CrateEngineeringGenerator = caixote de gerador
+    .desc = Um gerador portátil.
     .suffix = DEBUG
 
 ent-CrateEngineeringParticleAccelerator = caixote de AP
@@ -1750,9 +1752,11 @@ ent-SmiteBook = grimório de castigo
 ent-SpawnSpellbook = grimório de invocação
 
 ent-WizardsGrimoire = grimório de magos
+    .desc = Um grimório de mago.
     .suffix = Mago
 
 ent-WizardsGrimoireNoRefund = grimório de magos
+    .desc = Um grimório de mago.
     .suffix = Mago, Sem Reembolso
 
 # From: Entities/Objects/Materials/crystal_shard.yml
@@ -1868,6 +1872,7 @@ ent-MaterialCotton1 = {ent-MaterialCotton}
     .suffix = Único
 
 ent-MaterialDiamond = diamante refinado
+    .desc = Um material de diamante.
     .suffix = Completo
 
 ent-MaterialDiamond1 = {ent-MaterialDiamond}
@@ -1899,6 +1904,7 @@ ent-MaterialHideCorgi = couro de corgi
     .desc = Pele de luxo usada apenas na moda de elite. Rumores dizem que isso é encontrado quando um corgi é enviado para a boa fazenda.
 
 ent-MaterialPyrotton = piroton
+    .desc = Um material de pyrotton.
     .suffix = Completo
 
 ent-MaterialPyrotton1 = {ent-MaterialPyrotton}
@@ -1934,6 +1940,7 @@ ent-MaterialWebSilk25 = {ent-MaterialWebSilk}
     .suffix = 25
 
 ent-MaterialWoodPlank = madeira
+    .desc = Tábuas de madeira, prontas para uso em várias aplicações.
     .suffix = Completo
 
 ent-MaterialWoodPlank1 = {ent-MaterialWoodPlank}
@@ -1947,6 +1954,7 @@ ent-MaterialWoodPlank10 = {ent-MaterialWoodPlank}
 # From: Entities/Objects/Materials/ore.yml
 
 ent-BananiumOre = minério de banânio
+    .desc = Um minério de banânio. Surpreendentemente rico em nutrientes. E Honk. Necessita ser refinado para ser usado em outras aplicações, mas pode ser usado como combustível sem ser refinado.
     .suffix = Completo
 
 ent-BananiumOre1 = {ent-BananiumOre}
@@ -1954,6 +1962,7 @@ ent-BananiumOre1 = {ent-BananiumOre}
     .suffix = Único
 
 ent-Coal = carvão
+    .desc = Carvão mineral. Com outros minerais, pode ser transformado em aço ou plastiaço.
     .suffix = Completo
 
 ent-Coal1 = {ent-Coal}
@@ -1973,6 +1982,7 @@ ent-Coal5 = {ent-Coal}
     .suffix = Cinco
 
 ent-DiamondOre = minério de diamante
+    .desc = A rocha mais dura - e valiosa - que você pode encontrar.
     .suffix = Completo
 
 ent-DiamondOre1 = {ent-DiamondOre}
@@ -1980,6 +1990,7 @@ ent-DiamondOre1 = {ent-DiamondOre}
     .suffix = Único
 
 ent-GoldOre = minério de ouro
+    .desc = Ouro mineral. Não tão brilhoso. Ainda.
     .suffix = Completo
 
 ent-GoldOre1 = {ent-GoldOre}
@@ -1988,10 +1999,11 @@ ent-GoldOre1 = {ent-GoldOre}
 
 # Abstract entity (referenceable by children)
 
-ent-OreBase =
+ent-OreBase = minério não refinado
     .desc = Um pedaço de minério não refinado.
 
 ent-PlasmaOre = minério de plasma
+    .desc = Rochas de plasma mineral.  Necessita ser refinado para ser usado em outras aplicações, mas pode ser usado como combustível sem ser refinado.
     .suffix = Completo
 
 ent-PlasmaOre1 = {ent-PlasmaOre}
@@ -2003,9 +2015,11 @@ ent-Salt1 = {ent-SaltOre}
     .suffix = Único
 
 ent-SaltOre = sal
+    .desc = Rochas de sal mineral.
     .suffix = Completo
 
 ent-SilverOre = minério de prata
+    .desc = Prata mineral. Não tão brilhoso. Ainda.
     .suffix = Completo
 
 ent-SilverOre1 = {ent-SilverOre}
@@ -2013,6 +2027,7 @@ ent-SilverOre1 = {ent-SilverOre}
     .suffix = Único
 
 ent-SpaceQuartz = quartzo espacial
+    .desc = Rochas de quartzo espacial; Podem ser processadas em chapas de vidro.
     .suffix = Completo
 
 ent-SpaceQuartz1 = {ent-SpaceQuartz}
@@ -2020,6 +2035,7 @@ ent-SpaceQuartz1 = {ent-SpaceQuartz}
     .suffix = Único
 
 ent-SteelOre = minério de ferro
+    .desc = Minério de aço. Pode ser processado em aço ou plastiaço junto a outros minerais.
     .suffix = Completo
 
 ent-SteelOre1 = {ent-SteelOre}
@@ -2027,6 +2043,7 @@ ent-SteelOre1 = {ent-SteelOre}
     .suffix = Único
 
 ent-UraniumOre = minério de urânio
+    .desc = Minério de urânio. Necessita refinamento antes de poder ser usado por máquinas e centrifugas, mas pode ser usado como combustível em geradores sem refinamento.
     .suffix = Completo
 
 ent-UraniumOre1 = {ent-UraniumOre}
@@ -3454,7 +3471,7 @@ ent-RubberStampHos = carimbo do chefe de segurança
 ent-RubberStampLawyer = carimbo do advogado
     .desc = {ent-RubberStampBase.desc}
 
-ent-RubberStampMime = carimbo do mimo
+ent-RubberStampMime = carimbo do mímico
     .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampPsychologist = carimbo do psicólogo
@@ -3610,10 +3627,13 @@ ent-UplinkImplant = implante de uplink
 # From: Entities/Objects/Misc/tiles.yml
 
 ent-FloorTileItemArcadeBlue = piso de fliperama azul
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemArcadeBlue2 = piso de fliperama azul
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemArcadeRed = piso de fliperama vermelho
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemAstroAsteroidSand = areia astro-asteroide
     .desc = Areia falsa. Felizmente, não é tão grosseira quanto a coisa real.
@@ -3628,11 +3648,12 @@ ent-FloorTileItemAstroSnow = neve astro
     .desc = Neve falsa tão fofa quanto a coisa real, sendo facilmente removível!
 
 ent-FloorTileItemBar = piso de bar
+    .desc = { ent-FloorTileItemBase.desc }
 
 # Abstract entity (referenceable by children)
 
-ent-FloorTileItemBase =
-    .desc = Estes poderiam servir como uma arma de arremesso bastante decente.
+ent-FloorTileItemBase = piso
+    .desc = Poderiam servir como uma arma de arremesso decente.
 
 ent-FloorTileItemBCircuit = piso de circuito azul
 
@@ -3641,200 +3662,291 @@ ent-FloorTileItemBCircuit4 = {ent-FloorTileItemBCircuit}
     .suffix = 4
 
 ent-FloorTileItemBlue = piso azul
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemBoxing = piso de ringue de boxe
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemBrassFilled = placa de latão preenchida
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemBrassReebe = placa de latão lisa
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemCarpetClown = piso de carpete de palhaço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemCarpetOffice = piso de carpete de escritório
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemClown = piso de palhaço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemConcrete = piso de concreto
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemConcreteMono = piso mono de concreto
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemConcreteSmooth = concreto liso
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDark = piso escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkDiagonal = piso diagonal de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkDiagonalMini = piso diagonal mini de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkHerringbone = espinha de peixe de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkMini = piso mini de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkMono = piso mono de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkOffset = piso de aço escuro deslocado
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkPavement = pavimento de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkPavementVertical = pavimento vertical de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDarkSquiggly = piso sinuoso de aço escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemDirty = piso sujo
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemEighties = piso anos 80
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemElevatorShaft = piso de poço de elevador
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemFlesh = piso de carne
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemFreezer = piso de freezer
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGCircuit = piso de circuito verde
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGCircuit4 = {ent-FloorTileItemGCircuit}
     .desc = {ent-FloorTileItemGCircuit.desc}
     .suffix = 4
 
 ent-FloorTileItemGold = piso dourado
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGrass = piso de grama
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGrassJungle = piso de grama da selva
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGratingMaint = piso de grades de manutenção
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGrayConcrete = piso de concreto cinza
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGrayConcreteMono = piso mono de concreto cinza
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGrayConcreteSmooth = concreto cinza liso
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemGym = piso de academia
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemHydro = piso hidropônico
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemJungleAstroGrass = grama astro da selva
     .desc = Grama falsa que cobre fios e vem até com recortes realistas da NanoTrasen!
 
 ent-FloorTileItemKitchen = piso de cozinha
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemLaundry = piso de lavanderia
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemLime = piso lima
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemLino = piso de linóleo
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMetalDiamond = piso de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemMime = piso de mimo
+ent-FloorTileItemMime = piso de mímico
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMining = piso de mineração
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMiningDark = piso de mineração escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMiningLight = piso de mineração claro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMono = piso mono
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemMowedAstroGrass = grama astro aparada
     .desc = Grama falsa que cobre fios e vem até com recortes realistas da NanoTrasen!
 
 ent-FloorTileItemOldConcrete = piso de concreto antigo
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemOldConcreteMono = piso mono de concreto antigo
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemOldConcreteSmooth = concreto antigo liso
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemRCircuit = piso de circuito vermelho
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemRCircuit4 = {ent-FloorTileItemRCircuit}
     .desc = {ent-FloorTileItemRCircuit.desc}
     .suffix = 4
 
 ent-FloorTileItemRockVault = piso de abóbada de rocha
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShowroom = piso de sala de exposição
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttleBlack = piso de nave preto
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttleBlue = piso de nave azul
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttleGrey = piso de nave cinza
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttleOrange = piso de nave laranja
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttlePurple = piso de nave roxo
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttleRed = piso de nave vermelho
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemShuttleWhite = piso de nave branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSilver = piso prateado
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSnow = piso de neve
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteel = piso de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelCheckerDark = piso xadrez escuro de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelCheckerLight = piso xadrez claro de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelDiagonal = piso diagonal de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelDiagonalMini = piso diagonal mini de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelHerringbone = espinha de peixe de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelMaint = piso de aço de manutenção
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelMini = piso mini de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelMono = piso mono de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelOffset = piso de aço deslocado
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelPavement = pavimento de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemSteelPavementVertical = pavimento vertical de aço
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemTechmaint = piso de manutenção técnica
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemTechmaintDark = piso de manutenção técnica escuro
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWeb = piso de teia
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhite = piso branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhiteDiagonal = piso diagonal de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhiteDiagonalMini = piso diagonal mini de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhiteHerringbone = espinha de peixe de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhiteMini = piso mini de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhiteMono = piso mono de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhiteOffset = piso de aço branco deslocado
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhitePavement = pavimento de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWhitePavementVertical = pavimento vertical de aço branco
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWood = piso de madeira
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWoodLarge = piso de madeira grande
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemWoodPattern = piso de padrão de madeira
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemXeno = piso xeno
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemXenoMaint = xeno de manutenção técnica
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemXenoSteel = piso de aço xeno
+    .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorTileItemXenoSteelCorner = piso de canto de aço xeno
+    .desc = { ent-FloorTileItemBase.desc }
 
 # From: Entities/Objects/Misc/torch.yml
 
@@ -4598,7 +4710,7 @@ ent-HydroponicsToolClippers = tesoura de poda
 ent-HydroponicsToolHatchet = machadinha
     .desc = Uma lâmina de machado muito afiada sobre um cabo curto de fibrametal. Tem uma longa história de cortar coisas, mas agora é usada para cortar madeira.
 
-ent-HydroponicsToolMiniHoe = enxada mini
+ent-HydroponicsToolMiniHoe = mini enxada
     .desc = É usada para remover ervas daninhas ou coçar suas costas.
 
 ent-HydroponicsToolScythe = foice
@@ -4671,6 +4783,7 @@ ent-SprayBottleSpaceCleaner = limpa-espaço
     .desc = Limpa-espaço não espumante da marca BLAM!
 
 ent-SprayBottleWater = spray
+    .desc = Um frasco de spray. Espante gatos e goblins.
     .suffix = Preenchido
 
 ent-Vapor = vapor
@@ -4825,8 +4938,8 @@ ent-DefibrillatorSyndicate = desfibrilador interdyne
 
 # From: Entities/Objects/Specific/Medical/disease.yml
 
-ent-BoxMouthSwab = dispensador de swabs estéreis
-    .desc = Dispensa 30 swabs estéreis, extremamente úteis para botânica.
+ent-BoxMouthSwab = dispensador de cotonetes estéreis
+    .desc = Dispensa 30 cotonetes estéreis, extremamente úteis para botânica.
 
 ent-DiseaseSwab = swab estéril
     .desc = Usado para coletar e transferir amostras. Estéril até ser aberto. Apenas uso único.
@@ -4914,36 +5027,47 @@ ent-PillAmbuzol = comprimido de ambuzol
 ent-PillAmbuzolPlus = comprimido de ambuzol plus
 
 ent-PillBicaridine = comprimido
-    .suffix = Bicaridina 10u
+    .desc = Uma pílula de bicardina.
+    .suffix = Bicardina 10u
 
 ent-PillCanisterBicaridine = frasco de comprimidos
-    .suffix = Bicaridina 10u, 5
+    .desc = Um frasco de pílulas de bicardina.
+    .suffix = Bicardina 10u, 5
 
 ent-PillCanisterCharcoal = frasco de comprimidos
+    .desc = Um frasco de pílulas de carvão vegetal.
     .suffix = Carvão 10u, 3
 
 ent-PillCanisterCopper = frasco de comprimidos
+    .desc = Um frasco de pílulas de cobre.
     .suffix = Cobre 10u, 5
 
 ent-PillCanisterDermaline = frasco de comprimidos
+    .desc = Um frasco de pílulas de dermalina.
     .suffix = Dermalina 10u, 5
 
 ent-PillCanisterDexalin = frasco de comprimidos
+    .desc = Um frasco de pílulas de dexalina.
     .suffix = Dexalina 10u, 7
 
 ent-PillCanisterDylovene = frasco de comprimidos
+    .desc = Um frasco de pílulas de dylovene.
     .suffix = Dylovene 10u, 5
 
 ent-PillCanisterHyronalin = frasco de comprimidos
+    .desc = Um frasco de pílulas de hyronalina.
     .suffix = Hyronalina 10u, 5
 
 ent-PillCanisterIron = frasco de comprimidos
+    .desc = Um frasco de pílulas de ferro.
     .suffix = Ferro 10u, 5
 
 ent-PillCanisterKelotane = frasco de comprimidos
-    .suffix = Kelotana 10u, 5
+    .desc = Um frasco de pílulas de kelotane.
+    .suffix = Kelotane 10u, 5
 
 ent-PillCanisterPotassiumIodide = frasco de comprimidos
+    .desc = Um frasco de pílulas de iodeto de potássio.
     .suffix = Iodeto de potássio 10u, 5
 
 ent-PillCanisterRandom = {ent-PillCanister}
@@ -4951,33 +5075,43 @@ ent-PillCanisterRandom = {ent-PillCanister}
     .suffix = Aleatório
 
 ent-PillCanisterTricordrazine = frasco de comprimidos
+    .desc = Um frasco de pílulas de tricordrazina.
     .suffix = Tricordrazina 10u, 5
 
 ent-PillCharcoal = comprimido
+    .desc = Uma pílula de carvão vegetal.
     .suffix = Carvão 10u
 
 ent-PillCopper = comprimido
+    .desc = Uma pílula de cobre.
     .suffix = Cobre 10u
 
 ent-PillDermaline = comprimido
+    .desc = Uma pílula de dermalina.
     .suffix = Dermalina 10u
 
 ent-PillDexalin = comprimido
+    .desc = Uma pílula de dexalina.
     .suffix = Dexalina 10u
 
 ent-PillDylovene = comprimido
+    .desc = Uma pílula de dylovene.
     .suffix = Dylovene 10u
 
 ent-PillHyronalin = comprimido
+    .desc = Uma pílula de hyronalina.
     .suffix = Hyronalina 10u
 
 ent-PillIron = comprimido
+    .desc = Uma pílula de iron.
     .suffix = Ferro 10u
 
 ent-PillKelotane = comprimido
-    .suffix = Kelotana 10u
+    .desc = Uma pílula de kelotane.
+    .suffix = Kelotane 10u
 
 ent-PillPotassiumIodide = comprimido
+    .desc = Uma pílula de iodeto de potássio.
     .suffix = Iodeto de potássio 10u
 
 ent-PillRomerol = comprimido de romerol
@@ -4985,6 +5119,7 @@ ent-PillRomerol = comprimido de romerol
 ent-PillSpaceDrugs = miragem espacial
 
 ent-PillTricordrazine = comprimido
+    .desc = Uma pílula de tricordrazina.
     .suffix = Tricordrazina 10u
 
 ent-RegenerativeMesh = malha regenerativa
@@ -4999,7 +5134,7 @@ ent-SyringeAmbuzol = {ent-BaseSyringe}
 
 ent-SyringeBicaridine = {ent-BaseSyringe}
     .desc = {ent-BaseSyringe.desc}
-    .suffix = bicaridina
+    .suffix = bicardina
 
 ent-SyringeDermaline = {ent-BaseSyringe}
     .desc = {ent-BaseSyringe.desc}
@@ -5085,7 +5220,7 @@ ent-BorgHypo = hipospray de borg
     .desc = Um injetor estéril para administração rápida de medicamentos aos pacientes. Uma versão mais barata e especializada para borgs médicos.
 
 ent-BruteAutoInjector = autoinjetor de trauma
-    .desc = Uma dose rápida de bicaridina e ácido tranexâmico, destinada a aplicações de combate.
+    .desc = Uma dose rápida de bicardina e ácido tranexâmico, destinada a aplicações de combate.
 
 ent-BurnAutoInjector = autoinjetor de queimadura
     .desc = Uma dose rápida de dermalina e leporazina, destinada a aplicações de combate.
@@ -5116,7 +5251,7 @@ ent-PyraAutoInjector = autoinjetor de pirazina
     .desc = Uma dose rápida de pirazina e dermalina, destinada a aplicações de combate.
 
 ent-RadAutoInjector = autoinjetor radial
-    .desc = Uma dose rápida de anti-radiação. Contém aritrazina e bicaridina.
+    .desc = Uma dose rápida de anti-radiação. Contém aritrazina e bicardina.
 
 ent-SpaceMedipen = medipen espacial
     .desc = Contém uma mistura de produtos químicos que protegem dos efeitos mortais do espaço.
@@ -5827,37 +5962,38 @@ ent-CableStack = bobina de cabos
 
 # From: Entities/Objects/Tools/cowtools.yml
 
-ent-Cowbar = pé-de-cabrina
-    .desc = Cow seus problemas para longe. Moo!
+ent-Cowbar = pé-de-vaca
+    .desc = Muunde o seus problemuus pra longe. Moo!
 
-ent-Cowelder = ferramenta de solda vaka
+ent-Cowelder = vakamenta de solda
     .desc = Derrite qualquer coisa enquanto estiver abastecido, não esqueça sua proteção ocular! Moo!
 
-ent-CowToolbox = caixa de ferramentas vaka
+ent-CowToolbox = caixa de vakamentas
     .desc = Uma caixa de formato estranho, abastecida com... ferramentas?
 
-ent-CowToolboxFilled = caixa de ferramentas vaka
+ent-CowToolboxFilled = { ent-CowToolbox }
+    .desc = { ent-CowToolbox.desc }
     .suffix = Abastecida
 
 ent-Haycutters = alicate de feno
-    .desc = Isto mata o fio. Moo!
+    .desc = Isso mata o fio. Moo!
 
 ent-Milkalyzer = leitanalisador
     .desc = Um scanner ambiental portátil que reporta níveis atuais de gás. Moo!
 
-ent-Moodriver = moodriver
+ent-Moodriver = chave de vaka
     .desc = Gire para usar. Moo!
 
-ent-Mooltitool = mooltitool
+ent-Mooltitool = muultitool
     .desc = Uma ferramenta crua para copiar, armazenar e enviar pulsos e sinais elétricos através de fios e máquinas. Moo!
 
-ent-Wronch = wronch
-    .desc = Coisa wronch. Moo!
+ent-Wronch = vaka inglesa
+    .desc = Chá com leite. Moo!
 
 # From: Entities/Objects/Tools/crowbars.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseCrowbar = pé-de-cabrina
+ent-BaseCrowbar = pe de cabra
 
 ent-Crowbar = {ent-BaseCrowbar}
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais.
@@ -5868,8 +6004,8 @@ ent-CrowbarGreen = {ent-BaseCrowbar}
 ent-CrowbarOrange = {ent-BaseCrowbar}
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais, encontrada em caixas de ferramentas.
 
-ent-CrowbarRed = pé-de-cabrina de emergência
-    .desc = Um pé-de-cabrina de emergência projetado para abrir à força portas e portas corta-fogo durante quedas de energia.
+ent-CrowbarRed = pe de cabra de emergência
+    .desc = Um pe de cabra de emergência projetado para abrir à força portas e portas corta-fogo durante quedas de energia.
 
 ent-CrowbarYellow = {ent-BaseCrowbar}
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais, dispensada da Engenharia.
@@ -5925,10 +6061,11 @@ ent-Fulton = fulton
     .desc = Usado para extrair contêineres, itens ou recrutar forçosamente pessoas para sua base de operações.
 
 ent-Fulton1 = fulton
+    .desc = Um dispositivo de recuperação Fulton.
     .suffix = Um
 
-ent-FultonBeacon = baliza de fulton
-    .desc = Baliza para receber extrações de fulton.
+ent-FultonBeacon = sinalizador de fulton
+    .desc = Sinalizador para receber extrações de fulton.
 
 ent-FultonEffect = efeito fulton
 
@@ -6061,43 +6198,54 @@ ent-ActionToggleJetpack = Alternar jetpack
 # Abstract entity (referenceable by children)
 
 ent-BaseJetpack = jetpack
-    .desc = É um jetpack. Pode conter 5 L de gás.
+    .desc = É um jetpack. Pode conter 5L de gás.
 
 ent-JetpackBlack = jetpack
+    .desc = { ent-BaseJetpack.desc }
     .suffix = Vazio
 
-ent-JetpackBlackFilled = jetpack
+ent-JetpackBlackFilled = { ent-JetpackBlack }
+    .desc = { ent-JetpackBlack.desc }
     .suffix = Cheio
 
 ent-JetpackBlue = jetpack
+    .desc = { ent-BaseJetpack.desc }
     .suffix = Vazio
 
-ent-JetpackBlueFilled = jetpack
+ent-JetpackBlueFilled = { ent-JetpackBlue }
+    .desc = { ent-JetpackBlue.desc }
     .suffix = Cheio
 
 ent-JetpackCaptain = jetpack de capitão
+    .desc = É um jetpack. Pode conter 5L de gás. Esse parece mais fácil de se guardar numa mochila, comparado a um normal.
     .suffix = Vazio
 
-ent-JetpackCaptainFilled = jetpack de capitão
+ent-JetpackCaptainFilled = { ent-JetpackCaptain }
+    .desc = { ent-JetpackCaptain.desc }
     .suffix = Cheio
 
 ent-JetpackMini = mini jetpack
     .suffix = Vazio
-    .desc = É um jetpack. Pode conter 1 L de gás.
+    .desc = É um jetpack. Pode conter 1L de gás. Parece fácil de se guardar em uma mochila, e seu tamanho e o design de suas amarras permitem ele a também poder ser usado na cintura.
 
-ent-JetpackMiniFilled = mini jetpack
+ent-JetpackMiniFilled = { ent-JetpackMini }
+    .desc = { ent-JetpackMini.desc }
     .suffix = Cheio
 
 ent-JetpackSecurity = jetpack de segurança
+    .desc = { ent-BaseJetpack.desc }
     .suffix = Vazio
 
-ent-JetpackSecurityFilled = jetpack de segurança
+ent-JetpackSecurityFilled = { ent-JetpackSecurity }
+    .desc = { ent-JetpackSecurity.desc }
     .suffix = Cheio
 
 ent-JetpackVoid = jetpack do void
+    .desc = É um jetpack. Pode conter 5L de gás. Seu formato e o design de suas amarras permitem ele a também poder ser usado na cintura.
     .suffix = Vazio
 
-ent-JetpackVoidFilled = jetpack do void
+ent-JetpackVoidFilled = { ent-JetpackVoid }
+    .desc = { ent-JetpackVoid.desc }
     .suffix = Cheio
 
 # From: Entities/Objects/Tools/lantern.yml
@@ -6156,7 +6304,7 @@ ent-trayScanner = scanner t-ray
 
 # From: Entities/Objects/Tools/thief_beacon.yml
 
-ent-ThiefBeacon = baliza de ladrão
+ent-ThiefBeacon = sinalizador de ladrão
     .desc = Um dispositivo que teleportará tudo ao seu redor para o cofre do ladrão no final do turno.
 
 # From: Entities/Objects/Tools/toolbox.yml
@@ -6239,7 +6387,7 @@ ent-Shovel = pá
     .desc = Uma ferramenta grande para cavar e mover terra.
 
 ent-Wirecutter = alicate de corte
-    .desc = Isto mata o fio.
+    .desc = Isso mata o fio.
 
 ent-Wrench = chave inglesa
     .desc = Uma ferramenta comum para montagem e desmontagem. Lembre-se: esquerda trava, direita remove.
@@ -6343,6 +6491,7 @@ ent-HotPotato = batata quente
     .desc = Uma vez ativada, você não pode largar esta bomba relógio - acerte outra pessoa com ela para se salvar! Não queime as mãos!
 
 ent-TrashBananaPeelExplosive = casca de banana
+    .desc = Um pedaço de lixo.
     .suffix = Explosiva
 
 ent-TrashBananaPeelExplosiveUnarmed = banana
@@ -6446,7 +6595,7 @@ ent-WeaponSprayNozzle = bico spray
 # From: Entities/Objects/Weapons/Guns/Basic/staves.yml
 
 ent-WeaponStaffHealing = cajado de cura
-    .desc = Você não prevê ter que usar isto em sua busca por carnificina com muita frequência.
+    .desc = Você não prevê ter que usar isso em sua busca por carnificina com muita frequência.
 
 ent-WeaponStaffPolymorphDoor = cajado de entrada
     .desc = Para quando você precisar de uma rota de fuga.
@@ -6518,7 +6667,7 @@ ent-WeaponLaserCannon = canhão laser
     .desc = Uma arma de laser de alta potência e uso pesado. No cabo há um rótulo que diz 'apenas para uso autorizado.'
 
 ent-WeaponLaserCarbine = carabina laser
-    .desc = Uma carabina laser simples de grau civil, a ferramenta de trabalho de muitas organizações de segurança privada.
+    .desc = Uma carabina laser simples de grau civil, a ferramenta de trabalho de muitas organizações de segurança particular.
 
 ent-WeaponLaserCarbinePractice = rifle laser de prática
     .desc = Esta carabina laser modificada dispara raios quase inofensivos na faixa de 40 watts, para prática de alvo.
@@ -6940,6 +7089,7 @@ ent-WeaponShotgunImprovised = escopeta improvisada (calibre 12)
     .desc = Uma escopeta feita à mão, porém legal, que usa cartuchos de escopeta calibre 12. Só pode segurar um projétil na câmara.
 
 ent-WeaponShotgunImprovisedLoaded = escopeta improvisada (calibre 12)
+    .desc = Uma arma improvisada.
     .suffix = Carregada
 
 ent-WeaponShotgunKammerer = Kammerer (calibre 12)
@@ -7007,6 +7157,7 @@ ent-WeaponTurretSyndicate = {ent-BaseWeaponBallisticTurret}
     .suffix = Sindicato
 
 ent-WeaponTurretSyndicateDisposable = torre balística descartável
+    .desc = Uma torreta descartável.
     .suffix = Sindicato, Descartável
 
 ent-WeaponTurretXeno = torre xeno
@@ -7272,6 +7423,7 @@ ent-PortableFlasher = flasher portátil
     .desc = Um flashbulb ultrabrilhante com um gatilho de proximidade, útil para tornar uma área apenas de segurança.
 
 ent-SciFlash = flash
+    .desc = Um flash.
     .suffix = 2 cargas
 
 ent-Stunbaton = cassetete de choque
@@ -7656,6 +7808,7 @@ ent-ChemDispenser = distribuidor químico
     .desc = Um distribuidor químico de grau industrial.
 
 ent-ChemDispenserEmpty = distribuidor químico
+    .desc = Uma máquina de química.
     .suffix = Vazio
 
 # From: Entities/Structures/Dispensers/soda.yml
@@ -8505,6 +8658,7 @@ ent-AirlockAssemblyVirologyGlass = {ent-AirlockAssembly}
     .suffix = Virologia, Vidro
 
 ent-PinionAirlockAssembly = montagem de airlock
+    .desc = Um montagem de esclusa de ar.
     .suffix = Pinion, Engrenagens
 
 ent-PinionAirlockAssemblyGlass = {ent-PinionAirlockAssembly}
@@ -9178,6 +9332,7 @@ ent-ChairFoldingSpawnFolded = {ent-ChairFolding}
     .suffix = dobrada
 
 ent-ChairGreyscale = cadeira
+    .desc = Uma cadeira.
     .suffix = Branca
 
 ent-ChairMeat = cadeira de carne
@@ -9296,6 +9451,7 @@ ent-RollerBedSpawnFolded = {ent-RollerBed}
 # From: Entities/Structures/Furniture/sink.yml
 
 ent-Sink = pia
+    .desc = Uma pia.
     .suffix = Água
 
 ent-SinkEmpty = pia
@@ -9305,6 +9461,7 @@ ent-SinkEmpty = pia
 ent-SinkStemless = pia
 
 ent-SinkStemlessWater = pia
+    .desc = Uma pia.
     .suffix = Água
 
 ent-SinkWide = pia larga
@@ -9345,7 +9502,7 @@ ent-TableCounterMetal = balcão metálico
     .desc = Parece um bom lugar para colocar uma bebida.
 
 ent-TableCounterWood = balcão de madeira
-    .desc = Não aplique fogo a isto. Dizem que queima facilmente.
+    .desc = Não aplique fogo a isso. Dizem que queima facilmente.
 
 ent-TableDebug = mesa
     .suffix = DEBUG
@@ -9414,7 +9571,7 @@ ent-TableWeb = mesa de teia
     .desc = Realmente lisa e surpreendentemente durável.
 
 ent-TableWood = mesa de madeira
-    .desc = Não aplique fogo a isto. Dizem que queima facilmente.
+    .desc = Não aplique fogo a isso. Dizem que queima facilmente.
 
 ent-TableXeno = mesa xeno
     .desc = Eu não colocaria a prataria nela.
@@ -9481,7 +9638,7 @@ ent-PowerSensor = sensor de energia
 
 # From: Entities/Structures/Holographic/projections.yml
 
-ent-HoloFan = holofã
+ent-HoloFan = holofan
     .desc = Uma barreira de luz dura que bloqueia ar, mas nada mais.
 
 ent-HolosignForcefield = campo de força holográfico
@@ -9687,7 +9844,7 @@ ent-BaseHardBomb = bomba grande
 
 ent-DebugHardBomb = bomba de debug
     .suffix = DEBUG
-    .desc = Puta merda, isto vai explodir.
+    .desc = Puta merda, isso vai explodir.
 
 ent-SyndicateBomb = bomba do Sindicato
     .desc = Uma bomba para operativos e agentes do Sindicato. O negócio real, sem mais treinamento, mãos à obra!
@@ -9768,7 +9925,7 @@ ent-ComputerCrewMonitoring = console de monitoramento da tripulação
     .desc = Usado para monitorar os sensores de saúde ativos embutidos na maioria dos uniformes da tripulação.
 
 ent-ComputerCriminalRecords = computador de registros criminais
-    .desc = Isto pode ser usado para checar registros criminais. Apenas segurança pode modificá-los.
+    .desc = Isso pode ser usado para checar registros criminais. Apenas segurança pode modificá-los.
 
 ent-ComputerEmergencyShuttle = console de nave de emergência
     .desc = Gerencia autorização para lançar a nave antecipadamente.
@@ -9787,7 +9944,7 @@ ent-ComputerMassMedia = console de gerenciador de notícias
     .desc = Escreva sua mensagem para o mundo!
 
 ent-ComputerMedicalRecords = computador de registros médicos
-    .desc = Isto pode ser usado para checar registros médicos.
+    .desc = Isso pode ser usado para checar registros médicos.
 
 ent-ComputerPalletConsole = computador de vendas de carga
     .desc = Usado para vender mercadorias carregadas em paletes de carga.
@@ -9824,7 +9981,7 @@ ent-ComputerSolarControl = computador de controle solar
     .desc = Um controlador para arranjos de painéis solares.
 
 ent-ComputerStationRecords = computador de registros da estação
-    .desc = Isto pode ser usado para checar registros da estação.
+    .desc = Isso pode ser usado para checar registros da estação.
 
 ent-ComputerSurveillanceCameraMonitor = monitor de câmeras
     .desc = Um monitor de câmeras de vigilância. Você está observando eles. Talvez.
@@ -9836,10 +9993,10 @@ ent-StationAiUploadComputer = console de upload de IA
     .desc = Usado para atualizar as leis da IA da nave.
 
 ent-SyndicateComputerComms = computador de comunicações do Sindicato
-    .desc = Um computador capaz de hackear remotamente os sistemas de comunicação da estação. Usar isto para fazer um anúncio alertará a estação sobre sua presença.
+    .desc = Um computador capaz de hackear remotamente os sistemas de comunicação da estação. Usar isso para fazer um anúncio alertará a estação sobre sua presença.
 
 ent-WizardComputerComms = computador de comunicações de mago
-    .desc = Um computador capaz de projetar magicamente sua fala para a estação. Usar isto para fazer um anúncio alertará a estação sobre sua presença.
+    .desc = Um computador capaz de projetar magicamente sua fala para a estação. Usar isso para fazer um anúncio alertará a estação sobre sua presença.
 
 # From: Entities/Structures/Machines/Computers/frame.yml
 
@@ -9889,6 +10046,7 @@ ent-MachineFlatpacker = Flatpacker 1001
 # From: Entities/Structures/Machines/frame.yml
 
 ent-MachineFrame = estrutura de máquina (1x1)
+    .desc = Uma entidade.
     .suffix = Pronta
 
 ent-MachineFrameDestroyed = estrutura de máquina destruída (1x1)
@@ -10272,7 +10430,7 @@ ent-HolopadServiceClown = {ent-Holopad}
 
 ent-HolopadServiceClownMime = {ent-Holopad}
     .desc = {ent-Holopad.desc}
-    .suffix = Palhaço/Mimo
+    .suffix = Palhaço/Mímico
 
 ent-HolopadServiceGameRoom = {ent-Holopad}
     .desc = {ent-Holopad.desc}
@@ -10292,7 +10450,7 @@ ent-HolopadServiceLibrary = {ent-Holopad}
 
 ent-HolopadServiceMime = {ent-Holopad}
     .desc = {ent-Holopad.desc}
-    .suffix = Mimo
+    .suffix = Mímico
 
 ent-HolopadServiceMusician = {ent-Holopad}
     .desc = {ent-Holopad.desc}
@@ -10429,11 +10587,11 @@ ent-SyndicateMicrowave = micro-ondas da Donk Co.
 # From: Entities/Structures/Machines/nuke.yml
 
 ent-NuclearBomb = explosivo de fissão nuclear
-    .desc = Você provavelmente não deveria ficar por perto para ver se isto está armado.
+    .desc = Você provavelmente não deveria ficar por perto para ver se isso está armado.
 
 ent-NuclearBombKeg = explosivo de fissão nuclear
     .suffix = barril
-    .desc = Você provavelmente não deveria ficar por perto para ver se isto está armado. Tem uma torneira no lado.
+    .desc = Você provavelmente não deveria ficar por perto para ver se isso está armado. Tem uma torneira no lado.
 
 ent-NuclearBombUnanchored = {ent-NuclearBomb}
     .desc = {ent-NuclearBomb.desc}
@@ -10512,6 +10670,7 @@ ent-SurveillanceCameraRouterBase = roteador de câmeras
     .desc = Um roteador de câmeras de vigilância. Ele roteia. Talvez.
 
 ent-SurveillanceCameraRouterCommand = roteador de câmeras de comando
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Comando
 
 ent-SurveillanceCameraRouterConstructed = {ent-SurveillanceCameraRouterBase}
@@ -10519,33 +10678,43 @@ ent-SurveillanceCameraRouterConstructed = {ent-SurveillanceCameraRouterBase}
     .suffix = Construído
 
 ent-SurveillanceCameraRouterEngineering = roteador de câmeras de engenharia
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Engenharia
 
 ent-SurveillanceCameraRouterGeneral = roteador de câmeras geral
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Geral
 
 ent-SurveillanceCameraRouterMedical = roteador de câmeras médico
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Médico
 
 ent-SurveillanceCameraRouterRogue = roteador de câmeras Rogue
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Rogue
 
 ent-SurveillanceCameraRouterScience = roteador de câmeras de ciência
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Ciência
 
 ent-SurveillanceCameraRouterSecurity = roteador de câmeras de segurança
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Segurança
 
 ent-SurveillanceCameraRouterService = roteador de câmeras de serviço
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Serviço
 
 ent-SurveillanceCameraRouterSupply = roteador de câmeras de suprimentos
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Suprimentos
 
 ent-SurveillanceCameraRouterTSF = roteador de câmeras TSFMC
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = TSFMC
 
 ent-SurveillanceCameraRouterUSSP = roteador de câmeras USSP
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = USSP
 
 # Abstract entity (referenceable by children)
@@ -10558,6 +10727,7 @@ ent-SurveillanceCameraWirelessRouterConstructed = {ent-SurveillanceCameraWireles
     .suffix = Construído
 
 ent-SurveillanceCameraWirelessRouterEntertainment = roteador de câmeras de entretenimento
+    .desc = Um roteador de câmeras de vigilância.
     .suffix = Entretenimento
 
 # From: Entities/Structures/Machines/telecomms.yml
@@ -10937,23 +11107,29 @@ ent-GasMinerCarbonDioxide = minerador de gás CO2
 ent-GasMinerFrezon = minerador de gás frezon
 
 ent-GasMinerNitrogen = minerador de gás N2
+    .desc = Um componente de processamento de gás.
     .suffix = Navette, 300kPa
 
 ent-GasMinerNitrogenStation = minerador de gás N2
+    .desc = Um componente de processamento de gás.
     .suffix = Estação, 1000kPa
 
 ent-GasMinerNitrogenStationLarge = minerador de gás N2
+    .desc = Um componente de processamento de gás.
     .suffix = Estação Grande, 4500kPa
 
 ent-GasMinerNitrousOxide = minerador de gás óxido nitroso
 
 ent-GasMinerOxygen = minerador de gás O2
+    .desc = Um componente de processamento de gás.
     .suffix = Navette, 300kPa
 
 ent-GasMinerOxygenStation = minerador de gás O2
+    .desc = Um componente de processamento de gás.
     .suffix = Estação, 1000kPa
 
 ent-GasMinerOxygenStationLarge = minerador de gás O2
+    .desc = Um componente de processamento de gás.
     .suffix = Estação Grande, 4500kPa
 
 ent-GasMinerPlasma = minerador de gás plasma
@@ -11026,12 +11202,14 @@ ent-GasFilterBase = filtro de gás
     .desc = Muito útil para filtrar gases.
 
 ent-GasFilterFlipped = filtro de gás
+    .desc = Um componente de processamento de gás.
     .suffix = Invertido
 
 ent-GasMixer = misturador de gás
     .desc = Muito útil para misturar gases.
 
 ent-GasMixerFlipped = misturador de gás
+    .desc = Um componente de processamento de gás.
     .suffix = Invertido
 
 ent-PressureControlledValve = válvula pneumática
@@ -11128,11 +11306,12 @@ ent-DisposalYJunction = junção em Y de descarte
 
 # From: Entities/Structures/Piping/Disposal/units.yml
 
-ent-DisposalUnit = unidade de descarte
+ent-DisposalUnit = {ent-DisposalUnitBase}
+    .desc = {ent-DisposalUnitBase.desc}
 
 # Abstract entity (referenceable by children)
 
-ent-DisposalUnitBase =
+ent-DisposalUnitBase = unidade de descarte
     .desc = Uma unidade de descarte de resíduos pneumática.
 
 ent-MailingUnit = unidade de correio
@@ -11239,12 +11418,15 @@ ent-DebugAPC = {ent-BaseAPC}
     .suffix = DEBUG
 
 ent-DebugBatteryDischarger = descarregador de bateria
+    .desc = Para debug.
     .suffix = DEBUG
 
 ent-DebugBatteryStorage = armazenamento de bateria
+    .desc = Para debug.
     .suffix = DEBUG
 
 ent-DebugConsumer = consumidor
+    .desc = Para debug.
     .suffix = DEBUG
 
 ent-DebugGenerator = {ent-BaseGenerator}
@@ -11252,6 +11434,7 @@ ent-DebugGenerator = {ent-BaseGenerator}
     .suffix = DEBUG
 
 ent-DebugPowerReceiver = receptor de energia
+    .desc = Para debug.
     .suffix = DEBUG
 
 ent-DebugSMES = {ent-BaseSMES}
@@ -11876,6 +12059,7 @@ ent-MopBucket = balde de esfregão
     .desc = Contém água e as lágrimas do zelador.
 
 ent-MopBucketFull = balde de esfregão
+    .desc = Um balde de esfregona.
     .suffix = cheio
 
 # From: Entities/Structures/Specific/xeno.yml
@@ -12356,7 +12540,7 @@ ent-CratePlasma = caixote de plasma
 ent-CratePlastic = caixote de plástico
     .desc = {ent-CrateGeneric.desc}
 
-ent-CratePrivateSecure = caixote privado
+ent-CratePrivateSecure = caixote particular
     .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateRadiation = caixote de equipamentos de radiação
@@ -12726,7 +12910,7 @@ ent-ShelfBar = prateleira de bar
 # Abstract entity (referenceable by children)
 
 ent-ShelfBase = prateleira
-    .desc = Um lugar estranho para colocar, bem, qualquer coisa mesmo. Você sente que não deveria estar vendo isto.
+    .desc = Um lugar estranho para colocar, bem, qualquer coisa mesmo. Você sente que não deveria estar vendo isso.
 
 # Abstract entity (referenceable by children)
 
@@ -12785,6 +12969,7 @@ ent-PlaqueAtmos = placa de atmos
 # From: Entities/Structures/Wallmounts/Signs/bar_sign.yml
 
 ent-BarSign = placa de bar
+    .desc = Um letreiro de bar.
     .suffix = Aleatório
 
 ent-BarSignComboCafe = Combo Café
@@ -12851,7 +13036,7 @@ ent-BarSignTheSun = O Sol
     .desc = Ironicamente brilhante para um bar tão suspeito.
 
 ent-BarSignWhiskeyEchoes = Whiskey Echoes
-    .desc = Um bar de elite para operações de elite-espera, isto é espaço da TSF. Por que essa placa está no banco de dados?
+    .desc = Um bar de elite para operações de elite-espera, isso é espaço da TSF. Por que essa placa está no banco de dados?
 
 ent-BarSignWiggleRoom = Wiggle Room
     .desc = MoMMIs têm movimentos.
@@ -13258,7 +13443,7 @@ ent-PosterLegitSafetyMothHardhat = Mariposa de Segurança - Capacetes
     .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para usar capacetes em áreas cautelosas. É como uma lâmpada para sua cabeça!
 
 ent-PosterLegitSafetyMothMeth = Mariposa de Segurança - Metanfetamina
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para buscar aprovação do CM antes de cozinhar metanfetamina. Fique perto da temperatura alvo e nunca passe! ...Você nunca deveria fazer isto.
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para buscar aprovação do CM antes de cozinhar metanfetamina. Fique perto da temperatura alvo e nunca passe! ...Você nunca deveria fazer isso.
 
 ent-PosterLegitSafetyMothPiping = Mariposa de Segurança - Tubulação
     .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer aos técnicos atmosféricos os tipos corretos de tubulação a serem usados. Tubos, não Bombas! A colocação adequada de tubos previne mau desempenho!
@@ -13288,10 +13473,10 @@ ent-PosterLegitTheOwl = A Coruja
     .desc = A Coruja faria o melhor para proteger a estação. Você fará?
 
 ent-PosterLegitThereIsNoGasGiant = Não Há Gigante Gasoso
-    .desc = Para lembrar civis coloniais que rumores de gigantes gasosos existentes no setor rebelde são falsos. Isto é... aprovado pela TSF?
+    .desc = Para lembrar civis coloniais que rumores de gigantes gasosos existentes no setor rebelde são falsos. Isso é... aprovado pela TSF?
 
 ent-PosterLegitUeNo = Ue No.
-    .desc = Isto está tudo em japonês.
+    .desc = Isso está tudo em japonês.
 
 ent-PosterLegitVacation = Benefícios Corporativos Nanotrasen: Férias
     .desc = Este pôster informativo fornece informações sobre alguns dos prêmios disponíveis através do programa de Benefícios Corporativos NT, incluindo férias de duas semanas para duas pessoas no mundo resort Idyllus.
@@ -13333,7 +13518,7 @@ ent-PosterMapSplit = Mapa Estação Dividida
     .desc = Um mapa da Estação Dividida.
 
 ent-PosterMapWaystation = Mapa Estação-Rota
-    .desc = Um mapa da Estação-Rota... espera, isto não é o mapa embalado de cabeça para baixo?
+    .desc = Um mapa da Estação-Rota... espera, isso não é o mapa embalado de cabeça para baixo?
 
 # From: Entities/Structures/Wallmounts/Signs/signs.yml
 
@@ -13723,7 +13908,7 @@ ent-SignSecurity = placa de segurança
     .desc = Uma placa retratando a insígnia de segurança.
 
 ent-SignServer = placa de servidor
-    .desc = Já ouviu falar de Big Data? Isto é ele, otário. O maior.
+    .desc = Já ouviu falar de Big Data? Isso é ele, otário. O maior.
 
 ent-SignShipDock = placa de evacuação
     .desc = Uma placa indicando onde o ônibus de evacuação chegará (provavelmente).
@@ -13874,18 +14059,23 @@ ent-SurveillanceCameraUSSP = câmera
 # From: Entities/Structures/Wallmounts/switch_autolink.yml
 
 ent-SignalButtonBridge = botão de janelas da ponte
+    .desc = Um botão de sinal.
     .suffix = Autolink, Ponte
 
 ent-SignalButtonExt1 = botão externo 1
+    .desc = Um botão de sinal.
     .suffix = Autolink, Ext1
 
 ent-SignalButtonExt2 = botão externo 2
+    .desc = Um botão de sinal.
     .suffix = Autolink, Ext2
 
 ent-SignalButtonExt3 = botão externo 3
+    .desc = Um botão de sinal.
     .suffix = Autolink, Ext3
 
 ent-SignalButtonWindows = botão de janelas externas
+    .desc = Um botão de sinal.
     .suffix = Autolink, Windows
 
 # From: Entities/Structures/Wallmounts/switch.yml
@@ -14214,6 +14404,7 @@ ent-IronRockUranium = {ent-IronRock}
     .desc = Uma veia de minério rica em urânio.
 
 ent-WallRock = rocha
+    .desc = Uma estrutura.
     .suffix = mapadeplaneta
 
 ent-WallRockAndesite = andesito
@@ -14543,7 +14734,7 @@ ent-BaseFenceWood = cerca de madeira
 # Abstract entity (referenceable by children)
 
 ent-BaseFenceWoodSmall = cerca de madeira pequena
-    .desc = Pedaco de cerca pequena de madeira. A melhor protecao para o cercamento de um território privado!
+    .desc = Pedaco de cerca pequena de madeira. A melhor protecao para o cercamento de um território particular!
 
 ent-FenceWoodHighCorner = {ent-BaseFenceWood}
     .desc = {ent-BaseFenceWood.desc}
@@ -14586,7 +14777,7 @@ ent-FenceWoodSmallTJunction = {ent-BaseFenceWoodSmall}
 # From: Entities/Structures/Walls/girders.yml
 
 ent-ClockworkGirder = engrenagem de parede
-    .desc = Uma engrenagem grande com suportes de montagem para chapeamento adicional; Isto poderia ser feito em uma parede com mais chapeamento de latão.
+    .desc = Uma engrenagem grande com suportes de montagem para chapeamento adicional; Isso poderia ser feito em uma parede com mais chapeamento de latão.
 
 ent-Girder = viga
     .desc = Uma grande montagem estrutural feita de metal; Requer uma camada de metal antes que possa ser considerada uma parede.
@@ -14760,6 +14951,7 @@ ent-WallReinforcedRust = {ent-WallReinforced}
     .suffix = enferrujada
 
 ent-WallRiveted = parede rebiteada
+    .desc = Uma parede rebitada.
     .suffix = APENAS POSTO
 
 ent-WallSandCobblebrick = parede de tijolos de arenito
@@ -15251,6 +15443,7 @@ ent-ActionChargeSpell = Carga
 # From: NPCs/test.yml
 
 ent-MobPathfindDummy = boneco de busca de caminho
+    .desc = Entidade dummy para testes de pathfinding.
     .suffix = NPC
 
 # From: Nyanotrasen/Actions/types.yml
@@ -15323,6 +15516,7 @@ ent-ClothingOuterHardsuitJuggernautReverseEngineered = traje rígido de assalto 
     .desc = Um traje rígido feito pelo departamento de aquisições especiais da Nanotrasen para ser hiper-resiliente.
 
 ent-ClothingOuterHardsuitSyndieReverseEngineered = traje rígido de combate SA-122
+    .desc = Uma roupa espacial.
     .suffix = engenharia-reversa
 
 # From: Nyanotrasen/Entities/Clothing/OuterClothing/suits.yml
@@ -15431,6 +15625,7 @@ ent-HideMothroach = couro de traça-barata
     .desc = Uma camada fina de couro de traça-barata.
 
 ent-MaterialBluespace = cristal de bluespace
+    .desc = Um material de bluespace.
     .suffix = Completo
 
 ent-MaterialBluespace1 = {ent-MaterialBluespace}
@@ -15442,31 +15637,33 @@ ent-MaterialBluespace1 = {ent-MaterialBluespace}
 ent-MobPibble = pitbull
     .desc = Cão de babá. Ou uma mistura de labrador dependendo de quem está perguntando.
 
-# From: Nyanotrasen/Entities/Mobs/Player/felinid.yml
-
-ent-MobFelinid = Enzo Gato da Silva
-
-# From: Nyanotrasen/Entities/Mobs/Player/oni.yml
-
-ent-MobOni = Enzo Diabão da Silva
-
 # From: Nyanotrasen/Entities/Mobs/Species/felinid.yml
 # Abstract entity (referenceable by children)
 
-ent-MobFelinidBase = {ent-MobFelinid}
-    .desc = {ent-MobFelinid.desc}
-
-ent-MobFelinidDummy = {ent-MobFelinid}
+ent-MobFelinidBase = Enzo Gato da Silva
     .desc = Um boneco de felinídeo destinado a ser usado na configuração de personagem.
+
+ent-MobFelinidDummy = {ent-MobFelinidBase}
+    .desc = {ent-MobFelinidBase.desc}
+
+# From: Nyanotrasen/Entities/Mobs/Player/felinid.yml
+
+ent-MobFelinid = {ent-MobFelinidBase}
+    .desc = {ent-MobFelinidBase.desc}
 
 # From: Nyanotrasen/Entities/Mobs/Species/oni.yml
 # Abstract entity (referenceable by children)
 
-ent-MobOniBase = {ent-MobOni}
-    .desc = {ent-MobOni.desc}
-
-ent-MobOniDummy = {ent-MobOni}
+ent-MobOniBase = Enzo Diabo da Silva
     .desc = Um boneco de oni destinado a ser usado na configuração de personagem.
+
+ent-MobOniDummy = {ent-MobOniBase}
+    .desc = {ent-MobOniBase.desc}
+
+# From: Nyanotrasen/Entities/Mobs/Player/oni.yml
+
+ent-MobOni = {ent-MobOniBase}
+    .desc = {ent-MobOniBase.desc}
 
 # From: Nyanotrasen/Entities/Objects/Books/hyperlinks.yml
 
@@ -16013,10 +16210,10 @@ ent-MassArrestObjective = Coloque todos como procurados
 ent-NinjaSurviveObjective = Sobreviva
     .desc = Você não seria um ninja muito bom se morresse, agora seria?
 
-ent-SpiderChargeObjective =
-    .desc = Esta bomba pode ser detonada em um local específico. Note que a bomba não funcionará em nenhum outro lugar!
+ent-SpiderChargeObjective = ""
+    .desc = Esta bomba só pode ser detonada em um local específico. Note que a bomba não funcionará em nenhum outro lugar!
 
-ent-StealResearchObjective =
+ent-StealResearchObjective = ""
     .desc = Suas luvas podem ser usadas para hackear um servidor de pesquisa e roubar seus preciosos dados. Se a ciência tem sido preguiçosa você terá que começar a trabalhar.
 
 ent-TerrorObjective = Chame uma ameaça
@@ -16035,16 +16232,16 @@ ent-DieObjective = Morra uma morte gloriosa
 ent-EscapeShuttleObjective = Fuja para a centcomm vivo e sem restrições.
     .desc = Um de nossos agentes secretos irá debrief você quando você chegar. Não apareça algemado.
 
-ent-KillRandomHeadObjective =
+ent-KillRandomHeadObjective = ""
     .desc = Precisamos que esta cabeça desapareça e você provavelmente sabe por quê. Boa sorte, agente.
 
-ent-KillRandomPersonObjective =
+ent-KillRandomPersonObjective = ""
     .desc = Faça de como você goste, apenas certifique-se de que eles não cheguem à centcomm.
 
-ent-RandomTraitorAliveObjective =
+ent-RandomTraitorAliveObjective = ""
     .desc = Identifique-se por seu próprio risco. Apenas precisamos que eles estejam vivos.
 
-ent-RandomTraitorProgressObjective =
+ent-RandomTraitorProgressObjective = ""
     .desc = Identifique-se por seu próprio risco. Apenas precisamos que eles tenham sucesso.
 
 # From: Objectives/wizard.yml
@@ -16172,9 +16369,11 @@ ent-BenchPewRight = {ent-BenchPewMiddle}
     .suffix = Direita
 
 ent-BenchSofaCorner = sofá
+    .desc = Um banco.
     .suffix = Canto
 
 ent-BenchSofaCorpCorner = sofá cinza
+    .desc = Um banco.
     .suffix = Canto
 
 ent-BenchSofaCorpLeft = {ent-BenchSofaCorpMiddle}
@@ -16519,6 +16718,7 @@ ent-ClothingBeltMedicalFilled = {ent-ClothingBeltMedical}
     .suffix = Preenchida
 
 ent-ClothingBeltMilitaryWebbingGrenadeFilled = colete de granadeiro
+    .desc = Um cinto.
     .suffix = Preenchida
 
 ent-ClothingBeltMilitaryWebbingMedFilled = {ent-ClothingBeltMilitaryWebbingMed}
@@ -16644,9 +16844,11 @@ ent-ExtendedEmergencyOxygenTankFilled = {ent-ExtendedEmergencyOxygenTank}
     .suffix = Preenchida
 
 ent-NitrogenTankFilled = tanque de nitrogênio
+    .desc = Uma pílula de nitrogen tank.
     .suffix = Preenchida
 
 ent-NitrousOxideTankFilled = tanque de óxido nitroso
+    .desc = Uma pílula de nitrousoxide tank.
     .suffix = Preenchida
 
 ent-OxygenTankFilled = {ent-OxygenTank}
@@ -16654,6 +16856,7 @@ ent-OxygenTankFilled = {ent-OxygenTank}
     .suffix = Preenchida
 
 ent-PlasmaTankFilled = tanque de plasma
+    .desc = Uma pílula de plasma tank.
     .suffix = Preenchida
 
 # From: Catalog/Fills/Items/misc.yml
@@ -16673,21 +16876,27 @@ ent-ClothingShoesBootsSyndieFilled = {ent-ClothingShoesBootsCombat}
 # From: Catalog/Fills/Items/toolboxes.yml
 
 ent-ToolboxArtisticFilled = caixa de ferramentas artística
+    .desc = Uma caixa de ferramentas cheia de ferramentas.
     .suffix = Preenchida
 
 ent-ToolboxElectricalFilled = caixa de ferramentas elétrica
+    .desc = Uma caixa de ferramentas cheia de ferramentas.
     .suffix = Preenchida
 
 ent-ToolboxElectricalTurretFilled = caixa de ferramentas elétrica
+    .desc = Uma caixa de ferramentas cheia de ferramentas.
     .suffix = Sindicato, Torreta, Preenchida
 
 ent-ToolboxEmergencyFilled = caixa de ferramentas de emergência
+    .desc = Uma caixa de ferramentas cheia de ferramentas.
     .suffix = Preenchida
 
 ent-ToolboxGoldFilled = caixa de ferramentas dourada
+    .desc = Uma caixa de ferramentas cheia de ferramentas.
     .suffix = Preenchida
 
 ent-ToolboxMechanicalFilled = caixa de ferramentas mecânica
+    .desc = Uma caixa de ferramentas cheia de ferramentas.
     .suffix = Preenchida
 
 ent-ToolboxSyndicateFilled = {ent-ToolboxSyndicate}
@@ -16871,9 +17080,11 @@ ent-LockerParamedicFilled = {ent-LockerParamedic}
     .suffix = Preenchida
 
 ent-LockerWallMedicalDoctorFilled = armário de médico de parede
+    .desc = Um armário de parede.
     .suffix = Preenchida
 
 ent-LockerWallMedicalFilled = armário de remédios de parede
+    .desc = Um armário de parede.
     .suffix = Preenchida
 
 # From: Catalog/Fills/Lockers/misc.yml
@@ -16937,6 +17148,7 @@ ent-GunSafeShotgunKammerer = cofre kammerer
 ent-GunSafeSubMachineGunDrozd = cofre drozd
 
 ent-GunSafeSubMachineGunWt550 = cofre wt550
+    .desc = Um cofre de armas.
     .suffix = Wt550
 
 ent-LockerBrigmedicFilled = {ent-LockerBrigmedic}
@@ -16992,6 +17204,7 @@ ent-LockerBotanistLoot = {ent-LockerBotanist}
 # From: Catalog/Fills/Lockers/space_ruin.yml
 
 ent-LockerOldAISat = armário
+    .desc = Um armário.
     .suffix = armário de traje de vazio NTSRA
 
 ent-LockerSyndicateShipGearBasic = {ent-LockerSyndicate}
@@ -17198,7 +17411,7 @@ ent-PaperWrittenCombatBakeryKit = instruções do kit de padaria de combate
 # From: Entities/Clothing/Back/backpacks.yml
 
 ent-ClothingBackpack = mochila
-    .desc = Você usa isto nas suas costas e coloca itens dentro.
+    .desc = Você usa isso nas suas costas e coloca itens dentro.
 
 ent-ClothingBackpackAtmospherics = mochila atmosférica
     .desc = É uma mochila feita de fibras resistentes ao fogo. Cheira a plasma.
@@ -17409,7 +17622,7 @@ ent-ClothingBackpackSatchelVirology = maleta de virologia
 
 ent-ClothingBackpackChameleon = mochila
     .suffix = Camaleão
-    .desc = Você usa isto nas suas costas e coloca itens dentro.
+    .desc = Você usa isso nas suas costas e coloca itens dentro.
 
 ent-ClothingBackpackWaterTank = tanque de água de mochila
     .desc = Contém uma grande quantidade de fluidos. Abastece bicos de spray em suas mãos e tem um slot no lado para os referidos bicos de spray.
@@ -19810,7 +20023,7 @@ ent-ClothingOuterWinterWeb = casaco de inverno de teia
 # From: Entities/Clothing/Shoes/base_clothingshoes.yml
 # Abstract entity (referenceable by children)
 
-ent-ClothingShoesBaseWinterBoots =
+ent-ClothingShoesBaseWinterBoots = ""
     .desc = Botas fofinhas para ajudar a sobreviver até mesmo aos invernos mais frios.
 
 # From: Entities/Clothing/Shoes/boots.yml
@@ -19897,21 +20110,24 @@ ent-ClothingShoesColorYellow = sapatos amarelos
 
 # From: Entities/Clothing/Shoes/magboots.yml
 
-ent-ActionToggleMagboots = Alternar Magbotas
-    .desc = Alterna as magbotas ligado e desligado.
+ent-ActionToggleMagboots = Alternar Botas Magnéticas
+    .desc = Alterna as botas magnéticas ligado e desligado.
 
-ent-ClothingShoesBootsMagAdv = magbotas avançadas
-    .desc = Magbotas de última geração que não desaceleram seu usuário.
+ent-ClothingShoesBootsMagAdv = botas magnéticas avançadas
+    .desc = Botas magnéticas de última geração que não desaceleram seu usuário.
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingShoesBootsMagBase = magbotas
+ent-ClothingShoesBootsMagBase = botas magnéticas
     .desc = Botas magnéticas, frequentemente usadas durante atividades extraveiculares para garantir que o usuário permaneça seguramente anexado ao veículo.
 
-ent-ClothingShoesBootsMagBlinding = magbotas de velocidade cegante
+ent-ClothingShoesBootsMag = {ent-ClothingShoesBootsMagBase}
+    .desc = {ent-ClothingShoesBootsMagBase.desc}
+
+ent-ClothingShoesBootsMagBlinding = botas magnéticas de velocidade cegante
     .desc = Estas ficariam lindas em um buscador como você.
 
-ent-ClothingShoesBootsMagSyndie = magbotas vermelho-sangue
+ent-ClothingShoesBootsMagSyndie = botas magnéticas vermelho-sangue
     .desc = Botas magnéticas projetadas reversamente que têm forte tração magnética e propulsores integrados. Pode conter 0,75 L de gás.
 
 # From: Entities/Clothing/Shoes/misc.yml
@@ -20706,7 +20922,7 @@ ent-ClothingRandomSpawner = roupa colorida aleatória
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingUniformRandom =
+ent-ClothingUniformRandom = ""
     .suffix = Visual aleatório
     .desc = Gerado por redes neurais baseado nas últimas tendências da moda.
 
@@ -20765,8 +20981,9 @@ ent-ClothingUniformJumpsuitChameleon = macacão preto
 
 # From: Entities/Debugging/clicktest.yml
 
-ent-ClickTestBase =
+ent-ClickTestBase = ""
     .suffix = DEBUG
+    .desc = ""
 
 ent-ClickTestFixedCornerInvisible = ClickTestFixedCornerInvisible
 
@@ -20783,12 +21000,15 @@ ent-ClickTestRotatingCornerVisibleNoRot = ClickTestRotatingCornerVisibleNoRot
 # From: Entities/Debugging/debug_sweps.yml
 
 ent-BulletDebug = bala, morto bala
+    .desc = Uma entidade.
     .suffix = DEBUG
 
 ent-CartridgeDebug = cartucho, morto cartucho
+    .desc = Munição.
     .suffix = DEBUG
 
 ent-MagazinePistolDebug = pente, morto pente
+    .desc = Munição.
     .suffix = DEBUG
 
 ent-MeleeDebug100 = porrete bang 100dmg
@@ -20817,8 +21037,9 @@ ent-DebugItemShapeWeird = item de forma estranha
 
 # From: Entities/Debugging/options_visualizer.yml
 
-ent-OptionsVisualizerTest =
+ent-OptionsVisualizerTest = ""
     .suffix = DEBUG
+    .desc = ""
 
 # From: Entities/Debugging/spanisharmyknife.yml
 
@@ -20829,6 +21050,7 @@ ent-ToolDebug = faca do exército espanhol
 # From: Entities/Debugging/stress_test.yml
 
 ent-StressTest = teste de estresse
+    .desc = Para testes de estresse.
     .suffix = DEBUG
 
 # From: Entities/Effects/acidifier.yml
@@ -20984,7 +21206,7 @@ ent-RadiationPulse = anomalia cintilante
 
 # From: Entities/Effects/shuttle.yml
 
-ent-FtlVisualizerEntity =
+ent-FtlVisualizerEntity = ""
     .desc = Visualizador para chegadas de nave. Você não deveria ver isso!
 
 # From: Entities/foldable.yml
@@ -21116,6 +21338,7 @@ ent-SalvageHumanCorpseSpawner = spawner de Cadáver Humano
 # From: Entities/Markers/Spawners/debug.yml
 
 ent-SpawnMobHuman = Spawner Enzo
+    .desc = Gera um mob.
     .suffix = DEBUG
 
 # From: Entities/Markers/Spawners/ghost_roles.yml
@@ -21124,18 +21347,23 @@ ent-SpawnMobHuman = Spawner Enzo
 ent-BaseAntagSpawner = ponto de spawn de papel de ghost
 
 ent-SpawnPointGhostCerberus = ponto de spawn de papel de ghost
+    .desc = Gera um papel de fantasma.
     .suffix = cerberus
 
 ent-SpawnPointGhostNukeOperative = ponto de spawn de papel de ghost
+    .desc = Gera um papel de fantasma.
     .suffix = nucleoperativos
 
 ent-SpawnPointGhostRatKing = ponto de spawn de papel de ghost
+    .desc = Gera um papel de fantasma.
     .suffix = rei dos ratos
 
 ent-SpawnPointGhostRemilia = ponto de spawn de papel de ghost
+    .desc = Gera um papel de fantasma.
     .suffix = Remilia
 
 ent-SpawnPointGhostWizard = ponto de spawn de papel de ghost
+    .desc = Gera um mago.
     .suffix = feiticeiro
 
 # From: Entities/Markers/Spawners/human.yml
@@ -21307,6 +21535,7 @@ ent-SpawnMobCockroach = Spawner de Barata
 ent-SpawnMobCorgi = Spawner de Corgi do Chefe de Pessoal
 
 ent-SpawnMobCorgiMouse = Spawner de Camundongo de Dev
+    .desc = Gera um corgi!
     .suffix = Admeme
 
 ent-SpawnMobCow = Spawner de Vaca
@@ -21320,6 +21549,7 @@ ent-SpawnMobFoxRenault = Spawner de Raposa Renault
 ent-SpawnMobFrog = Spawner de Sapo
 
 ent-SpawnMobGingerbreadAI = spawner de homem de gengibre
+    .desc = Gera um homem de gengibre.
     .suffix = Fantasminha
 
 ent-SpawnMobGoat = Spawner de Cabra
@@ -21417,6 +21647,7 @@ ent-BedsheetSpawner = spawner de Lençol Aleatório
 ent-CrateEmptySpawner = spawner de Caixote Vazio
 
 ent-CrateFilledSpawner = spawner de Caixote Cheio
+    .desc = Uma caixa cheia de suprimentos.
     .suffix = Baixo Valor
 
 ent-LootSpawnerRandomCrateEngineering = spawner de caixote de engenharia aleatório
@@ -21426,6 +21657,7 @@ ent-LootSpawnerRandomCrateSecurity = spawner de caixote de segurança aleatório
 # From: Entities/Markers/Spawners/Random/crystal.yml
 
 ent-CrystalSpawner = spawner de Cristal
+    .desc = Gera cristais.
     .suffix = 70%
 
 # From: Entities/Markers/Spawners/Random/curtains.yml
@@ -21510,26 +21742,33 @@ ent-LootSpawnerMedicalMinor = spawner de suprimentos de cura
 ent-LootSpawnerRoboticsBorgModule = spawner de placa de robótica
 
 ent-LootSpawnerScienceMajor = spawner de suprimentos de ciência
+    .desc = Gera loot.
     .suffix = Maior
 
 ent-LootSpawnerScienceMinor = spawner de suprimentos de ciência
+    .desc = Gera loot.
     .suffix = Menor, 80%
 
 # From: Entities/Markers/Spawners/Random/Department/security.yml
 
 ent-LootSpawnerArmory = spawner de saque de arsenal
+    .desc = Gera loot.
     .suffix = Armas, Armaduras
 
 ent-LootSpawnerArmoryArmorOnly = spawner de saque de arsenal
+    .desc = Gera loot.
     .suffix = Armaduras
 
 ent-LootSpawnerArmoryGunsOnly = spawner de saque de arsenal
+    .desc = Gera loot.
     .suffix = Armas
 
 ent-LootSpawnerSecurity = spawner de saque de segurança
+    .desc = Gera loot.
     .suffix = Equipamentos, Melhores
 
 ent-LootSpawnerSecurityBasic = spawner de saque de segurança
+    .desc = Gera loot.
     .suffix = Equipamentos, Simples
 
 # From: Entities/Markers/Spawners/Random/encryption_key.yml
@@ -21555,11 +21794,13 @@ ent-DonkpocketBoxSpawner = spawner de Caixa de Donkpocket
 # From: Entities/Markers/Spawners/Random/Food_Drinks/drinks_bottles.yml
 
 ent-RandomDrinkBottle = spawner de bebida aleatória
+    .desc = Um item de comida aleatório.
     .suffix = Garrafa
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/drinks_glass.yml
 
 ent-RandomDrinkGlass = spawner de bebida aleatória
+    .desc = Um item de comida aleatório.
     .suffix = Copo
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/drinks_soda.yml
@@ -21569,21 +21810,25 @@ ent-RandomDrinkSoda = spawner de refrigerante aleatório
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_baked_single.yml
 
 ent-RandomFoodBakedSingle = spawner de comida assada aleatória
+    .desc = Uma entidade.
     .suffix = Porção Individual
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_baked_whole.yml
 
 ent-RandomFoodBakedWhole = spawner de comida assada aleatória
+    .desc = Uma entidade.
     .suffix = Inteira
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_ingredients.yml
 
 ent-RandomIngredient = spawner de ingrediente aleatório
+    .desc = Uma entidade.
     .suffix = Não Vegetal
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_meal.yml
 
 ent-RandomFoodMeal = spawner de comida aleatória
+    .desc = Uma entidade.
     .suffix = Refeição
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_meat.yml
@@ -21597,6 +21842,7 @@ ent-RandomProduce = spawner de produtos aleatórios
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_single.yml
 
 ent-RandomFoodSingle = spawner de comida aleatória
+    .desc = Uma entidade.
     .suffix = Porção Individual
 
 # From: Entities/Markers/Spawners/Random/Food_Drinks/food_snacks.yml
@@ -21610,6 +21856,7 @@ ent-GrilleSpawner = spawner de Grade Aleatória
 # From: Entities/Markers/Spawners/Random/industrial.yml
 
 ent-LootSpawnerIndustrial = spawner de saque industrial
+    .desc = Gera loot.
     .suffix = Ferramentas + Materiais
 
 ent-LootSpawnerIndustrialFluff = spawner de decoração industrial
@@ -21627,18 +21874,23 @@ ent-RandomMagicBookSafe = spawner de livro mágico aleatório [seguro]
 # From: Entities/Markers/Spawners/Random/maintenance.yml
 
 ent-MaintenanceFluffSpawner = spawner de Saque de Manutenção
+    .desc = Uma entidade.
     .suffix = Decoração+Roupas
 
 ent-MaintenanceInsulsSpawner = spawner de Saque de Manutenção
+    .desc = Uma entidade.
     .suffix = Isolantes, seguro
 
 ent-MaintenancePlantSpawner = spawner de Saque de Manutenção
+    .desc = Uma entidade.
     .suffix = Plantas
 
 ent-MaintenanceToolSpawner = spawner de Saque de Manutenção
+    .desc = Uma entidade.
     .suffix = Ferramentas+Células+Mats
 
 ent-MaintenanceWeaponSpawner = spawner de Saque de Manutenção
+    .desc = Uma entidade.
     .suffix = Sucata+Armas
 
 # From: Entities/Markers/Spawners/Random/materials.yml
@@ -21646,14 +21898,17 @@ ent-MaintenanceWeaponSpawner = spawner de Saque de Manutenção
 ent-LootSpawnerCableCoil = spawner de bobina de cabo
 
 ent-LootSpawnerMaterials = spawner de materiais
+    .desc = Gera loot.
     .suffix = Materiais de Construção
 
 ent-LootSpawnerMaterialsHighValue = spawner de materiais de alto valor
 
 ent-LootSpawnerMaterialsHighValueConstruction = spawner de materiais de alto valor
+    .desc = Gera loot.
     .suffix = Materiais de Construção
 
 ent-LootSpawnerMaterialsSupplementary = spawner de materiais
+    .desc = Gera loot.
     .suffix = Materiais Suplementares
 
 ent-LootSpawnerMaterialsSurplus = spawner de materiais excedentes
@@ -21691,6 +21946,7 @@ ent-PottedPlantRandomPlastic = spawner de planta em vaso plástica aleatória
 # From: Entities/Markers/Spawners/Random/salvage.yml
 
 ent-SalvageFleshSpawner = spawner de Carne de Salvagem
+    .desc = Gera horrores de carne.
     .suffix = 100
 
 ent-SalvageLootSpawner = spawner de saque de salvagem
@@ -21698,6 +21954,7 @@ ent-SalvageLootSpawner = spawner de saque de salvagem
 ent-SalvageMaterialCrateSpawner = spawner de Caixote de Material de Salvagem
 
 ent-SalvageMobSpawner = spawner de Criatura de Salvagem
+    .desc = Gera mobs.
     .suffix = 25
 
 ent-SalvageMobSpawner75 = {ent-SalvageMobSpawner}
@@ -21705,6 +21962,7 @@ ent-SalvageMobSpawner75 = {ent-SalvageMobSpawner}
     .suffix = 75
 
 ent-SpaceTickSpawner = spawner de Carrapato Espacial de Salvagem
+    .desc = Uma entidade.
     .suffix = 100
 
 ent-SpawnMobBearSalvage = Spawner de Urso Espacial de Salvagem
@@ -21720,12 +21978,15 @@ ent-SpawnMobSpiderSalvage = Spawner de Aranha Espacial de Salvagem
 ent-SalvageCanisterSpawner = spawner de Cilindro de Salvagem
 
 ent-SalvageSpawnerEquipment = Spawner de Equipamento de Salvagem
+    .desc = Gera equipamentos.
     .suffix = Comum, 75%
 
 ent-SalvageSpawnerEquipmentValuable = Spawner de Equipamento de Salvagem
+    .desc = Gera equipamentos.
     .suffix = Valioso, 75%
 
 ent-SalvageSpawnerMobMagnet = Spawner de Criatura Magnética de Salvagem
+    .desc = Gera mobs.
     .suffix = 50%
 
 ent-SalvageSpawnerMobMagnet100 = {ent-SalvageSpawnerMobMagnet}
@@ -21741,6 +22002,7 @@ ent-SalvageSpawnerMobMiningAsteroid = Spawner de Criatura de Asteroide de Minera
 ent-SalvageSpawnerMobShark = Spawner de Tubarão de Salvagem
 
 ent-SalvageSpawnerScrapCommon = Spawner de Sucata de Salvagem
+    .desc = Gera sucata de salvagem.
     .suffix = Comum, 50%
 
 ent-SalvageSpawnerScrapCommon75 = {ent-SalvageSpawnerScrapCommon}
@@ -21748,6 +22010,7 @@ ent-SalvageSpawnerScrapCommon75 = {ent-SalvageSpawnerScrapCommon}
     .suffix = Comum, 75%
 
 ent-SalvageSpawnerScrapValuable = Spawner de Sucata de Salvagem
+    .desc = Gera sucata de salvagem.
     .suffix = Valioso, 50%
 
 ent-SalvageSpawnerScrapValuable75 = {ent-SalvageSpawnerScrapValuable}
@@ -21755,9 +22018,11 @@ ent-SalvageSpawnerScrapValuable75 = {ent-SalvageSpawnerScrapValuable}
     .suffix = Valioso, 75%
 
 ent-SalvageSpawnerTreasure = Spawner de Tesouro de Salvagem
+    .desc = Gera tesouro.
     .suffix = Comum, 75%
 
 ent-SalvageSpawnerTreasureValuable = Spawner de Tesouro de Salvagem
+    .desc = Gera tesouro.
     .suffix = Valioso, 75%
 
 # From: Entities/Markers/Spawners/Random/smokables.yml
@@ -21779,6 +22044,7 @@ ent-RandomBoard = spawner de placa aleatória
 ent-FigureSpawner = spawner de Figurina de Prêmio
 
 ent-SpacemenFigureSpawner = spawner de Minifigura de Espaciais
+    .desc = Uma figura colecionável.
     .suffix = Apenas bibliotecário, mapeie com cuidado!
 
 ent-ToySpawner = spawner de Brinquedo
@@ -21786,6 +22052,7 @@ ent-ToySpawner = spawner de Brinquedo
 # From: Entities/Markers/Spawners/Random/trash.yml
 
 ent-RandomSpawner = spawner de Lixo
+    .desc = Uma entidade.
     .suffix = 50
 
 ent-RandomSpawner100 = {ent-RandomSpawner}
@@ -21795,19 +22062,23 @@ ent-RandomSpawner100 = {ent-RandomSpawner}
 # From: Entities/Markers/Spawners/Random/vending.yml
 
 ent-RandomVending = spawner de máquina de venda aleatória
+    .desc = Um item de comida aleatório.
     .suffix = Qualquer
 
 ent-RandomVendingClothing = spawner de máquina de venda aleatória
+    .desc = Um item de comida aleatório.
     .suffix = Roupas
 
 # From: Entities/Markers/Spawners/Random/vendingdrinks.yml
 
 ent-RandomVendingDrinks = spawner de máquina de venda aleatória
+    .desc = Um item de comida aleatório.
     .suffix = Bebidas
 
 # From: Entities/Markers/Spawners/Random/vendingsnacks.yml
 
 ent-RandomVendingSnacks = spawner de máquina de venda aleatória
+    .desc = Um item de comida aleatório.
     .suffix = Lanches
 
 # From: Entities/Markers/Spawners/vehicles.yml
@@ -21827,29 +22098,35 @@ ent-SpawnVehicleWheelchairFolded = Spawner de Cadeira de Rodas [Dobrada]
 # From: Entities/Markers/Spawners/vending_machine_restock.yml
 
 ent-SpawnVendingMachineRestockDrink = Reposição de Máquina de Venda
+    .desc = Gera máquinas de venda.
     .suffix = bebida
 
 ent-SpawnVendingMachineRestockFood = Reposição de Máquina de Venda
+    .desc = Gera máquinas de venda.
     .suffix = comida
 
 ent-SpawnVendingMachineRestockFoodDrink = Reposição de Máquina de Venda
+    .desc = Gera máquinas de venda.
     .suffix = comida ou bebida
 
 # From: Entities/Markers/tile.yml
 
 ent-NoRoofMarker = Teto
+    .desc = Marca onde deve haver um telhado.
     .suffix = Desativado
 
 ent-RoofMarker = Teto
+    .desc = Marca onde deve haver um telhado.
     .suffix = Ativado
 
 # From: Entities/Markers/warp_point.yml
 
 ent-WarpPoint = ponto de teleporte
 
-ent-WarpPointBeacon = ponto de teleporte (baliza)
+ent-WarpPointBeacon = ponto de teleporte (sinalizador)
 
 ent-WarpPointBombing = ponto de teleporte
+    .desc = Um ponto de teletransporte.
     .suffix = alvo de bombardeio ninja
 
 # From: Entities/Mobs/Corpses/corpses.yml
@@ -21896,6 +22173,7 @@ ent-BorgChassisDerelict = ciborgue abandonado
 ent-BorgChassisEngineer = ciborgue engenheiro
 
 ent-BorgChassisGeneric = ciborgue genérico
+    .desc = Um chassi de cyborg.
     .suffix = tipo escolhido
 
 ent-BorgChassisJanitor = ciborgue zelador
@@ -22126,6 +22404,7 @@ ent-MobPossum = gambá
     .desc = "Oh Gambá! Meu Gambá!" -- Walt Whitman, 1865
 
 ent-MobPossumOld = gambá
+    .desc = Um gambá.
     .suffix = Sprite antigo
 
 ent-MobRaccoon = guaxinim
@@ -22148,7 +22427,7 @@ ent-MobSnake = cobra
 # From: Entities/Mobs/NPCs/argocyte.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMobArgocyte =
+ent-BaseMobArgocyte = ""
     .suffix = IA
     .desc = Um alienígena perigoso encontrado no lado errado dos planetas, conhecido por sua propensão a mastigar ruínas.
 
@@ -22215,15 +22494,19 @@ ent-BaseMobBehonker = behonker
     .desc = Um aspecto demônico flutuante da mãe dos palhaços.
 
 ent-MobBehonkerElectrical = behonker
+    .desc = Um mob.
     .suffix = Piro
 
 ent-MobBehonkerGrav = behonker
+    .desc = Um mob.
     .suffix = Grav
 
 ent-MobBehonkerIce = behonker
+    .desc = Um mob.
     .suffix = Gelo
 
 ent-MobBehonkerPyro = behonker
+    .desc = Um mob.
     .suffix = Elétrico
 
 # From: Entities/Mobs/NPCs/carp.yml
@@ -22233,6 +22516,7 @@ ent-BaseMobCarp = carpa espacial
     .desc = É uma carpa espacial.
 
 ent-MobCarpDragon = carpa espacial
+    .desc = Um dragão!
     .suffix = Dragão
 
 ent-MobCarpDungeon = {ent-BaseMobCarp}
@@ -22293,7 +22577,7 @@ ent-ReagentSlimeBeer = {ent-ReagentSlime}
 
 ent-ReagentSlimeBicaridine = {ent-ReagentSlime}
     .desc = {ent-ReagentSlime.desc}
-    .suffix = Bicaridina
+    .suffix = Bicardina
 
 ent-ReagentSlimeEphedrine = {ent-ReagentSlime}
     .desc = {ent-ReagentSlime.desc}
@@ -22477,6 +22761,7 @@ ent-MobPossumMorty = Morty
     .desc = O Didelphis virginiana residente da estação. Um cara sensível, mas resistente.
 
 ent-MobPossumMortyOld = Morty
+    .desc = Um gambá.
     .suffix = Sprite antigo
 
 ent-MobPossumPoppy = Poppy
@@ -22574,16 +22859,19 @@ ent-MobAdultSlimes = lodo básico
 ent-MobAdultSlimesBlue = slime azul
 
 ent-MobAdultSlimesBlueAngry = slime azul
+    .desc = Um slime.
     .suffix = Bravo
 
 ent-MobAdultSlimesGreen = slime verde
 
 ent-MobAdultSlimesGreenAngry = slime verde
+    .desc = Um slime.
     .suffix = Bravo
 
 ent-MobAdultSlimesYellow = slime amarelo
 
 ent-MobAdultSlimesYellowAngry = slime amarelo
+    .desc = Um slime.
     .suffix = Bravo
 
 # From: Entities/Mobs/NPCs/space.yml
@@ -22693,11 +22981,11 @@ ent-AdminObserver = observador administrativo
 
 # From: Entities/Mobs/Player/arachnid.yml
 
-ent-MobArachnid = Enzo Teia da Silva
+ent-MobArachnid = {ent-BaseMobArachnid}
 
 # From: Entities/Mobs/Player/diona.yml
 
-ent-MobDiona = Enzo Planta da Silva
+ent-MobDiona = {ent-BaseMobDiona}
 
 ent-MobDionaReformed = Diona Reformada
 
@@ -22730,7 +23018,7 @@ ent-MobDragonRiftless = {ent-BaseMobDragon}
 
 # From: Entities/Mobs/Player/dwarf.yml
 
-ent-MobDwarf = Enzo Mãos da Silva O Anão
+ent-MobDwarf = {ent-BaseMobDwarf}
 
 # From: Entities/Mobs/Player/familiars.yml
 
@@ -22738,18 +23026,20 @@ ent-MobBatRemilia = Remilia
     .desc = O familiar do capelão. Gosta de frutas.
 
 ent-MobCorgiCerberus = Cérbero
-    .desc = Este cachorro não é wholesome.
+    .desc = Este cachorro não é bem amigável.
 
 # From: Entities/Mobs/Player/gingerbread.yml
 
-ent-MobGingerbread = Enzo Biscoito da Silva
+ent-MobGingerbread = {ent-BaseMobGingerbread}
 
-ent-MobGingerbreadAI = homem de biscoito de gengibre
+ent-MobGingerbreadAI = {ent-MobGingerbread}
+    .suffix = IA
+    .desc = Boneco de biscoito com uma IA integrada.
 
 # From: Entities/Mobs/Player/guardian.yml
 
 ent-ActionToggleGuardian = Alternar Guardião
-    .desc = Manifesta o guardião ou o recolta de volta ao seu corpo
+    .desc = Manifesta o guardião ou o recolhe de volta ao seu corpo
 
 # Abstract entity (referenceable by children)
 
@@ -22777,9 +23067,11 @@ ent-MobHumanLoneNuclearOperative = Operativo Solitário
 ent-MobHumanNukeOp = Operativo Nuclear
 
 ent-MobHumanSyndicateAgent = agente do Sindicato
+    .desc = Um mob.
     .suffix = Humano, Traidor
 
 ent-MobHumanSyndicateAgentBase = agente do Sindicato
+    .desc = Um mob.
     .suffix = Humano, Base
 
 ent-MobHumanSyndicateAgentMedic = médico do Sindicato
@@ -22797,38 +23089,49 @@ ent-MobHumanWizard = Mago
 # From: Entities/Mobs/Player/humanoid.yml
 
 ent-RandomHumanoidSpawnerCBURNUnit = Agente CBURN
+    .desc = Uma entidade.
     .suffix = ERTFunção
 
 ent-RandomHumanoidSpawnerCentcomOfficial = oficial do CentComm
 
 ent-RandomHumanoidSpawnerCluwne = Cluwne
+    .desc = Uma entidade.
     .suffix = gera um cluwne
 
 ent-RandomHumanoidSpawnerDeathSquad = Agente do Esquadrão da Morte
+    .desc = Uma entidade.
     .suffix = ERTFunção, Esquadrão da Morte
 
 ent-RandomHumanoidSpawnerERTChaplain = capelão da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, Básico
 
 ent-RandomHumanoidSpawnerERTChaplainEVA = capelão da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, EVA Ambiental
 
 ent-RandomHumanoidSpawnerERTEngineer = engenheiro da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, Básico
 
 ent-RandomHumanoidSpawnerERTEngineerEVA = engenheiro da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, EVA Ambiental
 
 ent-RandomHumanoidSpawnerERTJanitor = zelador da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, Básico
 
 ent-RandomHumanoidSpawnerERTJanitorEVA = zelador da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, EVA Ambiental
 
 ent-RandomHumanoidSpawnerERTLeader = líder da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, Básico
 
 ent-RandomHumanoidSpawnerERTLeaderEVA = líder da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, EVA Blindada
 
 ent-RandomHumanoidSpawnerERTLeaderEVALecter = {ent-RandomHumanoidSpawnerERTLeaderEVA}
@@ -22836,15 +23139,19 @@ ent-RandomHumanoidSpawnerERTLeaderEVALecter = {ent-RandomHumanoidSpawnerERTLeade
     .suffix = ERTFunção, Lecter, EVA
 
 ent-RandomHumanoidSpawnerERTMedical = médico da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, Básico
 
 ent-RandomHumanoidSpawnerERTMedicalEVA = médico da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, EVA Blindada
 
 ent-RandomHumanoidSpawnerERTSecurity = segurança da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, Básico
 
 ent-RandomHumanoidSpawnerERTSecurityEVA = segurança da ERT
+    .desc = Um ponto de spawn da Equipe de Resposta de Emergência.
     .suffix = ERTFunção, EVA Blindada
 
 ent-RandomHumanoidSpawnerERTSecurityEVALecter = {ent-RandomHumanoidSpawnerERTSecurityEVA}
@@ -22862,6 +23169,7 @@ ent-BaseMobJaunt = jornada
     .desc = Vagos traços de uma figura humanóide permanecem aqui
 
 ent-EtherealJaunt = jornada
+    .desc = Para viagem etérea.
     .suffix = Mago
 
 # From: Entities/Mobs/Player/moth.yml
@@ -22897,7 +23205,7 @@ ent-ActionToggleLighting = Alternar Iluminação
 
 # Abstract entity (referenceable by children)
 
-ent-Incorporeal =
+ent-Incorporeal = ""
     .desc = Mobs sem corpos físicos
 
 # Abstract entity (referenceable by children)
@@ -22918,32 +23226,41 @@ ent-MobRatvarSpawn = {ent-MobRatvarBase}
 # From: Entities/Mobs/Player/reptilian.yml
 
 ent-MobReptilian = Enzo Escamas da Silva
+    .desc = Um réptil.
     .suffix = Urisst' Mzhand
 
 # From: Entities/Mobs/Player/ShuttleRoles/roles.yml
 
 ent-RandomHumanoidChallengeCargoTechnician = função de fantasia de técnico de carga de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimCaptain = função de fantasia de Capitão vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimCE = função de fantasia de CE vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimCMO = função de fantasia de CMO vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimHOP = função de fantasia de RH vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimHOS = função de fantasia de SC vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimQM = função de fantasia deQM vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidChallengeVictimRD = função de fantasia de DP vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-RandomHumanoidClownTroupeBanana = troça de palhaços banana
@@ -22951,9 +23268,11 @@ ent-RandomHumanoidClownTroupeBanana = troça de palhaços banana
 ent-RandomHumanoidCossack = função de fantasia cossaque
 
 ent-RandomHumanoidPirateCaptainScooner = função de fantasia de capitão pirata
+    .desc = Um ponto de spawn de capitão pirata.
     .suffix = escuna
 
 ent-RandomHumanoidPirateScooner = função de fantasia de tripulante pirata
+    .desc = Um ponto de spawn de escuna pirata.
     .suffix = escuna
 
 ent-RandomHumanoidSyndieSoldier = função de fantasia de soldado do Sindicato
@@ -23053,9 +23372,11 @@ ent-RandomHumanoidVisitorZookeeper = função de fantasia de zologista visitante
 # From: Entities/Mobs/Player/ShuttleRoles/spawners.yml
 
 ent-ChallengeCargoTechnicianSpawner = spawner de técnico de carga de desafio
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-ChallengeVictimSpawner = spawner de vítima de desastre
+    .desc = Um ponto de spawn de desafio.
     .suffix = DESAFIO
 
 ent-CommandVisitorSpawner = spawner de visitante de comando
@@ -23067,24 +23388,31 @@ ent-EngineeringVisitorSpawner = spawner de visitante de engenharia
 ent-NTVisitorSpawner = spawner de visitante NanoTrasen
 
 ent-NTVisitorSpawner10 = spawner de visitante NanoTrasen
+    .desc = Um ponto de spawn de visitante.
     .suffix = 10
 
 ent-NTVisitorSpawner20 = spawner de visitante NanoTrasen
+    .desc = Um ponto de spawn de visitante.
     .suffix = 20
 
 ent-NTVisitorSpawner25 = spawner de visitante NanoTrasen
+    .desc = Um ponto de spawn de visitante.
     .suffix = 25
 
 ent-NTVisitorSpawner33 = spawner de visitante NanoTrasen
+    .desc = Um ponto de spawn de visitante.
     .suffix = 33
 
 ent-NTVisitorSpawner50 = spawner de visitante NanoTrasen
+    .desc = Um ponto de spawn de visitante.
     .suffix = 50
 
 ent-PirateCaptainScoonerSpawner = spawner de capitão pirata
+    .desc = Um ponto de spawn de capitão pirata.
     .suffix = escuna
 
 ent-PirateScoonerSpawner = spawner de tripulante pirata
+    .desc = Um ponto de spawn de escuna pirata.
     .suffix = escuna
 
 ent-SecurityVisitorSpawner = spawner de visitante de segurança
@@ -23193,15 +23521,15 @@ ent-VisitorZookeeperSpawner = spawner de zoologista visitante
 
 # From: Entities/Mobs/Player/silicon.yml
 
-ent-AiHeld =
+ent-AiHeld = ""
     .desc = Componentes adicionados / removidos de uma entidade que é inserida em um núcleo de IA.
 
-ent-AiHeldIntellicard =
+ent-AiHeldIntellicard = ""
     .desc = Componentes adicionados / removidos de uma entidade que é inserida em um Intellicard.
 
 # Abstract entity (referenceable by children)
 
-ent-AiHolder =
+ent-AiHolder = ""
     .desc = Manipula interações de IA através de holocartas + núcleos de IA
 
 ent-AntimovCircuitBoard = placa de lei (Antimov)
@@ -23331,7 +23659,7 @@ ent-BaseMobDiona = Enzo Planta da Silva
 # From: Entities/Mobs/Species/dwarf.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMobDwarf = Enzo Mãos da Silva O Anão
+ent-BaseMobDwarf = Enzo Anão da Silva
 
 # From: Entities/Mobs/Species/gingerbread.yml
 # Abstract entity (referenceable by children)
@@ -23346,14 +23674,14 @@ ent-BaseMobHuman = Enzo Mãos da Silva
 # From: Entities/Mobs/Species/moth.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMobMoth = Enzo Fluff da Silva
+ent-BaseMobMoth = Enzo Felpudo da Silva
 
 # From: Entities/Mobs/Species/reptilian.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMobReptilian = Urisst' Mzhand
+ent-BaseMobReptilian = Enzo Lagarto da Sssilva
 
-ent-MobReptilianDummy =
+ent-MobReptilianDummy = ""
     .desc = Um réptil dummy destinado a ser usado na configuração de personagem.
 
 # From: Entities/Mobs/Species/skeleton.yml
@@ -24384,18 +24712,18 @@ ent-DrinkCartonTomato = caixa de suco de tomate
 
 # From: Entities/Objects/Consumable/Food/Baked/bagel.yml
 
-ent-FoodBagel = beigel
+ent-FoodBagel = bagel
 
 # Abstract entity (referenceable by children)
 
-ent-FoodBagelBase =
-    .desc = Um beigel delicioso.
+ent-FoodBagelBase = bagel
+    .desc = Um bagel delicioso.
 
-ent-FoodBagelCotton = beigel de algodão
-    .desc = Um beigel delicioso feito com massa de algodão.
+ent-FoodBagelCotton = bagel de algodão
+    .desc = Um bagel delicioso feito com massa de algodão.
 
-ent-FoodBagelPoppy = beigel de semente de papoula
-    .desc = Um beigel delicioso coberto com sementes de papoula infundidas com bicaridina.
+ent-FoodBagelPoppy = bagel de semente de papoula
+    .desc = Um bagel delicioso coberto com sementes de papoula infundidas com bicardina.
 
 # From: Entities/Objects/Consumable/Food/Baked/bread.yml
 
@@ -24592,7 +24920,7 @@ ent-FoodCakePumpkinSlice = fatia de bolo de abóbora
 
 # Abstract entity (referenceable by children)
 
-ent-FoodCakeSliceBase =
+ent-FoodCakeSliceBase = ""
     .desc = Apenas uma fatia de bolo, é suficiente para todos.
 
 ent-FoodCakeSlime = bolo de slime
@@ -24682,85 +25010,88 @@ ent-FoodDonkpocketWarm = donk-pocket quente
 # From: Entities/Objects/Consumable/Food/Baked/donut.yml
 
 ent-FoodDonut = donut de matcha
-    .desc = A L-teanine neste donut é relaxante, mas não eufórica. Combina great com uma xícara de chá.
+    .desc = A L-teanine neste donut é relaxante, mas não eufórica. Vai bem com uma xícara de chá.
 
 ent-FoodDonutApple = donut de maçã
-    .desc = Combina great com um shot de schnapps de canela.
+    .desc = Vai bem com um shot de schnapps de canela.
 
 # Abstract entity (referenceable by children)
 
-ent-FoodDonutBase =
-    .desc = Combina great com café robusto.
+ent-FoodDonutBase = donut
+    .desc = Vai bem com um café robusto.
 
 ent-FoodDonutBluePumpkin = donut de abóbora azul
-    .desc = Combina great com uma caneca de abóbora azul embriagante soothing.
+    .desc = Vai bem com uma caneca de abóbora azul embriagante soothing.
 
 ent-FoodDonutBungo = donut de bungo
-    .desc = Combina great com um jarro de mação de hippie.
+    .desc = Vai bem com um jarro de mação de hippie.
 
 ent-FoodDonutCaramel = donut de caramelo
-    .desc = Combina great com uma caneca de coco quente.
+    .desc = Vai bem com uma caneca de coco quente.
 
 ent-FoodDonutChaos = donut caos
-    .desc = Como a vida, nunca tem exatamente o mesmo gosto.
+    .desc = Igual a vida, nunca tem exatamente o mesmo gosto.
 
 ent-FoodDonutChocolate = donut de chocolate
-    .desc = Combina great com um copo de leite quente.
+    .desc = Vai bem com um copo de leite quente.
 
 ent-FoodDonutHomer = donut
+    .desc = { ent-FoodDonutBase.desc }
 
 ent-FoodDonutJelly = donut de geleia de matcha
-    .desc = A L-teanine neste donut de geleia é relaxante, mas não eufórica. Combina great com uma xícara de chá.
+    .desc = A L-teanine neste donut de geleia é relaxante, mas não eufórica. Vai bem com uma xícara de chá.
 
 ent-FoodDonutJellyApple = donut de geleia de maçã
-    .desc = Combina great com um shot de schnapps de canela.
+    .desc = Vai bem com um shot de schnapps de canela.
 
 ent-FoodDonutJellyBluePumpkin = donut de geleia de abóbora azul
-    .desc = Combina great com uma caneca de abóbora azul embriagante soothing.
+    .desc = Vai bem com uma caneca de abóbora azul embriagante soothing.
 
 ent-FoodDonutJellyBungo = donut de geleia de bungo
-    .desc = Combina great com um jarro de mação de hippie.
+    .desc = Vai bem com um jarro de mação de hippie.
 
 ent-FoodDonutJellyCaramel = donut de geleia de caramelo
-    .desc = Combina great com uma caneca de coco quente.
+    .desc = Vai bem com uma caneca de coco quente.
 
 ent-FoodDonutJellyChocolate = donut de geleia de chocolate
-    .desc = Combina great com um copo de leite quente.
+    .desc = Vai bem com um copo de leite quente.
 
 ent-FoodDonutJellyHomer = donut de geleia
     .desc = Tem geléia?
 
 ent-FoodDonutJellyPink = donut de geleia rosa
-    .desc = Combina great com um latte de soja.
+    .desc = Vai bem com um latte de soja.
 
 ent-FoodDonutJellyPlain = donut de geleia simples
+    .desc = { ent-FoodDonutBase.desc }
 
 ent-FoodDonutJellySlugcat = donut de geleia slugcat
     .desc = Sem buracos neste donut caso um poste suspeito apareça.
 
 ent-FoodDonutJellySpaceman = donut de geleia de astronauta
-    .desc = Combina great com um beaker frio de leite artificial.
+    .desc = Vai bem com um beaker frio de leite artificial.
 
 ent-FoodDonutJellySweetpea = donut de geleia sweet pea
-    .desc = Combina great com uma garrafa de Bastion Burbon!
+    .desc = Vai bem com uma garrafa de Bastion Burbon!
 
 ent-FoodDonutMeat = donut de carne
     .desc = Tem um gosto tão nojento quanto parece.
 
 ent-FoodDonutPink = donut rosa
-    .desc = Combina great com um latte de soja.
+    .desc = Vai bem com um latte de soja.
 
 ent-FoodDonutPlain = donut simples
+    .desc = { ent-FoodDonutBase.desc }
 
 ent-FoodDonutPoison = {ent-FoodDonutPink}
     .desc = {ent-FoodDonutPink.desc}
     .suffix = Veneno
 
 ent-FoodDonutSpaceman = donut de astronauta
-    .desc = Combina great com um beaker frio de leite artificial.
+    .desc = Vai bem com um beaker frio de leite artificial.
 
 ent-FoodDonutSweetpea = donut sweet pea
-    .desc = Combina great com uma garrafa de Bastion Burbon!
+    .desc = Vai bem com uma garrafa de Bastion Burbon!
 
 # From: Entities/Objects/Consumable/Food/Baked/misc.yml
 
@@ -24919,7 +25250,7 @@ ent-FoodPiePumpkinSlice = fatia de torta de abóbora
 
 # Abstract entity (referenceable by children)
 
-ent-FoodPieSliceBase =
+ent-FoodPieSliceBase = ""
     .desc = Uma fatia de torta. Tasty!
 
 ent-FoodPieXeno = torta de xeno
@@ -24935,10 +25266,10 @@ ent-FoodTartGapple = tart de streusel de maçã dourada
 ent-FoodTartGrape = tart de uva
     .desc = Uma sobremesa tasty que lembra você do vinho que você não fez.
 
-ent-FoodTartMime = tart de mimo
+ent-FoodTartMime = tart de mímico
     .desc = "      "
 
-ent-FoodTartMimeSlice = fatia de tart de mimo
+ent-FoodTartMimeSlice = fatia de tart de mímico
 
 # From: Entities/Objects/Consumable/Food/Baked/pizza.yml
 
@@ -25035,7 +25366,7 @@ ent-FoodBurgerBear = bearger
     .desc = Melhor servido rawr.
 
 ent-FoodBurgerBig = big bite burger
-    .desc = Esqueça o Big Mac. ISTO é o futuro!
+    .desc = Esqueça o Big Mac. ISSO é o futuro!
 
 ent-FoodBurgerBrain = hambúrguer de cérebro
     .desc = Um hambúrguer estranho. Parece quase senciente.
@@ -25088,7 +25419,7 @@ ent-FoodBurgerMcguffin = McGuffin
 ent-FoodBurgerMcrib = Sanduíche de BBQ Rib
     .desc = Um hambúrguer elusivo em formato de costela com disponibilidade limitada através da galáxia. Não tão bom quanto você se lembra.
 
-ent-FoodBurgerMime = hambúrguer mimo
+ent-FoodBurgerMime = hambúrguer mímico
     .desc = Seu gosto desafia a língua.
 
 ent-FoodBurgerMothRoach = hambúrguer mothroach
@@ -25167,9 +25498,11 @@ ent-FoodBoxNugget = nuggets de frango
 ent-FoodBoxPizza = caixa de pizza
 
 ent-FoodBoxPizzaCotton = caixa de pizza
+    .desc = Uma caixa de pizza.
     .suffix = Pizza de Algodão
 
 ent-FoodBoxPizzaFilled = caixa de pizza
+    .desc = Uma caixa de pizza.
     .suffix = Preenchido
 
 ent-FoodContainerEgg = caixa de ovos
@@ -25195,6 +25528,7 @@ ent-HappyHonkNukie = refeição nukie robusta
     .desc = Uma refeição sus com uma surpresa potencialmente explosiva.
 
 ent-HappyHonkNukieSnacks = caixa de lanches do Sindicato
+    .desc = Uma caixa de lanches.
     .suffix = Brinquedo Inseguro, Lanches
 
 # From: Entities/Objects/Consumable/Food/Containers/condiments.yml
@@ -25339,7 +25673,7 @@ ent-FoodEgg = ovo
 
 # Abstract entity (referenceable by children)
 
-ent-FoodEggBase =
+ent-FoodEggBase = ""
     .desc = Um ovo!
 
 ent-FoodEggBoiled = ovo cozido
@@ -25386,7 +25720,7 @@ ent-FoodFrozenSnowconeClown = clowncone
 ent-FoodFrozenSnowconeFruit = raspapé de salada de frutas
     .desc = Uma mix delighful de caldas de cítricos regadas sobre uma bola de neve em um copo de papel.
 
-ent-FoodFrozenSnowconeMime = raspapé de mimo
+ent-FoodFrozenSnowconeMime = raspapé de mímico
     .desc = ...
 
 ent-FoodFrozenSnowconeRainbow = raspapé arco-íris
@@ -25405,7 +25739,7 @@ ent-FoodBadRecipe = bagunça queimada
 
 # Abstract entity (referenceable by children)
 
-ent-FoodBakingBase =
+ent-FoodBakingBase = ""
     .desc = Usado em várias receitas.
 
 ent-FoodButter = tablete de manteiga
@@ -25457,7 +25791,7 @@ ent-FoodDoughCottonFlat = massa de algodão achatada
     .desc = Uma massa de algodão achatada.
 
 ent-FoodDoughCottonRope = corda de massa
-    .desc = Um macarrão fino de massa de algodão. Pode ser cozido em um beigel de algodão.
+    .desc = Um macarrão fino de massa de algodão. Pode ser cozido em um bagel de algodão.
 
 ent-FoodDoughCottonSlice = fatia de massa de algodão
     .desc = Uma fatia de massa de algodão.
@@ -25478,7 +25812,7 @@ ent-FoodDoughPizzaBaked = pão de pizza
     .desc = Adicione ingredientes para fazer uma pizza.
 
 ent-FoodDoughRope = corda de massa
-    .desc = Um macarrão fino de massa. Pode ser cozido em um beigel.
+    .desc = Um macarrão fino de massa. Pode ser cozido em um bagel.
 
 ent-FoodDoughSlice = fatia de massa
     .desc = Uma fatia de massa. Pode ser cozida em um pão.
@@ -25535,7 +25869,7 @@ ent-DisgustingSweptSoup = miso cola salgado doce
 
 # Abstract entity (referenceable by children)
 
-ent-FoodMealBase =
+ent-FoodMealBase = ""
     .desc = Uma refeição deliciosa, cozida com amor.
 
 ent-FoodMealBearsteak = filet migrawr
@@ -25817,7 +26151,7 @@ ent-FoodNoodles = espaguete
 
 # Abstract entity (referenceable by children)
 
-ent-FoodNoodlesBase =
+ent-FoodNoodlesBase = ""
     .desc = Agora isso é uma massa boa!
 
 ent-FoodNoodlesBoiled = macarrão cozido
@@ -25912,6 +26246,7 @@ ent-FoodExtradimensionalOrange = laranja extradimensional
     .desc = Você mal pode entender essa coisa.
 
 ent-FoodFakeCapfruit = capfruit
+    .desc = Uma fruta falsa.
     .suffix = Falso
 
 ent-FoodFlyAmanita = amanita mosca
@@ -26113,8 +26448,8 @@ ent-FoodPacketSyndiTrash = caixa de syndi-cakes
 
 # Abstract entity (referenceable by children)
 
-ent-FoodPacketTrash =
-    .desc = Isto é lixo.
+ent-FoodPacketTrash = ""
+    .desc = Isso é lixo.
 
 ent-FoodSnackBoritos = boritos
     .desc = Chips de tortilla crocantes e salgados. Você provavelmente pode fazer nachos com estes.
@@ -26349,7 +26684,7 @@ ent-FoodTacoShell = casco de taco
 # From: Entities/Objects/Consumable/Smokeables/base_smokeables.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseSmokable =
+ent-BaseSmokable = ""
     .desc = Se você quer ter câncer, pode também fazê-lo com estilo.
 
 # From: Entities/Objects/Consumable/Smokeables/Cigarettes/cartons.yml
@@ -26421,6 +26756,7 @@ ent-CigaretteSpent = {ent-Cigarette}
     .suffix = usado
 
 ent-CigaretteSyndicate = cigarro
+    .desc = Um maço de cigarros.
     .suffix = sindicato
 
 ent-CigaretteTHC = Romance Hippie
@@ -26568,7 +26904,7 @@ ent-BaseRock = rocha
 
 # Abstract entity (referenceable by children)
 
-ent-BaseTree =
+ent-BaseTree = ""
     .desc = Sim, é uma árvore.
 
 ent-FloraStalagmite = estalagmite
@@ -26579,9 +26915,11 @@ ent-FloraTree = árvore
 ent-FloraTreeChristmas01 = árvore de natal
 
 ent-FloraTreeChristmas02 = árvore de natal
+    .desc = Uma planta festiva.
     .suffix = Presentes Seguros
 
 ent-FloraTreeChristmas03 = árvore de natal
+    .desc = Uma planta festiva.
     .suffix = Presentes Insanos
 
 ent-FloraTreeConifer = conífera nevada
@@ -27139,6 +27477,7 @@ ent-StationMapCircuitboard = eletrônicos de mapa da estação
 # From: Entities/Objects/Devices/door_remote.yml
 
 ent-DoorRemoteAll = super controle remoto de portas
+    .desc = Um controle remoto de porta.
     .suffix = AdminMeme
 
 ent-DoorRemoteArmory = controle remoto de portas do arsenal
@@ -27558,7 +27897,7 @@ ent-HandTeleporterAdmeme = teleporte interdimensional
 
 # From: Entities/Objects/Devices/holoprojectors.yml
 
-ent-HolofanProjector = projetor de holofã
+ent-HolofanProjector = projetor de holofan
     .desc = Impede que passageiros suicidas matem todos durante emergências atmosféricas.
 
 ent-HolofanProjectorEmpty = {ent-HolofanProjector}
@@ -28249,7 +28588,7 @@ ent-ReinforcementRadioSyndicateSyndiCat = rádio de reforço sindigato
 
 # From: Entities/Objects/Devices/Syndicate_Gadgets/singularity_beacon.yml
 
-ent-SingularityBeacon = baliza de singularidade
+ent-SingularityBeacon = ímã de singularidade
     .desc = Um dispositivo do Sindicato que atrai a singularidade. Se ela estiver solta e você está vendo isso, corra.
 
 # From: Entities/Objects/Devices/Syndicate_Gadgets/war_declarator.yml
@@ -28286,6 +28625,7 @@ ent-FrontierBirthdayGift = presente de aniversário
     .desc = Um presente de aniversário para Frontier Station. Que doce!
 
 ent-PaperFrontierBirthday = Aviso de Aniversário
+    .desc = Uma entidade.
     .suffix = aniversário
 
 # From: Entities/Objects/Fun/candy_bucket.yml
@@ -28586,7 +28926,7 @@ ent-ImmovableRodWizard = {ent-ImmovableRod}
 # From: Entities/Objects/Fun/Instruments/base_instruments.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseHandheldInstrument =
+ent-BaseHandheldInstrument = ""
     .desc = Isso é um instrumento.
 
 # Abstract entity (referenceable by children)

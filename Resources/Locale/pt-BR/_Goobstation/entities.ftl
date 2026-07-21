@@ -109,7 +109,7 @@ ent-ChronoPortal = Portal Táquion
 
 # From: _Goobstation/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitAtmostech = Unidade de Controle de Traje rígido Aeolus de Técnico Atmosférico
+ent-ClothingModsuitAtmostech = Unidade de Controle de Traje MOD Aeolus de Técnico Atmosférico
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
@@ -118,52 +118,52 @@ ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingModsuitBase = Unidade de Traje rígido Modular
+ent-ClothingModsuitBase = Unidade de Controle de Traje MOD
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
-ent-ClothingModsuitCaptain = Unidade de Controle de Traje rígido Magnata do Capitão
+ent-ClothingModsuitCaptain = Unidade de Controle de Traje MOD Magnata
     .desc = Uma traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
 
 ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
     .desc = {ent-ClothingModsuitCaptain.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitEngineer = Unidade de Controle de Traje rígido Sapador do Engenheiro
+ent-ClothingModsuitEngineer = Unidade de Controle de Traje MOD Sapper
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitEngineer}
     .desc = {ent-ClothingModsuitEngineer.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje rígido Baluarte do Chefe de Segurança
+ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje MOD Baluarte
     .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o chefe de segurança.
 
 ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitHeadOfSecurity}
     .desc = {ent-ClothingModsuitHeadOfSecurity.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitParamedic = Unidade de Controle de Traje rígido Sanitária
+ent-ClothingModsuitParamedic = Unidade de Controle de Traje MOD Sanitária
     .desc = Uma unidade modular de controle de traje rígido para paramédicos.
 
 ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitParamedic}
     .desc = {ent-ClothingModsuitParamedic.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje rígido Minerva do DR
-    .desc = Uma unidade modular de controle de traje rígido para suportar outro ônibus-bomba.
+ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje MOD Minerva
+    .desc = Uma unidade modular de controle de traje rígido para suportar mais uma explosão.
 
 ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitResearchDirector}
     .desc = {ent-ClothingModsuitResearchDirector.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitSecurity = Unidade de Controle de Traje rígido Soldado da Segurança
+ent-ClothingModsuitSecurity = Unidade de Controle de Traje MOD Soldado
     .desc = Uma unidade robusta modular de controle de traje rígido para bater em comunistas no espaço.
 
 ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitSecurity}
     .desc = {ent-ClothingModsuitSecurity.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitStandard = Unidade de Traje rígido Modular Padrão
+ent-ClothingModsuitStandard = Unidade de Controle de Traje MOD Padrão
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
 ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitStandard}
@@ -414,35 +414,40 @@ ent-BluespaceLifeline = Linha de Vida Bluespace
 
 # From: _Goobstation/Entities/Markers/Spawners/mechs.yml
 
-ent-SpawnMechClarke = Gerador Clarke
+ent-SpawnMechClarke = Spawner Clarke
 
-ent-SpawnMechDurand = Gerador Durand
+ent-SpawnMechDurand = Spawner Durand
 
-ent-SpawnMechGygax = Gerador Gygax
+ent-SpawnMechGygax = Spawner Gygax
 
-ent-SpawnMechGygaxSyndie = Gerador Gygax Sombrio
+ent-SpawnMechGygaxSyndie = Spawner Gygax Sombrio
 
-ent-SpawnMechGygaxSyndieFilled = Gerador Gygax Sombrio
+ent-SpawnMechGygaxSyndieFilled = Spawner Gygax Sombrio
+    .desc = Um spawner.
     .suffix = Preenchido
 
-ent-SpawnMechHonkerFilled = Gerador H.O.N.K.
+ent-SpawnMechHonkerFilled = Spawner H.O.N.K.
+    .desc = Um spawner.
     .suffix = Preenchido
 
-ent-SpawnMechMarauder = Gerador Marauder
+ent-SpawnMechMarauder = Spawner Marauder
 
-ent-SpawnMechMarauderFilled = Gerador Marauder
+ent-SpawnMechMarauderFilled = Spawner Marauder
+    .desc = Um spawner.
     .suffix = Preenchido
 
-ent-SpawnMechMaulerSyndie = Gerador Mauler
+ent-SpawnMechMaulerSyndie = Spawner Mauler
 
-ent-SpawnMechMaulerSyndieFilled = Gerador Mauler
+ent-SpawnMechMaulerSyndieFilled = Spawner Mauler
+    .desc = Um spawner.
     .suffix = Preenchido
 
-ent-SpawnMechRipley2 = Gerador Ripley APLU MK-II
+ent-SpawnMechRipley2 = Spawner Ripley APLU MK-II
 
-ent-SpawnMechSeraph = Gerador Seraph
+ent-SpawnMechSeraph = Spawner Seraph
 
-ent-SpawnMechSeraphFilled = Gerador Seraph
+ent-SpawnMechSeraphFilled = Spawner Seraph
+    .desc = Um spawner.
     .suffix = Preenchido
 
 # From: _Goobstation/Entities/Mobs/Cyborgs/borg_chassis.yml
@@ -526,75 +531,99 @@ ent-RandomHumanoidSpawnerChronolegioneer = Legionário Cronológico
 # From: _Goobstation/Entities/Mobs/Player/humanoid.yml
 
 ent-MobChitinidRandom = Enzo Formiga da Silva
+    .desc = Gera um chitinid aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobDionaRandom = Enzo Plantas da Silva
+    .desc = Gera um diona aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobDwarfRandom = Enzo Anão da Silva
+    .desc = Gera um dwarf aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobFelinidRandom = Enzo Felinídeo da Silva
+    .desc = Gera um felinid aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobGingerbreadRandom = Enzo Biscoito da Silva
+    .desc = Gera um gingerbread aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobGoblinRandom = Enzo Goblin da Silva
+    .desc = Gera um goblin aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobHarpyRandom = Enzo Harpia da Silva
+    .desc = Gera um harpy aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobHumanRandom = Enzo Humano da Silva
+    .desc = Gera um human aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobHydrakinRandom = Enzo Hidra da Silva
+    .desc = Gera um hydrakin aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobMothRandom = Enzo Fofinho da Silva
+    .desc = Gera um moth aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobProtogenRandom = Enzo Disco Rígido da Silva
+    .desc = Gera um protogen aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobReptilianRandom = Enzo Escamas da Silva
+    .desc = Gera um reptilian aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobResomiRandom = Enzo Raptor da Silva
+    .desc = Gera um resomi aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobRodentiaRandom = Enzo Rato da Silva
+    .desc = Gera um rodentia aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobSlimePersonRandom = Enzo Gosma da Silva
+    .desc = Gera um slimeperson aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobTajaranRandom = Enzo Tajaran da Silva
+    .desc = Gera um tajaran aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobVoxRandom = Urititi mcVox
+    .desc = Gera um vox aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobVulpkaninRandom = Enzo Vulpkanin da Silva
+    .desc = Gera um vulpkanin aleatório.
     .suffix = Aparência Aleatória
 
 ent-MobYowieRandom = Enzo Au da Silva
+    .desc = Gera um yowie aleatório.
     .suffix = Aparência Aleatória
 
 ent-RandomHumanoidSpawnerDiplomat = Diplomata
+    .desc = Gera um diplomata.
     .suffix = Solstício de Inverno
 
 ent-RandomHumanoidSpawnerNavyCaptain = Capitão da Marinha
+    .desc = Uma entidade.
     .suffix = APENAS ADMIN, NÃO FODE PARA NADA, Solstício de Inverno
 
 ent-RandomHumanoidSpawnerNavyOfficer = Oficial da Marinha
+    .desc = Gera um oficial da marinha.
     .suffix = Solstício de Inverno
 
 ent-RandomHumanoidSpawnerNavyOfficerUndercover = Oficial da Marinha Encoberto
+    .desc = Gera um oficial da marinha.
     .suffix = Solstício de Inverno
 
 ent-RandomHumanoidSpawnerSpecialOperationsOfficers = Oficial de Operações Especiais
+    .desc = Gera oficiais de operações especiais.
     .suffix = Solstício de Inverno
 
 # From: _Goobstation/Entities/Mobs/Player/tajaran.yml
@@ -603,7 +632,7 @@ ent-MobTajaran = Enzo Tajaran da Silva
 
 # From: _Goobstation/Entities/Mobs/Player/yowie.yml
 
-ent-MobYowie = Enzo Au da Silva
+ent-MobYowie = Enzo Yowie da Silva
 
 # From: _Goobstation/Entities/Mobs/Species/tajaran.yml
 # Abstract entity (referenceable by children)
@@ -713,9 +742,11 @@ ent-SpecialOperationsOfficerPDA = PDA de Oficial de Operações Especiais
 # From: _Goobstation/Entities/Objects/Materials/materials.yml
 
 ent-MaterialHexNut = Porca Hexagonal de Aço
+    .desc = Um material de hexnut.
     .suffix = Cheio
 
 ent-MaterialScrew = Parafuso de Aço
+    .desc = Um parafuso.
     .suffix = Cheio
 
 # From: _Goobstation/Entities/Objects/Misc/Crafting/ghetto_stuff.yml
@@ -1012,6 +1043,7 @@ ent-WeaponMechCombatUltraRifle = Ultra AC-2
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/debug.yml
 
 ent-WeaponMechDebugBallistic = Debug Bum
+    .desc = Apenas para testes.
     .suffix = Arma de Mech, DEBUG, Balística
 
 ent-WeaponMechDebugDisabler = Debug Tew
@@ -1107,6 +1139,7 @@ ent-HumanCube = Cubo Humano
 ent-MothCube = Cubo Pessoa Traça
 
 ent-ProtogenCube = Cubo Protogen
+    .desc = Um cubo de invocação de protogen.
     .suffix = NÃO MAPEAR
 
 ent-ReptilianCube = Cubo Pessoa Reptiliana
