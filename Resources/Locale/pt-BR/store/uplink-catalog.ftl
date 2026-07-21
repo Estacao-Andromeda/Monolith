@@ -388,7 +388,7 @@ uplink-syndicate-segway-crate-desc = Seja um inimigo da corporação, com estilo
 uplink-syndicate-sponge-box-name = Caixa de Esponjas do Sindicato
 uplink-syndicate-sponge-box-desc = Uma caixa contendo 6 esponjas do sindicato disfarçadas como cubos de macaco, estes cubos se transformam em uma variedade de vida selvagem raivosa após entrar em contato com água.
 
-uplink-slipocalypse-clustersoap-name = Sabão Cluster de Escocalipse
+uplink-slipocalypse-clustersoap-name = Sabão Cluster de Escorregalipse
 uplink-slipocalypse-clustersoap-desc = Espalha pequenos pedaços de sabão da marca do sindicato após ser lançado, estes pedaços de sabão evaporam após 60 segundos.
 
 uplink-mobcat-microbomb-name = Teleportador de Sindicato
