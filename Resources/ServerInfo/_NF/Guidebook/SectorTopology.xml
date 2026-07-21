@@ -3,18 +3,13 @@
 
 <!-- Note: range values will not scale with the world size cvar! -->
 
-O Setor Colossus consiste em um grande cinturão de asteroides em formato de disco. No centro do cinturão, Colossus Central serve como o ponto de chegada tanto para novatos quanto para peregrinos experientes.
+A topologia do Setor Colossus consiste de múltiplos anéis e aglomerados para recursos.
 
-A área imediatamente ao redor de Colossus Central é principalmente espaço vazio. Além disso, existem [bold]quatro zonas distintas[/bold]:
+A área imediatamente ao redor de Colossus Central é principalmente espaço vazio. Além disso, existem [bold]cinco zonas distintas[/bold]:
 
-<Box Margin="0">
-  <GuideEntityEmbed Entity="MonoSectorMap" Caption="" Margin="-20"/>
-</Box>
-
-- O [color=#c73232]anel interno[/color] ([color=gold]≤5 km[/color]) foi desenvolvido como uma base para estações de serviço como [color=forestgreen]Posto de Comércio[/color] e [color=mediumturquoise]Despacho Médico[/color]. Você ainda pode encontrar sucata errante, asteroides pequenos e o ocasional naufrágio, mas materiais melhores são encontrados mais adiante. Na borda desta zona, você encontrará os [color=green]Depósitos de Carga[/color], o destino para a maioria dos freights de carga.
-- O [color=#fbf236]anel médio[/color] ([color=gold]~5–9 km[/color]) é a fundação de nossa base industrial. Com uma grande variedade de [color=orchid]minerais[/color] disponíveis para mineração e uma variedade de [color=lightpink]depósitos de gás[/color] disponíveis para perfuração, este é o celeiro de um [color=peru]mineiro[/color].
-- O [color=#286c9c]anel externo[/color] ([color=gold]~9–20 km[/color]) é onde você encontrará enormes [color=skyblue]asteroides de gelo[/color] e incomuns [color=orange]naufrágios de bronze[/color]. Este anel é o objeto de interesse para a maioria dos [color=plum]pesquisadores[/color] no setor.
-- O [color=#af0f0f]anel distante[/color] ([color=gold]20+ km[/color]) é [color=red]pouco estudado[/color]. Encontros com naves desconhecidas foram relatados.
+- Dois aglomerados, [color=gold]INSO-357k[/color] & [color=maroon]LINEAR-21[/color]. Eles são significantemente mais ricos que o espaço ao redor, com um sendo um cemitério de sucata e o outro sendo uma densa área de pedra.
+- O [color=#c73232]anel interno[/color] ([color=gold]~8.5-9 km[/color]) é cinturão fino mas grosso de asteroides e sucata.
+- A [color=#af0f0f]núvem externa[/color] ([color=gold]~12-20 km[/color]) é um campo menos denso e mais antigo, mas muito mais vasto de se minerar, com um conjunto muito mais diverso de asteroides e sucatas.
 
 Além disso, o anel distante continua indefinidamente. Viajantes que entram nesta zona sem preparação suficiente e meios de gerenciamento de ameaças correm o risco de nunca mais retornar.
 
