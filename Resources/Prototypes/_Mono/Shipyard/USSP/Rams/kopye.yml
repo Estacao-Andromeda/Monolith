@@ -13,7 +13,7 @@
 
 - type: gameMap
   id: Kopye
-  mapName: 'Kopye'
+  mapName: gamemap-Kopye-name
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/Ledokol/Attachments/kopye.yml
   minPlayers: 0
   stations:

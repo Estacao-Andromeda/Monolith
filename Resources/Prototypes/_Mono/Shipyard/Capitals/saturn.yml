@@ -34,7 +34,7 @@
 
 - type: gameMap
   id: Saturn
-  mapName: 'PDW-HSS Saturn'
+  mapName: gamemap-Saturn-name
   mapPath: /SharedMaps/_Mono/Shuttles/Capitals/saturn.yml
   minPlayers: 0
   stations:

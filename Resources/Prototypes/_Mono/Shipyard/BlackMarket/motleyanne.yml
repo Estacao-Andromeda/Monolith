@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: MotleyAnne
-  mapName: 'PDV Motley Anne'
+  mapName: gamemap-MotleyAnne-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/motleyanne.yml
   minPlayers: 0
   stations:

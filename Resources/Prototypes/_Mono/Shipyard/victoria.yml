@@ -25,7 +25,7 @@
 
 - type: gameMap
   id: Victoria
-  mapName: 'IHR Victoria'
+  mapName: gamemap-Victoria-name
   mapPath: /SharedMaps/_Mono/Shuttles/victoria.yml
   minPlayers: 0
   stations:

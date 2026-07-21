@@ -17,7 +17,7 @@
 
 - type: gameMap
   id: Balor
-  mapName: 'Z-22 Balor'
+  mapName: gamemap-Balor-name
   mapPath: /SharedMaps/_Mono/Shuttles/balor.yml
   minPlayers: 0
   stations:

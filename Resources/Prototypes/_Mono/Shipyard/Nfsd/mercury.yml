@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Mercury
-  mapName: 'Mercury'
+  mapName: gamemap-Mercury-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/mercury.yml
   minPlayers: 0
   stations:

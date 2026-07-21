@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Borer
-  mapName: 'SHS-DIS Borer'
+  mapName: gamemap-Borer-name
   mapPath: /SharedMaps/_Mono/Shuttles/borer.yml
   minPlayers: 0
   stations:

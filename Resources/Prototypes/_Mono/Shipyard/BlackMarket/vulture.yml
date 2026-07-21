@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Vulture
-  mapName: 'Vulture'
+  mapName: gamemap-Vulture-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/vulture.yml
   minPlayers: 0
   stations:

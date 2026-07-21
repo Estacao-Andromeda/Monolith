@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Sakuratsu
-  mapName: 'SKR Sakuratsu'
+  mapName: gamemap-Sakuratsu-name
   mapPath: /SharedMaps/_Mono/Shuttles/sakuratsu.yml
   minPlayers: 0
   stations:

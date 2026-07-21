@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Ravager
-  mapName: 'Ravager'
+  mapName: gamemap-Ravager-name
   mapPath: /SharedMaps/_Mono/Shuttles/ravager.yml
   minPlayers: 0
   stations:

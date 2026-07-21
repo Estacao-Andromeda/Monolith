@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Jitterbug
-  mapName: 'SE Jitterbug'
+  mapName: gamemap-Jitterbug-name
   mapPath: /SharedMaps/_Mono/Shuttles/jitterbug.yml
   minPlayers: 0
   stations:

@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Shiv
-  mapName: 'Shiv'
+  mapName: gamemap-Shiv-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/shiv.yml
   minPlayers: 0
   stations:

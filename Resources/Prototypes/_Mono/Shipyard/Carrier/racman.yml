@@ -17,7 +17,7 @@
 
 - type: gameMap
   id: Rac-Man
-  mapName: 'Rac-Man'
+  mapName: gamemap-Rac-Man-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/racman.yml
   minPlayers: 0
   stations:

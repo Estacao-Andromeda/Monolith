@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Baeg
-  mapName: 'Z-22 Baeg'
+  mapName: gamemap-Baeg-name
   mapPath: /SharedMaps/_Mono/Shuttles/baeg.yml
   minPlayers: 0
   stations:

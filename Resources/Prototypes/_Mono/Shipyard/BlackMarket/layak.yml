@@ -3,8 +3,8 @@
 - type: vessel
   id: Layak
   parent: BaseVesselAntag
-  name: PD-VI Layak
-  description: A light escort corvette for combating light ships and incoming missiles. Outfitted with 4 DRAVONs for flak, 4 AK-570s, 2 CYREXAs, and 2 flare pods.
+  name: vessel-Layak-name
+  description: vessel-Layak-desc
   price: 134000 #~120k appraisal
   purchasable: false # voucher only
   category: Medium
@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Layak
-  mapName: 'PDV Layak'
+  mapName: gamemap-Layak-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/layak.yml
   minPlayers: 0
   stations:

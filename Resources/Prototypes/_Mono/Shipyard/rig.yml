@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Rig
-  mapName: 'DIS Rig'
+  mapName: gamemap-Rig-name
   mapPath: /SharedMaps/_Mono/Shuttles/rig.yml
   minPlayers: 0
   stations:

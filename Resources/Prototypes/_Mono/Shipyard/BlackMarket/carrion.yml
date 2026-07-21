@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Carrion
-  mapName: 'ELH Carrion'
+  mapName: gamemap-Carrion-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/carrion.yml
   minPlayers: 0
   stations:

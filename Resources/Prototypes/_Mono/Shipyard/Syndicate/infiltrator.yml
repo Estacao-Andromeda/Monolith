@@ -15,7 +15,7 @@
 
 - type: gameMap
   id: Infiltrator
-  mapName: 'Infiltrator'
+  mapName: gamemap-Infiltrator-name
   mapPath: /SharedMaps/_Mono/Shuttles/Syndicate/infiltrator.yml
   minPlayers: 0
   stations:

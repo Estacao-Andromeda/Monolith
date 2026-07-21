@@ -25,7 +25,7 @@
 
 - type: gameMap
   id: Rook
-  mapName: 'Rook'
+  mapName: gamemap-Rook-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/rook.yml
   minPlayers: 0
   stations:

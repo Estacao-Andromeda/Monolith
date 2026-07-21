@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Medicus
-  mapName: 'UW Medicus'
+  mapName: gamemap-Medicus-name
   mapPath: /SharedMaps/_Mono/Shuttles/medicus.yml
   minPlayers: 0
   stations:

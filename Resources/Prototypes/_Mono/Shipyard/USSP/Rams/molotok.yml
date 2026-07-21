@@ -13,7 +13,7 @@
 
 - type: gameMap
   id: Molotok
-  mapName: 'Molotok'
+  mapName: gamemap-Molotok-name
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/Ledokol/Attachments/molotok.yml
   minPlayers: 0
   stations:

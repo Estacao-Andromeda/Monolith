@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Welder
-  mapName: 'Welder'
+  mapName: gamemap-Welder-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/welder.yml
   minPlayers: 0
   stations:

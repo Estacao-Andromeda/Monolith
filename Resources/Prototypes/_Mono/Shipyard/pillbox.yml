@@ -15,7 +15,7 @@
 
 - type: gameMap
   id: Pillbox
-  mapName: 'TPC Pillbox'
+  mapName: gamemap-Pillbox-name
   mapPath: /SharedMaps/_Mono/Shuttles/pillbox.yml
   minPlayers: 0
   stations:

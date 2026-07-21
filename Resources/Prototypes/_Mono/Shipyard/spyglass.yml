@@ -16,7 +16,7 @@
 
 - type: gameMap
   id: Spyglass
-  mapName: 'UI Spyglass'
+  mapName: gamemap-Spyglass-name
   mapPath: /SharedMaps/_Mono/Shuttles/spyglass.yml
   minPlayers: 0
   stations:

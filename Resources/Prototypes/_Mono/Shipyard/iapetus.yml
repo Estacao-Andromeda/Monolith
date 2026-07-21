@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Iapetus
-  mapName: 'TSF-SKR Iapetus'
+  mapName: gamemap-Iapetus-name
   mapPath: /SharedMaps/_Mono/Shuttles/iapetus.yml
   minPlayers: 0
   stations:

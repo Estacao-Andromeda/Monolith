@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Plutomkii
-  mapName: 'DIS Pluto MK. II'
+  mapName: gamemap-Plutomkii-name
   mapPath: /SharedMaps/_Mono/Shuttles/plutomkii.yml
   minPlayers: 0
   stations:

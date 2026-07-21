@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Zeros
-  mapName: 'JIN Zeros'
+  mapName: gamemap-Zeros-name
   mapPath: /SharedMaps/_Mono/Shuttles/zeros.yml
   minPlayers: 0
   stations:

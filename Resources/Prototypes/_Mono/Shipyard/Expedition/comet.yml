@@ -17,7 +17,7 @@
 
 - type: gameMap
   id: Comet
-  mapName: 'CDM Comet'
+  mapName: gamemap-Comet-name
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/comet.yml
   minPlayers: 0
   stations:

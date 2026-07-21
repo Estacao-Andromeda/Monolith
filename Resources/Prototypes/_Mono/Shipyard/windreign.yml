@@ -17,7 +17,7 @@
 
 - type: gameMap
   id: Windreign
-  mapName: 'HES Windreign'
+  mapName: gamemap-Windreign-name
   mapPath: /SharedMaps/_Mono/Shuttles/windreign.yml
   minPlayers: 0
   stations:

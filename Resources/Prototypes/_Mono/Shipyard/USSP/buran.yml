@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Buran
-  mapName: 'Buran'
+  mapName: gamemap-Buran-name
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/buran.yml
   minPlayers: 0
   stations:

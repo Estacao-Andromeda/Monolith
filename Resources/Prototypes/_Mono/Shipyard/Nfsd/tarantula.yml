@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Tarantula
-  mapName: 'Tarantula'
+  mapName: gamemap-Tarantula-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/tarantula.yml
   minPlayers: 0
   stations:

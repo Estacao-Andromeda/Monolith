@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: KortikR
-  mapName: 'Kortik-R'
+  mapName: gamemap-KortikR-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/kortik_t2.yml
   minPlayers: 0
   stations:

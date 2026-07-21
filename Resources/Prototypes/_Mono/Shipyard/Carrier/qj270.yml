@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: QJ270
-  mapName: 'QJ-270'
+  mapName: gamemap-QJ270-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/qj270.yml
   minPlayers: 0
   stations:

@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Hazel
-  mapName: 'BT-Y Hazel'
+  mapName: gamemap-Hazel-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/hazel.yml
   minPlayers: 0
   stations:

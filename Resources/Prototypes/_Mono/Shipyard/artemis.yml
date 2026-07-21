@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Artemis
-  mapName: 'HME Artemis'
+  mapName: gamemap-Artemis-name
   mapPath: /SharedMaps/_Mono/Shuttles/artemis.yml
   minPlayers: 0
   stations:

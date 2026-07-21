@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Ganymede
-  mapName: 'PDV Ganymede'
+  mapName: gamemap-Ganymede-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/ganymede.yml
   minPlayers: 0
   stations:

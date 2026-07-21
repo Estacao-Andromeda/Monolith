@@ -26,7 +26,7 @@
 
 - type: gameMap
   id: Mock
-  mapName: 'Mock'
+  mapName: gamemap-Mock-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/mock.yml
   minPlayers: 0
   stations:

@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Sellsword
-  mapName: 'UW Sellsword'
+  mapName: gamemap-Sellsword-name
   mapPath: /SharedMaps/_Mono/Shuttles/sellsword.yml
   minPlayers: 0
   stations:

@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Reaver
-  mapName: 'VG Reaver'
+  mapName: gamemap-Reaver-name
   mapPath: /SharedMaps/_Mono/Shuttles/Viper/reaver.yml
   minPlayers: 0
   stations:

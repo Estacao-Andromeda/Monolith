@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Phaeron
-  mapName: 'HES Phaeron'
+  mapName: gamemap-Phaeron-name
   mapPath: /SharedMaps/_Mono/Shuttles/phaeron.yml
   minPlayers: 0
   stations:

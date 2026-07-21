@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Manus
-  mapName: 'Manus'
+  mapName: gamemap-Manus-name
   mapPath: /SharedMaps/_Mono/Shuttles/manus.yml
   minPlayers: 0
   stations:

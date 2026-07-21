@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Brute
-  mapName: 'DIS Brute'
+  mapName: gamemap-Brute-name
   mapPath: /SharedMaps/_Mono/Shuttles/brute.yml
   minPlayers: 0
   stations:

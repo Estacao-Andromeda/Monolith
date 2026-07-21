@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: McChicken
-  mapName: 'AES McChicken'
+  mapName: gamemap-McChicken-name
   mapPath: /SharedMaps/_Mono/Shuttles/mcchicken.yml
   minPlayers: 0
   stations:

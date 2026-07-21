@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Gruznyk
-  mapName: 'Gruznyk'
+  mapName: gamemap-Gruznyk-name
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/gruznyk.yml
   minPlayers: 0
   stations:

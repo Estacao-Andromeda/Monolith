@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: Fracture
-  mapName: 'Fracture'
+  mapName: gamemap-Fracture-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/fracture.yml
   minPlayers: 0
   stations:
