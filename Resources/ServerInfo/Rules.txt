@@ -32,9 +32,9 @@
 	• Os jogadores são limitados a [color=yellow][bold]uma conta por pessoa[/bold][/color], independente da intenção.
 	• [color=red]Usar múltiplas contas para contornar banimentos, ganhar vantagens ou por qualquer outro motivo não é permitido.[/color]
 
-[color=#a4885c][head=3]5. O inglês é o idioma obrigatório para toda comunicação.[/head][/color]
+[color=#a4885c][head=3]5. O português é o idioma obrigatório para toda comunicação.[/head][/color]
 	• Isso inclui [color=yellow]roleplay[/color], [color=yellow]chat OOC[/color], [color=yellow]ahelp[/color] e [color=yellow]mensagens da equipe[/color].
-	• [color=red][bold]Toda comunicação no servidor—tanto in-character (IC) quanto out-of-character (OOC)—deve ser em inglês.[/bold][/color]
+	• [color=red][bold]Toda comunicação no servidor—tanto in-character (IC) quanto out-of-character (OOC)—deve ser em português.[/bold][/color]
 
 [color=#a4885c][head=4]As regras de ruleplay do [bold]Monolith[/bold] são as seguintes.[/head][/color]
 [color=#a4885c]Estas não são a extensão total das regras, e mais informações podem ser encontradas no guia.[/color]

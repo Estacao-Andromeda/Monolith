@@ -92,7 +92,7 @@ ui-options-hud-layout-default = Padrao
 ui-options-hud-layout-separated = Separado
 ui-options-vp-stretch = Esticar viewport para caber na janela do jogo
 ui-options-vp-scale = Escala fixa do viewport:
-ui-options-vp-scale-value =x{ $escala }
+ui-options-vp-scale-value =x{ $scale }
 ui-options-vp-integer-scaling = Preferir escala inteira (pode causar barras pretas/corte)
 ui-options-vp-integer-scaling-tooltip = Se essa opção estiver ativada, o viewport será dimensionado usando um valor inteiro
                                         em resoluções específicas. Embora isso resulte em texturas nítidas, também frequentemente
