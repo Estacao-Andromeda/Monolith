@@ -416,10 +416,10 @@ ent-ClothingBackpackDuffelTacticalDuffelWhite = bagagem tática branca
 
 # From: _Mono/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitMercenary = unidade de controle de traje rígido mercenária gallóglach
+ent-ClothingModsuitMercenary = unidade de controle de traje mod mercenária gallóglach
     .desc = Um módulo de controle de traje rígido modular equipado com atuadores aprimorados nas pernas para permitir ações rápidas de assalto ou retirada.
 
-ent-ClothingModsuitRogue = unidade de controle de traje rígido RX-01
+ent-ClothingModsuitRogue = unidade de controle de traje mod RX-01
     .desc = Unidade de controle central para a RX-01. Sobrevive a picos de energia, brechas no casco e engenhosidade do mercado negro. De alguma forma. Também tem botas de vácuo experimentais embutidas.
 
 ent-ClothingModsuitUSSPVaryag = Núcleo de Modsuit USSP Varyag
@@ -1904,7 +1904,7 @@ ent-MobAsakim = Enzo Asakim da Silva
     .desc = Um Asakim.
     .suffix = Urisst' MzAsakim
 
-ent-MobAsakimDummy = {ent-MobAsakin}
+ent-MobAsakimDummy = {ent-MobAsakim}
     .desc = Um Asakim fictício para ser usado na criação de personagem.
 
 ent-MobAsakimRandom = Enzo Asakim da Silva
@@ -2779,7 +2779,7 @@ ent-UsspTrackingImplant = implante de rastreamento da USSP
     .desc = Este implante tem um monitor de dispositivo de rastreamento para o canal de rádio da GLORIOSA UNIÃO DE PLANETAS SOVIÉTICOS SOCIALISTAS.
 
 ent-ViperTrackingImplant = implante de rastreamento do Grupo Viper
-    .desc = Este implante tem um monitor de dispositivo de rastreamento para o canal de rádio privado do Grupo Viper.
+    .desc = Este implante tem um monitor de dispositivo de rastreamento para o canal de rádio particular do Grupo Viper.
 
 # From: _Mono/Entities/Objects/Misc/trade.yml
 
@@ -7372,7 +7372,7 @@ ent-SuitStorageWallmountEVAPilot = {ent-SuitStorageWallmount}
 
 ent-SuitStorageWallmountEVAPrivateSec = {ent-SuitStorageWallmount}
     .desc = {ent-SuitStorageWallmount.desc}
-    .suffix = EVA, Segurança Privada
+    .suffix = EVA, Segurança particular
 
 ent-SuitStorageWallmountEVASalvage = {ent-SuitStorageWallmount}
     .desc = {ent-SuitStorageWallmount.desc}
@@ -7482,8 +7482,9 @@ ent-SalvageSpawnerPlastitaniumCommon = {ent-SalvageSpawnerScrapCommon}
     .desc = {ent-SalvageSpawnerScrapCommon.desc}
     .suffix = Plastânio, 1-3
 
-ent-SpawnerPlastitaniumCommon =
+ent-SpawnerPlastitaniumCommon = ""
     .suffix = Plastânio, 1-3
+    .desc = {ent-SalvageSpawnerScrapCommon.desc}
 
 ent-ScrapProcessorRollTrunk = O processador de sucata rolou o porta-malas.
 

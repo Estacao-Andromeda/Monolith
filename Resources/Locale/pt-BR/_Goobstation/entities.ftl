@@ -109,7 +109,7 @@ ent-ChronoPortal = Portal Táquion
 
 # From: _Goobstation/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitAtmostech = Unidade de Controle de Traje rígido Aeolus de Técnico Atmosférico
+ent-ClothingModsuitAtmostech = Unidade de Controle de Traje MOD Aeolus de Técnico Atmosférico
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
@@ -118,52 +118,52 @@ ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingModsuitBase = Unidade de Traje rígido Modular
+ent-ClothingModsuitBase = Unidade de Controle de Traje MOD
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
-ent-ClothingModsuitCaptain = Unidade de Controle de Traje rígido Magnata do Capitão
+ent-ClothingModsuitCaptain = Unidade de Controle de Traje MOD Magnata
     .desc = Uma traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
 
 ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
     .desc = {ent-ClothingModsuitCaptain.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitEngineer = Unidade de Controle de Traje rígido Sapador do Engenheiro
+ent-ClothingModsuitEngineer = Unidade de Controle de Traje MOD Sapper
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitEngineer}
     .desc = {ent-ClothingModsuitEngineer.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje rígido Baluarte do Chefe de Segurança
+ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje MOD Baluarte
     .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o chefe de segurança.
 
 ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitHeadOfSecurity}
     .desc = {ent-ClothingModsuitHeadOfSecurity.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitParamedic = Unidade de Controle de Traje rígido Sanitária
+ent-ClothingModsuitParamedic = Unidade de Controle de Traje MOD Sanitária
     .desc = Uma unidade modular de controle de traje rígido para paramédicos.
 
 ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitParamedic}
     .desc = {ent-ClothingModsuitParamedic.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje rígido Minerva do DR
-    .desc = Uma unidade modular de controle de traje rígido para suportar outro ônibus-bomba.
+ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje MOD Minerva
+    .desc = Uma unidade modular de controle de traje rígido para suportar mais uma explosão.
 
 ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitResearchDirector}
     .desc = {ent-ClothingModsuitResearchDirector.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitSecurity = Unidade de Controle de Traje rígido Soldado da Segurança
+ent-ClothingModsuitSecurity = Unidade de Controle de Traje MOD Soldado
     .desc = Uma unidade robusta modular de controle de traje rígido para bater em comunistas no espaço.
 
 ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitSecurity}
     .desc = {ent-ClothingModsuitSecurity.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitStandard = Unidade de Traje rígido Modular Padrão
+ent-ClothingModsuitStandard = Unidade de Controle de Traje MOD Padrão
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
 ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitStandard}

@@ -49,7 +49,7 @@ device-address-prefix-sensor-monitor = MON-
 device-address-examine-message = O endereço do dispositivo é {$address}.
 
 # Device net ID names
-device-net-id-private = Privado
+device-net-id-private = Particular
 device-net-id-wired = Com Fio
 device-net-id-wireless = Sem Fio
 device-net-id-apc = APC

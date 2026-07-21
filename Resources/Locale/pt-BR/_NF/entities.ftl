@@ -162,7 +162,7 @@ ent-ClothingBackpackDuffelEVABundlePilot = pacote EVA de piloto
     .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
-ent-ClothingBackpackDuffelEVABundlePrivateSec = pacote EVA de segurança privada
+ent-ClothingBackpackDuffelEVABundlePrivateSec = pacote EVA de segurança particular
     .desc = Uma bolsa contendo um conjunto de roupa espacial.
     .suffix = Preenchido
 
@@ -192,7 +192,7 @@ ent-ClothingBackpackDuffelSurgeryAdvancedFilled = bolsa cirúrgica avançada
     .desc = Uma bolsa grande para segregar suprimentos médicos extras - esta parece ser projetada para segurar ferramentas cirúrgicas avançadas.
 
 ent-ClothingBackpackDuffelSurgeryImpovFilled = bolsa cirúrgica improvisada
-    .desc = Isto parece ser um conjunto de ferramentas cirúrgicas improvisadas reunidas por alguém.
+    .desc = Isso parece ser um conjunto de ferramentas cirúrgicas improvisadas reunidas por alguém.
 
 ent-ClothingBackpackDuffelSyndicateFilledEmpGrenadeLauncher = pacote EMP China-Lake
     .desc = Um velho lançador de granadas China-Lake incluído com 8 munições de EMP.
@@ -1789,29 +1789,36 @@ ent-DungeonHumanCorpseRandomService = {ent-DungeonHumanCorpse}
 # From: _NF/Entities/Mobs/Corpses/medical_corpse.yml
 
 ent-SpawnRandomHumanoidCorpseMedicalBounty = cadáver de recompensa médica
-    .desc = Gera um item aleatório.
+    .desc = Gera um corpo de recompensa médica aleatório.
     .suffix = Sem Equipamento
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyCargo =
+ent-SpawnRandomHumanoidCorpseMedicalBountyCargo = ""
     .suffix = Carga
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyCommand =
+ent-SpawnRandomHumanoidCorpseMedicalBountyCommand = ""
     .suffix = Comando
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyEngineering =
+ent-SpawnRandomHumanoidCorpseMedicalBountyEngineering = ""
     .suffix = Engenharia
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyMedical =
+ent-SpawnRandomHumanoidCorpseMedicalBountyMedical = ""
     .suffix = Médico
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyScience =
+ent-SpawnRandomHumanoidCorpseMedicalBountyScience = ""
     .suffix = Ciência
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountySecurity =
+ent-SpawnRandomHumanoidCorpseMedicalBountySecurity = ""
     .suffix = Segurança
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
-ent-SpawnRandomHumanoidCorpseMedicalBountyService =
+ent-SpawnRandomHumanoidCorpseMedicalBountyService = ""
     .suffix = Serviço
+    .desc = {ent-SpawnRandomHumanoidCorpseMedicalBounty.desc}
 
 # From: _NF/Entities/Mobs/NPCs/animals.yml
 
@@ -4064,11 +4071,11 @@ ent-CrateSecureMercenaryHardsuit = caixote de traje rígido de mercenário
 ent-CrateSecureMercenaryHardsuitMagBoots = caixote de traje rígido de mercenário
     .desc = Contém um traje rígido de mercenário.
 
-ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de traje rígido de segurança privada
-    .desc = Contém um traje rígido de segurança privada.
+ent-CrateSecureMercenaryPrivateSecHardsuit = caixote de traje rígido de segurança particular
+    .desc = Contém um traje rígido de segurança particular.
 
-ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de traje rígido de segurança privada
-    .desc = Contém um traje rígido de segurança privada.
+ent-CrateSecureMercenaryPrivateSecHardsuitMagBoots = caixote de traje rígido de segurança particular
+    .desc = Contém um traje rígido de segurança particular.
 
 ent-CrateServiceKitChemLab = kit de laboratório de química
     .desc = Contém um kit completo para construir um laboratório de química.
@@ -4491,23 +4498,23 @@ ent-MailCapsulePrimed = cápsula de correio
 
 ent-ChickenCubeWrapped = cubo de galinha
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de galinha.
+    .desc = Desembrulhe isso para obter um cubo de galinha.
 
 ent-CowCubeWrapped = cubo de vaca
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de vaca.
+    .desc = Desembrulhe isso para obter um cubo de vaca.
 
 ent-DuckCubeWrapped = cubo de pato
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de pato.
+    .desc = Desembrulhe isso para obter um cubo de pato.
 
 ent-GoatCubeWrapped = cubo de cabra
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de cabra.
+    .desc = Desembrulhe isso para obter um cubo de cabra.
 
 ent-PigCubeWrapped = cubo de porco
     .suffix = Embalado
-    .desc = Desembrulhe isto para obter um cubo de porco.
+    .desc = Desembrulhe isso para obter um cubo de porco.
 
 ent-PoultryCubeBox = caixa de cubos de aves
     .desc = Uma caixa de cubos de aves: galinhas e patos! Apenas adicione água!
@@ -5248,7 +5255,7 @@ ent-VendingMachineRestockPottedPlantVend = caixa de reposição da Plant-O-Matic
 # From: _NF/Entities/Objects/Specific/Wizard/conjured_items.yml
 # Abstract entity (referenceable by children)
 
-ent-ConjuredObject10 =
+ent-ConjuredObject10 = ""
     .suffix = Conjuro
     .desc = Uma entidade criada magicamente, que eventualmente desaparecerá da existência.
 
@@ -5300,7 +5307,7 @@ ent-NFPouchPirate = bolsa do pirata
 
 ent-NFPouchPirateCaptain = bolsa do capitão pirata
 
-ent-NFPouchPrivateSecurity = bolsa de segurança privada
+ent-NFPouchPrivateSecurity = bolsa de segurança particular
 
 ent-NFPouchPunk = bolsa punk
 
@@ -5474,8 +5481,8 @@ ent-NFBlueprintOreBagOfHolding = diagrama de saco de minério bluespace
 
 # From: _NF/Entities/Objects/Tools/blueprints/blueprints_science.yml
 
-ent-NFBlueprintClothingShoesBootsMagAdv = diagrama de magbotas avançadas
-    .desc = Um diagrama com um esquema de umas magbotas avançadas. Pode ser inserido em um torno ou em uma techfab.
+ent-NFBlueprintClothingShoesBootsMagAdv = diagrama de botas magnéticas avançadas
+    .desc = Um diagrama com um esquema de umas botas magnéticas avançadas. Pode ser inserido em um torno ou em uma techfab.
 
 ent-NFBlueprintPicoManipulatorStockPart = diagrama de super manipulador
     .desc = Um diagrama com um esquema de um super manipulador. Pode ser inserido em um torno ou em uma techfab.
@@ -5622,7 +5629,7 @@ ent-VehicleHoverbikeNfsdKey = {ent-VehicleHoverbikeNfsd}
     .suffix = Com chave
 
 ent-VehicleHoverbikePirate = hoverbike pirata
-    .desc = Arrr! Isto seja minha nave espacial soberana. Agora, cadê meu rum?
+    .desc = Arrr! Isso seja minha nave espacial soberana. Agora, cadê meu rum?
 
 ent-VehicleHoverbikePirateKey = {ent-VehicleHoverbikePirate}
     .desc = {ent-VehicleHoverbikePirate.desc}
@@ -5977,7 +5984,7 @@ ent-CavemanClub = clava de homem das cavernas
 
 ent-CavemanClubCursed = clava de homem das cavernas
     .suffix = Inremovível, Espuma
-    .desc = Porrete grande faz... isto não é madeira?
+    .desc = Porrete grande faz... isso não é madeira?
 
 # From: _NF/Entities/Objects/Weapons/Melee/e_sword.yml
 
@@ -7273,10 +7280,10 @@ ent-EngineeringTechFab = techfab de engenharia
     .desc = Imprime equipamentos para engenheiros.
 
 ent-MercenaryTechFab = techfab de mercenário
-    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança privada poderia precisar. Nada de especial.
+    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança particular poderia precisar. Nada de especial.
 
 ent-MercenaryTechFabHacked = techfab de mercenário hackeado
-    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança privada poderia precisar. Nada de especial.
+    .desc = Imprime o mínimo essencial de ferramentas do ofício que qualquer mercenário orçamentário ou segurança particular poderia precisar. Nada de especial.
 
 ent-NfsdTechFab = techfab TSFMC
     .desc = Imprime equipamentos para uso pelo TSFMC.
@@ -8012,42 +8019,49 @@ ent-ClosetO2N2 = armário de internos de emergência
 # From: _NF/Entities/Structures/Storage/Closets/Lockers/lockers.yml
 
 ent-LockerJanitor = armário de zelador
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerMailCarrier = armário de carteiro
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerMaterials = armário de materiais
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerMercenary = armário de mercenário
+    .desc = {ent-LockerSteel.desc}
 
-ent-LockerNfsdBailiff = armário da MCFT
-    .desc = Um armário.
+ent-LockerNfsdBailiff = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Bailiff
 
-ent-LockerNfsdBrigmedic = armário da MCFT
-    .desc = Um armário.
+ent-LockerNfsdBrigmedic = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Corpo de Fuzileiros
 
-ent-LockerNfsdCopper = armário da MCFT
-    .desc = Um armário.
+ent-LockerNfsdCopper = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Patrulheiro
 
-ent-LockerNfsdEvidence = armário de evidências da MCFT
+ent-LockerNfsdEvidence = armário de evidências da TSFMC
+    .desc = {ent-LockerSteel.desc}
 
-ent-LockerNfsdSergeant = armário da MCFT
-    .desc = Um armário.
+ent-LockerNfsdSergeant = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Líder de Esquadrão
 
-ent-LockerNfsdSheriff = armário da MCFT
-    .desc = Um armário.
+ent-LockerNfsdSheriff = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Coronel
 
-ent-LockerNfsdSilver = armário da MCFT
-    .desc = Um armário.
+ent-LockerNfsdSilver = armário da TSFMC
+    .desc = {ent-LockerSteel.desc}
     .suffix = Fuzileiro
 
 ent-LockerPilot = armário de piloto
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerStationRepresentative = armário de supervisor
+    .desc = {ent-LockerSteel.desc}
 
 ent-LockerWoodenGeneric = armário de madeira
     .desc = Armário de madeira antigo e empoeirado. Cheira a avós.
@@ -8055,86 +8069,119 @@ ent-LockerWoodenGeneric = armário de madeira
 # From: _NF/Entities/Structures/Storage/Closets/suit_storage_wall.yml
 
 ent-SuitStorageWallmount = unidade de armazenamento de trajes na parede
+    .desc = {ent-SuitStorageBase.desc}
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers_department_eva.yml
 
 ent-LockerWallEVAColorAtmosTech = armário EVA na parede de técnico atmosférico
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorCaptain = armário EVA na parede de capitão
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorCargo = armário EVA na parede de técnico de carga
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorChaplain = armário EVA na parede de capelão
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorContractor = armário EVA na parede de espaciano
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorEmergency = armário EVA de emergência na parede
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorEngineer = armário EVA na parede de engenheiro
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorFsb = armário EVA na parede da FSB
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorGeneric = armário EVA na parede
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorHydroponics = armário EVA na parede de botânico
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorJanitor = armário EVA na parede de zelador
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorLvhi = armário EVA na parede da LVHI
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorMail = armário EVA na parede de carteiro
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorMedical = armário EVA na parede de médico
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorMercenary = armário EVA na parede de mercenário
+    .desc = {ent-SuitStorageWallmount.desc}
 
-ent-LockerWallEVAColorNfsd = armário EVA na parede da MCFT
+ent-LockerWallEVAColorNfsd = armário EVA na parede da TSFMC
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorPilot = armário EVA na parede de piloto
+    .desc = {ent-SuitStorageWallmount.desc}
 
-ent-LockerWallEVAColorPrivateSec = armário EVA na parede de segurança privada
+ent-LockerWallEVAColorPrivateSec = armário EVA na parede de segurança particular
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorSalvage = armário EVA na parede de especialista em salvagem
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorScientist = armário EVA na parede de cientista
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorServiceWorker = armário EVA na parede de funcionário de serviço
+    .desc = {ent-SuitStorageWallmount.desc}
 
 ent-LockerWallEVAColorSr = armário EVA na parede de supervisor
+    .desc = {ent-SuitStorageWallmount.desc}
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers_department.yml
 
 ent-LockerWallColorAtmosTech = armário na parede de técnico atmosférico
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorCaptain = armário na parede de capitão
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorCargo = armário na parede de técnico de carga
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorChemistry = armário na parede de química
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorEngineer = armário na parede de engenheiro
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorGeneric = armário na parede
+    .desc = Um armário de parede.
 
 ent-LockerWallColorGenericBlack = armário na parede
-    .desc = Um armário de parede.
+    .desc = {ent-LockerWallColorGeneric.desc}
     .suffix = Fronteira, Preto
 
 ent-LockerWallColorGenericBlue = armário na parede
-    .desc = Um armário de parede.
+    .desc = {ent-LockerWallColorGeneric.desc}
     .suffix = Fronteira, Azul
 
 ent-LockerWallColorGenericGreen = armário na parede
-    .desc = Um armário de parede.
+    .desc = {ent-LockerWallColorGeneric.desc}
     .suffix = Fronteira, Verde
 
 ent-LockerWallColorHydroponics = armário na parede de botânico
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorMedical = armário na parede médico
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorSalvage = armário na parede de especialista em salvagem
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorServiceWorker = armário na parede de funcionário de serviço
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 # From: _NF/Entities/Structures/Storage/Closets/wall_lockers.yml
 
@@ -8145,18 +8192,25 @@ ent-ClosetWallO2N2 = armário de internos de emergência na parede
     .desc = É uma unidade de armazenamento para equipamentos de respiração de emergência para todas as espécies.
 
 ent-LockerWallChemistry = armário de química na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorAme = armário de combustível AME na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorBananium = armário de combustível banânio na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorFuelPlasma = armário de combustível de plasma na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorL1Fire = armário de traje de fogo L1 na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorL2Radiation = armário de traje de radiação L2 na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorL3Biohazard = armário de traje de biohazardo L3 na parede
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-WeaponCaseLongAk = {ent-WeaponCaseLong}
     .desc = {ent-WeaponCaseLong.desc}
@@ -8571,12 +8625,16 @@ ent-LockerWallEVAColorFsbFilled = {ent-LockerWallEVAColorFsb}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorL4Bomb = armário de parede de roupa de bomba L4
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorMaterials = armário de parede de materiais
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorUranium = armário de parede de combustível de urânio
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-LockerWallColorWelding = armário de parede de combustível de solda
+    .desc = {ent-LockerWallColorGeneric.desc}
 
 ent-NFPrisonerClosetWallOrange = armário de parede de prisioneiro
     .desc = É uma unidade de armazenamento para roupas de prisioneiro compatíveis com a Lei Espacial.
@@ -8594,18 +8652,23 @@ ent-ConstructionBox = caixa de construção
 # From: _NF/Entities/Structures/Storage/Crates/crate.yml
 
 ent-CrateAmmoGeneric = caixote de munição
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateAmmoSecureMercenary = caixote de munição segura
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateFirearmsSecure = caixote de armas de fogo seguro
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateFreezerMcCargo = freezer mccargo
 
 ent-CrateNfsdBrigmedic = caixote de médico de brigada
 
 ent-CrateNfsdSecure1 = caixote TSFMC
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateNfsdSecure2 = caixote TSFMC
+    .desc = {ent-CrateSecure.desc}
 
 ent-CratePirateBounty = baú de recompensa de pirata
     .desc = Um baú para armazenar bens saqueados. Huh, este está em branco.
@@ -8617,13 +8680,16 @@ ent-CratePlasticBiodegradable = caixote de plástico biodegradável
     .desc = Parece incrivelmente frágil.
 
 ent-CrateSecureMercenary = caixote de mercenário
+    .desc = {ent-CrateSecure.desc}
 
-ent-CrateSecureMercenaryPrivateSec = caixote de segurança privada
+ent-CrateSecureMercenaryPrivateSec = caixote de segurança particular
+    .desc = {ent-CrateSecure.desc}
 
 ent-CrateUranium = caixote de urânio
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateWoodCage = gaiola de madeira
-    .desc = Parece que alguém fez isto em uma caverna, com uma caixa de sucata.
+    .desc = Parece que alguém fez isso em uma caverna, com uma caixa de sucata.
 
 # From: _NF/Entities/Structures/Storage/Crates/emergency_pod.yml
 
@@ -11429,7 +11495,7 @@ ent-SuitStorageEVAPilot = {ent-SuitStorageBase}
 
 ent-SuitStorageEVAPrivateSec = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
-    .suffix = EVA, Segurança Privada
+    .suffix = EVA, Segurança particular
 
 ent-SuitStorageEVASalvage = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
@@ -11465,7 +11531,7 @@ ent-SuitStoragePilot = {ent-SuitStorageBase}
 
 ent-SuitStoragePrivateSecurity = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
-    .suffix = Segurança Privada
+    .suffix = Segurança particular
 
 ent-SuitStorageQuartermaster = {ent-SuitStorageBase}
     .desc = {ent-SuitStorageBase.desc}
@@ -11700,7 +11766,7 @@ ent-StorageFillEVASuitPilot = ""
 # Abstract entity (referenceable by children)
 
 ent-StorageFillEVASuitPrivateSec = ""
-    .desc = Contém um kit EVA padrão de segurança privada.
+    .desc = Contém um kit EVA padrão de segurança particular.
 
 # Abstract entity (referenceable by children)
 
@@ -12101,8 +12167,8 @@ ent-ClothingHeadHelmetHardsuitPilot = capacete de traje rígido de piloto
 ent-ClothingHeadHelmetHardsuitPirateElite = capacete de traje rígido de pirata elite
     .desc = Capacetes de traje rígido com blindagem elite para yo-hoers.
 
-ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de traje rígido de segurança privada
-    .desc = Capacete de traje rígido levemente blindado para necessidades de segurança privada.
+ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de traje rígido de segurança particular
+    .desc = Capacete de traje rígido levemente blindado para necessidades de segurança particular.
 
 ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de traje rígido de empregada tática
     .desc = Aço inoxidável soldado coberto por múltiplas camadas de materiais anticorrosivos, perfeito para limpeza.
@@ -12265,7 +12331,7 @@ ent-ClothingHeadEVAHelmetNfsd = capacete EVA do CMFTS
 
 ent-ClothingHeadEVAHelmetPilot = capacete EVA de piloto
 
-ent-ClothingHeadEVAHelmetPrivateSec = capacete EVA de segurança privada
+ent-ClothingHeadEVAHelmetPrivateSec = capacete EVA de segurança particular
 
 ent-ClothingHeadEVAHelmetSalvage = capacete EVA de especialista em salvagem
 
@@ -12355,12 +12421,12 @@ ent-ClothingNeckCloakSheriff = capa de coronel
     .desc = Uma capa requintada, adequada para aqueles que podem impor domínio sobre transgressores. Tente ser civil na persecução!
 
 ent-ClothingNeckCloakSr = capa de supervisor
-    .desc = Uma capa de primeira linha para o supervisor do Colossus Central. Feita de fibras e peles requintadas, isto deve ter custado uma fortuna! O fato de esta capa ter sido emitida mostra a confiança que o Comando Central está depositando em seu representante neste posto avançado.
+    .desc = Uma capa de primeira linha para o supervisor do Colossus Central. Feita de fibras e peles requintadas, isso deve ter custado uma fortuna! O fato de esta capa ter sido emitida mostra a confiança que o Comando Central está depositando em seu representante neste posto avançado.
 
 # From: _NF/Entities/Clothing/Neck/mantles.yml
 
 ent-ClothingNeckCloakJanitor = capa de zelador
-    .desc = Como você conseguiu isto? Você fez você mesmo?
+    .desc = Como você conseguiu isso? Você fez você mesmo?
 
 ent-ClothingNeckCloakJanitorFilled = {ent-ClothingNeckCloakJanitor}
     .desc = {ent-ClothingNeckCloakJanitor.desc}
@@ -12404,7 +12470,7 @@ ent-ClothingNeckMedalNfsdStarGold = estrela de valor
 # From: _NF/Entities/Clothing/Neck/misc.yml
 
 ent-ClothingNeckAmuletBloodCult = amuleto de cultista ascendido
-    .desc = Toda vez que você contempla isto, você sente como se estivesse contemplando de volta. Invoca um drenado que segue o usuário por um breve período de tempo. Tem um tempo de recarga.
+    .desc = Toda vez que você contempla isso, você sente como se estivesse contemplando de volta. Invoca um drenado que segue o usuário por um breve período de tempo. Tem um tempo de recarga.
 
 ent-ClothingNeckCrucifix = crucifixo
     .desc = Droga, é bom ser tão piedoso.
@@ -12601,8 +12667,8 @@ ent-ClothingOuterHardsuitPilot = traje rígido de piloto
 ent-ClothingOuterHardsuitPirateElite = traje rígido de pirata elite
     .desc = Um traje rígido blindado elite antigo, projetado por um homem barbado desconhecido e construído como uma casa de tijolos.
 
-ent-ClothingOuterHardsuitPrivateSecurity = traje rígido de segurança privada
-    .desc = Um traje especial que protege dos perigos do espaço, empregado por forças de segurança privada.
+ent-ClothingOuterHardsuitPrivateSecurity = traje rígido de segurança particular
+    .desc = Um traje especial que protege dos perigos do espaço, empregado por forças de segurança particular.
 
 ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = traje rígido do Sindicato
 
@@ -12681,8 +12747,8 @@ ent-ClothingOuterEVASuitNfsd = traje EVA da TSFMC
 ent-ClothingOuterEVASuitPilot = traje EVA de piloto
     .desc = Um traje EVA com capacete integrado geralmente emitido para pilotos.
 
-ent-ClothingOuterEVASuitPrivateSec = traje EVA de segurança privada
-    .desc = Um traje EVA com capacete integrado geralmente emitido para segurança privada.
+ent-ClothingOuterEVASuitPrivateSec = traje EVA de segurança particular
+    .desc = Um traje EVA com capacete integrado geralmente emitido para segurança particular.
 
 ent-ClothingOuterEVASuitSalvage = traje EVA de especialista em salvagem
     .desc = Um traje EVA com capacete integrado geralmente emitido para especialistas em salvagem.
@@ -12754,18 +12820,31 @@ ent-ClothingShoesBootsMagGaloshes = galochas magnéticas
 ent-ClothingShoesBootsMagMercenary = botas magnéticas de mercenário
     .desc = Botas magnéticas de mercenário, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguro preso ao veículo.
 
+ent-ClothingShoesBootsMagMercenaryFilled = {ent-ClothingShoesBootsMagMercenary}
+    .desc = {ent-ClothingShoesBootsMagMercenary.desc}
+
 ent-ClothingShoesBootsMagNfsd = botas magnéticas da TSFMC
+    .desc = {ent-ClothingShoesBootsMagSecurity.desc}
+
+ent-ClothingShoesBootsMagNfsdFilled = {ent-ClothingShoesBootsMagNfsd}
+    .desc = {ent-ClothingShoesBootsMagNfsd.desc}
 
 ent-ClothingShoesBootsMagPirate = botas magnéticas de pirata
     .desc = Botas magnéticas de pirata, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguro preso ao veículo.
 
+ent-ClothingShoesBootsMagPirateFilled = {ent-ClothingShoesBootsMagPirate}
+    .desc = {ent-ClothingShoesBootsMagPirate.desc}
+
 ent-ClothingShoesBootsMagSecurity = botas magnéticas de segurança
     .desc = Botas magnéticas de segurança, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguro preso ao veículo.
+
+ent-ClothingShoesBootsMagSecurityFilled = {ent-ClothingShoesBootsMagSecurity}
+    .desc = {ent-ClothingShoesBootsMagSecurity.desc}
 
 # From: _NF/Entities/Clothing/Shoes/misc.yml
 
 ent-ActionToggleMoonBoots = Alternar Botas Lunares
-    .desc = Alterna as botas lunares ligadas e desligadas.
+    .desc = Alterna as botas lunares entre ligadas e desligadas.
 
 ent-ClothingShoesClothwrap = envoltórios de pés de pano
     .desc = Um rolo de lona tratada usado para envolver pés ou patas.
@@ -12779,7 +12858,7 @@ ent-ClothingUniformJumpskirtArcadia = saia-calça da Arcadia
     .desc = Uma saia-calça produzida pela Arcadia Industries. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
 ent-ClothingUniformJumpskirtBH = terno surrado
-    .desc = Alguém que usa isto significa negócios.
+    .desc = Alguém que usa isso significa negócios.
 
 ent-ClothingUniformJumpskirtBHGrey = terno noir
     .desc = Um terno cinza, completo com prendedor de gravata.
@@ -12793,8 +12872,8 @@ ent-ClothingUniformJumpskirtNfsd = saia-calça da TSFMC
 ent-ClothingUniformJumpskirtNfsdShort = saia-calça da TSFMC
     .desc = Uma saia-calça de mangas curtas produzida para coronéis-delegados. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpskirtPrivateSec = saia-calça de segurança privada
-    .desc = Um uniforme especializado para um guarda de segurança privada. Para o contratado privado exigente que precisa de uma aparência profissional.
+ent-ClothingUniformJumpskirtPrivateSec = saia-calça de segurança particular
+    .desc = Um uniforme especializado para um guarda de segurança particular. Para o contratado particular exigente que precisa de uma aparência profissional.
 
 ent-ClothingUniformJumpskirtPublicAffairsLiaison = saia-calça de liaison de assuntos públicos
     .desc = Um terno saia engomado e passado para o liaison de assuntos públicos.
@@ -12830,7 +12909,7 @@ ent-ClothingUniformJumpsuitArcadia = macacão da Arcadia
     .desc = Um macacão produzido pela Arcadia Industries. Projetado para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
 ent-ClothingUniformJumpsuitBH = terno surrado
-    .desc = Alguém que usa isto significa negócios.
+    .desc = Alguém que usa isso significa negócios.
 
 ent-ClothingUniformJumpsuitBHGrey = terno noir
     .desc = Um terno cinza, completo com prendedor de gravata.
@@ -12874,8 +12953,8 @@ ent-ClothingUniformJumpsuitPirateLuffy = uniforme de pirata suspeito
 ent-ClothingUniformJumpsuitPirateSlops = trapos de pirata
     .desc = Um uniforme esfarrapado mas confortável para saquear o setor.
 
-ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança privada
-    .desc = Um uniforme especializado para um guarda de segurança privada. Para o espaciano privado exigente que precisa de uma aparência profissional.
+ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança particular
+    .desc = Um uniforme especializado para um guarda de segurança particular. Para o espaciano particular exigente que precisa de uma aparência profissional.
 
 ent-ClothingUniformJumpsuitPublicAffairsLiaison = macacão de liaison de assuntos públicos
     .desc = Um terno engomado e passado para o liaison de assuntos públicos.
@@ -13093,7 +13172,7 @@ ent-ClothingSkirtUniformRandomStandard = blusa colorida e saia
 # Abstract entity (referenceable by children)
 
 ent-NFBaseWallet = carteira
-    .desc = Se alguém deixou isto cair, você deveria realmente devolver.
+    .desc = Se alguém deixou isso cair, você deveria realmente devolver.
 
 # From: _NF/Entities/Clothing/Wallet/leather.yml
 

@@ -4710,7 +4710,7 @@ ent-HydroponicsToolClippers = tesoura de poda
 ent-HydroponicsToolHatchet = machadinha
     .desc = Uma lâmina de machado muito afiada sobre um cabo curto de fibrametal. Tem uma longa história de cortar coisas, mas agora é usada para cortar madeira.
 
-ent-HydroponicsToolMiniHoe = enxada mini
+ent-HydroponicsToolMiniHoe = mini enxada
     .desc = É usada para remover ervas daninhas ou coçar suas costas.
 
 ent-HydroponicsToolScythe = foice
@@ -4938,8 +4938,8 @@ ent-DefibrillatorSyndicate = desfibrilador interdyne
 
 # From: Entities/Objects/Specific/Medical/disease.yml
 
-ent-BoxMouthSwab = dispensador de swabs estéreis
-    .desc = Dispensa 30 swabs estéreis, extremamente úteis para botânica.
+ent-BoxMouthSwab = dispensador de cotonetes estéreis
+    .desc = Dispensa 30 cotonetes estéreis, extremamente úteis para botânica.
 
 ent-DiseaseSwab = swab estéril
     .desc = Usado para coletar e transferir amostras. Estéril até ser aberto. Apenas uso único.
@@ -5976,7 +5976,7 @@ ent-CowToolboxFilled = { ent-CowToolbox }
     .suffix = Abastecida
 
 ent-Haycutters = alicate de feno
-    .desc = Isto mata o fio. Moo!
+    .desc = Isso mata o fio. Moo!
 
 ent-Milkalyzer = leitanalisador
     .desc = Um scanner ambiental portátil que reporta níveis atuais de gás. Moo!
@@ -6387,7 +6387,7 @@ ent-Shovel = pá
     .desc = Uma ferramenta grande para cavar e mover terra.
 
 ent-Wirecutter = alicate de corte
-    .desc = Isto mata o fio.
+    .desc = Isso mata o fio.
 
 ent-Wrench = chave inglesa
     .desc = Uma ferramenta comum para montagem e desmontagem. Lembre-se: esquerda trava, direita remove.
@@ -6595,7 +6595,7 @@ ent-WeaponSprayNozzle = bico spray
 # From: Entities/Objects/Weapons/Guns/Basic/staves.yml
 
 ent-WeaponStaffHealing = cajado de cura
-    .desc = Você não prevê ter que usar isto em sua busca por carnificina com muita frequência.
+    .desc = Você não prevê ter que usar isso em sua busca por carnificina com muita frequência.
 
 ent-WeaponStaffPolymorphDoor = cajado de entrada
     .desc = Para quando você precisar de uma rota de fuga.
@@ -6667,7 +6667,7 @@ ent-WeaponLaserCannon = canhão laser
     .desc = Uma arma de laser de alta potência e uso pesado. No cabo há um rótulo que diz 'apenas para uso autorizado.'
 
 ent-WeaponLaserCarbine = carabina laser
-    .desc = Uma carabina laser simples de grau civil, a ferramenta de trabalho de muitas organizações de segurança privada.
+    .desc = Uma carabina laser simples de grau civil, a ferramenta de trabalho de muitas organizações de segurança particular.
 
 ent-WeaponLaserCarbinePractice = rifle laser de prática
     .desc = Esta carabina laser modificada dispara raios quase inofensivos na faixa de 40 watts, para prática de alvo.
@@ -9502,7 +9502,7 @@ ent-TableCounterMetal = balcão metálico
     .desc = Parece um bom lugar para colocar uma bebida.
 
 ent-TableCounterWood = balcão de madeira
-    .desc = Não aplique fogo a isto. Dizem que queima facilmente.
+    .desc = Não aplique fogo a isso. Dizem que queima facilmente.
 
 ent-TableDebug = mesa
     .suffix = DEBUG
@@ -9571,7 +9571,7 @@ ent-TableWeb = mesa de teia
     .desc = Realmente lisa e surpreendentemente durável.
 
 ent-TableWood = mesa de madeira
-    .desc = Não aplique fogo a isto. Dizem que queima facilmente.
+    .desc = Não aplique fogo a isso. Dizem que queima facilmente.
 
 ent-TableXeno = mesa xeno
     .desc = Eu não colocaria a prataria nela.
@@ -9638,7 +9638,7 @@ ent-PowerSensor = sensor de energia
 
 # From: Entities/Structures/Holographic/projections.yml
 
-ent-HoloFan = holofã
+ent-HoloFan = holofan
     .desc = Uma barreira de luz dura que bloqueia ar, mas nada mais.
 
 ent-HolosignForcefield = campo de força holográfico
@@ -9844,7 +9844,7 @@ ent-BaseHardBomb = bomba grande
 
 ent-DebugHardBomb = bomba de debug
     .suffix = DEBUG
-    .desc = Puta merda, isto vai explodir.
+    .desc = Puta merda, isso vai explodir.
 
 ent-SyndicateBomb = bomba do Sindicato
     .desc = Uma bomba para operativos e agentes do Sindicato. O negócio real, sem mais treinamento, mãos à obra!
@@ -9925,7 +9925,7 @@ ent-ComputerCrewMonitoring = console de monitoramento da tripulação
     .desc = Usado para monitorar os sensores de saúde ativos embutidos na maioria dos uniformes da tripulação.
 
 ent-ComputerCriminalRecords = computador de registros criminais
-    .desc = Isto pode ser usado para checar registros criminais. Apenas segurança pode modificá-los.
+    .desc = Isso pode ser usado para checar registros criminais. Apenas segurança pode modificá-los.
 
 ent-ComputerEmergencyShuttle = console de nave de emergência
     .desc = Gerencia autorização para lançar a nave antecipadamente.
@@ -9944,7 +9944,7 @@ ent-ComputerMassMedia = console de gerenciador de notícias
     .desc = Escreva sua mensagem para o mundo!
 
 ent-ComputerMedicalRecords = computador de registros médicos
-    .desc = Isto pode ser usado para checar registros médicos.
+    .desc = Isso pode ser usado para checar registros médicos.
 
 ent-ComputerPalletConsole = computador de vendas de carga
     .desc = Usado para vender mercadorias carregadas em paletes de carga.
@@ -9981,7 +9981,7 @@ ent-ComputerSolarControl = computador de controle solar
     .desc = Um controlador para arranjos de painéis solares.
 
 ent-ComputerStationRecords = computador de registros da estação
-    .desc = Isto pode ser usado para checar registros da estação.
+    .desc = Isso pode ser usado para checar registros da estação.
 
 ent-ComputerSurveillanceCameraMonitor = monitor de câmeras
     .desc = Um monitor de câmeras de vigilância. Você está observando eles. Talvez.
@@ -9993,10 +9993,10 @@ ent-StationAiUploadComputer = console de upload de IA
     .desc = Usado para atualizar as leis da IA da nave.
 
 ent-SyndicateComputerComms = computador de comunicações do Sindicato
-    .desc = Um computador capaz de hackear remotamente os sistemas de comunicação da estação. Usar isto para fazer um anúncio alertará a estação sobre sua presença.
+    .desc = Um computador capaz de hackear remotamente os sistemas de comunicação da estação. Usar isso para fazer um anúncio alertará a estação sobre sua presença.
 
 ent-WizardComputerComms = computador de comunicações de mago
-    .desc = Um computador capaz de projetar magicamente sua fala para a estação. Usar isto para fazer um anúncio alertará a estação sobre sua presença.
+    .desc = Um computador capaz de projetar magicamente sua fala para a estação. Usar isso para fazer um anúncio alertará a estação sobre sua presença.
 
 # From: Entities/Structures/Machines/Computers/frame.yml
 
@@ -10587,11 +10587,11 @@ ent-SyndicateMicrowave = micro-ondas da Donk Co.
 # From: Entities/Structures/Machines/nuke.yml
 
 ent-NuclearBomb = explosivo de fissão nuclear
-    .desc = Você provavelmente não deveria ficar por perto para ver se isto está armado.
+    .desc = Você provavelmente não deveria ficar por perto para ver se isso está armado.
 
 ent-NuclearBombKeg = explosivo de fissão nuclear
     .suffix = barril
-    .desc = Você provavelmente não deveria ficar por perto para ver se isto está armado. Tem uma torneira no lado.
+    .desc = Você provavelmente não deveria ficar por perto para ver se isso está armado. Tem uma torneira no lado.
 
 ent-NuclearBombUnanchored = {ent-NuclearBomb}
     .desc = {ent-NuclearBomb.desc}
@@ -12540,7 +12540,7 @@ ent-CratePlasma = caixote de plasma
 ent-CratePlastic = caixote de plástico
     .desc = {ent-CrateGeneric.desc}
 
-ent-CratePrivateSecure = caixote privado
+ent-CratePrivateSecure = caixote particular
     .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateRadiation = caixote de equipamentos de radiação
@@ -12910,7 +12910,7 @@ ent-ShelfBar = prateleira de bar
 # Abstract entity (referenceable by children)
 
 ent-ShelfBase = prateleira
-    .desc = Um lugar estranho para colocar, bem, qualquer coisa mesmo. Você sente que não deveria estar vendo isto.
+    .desc = Um lugar estranho para colocar, bem, qualquer coisa mesmo. Você sente que não deveria estar vendo isso.
 
 # Abstract entity (referenceable by children)
 
@@ -13036,7 +13036,7 @@ ent-BarSignTheSun = O Sol
     .desc = Ironicamente brilhante para um bar tão suspeito.
 
 ent-BarSignWhiskeyEchoes = Whiskey Echoes
-    .desc = Um bar de elite para operações de elite-espera, isto é espaço da TSF. Por que essa placa está no banco de dados?
+    .desc = Um bar de elite para operações de elite-espera, isso é espaço da TSF. Por que essa placa está no banco de dados?
 
 ent-BarSignWiggleRoom = Wiggle Room
     .desc = MoMMIs têm movimentos.
@@ -13443,7 +13443,7 @@ ent-PosterLegitSafetyMothHardhat = Mariposa de Segurança - Capacetes
     .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para usar capacetes em áreas cautelosas. É como uma lâmpada para sua cabeça!
 
 ent-PosterLegitSafetyMothMeth = Mariposa de Segurança - Metanfetamina
-    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para buscar aprovação do CM antes de cozinhar metanfetamina. Fique perto da temperatura alvo e nunca passe! ...Você nunca deveria fazer isto.
+    .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer ao espectador para buscar aprovação do CM antes de cozinhar metanfetamina. Fique perto da temperatura alvo e nunca passe! ...Você nunca deveria fazer isso.
 
 ent-PosterLegitSafetyMothPiping = Mariposa de Segurança - Tubulação
     .desc = Este pôster informativo usa a Mariposa de Segurança™ para dizer aos técnicos atmosféricos os tipos corretos de tubulação a serem usados. Tubos, não Bombas! A colocação adequada de tubos previne mau desempenho!
@@ -13473,10 +13473,10 @@ ent-PosterLegitTheOwl = A Coruja
     .desc = A Coruja faria o melhor para proteger a estação. Você fará?
 
 ent-PosterLegitThereIsNoGasGiant = Não Há Gigante Gasoso
-    .desc = Para lembrar civis coloniais que rumores de gigantes gasosos existentes no setor rebelde são falsos. Isto é... aprovado pela TSF?
+    .desc = Para lembrar civis coloniais que rumores de gigantes gasosos existentes no setor rebelde são falsos. Isso é... aprovado pela TSF?
 
 ent-PosterLegitUeNo = Ue No.
-    .desc = Isto está tudo em japonês.
+    .desc = Isso está tudo em japonês.
 
 ent-PosterLegitVacation = Benefícios Corporativos Nanotrasen: Férias
     .desc = Este pôster informativo fornece informações sobre alguns dos prêmios disponíveis através do programa de Benefícios Corporativos NT, incluindo férias de duas semanas para duas pessoas no mundo resort Idyllus.
@@ -13518,7 +13518,7 @@ ent-PosterMapSplit = Mapa Estação Dividida
     .desc = Um mapa da Estação Dividida.
 
 ent-PosterMapWaystation = Mapa Estação-Rota
-    .desc = Um mapa da Estação-Rota... espera, isto não é o mapa embalado de cabeça para baixo?
+    .desc = Um mapa da Estação-Rota... espera, isso não é o mapa embalado de cabeça para baixo?
 
 # From: Entities/Structures/Wallmounts/Signs/signs.yml
 
@@ -13908,7 +13908,7 @@ ent-SignSecurity = placa de segurança
     .desc = Uma placa retratando a insígnia de segurança.
 
 ent-SignServer = placa de servidor
-    .desc = Já ouviu falar de Big Data? Isto é ele, otário. O maior.
+    .desc = Já ouviu falar de Big Data? Isso é ele, otário. O maior.
 
 ent-SignShipDock = placa de evacuação
     .desc = Uma placa indicando onde o ônibus de evacuação chegará (provavelmente).
@@ -14734,7 +14734,7 @@ ent-BaseFenceWood = cerca de madeira
 # Abstract entity (referenceable by children)
 
 ent-BaseFenceWoodSmall = cerca de madeira pequena
-    .desc = Pedaco de cerca pequena de madeira. A melhor protecao para o cercamento de um território privado!
+    .desc = Pedaco de cerca pequena de madeira. A melhor protecao para o cercamento de um território particular!
 
 ent-FenceWoodHighCorner = {ent-BaseFenceWood}
     .desc = {ent-BaseFenceWood.desc}
@@ -14777,7 +14777,7 @@ ent-FenceWoodSmallTJunction = {ent-BaseFenceWoodSmall}
 # From: Entities/Structures/Walls/girders.yml
 
 ent-ClockworkGirder = engrenagem de parede
-    .desc = Uma engrenagem grande com suportes de montagem para chapeamento adicional; Isto poderia ser feito em uma parede com mais chapeamento de latão.
+    .desc = Uma engrenagem grande com suportes de montagem para chapeamento adicional; Isso poderia ser feito em uma parede com mais chapeamento de latão.
 
 ent-Girder = viga
     .desc = Uma grande montagem estrutural feita de metal; Requer uma camada de metal antes que possa ser considerada uma parede.
@@ -17411,7 +17411,7 @@ ent-PaperWrittenCombatBakeryKit = instruções do kit de padaria de combate
 # From: Entities/Clothing/Back/backpacks.yml
 
 ent-ClothingBackpack = mochila
-    .desc = Você usa isto nas suas costas e coloca itens dentro.
+    .desc = Você usa isso nas suas costas e coloca itens dentro.
 
 ent-ClothingBackpackAtmospherics = mochila atmosférica
     .desc = É uma mochila feita de fibras resistentes ao fogo. Cheira a plasma.
@@ -17622,7 +17622,7 @@ ent-ClothingBackpackSatchelVirology = maleta de virologia
 
 ent-ClothingBackpackChameleon = mochila
     .suffix = Camaleão
-    .desc = Você usa isto nas suas costas e coloca itens dentro.
+    .desc = Você usa isso nas suas costas e coloca itens dentro.
 
 ent-ClothingBackpackWaterTank = tanque de água de mochila
     .desc = Contém uma grande quantidade de fluidos. Abastece bicos de spray em suas mãos e tem um slot no lado para os referidos bicos de spray.
@@ -20110,21 +20110,24 @@ ent-ClothingShoesColorYellow = sapatos amarelos
 
 # From: Entities/Clothing/Shoes/magboots.yml
 
-ent-ActionToggleMagboots = Alternar Magbotas
-    .desc = Alterna as magbotas ligado e desligado.
+ent-ActionToggleMagboots = Alternar Botas Magnéticas
+    .desc = Alterna as botas magnéticas ligado e desligado.
 
-ent-ClothingShoesBootsMagAdv = magbotas avançadas
-    .desc = Magbotas de última geração que não desaceleram seu usuário.
+ent-ClothingShoesBootsMagAdv = botas magnéticas avançadas
+    .desc = Botas magnéticas de última geração que não desaceleram seu usuário.
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingShoesBootsMagBase = magbotas
+ent-ClothingShoesBootsMagBase = botas magnéticas
     .desc = Botas magnéticas, frequentemente usadas durante atividades extraveiculares para garantir que o usuário permaneça seguramente anexado ao veículo.
 
-ent-ClothingShoesBootsMagBlinding = magbotas de velocidade cegante
+ent-ClothingShoesBootsMag = {ent-ClothingShoesBootsMagBase}
+    .desc = {ent-ClothingShoesBootsMagBase.desc}
+
+ent-ClothingShoesBootsMagBlinding = botas magnéticas de velocidade cegante
     .desc = Estas ficariam lindas em um buscador como você.
 
-ent-ClothingShoesBootsMagSyndie = magbotas vermelho-sangue
+ent-ClothingShoesBootsMagSyndie = botas magnéticas vermelho-sangue
     .desc = Botas magnéticas projetadas reversamente que têm forte tração magnética e propulsores integrados. Pode conter 0,75 L de gás.
 
 # From: Entities/Clothing/Shoes/misc.yml
@@ -20919,7 +20922,7 @@ ent-ClothingRandomSpawner = roupa colorida aleatória
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingUniformRandom =
+ent-ClothingUniformRandom = ""
     .suffix = Visual aleatório
     .desc = Gerado por redes neurais baseado nas últimas tendências da moda.
 
@@ -20978,8 +20981,9 @@ ent-ClothingUniformJumpsuitChameleon = macacão preto
 
 # From: Entities/Debugging/clicktest.yml
 
-ent-ClickTestBase =
+ent-ClickTestBase = ""
     .suffix = DEBUG
+    .desc = ""
 
 ent-ClickTestFixedCornerInvisible = ClickTestFixedCornerInvisible
 
@@ -21033,8 +21037,9 @@ ent-DebugItemShapeWeird = item de forma estranha
 
 # From: Entities/Debugging/options_visualizer.yml
 
-ent-OptionsVisualizerTest =
+ent-OptionsVisualizerTest = ""
     .suffix = DEBUG
+    .desc = ""
 
 # From: Entities/Debugging/spanisharmyknife.yml
 
@@ -22422,7 +22427,7 @@ ent-MobSnake = cobra
 # From: Entities/Mobs/NPCs/argocyte.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMobArgocyte =
+ent-BaseMobArgocyte = ""
     .suffix = IA
     .desc = Um alienígena perigoso encontrado no lado errado dos planetas, conhecido por sua propensão a mastigar ruínas.
 
@@ -22976,11 +22981,11 @@ ent-AdminObserver = observador administrativo
 
 # From: Entities/Mobs/Player/arachnid.yml
 
-ent-MobArachnid = Enzo Teia da Silva
+ent-MobArachnid = {ent-BaseMobArachnid}
 
 # From: Entities/Mobs/Player/diona.yml
 
-ent-MobDiona = Enzo Planta da Silva
+ent-MobDiona = {ent-BaseMobDiona}
 
 ent-MobDionaReformed = Diona Reformada
 
@@ -23013,7 +23018,7 @@ ent-MobDragonRiftless = {ent-BaseMobDragon}
 
 # From: Entities/Mobs/Player/dwarf.yml
 
-ent-MobDwarf = Enzo Mãos da Silva O Anão
+ent-MobDwarf = {ent-BaseMobDwarf}
 
 # From: Entities/Mobs/Player/familiars.yml
 
@@ -23021,18 +23026,20 @@ ent-MobBatRemilia = Remilia
     .desc = O familiar do capelão. Gosta de frutas.
 
 ent-MobCorgiCerberus = Cérbero
-    .desc = Este cachorro não é wholesome.
+    .desc = Este cachorro não é bem amigável.
 
 # From: Entities/Mobs/Player/gingerbread.yml
 
-ent-MobGingerbread = Enzo Biscoito da Silva
+ent-MobGingerbread = {ent-BaseMobGingerbread}
 
-ent-MobGingerbreadAI = homem de biscoito de gengibre
+ent-MobGingerbreadAI = {ent-MobGingerbread}
+    .suffix = IA
+    .desc = Boneco de biscoito com uma IA integrada.
 
 # From: Entities/Mobs/Player/guardian.yml
 
 ent-ActionToggleGuardian = Alternar Guardião
-    .desc = Manifesta o guardião ou o recolta de volta ao seu corpo
+    .desc = Manifesta o guardião ou o recolhe de volta ao seu corpo
 
 # Abstract entity (referenceable by children)
 
@@ -25359,7 +25366,7 @@ ent-FoodBurgerBear = bearger
     .desc = Melhor servido rawr.
 
 ent-FoodBurgerBig = big bite burger
-    .desc = Esqueça o Big Mac. ISTO é o futuro!
+    .desc = Esqueça o Big Mac. ISSO é o futuro!
 
 ent-FoodBurgerBrain = hambúrguer de cérebro
     .desc = Um hambúrguer estranho. Parece quase senciente.
@@ -26442,7 +26449,7 @@ ent-FoodPacketSyndiTrash = caixa de syndi-cakes
 # Abstract entity (referenceable by children)
 
 ent-FoodPacketTrash = ""
-    .desc = Isto é lixo.
+    .desc = Isso é lixo.
 
 ent-FoodSnackBoritos = boritos
     .desc = Chips de tortilla crocantes e salgados. Você provavelmente pode fazer nachos com estes.
@@ -27890,7 +27897,7 @@ ent-HandTeleporterAdmeme = teleporte interdimensional
 
 # From: Entities/Objects/Devices/holoprojectors.yml
 
-ent-HolofanProjector = projetor de holofã
+ent-HolofanProjector = projetor de holofan
     .desc = Impede que passageiros suicidas matem todos durante emergências atmosféricas.
 
 ent-HolofanProjectorEmpty = {ent-HolofanProjector}
