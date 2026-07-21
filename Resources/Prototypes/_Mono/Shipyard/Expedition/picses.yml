@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Picses
-  mapName: 'Picses'
+  mapName: gamemap-Picses-name
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/picses.yml
   minPlayers: 0
   stations:

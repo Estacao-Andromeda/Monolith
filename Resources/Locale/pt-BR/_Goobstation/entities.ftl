@@ -122,7 +122,7 @@ ent-ClothingModsuitBase = Unidade de Controle de Traje MOD
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
 ent-ClothingModsuitCaptain = Unidade de Controle de Traje MOD Magnata
-    .desc = Uma traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
+    .desc = Um traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
 
 ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
     .desc = {ent-ClothingModsuitCaptain.desc}
@@ -254,7 +254,7 @@ ent-ClothingModsuitGauntletsStandard = Manoplas de Roupa Modular Padrão
 ent-ClothingHeadHelmetHardsuitChronolegioneer = Capacete Futurista
     .desc = O capacete dos lutadores do futuro, projetado para operações especiais de fluxo temporal
 
-ent-ClothingHeadHelmetHardsuitCybersunStealth = Capacete de Traje rígido Furtiva Cybersun
+ent-ClothingHeadHelmetHardsuitCybersunStealth = Capacete rígido Furtiva Cybersun
     .suffix = Furtivo
     .desc = Um capacete com blindagem para operações furtivas.
 
@@ -323,11 +323,11 @@ ent-ClothingOuterArmourInvisibleChameleon = Armadura Encoberta Camaleão
 # From: _Goobstation/Entities/Clothing/OuterClothing/hardsuits.yml
 
 ent-ClothingOuterHardsuitChronolegioneer = Traje rígido Futurista
-    .desc = Uma traje rígido coberta com um material desconhecido que protege contra a maioria dos danos materiais e temporais
+    .desc = Um traje rígido coberta com um material desconhecido que protege contra a maioria dos danos materiais e temporais
 
 ent-ClothingOuterHardsuitCybersunStealth = Traje rígido Furtiva Cybersun
     .suffix = Furtivo
-    .desc = Uma traje rígido com blindagem furtiva para operações, o escudo não funciona enquanto você está se movendo! Precisa do capacete para completar o campo de furtividade.
+    .desc = Um traje rígido com blindagem furtiva para operações, o escudo não funciona enquanto você está se movendo! Precisa do capacete para completar o campo de furtividade.
 
 # From: _Goobstation/Entities/Clothing/OuterClothing/modsuit.yml
 
@@ -1106,17 +1106,17 @@ ent-StasiziumAutoInjector = Caneta-Medicamentos Futurista
 
 # From: _Goobstation/Entities/Objects/Specific/Misc/voidsuitselectors.yml
 
-ent-UndeterminedVoidsuitEngineer = Seletor de Roupa de Vácuo de Engenheiro
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
+ent-UndeterminedVoidsuitEngineer = Seletor de Traje Espacial de Engenheiro
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
 
-ent-UndeterminedVoidsuitHeadOfSecurity = Seletor de Roupa de Vácuo do Chefe de Segurança
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
+ent-UndeterminedVoidsuitHeadOfSecurity = Seletor de Traje Espacial do Chefe de Segurança
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
 
-ent-UndeterminedVoidsuitParamedic = Seletor de Roupa de Vácuo de Paramédico
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
+ent-UndeterminedVoidsuitParamedic = Seletor de Traje Espacial de Paramédico
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
 
-ent-UndeterminedVoidsuitSecurity = Seletor de Roupa de Vácuo de Segurança
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
+ent-UndeterminedVoidsuitSecurity = Seletor de Traje Espacial de Segurança
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
 
 # From: _Goobstation/Entities/Objects/Specific/rehydrateable.yml
 

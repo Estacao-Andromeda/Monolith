@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Syringe
-  mapName: 'Syringe'
+  mapName: gamemap-Syringe-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/syringe.yml
   minPlayers: 0
   stations:

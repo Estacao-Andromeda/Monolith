@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Eris
-  mapName: 'PDV Eris'
+  mapName: gamemap-Eris-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/eris.yml
   minPlayers: 0
   stations:

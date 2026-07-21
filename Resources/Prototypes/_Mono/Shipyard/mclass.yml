@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: MClass
-  mapName: 'TSF-SKR M-Class Salvage Carrier'
+  mapName: gamemap-MClass-name
   mapPath: /SharedMaps/_Mono/Shuttles/mclass.yml
   minPlayers: 0
   stations:

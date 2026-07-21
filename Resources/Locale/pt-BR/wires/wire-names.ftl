@@ -43,6 +43,8 @@ wires-board-name-jukebox = Jukebox
 wires-board-name-computer = Computador
 wires-board-name-holopad = Holopad
 wires-board-name-barsign = Placa de Bar
+wires-board-name-weapon-energy-turret = Torreta
+wires-board-name-turret-controls = Painel de Controle de Torretas
 
 # names that get displayed in the wire hacking hud & admin logs.
 

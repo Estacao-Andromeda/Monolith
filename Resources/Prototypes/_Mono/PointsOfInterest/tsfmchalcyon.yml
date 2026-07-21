@@ -13,7 +13,7 @@
 - type: pointOfInterest
   id: TSFMCHalcyon
   parent: [BasePOI, BaseRepairablePOI]
-  name: 'TSFMC Flagship Halcyon'
+  name: poi-TSFMCHalcyon-name
   minimumDistance: 4500 # Mono
   maximumDistance: 5500 # Mono
   spawnGamePreset: [ NFAdventure, NFPirate, MonoStandard, MonoRogueTSF, MonoTSFUSSP, MonoADS, MonoChimera, MonoMixed, MonoAllAtOnce ]
@@ -35,7 +35,7 @@
 
 - type: gameMap
   id: TSFMCHalcyon
-  mapName: 'TSFMC Flagship Halcyon'
+  mapName: gamemap-TSFMCHalcyon-name
   mapPath: /Maps/_Mono/POI/tsfmchalcyon.yml
   minPlayers: 0
   randomRotation: false
@@ -76,7 +76,7 @@
 - type: pointOfInterest
   id: TSFMCHalcyonHyperwar
   parent: [BasePOI, BaseRepairablePOI]
-  name: 'TSFMC Flagship Halcyon'
+  name: poi-TSFMCHalcyonHyperwar-name
   minimumDistance: 4500
   maximumDistance: 5500
   spawnGamePreset: [ MonoRogueTSFHyperwar ]
@@ -91,7 +91,7 @@
 
 - type: gameMap
   id: TSFMCHalcyonHyperwar
-  mapName: 'TSFMC Flagship Halcyon'
+  mapName: gamemap-TSFMCHalcyonHyperwar-name
   mapPath: /Maps/_Mono/POI/tsfmchalcyon_hw.yml
   minPlayers: 0
   randomRotation: false

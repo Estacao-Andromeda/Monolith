@@ -52,7 +52,7 @@ ent-ActionMechOpenUI = Painel de Controle
     .desc = Abre o painel de controle do mecha
 
 ent-ActionRadarUiButton = Scanner de Massa
-    .desc = Varre a área ao redor em busca de assinaturas de massa
+    .desc = Varre a área ao redor em busca de sinais de massa
 
 # From: Actions/ninja.yml
 
@@ -15466,11 +15466,11 @@ ent-ClothingBeltMartialBlack = faixa preta
 
 # From: Nyanotrasen/Entities/Clothing/Head/hardsuit-helmets.yml
 
-ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = capacete de traje rígido de combate SA-127
-    .desc = Um capacete de traje rígido de assalto feito com um polímero translúcido ultra-secreto.
+ent-ClothingHeadHelmetHardsuitJuggernautReverseEngineered = capacete rígido de combate SA-127
+    .desc = Um capacete rígido de assalto feito com um polímero translúcido ultra-secreto.
 
-ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = capacete de traje rígido de combate SA-123
-    .desc = Um capacete de traje rígido avançado projetado para trabalho em operações especiais.
+ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = capacete rígido de combate SA-123
+    .desc = Um capacete rígido avançado projetado para trabalho em operações especiais.
 
 # From: Nyanotrasen/Entities/Clothing/Head/hats.yml
 
@@ -16605,10 +16605,10 @@ ent-CrateCybersunJuggernautBundle = pacote de jugernaute Cybersun
     .suffix = Preenchida
     .desc = Contém tudo, exceto uma arma grande para se tornar violento.
 
-ent-CrateSyndicateSuperSurplusBundle = caixa de super excedente Sindicato
+ent-CrateSyndicateSuperSurplusBundle = caixa super surplus do Sindicato
     .desc = Contém 600 telecristais de itens completamente aleatórios do Sindicato.
 
-ent-CrateSyndicateSurplusBundle = caixa de excedente Sindicato
+ent-CrateSyndicateSurplusBundle = caixa surplus do Sindicato
     .desc = Contém 250 telecristais de itens completamente aleatórios do Sindicato. Pode ser lixo inútil ou algo realmente bom.
 
 # From: Catalog/Fills/Crates/vending.yml
@@ -17199,7 +17199,7 @@ ent-LockerBotanistFilled = {ent-LockerBotanist}
 
 ent-LockerBotanistLoot = {ent-LockerBotanist}
     .desc = {ent-LockerBotanist.desc}
-    .suffix = Saque
+    .suffix = Loot
 
 # From: Catalog/Fills/Lockers/space_ruin.yml
 
@@ -18138,7 +18138,7 @@ ent-ClothingHeadEVAHelmetBase = capacete espacial base
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingHeadHardsuitBase = capacete de traje rígido base
+ent-ClothingHeadHardsuitBase = capacete rígido base
 
 # Abstract entity (referenceable by children)
 
@@ -18151,7 +18151,7 @@ ent-ClothingHeadLightBase = capacete base com luz
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingHeadSuitWithLightBase = capacete de traje rígido base com luz
+ent-ClothingHeadSuitWithLightBase = capacete rígido base com luz
 
 # From: Entities/Clothing/Head/eva-helmets.yml
 
@@ -18201,96 +18201,96 @@ ent-ClothingHeadHatHardhatYellowDark = capacete de segurança amarelo escuro
 ent-ClothingHeadHelmetCBURN = capacete de exoesqueleto CBURN
     .desc = Um capuz resistente à pressão e à prova de fogo usado por unidades especiais de limpeza.
 
-ent-ClothingHeadHelmetHardsuitAtmos = capacete de rígido atmosférico
-    .desc = Um capacete de rígido especial projetado para trabalhar em ambientes de baixa pressão e alta temperatura.
+ent-ClothingHeadHelmetHardsuitAtmos = capacete rígido atmosférico
+    .desc = Um capacete rígido especial projetado para trabalhar em ambientes de baixa pressão e alta temperatura.
 
-ent-ClothingHeadHelmetHardsuitBasic = capacete de rígido básico
-    .desc = Um capacete de rígido de aparência básica que oferece proteção menor contra a maioria das fontes de dano.
+ent-ClothingHeadHelmetHardsuitBasic = capacete rígido básico
+    .desc = Um capacete rígido de aparência básica que oferece proteção menor contra a maioria das fontes de dano.
 
-ent-ClothingHeadHelmetHardsuitBrigmedic = capacete de rígido de médico de brigada
+ent-ClothingHeadHelmetHardsuitBrigmedic = capacete rígido de médico de brigada
     .desc = O capacete leve do rígido de médico de brigada. Protege contra vírus e palhaços.
 
-ent-ClothingHeadHelmetHardsuitCap = capacete de rígido do capitão
-    .desc = Capacete de rígido especial, feito para o capitão da estação.
+ent-ClothingHeadHelmetHardsuitCap = capacete rígido do capitão
+    .desc = capacete rígido especial, feito para o capitão da estação.
 
-ent-ClothingHeadHelmetHardsuitClown = capacete de rígido de palhaço
-    .desc = Um capacete de rígido de palhaço.
+ent-ClothingHeadHelmetHardsuitClown = capacete rígido de palhaço
+    .desc = Um capacete rígido de palhaço.
 
 ent-ClothingHeadHelmetHardsuitCybersun = capacete de tanque da Cybersun
     .desc = Feito de matéria vermelha comprimida, este capacete foi projetado na instalação da cromosfera Tau.
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = capacete de rígido de esquadrão da morte
+ent-ClothingHeadHelmetHardsuitDeathsquad = capacete rígido de esquadrão da morte
     .desc = Um capacete robusto para operações especiais.
 
-ent-ClothingHeadHelmetHardsuitEngineering = capacete de rígido de engenharia
-    .desc = Um capacete de rígido de engenharia projetado para trabalhar em ambientes de baixa pressão e alta radioatividade.
+ent-ClothingHeadHelmetHardsuitEngineering = capacete rígido de engenharia
+    .desc = Um capacete rígido de engenharia projetado para trabalhar em ambientes de baixa pressão e alta radioatividade.
 
-ent-ClothingHeadHelmetHardsuitEngineeringWhite = capacete de rígido do engenheiro chefe
-    .desc = Capacete de rígido especial, feito para o engenheiro chefe da estação.
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = capacete rígido do engenheiro chefe
+    .desc = capacete rígido especial, feito para o engenheiro chefe da estação.
 
-ent-ClothingHeadHelmetHardsuitERTChaplain = capacete de rígido de capelão da ERT
-    .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTChaplain = capacete rígido de capelão da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência.
 
-ent-ClothingHeadHelmetHardsuitERTEngineer = capacete de rígido de engenheiro da ERT
-    .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTEngineer = capacete rígido de engenheiro da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência.
 
-ent-ClothingHeadHelmetHardsuitERTJanitor = capacete de rígido de zelador da ERT
-    .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTJanitor = capacete rígido de zelador da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência.
 
-ent-ClothingHeadHelmetHardsuitERTLeader = capacete de rígido de líder da ERT
-    .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTLeader = capacete rígido de líder da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência.
 
-ent-ClothingHeadHelmetHardsuitERTMedical = capacete de rígido de médico da ERT
-    .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta de emergência. Vem com um HUD médico embutido.
+ent-ClothingHeadHelmetHardsuitERTMedical = capacete rígido de médico da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência. Vem com um HUD médico embutido.
 
-ent-ClothingHeadHelmetHardsuitERTSecurity = capacete de rígido de segurança da ERT
-    .desc = Um capacete de rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTSecurity = capacete rígido de segurança da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência.
 
-ent-ClothingHeadHelmetHardsuitGoliath = capacete de rígido de golias
-    .desc = Um capacete de rígido robusto, infundido com o couro de um golias e um olho estranho e sem pestanejar cortado de sua massa.
+ent-ClothingHeadHelmetHardsuitGoliath = capacete rígido de golias
+    .desc = Um capacete rígido robusto, infundido com o couro de um golias e um olho estranho e sem pestanejar cortado de sua massa.
 
 ent-ClothingHeadHelmetHardsuitLing = capacete espacial orgânico
     .desc = Uma biomassa espacial de tecido resistente à pressão e temperatura.
 
-ent-ClothingHeadHelmetHardsuitLuxury = capacete de rígido de mineração de luxo
-    .desc = Um capacete de rígido de mineração reformado, com acolchoamento de cetim e uma antena extra (não funcional), porque você é especial.
+ent-ClothingHeadHelmetHardsuitLuxury = capacete rígido de mineração de luxo
+    .desc = Um capacete rígido de mineração reformado, com acolchoamento de cetim e uma antena extra (não funcional), porque você é especial.
 
 ent-ClothingHeadHelmetHardsuitMaxim = capacete maxim de salvagista
     .desc = Uma predição de decadência se acumula em sua mente.
 
-ent-ClothingHeadHelmetHardsuitMedical = capacete de rígido do médico chefe
-    .desc = Capacete de rígido médico leve que não restringe os movimentos da sua cabeça.
+ent-ClothingHeadHelmetHardsuitMedical = capacete rígido do médico chefe
+    .desc = capacete rígido médico leve que não restringe os movimentos da sua cabeça.
 
-ent-ClothingHeadHelmetHardsuitMime = capacete de rígido de mímico
-    .desc = Um capacete de rígido de mímico.
+ent-ClothingHeadHelmetHardsuitMime = capacete rígido de mímico
+    .desc = Um capacete rígido de mímico.
 
-ent-ClothingHeadHelmetHardsuitPirateCap = capacete de rígido do capitão pirata
+ent-ClothingHeadHelmetHardsuitPirateCap = capacete rígido do capitão pirata
     .suffix = Renegado
-    .desc = Um capacete de rígido especial, feito para o capitão de um navio pirata.
+    .desc = Um capacete rígido especial, feito para o capitão de um navio pirata.
 
 ent-ClothingHeadHelmetHardsuitPirateEVA = capacete EVA de espaço profundo
     .suffix = Renegado
     .desc = Um capacete EVA de espaço profundo, muito pesado, mas oferece boa proteção.
 
-ent-ClothingHeadHelmetHardsuitRd = capacete de rígido de pesquisa experimental
-    .desc = Capacete de rígido leve que não restringe os movimentos da sua cabeça.
+ent-ClothingHeadHelmetHardsuitRd = capacete rígido de pesquisa experimental
+    .desc = capacete rígido leve que não restringe os movimentos da sua cabeça.
 
-ent-ClothingHeadHelmetHardsuitSalvage = capacete de rígido de salvagem
+ent-ClothingHeadHelmetHardsuitSalvage = capacete rígido de salvagem
     .desc = Um capacete especial projetado para trabalho em ambiente perigoso de baixa pressão. Tem blindagem reforçada para encontros com animais selvagens e dois holofotes.
 
-ent-ClothingHeadHelmetHardsuitSanta = capacete de rígido do Papai Noel
-    .desc = Um capacete de rígido festivo que oferece ao generoso presenteador proteção contra ambientes de baixa pressão.
+ent-ClothingHeadHelmetHardsuitSanta = capacete rígido do Papai Noel
+    .desc = Um capacete rígido festivo que oferece ao generoso presenteador proteção contra ambientes de baixa pressão.
 
-ent-ClothingHeadHelmetHardsuitSecurity = capacete de rígido de segurança
-    .desc = Capacete de rígido blindado para necessidades de segurança.
+ent-ClothingHeadHelmetHardsuitSecurity = capacete rígido de segurança
+    .desc = capacete rígido blindado para necessidades de segurança.
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = capacete de rígido do chefe de segurança
-    .desc = Capacete de rígido de segurança com o mais recente software secreto de HUD NT. Pertence ao Chefe de Segurança.
+ent-ClothingHeadHelmetHardsuitSecurityRed = capacete rígido do chefe de segurança
+    .desc = capacete rígido de segurança com o mais recente software secreto de HUD NT. Pertence ao Chefe de Segurança.
 
-ent-ClothingHeadHelmetHardsuitSpatio = capacete de rígido de espacionauta
+ent-ClothingHeadHelmetHardsuitSpatio = capacete rígido de espacionauta
     .desc = Um capacete robusto projetado para operações industriais complexas no espaço.
 
-ent-ClothingHeadHelmetHardsuitSyndie = capacete de rígido vermelho-sangue
+ent-ClothingHeadHelmetHardsuitSyndie = capacete rígido vermelho-sangue
     .desc = Um capacete pesadamente blindado projetado para trabalho em operações especiais. Propriedade dos Saqueadores Gorlex.
 
 ent-ClothingHeadHelmetHardsuitSyndieCommander = capacete de comandante do Sindicato
@@ -18299,13 +18299,13 @@ ent-ClothingHeadHelmetHardsuitSyndieCommander = capacete de comandante do Sindic
 ent-ClothingHeadHelmetHardsuitSyndieElite = capacete de elite do Sindicato
     .desc = Uma versão de elite do capacete do rígido vermelho-sangue, com blindagem e proteção contra fogo aprimoradas. Propriedade dos Saqueadores Gorlex.
 
-ent-ClothingHeadHelmetHardsuitSyndieMedic = capacete de rígido médico vermelho-sangue
-    .desc = Um capacete de rígido vermelho avançado especificamente projetado para operações de médico de campo. Vem com um HUD médico embutido.
+ent-ClothingHeadHelmetHardsuitSyndieMedic = capacete rígido médico vermelho-sangue
+    .desc = Um capacete rígido vermelho avançado especificamente projetado para operações de médico de campo. Vem com um HUD médico embutido.
 
-ent-ClothingHeadHelmetHardsuitWarden = capacete de rígido do carcereiro
+ent-ClothingHeadHelmetHardsuitWarden = capacete rígido do carcereiro
     .desc = Um capacete de distúrbios modificado. Estranhamente confortável.
 
-ent-ClothingHeadHelmetHardsuitWizard = capacete de rígido de mago
+ent-ClothingHeadHelmetHardsuitWizard = capacete rígido de mago
     .desc = Um capacete bizarro cravejado de gemas que irradia energias mágicas.
 
 # From: Entities/Clothing/Head/hats.yml
@@ -21733,7 +21733,7 @@ ent-DecalSpawnerGraffiti = {ent-DecalSpawnerBase}
 
 # From: Entities/Markers/Spawners/Random/Department/medical.yml
 
-ent-LootSpawnerMedicalClassy = spawner de saque médico
+ent-LootSpawnerMedicalClassy = spawner de loot
 
 ent-LootSpawnerMedicalMinor = spawner de suprimentos de cura
 
@@ -21751,23 +21751,23 @@ ent-LootSpawnerScienceMinor = spawner de suprimentos de ciência
 
 # From: Entities/Markers/Spawners/Random/Department/security.yml
 
-ent-LootSpawnerArmory = spawner de saque de arsenal
+ent-LootSpawnerArmory = spawner de loot
     .desc = Gera loot.
     .suffix = Armas, Armaduras
 
-ent-LootSpawnerArmoryArmorOnly = spawner de saque de arsenal
+ent-LootSpawnerArmoryArmorOnly = spawner de loot
     .desc = Gera loot.
     .suffix = Armaduras
 
-ent-LootSpawnerArmoryGunsOnly = spawner de saque de arsenal
+ent-LootSpawnerArmoryGunsOnly = spawner de loot
     .desc = Gera loot.
     .suffix = Armas
 
-ent-LootSpawnerSecurity = spawner de saque de segurança
+ent-LootSpawnerSecurity = spawner de loot
     .desc = Gera loot.
     .suffix = Equipamentos, Melhores
 
-ent-LootSpawnerSecurityBasic = spawner de saque de segurança
+ent-LootSpawnerSecurityBasic = spawner de loot
     .desc = Gera loot.
     .suffix = Equipamentos, Simples
 
@@ -21855,7 +21855,7 @@ ent-GrilleSpawner = spawner de Grade Aleatória
 
 # From: Entities/Markers/Spawners/Random/industrial.yml
 
-ent-LootSpawnerIndustrial = spawner de saque industrial
+ent-LootSpawnerIndustrial = spawner de loot
     .desc = Gera loot.
     .suffix = Ferramentas + Materiais
 
@@ -21873,23 +21873,23 @@ ent-RandomMagicBookSafe = spawner de livro mágico aleatório [seguro]
 
 # From: Entities/Markers/Spawners/Random/maintenance.yml
 
-ent-MaintenanceFluffSpawner = spawner de Saque de Manutenção
+ent-MaintenanceFluffSpawner = spawner de Loot
     .desc = Uma entidade.
     .suffix = Decoração+Roupas
 
-ent-MaintenanceInsulsSpawner = spawner de Saque de Manutenção
+ent-MaintenanceInsulsSpawner = spawner de Loot
     .desc = Uma entidade.
     .suffix = Isolantes, seguro
 
-ent-MaintenancePlantSpawner = spawner de Saque de Manutenção
+ent-MaintenancePlantSpawner = spawner de Loot
     .desc = Uma entidade.
     .suffix = Plantas
 
-ent-MaintenanceToolSpawner = spawner de Saque de Manutenção
+ent-MaintenanceToolSpawner = spawner de Loot
     .desc = Uma entidade.
     .suffix = Ferramentas+Células+Mats
 
-ent-MaintenanceWeaponSpawner = spawner de Saque de Manutenção
+ent-MaintenanceWeaponSpawner = spawner de Loot
     .desc = Uma entidade.
     .suffix = Sucata+Armas
 
@@ -21949,7 +21949,7 @@ ent-SalvageFleshSpawner = spawner de Carne de Salvagem
     .desc = Gera horrores de carne.
     .suffix = 100
 
-ent-SalvageLootSpawner = spawner de saque de salvagem
+ent-SalvageLootSpawner = spawner de loot
 
 ent-SalvageMaterialCrateSpawner = spawner de Caixote de Material de Salvagem
 
@@ -22379,6 +22379,12 @@ ent-MobMothroach = mariposa-barata
 
 ent-MobMouse = camundongo
     .desc = Squack!
+
+ent-MobMouse1 = { ent-MobMouse }
+    .desc = { ent-MobMouse.desc }
+
+ent-MobMouse2 = { ent-MobMouse }
+    .desc = { ent-MobMouse.desc }
 
 ent-MobMouseAdmeme = {ent-MobMouse}
     .desc = {ent-MobMouse.desc}
@@ -22904,9 +22910,9 @@ ent-MobSnailInstantDeath = {ent-MobSnail}
     .desc = {ent-MobSnail.desc}
     .suffix = Eliminação
 
-ent-MobSnailMoth = Snoth
+ent-MobSnailMoth = maricol
 
-ent-MobSnailSpeed = {ent-MobSnail}
+ent-MobSnailSpeed = speed
     .desc = {ent-MobSnail.desc}
     .suffix = Velocidade
 

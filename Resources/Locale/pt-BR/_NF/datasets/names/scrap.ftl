@@ -1,1 +1,1 @@
-names-scrap-dataset-1 = Abandonado
+names-scrap-dataset-1 = Nave Abandonada

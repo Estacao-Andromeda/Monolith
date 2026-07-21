@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Aldebaran
-  mapName: 'Aldebaran'
+  mapName: gamemap-Aldebaran-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/aldebaran.yml
   minPlayers: 0
   stations:

@@ -12,5 +12,9 @@ K = K
 L = L
 T = T
 Y = Y
-# não pode usar 0 mas tu ainda tá esperando, vagabundo o que tu quer que eu faça??!!!
+# não pode usar número mas tu ainda tá esperando número, vagabundo o que tu quer que eu faça??!!!
 # 0 = 0
+# 1 = 1
+# 2 = 2
+# 3 = 3
+# 4 = 4

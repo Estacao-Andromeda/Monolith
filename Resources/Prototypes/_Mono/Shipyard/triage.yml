@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Triage
-  mapName: 'MI Triage'
+  mapName: gamemap-Triage-name
   mapPath: /SharedMaps/_Mono/Shuttles/triage.yml
   minPlayers: 0
   stations:

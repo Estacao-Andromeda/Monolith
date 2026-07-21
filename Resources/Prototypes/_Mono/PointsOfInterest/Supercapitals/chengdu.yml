@@ -7,7 +7,7 @@
 - type: pointOfInterest
   id: Chengdu
   parent: [BaseMobilePOI, BaseRepairablePOI]
-  name: 'TSFN Chengdu'
+  name: poi-Chengdu-name
   minimumDistance: 4500
   maximumDistance: 5500
   spawnGamePreset: [ MonoRogueTSFHyperwar ]
@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Chengdu
-  mapName: 'TSFN Chengdu'
+  mapName: gamemap-Chengdu-name
   mapPath: /Maps/_Mono/Supercapitals/chengdu.yml
   minPlayers: 0
   stations:

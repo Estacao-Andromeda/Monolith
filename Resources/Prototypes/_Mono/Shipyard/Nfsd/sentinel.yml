@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Sentinel
-  mapName: 'Sentinel'
+  mapName: gamemap-Sentinel-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/sentinel.yml
   minPlayers: 0
   stations:

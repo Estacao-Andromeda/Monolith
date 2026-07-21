@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Vrikaash
-  mapName: 'VOX-Vrikaash'
+  mapName: gamemap-Vrikaash-name
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/vrikaash.yml
   minPlayers: 0
   stations:

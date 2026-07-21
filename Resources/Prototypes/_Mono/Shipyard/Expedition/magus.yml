@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Magus
-  mapName: 'Magus'
+  mapName: gamemap-Magus-name
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/magus.yml
   minPlayers: 0
   stations:

@@ -26,7 +26,7 @@
 
 - type: gameMap
   id: Snakelet
-  mapName: 'Snakelet'
+  mapName: gamemap-Snakelet-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/snakelet.yml
   minPlayers: 0
   stations:

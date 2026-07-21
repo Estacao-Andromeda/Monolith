@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Saintie
-  mapName: 'Saintie'
+  mapName: gamemap-Saintie-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/saintie.yml
   minPlayers: 0
   stations:

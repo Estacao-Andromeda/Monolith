@@ -1,6 +1,6 @@
 - type: gameMap
   id: MeteorArena
-  mapName: Meteor Arena
+  mapName: gamemap-MeteorArena-name
   mapPath: /Maps/Nonstations/meteor-arena.yml
   minPlayers: 0
   stations:

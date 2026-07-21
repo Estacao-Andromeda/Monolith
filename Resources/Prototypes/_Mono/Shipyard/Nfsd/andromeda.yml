@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Andromeda
-  mapName: 'Andromeda'
+  mapName: gamemap-Andromeda-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/andromeda.yml
   minPlayers: 0
   stations:

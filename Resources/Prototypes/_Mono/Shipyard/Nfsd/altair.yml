@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Altair
-  mapName: 'Altair'
+  mapName: gamemap-Altair-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/altair.yml
   minPlayers: 0
   stations:

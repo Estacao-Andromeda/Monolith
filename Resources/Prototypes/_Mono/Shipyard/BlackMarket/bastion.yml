@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Bastion
-  mapName: 'PDV Bastion'
+  mapName: gamemap-Bastion-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/bastion.yml
   minPlayers: 0
   stations:

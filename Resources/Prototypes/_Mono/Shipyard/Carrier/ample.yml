@@ -16,7 +16,7 @@
 
 - type: gameMap
   id: Ample
-  mapName: 'Ample'
+  mapName: gamemap-Ample-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/ample.yml
   minPlayers: 0
   stations:

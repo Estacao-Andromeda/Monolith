@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: McChilly
-  mapName: 'AES McChilly'
+  mapName: gamemap-McChilly-name
   mapPath: /SharedMaps/_Mono/Shuttles/mcchilly.yml
   minPlayers: 0
   stations:

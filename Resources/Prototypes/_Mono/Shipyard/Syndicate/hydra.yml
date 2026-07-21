@@ -15,7 +15,7 @@
 
 - type: gameMap
   id: Hydra
-  mapName: 'Hydra'
+  mapName: gamemap-Hydra-name
   mapPath: /SharedMaps/_Mono/Shuttles/Syndicate/hydra.yml
   minPlayers: 0
   stations:

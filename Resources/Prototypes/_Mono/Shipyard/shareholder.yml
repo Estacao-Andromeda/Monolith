@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Shareholder
-  mapName: 'DME Shareholder'
+  mapName: gamemap-Shareholder-name
   mapPath: /SharedMaps/_Mono/Shuttles/shareholder.yml
   minPlayers: 0
   stations:

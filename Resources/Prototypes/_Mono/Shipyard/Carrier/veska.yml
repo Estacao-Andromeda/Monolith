@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Veska
-  mapName: 'Veska'
+  mapName: gamemap-Veska-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/veska.yml
   minPlayers: 0
   stations:

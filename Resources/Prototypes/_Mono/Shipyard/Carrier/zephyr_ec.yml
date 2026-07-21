@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: ZephyrEC
-  mapName: 'Zephyr-EC'
+  mapName: gamemap-ZephyrEC-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/zephyr_ec.yml
   minPlayers: 0
   stations:

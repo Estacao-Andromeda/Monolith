@@ -1,4 +1,4 @@
-defusable-popup-begun ={CAPITALIZE(THE($nome))} beeps para vida; dele luz é em!
+defusable-popup-begun ={CAPITALIZE(THE($name))} beeps para vida; dele luz é em!
 defusable-popup-defuse = {CAPITALIZE(THE($name))} bipega pela última vez, enquanto a luz se apaga para sempre.
 defusable-popup-boom = {CAPITALIZE(THE($name))} ruge enquanto a bomba interna explode!
 defusable-popup-fried = {CAPITALIZE(THE($name))} faisca, mas falha em iniciar a contagem regressiva.

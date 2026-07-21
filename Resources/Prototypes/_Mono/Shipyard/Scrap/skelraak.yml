@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: skelraak
-  mapName: 'VOX-Skelraak'
+  mapName: gamemap-skelraak-name
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/skelraak.yml
   minPlayers: 0
   stations:

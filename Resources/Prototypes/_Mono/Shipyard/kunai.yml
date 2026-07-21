@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Kunai
-  mapName: 'MI-COR Kunai'
+  mapName: gamemap-Kunai-name
   mapPath: /SharedMaps/_Mono/Shuttles/kunai.yml
   minPlayers: 0
   stations:

@@ -33,10 +33,16 @@ public sealed partial class GameMapPrototype : IPrototype
     public bool RandomRotation = true;
 
     /// <summary>
+    /// Name of the map to use in generic messages, localized.
+    /// </summary>
+    [ViewVariables(VVAccess.ReadOnly)]
+    public string MapName => Loc.GetString(_mapName);
+
+    /// <summary>
     /// Name of the map to use in generic messages, like the map vote.
     /// </summary>
-    [DataField(required: true)]
-    public string MapName { get; private set; } = default!;
+    [DataField("mapName", required: true)]
+    public LocId _mapName { get; private set; } = default!;
 
     /// <summary>
     /// Relative directory path to the given map, i.e. `/Maps/saltern.yml`
@@ -60,7 +66,7 @@ public sealed partial class GameMapPrototype : IPrototype
         return new()
         {
             ID = ID,
-            MapName = MapName,
+            _mapName = _mapName,
             MapPath = mapPath,
             _stations = _stations
         };

@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Phantom
-  mapName: 'IB Phantom'
+  mapName: gamemap-Phantom-name
   mapPath: /SharedMaps/_Mono/Shuttles/phantom.yml
   minPlayers: 0
   stations:

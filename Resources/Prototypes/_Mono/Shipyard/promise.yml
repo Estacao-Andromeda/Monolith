@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Promise
-  mapName: 'DFNT Promise'
+  mapName: gamemap-Promise-name
   mapPath: /SharedMaps/_Mono/Shuttles/promise.yml
   minPlayers: 0
   stations:

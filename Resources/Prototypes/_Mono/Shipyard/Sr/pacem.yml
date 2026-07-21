@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Pacem
-  mapName: 'Pacem'
+  mapName: gamemap-Pacem-name
   mapPath: /SharedMaps/_Mono/Shuttles/pacem.yml
   minPlayers: 0
   stations:

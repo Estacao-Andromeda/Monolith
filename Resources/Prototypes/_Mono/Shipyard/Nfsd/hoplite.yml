@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: Hoplite
-  mapName: 'Hoplite'
+  mapName: gamemap-Hoplite-name
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/hoplite.yml
   minPlayers: 0
   stations:

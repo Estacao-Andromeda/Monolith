@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Valkyrie
-  mapName: 'PDW Valkyrie'
+  mapName: gamemap-Valkyrie-name
   mapPath: /SharedMaps/_Mono/Shuttles/valkyrie.yml
   minPlayers: 0
   stations:

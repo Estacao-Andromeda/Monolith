@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Fenrir
-  mapName: 'PDV Fenrir'
+  mapName: gamemap-Fenrir-name
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/fenrir.yml
   minPlayers: 0
   stations:

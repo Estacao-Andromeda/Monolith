@@ -13,14 +13,14 @@ chat-manager-admin-ooc-chat-enabled-message = Chat OOC de Admin foi habilitado.
 chat-manager-admin-ooc-chat-disabled-message = Chat OOC de Admin foi desabilitado.
 
 chat-manager-max-message-length-exceeded-message = Sua mensagem excedeu o limite de {$limit} caracteres
-chat-manager-no-headset-on-message =você don't ter um Fone de Ouvido em!
+chat-manager-no-headset-on-message = Você não está usando um fone de ouvido!
 chat-manager-no-radio-key = Nenhuma chave de rádio especificada!
-chat-manager-no-such-channel =lá é não Canal com key '{$key}'!
-chat-manager-whisper-headset-on-message =você pode't whisper no Rádio!
+chat-manager-no-such-channel = Não existe canal com chave '{$key}'!
+chat-manager-whisper-headset-on-message = Você não consegue sussurrar no rádio!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
 chat-manager-sender-announcement = Comando Central
-chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Anúncio:[/font][font size=12]
+chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} anuncia:[/font][font size=12]
                                                 {$message}[/bold][/font]
 # Einstein Engines - Language begin (changing colors for text based on language color in handler)
 # For the message in double quotes, the font/color/bold/italic elements are repeated twice, outside the double quotes and inside.

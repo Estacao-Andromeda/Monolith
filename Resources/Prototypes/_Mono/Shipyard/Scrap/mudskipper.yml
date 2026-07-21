@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Mudskipper
-  mapName: 'SKR Mudskipper'
+  mapName: gamemap-Mudskipper-name
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/mudskipper.yml
   minPlayers: 0
   stations:

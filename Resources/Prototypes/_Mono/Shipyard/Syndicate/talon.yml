@@ -15,7 +15,7 @@
 
 - type: gameMap
   id: Talon
-  mapName: 'Talon'
+  mapName: gamemap-Talon-name
   mapPath: /SharedMaps/_Mono/Shuttles/Syndicate/talon.yml
   minPlayers: 0
   stations:

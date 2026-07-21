@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Rosetta
-  mapName: 'NOV-Rosetta'
+  mapName: gamemap-Rosetta-name
   mapPath: /SharedMaps/_Mono/Shuttles/Rosetta.yml
   minPlayers: 0
   stations:

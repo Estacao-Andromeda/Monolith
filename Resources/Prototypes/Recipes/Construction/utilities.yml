@@ -395,6 +395,8 @@
 - type: construction
   id: GasPipeSensorAlt1
   hide: true
+  name: construction-GasPipeSensor-name
+  description: construction-GasPipeSensor-desc
   graph: GasPipeSensor
   startNode: start
   targetNode: sensorAlt1
@@ -418,6 +420,8 @@
 - type: construction
   id: GasPipeSensorAlt2
   hide: true
+  name: construction-GasPipeSensor-name
+  description: construction-GasPipeSensor-desc
   graph: GasPipeSensor
   startNode: start
   targetNode: sensorAlt2
@@ -460,6 +464,8 @@
 - type: construction
   id: GasPipeHalfAlt1
   hide: true
+  name: construction-GasPipeHalf-name
+  description: construction-GasPipeHalf-desc
   graph: GasPipe
   startNode: start
   targetNode: halfAlt1
@@ -477,6 +483,8 @@
 - type: construction
   id: GasPipeHalfAlt2
   hide: true
+  name: construction-GasPipeHalf-name
+  description: construction-GasPipeHalf-desc
   graph: GasPipe
   startNode: start
   targetNode: halfAlt2
@@ -512,6 +520,8 @@
 - type: construction
   id: GasPipeStraightAlt1
   hide: true
+  name: construction-GasPipeStraight-name
+  description: construction-GasPipeStraight-desc
   graph: GasPipe
   startNode: start
   targetNode: straightAlt1
@@ -529,6 +539,8 @@
 - type: construction
   id: GasPipeStraightAlt2
   hide: true
+  name: construction-GasPipeStraight-name
+  description: construction-GasPipeStraight-desc
   graph: GasPipe
   startNode: start
   targetNode: straightAlt2
@@ -564,6 +576,8 @@
 - type: construction
   id: GasPipeBendAlt1
   hide: true
+  name: construction-GasPipeBend-name
+  description: construction-GasPipeBend-desc
   graph: GasPipe
   startNode: start
   targetNode: bendAlt1
@@ -581,6 +595,8 @@
 - type: construction
   id: GasPipeBendAlt2
   hide: true
+  name: construction-GasPipeBend-name
+  description: construction-GasPipeBend-desc
   graph: GasPipe
   startNode: start
   targetNode: bendAlt2
@@ -616,6 +632,8 @@
 - type: construction
   id: GasPipeTJunctionAlt1
   hide: true
+  name: construction-GasPipeTJunction-name
+  description: construction-GasPipeTJunction-desc
   graph: GasPipe
   startNode: start
   targetNode: tjunctionAlt1
@@ -633,6 +651,8 @@
 - type: construction
   id: GasPipeTJunctionAlt2
   hide: true
+  name: construction-GasPipeTJunction-name
+  description: construction-GasPipeTJunction-desc
   graph: GasPipe
   startNode: start
   targetNode: tjunctionAlt2
@@ -668,6 +688,8 @@
 - type: construction
   id: GasPipeFourwayAlt1
   hide: true
+  name: construction-GasPipeFourway-name
+  description: construction-GasPipeFourway-desc
   graph: GasPipe
   startNode: start
   targetNode: fourwayAlt1
@@ -685,6 +707,8 @@
 - type: construction
   id: GasPipeFourwayAlt2
   hide: true
+  name: construction-GasPipeFourway-name
+  description: construction-GasPipeFourway-desc
   graph: GasPipe
   startNode: start
   targetNode: fourwayAlt2
@@ -827,6 +851,8 @@
 - type: construction
   id: GasPressurePumpAlt1
   hide: true
+  name: construction-GasPressurePump-name
+  description: construction-GasPressurePump-desc
   graph: GasBinary
   startNode: start
   targetNode: pressurepumpAlt1
@@ -851,6 +877,8 @@
 - type: construction
   id: GasPressurePumpAlt2
   hide: true
+  name: construction-GasPressurePump-name
+  description: construction-GasPressurePump-desc
   graph: GasBinary
   startNode: start
   targetNode: pressurepumpAlt2
@@ -900,6 +928,8 @@
 - type: construction
   id: GasVolumePumpAlt1
   hide: true
+  name: construction-GasVolumePump-name
+  description: construction-GasVolumePump-desc
   graph: GasBinary
   startNode: start
   targetNode: volumepumpAlt1
@@ -924,6 +954,8 @@
 - type: construction
   id: GasVolumePumpAlt2
   hide: true
+  name: construction-GasVolumePump-name
+  description: construction-GasVolumePump-desc
   graph: GasBinary
   startNode: start
   targetNode: volumepumpAlt2
@@ -973,6 +1005,8 @@
 - type: construction
   id: GasPassiveGateAlt1
   hide: true
+  name: construction-GasPassiveGate-name
+  description: construction-GasPassiveGate-desc
   graph: GasBinary
   startNode: start
   targetNode: passivegateAlt1
@@ -997,6 +1031,8 @@
 - type: construction
   id: GasPassiveGateAlt2
   hide: true
+  name: construction-GasPassiveGate-name
+  description: construction-GasPassiveGate-desc
   graph: GasBinary
   startNode: start
   targetNode: passivegateAlt2
@@ -1046,6 +1082,8 @@
 - type: construction
   id: GasPressureRegulatorAlt1
   hide: true
+  name: construction-GasPressureRegulator-name
+  description: construction-GasPressureRegulator-desc
   graph: GasBinary
   startNode: start
   targetNode: pressureregulatorAlt1
@@ -1070,6 +1108,8 @@
 - type: construction
   id: GasPressureRegulatorAlt2
   hide: true
+  name: construction-GasPressureRegulator-name
+  description: construction-GasPressureRegulator-desc
   graph: GasBinary
   startNode: start
   targetNode: pressureregulatorAlt2
@@ -1119,6 +1159,8 @@
 - type: construction
   id: GasValveAlt1
   hide: true
+  name: construction-GasValve-name
+  description: construction-GasValve-desc
   graph: GasBinary
   startNode: start
   targetNode: valveAlt1
@@ -1143,6 +1185,8 @@
 - type: construction
   id: GasValveAlt2
   hide: true
+  name: construction-GasValve-name
+  description: construction-GasValve-desc
   graph: GasBinary
   startNode: start
   targetNode: valveAlt2
@@ -1192,6 +1236,8 @@
 - type: construction
   id: SignalControlledValveAlt1
   hide: true
+  name: construction-SignalControlledValve-name
+  description: construction-SignalControlledValve-desc
   graph: GasBinary
   startNode: start
   targetNode: signalvalveAlt1
@@ -1216,6 +1262,8 @@
 - type: construction
   id: SignalControlledValveAlt2
   hide: true
+  name: construction-SignalControlledValve-name
+  description: construction-SignalControlledValve-desc
   graph: GasBinary
   startNode: start
   targetNode: signalvalveAlt2

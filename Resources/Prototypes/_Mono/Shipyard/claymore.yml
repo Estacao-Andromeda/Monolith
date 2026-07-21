@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Claymore
-  mapName: 'ZOB Claymore'
+  mapName: gamemap-Claymore-name
   mapPath: /SharedMaps/_Mono/Shuttles/claymore.yml
   minPlayers: 0
   stations:

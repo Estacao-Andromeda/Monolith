@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Dervi
-  mapName: 'NEI Dervi'
+  mapName: gamemap-Dervi-name
   mapPath: /SharedMaps/_Mono/Shuttles/dervi.yml
   minPlayers: 0
   stations:

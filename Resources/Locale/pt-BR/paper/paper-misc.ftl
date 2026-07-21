@@ -76,7 +76,7 @@ book-text-cargo-instructions = Você tentou ativar a máquina sem nenhum produto
       Para usar a máquina adequadamente, insira um dos materiais solicitados para um dispensador de porta específico com suas mãos, e a recompensa será depositada no topo da máquina.
 
       Estas caixas de carga podem ser compradas e/ou vendidas nos seguintes locais:
-      - Navegâde TSFMC Halcyon - Apenas Venda
+      - Nave almirante TSFMC Halcyon - Apenas Venda
       - Estação Camelot - Compra e Venda
       - Shopping de Comércio - Compra e Venda
       - Depósitos de Carga - Compra e Venda

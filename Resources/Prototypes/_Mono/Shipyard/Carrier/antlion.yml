@@ -17,7 +17,7 @@
 
 - type: gameMap
   id: Antlion
-  mapName: 'Antlion'
+  mapName: gamemap-Antlion-name
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/antlion.yml
   minPlayers: 0
   stations:

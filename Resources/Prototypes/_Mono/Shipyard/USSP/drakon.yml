@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Drakon
-  mapName: 'Drakon'
+  mapName: gamemap-Drakon-name
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/drakon.yml
   minPlayers: 0
   stations:

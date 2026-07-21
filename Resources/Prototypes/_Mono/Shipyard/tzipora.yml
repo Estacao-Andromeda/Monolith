@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Tzipora
-  mapName: 'SKR Tzipora'
+  mapName: gamemap-Tzipora-name
   mapPath: /SharedMaps/_Mono/Shuttles/tzipora.yml
   minPlayers: 0
   stations:

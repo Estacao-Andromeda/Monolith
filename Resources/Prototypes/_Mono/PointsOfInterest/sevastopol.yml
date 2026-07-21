@@ -10,7 +10,7 @@
 - type: pointOfInterest
   id: Sevastopol
   parent: BasePOI
-  name: 'Sevastopol Data Storage Center'
+  name: poi-Sevastopol-name
   minimumDistance: 3500
   maximumDistance: 7500
   spawnGroup: Required
@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Sevastopol
-  mapName: 'Sevastopol Data Storage Center'
+  mapName: gamemap-Sevastopol-name
   mapPath: /Maps/_Mono/POI/sevastopol.yml
   minPlayers: 0
   stations:

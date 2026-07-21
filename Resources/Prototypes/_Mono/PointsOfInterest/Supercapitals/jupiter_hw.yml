@@ -7,7 +7,7 @@
 - type: pointOfInterest
   id: Jupiter_HW
   parent: [BaseMobilePOI, BaseRepairablePOI]
-  name: 'PDV Jupiter'
+  name: poi-Jupiter_HW-name
   minimumDistance: 12000
   maximumDistance: 15000
   spawnGamePreset: [ MonoRogueTSFHyperwar ]
@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Jupiter_HW
-  mapName: 'PDV Jupiter'
+  mapName: gamemap-Jupiter_HW-name
   mapPath: /Maps/_Mono/Supercapitals/jupiter_hw.yml
   minPlayers: 0
   stations:

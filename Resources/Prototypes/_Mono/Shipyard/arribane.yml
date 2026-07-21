@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Arribane
-  mapName: 'HES Arribane'
+  mapName: gamemap-Arribane-name
   mapPath: /SharedMaps/_Mono/Shuttles/arribane.yml
   minPlayers: 0
   stations:
