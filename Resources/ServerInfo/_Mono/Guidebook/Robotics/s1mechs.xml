@@ -1,9 +1,9 @@
 <Document>
-#Series 1 Combat Mechs
+#Mecha de Combate Série 1
 
-  The cheapest and most frequently deployed Mechs, most often utilized as a suit of Powered Armor for infantry conflicts and boarding actions.
+  Os Mechas mais baratos e frequentemente implantados, geralmente utilizados como uma armadura energizada para conflitos de infantaria e ações de abordagem.
 
-  All S1 Mechs are space insulated, provide breathable atmosphere, and have maneuvering jets.
+  Todos os Mechas S1 são isolados para o espaço, fornecem atmosfera respirável e possuem jatos de manobra.
 
   <Box>
     <GuideEntityEmbed Entity="MechGygax"/>
@@ -12,48 +12,48 @@
 
 ##Gygax
 
-The Gygax is a fast, lightly-armored strike platform. It is vulnerable to handheld weaponry, but provides its operator protection from common combat injuries.
+O Gygax é uma plataforma de ataque rápida e levemente blindada. É vulnerável a armas portáteis, mas fornece ao seu operador proteção contra ferimentos comuns de combate.
 
 ##Durand
 
-The Durand is a slow, lumbering, heavily armored tank. It is vulnerable to concentrated fire but is durable enough to walk off injuries that would disable or destroy a Gygax.
+O Durand é um tanque lento, pesado e pesadamente blindado. É vulnerável a fogo concentrado, mas é resistente o suficiente para suportar ferimentos que desabilitariam ou destruiriam um Gygax.
 
-##Weaponry
+##Armamentos
   <Box>
     <GuideEntityEmbed Entity="WeaponMechCombatUltraRifle"/>
     <GuideEntityEmbed Entity="WeaponMechCombatShotgun" Caption="LBX AC-10"/>
     <GuideEntityEmbed Entity="WeaponMechCombatShotgunIncendiary"/>
     <GuideEntityEmbed Entity="WeaponMechCombatMissileRack8"/>
   </Box>
- - The Ultra AC-2 is a highly accurate light machine gun.
- - The LBX AC-10 is a light automatic shotgun that fires standard 12-guage buckshot.
- - The FNX-99 Hades Carbine is a light automatic shotgun that fires 12-gauge incendiary shells.
- - The SRM-8 Light Missile Rack is a self-loading unguided rocket launcher useful for breaching airlock doors.
+ - O Ultra AC-2 é uma metralhadora leve de alta precisão.
+ - O LBX AC-10 é uma escopeta automática leve que dispara cartuchos de espingarda padrão calibre 12.
+ - O Carabina FNX-99 Hades é uma escopeta automática leve que dispara cartuchos incendiários calibre 12.
+ - O Lança-Foguetes Leve SRM-8 é um lançador de foguetes não guiado de recarga automática, útil para arrombar portas de esclusa.
   <Box>
     <GuideEntityEmbed Entity="WeaponMechCombatDisabler"/>
     <GuideEntityEmbed Entity="WeaponMechCombatFlashbangLauncher"/>
   </Box>
-  - The CH-PD Disabler is a mech-mounted varient of the standard handheld Disabler.
-  - The SGL-6 Flashbang Launcher does exactly what you would expect, for a surprisingly low cost.
+  - O Desabilitador CH-PD é uma variante montada em mecha do desabilitador portátil padrão.
+  - O Lançador de Granadas de Choque SGL-6 faz exatamente o que você esperaria, por um custo surpreendentemente baixo.
   <Box>
     <GuideEntityEmbed Entity="WeaponMechCombatFiredartLaser"/>
     <GuideEntityEmbed Entity="WeaponMechCombatSolarisLaser"/>
     <GuideEntityEmbed Entity="WeaponMechCombatImmolationGun"/>
   </Box>
-  - The CH-PS Firedart is the mech-mounted equivalent to a Makeshift Laser Pistol.
-  - The CH-LC Solaris is equivalent to a standard Laser Rifle.
-  - The ZFI Immolation Beam Gun is equivalent to a Laser Cannon.
+  - O CH-PS Firedart é o equivalente montado em mecha de uma Pistola Laser Improvisada.
+  - O CH-LC Solaris é equivalente a um Rifle Laser Padrão.
+  - A Pistola de Feixe de Imolação ZFI é equivalente a um Canhão Laser.
 
 
-##Syndicate Mechs
+##Mechas do Sindicato
 
-The [color=crimson]Syndicate[/color] created variations of the standard powered armor Mechs which were provided to Nuclear Operatives in their station-destroying operations. These can still rarely be found deployed in the Colossus Sector.
+O [color=crimson]Sindicato[/color] criou variações dos mechas de armadura energizada padrão que foram fornecidos aos Operacionais Nucleares em suas operações de destruição de estações. Estes ainda podem ser raramente encontrados implantados no Setor Colossus.
 
   <Box>
     <GuideEntityEmbed Entity="MechGygaxSyndie"/>
     <GuideEntityEmbed Entity="MechMaulerSyndie"/>
   </Box>
 
-  These mechs are invariably better than the standard-issue versions, featuring significant improvements to armor plating and an expanded equipment capacity.
+  Estes mechas são invariavelmente melhores que as versões padrão, apresentando melhorias significativas na blindagem e uma capacidade de equipamento expandida.
 
 </Document>

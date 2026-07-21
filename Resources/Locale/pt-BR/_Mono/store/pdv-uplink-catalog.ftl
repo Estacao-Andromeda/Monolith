@@ -207,11 +207,11 @@ uplink-pirate-blast-grenade-desc = Uma granada termobárica 40mm altamente letal
 uplink-pirate-combat-hardsuit-name = Traje Tático SCAF
 uplink-pirate-combat-hardsuit-desc = Equipamento protetor básico de grupos militares PDV.
 
-uplink-pirate-viper-group-standard-hardsuit-name = Traje Duro JACKAL Grupo Víbora
-uplink-pirate-viper-group-standard-hardsuit-desc = Um traje duro pesado adornado com marcações assinatura do Grupo Víbora. A armadura é notavelmente flexível para sua proteção e tem um sistema de visão noturna embutido.
+uplink-pirate-viper-group-standard-hardsuit-name = Traje Rígido JACKAL Grupo Víbora
+uplink-pirate-viper-group-standard-hardsuit-desc = Um traje rígido pesado adornado com marcações assinatura do Grupo Víbora. A armadura é notavelmente flexível para sua proteção e tem um sistema de visão noturna embutido.
 
-uplink-pirate-viper-group-medic-hardsuit-name = Traje Duro IMP Grupo Víbora
-uplink-pirate-viper-group-medic-hardsuit-desc = Um traje duro leve adornado com marcações assinatura do Grupo Víbora. A armadura apresenta várias placas reforçadas em áreas vitais e um HUD médico complementado por sistemas de pulso térmico.
+uplink-pirate-viper-group-medic-hardsuit-name = Traje Rígido IMP Grupo Víbora
+uplink-pirate-viper-group-medic-hardsuit-desc = Um traje rígido leve adornado com marcações assinatura do Grupo Víbora. A armadura apresenta várias placas reforçadas em áreas vitais e um HUD médico complementado por sistemas de pulso térmico.
 
 uplink-pirate-webvest-name = Colete Tático
 uplink-pirate-webvest-desc = Um colete tático contrabandeado para o setor que não foi rebaixado como os utilizados por empreiteiros civis. Ótima resistência à perfuração, pobre resistência ao calor.

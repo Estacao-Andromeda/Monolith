@@ -1,12 +1,12 @@
 <Document>
-  # Networking
-  On the station, devices need to communicate to each other to preform their functions.
-  [textlink="Air alarms" link="AirAlarms"] need to talk to their respective devices, [textlink="doors" link="Airlocks"] need to be linked to form proper airlocks, and much more.
+  # Rede
+  Na estação, os dispositivos precisam se comunicar entre si para desempenhar suas funções.
+  [textlink="Alarmes de ar" link="AirAlarms"] precisam se comunicar com seus respectivos dispositivos, [textlink="portas" link="Airlocks"] precisam ser interconectadas para formar portas de ar adequadas, e muito mais.
 
-  This is done through two systems, the Link system and the List system.
+  Isso é feito através de dois sistemas, o sistema de Link e o sistema de Lista.
 
-  You can use either the Multitool or Network Configurator to interact with these systems.
-  You can switch between the different systems using [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] or by hovering your cursor over the device and using [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
+  Você pode usar tanto o Multiferramenta quanto o Configurador de Rede para interagir com esses sistemas.
+  Você pode alternar entre os diferentes sistemas usando [color=yellow][bold][keybind="AltActivateItemInHand"][/bold][/color] ou posicionando o cursor sobre o dispositivo e usando [color=yellow][bold][keybind="AltActivateItemInWorld"][/bold][/color].
 
   <Box HorizontalAlignment="Stretch">
     <Box>
@@ -17,12 +17,12 @@
     </Box>
   </Box>
 
-  Some devices will require access to link devices to them.
-  For example, you need Atmospherics access to link devices to an [textlink="air alarm" link="AirAlarms"].
-  For doors, you'll need the access level of the door you're linking to.
+  Alguns dispositivos exigirão acesso para conectar dispositivos a eles.
+  Por exemplo, você precisa de acesso à Atmosfera para conectar dispositivos a um [textlink="alarme de ar" link="AirAlarms"].
+  Para portas, você precisará do nível de acesso da porta à qual está se conectando.
 
-  ## Link System
-  The link system is used for explicitly linking two devices, such as linking a door to another door.
+  ## Sistema de Link
+  O sistema de Link é usado para conectar explicitamente dois dispositivos, como conectar uma porta a outra porta.
 
   <Box>
     <GuideEntityEmbed Entity="AirlockExternal"/>
@@ -31,13 +31,13 @@
     <GuideEntityEmbed Entity="SignalButton"/>
   </Box>
 
-  Under the link system, devices have [bold]ports[/bold] that are capable of either sending or receiving signals.
+  No sistema de Link, os dispositivos possuem [bold]portas[/bold] que são capazes de enviar ou receber sinais.
 
-  Hovering over a port using your cursor will show a tooltip that tells you what the port does.
-  For example, output ports will state the conditions under which they will invoke a signal, and input ports will state what the device will do if it receives a signal.
+  Posicionar o cursor sobre uma porta mostrará uma dica que informa o que a porta faz.
+  Por exemplo, portas de saída indicarão as condições sob as quais invocarão um sinal, e portas de entrada indicarão o que o dispositivo fará se receber um sinal.
 
-  ## List System
-  The list system is used for linking multiple devices to a single primary device, such as linking multiple atmospherics devices to an air alarm.
+  ## Sistema de Lista
+  O sistema de Lista é usado para conectar múltiplos dispositivos a um único dispositivo primário, como conectar múltiplos dispositivos atmosféricos a um alarme de ar.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
@@ -47,18 +47,18 @@
     <GuideEntityEmbed Entity="Firelock" Caption=""/>
   </Box>
 
-  Each device has its own unique address, which is used to identify it in the list system. When you link a device to a primary device, you are adding the device's address to a list of devices that the primary device will communicate with.
+  Cada dispositivo tem seu próprio endereço único, que é usado para identificá-lo no sistema de Lista. Quando você conecta um dispositivo a um dispositivo primário, você está adicionando o endereço do dispositivo a uma lista de dispositivos com os quais o dispositivo primário se comunicará.
 
-  You can save a device's address to your tool by interacting with the device using [color=yellow][bold][keybind="Use"][/bold][/color].
+  Você pode salvar o endereço de um dispositivo em sua ferramenta interagindo com o dispositivo usando [color=yellow][bold][keybind="Use"][/bold][/color].
 
-  Once you have a list of devices saved to your tool, you can link them to a primary device by interacting with the primary device using [color=yellow][bold][keybind="Use"][/bold][/color], which will bring up a UI.
+  Uma vez que você tenha uma lista de dispositivos salvos em sua ferramenta, você pode conectá-los a um dispositivo primário interagindo com o dispositivo primário usando [color=yellow][bold][keybind="Use"][/bold][/color], o que abrirá uma interface.
 
-  The UI has multiple options:
-  - Set: Overwrites the current list of linked devices with the devices saved on the tool.
-  - Add: Adds the devices saved on the tool to the current list of linked devices.
-  - Clear: Removes all linked devices from the air alarm.
-  - Copy: Copies the list of currently linked devices to the tool.
-  - Show: Draws a line between the primary device and all linked devices. This is useful for visualizing the area the air alarm covers.
+  A interface possui múltiplas opções:
+  - Definir: Substitui a lista atual de dispositivos conectados com os dispositivos salvos na ferramenta.
+  - Adicionar: Adiciona os dispositivos salvos na ferramenta à lista atual de dispositivos conectados.
+  - Limpar: Remove todos os dispositivos conectados do alarme de ar.
+  - Copiar: Copia a lista de dispositivos atualmente conectados para a ferramenta.
+  - Mostrar: Desenha uma linha entre o dispositivo primário e todos os dispositivos conectados. Isso é útil para visualizar a área que o alarme de ar cobre.
 
-  If you need to clear your tool, you can press [color=yellow][bold][keybind="Use"][/bold][/color] on the tool or use [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] to bring up a list of saved devices, and then press the "Clear" button.
+  Se você precisar limpar sua ferramenta, você pode pressionar [color=yellow][bold][keybind="Use"][/bold][/color] na ferramenta ou usar [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color] para abrir uma lista de dispositivos salvos, e então pressionar o botão "Limpar".
 </Document>

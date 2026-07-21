@@ -1,78 +1,78 @@
 <Document>
-  # Armor Mechanics
+  # Mecânica de Armadura
 
-  ## Coefficient Resistance
+  ## Resistência por Coeficiente
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitM82c"/>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitPirateScaf"/>
   </Box>
 
-  Most armor found in the Colossus sector protects the wearer by reducing incoming damage through multiplying the damage by a [color=orange]coefficient[/color].
+  A maioria das armaduras encontradas no setor Colossus protege o usuário reduzindo o dano recebido através da multiplicação do dano por um [color=orange]coeficiente[/color].
 
 
-    Example: a [color=red]30[/color] pierce damage bullet hits a player wearing armor with a [color=cyan]0.6[/color] pierce coefficient (which the armor displays in game as "Reduces damage by 40%")
+    Exemplo: uma bala de [color=red]30[/color] de dano perfurante atinge um jogador usando armadura com um coeficiente de perfuração de [color=cyan]0.6[/color] (que a armadura exibe no jogo como "Reduz o dano em 40%")
 
-    Calculation: [color=orange]30 * 0.6 = 18[/color]
+    Cálculo: [color=orange]30 * 0.6 = 18[/color]
 
-    Thus the armor wearer ultimately recieves [color=red]18[/color] pierce damage (or the base damage reduced by 40%, as is stated in the armor description.)
-
-
-  This can become more complicated, though, when a player is wearing multiple items that grant it armor protection.
-  In such an example, armor resistance is *not* additive - instead, it is multiplicative as so:
+    Assim, o usuário da armadura recebe [color=red]18[/color] de dano perfurante (ou o dano base reduzido em 40%, conforme declarado na descrição da armadura.)
 
 
-    Example: [color=red]30[/color] pierce damage bullet hits a player wearing three pieces of armor, each with a [color=cyan]0.6[/color] pierce damage coefficient.
+  Isso pode se tornar mais complicado, porém, quando um jogador está usando múltiplos itens que concedem proteção de armadura.
+  Nesse caso, a resistência da armadura *não* é aditiva - em vez disso, é multiplicativa da seguinte forma:
 
-    Calculation: [color=orange](((30 * 0.6) * 0.6) * 0.6) = 6.48, [/color]or[color=orange] 30 * 0.6 = 18... 18 * 0.6 = 10.8... 10.8 * 0.6 = 6.48[/color]
 
-    Thus the armor wearer ultimately recieves [color=red]6.48[/color] pierce damage.
+    Exemplo: uma bala de [color=red]30[/color] de dano perfurante atinge um jogador usando três peças de armadura, cada uma com um coeficiente de dano perfurante de [color=cyan]0.6[/color].
 
-  ## Conventional Shields
+    Cálculo: [color=orange](((30 * 0.6) * 0.6) * 0.6) = 6,48, [/color]ou[color=orange] 30 * 0.6 = 18... 18 * 0.6 = 10,8... 10,8 * 0.6 = 6,48[/color]
+
+    Assim, o usuário da armadura recebe [color=red]6,48[/color] de dano perfurante.
+
+  ## Escudos Convencionais
 
   <Box>
     <GuideEntityEmbed Entity="RiotShield"/>
   </Box>
 
-  Handheld shields function similarly to "normal" armor, in that they use a coefficient to provide resistance. However, their main distinction comes from the fact that they have a seperate health pool and resistances from the player, that a percent of damage taken by the holder can be routed to.
-  If this health pool runs out, conventional shields will usually enter a "broken" state, where they lose functionality.
+  Escudos manuais funcionam de forma similar à armadura "normal", pois usam um coeficiente para fornecer resistência. No entanto, sua principal distinção vem do fato de que possuem um pool de saúde e resistências separados do jogador, para o qual uma porcentagem do dano recebido pelo portador pode ser redirecionada.
+  Se este pool de saúde se esgotar, os escudos convencionais geralmente entrarão em um estado "quebrado", onde perdem a funcionalidade.
 
 
-    Example: a [color=red]30[/color] pierce damage bullet hits a player holding a shield that absorbs [color=cyan]50%[/color] of incoming damage.
+    Exemplo: uma bala de [color=red]30[/color] de dano perfurante atinge um jogador segurando um escudo que absorve [color=cyan]50%[/color] do dano recebido.
 
-    50% of damage is applied to the shield's health pool, and the rest is applied to the player (and then subjected to their armor calculations.)
+    50% do dano é aplicado ao pool de saúde do escudo, e o restante é aplicado ao jogador (e então submetido aos seus cálculos de armadura.)
 
-    Thus the shield wielded ultimately recieves [color=red]15[/color] pierce damage, and the shield recieves 15 damage.
+    Assim, o portador do escudo recebe [color=red]15[/color] de dano perfurante, e o escudo recebe 15 de dano.
 
-    Shields also usually have normal Coefficient resistance but it only defends the shield's health. This effectively increases the shield's effective health pool, by making it take less damage from certain sources.
+    Escudos também geralmente têm resistência normal por Coeficiente, mas isso só defende a saúde do escudo. Isso efetivamente aumenta o pool de saúde efetivo do escudo, fazendo com que ele receba menos dano de certas fontes.
 
 
-  ## Energy Shields
+  ## Escudos de Energia
 
   <Box>
     <GuideEntityEmbed Entity="EnergyShield"/>
   </Box>
 
-  Energy shields function very similarly to conventional shields. Their main difference comes from the fact that they usually operate using an internal battery that can recharge over time. This really only means that they have health regeneration.
+  Escudos de energia funcionam de forma muito similar aos escudos convencionais. Sua principal diferença vem do fato de que geralmente operam usando uma bateria interna que pode recarregar com o tempo. Isso realmente significa apenas que eles têm regeneração de saúde.
 
-  When their energy runs out (either due to EMP or damage taken), they will shut down and stop protecting the wielder until their battery is fully charged.
+  Quando sua energia acaba (seja por EMP ou dano recebido), eles desligarão e pararão de proteger o portador até que sua bateria esteja totalmente carregada.
 
-  ## Reflection
+  ## Reflexão
 
   <Box>
     <GuideEntityEmbed Entity="WeaponHFKatana"/>
   </Box>
 
-  A few shields (and weapons) have the ability to reflect incoming projectiles (usually lasers). When this occurs (with a chance per projectile depending on the item stats) damage is not recieved and the projectile is reflected back with a random direction offset.
+  Alguns escudos (e armas) têm a habilidade de refletir projéteis recebidos (geralmente lasers). Quando isso ocorre (com uma chance por projétil dependendo dos estatísticas do item) o dano não é recebido e o projétil é refletido de volta com um desvio de direção aleatório.
 
-  ## Shielded Armor
+  ## Armaduras com Escudo
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitAshenElite"/>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitNfsdExperimental"/>
   </Box>
 
-  Some armors have energy shields built in. These follow the same mechanics as energy shields, with their battery counting as the shields' health pool.
-  To activate their shield, alt-click the armor while it is equipped, or toggle it in the right-click context menu.
+  Algumas armaduras possuem escudos de energia embutidos. Estes seguem as mesmas mecânicas dos escudos de energia, com sua bateria contando como o pool de saúde dos escudos.
+  Para ativar o escudo, alt-clique na armadura enquanto ela estiver equipada, ou alterne no menu de contexto do clique direito.
 
 </Document>

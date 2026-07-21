@@ -5,28 +5,28 @@
     <GuideEntityEmbed Entity="MobRodentiaDummy" Caption=""/>
   </Box>
 
-  Rodentia are a race of humanoid beings resembling rodents. Resourceful, evasive, sneaky, but fragile.
+  Rodentia são uma raça de seres humanoides que se assemelham a roedores. Recursos, evasivos, sorrateiros, mas frágeis.
 
-  ## Diet
+  ## Dieta
 
-  - Can eat raw meat.
-  - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
+  - Pode comer carne crua.
+  - Envenena-se com Teobromina (Chocolate, Chá, Café) e Alicina (Cebola, Alho).
 
-  ## Benefits
+  ## Benefícios
 
-  - Uses their claws to do some Slashing and Blunt damage.
-  - Smaller than humans.
-  - Can fit in duffelbags.
+  - Usa suas garras para causar dano Cortante e Contundente.
+  - Menor que humanos.
+  - Pode caber em bolsas de transporte.
 
-  ## Special
+  ## Especial
 
-  - Can Rummage in disposal chutes, which can dig up trash.
-  - Can "sneak" underneath tables, but not doors.
+  - Pode Revirar chutes de lixo, o que pode desenterrar lixo.
+  - Pode "esgueirar-se" por baixo de mesas, mas não de portas.
 
-  ## Drawbacks
+  ## Desvantagens
 
-  - Takes 30% more Blunt damage, and 15% more Slash and Piercing damage.
-  - Always triggers mousetraps, regardless of whether or not they are wearing shoes.
-  - Gets hungry 33% faster.
+  - Recebe 30% mais dano Contundente, e 15% mais dano Cortante e Perfurante.
+  - Sempre ativa ratoeiras, independentemente de estar ou não usando sapatos.
+  - Fica com fome 33% mais rápido.
 
 </Document>

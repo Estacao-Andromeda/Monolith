@@ -1,64 +1,64 @@
 ﻿<Document>
-  # Air Vent
-  The air vent is a standard vent, found in all rooms that you want to pressurize with a breathable atmosphere.
-  Its primary job is to transfer gasses into the atmosphere it's exposed to until it reaches a set pressure.
+  # Duto de Ar
+  O duto de ar é um duto padrão, encontrado em todos os cômodos que você deseja pressurizar com uma atmosfera respirável.
+  Sua função principal é transferir gases para a atmosfera na qual está exposto até atingir uma pressão definida.
 
   <Box>
     <GuideEntityEmbed Entity="GasVentPump"/>
   </Box>
 
-  The air vent requires [textlink="power" link="Power"] through a nearby [textlink="LV cable" link="VoltageNetworks"] to function.
+  O duto de ar requer [textlink="energia" link="Power"] através de um [textlink="cabo de baixa tensão" link="VoltageNetworks"] próximo para funcionar.
 
-  The air vent can be welded with any welding tool to stop it from functioning.
+  O duto de ar pode ser soldado com qualquer ferramenta de soldagem para impedir seu funcionamento.
 
-  ## Default Operation
-  The default behavior of an air vent is to simply output gas to the exposed atmosphere at a pressure of [color=orange][protodata="GasVentPump" comp="GasVentPump" member="DefaultExternalBound"/] kPa[/color].
+  ## Operação Padrão
+  O comportamento padrão de um duto de ar é simplesmente liberar gás para a atmosfera exposta a uma pressão de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="DefaultExternalBound"/] kPa[/color].
 
-  The speed of the air vent scales with the difference between twice the connected [textlink="pipenet's" link="PipeNetworks"] pressure and the pressure of the exposed atmosphere.
-  To put it in a word equation:
+  A velocidade do duto de ar escala com a diferença entre o dobro da pressão da [textlink="rede de tubulação" link="PipeNetworks"] conectada e a pressão da atmosfera exposta.
+  Para colocar em uma equação:
   <Box>
-    [italic]Speed = 2 × Pipenet Pressure - Exposed Atmosphere Pressure[/italic]
+    [italic]Velocidade = 2 × Pressão da Rede de Tubulação - Pressão da Atmosfera Exposta[/italic]
   </Box>
 
-  For example, this means that an air vent will be unable to pump to 101.3 kPa if the gas inside the vent goes below half that.
+  Por exemplo, isso significa que um duto de ar não será capaz de bombear para 101.3 kPa se o gás dentro do duto cair abaixo da metade disso.
 
-  ## Pressure Lockout
-  Air vents will enter [color=red]pressure lockout[/color] when the pressure of the atmosphere it's exposed to is below [color=orange][protodata="GasVentPump" comp="GasVentPump" member="UnderPressureLockoutThreshold"/] kPa[/color].
-  This is to prevent wasting useful gasses to space if a room is not sealed.
-  The lights on the air vent will turn [color=yellow]yellow[/color] to highlight this change.
+  ## Bloqueio de Pressão
+  Os dutos de ar entrarão em [color=red]bloqueio de pressão[/color] quando a pressão da atmosfera na qual estão expostos estiver abaixo de [color=orange][protodata="GasVentPump" comp="GasVentPump" member="UnderPressureLockoutThreshold"/] kPa[/color].
+  Isso é para evitar desperdiçar gases úteis no espaço se um cômodo não estiver selado.
+  As luzes no duto de ar ficarão [color=yellow]amarelas[/color] para destacar esta mudança.
 
-  This can be [color=green]overridden[/color] by right-clicking on the vent and selecting 'Release pressure lock out', or setting the mode to Fill on a connected [textlink="air alarm" link="AirAlarms"].
+  Isso pode ser [color=green]substituído[/color] clicando com o botão direito no duto e selecionando 'Liberar bloqueio de pressão', ou definindo o modo para Preencher em um [textlink="alarme de ar" link="AirAlarms"] conectado.
 
-  It is important to note that air vents in [color=red]pressure lockout[/color] still very slowly leak out gas.
-  The amount of gas they leak out is relative to the current pressure of the pipenet they're connected to.
+  É importante notar que dutos de ar em [color=red]bloqueio de pressão[/color] ainda vazam gás muito lentamente.
+  A quantidade de gás que vazam é relativa à pressão atual da rede de tubulação à qual estão conectados.
 
-  ## Configuration Options
-  When [textlink="linked" link="Networking"] to an [textlink="air alarm" link="AirAlarms"], air vents gain more functionality.
+  ## Opções de Configuração
+  Quando [textlink="conectados" link="Networking"] a um [textlink="alarme de ar" link="AirAlarms"], os dutos de ar ganham mais funcionalidades.
 
-  Air vents have two "vent direction" options: Releasing and Siphoning.
-  - Releasing simply releases gasses into the atmosphere from the connected pipenet.
-  - Siphoning sucks the air out of the atmosphere and into the connected pipenet. The lights on the air vent will turn [color=red]red[/color] to highlight this change.
+  Os dutos de ar têm duas opções de "direção do duto": Liberação e Sifonação.
+  - Liberação simplesmente libera gases na atmosfera a partir da rede de tubulação conectada.
+  - Sifonação suga o ar da atmosfera para dentro da rede de tubulação conectada. As luzes no duto de ar ficarão [color=red]vermelhas[/color] para destacar esta mudança.
 
-  ## Pressure Bounds
-  Air vents have a pressure bound system, which controls the pressure at which an air vent will pressurize an atmosphere, or draw from a connected pipenet. These limits are taken into account in both releasing and siphoning modes.
+  ## Limites de Pressão
+  Os dutos de ar possuem um sistema de limite de pressão, que controla a pressão na qual um duto de ar pressurizará uma atmosfera, ou captará de uma rede de tubulação conectada. Estes limites são levados em conta tanto no modo de liberação quanto no de sifonação.
 
-  The "PressureBound" setting has four options:
-  - ExternalBound makes the air vent respect the pressure limits defined in the External bound entry.
-  - InternalBound makes the air vent respect the pressure limits defined in the Internal bound entry.
-  - Both makes the air vent respect the pressure limits defined in both the External and Internal bound entries.
-  - NoBound makes the air vent respect no limit.
+  A configuração "PressureBound" tem quatro opções:
+  - ExternalBound faz o duto de ar respeitar os limites de pressão definidos na entrada de limite externo.
+  - InternalBound faz o duto de ar respeitar os limites de pressão definidos na entrada de limite interno.
+  - Both faz o duto de ar respeitar os limites de pressão definidos tanto na entrada de limite externo quanto na interna.
+  - NoBound faz o duto de ar não respeitar nenhum limite.
 
-  When the vent is in releasing mode:
-  - If the External bound pressure is set to 101.3 kPa, the air vent will not pressurize the atmosphere above 101.3 kPa.
-  - If the Internal bound pressure is set to 50 kPa, the air vent will not draw gas from the connected pipe if its pressure is below 50 kPa.
+  Quando o duto está no modo de liberação:
+  - Se a pressão do limite externo estiver definida para 101.3 kPa, o duto de ar não pressurizará a atmosfera acima de 101.3 kPa.
+  - Se a pressão do limite interno estiver definida para 50 kPa, o duto de ar não captará gás da tubulação conectada se sua pressão estiver abaixo de 50 kPa.
 
-  When the vent is in siphoning mode:
-  - If the External bound pressure is set to 101.3 kPa, the air vent will siphon gasses until the atmosphere reaches 101.3 kPa.
-  - If the Internal bound pressure is set to 50 kPa, the air vent will not push gasses into the pipenet if its pressure is above 50 kPa.
+  Quando o duto está no modo de sifonação:
+  - Se a pressão do limite externo estiver definida para 101.3 kPa, o duto de ar sifonará gases até que a atmosfera alcance 101.3 kPa.
+  - Se a pressão do limite interno estiver definida para 50 kPa, o duto de ar não empurrará gases para a rede de tubulação se sua pressão estiver acima de 50 kPa.
 
-  If you're still confused about PressureBounds, here's a simple way to think about it:
-  - You can think of the External bound as the upper limit for the exposed atmosphere. "I will not pressurize the exposed atmosphere past this pressure, or draw from the atmosphere below this pressure."
-  - You can think of the Internal bound as the lower limit for the connected pipenet. "I will not draw from my source below this pressure, or push air into the pipenet above this pressure."
-  - The "Pressure bound" settings simply define which limits to respect or ignore.
+  Se você ainda está confuso sobre Limites de Pressão, aqui está uma maneira simples de pensar sobre isso:
+  - Você pode pensar no limite externo como o limite superior para a atmosfera exposta. "Não pressurizarei a atmosfera exposta além desta pressão, ou captarei da atmosfera abaixo desta pressão."
+  - Você pode pensar no limite interno como o limite inferior para a rede de tubulação conectada. "Não captarei da minha fonte abaixo desta pressão, ou empurrarei ar para a rede de tubulação acima desta pressão."
+  - As configurações de "limite de pressão" simplesmente definem quais limites respeitar ou ignorar.
 
 </Document>

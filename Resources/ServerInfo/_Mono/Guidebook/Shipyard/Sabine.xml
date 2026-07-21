@@ -1,85 +1,85 @@
 <Document>
-  # SABINE-CLASS SALVAGE SHUTTLE
-  <Box>
-  <GuideEntityEmbed Entity="SalvageTechfabNF"/>
-  <GuideEntityEmbed Entity="OreProcessor"/>
-  <GuideEntityEmbed Entity="LockerSalvageSpecialistFilledHardsuit"/>
-  <GuideEntityEmbed Entity="ComputerWallmountAdvancedRadar"/>
-  </Box>
-    [color=#a4885c]Ship Size:[/color] Small
+	  # LANCHA DE SALVAMENTO CLASSE SABINE
+	  <Box>
+	  <GuideEntityEmbed Entity="SalvageTechfabNF"/>
+	  <GuideEntityEmbed Entity="OreProcessor"/>
+	  <GuideEntityEmbed Entity="LockerSalvageSpecialistFilledHardsuit"/>
+	  <GuideEntityEmbed Entity="ComputerWallmountAdvancedRadar"/>
+	  </Box>
+	    [color=#a4885c]Tamanho da Nave:[/color] Pequeno
 
-	[color=#a4885c]Recommended Crew:[/color] 1-2
+		[color=#a4885c]Tripulação Recomendada:[/color] 1-2
 
-	[color=#a4885c]Power Gen Type:[/color] Uranium
+		[color=#a4885c]Tipo de Geração de Energia:[/color] Urânio
 
-	[color=#a4885c]Expeditions:[/color] None
+		[color=#a4885c]Expedições:[/color] Nenhuma
 
-	[color=#a4885c]IFF Console:[/color] None
+		[color=#a4885c]Console IFF:[/color] Nenhum
 
-  "A small, light, 2 seater salvage shuttle for light mining operations. Usually found as part of a fleet or carrier group."
+	  "Uma lança de salvamento pequena, leve, com 2 lugares para operações leves de mineração. Geralmente encontrada como parte de uma frota ou grupo de porta-aviões."
 
-  # PREFLIGHT CHECKLIST
+	  # LISTA DE VERIFICAÇÃO PRÉ-VOO
 
-  ## 1. Power supply
+	  ## 1. Alimentação de energia
 
-  ## 1.1. Battery units
-  <Box>
-  <GuideEntityEmbed Entity="SMESBasic"/>
-  <GuideEntityEmbed Entity="SubstationBasic"/>
-  <GuideEntityEmbed Entity="APCBasic"/>
-  </Box>
+	  ## 1.1. Unidades de bateria
+	  <Box>
+	    <GuideEntityEmbed Entity="SMESBasic"/>
+	    <GuideEntityEmbed Entity="SubstationBasic"/>
+	    <GuideEntityEmbed Entity="APCBasic"/>
+	  </Box>
 
-  - Check that the S.U.P.E.R.P.A.C.M.A.N. generator unit is anchored to the floor.
-  - Check that the SMES unit is anchored to the floor.
-  - Check that the substation unit is anchored to the floor.
-  - Check that the main APC unit's Main Breaker is toggled on.
-  - Check the APC unit's current Load* (W).
+	  - Verifique se a unidade geradora S.U.P.E.R.P.A.C.M.A.N. está fixada ao chão.
+	  - Verifique se a unidade SMES está fixada ao chão.
+	  - Verifique se a unidade subestação está fixada ao chão.
+	  - Verifique se o Disjuntor Principal da unidade APC principal está ativado.
+	  - Verifique a Carga atual da unidade APC (W).
 
-  ## 1.2. S.U.P.E.R.P.A.C.M.A.N. generator unit.
-  <Box>
-  <GuideEntityEmbed Entity="PortableGeneratorSuperPacmanShuttle"/>
-  <GuideEntityEmbed Entity="FuelUranium"/>
-  </Box>
+	  ## 1.2. Unidade geradora S.U.P.E.R.P.A.C.M.A.N.
+	  <Box>
+	    <GuideEntityEmbed Entity="PortableGeneratorSuperPacmanShuttle"/>
+	    <GuideEntityEmbed Entity="FuelUranium"/>
+	  </Box>
 
-  - Check that the generator unit is properly anchored.
-  - Check that the generator unit is connected to the cable terminal of your SMES via HV.
-  - Check the fuel remaining of the generator unit.
-  - Set the generator unit output power to 22 kW.
-  - Enable Injection.
+	  - Verifique se a unidade geradora está devidamente fixada.
+	  - Verifique se a unidade geradora está conectada ao terminal de cabo do seu SMES via HV.
+	  - Verifique o combustível restante da unidade geradora.
+	  - Defina a potência de saída da unidade geradora para 22 kW.
+	  - Ative a Injeção.
 
-  ## 2. Atmospherics
+	  ## 2. Atmosférico
 
-  ## 2.1. Distribution Loop
-  <Box>
-  <GuideEntityEmbed Entity="OxygenCanister"/>
-  <GuideEntityEmbed Entity="NitrogenCanister"/>
-  <GuideEntityEmbed Entity="GasMixer"/>
-  <GuideEntityEmbed Entity="GasPressurePump"/>
-  </Box>
+	  ## 2.1. Loop de Distribuição
+	  <Box>
+	    <GuideEntityEmbed Entity="OxygenCanister"/>
+	    <GuideEntityEmbed Entity="NitrogenCanister"/>
+	    <GuideEntityEmbed Entity="GasMixer"/>
+	    <GuideEntityEmbed Entity="GasPressurePump"/>
+	  </Box>
 
-  - Ensure that a air canister is wrenched to the connector port.
-  - Check that the air canister is of a suitable atmos mixture (~22% oxygen, ~78% nitrogen).
-  - Enable the gas pump into the distribution system.
+	  - Certifique-se de que um cilindro de ar está fixado à porta de conexão.
+	  - Verifique se o cilindro de ar tem uma mistura atmos adequada (~22% oxigênio, ~78% nitrogênio).
+	  - Ative a bomba de gás no sistema de distribuição.
 
-  ## 2.2. Waste Loop
-  <Box>
-  <GuideEntityEmbed Entity="GasPressurePump"/>
-  <GuideEntityEmbed Entity="AirAlarm"/>
-  </Box>
+	  ## 2.2. Loop de Resíduos
+	  <Box>
+	    <GuideEntityEmbed Entity="GasPressurePump"/>
+	    <GuideEntityEmbed Entity="AirAlarm"/>
+	  </Box>
 
-  - Enable waste loop pump.
+	  - Ative a bomba do loop de resíduos.
 
-  ## 3. Other checks
-  <Box>
-  <GuideEntityEmbed Entity="Gyroscope"/>
-  <GuideEntityEmbed Entity="GravityGeneratorMini"/>
-  </Box>
+	  ## 3. Outras verificações
+	  <Box>
+	    <GuideEntityEmbed Entity="Gyroscope"/>
+	    <GuideEntityEmbed Entity="GravityGeneratorMini"/>
+	  </Box>
 
-  - Check that the gyroscope is anchored, powered, and enabled.
-  - Check that the mini gravity generator is anchored, powered, and enabled.
+	  - Verifique se o giroscópio está fixo, energizado e ativado.
+	  - Verifique se o gerador de gravidade mini está fixo, energizado e ativado.
 
-  ## Sidenotes
+	  ## Notas Adicionais
 
-  * - Sabine-class salvage shuttles are equipped with one APC unit that can be used to appraise the ship's total power consumption. Unmodified Sabine-class ship requires ~21.25 kW of power to remain operational.
+	  * - Lanchas de salvamento classe Sabine estão equipadas com uma unidade APC que pode ser usada para avaliar o consumo total de energia da nave. Embarcação classe Sabine não modificada requer ~21.25 kW de energia para permanecer operacional.
 
-</Document>
+	</Document>

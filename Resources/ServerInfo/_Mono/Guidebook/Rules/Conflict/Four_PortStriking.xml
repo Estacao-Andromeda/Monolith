@@ -1,18 +1,18 @@
 <Document>
-# Conflict Rule 4
-## Outpost striking is not allowed.
-[bold]See the [textlink="Safe Zones rule" link="MonolithRuleRoleplayEightSafeZones"] for areas that are always protected from strikes.[/bold]
+# Regra de Conflito 4
+## Atacar postos avançados não é permitido.
+[bold]Veja a [textlink="regra de Zonas Seguras" link="MonolithRuleRoleplayEightSafeZones"] para áreas que sempre são protegidas de ataques.[/bold]
 
-Faction outposts (e.g., [color=blue]Halcyon[/color]) are [color=red][bold]not allowed[/bold][/color] to be striked until [color=yellow]a High Command announcement[/color] allowing it has been given, or if [color=yellow]admin permission[/color] has been given.
--- For clarity, a "strike" in this context refers to any (organized or unorganized) hostile action intended to damage outposts, seize control, eliminate its occupants, or damage docked/undocked ships within a range of 256 meters that were not recently ([color=yellow][bold]2 minutes[/bold][/color]) in combat.
--- Action should be taken to avoid camping spawn areas inside the outposts if possible.
+Postos avançados de facções (ex.: [color=blue]Halcyon[/color]) [color=red][bold]não são permitidos[/bold][/color] de serem atacados até que [color=yellow]um anúncio do Alto Comando[/color] permitindo isso tenha sido dado, ou se [color=yellow]permissão de admin[/color] tenha sido dada.
+-- Para clareza, um "ataque" neste contexto refere-se a qualquer ação hostil (organizada ou não organizada) destinada a danificar postos, seizing controle, eliminar seus ocupantes, ou danificar naves atracadas/desatracadas dentro de um alcance de 256 metros que não estavam recentemente ([color=yellow][bold]2 minutos[/bold][/color]) em combate.
+-- Ações devem ser tomadas para evitar camping de áreas de spawn dentro dos postos, se possível.
 
-Mobile bases (e.g., [color=maroon]PDV Jupiter[/color]) do [color=red][bold]not[/bold][/color] fall under these rules.
+Bases móveis (ex.: [color=maroon]PDV Júpiter[/color]) [color=red][bold]não[/bold][/color] ficam sob estas regras.
 
-[color=yellow]Ships are [bold]exempted[/bold] from this rule when they escape combat to their port. It is permitted to attack docked ships if they were in combat within the last two minutes, though you should [/color][color=red]minimize[/color][color=yellow] damage to the port itself.[/color]
+[color=yellow]Naves são [bold]isentas[/bold] desta regra quando fogem do combate para seu porto. É permitido atacar naves atracadas se estavam em combate nos últimos dois minutos, embora você deva [/color][color=red]minimizar[/color][color=yellow] dano ao porto em si.[/color]
 
-[color=orange]Prison breaks[/color] from detained players both in and out of the faction do [color=red][bold]not[/bold][/color] fall under these rules.
--- [color=orange]Detained players[/color] can damage where they're being held, make a path to an exit forcefully, injure others, and steal ships from outposts to escape [bold]if necessary[/bold].
--- If anyone is killed, bodies should not be intentionally hidden or made unrecoverable. [bold]You do not[/bold] have to revive anyone.
--- You should [color=red][bold]not[/bold][/color] be sabotaging an outpost. Such as cutting wires, destroying shields, generators, or gunnery consoles. Detained players may [color=red][bold]not[/bold][/color] get external help when escaping.
+[color=orange]Fugas de prisão[/color] de jogadores detidos tanto dentro quanto fora da facção [color=red][bold]não[/bold][/color] ficam sob estas regras.
+-- [color=orange]Jogadores detidos[/color] podem danificar onde estão sendo mantidos, abrir caminho à força para uma saída, ferir outros e roubar naves de postos para escapar [bold]se necessário[/bold].
+-- Se alguém for morto, corpos não devem ser intencionalmente escondidos ou tornados irrecuperáveis. [bold]Você não[/bold] tem que reviver ninguém.
+-- Você [color=red][bold]não[/bold][/color] deve estar sabotando um posto. Como cortar fios, destruir escudos, geradores ou consoles de artilharia. Jogadores detidos podem [color=red][bold]não[/bold][/color] receber ajuda externa ao escapar.
 </Document>

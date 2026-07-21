@@ -413,10 +413,10 @@ ent-ClothingBackpackDuffelTacticalDuffelWhite = bagagem tática branca
 
 # From: _Mono/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitMercenary = unidade de controle de roupa blindada mercenária gallóglach
-    .desc = Um módulo de controle de roupa blindada modular equipado com atuadores aprimorados nas pernas para permitir ações rápidas de assalto ou retirada.
+ent-ClothingModsuitMercenary = unidade de controle de traje rígido mercenária gallóglach
+    .desc = Um módulo de controle de traje rígido modular equipado com atuadores aprimorados nas pernas para permitir ações rápidas de assalto ou retirada.
 
-ent-ClothingModsuitRogue = unidade de controle de roupa blindada RX-01
+ent-ClothingModsuitRogue = unidade de controle de traje rígido RX-01
     .desc = Unidade de controle central para a RX-01. Sobrevive a picos de energia, brechas no casco e engenhosidade do mercado negro. De alguma forma. Também tem botas de vácuo experimentais embutidas.
 
 ent-ClothingModsuitUSSPVaryag = Núcleo de Modsuit USSP Varyag
@@ -752,7 +752,7 @@ ent-ClothingHelmetHardsuitCsecMpeva = capacete CSEC MP-EVA
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/mercenaries.yml
 
-ent-ClothingHeadHelmetHardsuitScaf = capacete de roupa blindada scaf
+ent-ClothingHeadHelmetHardsuitScaf = capacete de traje rígido scaf
     .desc = Um capacete robusto e forte. Por dentro cheira a raiva contida.
 
 ent-ClothingHelmetHardsuitMercenaryWarlord = capacete WL-01
@@ -760,22 +760,22 @@ ent-ClothingHelmetHardsuitMercenaryWarlord = capacete WL-01
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/phaethon_dynasty.yml
 
-ent-ClothingHeadHelmetHardsuitAshen = capacete de roupa blindada de combate PDV CV-32
-    .desc = Um capacete de roupa blindada de combate projetado pela Dinastia Phaethon.
+ent-ClothingHeadHelmetHardsuitAshen = capacete de traje rígido de combate PDV CV-32
+    .desc = Um capacete de traje rígido de combate projetado pela Dinastia Phaethon.
 
 ent-ClothingHeadHelmetHardsuitAshenElite = capacete de tacsuit de combate PDV CV-53
-    .desc = Baseado na roupa blindada CV-32, este tacsuit sacrifica placas de armadura pesada por proteção ambiental.
+    .desc = Baseado na traje rígido CV-32, este tacsuit sacrifica placas de armadura pesada por proteção ambiental.
 
 ent-ClothingHeadHelmetHardsuitPDVMedic = capacete de tacsuit de combate PDV CV-82
-    .desc = Um capacete de roupa blindada pela Dinastia Phaethon. Tem um HUD médico integrado complementado por sistemas de pulso térmico.
+    .desc = Um capacete de traje rígido pela Dinastia Phaethon. Tem um HUD médico integrado complementado por sistemas de pulso térmico.
 
 ent-ClothingHeadHelmetHardsuitVizier = capacete de tacsuit de combate PDV CV-67
     .desc = Um tacsuit adornado projetado com uma composição imperfeita de nanolaminado. Alta manobrabilidade, armadura robusta.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/scaf_pirate.yml
 
-ent-ClothingHeadHelmetHardsuitPirateScaf = capacete de roupa blindada SCAF do PDV
-    .desc = Uma roupa blindada SCAF antiga pintada em um esquema de cores marrom tan do PDV. Foi equipada com um scanner de pulso térmico.
+ent-ClothingHeadHelmetHardsuitPirateScaf = capacete de traje rígido SCAF do PDV
+    .desc = Uma traje rígido SCAF antiga pintada em um esquema de cores marrom tan do PDV. Foi equipada com um scanner de pulso térmico.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/trauma.yml
 
@@ -794,10 +794,10 @@ ent-ClothingHeadHelmetHardsuitM86 = capacete M86
     .desc = Modificado a partir dos capacetes da série M82, equipado com equipamento de visão noturna e camadas de gel refinadas.
 
 ent-ClothingHeadHelmetHardsuitNfsdCommand = capacete de tacsuit TSFMC M93-C
-    .desc = Capacete de roupa blindada com armadura média para operações da TSFMC.
+    .desc = Capacete de traje rígido com armadura média para operações da TSFMC.
 
 ent-ClothingHeadHelmetHardsuitNfsdExperimental = capacete de tacsuit TSFMC M92-X
-    .desc = Capacete de roupa blindada com armadura pesada para operações da TSFMC.
+    .desc = Capacete de traje rígido com armadura pesada para operações da TSFMC.
 
 ent-ClothingHeadHelmetHardsuitNfsdSheriff = capacete de tacsuit TSFMC M92
     .desc = Um capacete de tacsuit blindado usado pela TSFMC.
@@ -814,7 +814,7 @@ ent-ClothingHelmetHardsuitUIEnforcerMKII = Capacete de Combate U.I. ENFORCER MKI
     .desc = Este capacete de ponta vem com forro à prova de flash, um scanner de massa e um sistema médico de diagnóstico embutido.
 
 ent-ClothingHelmetHardsuitUIEngineer = capacete de engenharia U.I.
-    .desc = Um capacete de roupa blindada barato e eficaz, apenas com um toque extra do mercado negro.
+    .desc = Um capacete de traje rígido barato e eficaz, apenas com um toque extra do mercado negro.
 
 ent-ClothingHelmetHardsuitUIPilot = capacete de piloto U.I.
     .desc = Um capacete para pilotos da Ullman Industry.
@@ -838,25 +838,25 @@ ent-ClothingHeadHelmetHardsuitUsspL10A = capacete de traje leve USSP L-10-A
 ent-ClothingHeadHelmetHardsuitUsspL27 = capacete de tacsuit USSP L-27
     .desc = A roupa de combate padrão das operações navais da USSP, equipado com um HUD médico também!
 
-ent-ClothingHeadHelmetHardsuitUsspL30 = capacete tático de roupa blindada de desfile do comissário USSP L-30
-    .desc = O capacete de roupa blindada de desfile do comissário, equipado com um HUD médico também para verificar as tropas!
+ent-ClothingHeadHelmetHardsuitUsspL30 = capacete tático de traje rígido de desfile do comissário USSP L-30
+    .desc = O capacete de traje rígido de desfile do comissário, equipado com um HUD médico também para verificar as tropas!
 
 ent-ClothingHeadHelmetHardsuitUsspM10 = capacete de traje de reconhecimento USSP M-10
     .desc = Um novo protótipo de roupa de combate usando o antigo L-10 como base. Tem um scanner de massa integrado em seu capacete.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/viper_group.yml
 
-ent-ClothingHeadHelmetHardsuitViperGroupInitiate = capacete de roupa blindada viper BROOD mk.I
-    .desc = Um capacete de roupa blindada com marcações características do Grupo Viper. Tem um sistema de navegação embutido complementado por viseiras resistentes a flash.
+ent-ClothingHeadHelmetHardsuitViperGroupInitiate = capacete de traje rígido viper BROOD mk.I
+    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um sistema de navegação embutido complementado por viseiras resistentes a flash.
 
-ent-ClothingHeadHelmetHardsuitViperGroupJuggernaut = capacete de roupa blindada viper IMP mk.IV
-    .desc = Um capacete de roupa blindada com marcações características do Grupo Viper. Tem um HUD de rastreamento de identidade integrado complementado por um sistema de visão noturna.
+ent-ClothingHeadHelmetHardsuitViperGroupJuggernaut = capacete de traje rígido viper IMP mk.IV
+    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um HUD de rastreamento de identidade integrado complementado por um sistema de visão noturna.
 
-ent-ClothingHeadHelmetHardsuitViperGroupMedic = capacete de roupa blindada viper RIPPER mk.III
-    .desc = Um capacete de roupa blindada com marcações características do Grupo Viper. Tem um HUD médico embutido complementado por sistemas de pulso térmico.
+ent-ClothingHeadHelmetHardsuitViperGroupMedic = capacete de traje rígido viper RIPPER mk.III
+    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um HUD médico embutido complementado por sistemas de pulso térmico.
 
-ent-ClothingHeadHelmetHardsuitViperGroupStandard = capacete de roupa blindada viper JACKAL mk.II
-    .desc = Um capacete de roupa blindada com marcações características do Grupo Viper. Tem um sistema de visão noturna embutido complementado por viseiras resistentes a flash.
+ent-ClothingHeadHelmetHardsuitViperGroupStandard = capacete de traje rígido viper JACKAL mk.II
+    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um sistema de visão noturna embutido complementado por viseiras resistentes a flash.
 
 # From: _Mono/Entities/Clothing/Head/hats.yml
 
@@ -1271,29 +1271,29 @@ ent-ClothingOuterHardsuitAsakim = exoesqueleto de combate padrão kasature
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/c_sec.yml
 
 ent-ClothingOuterHardsuitCsecMpeva = tacsuit CSEC MP-EVA
-    .desc = Uma roupa blindada de propósito geral para todas as situações das forças de segurança do CC. Projetada para ser utilizável para controle de tumultos e tiroteios, e equipada com camadas de geloabsorventes de reagentes para riscos biológicos.
+    .desc = Uma traje rígido de propósito geral para todas as situações das forças de segurança do CC. Projetada para ser utilizável para controle de tumultos e tiroteios, e equipada com camadas de geloabsorventes de reagentes para riscos biológicos.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/mercenaries.yml
 
 ent-ClothingOuterHardsuitMercenaryWarlord = PMC WL-01
     .desc = Apelidado de "Warlord" (Senhor da Guerra), antigamente uma tecnologia de ponta em equipamentos militares, agora difundido entre mercenários e mercados negros devido aos seus esquemas terem sido revelados ao público, o traje de combate Warlord foi modificado para suportar a atmosfera despressurizada do espaço, sendo classificado como capaz para o espaço.
 
-ent-ClothingOuterHardsuitScaf = roupa blindada SCAF
-    .desc = Uma roupa blindada de combate reforçada com kevlar. Antiga, mas ainda robusta.
+ent-ClothingOuterHardsuitScaf = traje rígido SCAF
+    .desc = Uma traje rígido de combate reforçada com kevlar. Antiga, mas ainda robusta.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/phaethon_dynasty.yml
 
-ent-ClothingOuterHardsuitAshen = roupa blindada de combate PDV CV-32
-    .desc = Uma roupa blindada de combate projetada pela Dinastia Phaethon. Uma roupa blindada mais pesada, mas ainda de propósito geral, eficaz, mas não estelar contra a maioria dos tipos de dano.
+ent-ClothingOuterHardsuitAshen = traje rígido de combate PDV CV-32
+    .desc = Uma traje rígido de combate projetada pela Dinastia Phaethon. Uma traje rígido mais pesada, mas ainda de propósito geral, eficaz, mas não estelar contra a maioria dos tipos de dano.
 
 ent-ClothingOuterHardsuitAshenElite = tacsuit de combate PDV CV-53
-    .desc = Originalmente baseado na roupa blindada CV-32, o tacsuit CV-53 sacrifica placas de armadura convencionais por proteção ambiental e um escudo duro recarregável.
+    .desc = Originalmente baseado na traje rígido CV-32, o tacsuit CV-53 sacrifica placas de armadura convencionais por proteção ambiental e um escudo duro recarregável.
 
 ent-ClothingOuterHardsuitPDVMedic = tacsuit de combate PDV CV-82
-    .desc = Uma roupa blindada de combate de médico de campo projetada pela Dinastia Phaethon. A armadura apresenta várias placas reforçadas em áreas vitais.
+    .desc = Uma traje rígido de combate de médico de campo projetada pela Dinastia Phaethon. A armadura apresenta várias placas reforçadas em áreas vitais.
 
-ent-ClothingOuterHardsuitPirateScaf = roupa blindada SCAF do PDV
-    .desc = Uma roupa blindada SCAF antiga pintada em um esquema de cores marrom tan do PDV. A armadura parece degradada, mas mais leve.
+ent-ClothingOuterHardsuitPirateScaf = traje rígido SCAF do PDV
+    .desc = Uma traje rígido SCAF antiga pintada em um esquema de cores marrom tan do PDV. A armadura parece degradada, mas mais leve.
 
 ent-ClothingOuterHardsuitVizier = tacsuit de combate PDV CV-67
     .desc = Um tacsuit adornado projetado com uma composição imperfeita de nanolaminado. Alta manobrabilidade, armadura robusta.
@@ -1308,16 +1308,16 @@ ent-ClothingOuterHardsuitTraumaLeader = tacsuit T-53 da unidade de trauma armada
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/tsfmc.yml
 
-ent-ClothingOuterHardsuitM82b = roupa blindada M82b
+ent-ClothingOuterHardsuitM82b = traje rígido M82b
     .desc = Variante de prático da M82c equipada com blindagem cáustica e radiológica. Algumas das camadas de geloabsorventes de contusão são sacrificadas para a proteção NBC.
 
-ent-ClothingOuterHardsuitM82c = roupa blindada M82c
-    .desc = Uma roupa blindada emitida para fuzileiros operando em ambientes de baixa pressão e alto risco. Especializada em proteção contra balas.
+ent-ClothingOuterHardsuitM82c = traje rígido M82c
+    .desc = Uma traje rígido emitida para fuzileiros operando em ambientes de baixa pressão e alto risco. Especializada em proteção contra balas.
 
-ent-ClothingOuterHardsuitM86 = roupa blindada M86 Mk.3(R)
-    .desc = Uma roupa blindada blindada, projetada para ser uma atualização para a série M82. A armadura geral extra dá peso significativo para se mover.
+ent-ClothingOuterHardsuitM86 = traje rígido M86 Mk.3(R)
+    .desc = Uma traje rígido blindada, projetada para ser uma atualização para a série M82. A armadura geral extra dá peso significativo para se mover.
 
-ent-ClothingOuterHardsuitM86Mk4 = roupa blindada M86 Mk.4(B)
+ent-ClothingOuterHardsuitM86Mk4 = traje rígido M86 Mk.4(B)
     .desc = Uma proposta de redesign de produção limitada para a M86 Mk.3(R), equipada com um gerador de escudo pessoal embutido.
 
 ent-ClothingOuterHardsuitNfsdExperimental = tacsuit TSFMC M92-X
@@ -1328,8 +1328,8 @@ ent-ClothingOuterHardsuitNfsdSheriff = tacsuit de coronel TSFMC M92
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/ui.yml
 
-ent-ClothingOuterHardsuitUIDirector = roupa blindada experimental U.I. VK-1
-    .desc = A roupa blindada pessoal de ponta de Felix Ullman. Um aviso gravado no peito lê O roubo desta roupa tem uma alta chance de morte! Sério, eu vou te encontrar. Você vai morrer.
+ent-ClothingOuterHardsuitUIDirector = traje rígido experimental U.I. VK-1
+    .desc = A traje rígido pessoal de ponta de Felix Ullman. Um aviso gravado no peito lê O roubo desta roupa tem uma alta chance de morte! Sério, eu vou te encontrar. Você vai morrer.
 
 ent-ClothingOuterHardsuitUIEnforcer = tacsuit de combate U.I. ENFORCER
     .desc = Infamemente um dos tacsuits de combate mais confiáveis que o mercado negro tem a oferecer, desenvolvido pela Ullman Industries. Heads up display vendido separadamente!
@@ -1340,8 +1340,8 @@ ent-ClothingOuterHardsuitUIEnforcerMKII = tacsuit de combate U.I. ENFORCER MKII
 ent-ClothingOuterHardsuitUIPilot = traje de vácuo de piloto U.I.
     .desc = Um traje de vácuo feito para pilotos do mercado negro. Desenvolvido pela Ullman Industries.
 
-ent-ClothingOuterHardsuitUllmanEngineer = roupa blindada de engenharia U.I.
-    .desc = Uma roupa blindada protetora usada por especialistas de engenharia do mercado negro. Desenvolvido pela Ullman Industries.
+ent-ClothingOuterHardsuitUllmanEngineer = traje rígido de engenharia U.I.
+    .desc = Uma traje rígido protetora usada por especialistas de engenharia do mercado negro. Desenvolvido pela Ullman Industries.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/unsa.yml
 
@@ -1362,25 +1362,25 @@ ent-ClothingOuterHardsuitUsspL10A = traje leve USSP L-10-A
 ent-ClothingOuterHardsuitUsspL27 = tacsuit USSP L-27
     .desc = A roupa de combate padrão das operações navais da USSP.
 
-ent-ClothingOuterHardsuitUsspL30 = Roupa blindada de desfile naval do comissário USSP L-30.
-    .desc = Uma roupa blindada altamente decorada com mobilidade aprimorada e placas de armadura de maior qualidade e mais leves para transmitir ordens rapidamente na linha de frente. (ou não estar suado em um desfile)
+ent-ClothingOuterHardsuitUsspL30 = Traje rígido de desfile naval do comissário USSP L-30.
+    .desc = Uma traje rígido altamente decorada com mobilidade aprimorada e placas de armadura de maior qualidade e mais leves para transmitir ordens rapidamente na linha de frente. (ou não estar suado em um desfile)
 
 ent-ClothingOuterHardsuitUsspM10 = traje de reconhecimento USSP M-10
     .desc = Um novo protótipo de roupa de combate usando o antigo L-10 como base. Tem um scanner de massa integrado em seu capacete.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/viper_group.yml
 
-ent-ClothingOuterHardsuitViperGroupInitiate = roupa blindada viper BROOD mk.I
-    .desc = Uma roupa blindada de combate adornada com marcações características do Grupo Viper. Geralmente usada por corsários recentemente acordados de criossono.
+ent-ClothingOuterHardsuitViperGroupInitiate = traje rígido viper BROOD mk.I
+    .desc = Uma traje rígido de combate adornada com marcações características do Grupo Viper. Geralmente usada por corsários recentemente acordados de criossono.
 
-ent-ClothingOuterHardsuitViperGroupJuggernaut = roupa blindada viper IMP mk.IV
-    .desc = Uma roupa blindada de combate pesada adornada com marcações características do Grupo Viper. A armadura apresenta placas e acolchoamento reforçados adequados para encontros próximos.
+ent-ClothingOuterHardsuitViperGroupJuggernaut = traje rígido viper IMP mk.IV
+    .desc = Uma traje rígido de combate pesada adornada com marcações características do Grupo Viper. A armadura apresenta placas e acolchoamento reforçados adequados para encontros próximos.
 
-ent-ClothingOuterHardsuitViperGroupMedic = roupa blindada viper RIPPER mk.III
-    .desc = Uma roupa blindada médica de combate adornada com marcações características do Grupo Viper. A armadura apresenta várias placas reforçadas em áreas vitais.
+ent-ClothingOuterHardsuitViperGroupMedic = traje rígido viper RIPPER mk.III
+    .desc = Uma traje rígido médica de combate adornada com marcações características do Grupo Viper. A armadura apresenta várias placas reforçadas em áreas vitais.
 
-ent-ClothingOuterHardsuitViperGroupStandard = roupa blindada viper JACKAL mk.II
-    .desc = Uma roupa blindada de combate adornada com marcações características do Grupo Viper. A armadura é notavelmente flexível para a proteção que oferece.
+ent-ClothingOuterHardsuitViperGroupStandard = traje rígido viper JACKAL mk.II
+    .desc = Uma traje rígido de combate adornada com marcações características do Grupo Viper. A armadura é notavelmente flexível para a proteção que oferece.
 
 # From: _Mono/Entities/Clothing/OuterClothing/modsuit.yml
 

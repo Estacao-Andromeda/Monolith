@@ -1,161 +1,161 @@
 <Document>
-	# Nuclear Generator
+	# Gerador Nuclear
 
-	The [color=GreenYellow]Nuclear Generator[/color] generates [color=gold]power[/color] by heating a gas through fission reactions in a  [color=GreenYellow]Nuclear Reactor[/color] , which then spins a Gas [color=DarkOrange]Turbine[/color].
+	O [color=GreenYellow]Gerador Nuclear[/color] gera [color=gold]energia[/color] aquecendo um gás através de reações de fissão em um [color=GreenYellow]Reator Nuclear[/color], que então gira uma [color=DarkOrange]Turbina[/color] a Gás.
 
-	## The Nuclear Reactor
+	## O Reator Nuclear
 	<Box>
 		<GuideEntityEmbed Entity="NuclearReactorNormal"/>
 	</Box>
 
-	The [color=GreenYellow]Nuclear Reactor[/color] is the primary source of [color=OrangeRed]heat[/color] the generator uses to make [color=gold]power[/color].
+	O [color=GreenYellow]Reator Nuclear[/color] é a fonte primária de [color=OrangeRed]calor[/color] que o gerador usa para produzir [color=gold]energia[/color].
 
-	It is represented as a 7x7 grid of [color=gold]Reactor Rod[/color] ports, which engineers can insert different fabricated rods into.
+	É representado como uma grade 7x7 de portas de [color=gold]Varas do Reator[/color], nas quais os engenheiros podem inserir diferentes varas fabricadas.
 
-	Heat is generated through fission reactions inside [color=MediumVioletRed]fuel rods[/color] and transferred into the [color=SkyBlue]coolant gas[/color] by [color=PaleVioletRed]gas channels[/color].
+	O calor é gerado através de reações de fissão dentro das [color=MediumVioletRed]varas de combustível[/color] e transferido para o [color=SkyBlue]gás refrigerante[/color] pelos [color=PaleVioletRed]canais de gás[/color].
 
-	## Reactor Rods
+	## Varas do Reator
 	<Box>
 		<GuideEntityEmbed Entity="NuclearFabricator"/>
 	</Box>
 	<Box>
-		<GuideEntityEmbed Entity="CerenkiteReactorFuelRod" Caption="fuel rod"/>
-		<GuideEntityEmbed Entity="BohrumReactorControlRod" Caption="control rod"/>
-		<GuideEntityEmbed Entity="SteelReactorGasChannel" Caption="gas channel"/>
-		<GuideEntityEmbed Entity="SteelReactorHeatExchanger" Caption="heat exchanger"/>
+		<GuideEntityEmbed Entity="CerenkiteReactorFuelRod" Caption="vara de combustível"/>
+		<GuideEntityEmbed Entity="BohrumReactorControlRod" Caption="vara de controle"/>
+		<GuideEntityEmbed Entity="SteelReactorGasChannel" Caption="canal de gás"/>
+		<GuideEntityEmbed Entity="SteelReactorHeatExchanger" Caption="trocador de calor"/>
 	</Box>
 
-  [color=gold]Reactor Rod[/color] are the parts that go into the [color=GreenYellow]Reactor[/color] grid and cause it to function.
+  [color=gold]Varas do Reator[/color] são as partes que entram na grade do [color=GreenYellow]Reator[/color] e fazem ele funcionar.
 
-	They transfer [color=OrangeRed]heat[/color] and interact with [color=DarkTurquoise]neutrons[/color] within the [color=GreenYellow]Reactor[/color].
+	Elas transferem [color=OrangeRed]calor[/color] e interagem com [color=DarkTurquoise]nêutrons[/color] dentro do [color=GreenYellow]Reator[/color].
 
-	If a [color=gold]Reactor Rod[/color]'s [bold]Temperature[/bold] reaches 1700 kelvin, it will begin to [color=Crimson]melt[/color].
+	Se a [bold]Temperatura[/bold] de uma [color=gold]Vara do Reator[/color] atingir 1700 kelvin, ela começará a [color=Crimson]derreter[/color].
 
-	Once melted it will become much more active and able to transfer [color=OrangeRed]heat[/color] into the [color=GreenYellow]Reactor[/color], which may cause a total [color=OrangeRed]meltdown[/color].
+	Uma vez derretida, ela se tornará muito mais ativa e capaz de transferir [color=OrangeRed]calor[/color] para o [color=GreenYellow]Reator[/color], o que pode causar um [color=OrangeRed]derretimento total[/color].
 
-	Handling hot [color=gold]Reactor Rods[/color] can cause serious [color=OrangeRed]burns[/color].
+	Manipular [color=gold]Varas do Reator[/color] quentes pode causar [color=OrangeRed]queimaduras[/color] graves.
 
-	If it is hotter than [color=OrangeRed]80C[/color] you'll need gloves to be able to handle them. At [color=MediumVioletRed]500C[/color], not even gloves will protect you.
+	Se estiver mais quente que [color=OrangeRed]80C[/color], você precisará de luvas para conseguir manipulá-las. Em [color=MediumVioletRed]500C[/color], nem mesmo luvas irão proteger você.
 
-	There are four different types of [color=gold]Reactor Rods[/color] that can be manufactured from a variety of materials and placed into the [color=GreenYellow]Reactor[/color] grid: [color=Chartreuse]Fuel Rods[/color], [color=LightSkyBlue]Control Rods[/color], [color=PaleVioletRed]Gas Channels[/color], and [color=Crimson]Heat Exchangers[/color].
+	Existem quatro tipos diferentes de [color=gold]Varas do Reator[/color] que podem ser fabricadas a partir de vários materiais e colocadas na grade do [color=GreenYellow]Reator[/color]: [color=Chartreuse]Varas de Combustível[/color], [color=LightSkyBlue]Varas de Controle[/color], [color=PaleVioletRed]Canais de Gás[/color] e [color=Crimson]Trocadores de Calor[/color].
 
-	### Fuel Rods
-  [color=Chartreuse]Fuel Rods[/color] are the source of [color=DarkTurquoise]neutrons[/color] and [color=OrangeRed]heat[/color] within the [color=GreenYellow]Reactor[/color].
+	### Varas de Combustível
+  [color=Chartreuse]Varas de Combustível[/color] são a fonte de [color=DarkTurquoise]nêutrons[/color] e [color=OrangeRed]calor[/color] dentro do [color=GreenYellow]Reator[/color].
 
-	They can emit [color=DarkTurquoise]neutrons[/color] through spontaneous decay and from interacting with existing [color=DarkTurquoise]neutrons[/color], which also creates [color=OrangeRed]heat[/color].
+	Elas podem emitir [color=DarkTurquoise]nêutrons[/color] através de decaimento espontâneo e ao interagir com [color=DarkTurquoise]nêutrons[/color] existentes, o que também cria [color=OrangeRed]calor[/color].
 
-	They have two statistics that determine their effectiveness and volatility:
-	- [bold]Neutron Radioactivity[/bold]: Creates [color=cyan]high-energy neutrons[/color] and large amounts of [color=OrangeRed]heat[/color]. Decays into Radioactivity.
-	- [bold]Radioactivity[/bold]: Creates [color=DarkTurquoise]neutrons[/color] and [color=OrangeRed]heat[/color]. Decays into [color=LightSteelBlue]Spent Fuel[/color].
+	Elas têm duas estatísticas que determinam sua eficácia e volatilidade:
+	- [bold]Radioatividade de Nêutrons[/bold]: Cria [color=cyan]nêutrons de alta energia[/color] e grandes quantidades de [color=OrangeRed]calor[/color]. Decaimenta em Radioatividade.
+	- [bold]Radioatividade[/bold]: Cria [color=DarkTurquoise]nêutrons[/color] e [color=OrangeRed]calor[/color]. Decaimenta em [color=LightSteelBlue]Combustível Usado[/color].
 
-	They also keep track of how much [bold][color=LightSteelBlue]Spent Fuel[/color][/bold] they contain, which does not affect the [color=Chartreuse]Fuel Rod[/color]'s performance, but can indicate when it is time to replace it.
+	Elas também monitoram quanto de [bold][color=LightSteelBlue]Combustível Usado[/color][/bold] contêm, o que não afeta o desempenho da [color=Chartreuse]Vara de Combustível[/color], mas pode indicar quando é hora de substituí-la.
 
 	<Box>
 		<GuideEntityEmbed Entity="NuclearCentrifuge"/>
 		<GuideEntityEmbed Entity="IngotPlutonium"/>
 	</Box>
 
-	Once a [color=Chartreuse]Fuel Rod[/color] contains enough [bold][color=LightSteelBlue]Spent Fuel[/color][/bold], it can be reprocessed by a nuclear centrifuge to create [color=Magenta]plutonium[/color], which can be used to make [color=Magenta]plutonium fuel rods[/color].
+	Quando uma [color=Chartreuse]Vara de Combustível[/color] contém [bold][color=LightSteelBlue]Combustível Usado[/color][/bold] suficiente, ela pode ser reprocessada por uma centrífuga nuclear para criar [color=Magenta]plutônio[/color], que pode ser usado para fazer [color=Magenta]varas de combustível de plutônio[/color].
 
-	### Control Rods
-  [color=LightSkyBlue]Control rods[/color] control the flow of [color=DarkTurquoise]neutrons[/color] within the [color=GreenYellow]Reactor[/color].
+	### Varas de Controle
+  [color=LightSkyBlue]Varas de controle[/color] controlam o fluxo de [color=DarkTurquoise]nêutrons[/color] dentro do [color=GreenYellow]Reator[/color].
 
-	They have the unique property of being able to be adjusted, which changes how effective they are.
+	Elas têm a propriedade única de poderem ser ajustadas, o que muda sua eficácia.
 
-	They control the reaction by limiting the number of [color=DarkTurquoise]neutrons[/color] that go through them and into a [color=Chartreuse]Fuel Rod[/color].
+	Elas controlam a reação limitando o número de [color=DarkTurquoise]nêutrons[/color] que passam através delas e entram em uma [color=Chartreuse]Vara de Combustível[/color].
 
-	### Gas Channels
-  [color=PaleVioletRed]Gas Channels[/color] transfer [color=OrangeRed]heat[/color] from themselves into the [color=SkyBlue]coolant gas[/color] that flows through them.
+	### Canais de Gás
+  [color=PaleVioletRed]Canais de Gás[/color] transferem [color=OrangeRed]calor[/color] de si mesmos para o [color=SkyBlue]gás refrigerante[/color] que flui através deles.
 
-	Each [color=PaleVioletRed]Gas Channel[/color] will increase the flow rate by [bold]100 L/s[/bold], allowing the [color=GreenYellow]Reactor[/color] to process more gas at once.
+	Cada [color=PaleVioletRed]Canal de Gás[/color] aumentará a vazão em [bold]100 L/s[/bold], permitindo que o [color=GreenYellow]Reator[/color] processe mais gás de uma vez.
 
-	### Heat Exchangers
-  [color=Crimson]Heat Exchangers[/color] guide the spread of [color=OrangeRed]heat[/color] within the [color=GreenYellow]Reactor[/color].
+	### Trocadores de Calor
+  [color=Crimson]Trocadores de Calor[/color] guiam a propagação de [color=OrangeRed]calor[/color] dentro do [color=GreenYellow]Reator[/color].
 
-	They are exceptionally good at transferring [color=OrangeRed]heat[/color] and don't interact with [color=DarkTurquoise]neutrons[/color], making them ideal for getting [color=OrangeRed]heat[/color] from a [color=Chartreuse]Fuel Rod[/color] into a [color=PaleVioletRed]Gas Channel[/color] without interfering with the fission process.
+	Eles excepcionalmente bons em transferir [color=OrangeRed]calor[/color] e não interagem com [color=DarkTurquoise]nêutrons[/color], tornando-os ideais para transferir [color=OrangeRed]calor[/color] de uma [color=Chartreuse]Vara de Combustível[/color] para um [color=PaleVioletRed]Canal de Gás[/color] sem interferir no processo de fissão.
 
-	## Controlling the Reactor
-	The [color=GreenYellow]Reactor[/color] is controlled and modified through its UI, which also provides information on the [color=GreenYellow]Reactor[/color]'s status.
+	## Controlando o Reator
+	O [color=GreenYellow]Reator[/color] é controlado e modificado através de sua interface, que também fornece informações sobre o status do [color=GreenYellow]Reator[/color].
 
-	The [color=GreenYellow]Reactor[/color] UI has three major panels: Targeting, Grid View, Status Panel
+	A interface do [color=GreenYellow]Reator[/color] tem três painéis principais: Mira, Visualização da Grade, Painel de Status
 
-	### Targeting
-	The targeting panel has controls for inserting and removing rods into and out of the [color=GreenYellow]Reactor[/color] grid.
+	### Mira
+	O painel de mira tem controles para inserir e remover varas da grade do [color=GreenYellow]Reator[/color].
 
-	The X and Y position of the target are adjusted through the +X, -X and +Y, -Y buttons.
+	A posição X e Y do alvo são ajustadas através dos botões +X, -X e +Y, -Y.
 
-  [color=gold]Reactor Rods[/color] can be inserted or removed through the Insert/Remove button below the position buttons.
+  [color=gold]Varas do Reator[/color] podem ser inseridas ou removidas através do botão Inserir/Remover abaixo dos botões de posição.
 
-	If there is a [color=gold]Reactor Rod[/color] at the target position, it will show information on that [color=gold]Reactor Rod[/color], including its:
-	- Name
-	- Temperature ([color=OrangeRed]T[/color])
-	- Neutron Radioactivity ([color=Cyan]N[/color])
-	- Radioactivity ([color=MediumSpringGreen]R[/color])
-	- Spent Fuel ([color=LightSteelBlue]S[/color])
+	Se houver uma [color=gold]Vara do Reator[/color] na posição do alvo, ela mostrará informações sobre essa [color=gold]Vara do Reator[/color], incluindo:
+	- Nome
+	- Temperatura ([color=OrangeRed]T[/color])
+	- Radioatividade de Nêutrons ([color=Cyan]N[/color])
+	- Radioatividade ([color=MediumSpringGreen]R[/color])
+	- Combustível Usado ([color=LightSteelBlue]S[/color])
 
-	The bottom of the panel displays the name of the part that has been removed from the [color=GreenYellow]Reactor[/color] or is ready to be inserted.
+	A parte inferior do painel exibe o nome da peça que foi removida do [color=GreenYellow]Reator[/color] ou está pronta para ser inserida.
 
-	### Grid View
-	The grid view gives a graphic visualization of the status of the [color=GreenYellow]Reactor[/color] grid.
+	### Visualização da Grade
+	A visualização da grade fornece uma visualização gráfica do status da grade do [color=GreenYellow]Reator[/color].
 
-	The Change View button can be used to alternate between the different views:
-	- Temperature View: shows the [color=OrangeRed]temperature[/color] of the components
-	- Neutron View: shows the number of [color=DarkTurquoise]neutrons[/color] at any given position
-	- Target View: shows the current [color=Gold]target location[/color]
+	O botão Alterar Visualização pode ser usado para alternar entre as diferentes visualizações:
+	- Visualização de Temperatura: mostra a [color=OrangeRed]temperatura[/color] dos componentes
+	- Visualização de Nêutrons: mostra o número de [color=DarkTurquoise]nêutrons[/color] em qualquer posição
+	- Visualização do Alvo: mostra a [color=Gold]localização do alvo[/color] atual
 
-	### Status Panel
-	The status panel gives information on the [color=GreenYellow]Reactor[/color] as a whole and provides control of the [color=LightSkyBlue]control rods[/color].
+	### Painel de Status
+	O painel de status fornece informações sobre o [color=GreenYellow]Reator[/color] como um todo e fornece controle das [color=LightSkyBlue]varas de controle[/color].
 
-	The [color=Red][bold]Temperature Gauge[/bold][/color] shows the current temperature of the [color=GreenYellow]Reactor[/color], in a range between 0 and 2000 kelvin.
+	O [color=Red][bold]Medidor de Temperatura[/bold][/color] mostra a temperatura atual do [color=GreenYellow]Reator[/color], em uma faixa entre 0 e 2000 kelvin.
 
-	If the [color=GreenYellow]Reactor[/color] ever reaches 2000 kelvin, it will [color=red]meltdown[/color].
+	Se o [color=GreenYellow]Reator[/color] atingir 2000 kelvin, ele sofrerá [color=red]derretimento total[/color].
 
-	The [color=MediumSpringGreen][bold]Radiation Gauge[/bold][/color] shows the current [color=MediumSpringGreen]radiation[/color] being emitted by the [color=GreenYellow]Reactor[/color], in a range between 0 and 50 rads.
+	O [color=MediumSpringGreen][bold]Medidor de Radiação[/bold][/color] mostra a [color=MediumSpringGreen]radiação[/color] atual sendo emitida pelo [color=GreenYellow]Reator[/color], em uma faixa entre 0 e 50 rads.
 
-	The [color=OrangeRed][bold]Thermal Power Gauge[/bold][/color] shows an estimation of the amount of [color=OrangeRed]thermal power[/color] being made by the [color=GreenYellow]Reactor[/color], in a range between 0 and 10 000 000 thermal watts (Wt).
+	O [color=OrangeRed][bold]Medidor de Potência Térmica[/bold][/color] mostra uma estimativa da quantidade de [color=OrangeRed]potência térmica[/color] sendo produzida pelo [color=GreenYellow]Reator[/color], em uma faixa entre 0 e 10 000 000 watts térmicos (Wt).
 
-  [color=OrangeRed]Thermal Power[/color] is a decent estimation of how much [color=gold]power[/color] can be extracted from the gas by the [bold][color=DarkOrange]Turbine[/color][/bold].
+  [color=OrangeRed]Potência Térmica[/color] é uma estimativa decente de quanta [color=gold]energia[/color] pode ser extraída do gás pela [bold][color=DarkOrange]Turbina[/color][/bold].
 
-  [color=OrangeRed]Thermal Power[/color] has a tendency to increase and decrease as the [color=GreenYellow]Reactor[/color] runs, rarely remaining stable.
+  [color=OrangeRed]Potência Térmica[/color] tem tendência a aumentar e diminuir conforme o [color=GreenYellow]Reator[/color] opera, raramente permanecendo estável.
 
-	The [bold][color=LightSkyBlue]Control Rod Gauges[/color][/bold] show the actual and set insertion levels of the [color=LightSkyBlue]control rods[/color] within the [color=GreenYellow]Reactor[/color], and provide buttons to change the insertion level.
+	Os [bold][color=LightSkyBlue]Medidores de Varas de Controle[/color][/bold] mostram os níveis de inserção reais e definidos das [color=LightSkyBlue]varas de controle[/color] dentro do [color=GreenYellow]Reator[/color], e fornecem botões para mudar o nível de inserção.
 
-	## Cooling the Reactor
-	The [color=GreenYellow]Reactor[/color] is cooled through the use of gasses, but some gasses have effects on the [color=GreenYellow]Reactor[/color] when in sufficient quantities:
+	## Resfriando o Reator
+	O [color=GreenYellow]Reator[/color] é resfriado através do uso de gases, mas alguns gases têm efeitos no [color=GreenYellow]Reator[/color] quando em quantidades suficientes:
 
 	<Box>
 		<GuideEntityEmbed Entity="PlasmaCanister" Caption=""/>
 	</Box>
-	[color=#ff3300][bold]Plasma[/bold][/color] has a reactive effect, creating more [color=DarkTurquoise]neutrons[/color] and decaying into [color=#13ff4b][bold]Tritium[/bold][/color].
+	[color=#ff3300][bold]Plasma[/bold][/color] tem um efeito reativo, criando mais [color=DarkTurquoise]nêutrons[/color] e decaimento em [color=#13ff4b][bold]Tritio[/bold][/color].
 
-	If there is enough plasma within the [color=GreenYellow]Reactor[/color], it may end up going into a runaway reaction and [color=red]melting down[/color].
+	Se houver plasma suficiente dentro do [color=GreenYellow]Reator[/color], ele pode acabar entrando em uma reação descontrolada e [color=red]derreter[/color].
 
 	<Box>
 		<GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
 	</Box>
-	[color=#4e4e4e][bold]Carbon Dioxide[/bold][/color] has a moderative effect, removing [color=DarkTurquoise]neutrons[/color] that come into contact with it.
+	[color=#4e4e4e][bold]Dióxido de Carbono[/bold][/color] tem um efeito moderador, removendo [color=DarkTurquoise]nêutrons[/color] que entram em contato com ele.
 
-	This can be used to regulate a plasma reaction or slow down the [color=GreenYellow]Reactor[/color].
+	Isso pode ser usado para regular uma reação de plasma ou desacelerar o [color=GreenYellow]Reator[/color].
 
 	<Box>
 		<GuideEntityEmbed Entity="TritiumCanister" Caption=""/>
 	</Box>
-	[color=#13ff4b][bold]Tritium[/bold][/color] transmutes within a [color=GreenYellow]Reactor[/color], randomly decaying into a wide variety of gasses:
+	[color=#13ff4b][bold]Tritio[/bold][/color] se transmuta dentro de um [color=GreenYellow]Reator[/color], decaimento aleatoriamente em uma grande variedade de gases:
 	- [color=#2887e8][bold]Oxygen[/bold][/color]
 	- [color=#FF0000][bold]Nitrogen[/bold][/color]
 	- [color=#56941e][bold]Ammonia[/bold][/color]
 	- [color=#8f00ff][bold]Nitrous Oxide[/bold][/color]
 	- [color=#3a758c][bold]Frezon[/bold][/color]
 
-	In the presence of [color=#2887e8][bold]Oxygen[/bold][/color] and at the temperatures of the [color=GreenYellow]Reactor[/color], [color=#13ff4b][bold]Tritium[/bold][/color] will begin to burn, [color=red]creating large amounts of heat[/color].
+	Na presença de [color=#2887e8][bold]Oxigênio[/bold][/color] e nas temperaturas do [color=GreenYellow]Reator[/color], [color=#13ff4b][bold]Tritio[/bold][/color] começará a queimar, [color=red]criando grandes quantidades de calor[/color].
 
-	## Reactor Radiation
+	## Radiação do Reator
 	<Box>
 		<GuideEntityEmbed Entity="SignRadiation" Caption=""/>
 	</Box>
-	The [color=GreenYellow]Reactor[/color] sometimes allows some radiation to leak out, which can pose a danger to unprotected crew.
+	O [color=GreenYellow]Reator[/color] às vezes permite que alguma radiação vaze, o que pode representar perigo para a tripulação desprotegida.
 
-	The radiation level of the [color=GreenYellow]Reactor[/color] is determined by how many [color=DarkTurquoise]neutrons[/color] are escaping the [color=GreenYellow]Reactor[/color] grid.
+	O nível de radiação do [color=GreenYellow]Reator[/color] é determinado por quantos [color=DarkTurquoise]nêutrons[/color] estão escapando da grade do [color=GreenYellow]Reator[/color].
 
 	<Box>
 		<GuideEntityEmbed Entity="ClosetRadiationSuit"/>
@@ -163,80 +163,80 @@
 		<GuideEntityEmbed Entity="GeigerCounter"/>
 	</Box>
 
-	Proper protection and shielding are highly recommended when working near the [color=GreenYellow]Reactor[/color].
+	Proteção e blindagem adequadas são altamente recomendadas ao trabalhar próximo ao [color=GreenYellow]Reator[/color].
 
 
-	## The Gas Turbine
+	## A Turbina a Gás
 	<Box>
 		<GuideEntityEmbed Entity="Turbine"/>
 	</Box>
 
-	The Gas [color=DarkOrange]Turbine[/color] is where the power actually gets made.
+	A [color=DarkOrange]Turbina[/color] a Gás é onde a energia é realmente produzida.
 
-	It takes in hot gas from the [color=GreenYellow]Reactor[/color] and outputs electricity and sends colder gas back to the [color=GreenYellow]Reactor[/color].
+	Ela recebe gás quente do [color=GreenYellow]Reator[/color] e produz eletricidade e envia gás mais frio de volta ao [color=GreenYellow]Reator[/color].
 
-	The amount of energy made by the [color=DarkOrange]Turbine[/color] is affected by its set Flow Rate and [color=Goldenrod]Stator[/color] Load, and by its [color=MediumTurquoise]RPM[/color].
+	A quantidade de energia produzida pela [color=DarkOrange]Turbina[/color] é afetada por sua Vazão definida e Carga do [color=Goldenrod]Estator[/color], e por seus [color=MediumTurquoise]RPM[/color].
 
-	### Flow Rate
-	The Flow Rate determines how much gas goes through the [color=DarkOrange]Turbine[/color] every second.
+	### Vazão
+	A Vazão determina quanto gás passa através da [color=DarkOrange]Turbina[/color] a cada segundo.
 
-	The higher the Flow Rate, the higher the [color=MediumTurquoise]RPM[/color] of the [color=DarkOrange]Turbine[/color].
+	Quanto maior a Vazão, maiores os [color=MediumTurquoise]RPM[/color] da [color=DarkOrange]Turbina[/color].
 
-	Flow Rate is usually set to allow maximum flow through the [color=GreenYellow]Reactor[/color] core, which can be found by the following equation: 100 * number of [color=PaleVioletRed]gas channels[/color] + 200.
+	A Vazão geralmente é definida para permitir fluxo máximo através do núcleo do [color=GreenYellow]Reator[/color], que pode ser encontrado pela seguinte equação: 100 * número de [color=PaleVioletRed]canais de gás[/color] + 200.
 
-	### Stator Load
-	The [color=Goldenrod]Stator[/color] Load determines how much power is made by each revolution of the [color=DarkOrange]Turbine[/color].
+	### Carga do Estator
+	A Carga do [color=Goldenrod]Estator[/color] determina quanta energia é feita por cada revolução da [color=DarkOrange]Turbina[/color].
 
-	The higher the [color=Goldenrod]Stator[/color] Load, the lower the [color=MediumTurquoise]RPM[/color] of the [color=DarkOrange]Turbine[/color].
+	Quanto maior a Carga do [color=Goldenrod]Estator[/color], menores os [color=MediumTurquoise]RPM[/color] da [color=DarkOrange]Turbina[/color].
 
-	[color=Goldenrod]Stator[/color] Load is usually adjusted to ensure the [color=DarkOrange]Turbine[/color] stays at optimal [color=MediumTurquoise]RPM[/color].
+	A Carga do [color=Goldenrod]Estator[/color] geralmente é ajustada para garantir que a [color=DarkOrange]Turbina[/color] permaneça em [color=MediumTurquoise]RPM[/color] ótimos.
 
 	### RPM
-	The [color=MediumTurquoise]RPM[/color] (Rotations Per Minute) represents how fast the [color=DarkOrange]Turbine[/color] is spinning.
+	O [color=MediumTurquoise]RPM[/color] (Rotações Por Minuto) representa quão rápido a [color=DarkOrange]Turbina[/color] está girando.
 
-	The [color=DarkOrange]Turbine[/color] has an optimal [color=MediumTurquoise]RPM[/color], where it will produce the most power.
+	A [color=DarkOrange]Turbina[/color] tem [color=MediumTurquoise]RPM[/color] ótimos, onde ela produzirá mais energia.
 
-	Going faster or slower than optimal will result in poor performance.
+	Ir mais rápido ou mais lento que o ótimo resultará em desempenho ruim.
 
-	## Turbine Status Indicators
-	The [color=DarkOrange]Turbine[/color] has a set of status indicators to warn operators of dangerous conditions or faults.
+	## Indicadores de Status da Turbina
+	A [color=DarkOrange]Turbina[/color] tem um conjunto de indicadores de status para avisar operadores sobre condições perigosas ou falhas.
 
-	### Overspeed
-	The [color=DarkOrange]Turbine[/color] [color=MediumTurquoise]RPM[/color] is too high.
+	### Sobrevelocidade
+	O [color=MediumTurquoise]RPM[/color] da [color=DarkOrange]Turbina[/color] está muito alto.
 
-	If the [color=DarkOrange]Turbine[/color] [color=MediumTurquoise]RPM[/color] gets too high, it will start to take damage.
+	Se o [color=MediumTurquoise]RPM[/color] da [color=DarkOrange]Turbina[/color] ficar muito alto, ela começará a sofrer danos.
 
-	Prolonged time spent at [color=red]overspeed[/color] or [bold][color=crimson]excessive overspeed[/color][/color] will cause the [color=DarkOrange]Turbine[/color] to [color=red]tear itself apart[/color].
+	Tempo prolongado em [color=red]Sobrevelocidade[/color] ou [bold][color=crimson]Sobrevelocidade Excessiva[/color][/color] causará a [color=DarkOrange]Turbina[/color] a [color=red]se despedaçar[/color].
 
-	Damage to the [color=DarkOrange]Turbine[/color] can be repaired with a [color=yellow]welder[/color], though it will likely take multiple attempts to fully repair it.
+	Dano à [color=DarkOrange]Turbina[/color] pode ser reparado com uma [color=yellow]soldadora[/color], embora provavelmente levará várias tentativas para repará-la completamente.
 
-	### Overtemp
-	The gas going into the [color=DarkOrange]Turbine[/color] is too hot.
+	### Sobretemperatura
+	O gás entrando na [color=DarkOrange]Turbina[/color] está muito quente.
 
-	If the gas coming into the [color=DarkOrange]Turbine[/color] is hotter than [color=red]3000 kelvin[/color], it will trigger an [bold][color=red]emergency purge valve[/color][/bold] and dump the gas into the room.
+	Se o gás entrando na [color=DarkOrange]Turbina[/color] estiver mais quente que [color=red]3000 kelvin[/color], ele acionará uma [bold][color=red]válvula de emergência de purga[/color][/bold] e despejará o gás na sala.
 
-	This hot gas can cause [color=red]serious burns[/color] to personnel or even a [color=OrangeRed]fire[/color], if the gas is flammable.
+	Este gás quente pode causar [color=red]queimaduras graves[/color] ao pessoal ou até mesmo um [color=OrangeRed]incêndio[/color], se o gás for inflamável.
 
-	### Stalling
-	The stator load is too high or the gas is not hot enough.
+	### Estolando
+	A carga do estator está muito alta ou o gás não está quente o suficiente.
 
-	[color=Orchid]Stalling[/color] is where the gas going into the [color=DarkOrange]Turbine[/color] isn't "pushing" hard enough to overcome the stator load's resistance.
+	[color=Orchid]Estolando[/color] é quando o gás entrando na [color=DarkOrange]Turbina[/color] não está "empurrando" com força suficiente para superar a resistência da carga do estator.
 
-	### Undertemp
-	The gas going into the [color=DarkOrange]Turbine[/color] is too cold.
+	### Subtemperatura
+	O gás entrando na [color=DarkOrange]Turbina[/color] está muito frio.
 
-	If the gas is at or below room temperature (20C), there is no energy for the [color=DarkOrange]Turbine[/color] to take out of it.
+	Se o gás estiver em ou abaixo da temperatura ambiente (20C), não há energia para a [color=DarkOrange]Turbina[/color] extrair dele.
 
 
-	# Starting the Nuclear Generator
-	To start the [color=GreenYellow]Nuclear Generator[/color], engineers must follow these steps:
-	- Fill the coolant loop with a gas.
-	- Set the [color=DarkOrange]Turbine[/color]'s Flow Rate according to the [color=GreenYellow]Reactor[/color] setup.
-	- Insert the [color=Chartreuse]Fuel Rods[/color] into the empty spots in the [color=GreenYellow]Reactor[/color] grid, typically by a [color=LightSkyBlue]control rod(s)[/color] and surrounded by [color=Crimson]heat exchangers[/color] and [color=PaleVioletRed]gas channels[/color].
-	- Retract the [color=LightSkyBlue]Control Rods[/color] to start warming up the [color=GreenYellow]Reactor[/color].
-	- As the [color=GreenYellow]Reactor[/color] warms up, engineers will want to keep adjusting the [color=DarkOrange]Turbine[/color]'s [color=Goldenrod]Stator[/color] Load to maintain optimal [color=MediumTurquoise]RPM[/color].
-	- Once the [color=DarkOrange]Turbine[/color] is making enough power for the station, the [color=LightSkyBlue]Control Rods[/color] should be inserted to the point of maintaining [color=GreenYellow]Reactor[/color] temperature.
+	# Iniciando o Gerador Nuclear
+	Para iniciar o [color=GreenYellow]Gerador Nuclear[/color], os engenheiros devem seguir estes passos:
+	- Encher o loop de refrigerante com um gás.
+	- Definir a Vazão da [color=DarkOrange]Turbina[/color] de acordo com a configuração do [color=GreenYellow]Reator[/color].
+	- Inserir as [color=Chartreuse]Varas de Combustível[/color] nos espaços vazios na grade do [color=GreenYellow]Reator[/color], geralmente ao lado de [color=LightSkyBlue]vara(s) de controle[/color] e cercadas por [color=Crimson]trocadores de calor[/color] e [color=PaleVioletRed]canais de gás[/color].
+	- Retrair as [color=LightSkyBlue]Varas de Controle[/color] para começar a aquecer o [color=GreenYellow]Reator[/color].
+	- Conforme o [color=GreenYellow]Reator[/color] aquece, os engenheiros vão querer continuar ajustando a Carga do [color=Goldenrod]Estator[/color] da [color=DarkOrange]Turbina[/color] para manter [color=MediumTurquoise]RPM[/color] ótimos.
+	- Uma vez que a [color=DarkOrange]Turbina[/color] esteja produzindo energia suficiente para a estação, as [color=LightSkyBlue]Varas de Controle[/color] devem ser inseridas até o ponto de manter a temperatura do [color=GreenYellow]Reator[/color].
 
-	Over time, the [color=Chartreuse]Fuel Rods[/color] will lose radioactivity, meaning the [color=LightSkyBlue]Control Rods[/color] should be retracted further or the [color=Chartreuse]fuel rods[/color] replaced.
+	Com o tempo, as [color=Chartreuse]Varas de Combustível[/color] perderão radioatividade, significando que as [color=LightSkyBlue]Varas de Controle[/color] devem ser retraídas mais ou as [color=Chartreuse]varas de combustível[/color] substituídas.
 
 </Document>

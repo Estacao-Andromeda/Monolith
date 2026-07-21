@@ -1,7 +1,7 @@
 <Document>
-  # Mechs
+  # Mechas
 
-  Industrial Exoskeletons, Powered Armor, and Combat Frames.
+  Exoesqueletos Industriais, Armaduras Energizadas e Estruturas de Combate.
 
   <Box>
     <GuideEntityEmbed Entity="MechGygax"/>
@@ -9,25 +9,25 @@
 
   <Box>
     <GuideEntityEmbed Entity="MechEquipmentGrabber"/>
-    <GuideEntityEmbed Entity="HeavyMechProjector" Caption="RAVAGER Plasma Cannon"/>
+    <GuideEntityEmbed Entity="HeavyMechProjector" Caption="Canhão de Plasma RAVAGER"/>
   </Box>
 
 
-  Mechs are giant behemoths of metal designed to carry out a variety of functions respective to their model and equipment. They are piloted by players and require power cells to function.
+  Mechas são gigantescos behemoths de metal desenhados para executar uma variedade de funções respectivas ao seu modelo e equipamento. Eles são pilotados por jogadores e requerem células de energia para funcionar.
 
-  Each Mech requires its own set of limbs and parts to create. These are fabricated at the [color=lightblue]Exosuit Fabricator[/color], except for the circuit boards which are made at a [color=tan]Circuit Board Imprinter[/color].
+  Cada Mecha requer seu próprio conjunto de membros e peças para ser criado. Estes são fabricados na [color=lightblue]Fabricadora de Exotrajes[/color], exceto pelas placas de circuito que são feitas numa [color=tan]Impressora de Placas de Circuito[/color].
 
-  Mechs within the same Series may share limbs but use a different chassis. For example, an S2 Mech can be constructed with either a Broadsword or Sabre harness, but both use the Broadsword's limbs. The same is true for their circuit boards.
+  Mechas dentro da mesma Série podem compartilhar membros mas usar um chassi diferente. Por exemplo, um Mecha S2 pode ser construído com um arnês Broadsword ou Sabre, mas ambos usam os membros do Broadsword. O mesmo é verdade para as suas placas de circuito.
 
-  Once you have printed the harness, begin adding the limbs and follow the instructions by examining the under-construction Mech.
+  Uma vez que tenha impresso o arnês, comece a adicionar os membros e siga as instruções examinando o Mecha em construção.
 
-  Once the Mech has finished construction, add whatever equipment you wish to it. Mechs are restricted by their Mounting slots in both capacity and type of equipment that can be mounted. For example, a Ripley cannot mount a RAVAGER-type Plasma Cannon.
+  Uma vez que o Mecha tenha terminado a construção, adicione qualquer equipamento que deseje. Mechas são restritos pelos seus slots de Montagem tanto em capacidade quanto no tipo de equipamento que pode ser montado. Por exemplo, uma Ripley não pode montar um Canhão de Plasma tipo RAVAGER.
 
-  All Mechs operate using their equipped power cell/power cage while in operation. Using equipment and firing weapons induces additional drain. Power cells can be ejected from a mech using a crowbar.
+  Todos os Mechas operam usando sua célula de energia/gaiola de energia equipada durante a operação. Usar equipamentos e disparar armas causa dreno adicional. Células de energia podem ser ejetadas de um mecha usando uma pé de cabra.
 
-  All Mechs are also easily visible as radar signatures while in space.
+  Todos os Mechas também são facilmente visíveis como assinaturas de radar enquanto no espaço.
 
-  ##Civilian Mechs
+  ##Mechas Civis
   <Box>
     <GuideEntityEmbed Entity="MechRipley"/>
     <GuideEntityEmbed Entity="MechRipley2"/>
@@ -37,30 +37,30 @@
     <GuideEntityEmbed Entity="MechHonker"/>
   </Box>
 
-  These mechs can mount either Industrial or Clown equipment, or nothing at all.
+  Estes mechas podem montar equipamentos Industriais ou de Palhaço, ou nada afinal.
 
- The Ripley, Ripley Mk2, and Clarke are designed for cargo and salvage applications, as their Hydraulic Clamp allows carrying crates, lockers, and many other heavy objects with ease, while the Exosuit Drill and Exosuit Proto-Kinetic Accelerator allow self-defense against ore creatures and expedition fauna.
+ A Ripley, Ripley Mk2 e Clarke são desenhados para aplicações de carga e salvamento, já que sua Pinça Hidráulica permite carregar caixotes, armários e muitos outros objetos pesados com facilidade, enquanto a Perfuratriz de Exotraje e Acelerador Proto-Cinético de Exotraje permitem auto-defesa contra criaturas de minério e fauna de expedição.
 
- The Ripley Mk2 is insulated against space, and can supply its operator with an endless supply of breathable atmosphere. Note that construction of a Ripley Mk2 requires an Exosuit Upgrade Kit.
+ A Ripley Mk2 é isolada contra o espaço, e pode fornecer ao seu operador um suprimento infinito de atmosfera respirável. Note que a construção de uma Ripley Mk2 requer um Kit de Upgrade de Exotraje.
   <Box>
     <GuideEntityEmbed Entity="RipleyUpgradeKit" Caption=""/>
   </Box>
 
-The Clarke has its own construction process, but it is equipped with space insulation, breathable atmosphere, and maneuvering jets for ease of use in space.\n
+O Clarke tem seu próprio processo de construção, mas é equipado com isolamento espacial, atmosfera respirável, e jatos de manobra para facilidade de uso no espaço.\n
 
 
-  The Hamtr and Vim are made for the use of animals and critters. The Hamtr is only capable of mounting the Small Hydraulic Clamp.
+  O Hamtr e Vim são feitos para o uso de animais e bichinhos. O Hamtr é apenas capaz de montar a Pinça Hidráulica Pequena.
 
-  The H.O.N.K mech is capable of mounting its associated Clowning implements, such as the Mech Horn, Banana Mortar, and Mousetrap Mortar.
+  O mecha H.O.N.K é capaz de montar seus implementos associados de Palhaçada, como a Buzina de Mecha, Morteiro de Bananas e Morteiro de Armadilhas de Rato.
   <Box>
     <GuideEntityEmbed Entity="MechEquipmentHorn"/>
     <GuideEntityEmbed Entity="WeaponMechSpecialBananaMortar"/>
     <GuideEntityEmbed Entity="WeaponMechSpecialMousetrapMortar"/>
   </Box>
 
-##Camera Controls and Other Tricks
-- Mechs currently lock their rotation to the ship/station you enter them on, which will cause you to uncontrollably rotate in space. Press your Camera Reset keybind (Default: Numpad 8) to both reset your camera to point towards true North and unanchor it from the ship.
-- Camera Zoom controls can be used in S2/S4 Mechs to scale how far you can see down to normal zoom, when needed.
-- Mechs standing on a ship's lattice/tiles will survive an FTL jump even while exposed to space.
-- Power Cages can be inserted into Mechs instead of standard Power Cells. These are printable at a Mercenary Techfab or Military-Multipurpose Assembler with the applicable researched technology.
+##Controles de Câmera e Outros Truques
+- Mechas atualmente travam sua rotação à nave/estação onde você entra neles, o que te fará girar incontrolavelmente no espaço. Pressione sua keybind de Reset de Câmera (Padrão: Numpad 8) para resetar sua câmera para apontar ao Norte verdadeiro e desancorar da nave.
+- Controles de Zoom de Câmera podem ser usados em Mechas S2/S4 para escalar o quão longe você pode ver até o zoom normal, quando necessário.
+- Mechas parados na lattice/tiles de uma nave sobreviverão a um salto FTL mesmo enquanto expostos ao espaço.
+- Gaiolas de Energia podem ser inseridas em Mechas ao invés de Células de Energia padrão. Estas são imprimíveis numa Techfab de Mercenário ou Montadora Multifuncional Militar com a tecnologia pesquisada aplicável.
 </Document>

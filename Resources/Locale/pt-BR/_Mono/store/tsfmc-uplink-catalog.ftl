@@ -121,10 +121,10 @@ uplink-security-flyssa-voucher-desc = Um pequeno cartão que contém os dados pa
 uplink-security-sentry-mk290-name = Sistema de Sentinela Implantável MK-290
 uplink-security-sentry-mk290-desc = Uma sentinela portátil multipropósito, capaz de usar carregadores 5.56x45mm, 6.8x52mm e 7.62x39mm. Requer uma chave de fenda para desmontar uma vez colocada.
 
-uplink-security-hardsuit-m82b-name = Traje Duro M82b
+uplink-security-hardsuit-m82b-name = Traje Rígido M82b
 uplink-security-hardsuit-m82b-desc = Uma variante do M-82c para proteção NBC, geralmente utilizada por corpsmen.
 
-uplink-security-hardsuit-m82c-name = Traje Duro M82c
+uplink-security-hardsuit-m82c-name = Traje Rígido M82c
 uplink-security-hardsuit-m82c-desc = Um sistema protetor básico para ambientes perigosos (como espaço). Assume o papel de um colete à prova de balas no equipamento médio do fuzileiro TSF.
 
 uplink-security-pulserifle-name = Rifle de Pulso

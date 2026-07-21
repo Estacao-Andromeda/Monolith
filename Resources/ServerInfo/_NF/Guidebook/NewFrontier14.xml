@@ -1,34 +1,34 @@
 <Document>
-  # The Monolith Beckons
+  # O Monolith Convoca
 
-Like many others before and after you, you've come to this sector for many things. Be it glory, be it The Monolith, be it war, be it money. You're here for a reason, it's time to get started.
+Como muitos outros antes e depois de você, você veio a este setor por muitas coisas. Seja por glória, seja pelo Monolith, seja por guerra, seja por dinheiro. Você está aqui por um motivo, é hora de começar.
 
-[color=#33bbff]If you'd like a hand, ask on the radio, or talk to somebody.[/color]
-The [color=#dd0000]Station Traffic Control[/color] or [color=#009933]Colonial Liaison[/color] should be able to help, they're commonly found on the CO.
+[color=#33bbff]Se precisar de ajuda, peça no rádio ou converse com alguém.[/color]
+O [color=#dd0000]Controle de Tráfego da Estação[/color] ou o [color=#009933]Líder Colonial[/color] devem ser capazes de ajudar, geralmente são encontrados no CO.
 
-## Economy
+## Economia
   <Box>
     <GuideEntityEmbed Entity="ComputerBankATM"/>
     <GuideEntityEmbed Entity="SpaceCash1000"/>
     <GuideEntityEmbed Entity="ComputerShipyard"/>
   </Box>
-  Any money that you make is [bold]yours[/bold], and will be available in future shifts if deposited at a [color=#44cc00]Galactic Bank ATM[/color] on Colonial Outpost or Tinnia's Rest.
+Todo o dinheiro que você ganhar é [bold]seu[/bold], e estará disponível em turnos futuros se for depositado em um [color=#44cc00]caixa eletrônico do Banco Galáctico[/color] no Posto Colonial ou em Tinnia's Rest.
 
-To make money, why not:
-- Join a ship's crew? Ask on the radio if anyone needs extra crew, and work to help your captain.
-- Get a job on station? Ask the [color=#009933]Colonial Liaison[/color] (follow the SR signs) if anything needs doing.
-- Use a [color=#cccc00]shipyard console[/color] to purchase your own ship.
+Para ganhar dinheiro, que tal:
+- Entrar para a tripulação de uma nave? Pergunte no rádio se alguém precisa de tripulantes extras e trabalhe para ajudar seu capitão.
+- Conseguir um trabalho na estação? Pergunte ao [color=#009933]Líder Colonial[/color] (siga as placas de SR) se há algo para fazer.
+- Usar um [color=#cccc00]console de estaleiro[/color] para comprar sua própria nave.
 
-## Amenities
+## Confortos
   <Box>
     <GuideEntityEmbed Entity="VendingMachineAstroVend"/>
     <GuideEntityEmbed Entity="VendingMachineAmmo"/>
     <GuideEntityEmbed Entity="MachineCryoSleepPod"/>
   </Box>
-  Some provisions (e.g. air tanks, salvage equipment) are available from vendors on Colonial Outpost, but most amenities (medical services, food) should be offered by players on shuttles or at the Trade Depot.
+Algumas provisões (ex. tanques de ar, equipamentos de salvamento) estão disponíveis em fornecedores no Posto Colonial, mas a maioria dos confortos (serviços médicos, comida) deve ser oferecida por jogadores em ônibus espaciais ou no Depósito de Comércio.
 
-Be sure to stock up at the Trade Depot if going out on an extended voyage, and take advantage of the [color=#33bbff]medical insurance tracker[/color] in your loadout, or from the NanoMed vendor in medbay.
+Certifique-se de abastecer-se no Depósito de Comércio se for fazer uma viagem prolongada, e aproveite o [color=#33bbff]rastreador de seguro médico[/color] em seu equipamento, ou do fornecedor NanoMed na enfermaria.
 
-Shifts on the Colossus Sector typically last for [color=#33bbff]six hours[/color].
-If you need to end your shift early or take a break, use the [color=#33bbff]cryo sleep chambers[/color] in the medbay on Colonial Outpost.
+Turnos no Setor Colossus geralmente duram [color=#33bbff]seis horas[/color].
+Se precisar encerrar seu turno mais cedo ou fazer uma pausa, use as [color=#33bbff]câmaras de sono criogênico[/color] na enfermaria do Posto Colonial.
 </Document>

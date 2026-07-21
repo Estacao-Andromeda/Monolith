@@ -1,51 +1,51 @@
 <Document>
-# Part Manipulation
-This is how you will turn felinids into humans, or vice versa if you're feeling particularly cruel.
+# Manipulacao de Partes
+É assim que você transformara felinideos em humanos, ou vice-versa se estiver se sentindo particularmente cruel.
 
-## Anatomy
-Normally a body has 10 main parts. Those being:
+## Anatomia
+Normalmente um corpo tem 10 partes principais. Sendo elas:
 
 <Box>
-<GuideEntityEmbed Entity="HeadHuman" Caption="head"/>
+<GuideEntityEmbed Entity="HeadHuman" Caption="cabeca"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="RightHandHuman" Caption="right hand"/>
-<GuideEntityEmbed Entity="RightArmHuman" Caption="right arm"/>
+<GuideEntityEmbed Entity="RightHandHuman" Caption="mao direita"/>
+<GuideEntityEmbed Entity="RightArmHuman" Caption="braco direito"/>
 <GuideEntityEmbed Entity="TorsoHuman" Caption="torso"/>
-<GuideEntityEmbed Entity="LeftArmHuman" Caption="left arm"/>
-<GuideEntityEmbed Entity="LeftHandHuman" Caption="left hand"/>
+<GuideEntityEmbed Entity="LeftArmHuman" Caption="braco esquerdo"/>
+<GuideEntityEmbed Entity="LeftHandHuman" Caption="mao esquerda"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="RightFootHuman" Caption="right foot"/>
-<GuideEntityEmbed Entity="RightLegHuman" Caption="right leg"/>
-<GuideEntityEmbed Entity="LeftLegHuman" Caption="left leg"/>
-<GuideEntityEmbed Entity="LeftFootHuman" Caption="left foot"/>
+<GuideEntityEmbed Entity="RightFootHuman" Caption="pe direito"/>
+<GuideEntityEmbed Entity="RightLegHuman" Caption="perna direita"/>
+<GuideEntityEmbed Entity="LeftLegHuman" Caption="perna esquerda"/>
+<GuideEntityEmbed Entity="LeftFootHuman" Caption="pe esquerdo"/>
 </Box>
 
-Certain species might have more or less parts, such as tails, wings, or extra limbs, but this is the rough outline of what you'll see.
-To detach a limb, you'll need to apply the Remove Part surgery on it, which will then remove it without harming the patient.
+Certas especies podem ter mais ou menos partes, como caudas, asas ou membros extras, mas este e o esboco geral do que você vera.
+Para destacar um membro, você precisará aplicar a cirurgia Remover Parte nele, o que o removera sem prejudicar o paciente.
 
-However if you want to reattach the limb, you'll need to apply the Attach Part surgery where you want it attached.
-Hands are attached to the arms, feet are attached to the legs. And everything else is attached to the torso.
+No entanto, se você quiser recolocar o membro, precisara aplicar a cirurgia Anexar Parte onde deseja que ele seja anexado.
+Maos sao anexadas aos bracos, pes sao anexados as pernas. E todo o resto e anexado ao torso.
 
 
-## Where do I get more parts?
+## Onde consigo mais partes?
 
-Normally when your patients come in needing new limbs, they'll need to get a new one, as their old ones will be either missing, or damaged beyond repair.
-For this you can use the Medical Biofabricator with some Biomass. Which can manufacture Biosynthetic limbs for all species.
+Normalmente, quando seus pacientes chegam precisando de novos membros, eles precisarão conseguir um novo, pois os antigos estaram ausentes ou danificadosalem do reparo.
+Para isso, você pode usar o Biofabricador Medico com alguma Biomassa. Que pode fabricar membros Biossinteticos para todas as especies.
 
 <Box>
-<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medical biofabricator"/>
-<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="biofabricator board"/>
-<GuideEntityEmbed Entity="MaterialBiomass" Caption="biomass"/>
+<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="biofabricador medico"/>
+<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="placa de biofabricador"/>
+<GuideEntityEmbed Entity="MaterialBiomass" Caption="biomassa"/>
 </Box>
 
-By default, every Chief Medical Officer has access to a Medical Biofabricator board in their locker.
+Por padrao, cada Chefe de Medicina tem acesso a uma placa de Biofabricador Medico em seu armário.
 
-## I reattached my patient's limb, but
-## it's not working?
+## Reconectei o membro do meu paciente,
+## mas não esta funcionando?
 
-Your patient has taken enough damage to the point that their limb's nerves were badly damaged, and they need to be healed properly before it can work again.
-For this you can try the Tend Wounds surgeries, or letting them use topicals on their wounds.
+Seu paciente sofreu danos suficientes a ponto de os nervos do membro estarem gravemente danificados, e eles precisam ser curados adequadamente antes que possa funcionar novamente.
+Para isso, você pode tentar as cirurgias Tratar Ferimentos, ou deixar usar topicos em seus ferimentos.
 
 </Document>

@@ -1,23 +1,23 @@
-﻿<Document>
-  # Inlet Pressure Regulator
-  The Inlet Pressure Regulator is a passive device that allows gas to escape from a [textlink="pipenet" link="PipeNetworks"] when the pressure exceeds a certain threshold.
+<Document>
+  # Regulador de Pressão de Entrada
+  O Regulador de Pressão de Entrada é um dispositivo passivo que permite que o gás escape de uma [textlink="pipenet" link="PipeNetwork"] quando a pressão excede um certo limite.
 
   <Box>
     <GuideEntityEmbed Entity="GasPressureRegulator"/>
   </Box>
 
-  ## Operation
-  The valve will automatically [color=green]open[/color] when the pressure in the pipe exceeds the set threshold, allowing gas to escape to the connected output pipe.
+  ## Operação
+  A válvula se [color=green]abrirá[/color] automaticamente quando a pressão no tubo exceder o limite definido, permitindo que o gás escape para o tubo de saída conectado.
 
-  The valve will [color=red]close[/color] again when the pressure drops below the set threshold.
+  A válvula [color=red]fechará[/color] novamente quando a pressão cair abaixo do limite definido.
 
-  The flow rate of the valve is limited to [color=orange][protodata="GasPressureRegulator" comp="GasPressureRegulator" member="MaxTransferRate"/] L/s[/color].
+  A vazão da válvula é limitada a [color=orange][protodata="GasPressureRegulator" comp="GasPressureRegulator" member="MaxTransferRate"/] L/s[/color].
 
-  ## Example Uses
-  The valve is commonly used to prevent overpressure situations in gas systems, such as [textlink="TEG" link="TEG"] cooling loops and [textlink="pipes" link="Pipes"], which would cause a failure in the system (clogged [textlink="pumps" link="Pumps"]).
+  ## Exemplos de Uso
+  A válvula é comumente usada para prevenir situações de sobrepressão em sistemas de gás, como [textlink="TEG" link="TEG"] loops de resfriamento e [textlink="pipes" link="Pipes"], o que causaria uma falha no sistema (entupimento de [textlink="pumps" link="Pumps"]).
 
-  The valve can also be used to vent off ready-to-use, hot gas from a burn chamber.
-  For example, it may be undesirable to allow a burn chamber to drop below a specific pressure for a long time, as this may cause the gas to cool down too much and thin out, which would cause a flameout.
+  A válvula também pode ser usada para liberar gás quente pronto para uso de uma câmara de combustão.
+  Por exemplo, pode ser indesejável permitir que uma câmara de combustão caia abaixo de uma pressão específica por muito tempo, pois isso pode causar o resfriamento excessivo do gás e seu rarefação, o que causaria um apagamento da chama.
 
-  An inlet pressure regulator can be used to vent off excess gas, while keeping the pressure in the burn chamber above a certain threshold, which may help in sustaining a fire in the chamber.
+  Um regulador de pressão de entrada pode ser usado para liberar o excesso de gás, mantendo a pressão na câmara de combustão acima de um certo limite, o que pode ajudar a sustentar um fogo na câmara.
 </Document>

@@ -1,7 +1,7 @@
 <Document>
   # Asakim
 
-  Asakim are abandoned pre-fracture genetically enhanced reptillian bioweapons, they are remnants of long-gone wars, only woken up after extreme circumstances causing them to have a [color=red]cryostasis failure[/color] near the Colossus Sector.
+  Os Asakim são armas biológicas répteis geneticamente aprimoradas abandonadas do pré-fratura, são remanescentes de guerras há muito passadas, apenas despertados após circunstâncias extremas que causaram uma [color=red]falha na criostase[/color] perto do Setor Colossus.
 
   <Box>
     <GuideEntityEmbed Entity="MobAsakim"/>
@@ -12,28 +12,28 @@
     <GuideEntityEmbed Entity="WeaponRifleAsakimAutopulser"/>
   </Box>
 
-  ##As an Asakim:
-  - You generally have no modern knowledge (maybe basic at most) of the sector and its inhabitants. You don't speak Andromeda Standard, and you shouldn't know about the culture of the TSF, PDV, or other factions.
-  - Your goal is to secure territory and establish a base of operations in the absence of a chain of command.
-  - Should you find stolen pre-fracture technology, you may reclaim it by force.
-  - [bold]Your specialized gear is incredibly [color=#00CCFF]valuable and rare[/color], you should never give it up.[/bold]
-  - [color=green]Civilians (Non-Faction) are not your enemy[/color], and can be bartered with if you can get past the language barrier.
+  ##Como um Asakim:
+  - Você geralmente não tem conhecimento moderno (talvez básico no máximo) do setor e de seus habitantes. Você não fala o Padrão Andrômeda, e não deveria saber sobre a cultura da TSF, PDV, ou outras facções.
+  - Seu objetivo é garantir território e estabelecer uma base de operações na ausência de uma cadeia de comando.
+  - Caso você encontre tecnologia pré-fratura roubada, você pode recuperá-la pela força.
+  - [bold]Seu equipamento especializado é incrivelmente [color=#00CCFF]valioso e raro[/color], você nunca deve entregá-lo.[/bold]
+  - [color=green]Civis (Não-Facção) não são seus inimigos[/color], e podem ser negociados se você conseguir superar a barreira linguística.
 
-  [color=#00FFCC][bold][italic]Fight with honor, prevent harm to the innocent, and destroy anything that stands in your path.[/italic][/bold][/color]
+  [color=#00FFCC][bold][italic]Lute com honra, previna danos aos inocentes, e destrua qualquer coisa que esteja em seu caminho.[/italic][/bold][/color]
 
-  ##Species Notes:
-  [bold]As a genemodded trained bioweapon, you'll find that:[/bold]
-  - Your highly developed lungs give you additional powerful melee damage, and claws inject 1u of [color=orange]Gastrotoxin[/color] on hit.
-  - Your thick scales protect you more than they normally would.
-  - Your additional eyes grants you basic biological nightvision.
-  - You are generally bulkier than most, and have more power to drag things around.
-  - Your heart is capable of processing up to 5 reagents at once.
+  ##Notas da Espécie:
+  [bold]Como uma arma biológica treinada e modificada geneticamente, você descobrirá que:[/bold]
+  - Seus pulmões altamente desenvolvidos lhe concedem dano corpo a corpo adicional poderoso, e suas garras injetam 1u de [color=orange]Gastrotoxina[/color] ao acertar.
+  - Suas escamas grossas protegem você mais do que normalmente fariam.
+  - Seus olhos adicionais concedem a você visão noturna biológica básica.
+  - Você é geralmente mais robusto que a maioria, e tem mais poder para arrastar coisas.
+  - Seu coração é capaz de processar até 5 reagentes de uma vez.
 
-  ## Misc Notes:
-  - Asakim are generally undiscovered to the sector, and should not be commonly known IC.
-  - [color=red][bold]Like Chimeras, you are not immune to safezone rules as an Asakim.[/bold][/color]
-  - Asakim are hostile towards Factions and do not require escalation to attack or be attacked.
-  - You are allied with the Remnant ADS ships and are expected to follow the orders of ADC AI units.
-  - Stolen pre-fracture technology includes items and devices [bold]only[/bold] accessible through pre-fracture tech disks or theft, such as MS-250/500 Shield Generators and Curio-class ship weaponry. Research-tree technology such as CTLA-50s do not qualify as stolen technology.
+  ## Notas Diversas:
+  - Os Asakim são geralmente desconhecidos para o setor, e não devem ser comumente conhecidos IC.
+  - [color=red][bold]Como os Quimeras, você não é imune às regras de safezone como um Asakim.[/bold][/color]
+  - Os Asakim são hostis em relação às Facções e não requerem escalonamento para atacar ou ser atacado.
+  - Você é aliado das naves ADS Remanescentes e deve seguir as ordens das unidades de IA ADC.
+  - Tecnologia pré-fratura roubada inclui itens e dispositivos [bold]apenas[/bold] acessíveis através de discos de tecnologia pré-fratura ou roubo, como Geradores de Escudo MS-250/500 e armamento de nave classe Curio. Tecnologia da árvore de pesquisa como CTLA-50 não se qualifica como tecnologia roubada.
 
 </Document>

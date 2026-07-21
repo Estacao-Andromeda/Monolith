@@ -1,9 +1,9 @@
-﻿<Document>
-  # Solar Panels
-  Solar Panels are a low-maintenance passive power source that generates power from incoming sunlight.
+<Document>
+  # Painéis Solares
+  Painéis Solares são uma fonte de energia passiva de baixa manutenção que gera energia a partir da luz solar recebida.
 
-  They are a renewable source of power that can be used to supplement generators in the station's power grid.
-  This is extremely useful, as while most generators burn through some type of fuel in some form or fashion, solar panels generate power for free.
+  Eles são uma fonte renovável de energia que pode ser usada para complementar geradores na rede de energia da estação.
+  Isso é extremamente útil, pois embora a maioria dos geradores consuma algum tipo de combustível de alguma forma, os painéis solares geram energia de graça.
 
   <Box>
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
@@ -11,62 +11,62 @@
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
   </Box>
 
-  ## Power Generation
-  Solar panels generate power based on their relative angle to the sun, and if they are occluded by other objects.
+  ## Geração de Energia
+  Painéis solares geram energia com base no seu ângulo relativo ao sol, e se estão obstruídos por outros objetos.
 
-  Because of this, you might see some panels generating 0 W of power, while others generate a lot more.
-  This is because the station is occluding some panels, so don't worry about it too much.
-  Most stations have solar arrays placed at all sides of the station, so there's always some power being generated.
+  Por causa disso, você pode ver alguns painéis gerando 0 W de energia, enquanto outros geram muito mais.
+  Isso acontece porque a estação está obstruindo alguns painéis, então não se preocupe demais com isso.
+  A maioria das estações tem arrays solares colocados em todos os lados da estação, então sempre há alguma energia sendo gerada.
 
-  When directly facing the sun with no object occlusion, regular solar panels can generate [color=orange][protodata="SolarPanel" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color] of power.
+  Quando estão voltados diretamente para o sem obstrução, painéis solares regulares podem gerar [color=orange][protodata="SolarPanel" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color] de energia.
 
-  Solar panels generate [color=orange]HV power[/color], and as such require an [color=orange]HV wire[/color] running underneath them to connect to the station's power grid.
+  Painéis solares geram energia [color=orange]HV[/color], e como tal requerem um [color=orange]fio HV[/color] passando por baixo deles para conectar à rede de energia da estação.
 
-  ## Power Bridge
-  Solar panels might seem like an unnecessary power source at first glance.
-  After all, we have this giant black hole in the center of the station.
-  Why bother setting up solars when we can use that?
+  ## Ponte de Energia
+  Painéis solares podem parecer uma fonte de energia desnecessária à primeira vista.
+  Afinal, temos este buraco negro gigante no centro da estação.
+  Por que se preocupar em configurar solares quando podemos usar isso?
 
-  It's ideal to set up solars alongside the [textlink="AME" link="AME"] for a few reasons:
-  - Having active solar panels alongside the [textlink="AME" link="AME"] increases the runtime of the station's batteries significantly more than just the [textlink="AME" link="AME"] alone. This can buy engineers more time to setup bigger power sources.
-  - Having active solar panels can reduce load on other grid producers. For example, if the solar arrays are producing enough power to satisfy half the station's needs, that is reflected in a reduced load on other engines, which can reduce the amount of fuel they burn.
+  É ideal configurar solares junto com a [textlink="AME" link="AME"] por alguns motivos:
+  - Ter painéis solares ativos junto com a [textlink="AME" link="AME"] aumenta significativamente o tempo de funcionamento das baterias da estação muito mais do que apenas a [textlink="AME" link="AME"] sozinha. Isso pode dar aos engenheiros mais tempo para configurar fontes de energia maiores.
+  - Ter painéis solares ativos pode reduzir a carga em outros produtores da rede. Por exemplo, se os arrays solares estiverem produzindo energia suficiente para satisfazer metade das necessidades da estação, isso se reflete em uma carga reduzida em outros motores, o que pode reduzir a quantidade de combustível que eles queimam.
 
 
-  ## Adjusting Panels
-  Because the station is orbiting a star, the sun's position in space changes over time.
-  Solar panels need to be pointing straight at the sun to generate power efficiently, and they need to move over time to keep up with the sun's position.
+  ## Ajustando Painéis
+  Como a estação está orbitando uma estrela, a posição do sol no espaço muda com o tempo.
+  Painéis solares precisam estar apontando diretamente para o sol para gerar energia de forma eficiente, e eles precisam se mover com o tempo para acompanhar a posição do sol.
 
-  The angle at which solar panels face to can be adjusted at a Solar Control Computer.
+  O ângulo no qual os painéis solares estão voltados pode ser ajustado em um Computador de Controle Solar.
   <Box>
     <GuideEntityEmbed Entity="ComputerSolarControl"/>
   </Box>
 
-  You can also adjust the rate at which the panels move to track the sun.
+  Você também pode ajustar a taxa na qual os painéis se movem para rastrear o sol.
 
-  The rate at which the sun moves around the station changes each shift, so time the sun's position and adjust the rate accordingly.
+  A taxa na qual o sol se move ao redor da estação muda a cada turno, então cronometre a posição do sol e ajuste a taxa adequadamente.
 
-  The Solar Control Computer also reports on the total power generated by the solar panels.
+  O Computador de Controle Solar também reporta a energia total gerada pelos painéis solares.
 
-  ## Construction
+  ## Construção
 
-  Solar panels can be constructed by using two glass sheets on a solar assembly.
+  Painéis solares podem ser construídos usando duas chapas de vidro em uma montagem solar.
   <Box>
     <GuideEntityEmbed Entity="SolarAssembly" Caption=""/>
     <GuideEntityEmbed Entity="SheetGlass10" Caption=""/>
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
   </Box>
 
-  You can purchase solar assemblies from Cargo.
+  Você pode comprar montagens solares do Cargueiro.
 
-  ## Repairs
-  Solar panels can sometimes be damaged, and require repair.
+  ## Reparos
+  Painéis solares às vezes podem ser danificados, e requerem reparo.
 
   <Box>
     <GuideEntityEmbed Entity="SolarPanelBroken"/>
   </Box>
 
-  To fix them, you can use a crowbar to pry the broken glass shards out of the panel.
-  Weld these glass shards into glass sheets, and then use them to make a new panel.
+  Para consertá-los, você pode usar uma pé de cabra para retirar os estilhaços de vidro quebrados do painel.
+  Soldar esses estilhaços de vidro em chapas de vidro, e então usá-los para fazer um novo painel.
 
   <Box>
     <GuideEntityEmbed Entity="SolarPanelBroken" Caption=""/>
@@ -80,33 +80,33 @@
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
   </Box>
 
-  ## Setting Up Solar Panel Arrays
-  Solar panel arrays are commonly found on the exterior of the station, and are used to generate large amounts of free power for the station.
+  ## Configurando Arrays de Painéis Solares
+  Arrays de painéis solares são comumente encontrados no exterior da estação, e são usados para gerar grandes quantidades de energia gratuita para a estação.
 
-  You can either spacewalk to them from the outside or you can run a loop through the station's maintenance tunnels to reach them.
-  Solar array machine rooms are often marked with signs, and locked behind engineering access.
+  Você pode fazer uma caminhada espacial até eles por fora ou você pode percorrer um loop através dos túneis de manutenção da estação para alcançá-los.
+  As salas de máquinas de arrays solares frequentemente têm marcadores com sinais, e são trancadas atrás de acesso de engenharia.
   <Box>
     <GuideEntityEmbed Entity="SignDirectionalSolar" Caption=""/>
     <GuideEntityEmbed Entity="AirlockEngineering" Caption=""/>
   </Box>
 
-  At the start of the shift solar panels are misaligned and disconnected from the grid.
-  You will need to align them and connect them to the station's power grid to start generating power.
+  No início do turno os painéis solares estão desalinhados e desconectados da rede.
+  Você precisará alinhá-los e conectá-los à rede de energia da estação para começar a gerar energia.
 
-  This usually involves running a line of [color=orange]HV wire[/color] to the pannels from the solar array machine room, and then using a Solar Control Computer to align the panels.
+  Isso geralmente envolve passar uma linha de [color=orange]fio HV[/color] até os painéis a partir da sala de máquinas do array solar, e então usar um Computador de Controle Solar para alinhar os painéis.
 
-  Solar array machine rooms frequently have a Solar Control Computer nearby, as well as an [textlink="SMES" link="PowerStorage"] to store the power generated by the panels for later use.
+  Salas de máquinas de arrays solares frequentemente têm um Computador de Controle Solar nas proximidades, bem como uma [textlink="SMES" link="PowerStorage"] para armazenar a energia gerada pelos painéis para uso posterior.
 
-  ## Upgrading Solar Panels
-  Solar panels can be upgraded to increase their power output.
+  ## Atualizando Painéis Solares
+  Painéis solares podem ser atualizados para aumentar sua saída de energia.
 
   <Box>
     <GuideEntityEmbed Entity="SolarPanelPlasma" Caption=""/>
     <GuideEntityEmbed Entity="SolarPanelUranium" Caption=""/>
   </Box>
 
-  This can be done by replacing the glass sheets in the solar assembly with plasma or uranium glass sheets.
+  Isso pode ser feito substituindo as chapas de vidro na montagem solar por chapas de vidro de plasma ou urânio.
 
-  Plasma and Uranium solar panels generate [color=orange][protodata="SolarPanelPlasma" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color] and [color=orange][protodata="SolarPanelUranium" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color] of power respectively.
-  They also are much tougher than regular solar panels.
+  Painéis solares de Plasma e Urânio geram [color=orange][protodata="SolarPanelPlasma" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color] e [color=orange][protodata="SolarPanelUranium" comp="SolarPanel" member="MaxSupply" format="N0"] W[/color] de energia respectivamente.
+  Eles também são muito mais resistentes do que painéis solares regulares.
 </Document>

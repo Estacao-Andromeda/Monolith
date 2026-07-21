@@ -1,207 +1,207 @@
 <Document>
-  # Argocytes
-  
-  A distant relative of Xenos, Argocytes are known throughout the sector for their ability to eat and digest almost anything, from organic matter to reinforced plastitanium vault walls. Just like Xenos, this species is well-acclimated to hostile environments: neither the vacuum of space nor the extreme heat and pressure of a planet consumed by plasma fire can kill these creatures.
+  # Argócitos
 
-  From our observations, we know Argocytes live in large hives, and have two specialized morphotypes: "Stalkers" and "Guardians". Stalkers are the hive's scouts and workers, hunting for sustainance and digging tunnels with their sharp claws and teeth. Guardians are builders and soldiers, defending and maintaining the hive and accompanying stalkers when the hive needs to settle new areas.
-  
-  This species has fluorosulfuric acid for blood. Argocytes can be butchered for xeno meat (questionably edible), and their stomachs may contain reclaimable construction materials.
-  
+  Um parente distante dos Xenos, os Argócitos são conhecidos em todo o setor por sua capacidade de comer e digerir quase qualquer coisa, desde matéria orgânica até paredes de cofres reforçados de plastitânio. Assim como os Xenos, esta espécie está bem adaptada a ambientes hostis: nem o vácuo do espaço nem o calor extremo e a pressão de um planeta consumido pelo fogo de plasma podem matar essas criaturas.
+
+  A partir de nossas observações, sabemos que os Argócitos vivem em grandes colmeias e possuem dois morfotipos especializados: "Perseguidores" e "Guardiões". Os Perseguidores são os exploradores e trabalhadores da colmeia, caçando para se sustentar e cavando túneis com suas garras e dentes afiados. Os Guardiões são construtores e soldados, defendendo e mantendo a colmeia e acompanhando os perseguidores quando a colmeia precisa se estabelecer em novas áreas.
+
+  Esta espécie tem ácido fluorossulfúrico como sangue. Argócitos podem ser abatidos para carne de xeno (comestível questionável), e seus estômagos podem conter materiais de construção recuperáveis.
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
+
+  # Variantes Conhecidas
   # "Slurva"
-  
-  The first lifecycle stage of the Stalker morphotype. A pathetic creature, incapable of doing much. It is better to kill it now before it has a chance to mature.
-  
+
+  O primeiro estágio de vida do morfotipo Perseguidor. Uma criatura patética, incapaz de fazer muito. É melhor matá-lo agora antes que tenha chance de amadurecer.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteSlurvaExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 15 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3 m/s (3 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 15 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3 m/s (3 m/s)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 3 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]um humano médio pode correr a 4.5 m/s e caminhar a 2.5 m/s.[/italic]
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Skitter"
-  
-  The second lifecycle stage of the Stalker morphotype. Still small, these creatures tend to travel in small packs for safety.
-  
+
+  O segundo estágio de vida do morfotipo Perseguidor. Ainda pequenos, essas criaturas tendem a viajar em pequenos bandos por segurança.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteSkitterExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 30 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 30 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 6 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Swiper"
-  
-  The third lifecycle stage of the Stalker morphotype. Roaming scavengers, usually out on reconnaisance or gathering materials.
-  
+
+  O terceiro estágio de vida do morfotipo Perseguidor. Carroceiros errantes, geralmente em reconhecimento ou coletando materiais.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteSwiperExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 40 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 40 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Glider"
-  
-  The fourth lifecycle stage of the Stalker morphotype. Born and bred hunters, these stalk and prey upon smaller wildlife.
-  
+
+  O quarto estágio de vida do morfotipo Perseguidor. Caçadores natos, estes perseguem e predam a vida selvagem menor.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteGliderExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 50 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (4.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 10 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Crawler"
-  
-  The fifth lifecycle stage of the Stalker morphotype. These deadly pack animals ambush and maul unsuspecting travelers.
-  
+
+  O quinto estágio de vida do morfotipo Perseguidor. Estes animais de matilha mortíferos emboscam e mutilam viajantes desatentos.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteCrawlerExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 60 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 5 m/s (5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 60 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 5 m/s (5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 12 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Founder"
-  
-  The last known lifecycle stage of the Stalker morphotype. Most often seen in mature hives preparing for an expansion.
-  
+
+  O último estágio de vida conhecido do morfotipo Perseguidor. Visto com mais frequência em colmeias maduras preparando-se para expansão.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteFounderExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 150 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 150 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (4.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Barrier"
-  
-  The first lifecycle stage of the Guardian morphotype. Equally as pathetic as the "Slurva". Not yet fully formed, its protective plates are still soft.
-  
+
+  O primeiro estágio de vida do morfotipo Guardião. Igualmente patético quanto ao "Slurva". Ainda não totalmente formado, suas placas protetoras ainda estão macias.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteBarrierExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 35 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 35 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 3 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Molder"
-  
-  The second lifecycle stage of the Guardian morphotype. Usually seen building and repairing structures in the hive.
-  
+
+  O segundo estágio de vida do morfotipo Guardião. Geralmente visto construindo e reparando estruturas na colmeia.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteMolderExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 80 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 80 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Pouncer"
-  
-  The third lifecycle stage of the Guardian morphotype. Provides rapid response for minor threats to the hive.
-  
+
+  O terceiro estágio de vida do morfotipo Guardião. Fornece resposta rápida para ameaças menores à colmeia.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocytePouncerExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 10 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Harvester"
-  
-  A mutation that develops in the third lifecycle stage of the Guardian morphotype. "Harvesters" use their highly caustic saliva to break down and process materials for the hive.
-  
+
+  Uma mutação que se desenvolve no terceiro estágio de vida do morfotipo Guardião. "Ceifadores" usam sua saliva altamente cáustica para decompor e processar materiais para a colmeia.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteHarvesterExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 90 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 90 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=orange]Cáustico[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Enforcer"
-  
-  The fourth lifecycle stage of the Guardian morphotype. The main guards of the hive, these fend off would-be attackers.
-  
+
+  O quarto estágio de vida do morfotipo Guardião. Os guardas principais da colmeia, estes repelem possíveis atacantes.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteEnforcerExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Leviathing"
-  
-  The final known lifecycle stage of the Guardian morphotype. These hulking beasts lead attacks on the hive's enemies.
-  
+
+  O estágio final conhecido do morfotipo Guardião. Estas bestas massivas lideram ataques aos inimigos da colmeia.
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteLeviathingExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 500 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 25 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 500 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 25 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # Objetivos da Missão
+  ## Eliminação
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteLeviathingExpeditions"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]leviathing[/color] within given time constraints to earn a monetary reward.
-  
-  ## Destruction
+  Elimine uma criatura grande e perigosa - um [color=#a4885c]leviathing[/color] dentro do tempo limite para ganhar uma recompensa monetária.
+
+  ## Destruição
   <Box>
   <GuideEntityEmbed Entity="ArgocyteEgg"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]argocyte eggs[/color] within given time constraints to earn a monetary reward.
+  Destrua um certo número de [color=#a4885c]ovos de argócitos[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 </Document>

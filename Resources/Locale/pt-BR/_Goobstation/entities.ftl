@@ -78,8 +78,8 @@ ent-ClothingBackpackDuffelSyndicateBurner = Kit Burner
 ent-ClothingBackpackDuffelSyndicateFilledWSPR = Kit WSPR
     .desc = Um kit carregando o rifle de assalto WSPR do Sindicato, com 4 revistas sobressalentes e duas caixas de munição.
 
-ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = Kit Roupa Blindada Furtiva Cybersun
-    .desc = Um kit avançado de roupa blindada furtiva da Cybersun.
+ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = Kit Traje rígido Furtiva Cybersun
+    .desc = Um kit avançado de traje rígido furtiva da Cybersun.
 
 # From: _Goobstation/Catalog/Fills/Crates/science.yml
 
@@ -109,8 +109,8 @@ ent-ChronoPortal = Portal Táquion
 
 # From: _Goobstation/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitAtmostech = Unidade de Controle de Roupa Blindada Aeolus de Técnico Atmosférico
-    .desc = Uma unidade modular de controle de roupa blindada para suportar os maiores perigos do trabalho.
+ent-ClothingModsuitAtmostech = Unidade de Controle de Traje rígido Aeolus de Técnico Atmosférico
+    .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
     .suffix = Bateria de Alta Capacidade
@@ -118,53 +118,53 @@ ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingModsuitBase = Unidade de Roupa Blindada Modular
-    .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de roupa blindada modular.
+ent-ClothingModsuitBase = Unidade de Traje rígido Modular
+    .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
-ent-ClothingModsuitCaptain = Unidade de Controle de Roupa Blindada Magnata do Capitão
-    .desc = Uma roupa blindada cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
+ent-ClothingModsuitCaptain = Unidade de Controle de Traje rígido Magnata do Capitão
+    .desc = Uma traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
 
 ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitEngineer = Unidade de Controle de Roupa Blindada Sapador do Engenheiro
-    .desc = Uma unidade modular de controle de roupa blindada para suportar os maiores perigos do trabalho.
+ent-ClothingModsuitEngineer = Unidade de Controle de Traje rígido Sapador do Engenheiro
+    .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitEngineer}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Roupa Blindada Baluarte do Chefe de Segurança
+ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje rígido Baluarte do Chefe de Segurança
     .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o chefe de segurança.
 
 ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitHeadOfSecurity}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitParamedic = Unidade de Controle de Roupa Blindada Sanitária
-    .desc = Uma unidade modular de controle de roupa blindada para paramédicos.
+ent-ClothingModsuitParamedic = Unidade de Controle de Traje rígido Sanitária
+    .desc = Uma unidade modular de controle de traje rígido para paramédicos.
 
 ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitParamedic}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitResearchDirector = Unidade de Controle de Roupa Blindada Minerva do DR
-    .desc = Uma unidade modular de controle de roupa blindada para suportar outro ônibus-bomba.
+ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje rígido Minerva do DR
+    .desc = Uma unidade modular de controle de traje rígido para suportar outro ônibus-bomba.
 
 ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitResearchDirector}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitSecurity = Unidade de Controle de Roupa Blindada Soldado da Segurança
-    .desc = Uma unidade robusta modular de controle de roupa blindada para bater em comunistas no espaço.
+ent-ClothingModsuitSecurity = Unidade de Controle de Traje rígido Soldado da Segurança
+    .desc = Uma unidade robusta modular de controle de traje rígido para bater em comunistas no espaço.
 
 ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitSecurity}
     .suffix = Bateria de Alta Capacidade
     .desc = {ent-ClothingModsuitBase.desc}
 
-ent-ClothingModsuitStandard = Unidade de Roupa Blindada Modular Padrão
-    .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de roupa blindada modular.
+ent-ClothingModsuitStandard = Unidade de Traje rígido Modular Padrão
+    .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
 ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitStandard}
     .suffix = Bateria de Alta Capacidade
@@ -254,7 +254,7 @@ ent-ClothingModsuitGauntletsStandard = Manoplas de Roupa Modular Padrão
 ent-ClothingHeadHelmetHardsuitChronolegioneer = Capacete Futurista
     .desc = O capacete dos lutadores do futuro, projetado para operações especiais de fluxo temporal
 
-ent-ClothingHeadHelmetHardsuitCybersunStealth = Capacete de Roupa Blindada Furtiva Cybersun
+ent-ClothingHeadHelmetHardsuitCybersunStealth = Capacete de Traje rígido Furtiva Cybersun
     .suffix = Furtivo
     .desc = Um capacete com blindagem para operações furtivas.
 
@@ -322,12 +322,12 @@ ent-ClothingOuterArmourInvisibleChameleon = Armadura Encoberta Camaleão
 
 # From: _Goobstation/Entities/Clothing/OuterClothing/hardsuits.yml
 
-ent-ClothingOuterHardsuitChronolegioneer = Roupa Blindada Futurista
-    .desc = Uma roupa blindada coberta com um material desconhecido que protege contra a maioria dos danos materiais e temporais
+ent-ClothingOuterHardsuitChronolegioneer = Traje rígido Futurista
+    .desc = Uma traje rígido coberta com um material desconhecido que protege contra a maioria dos danos materiais e temporais
 
-ent-ClothingOuterHardsuitCybersunStealth = Roupa Blindada Furtiva Cybersun
+ent-ClothingOuterHardsuitCybersunStealth = Traje rígido Furtiva Cybersun
     .suffix = Furtivo
-    .desc = Uma roupa blindada com blindagem furtiva para operações, o escudo não funciona enquanto você está se movendo! Precisa do capacete para completar o campo de furtividade.
+    .desc = Uma traje rígido com blindagem furtiva para operações, o escudo não funciona enquanto você está se movendo! Precisa do capacete para completar o campo de furtividade.
 
 # From: _Goobstation/Entities/Clothing/OuterClothing/modsuit.yml
 
@@ -1075,16 +1075,16 @@ ent-StasiziumAutoInjector = Caneta-Medicamentos Futurista
 # From: _Goobstation/Entities/Objects/Specific/Misc/voidsuitselectors.yml
 
 ent-UndeterminedVoidsuitEngineer = Seletor de Roupa de Vácuo de Engenheiro
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
 
 ent-UndeterminedVoidsuitHeadOfSecurity = Seletor de Roupa de Vácuo do Chefe de Segurança
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
 
 ent-UndeterminedVoidsuitParamedic = Seletor de Roupa de Vácuo de Paramédico
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
 
 ent-UndeterminedVoidsuitSecurity = Seletor de Roupa de Vácuo de Segurança
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou roupa blindada de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para deixar cair uma roupa de vácuo ou traje rígido de sua escolha.
 
 # From: _Goobstation/Entities/Objects/Specific/rehydrateable.yml
 

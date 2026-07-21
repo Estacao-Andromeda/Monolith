@@ -1,95 +1,95 @@
 <Document>
-  # RUBY-CLASS ANOMALOUS RESEARCH
-  <Box>
-  <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
-  <GuideEntityEmbed Entity="WeaponTurretL85Autocannon"/>
-  <GuideEntityEmbed Entity="AnomalyBluespace"/>
-  </Box>
-  <Box>
-  <GuideEntityEmbed Entity="MachineAnomalyGenerator"/>
-  </Box>
-    [color=#a4885c]Ship Size:[/color] Large
+	  # PESQUISA ANÔMALA CLASSE RUBY
+	  <Box>
+	  <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
+	  <GuideEntityEmbed Entity="WeaponTurretL85Autocannon"/>
+	  <GuideEntityEmbed Entity="AnomalyBluespace"/>
+	  </Box>
+	  <Box>
+	  <GuideEntityEmbed Entity="MachineAnomalyGenerator"/>
+	  </Box>
+	    [color=#a4885c]Tamanho da Nave:[/color] Grande
 
-	[color=#a4885c]Recommended Crew:[/color] 1-4
+		[color=#a4885c]Tripulação Recomendada:[/color] 1-4
 
-	[color=#a4885c]Power Gen Type:[/color] Plasma
+		[color=#a4885c]Tipo de Geração de Energia:[/color] Plasma
 
-	[color=#a4885c]Expeditions:[/color] None
+		[color=#a4885c]Expedições:[/color] Nenhuma
 
-	[color=#a4885c]IFF Console:[/color] None
+		[color=#a4885c]Console IFF:[/color] Nenhum
 
-  "Ruby-class made for intermediate to advanced researchers, single artifact chamber."
+	  "Classe Ruby feita para pesquisadores de nível intermediário a avançado, câmara de artefato único."
 
-  # PREFLIGHT CHECKLIST
+	  # LISTA DE VERIFICAÇÃO PRÉ-VOO
 
-  ## 1. Power supply
+	  ## 1. Alimentação de energia
 
-  ## 1.1. Battery units
-  <Box>
-  <GuideEntityEmbed Entity="SMESAdvanced"/>
-  <GuideEntityEmbed Entity="SubstationBasic"/>
-  <GuideEntityEmbed Entity="APCBasic"/>
-  </Box>
+	  ## 1.1. Unidades de bateria
+	  <Box>
+	    <GuideEntityEmbed Entity="SMESAdvanced"/>
+	    <GuideEntityEmbed Entity="SubstationBasic"/>
+	    <GuideEntityEmbed Entity="APCBasic"/>
+	  </Box>
 
-  - Check that the generator unit is anchored to the floor.
-  - Check that the Advanced SMES unit is anchored to the floor.
-  - Check that the substation unit is anchored to the floor.
-  - Check that the Engineering APC unit Breaker is toggled on.
-  - Check the APC units current Load* (W).
-  - Check that the remaining APC's Breakers are toggled on.
-  - Check the APC units current Load* (W).
+	  - Verifique se a unidade geradora está fixada ao chão.
+	  - Verifique se a unidade SMES Avançada está fixada ao chão.
+	  - Verifique se a unidade subestação está fixada ao chão.
+	  - Verifique se o Disjuntor da unidade APC Engenharia está ativado.
+	  - Verifique a Carga atual das unidades APC (W).
+	  - Verifique se os Disjuntores dos APCs restantes estão ativados.
+	  - Verifique a Carga atual das unidades APC (W).
 
-  ## 1.2. SKR CR-class Z-pinch nuclear fusion reactor.
-  <Box>
-  <GuideEntityEmbed Entity="FuelPlasma"/>
-  <GuideEntityEmbed Entity="RadiationCollectorFullTank"/>
-  </Box>
-  <Box>
-  <GuideEntityEmbed Entity="GeneratorCRPinch"/>
-  </Box>
+	  ## 1.2. Reator de fusão nuclear Z-pinho SKR CR-classe.
+	  <Box>
+	    <GuideEntityEmbed Entity="FuelPlasma"/>
+	    <GuideEntityEmbed Entity="RadiationCollectorFullTank"/>
+	  </Box>
+	  <Box>
+	    <GuideEntityEmbed Entity="GeneratorCRPinch"/>
+	  </Box>
 
-  - [color=#e9d502][bold]Wear protective equipment due to radiation leakeage.[/bold][/color]
-  - Check that the generator unit is connected to the cable terminal of your SMES via HV.
-  - Check the fuel remaining of the generator unit.
-  - Set the generator unit output power to 60 kW.
-  - Toggle the radiation collectors ON.
-  - Enable Injection.
+	  - [color=#e9d502][bold]Use equipamentos de proteção devido ao vazamento de radiação.[/bold][/color]
+	  - Verifique se a unidade geradora está conectada ao terminal de cabo do seu SMES via HV.
+	  - Verifique o combustível restante da unidade geradora.
+	  - Defina a potência de saída da unidade geradora para 60 kW.
+	  - Alterne os coletores de radiação para LIGADO.
+	  - Ative Injeção.
 
-  ## 2. Atmospherics
+	  ## 2. Atmosférico
 
-  ## 2.1. Distribution Loop
-  <Box>
-  <GuideEntityEmbed Entity="OxygenCanister"/>
-  <GuideEntityEmbed Entity="NitrogenCanister"/>
-  <GuideEntityEmbed Entity="GasMixer"/>
-  <GuideEntityEmbed Entity="GasPressurePump"/>
-  </Box>
+	  ## 2.1. Loop de Distribuição
+	  <Box>
+	    <GuideEntityEmbed Entity="OxygenCanister"/>
+	    <GuideEntityEmbed Entity="NitrogenCanister"/>
+	    <GuideEntityEmbed Entity="GasMixer"/>
+	    <GuideEntityEmbed Entity="GasPressurePump"/>
+	  </Box>
 
-  - Check that the O2 canister is anchored to the BLUE connector port.
-  - Check that the N2 canister is anchored to the RED connector port.
-  - Check that the gas mixer is set to the correct mixing ratio (~22% Oxygen, ~78% Nitrogen).
-  - Check that the gas mixer is set to 101.325kPa.
-  - Enable gas mixer.
+	  - Verifique se o cilindro de O2 está fixado à porta de conexão AZUL.
+	  - Verifique se o cilindro de N2 está fixado à porta de conexão VERMELHA.
+	  - Verifique se o misturador de gás está definido para a proporção de mistura correta (~22% Oxigênio, ~78% Nitrogênio).
+	  - Verifique se o misturador de gás está definido para 101.325kPa.
+	  - Ative o misturador de gás.
 
-  ## 2.2. Waste Loop
-  <Box>
-  <GuideEntityEmbed Entity="GasPressurePump"/>
-  <GuideEntityEmbed Entity="AirAlarm"/>
-  </Box>
+	  ## 2.2. Loop de Resíduos
+	  <Box>
+	    <GuideEntityEmbed Entity="GasPressurePump"/>
+	    <GuideEntityEmbed Entity="AirAlarm"/>
+	  </Box>
 
-  - Enable waste loop pump.
+	  - Ative a bomba do loop de resíduos.
 
-  ## 3. Other checks
-  <Box>
-  <GuideEntityEmbed Entity="Gyroscope"/>
-  <GuideEntityEmbed Entity="GravityGeneratorMini"/>
-  </Box>
+	  ## 3. Outras verificações
+	  <Box>
+	    <GuideEntityEmbed Entity="Gyroscope"/>
+	    <GuideEntityEmbed Entity="GravityGeneratorMini"/>
+	  </Box>
 
-  - Check that the gyroscope is anchored, powered, and enabled.
-  - Check that the mini gravity generator is anchored, powered, and enabled.
+	  - Verifique se o giroscópio está fixo, energizado e ativado.
+	  - Verifique se o gerador de gravidade mini está fixo, energizado e ativado.
 
-  ## Sidenotes
+	  ## Notas Adicionais
 
-  * - Recommended to have basic anomaly knowledge to utilize the ship to it's fullest capabilities, additional tesla coils and rods have been provided to satisfy any power needs in case the vessel is upgraded, base model utilizes around 75kw up to 90kw with normal usage.
+	  * - Recomendado ter conhecimento básico de anomalias para utilizar a nave ao máximo de suas capacidades, bobinas de tesla e barras adicionais foram fornecidas para satisfazer quaisquer necessidades de energia caso a embarcação seja atualizada, o modelo base utiliza cerca de 75kw até 90kw com uso normal.
 
-</Document>
+	</Document>

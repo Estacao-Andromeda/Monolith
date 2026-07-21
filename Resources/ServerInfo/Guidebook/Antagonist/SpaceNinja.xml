@@ -1,84 +1,84 @@
 <Document>
-  # Space Ninja
-  
+  # Ninja Espacial
+
   <Box>
-    [color=#999999][italic]"Spider of the night, silent is my bite."[/italic][/color]
+    [color=#999999][italic]"Aranha da noite, silencioso é meu ataque."[/italic][/color]
   </Box>
 
-  You are an elite mercenary that [color=#66FF00]The Spider Clan[/color] has sent to wreak all kinds of havoc on the station. You are equipped to keep it silent-but-deadly.
+  Você é um mercenário de elite que o [color=#66FF00]Clã da Aranha[/color] enviou para causar todo tipo de devastação na estação. Você está equipado para manter o combate silencioso, mas mortal.
 
-  Whether you get bloody or stay out of trouble, your discipline has taught you that [italic]your objectives must be at least attempted[/italic]. For honor!
+  Seja sangrento ou fique fora de problemas, sua disciplina lhe ensinou que [italic]seus objetivos devem ser ao menos tentados[/italic]. Pela honra!
 
-  ## Standard Equipment
-  You begin implanted with a [color=cyan]death acidifier[/color], so if you are captured or KIA all your precious equipment is kept out of enemy hands.
+  ## Equipamento Padrão
+  Você começa com um [color=cyan]acidificador de morte[/color] implantado, então se você for capturado ou KIA, todo o seu equipamento precioso é mantido longe das mãos inimigas.
 
-  Your bag is full of [bold]tools[/bold] and a [bold]survival box[/bold]. You also carry a [color=cyan]jetpack[/color] and a [color=cyan]pinpointer[/color] that will lead you to the station.
+  Sua mochila está cheia de [bold]ferramentas[/bold] e uma [bold]caixa de sobrevivência[/bold]. Você também carrega um [color=cyan]jetpack[/color] e um [color=cyan]localizador[/color] que o levará até a estação.
 
   <Box>
     <GuideEntityEmbed Entity="JetpackBlack"/>
     <GuideEntityEmbed Entity="PinpointerStation"/>
   </Box>
-  
-  ## Your Suit
-  
-  <Box>
-    <GuideEntityEmbed Entity="ClothingEyesVisorNinja" Caption="your visor"/>
-    <GuideEntityEmbed Entity="ClothingOuterSuitSpaceNinja" Caption="your suit"/>
-    <GuideEntityEmbed Entity="ClothingShoesSpaceNinja" Caption="your boots"/>
-  </Box>
 
-  Your single most important item is [color=cyan]your suit[/color], without it none of your abilities would work.
-  Your suit requires power to function, which is supplied by its [bold]internal battery[/bold]. It can be replaced, and [italic]high capacity batteries[/italic] mean a [italic]highly effective ninja[/italic].
-
-  [bold]You can recharge your internal battery directly[/bold] by using [color=cyan]your gloves[/color]. You can see the current charge by examining the suit or checking the nifty battery alert on your screen.
-
-  Your outfit also includes [color=cyan]special boots[/color] that keep you agile, upright and grounded without using energy. You've also got flash protection thanks to your [color=cyan]visor[/color].
-
-  ## Ninja Gloves
+  ## Seu Traje
 
   <Box>
-    <GuideEntityEmbed Entity="ClothingHandsGlovesSpaceNinja" Caption="your gloves"/>
+    <GuideEntityEmbed Entity="ClothingEyesVisorNinja" Caption="seu visor"/>
+    <GuideEntityEmbed Entity="ClothingOuterSuitSpaceNinja" Caption="seu traje"/>
+    <GuideEntityEmbed Entity="ClothingShoesSpaceNinja" Caption="suas botas"/>
   </Box>
 
-  [color=#66FF00]These bad boys are your bread and butter.[/color] They are made from [bold]insulated nanomachines[/bold] to allow you to gracefully break into restricted areas without leaving behind fingerprints.
+  Seu item mais importante é [color=cyan]seu traje[/color], sem ele nenhum de seus poderes funcionaria.
+  Seu traje requer energia para funcionar, que é fornecida pela sua [bold]bateria interna[/bold]. Ela pode ser substituída, e [italic]baterias de alta capacidade[/italic] significam um [italic]ninja altamente eficaz[/italic].
 
-  You have an action to toggle gloves. When the gloves are turned on, they allow you to use [bold]special abilities[/bold], which are triggered by interacting with things with an empty hand and with combat mode disabled.
+  [bold]Você pode recarregar sua bateria internamente diretamente[/bold] usando [color=cyan]suas luvas[/color]. Você pode ver a carga atual examinando o traje ou verificando o alerta de bateria útil na sua tela.
 
-  Your glove abilities include:
-  - Emagging doors and airlocks.
-  - Draining power from [bold]transformers[/bold] such as APCs, substations, or SMESes (higher voltage transformers drain more efficiently).
-  - Applying an electrical shock to a mob, stunning and slightly damaging them.
-  - Tampering with [bold]station equipment[/bold] to complete [color=#66FF00]objectives[/color].
+  Seu equipamento também inclui [color=cyan]botas especiais[/color] que o mantêm ágil, firme e no chão sem usar energia. Você também tem proteção contra flashes graças ao seu [color=cyan]visor[/color].
 
-  ## Energy Katana
+  ## Luvas de Ninja
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHandsGlovesSpaceNinja" Caption="suas luvas"/>
+  </Box>
+
+  [color=#66FF00]Estes bad boys são seu pão com manteiga.[/color] Elas são feitas de [bold]nanomáquinas isoladas[/bold] para permitir que você arrombe elegantemente áreas restritas sem deixar impressões digitais.
+
+  Você tem uma ação para alternar as luvas. Quando as luvas estão ligadas, elas permitem que você use [bold]habilidades especiais[/bold], que são acionadas interagindo com as coisas com a mão vazia e com o modo de combate desativado.
+
+  Suas habilidades de luva incluem:
+  - Emag portas e portões de ar.
+  - Drenar energia de [bold]transformadores[/bold] como APCs, subestações ou SMESes (transformadores de maior voltagem drenam mais eficientemente).
+  - Aplicar um choque elétrico em um mob, atordoando e danificando-o levemente.
+  - Manipular [bold]equipamentos da estação[/bold] para completar [color=#66FF00]objetivos[/color].
+
+  ## Katana de Energia
 
   <Box>
     <GuideEntityEmbed Entity="EnergyKatana"/>
   </Box>
 
-  [bold]You have sworn yourself to the sword and refuse to use firearms.[/bold] Luckily, you've got a pretty cool sword.
+  [bold]Você jurou sua espada ao fio da espada e se recusa a usar armas de fogo.[/bold] Felizmente, você tem uma espada bem legal.
 
-  Your [color=cyan]energy katana[/color] hurts plenty and can be [bold]recalled at will[/bold] at the cost of suit power. The farther away it is from you, the more energy required to recall it.
+  Sua [color=cyan]katana de energia[/color] machuca bastante e pode ser [bold]recuperada à vontade[/bold] ao custo de energia do traje. Quanto mais longe ela estiver de você, mais energia será necessária para recuperá-la.
 
-  While in hand you may also [color=cyan]teleport[/color] to anywhere that you can see, [bold]including through windows[/bold]. The charges required to do this regenerate slowly, so keep a charge or two spare in case you need a quick getaway.
+  Enquanto estiver em mãos, você também pode [color=cyan]teleportar-se[/color] para qualquer lugar que você possa ver, [bold]incluindo através de janelas[/bold]. As cargas necessárias para fazer isso se regeneram lentamente, então mantenha uma ou duas cargas sobressalentes caso você precise de uma fuga rápida.
 
-  ## Spider Clan Charge
-  
+  **Carga do Clã da Aranha**
+
   <Box>
     <GuideEntityEmbed Entity="SpiderCharge"/>
   </Box>
-  
-  This is a [color=cyan]modified C-4 explosive[/color] which can be found in your pocket. Creates a large explosion but [bold]must be armed in your target area[/bold] as it is one of your objectives.
 
-  It can't be activated manually, so simply plant it on a wall or some furniture that does not spark joy. Choose wisely, it can't be unstuck once planted.
+  Esta é uma [color=cyan]explosivo C-4 modificado[/color] que pode ser encontrado no seu bolso. Cria uma grande explosão, mas [bold]deve ser armada na sua área alvo[/bold], pois é um de seus objetivos.
 
-  ## Objectives
+  Ela não pode ser ativada manualmente, então simplesmente plante-a em uma parede ou algum móvel que não traga alegria. Escolha com sabedoria, ela não pode ser descolada uma vez plantada.
 
-  - Download \[9-13\] research nodes: Use your gloves on an R&D server with a number of unlocked technologies. You may have to unlock technologies yourself if there aren't enough to steal already.
-  - Doorjack \[15-40\] doors on the station: Use your gloves to emag a number of doors.
-  - Detonate the spider clan charge: Plant your spider clan charge at the specified location and watch it go boom!
-  - Call in a [textlink="threat" link="MinorAntagonists"]: Use your gloves on a communications console.
-  - Set everyone to wanted: Use your gloves on a criminal records console.
-  - Survive: Don't die.
+  ## Objetivos
+
+  - Baixar \[9-13\] nós de pesquisa: Use suas luvas em um servidor de P&D com um número de tecnologias desbloqueadas. Você pode ter que desbloquear tecnologias você mesmo se não houver o suficiente para roubar já.
+  - Arrombar \[15-40\] portas na estação: Use suas luvas para emag um número de portas.
+  - Detonar a carga do clã da aranha: Plante sua carga do clã da aranha no local especificado e assista a explosão!
+  - Chamar um [textlink="ameaça" link="MinorAntagonists"]: Use suas luvas em um console de comunicações.
+  - Colocar todos como procurados: Use suas luvas em um console de registros criminais.
+  - Sobreviver: Não morra.
 
 </Document>

@@ -1,42 +1,42 @@
 <Document>
-  # Ballistic Weapons Specifications
-  Notes:
-  - Munition range & ammo capacity is taken from the standard magazine & ammunition that comes loaded with the weapon.
-  - For munitions that accelerate over time (such as missiles), range is a rough estimate.
-  - For munitions that are fired at a static speed (such as normal weapons), range is simply just the launch velocity * projectile lifetime.
-  - RPS may not be accurate due to it being capped by server tick speed (usually 20 or 30 ticks/second).
-  - Rare guns such as ADS/NT/Syndicate shipguns will not be included.
+  # Especificações de Armas Balísticas
+  Notas:
+  - Alcance da munição e capacidade de munição são baseados no carregador padrão e munição que vem carregada com a arma.
+  - Para munições que aceleram com o tempo (como mísseis), o alcance é uma estimativa aproximada.
+  - Para munições disparadas a velocidade estática (como armas normais), o alcance é simplesmente a velocidade de lançamento * tempo de vida do projétil.
+  - RPS pode não ser preciso devido a ser limitado pela velocidade de tick do servidor (geralmente 20 ou 30 ticks/segundo).
+  - Armas raras como canhões de navio ADS/NT/Sindicato não serão incluídas.
 
-  ## Specifications (as of 24-Oct-2025)
+  ## Especificações (em 24-Out-2025)
   <Table Columns="7">
     <ColorBox>
       <Box>
-        Name
+        Nome
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Ammo Capacity
+        Capacidade de Munição
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Firerate
+        Cadência de Tiro
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Munition Range
+        Alcance da Munição
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Velocity
+        Velocidade
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Size Class
+        Classe de Tamanho
       </Box>
     </ColorBox>
     <!--L85-->
@@ -67,7 +67,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Light
+        Leve
       </Box>
     </ColorBox>
     <!--Draupnir-->
@@ -98,7 +98,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Média
       </Box>
     </ColorBox>
     <!--Dravon-->
@@ -129,7 +129,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Média
       </Box>
     </ColorBox>
     <!--AK570-->
@@ -160,7 +160,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Média
       </Box>
     </ColorBox>
     <!--Longbow-->
@@ -191,7 +191,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Heavy
+        Pesada
       </Box>
     </ColorBox>
     <!--Tarnyx-->
@@ -222,7 +222,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Heavy
+        Pesada
       </Box>
     </ColorBox>
     <!--Cyrexa-->
@@ -253,7 +253,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Média
       </Box>
     </ColorBox>
     <!--Bofors-->
@@ -284,7 +284,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Média
       </Box>
     </ColorBox>
     <!--CHARON-->
@@ -315,7 +315,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Superheavy
+        Superpesada
       </Box>
     </ColorBox>
     <!--THANTOS-->
@@ -346,7 +346,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Superheavy
+        Superpesada
       </Box>
     </ColorBox>
     <!--THANTOS-->
@@ -377,7 +377,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Superheavy
+        Superpesada
       </Box>
     </ColorBox>
   </Table>

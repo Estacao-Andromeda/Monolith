@@ -10,7 +10,7 @@ ent-CrateBohrumControlRod = caixote de barras de controle
     .desc = 2 barras de controle de bohrum para um reator nuclear.
 
 ent-CrateCerenkiteFuelRod = caixote de barras de combustível
-    .desc = 3 barras de combustível de cerenkita, para abastecer um reator nuclear.
+    .desc = 3 barras de combustível de cerenquita, para abastecer um reator nuclear.
 
 ent-CrateSteelGasChannel = caixote de barras de canal de gás
     .desc = 4 barras de canal de gás de aço para um reator nuclear.
@@ -161,7 +161,7 @@ ent-BrassReactorGasChannel = barra de canal de gás de latão
 
 ent-BrassReactorHeatExchanger = barra de trocador de calor de latão
 
-ent-CerenkiteReactorFuelRod = barra de combustível de cerenkita
+ent-CerenkiteReactorFuelRod = barra de combustível de cerenquita
 
 ent-DiamondReactorControlRod = barra de controle de diamante
 

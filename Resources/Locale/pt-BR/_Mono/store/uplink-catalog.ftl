@@ -1,5 +1,5 @@
-uplink-hardsuit-syndie-medic-name = Traje Duro de Médico do Sindicato
-uplink-hardsuit-syndie-medic-desc = O traje duro vermelho sangue médico do Sindicato. Mais ágil que o vermelho sangue clássico e vem com um HUD médico embutido.
+uplink-hardsuit-syndie-medic-name = Traje Rígido de Médico do Sindicato
+uplink-hardsuit-syndie-medic-desc = O traje rígido vermelho sangue médico do Sindicato. Mais ágil que o vermelho sangue clássico e vem com um HUD médico embutido.
 
 uplink-Cash10000-name = 10.000 Créditos
 uplink-Cash10000-desc = Pagamento generoso do sindicato.

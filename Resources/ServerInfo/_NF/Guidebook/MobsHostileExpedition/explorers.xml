@@ -1,146 +1,146 @@
 <Document>
-  # Explorers
+  # Exploradores
 
-  These foolhardy souls scavenge through ruins for the promise of loot and high adventure, similar to you. Unlike you, however, they do not possess the license to operate in NT-controlled space. Exterminate with prejudice.
+  Estas almas imprudentes vasculham ruínas em busca de pilhagem e grande aventura, similares a você. Ao contrário de você, no entanto, eles não possuem a licença para operar no espaço controlado pela NT. Extermine com preconceito.
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Known Variants
-  # "Looter"
+  # Variantes Conhecidas
+  # "Pilhador"
 
-  Armed with a trusty pickaxe and greed, every group needs its grunts.
+  Armado com uma picareta confiável e ganância, cada grupo precisa de seus soldados rasos.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerMeleeT1"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Blunt[/color], 6 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 6 [color=red]Contundente[/color], 6 [color=yellow]Perfurante[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
 
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
+  [bold][color=#a4885c]*[/color][/bold] - [italic]um humano médio pode correr a 4.5 m/s e caminhar a 2.5 m/s.[/italic]
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Scrapper"
+  # "Brigão"
 
-  Proto-kinetic accelerator in one hand, flashlight in the other, beer in the belly. That's how you explore.
+  Acelerador cinético proto em uma mão, lanterna na outra, cerveja na barriga. Assim que você explora.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerRangedT1"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (unwielded PKA)
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 12 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (PKA sem empunhar)
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Scavenger"
+  # "Catador"
 
-  A looter that scavenged enough coins to afford some decent equipment.
+  Um pilhador que catou moedas suficientes para comprar um equipamento decente.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerMeleeT2"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 7 [color=red]Blunt[/color], 6 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 10%; [color=orange]Heat[/color] 5%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 7 [color=red]Contundente[/color], 6 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 10%; [color=orange]Calor[/color] 5%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Salvager"
+  # "Salvador"
 
-  Sawn-off proto-kinetic accelerator in one hand, crusher dagger in the other, magm-ale both in the belly and in the hardsuit's boots.
+  Acelerador cinético proto serrado em uma mão, adaga trituradora na outra, cerveja-magma tanto na barriga quanto nas botas do traje espacial.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerRangedT2"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 10%; [color=orange]Heat[/color] 5%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (unwielded PKA)
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 12 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 10%; [color=orange]Calor[/color] 5%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (PKA sem empunhar)
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Miner"
+  # "Mineirador"
 
-  Drilling in the name of... drilling. No rock formation can withstand the power of dual-wielded mining drills - good thing you aren't a rock.
+  Perfurando em nome de... perfurar. Nenhuma formação rochosa pode resistir ao poder de perfuradoras de mineração duplas - boa coisa que você não é uma rocha.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerMeleeT3"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 2 [color=red]Blunt[/color], 2 [color=red]Slash[/color], 2 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 15%; [color=orange]Heat[/color] 10%; [color=orange]Caustic[/color] 15%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 2 [color=red]Contundente[/color], 2 [color=red]Corte[/color], 2 [color=yellow]Perfurante[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 15%; [color=orange]Calor[/color] 10%; [color=orange]Cáustico[/color] 15%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Explorer"
+  # "Explorador"
 
-  Veteran scrappers, these salvagers are wealthy enough to explore abandoned ruins for the adrenaline rush and adventure alone.
+  Brigões veteranos, estes salvadores são ricos o suficiente para explorar ruínas abandonadas apenas pela emoção da adrenalina e aventura.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerRangedT3"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 15%; [color=orange]Heat[/color] 10%; [color=orange]Caustic[/color] 15%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (wielded PKA)
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 15%; [color=orange]Calor[/color] 10%; [color=orange]Cáustico[/color] 15%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (PKA empunhado)
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Hauler"
+  # "Carregador"
 
-  Loaded with heavy equipment for industrial-scale looting. Pardon me, "asset recovery".
+  Carregado com equipamento pesado para pilhagem em escala industrial. Com licença, "recuperação de ativos".
 
-  [color=#a4885c]Immunity[/color]: invulnerable to specific types of damage.
+  [color=#a4885c]Imunidade[/color]: invulnerável a tipos específicos de dano.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerHauler"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 200 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 20 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color] 30%; [color=red]Slash[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Damage weaknesses:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Immunity ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxiation[/color], [color=#9A54BF]Bloodloss[/color], [color=#da8b8b]Cellular[/color])
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 200 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 20 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color] 30%; [color=red]Corte[/color] 50%; [color=yellow]Perfurante[/color] 30%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Fraquezas a dano:[/color][/bold] [color=orange]Estrutural[/color] 20%; [color=orange]Choque[/color] 50%; [color=lime]Radiação[/color] 20%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Imunidade ([color=orange]Frio[/color], [color=lime]Veneno[/color], [color=#9A54BF]Asfixia[/color], [color=#9A54BF]Perda de sangue[/color], [color=#da8b8b]Celular[/color])
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Explorer captain"
+  # "Capitão explorador"
 
-  Fearless and battle-hardened salvage team leaders, it takes years picking through the darkest corners of space and navigating the galaxy's criminal underbelly of the galaxy before you can become a captain. Not to be underestimated.
+  Líderes de equipe de salvamento destemidos e endurecidos na batalha, leva anos escolhendo através dos cantos mais escuros do espaço e navegando pela submundo criminal da galáxia antes que você possa se tornar um capitão. Não deve ser subestimado.
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerBoss"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 120 (crit), 150 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=orange]Heat[/color], 4 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color] and [color=red]Slash[/color] 50%; [color=yellow]Piercing[/color] 50%; [color=orange]Heat[/color] 30%; [color=orange]Caustic[/color] 50%
-  - [bold][color=#a4885c]Special abilities: Deflection (2.5%)
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 120 (crítico), 150 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=orange]Calor[/color], 4 [color=yellow]Perfurante[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color] e [color=red]Corte[/color] 50%; [color=yellow]Perfurante[/color] 50%; [color=orange]Calor[/color] 30%; [color=orange]Cáustico[/color] 50%
+  - [bold][color=#a4885c]Habilidades especiais: Desvio (2.5%)
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Mission Objectives
-  ## Elimination
+  # Objetivos da Missão
+  ## Eliminação
   <Box>
   <GuideEntityEmbed Entity="MobExplorerBoss"/>
   </Box>
-  Eliminate a large and dangerous creature - an [color=#a4885c]explorer captain[/color] within given time constraints to earn a monetary reward.
+  Elimine uma criatura grande e perigosa - um [color=#a4885c]capitão explorador[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 
-  ## Destruction
+  ## Destruição
   <Box>
   <GuideEntityEmbed Entity="ExplorersLootRadar"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]salvage radars[/color] within given time constraints to earn a monetary reward.
+  Destrua um certo número de [color=#a4885c]radares de salvamento[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 </Document>

@@ -1,3 +1,3 @@
 materials-cerenkite = cerenquita
 materials-plutonium = plutônio
-materials-bohrum = bohrio
+materials-bohrum = bóhrio

@@ -1,12 +1,12 @@
 <Document>
-    # Material Effects
-    This table lists the effects of each material within the reactor.
+    # Efeitos dos Materiais
+    Esta tabela lista os efeitos de cada material dentro do reator.
 
-    Values for Neutron Stimulated Emmission Chance, Stimulated Emmission Chance, Neutron Decay Chance, and Decay Chance assume the material is fresh and has not undergone any interactions. These values will change as the material is used.
+    Os valores de Chance de Emissão Estimulada por Nêutron, Chance de Emissão Estimulada, Chance de Decaimento de Nêutron e Chance de Decaimento assumem que o material está fresco e não sofreu nenhuma interação. Esses valores mudarão conforme o material for usado.
 
-    Neutron Stimulated Emmission Chance, Stimulated Emmission Chance, and Reflection Chance require that it passes the Neutron Interact Chance first.
+    Chance de Emissão Estimulada por Nêutron, Chance de Emissão Estimulada e Chance de Reflexão requerem que primeiro passe pela Chance de Interação de Nêutron.
 
-    (*) means the statistic is multiplied by Neutron Cross Section, which changes based on rod type. Those statistics are written assuming Neutron Cross Section = 1.
+    (*) significa que a estatística é multiplicada pela Seção Transversal de Nêutrons, que muda baseado no tipo de vara. Essas estatísticas são escritas assumindo Seção Transversal de Nêutrons = 1.
     <Table Columns="8">
         <ColorBox>
             <Box>
@@ -15,43 +15,43 @@
         </ColorBox>
         <ColorBox>
             <Box>
-                Thermal Transfer Value
+                Valor de Transferência Térmica
             </Box>
         </ColorBox>
         <ColorBox>
             <Box>
-                Neutron Interact Chance*
+                Chance de Interação de Nêutron*
             </Box>
         </ColorBox>
         <ColorBox>
             <Box>
-                Neutron Stimulated Emmission Chance 
+                Chance de Emissão Estimulada por Nêutron
             </Box>
         </ColorBox>
         <ColorBox>
             <Box>
-                Stimulated Emmission Chance
+                Chance de Emissão Estimulada
             </Box>
         </ColorBox>
         <ColorBox>
             <Box>
-                Neutron Decay Chance*
+                Chance de Decaimento de Nêutron*
             </Box>
         </ColorBox>
         <ColorBox>
             <Box>
-                Decay Chance*
+                Chance de Decaimento*
             </Box>
         </ColorBox>
         <ColorBox>
             <Box>
-                Reflection Chance
+                Chance de Reflexão
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#bfc031">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Bananium
+                Banânio
             </Box>
         </ColorBox>
         <ColorBox>
@@ -66,7 +66,7 @@
         </ColorBox>
         <ColorBox>
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                11.25% 
+                11.25%
             </Box>
         </ColorBox>
         <ColorBox>
@@ -89,10 +89,10 @@
                 20%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#566558">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Bohrum
+                Bóhrio
             </Box>
         </ColorBox>
         <ColorBox>
@@ -107,7 +107,7 @@
         </ColorBox>
         <ColorBox>
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
- 
+
             </Box>
         </ColorBox>
         <ColorBox>
@@ -130,10 +130,10 @@
                 25%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#b18b25">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Brass
+                Latão
             </Box>
         </ColorBox>
         <ColorBox>
@@ -171,10 +171,10 @@
                 10%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#828aa4">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Cerenkite
+                Cerenquita
             </Box>
         </ColorBox>
         <ColorBox>
@@ -189,7 +189,7 @@
         </ColorBox>
         <ColorBox>
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
- 
+
             </Box>
         </ColorBox>
         <ColorBox>
@@ -212,10 +212,10 @@
                 10%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#80ffff">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Diamond
+                Diamante
             </Box>
         </ColorBox>
         <ColorBox>
@@ -253,10 +253,10 @@
                 35%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#a8ccd7">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Glass
+                Vidro
             </Box>
         </ColorBox>
         <ColorBox>
@@ -294,10 +294,10 @@
                 15%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#ffd700">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Gold
+                Ouro
             </Box>
         </ColorBox>
         <ColorBox>
@@ -335,7 +335,7 @@
                 10%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#7e009e">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
                 Plasma
@@ -376,10 +376,10 @@
                 10%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#b35989">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Plasma Glass
+                Vidro de Plasma
             </Box>
         </ColorBox>
         <ColorBox>
@@ -417,10 +417,10 @@
                 35%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#696969">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Plasteel
+                Plastiaço
             </Box>
         </ColorBox>
         <ColorBox>
@@ -458,10 +458,10 @@
                 15%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#404888">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Plutonium
+                Plutônio
             </Box>
         </ColorBox>
         <ColorBox>
@@ -476,7 +476,7 @@
         </ColorBox>
         <ColorBox>
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                37.5% 
+                37.5%
             </Box>
         </ColorBox>
         <ColorBox>
@@ -499,10 +499,10 @@
                 35%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#c0c0c0">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Silver
+                Prata
             </Box>
         </ColorBox>
         <ColorBox>
@@ -540,10 +540,10 @@
                 10%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#808080">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Steel
+                Aço
             </Box>
         </ColorBox>
         <ColorBox>
@@ -581,10 +581,10 @@
                 15%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#32a852">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Uranium
+                Urânio
             </Box>
         </ColorBox>
         <ColorBox>
@@ -622,10 +622,10 @@
                 25%
             </Box>
         </ColorBox>
-        
+
         <ColorBox Color="#3cab38">
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                Uranium Glass
+                Vidro de Urânio
             </Box>
         </ColorBox>
         <ColorBox>
@@ -640,7 +640,7 @@
         </ColorBox>
         <ColorBox>
             <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-                11.25% 
+                11.25%
             </Box>
         </ColorBox>
         <ColorBox>
@@ -665,9 +665,9 @@
         </ColorBox>
     </Table>
 
-    ## Neutron Cross Sections
-    - Fuel Rod: 1
-    - Control Rod: 0-2 (depending on insertion level)
-    - Gas Channel: 0.5
-    - Heat Exhanger: 0.1
+    ## Seções Transversais de Nêutrons
+    - Varas de Combustível: 1
+    - Varas de Controle: 0-2 (dependendo do nível de inserção)
+    - Canal de Gás: 0.5
+    - Trocador de Calor: 0.1
 </Document>

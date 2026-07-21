@@ -8,7 +8,7 @@ research-technology-ullmanpulse-high-end = Produção de Armas de Ponta da U.I.
 research-technology-ullmansmart-magnum = Produção de Smart Magnum MK5 da U.I.
 research-technology-ullmanplasma-blade = Combate Corpo a Corpo Exótico da U.I.
 research-technology-ullmansuits-basic = Trajes Duros Básicos da U.I.
-research-technology-ullmansuits-high-end = Traje Duro de Ponta da U.I.
+research-technology-ullmansuits-high-end = Traje Rígido de Ponta da U.I.
 
 research-technology-advanced-melee-combat-options = Opções Avançadas de Combate Corpo a Corpo
 

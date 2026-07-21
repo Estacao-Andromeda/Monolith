@@ -1,42 +1,42 @@
 <Document>
-  # Species
+  # Espécies
 
-  Nanotrasen employs a variety of sapient species.
+  A Nanotrasen emprega uma variedade de espécies sencientes.
 
   <Box>
-    <GuideEntityEmbed Entity="MobArachnid" Caption="Arachnid"/>
+    <GuideEntityEmbed Entity="MobArachnid" Caption="Aracnídeo"/>
     <GuideEntityEmbed Entity="MobDiona" Caption="Diona"/>
-    <GuideEntityEmbed Entity="MobDwarf" Caption="Dwarf"/>
-    <GuideEntityEmbed Entity="MobHuman" Caption="Human"/>
+    <GuideEntityEmbed Entity="MobDwarf" Caption="Anão"/>
+    <GuideEntityEmbed Entity="MobHuman" Caption="Humano"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="MobMoth" Caption="Moth Person"/>
-    <GuideEntityEmbed Entity="MobReptilian" Caption="Reptilian"/>
-    <GuideEntityEmbed Entity="MobSlimePerson" Caption="Slime Person"/>
+    <GuideEntityEmbed Entity="MobMoth" Caption="Pessoa Mariposa"/>
+    <GuideEntityEmbed Entity="MobReptilian" Caption="Réptil"/>
+    <GuideEntityEmbed Entity="MobSlimePerson" Caption="Pessoa Slime"/>
     <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
     <GuideEntityEmbed Entity="MobResomi" Caption="Resomi"/>
     <GuideEntityEmbed Entity="MobIPCDummy" Caption="I.P.C."/>
   </Box>
 
-  # Frontier specific species
+  # Espécies específicas da Frontier
   <Box>
     <GuideEntityEmbed Entity="MobGoblin" Caption="Goblin"/>
   </Box>
-  # Delta-V specific species
+  # Espécies específicas do Delta-V
   <Box>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption="Vulpkanin"/>
-    <GuideEntityEmbed Entity="MobFelinid" Caption="Felinid"/>
-    <GuideEntityEmbed Entity="MobHarpy" Caption="Harpy"/>
+    <GuideEntityEmbed Entity="MobFelinid" Caption="Felino"/>
+    <GuideEntityEmbed Entity="MobHarpy" Caption="Harpia"/>
     <GuideEntityEmbed Entity="MobOni" Caption="Oni"/>
     <GuideEntityEmbed Entity="MobChitinid" Caption="Chitinid"/>
   </Box>
 
-  # Monolith specific species
+  # Espécies específicas do Monolith
   <Box>
     <GuideEntityEmbed Entity="MobProtogen" Caption="Protogen"/>
   </Box>
 
-  # Goobstation specific species
+  # Espécies específicas do Goobstation
   <Box>
     <GuideEntityEmbed Entity="MobTajaran" Caption="Tajaran"/>
     <GuideEntityEmbed Entity="MobYowie" Caption="Yowie"/>

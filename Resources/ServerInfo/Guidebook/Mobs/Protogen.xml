@@ -1,14 +1,14 @@
 <Document>
-  # Protogens
+  # Protogen
 
   <Box>
     <GuideEntityEmbed Entity="MobProtogen" Caption=""/>
   </Box>
 
-  A Protogen is a technologically enhanced being made of both technological and biological parts. Though they have a mix of artificial and non-artificial organs, they still operate with a soul and mind, yet there are also program files that operate them, and overheating/overcooling can damage the circuits of the artificial organs. They still need to eat and be healed using normal medicines.
+  Um Protogen é um ser tecnologicamente aprimorado, composto por partes tanto tecnológicas quanto biológicas. Embora possuam uma mistura de órgãos artificiais e não artificiais, eles ainda operam com uma alma e mente, porém também existem arquivos de programa que os operam, e superaquecimento/superresfriamento pode danificar os circuitos dos órgãos artificiais. Eles ainda precisam comer e ser curados usando remédios normais.
 
-  They are capable of playing digital music innately and suffer less damage from lacking air.
+  Eles são capazes de tocar música digitalmente de forma inata e sofrem menos danos por falta de ar.
 
-  Their durable bodies makes them take 20% less Blunt damage, 10% less Piercing/Slash damage, but their hybrid electronic nature makes them take 30% more heat, 30% more cold, 50% more shock and 55% more radiation damage.
+  Seus corpos resistentes fazem com que recebam 20% menos dano de Contusão, 10% menos dano de Perfuração/Corte, mas sua natureza eletrônica híbrida faz com que recebam 30% mais dote de calor, 30% mais dote de frio, 50% mais dote de choque e 55% mais dano de radiação.
 
 </Document>

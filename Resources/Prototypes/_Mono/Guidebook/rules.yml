@@ -130,7 +130,7 @@
 
 - type: guideEntry
   id: MonolithRuleRoleplayNineCommandingRoles
-  name: guide-entry-monolith-rule-conflict-nine-commanding-roles
+  name: guide-entry-monolith-rule-roleplay-nine-commanding-roles
   text: "/ServerInfo/_Mono/Guidebook/Rules/Roleplay/Nine_CommandingRoles.xml"
   ruleEntry: true
 
