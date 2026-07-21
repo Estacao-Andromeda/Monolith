@@ -37,3 +37,4 @@ hud-chatbox-autofill-highlights = Preenchimento automático
 hud-chatbox-highlights = Palavras-chave personalizadas
 hud-chatbox-highlights-placeholder = Insira suas palavras-chave aqui. Uma por linha.
 hud-chatbox-highlights-button = Salvar palavras-chave
+hud-chatbox-highlights-tooltip = Salvar palavras-chave

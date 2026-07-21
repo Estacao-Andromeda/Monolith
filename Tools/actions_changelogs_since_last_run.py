@@ -23,7 +23,7 @@ GITHUB_API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
 DISCORD_SPLIT_LIMIT = 2000
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
 
-CHANGELOG_FILE = "Resources/Changelog/Monolith.yml" # Monolith
+CHANGELOG_FILE = "Resources/Changelog/Andromeda.yml" # Andromeda: Changelog/Monolith.yml -> Changelog/Andromeda.yml
 
 TYPES_TO_EMOJI = {"Fix": "🐛", "Add": "🆕", "Remove": "❌", "Tweak": "⚒️"}
 
@@ -149,7 +149,7 @@ def get_discord_body(content: str):
 def send_discord_webhook(lines: list[str]):
     content = "".join(lines)
     body = get_discord_body(content)
-    
+
     retry_attempt = 0
 
     try:

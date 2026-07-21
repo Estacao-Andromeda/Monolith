@@ -1,1 +1,1 @@
-changelog-tab-title-Monolith = Anarquia Monolítica
+changelog-tab-title-Monolith = Monolith

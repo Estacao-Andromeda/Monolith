@@ -4891,6 +4891,8 @@ ent-MedicatedSuture = sutura medicada
     .suffix = Cheia
     .desc = Uma sutura embebida em remédios, trata trauma por força bruta de forma eficaz e fecha feridas.
 
+medicated-suture = {ent-MedicatedSuture}
+
 ent-Ointment = pomada
     .suffix = Cheia
     .desc = Usada para tratar aquelas queimaduras horríveis. Menos eficaz em queimaduras cáusticas.
@@ -4988,6 +4990,8 @@ ent-PillTricordrazine = comprimido
 ent-RegenerativeMesh = malha regenerativa
     .suffix = Cheia
     .desc = Usada para tratar até mesmo as queimaduras mais terríveis. Também eficaz contra queimaduras cáusticas.
+
+regenerative-mesh = { ent-RegenerativeMesh }
 
 ent-SyringeAmbuzol = {ent-BaseSyringe}
     .desc = {ent-BaseSyringe.desc}
@@ -26801,6 +26805,8 @@ ent-RogueCommsComputerCircuitboard = placa de computador de comunicações da va
 
 ent-SalvageExpeditionsComputerCircuitboard = placa de computador de expedições de salvagem
     .desc = Uma placa de circuito impresso de computador para um computador de expedições de salvagem.
+
+ent-RoboticsConsoleCircuitboard = placa de console de controle de robótica
 
 ent-SensorConsoleCircuitboard = placa de computador de console de monitoramento de sensores
     .desc = Uma placa de circuito impresso de computador para um console de monitoramento de sensores.

@@ -75,8 +75,8 @@
 
 - type: construction
   id: Forge
-  name: forge
-  description: Primitive method for refining ore.
+  name: construction-Forge-name
+  description: construction-Forge-desc
   graph: ForgeGraph
   startNode: start
   targetNode: ForgeNode

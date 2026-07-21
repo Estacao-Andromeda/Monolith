@@ -1,11 +1,10 @@
 ## Construction Localization
 ## Generated from construction prototypes
 
-construction-CreateRoof-name = criar teto
-construction-CreateRoof-desc = Cria um teto no tile em que é construído.
-construction-RemoveRoof-name = remover teto
-construction-RemoveRoof-desc = Remove um teto do tile em que é construído.
-
+construction-CreateRoof-name = create roof
+construction-CreateRoof-desc = Creates a roof on the tile its constructed on.
+construction-RemoveRoof-name = remove roof
+construction-RemoveRoof-desc = Removes a roof from the tile its constructed on.
 construction-AirlockHeavy-name = { ent-AirlockHeavy }
 construction-AirlockHeavy-desc = { ent-AirlockHeavy.desc }
 construction-AirlockHeavyGlass-name = { ent-AirlockHeavyGlass }
@@ -92,13 +91,13 @@ construction-wallReinforcedDiagonal-name = { ent-WallReinforcedDiagonal }
 construction-wallReinforcedDiagonal-desc = { ent-WallReinforcedDiagonal.desc }
 construction-wallSolidDiagonal-name = { ent-WallSolidDiagonal }
 construction-wallSolidDiagonal-desc = { ent-WallSolidDiagonal.desc }
-construction-SteelMonoCatwalk-name = passarela mono de aço
-construction-SteelMonoCatwalk-desc = Igual a uma grade. Exceto que parece melhor.
-construction-DarkMonoCatwalk-name = passarela mono escura
-construction-DarkMonoCatwalk-desc = Igual a uma grade. Exceto que parece melhor.
-construction-WhiteMonoCatwalk-name = passarela mono branca
-construction-WhiteMonoCatwalk-desc = Igual a uma grade. Exceto que parece melhor.
-construction-Sand-name = pilha de areia
-construction-Sand-desc = De alguma forma funciona como um local de cultivo.
-construction-Forge-name = forja
-construction-Forge-desc = Método primitivo para refinar minério.
+construction-SteelMonoCatwalk-name = steel mono catwalk
+construction-SteelMonoCatwalk-desc = Just like a lattice. Except it looks better.
+construction-DarkMonoCatwalk-name = dark mono catwalk
+construction-DarkMonoCatwalk-desc = Just like a lattice. Except it looks better.
+construction-WhiteMonoCatwalk-name = white mono catwalk
+construction-WhiteMonoCatwalk-desc = Just like a lattice. Except it looks better.
+construction-Sand-name = sand pile
+construction-Sand-desc = Somehow works as a growing spot.
+construction-Forge-name = forge
+construction-Forge-desc = Primitive method for refining ore.

@@ -101,8 +101,8 @@
 
 - type: construction
   id: Sand
-  name: sand pile
-  description: Somehow works as a growing spot.
+  name: construction-Sand-name
+  description: construction-Sand-desc
   graph: SandGraph
   startNode: start
   targetNode: SandNode

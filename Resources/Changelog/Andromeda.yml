@@ -1,0 +1,14 @@
+Entries:
+- author: Dragometh
+  changes:
+    - message: Cria a changelog do Andromeda. Iha
+      type: Add
+  id: 1
+  time: '2026-07-21T00:33:00-07:00'
+
+- author: Dragometh
+  changes:
+    - message: Traduz o jogo inteiro. Reporte erros no discord!
+      type: Add
+  id: 2
+  time: '2026-07-21T00:33:00-07:00'
