@@ -25,8 +25,8 @@ chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} An
 # Einstein Engines - Language begin (changing colors for text based on language color in handler)
 # For the message in double quotes, the font/color/bold/italic elements are repeated twice, outside the double quotes and inside.
 # The outside elements are for formatting the double quotes, and the inside elements are for formatting the text in speech bubbles ([BubbleContent]).
-chat-manager-entity-say-wrap-message =[BubbleHeader][bold][nome]{$entityName}[/nome][/bold][/BubbleHeader] {$verb}, [font={$fontType} tamanho={$fontSize}]"[BubbleContent][font="{$fontType}" tamanho={$fontSize}][color={$cor}]{$mensagem}[/color][/font][/BubbleContent]"[/font]
-chat-manager-entity-say-bold-wrap-message =[BubbleHeader][bold][nome]{$entityName}[/nome][/bold][/BubbleHeader] {$verb}, [font={$fontType} tamanho={$fontSize}]"[BubbleContent][font="{$fontType}" tamanho={$fontSize}][bold][color={$cor}]{$mensagem}[/color][/font][/bold][/BubbleContent]"[/font]
+chat-manager-entity-say-wrap-message =[BubbleHeader][bold][nome]{$entityName}[/nome][/bold][/BubbleHeader] {$verb}, [font={$fontType} tamanho={$fontSize}]"[BubbleContent][font="{$fontType}" tamanho={$fontSize}][color={$color}]{$message}[/color][/font][/BubbleContent]"[/font]
+chat-manager-entity-say-bold-wrap-message =[BubbleHeader][bold][nome]{$entityName}[/nome][/bold][/BubbleHeader] {$verb}, [font={$fontType} tamanho={$fontSize}]"[BubbleContent][font="{$fontType}" tamanho={$fontSize}][bold][color={$color}]{$message}[/color][/font][/bold][/BubbleContent]"[/font]
 
 chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] sussurra, "[BubbleContent][color={$color}][font="{$fontType}"]{$message}[/font][/color][/BubbleContent][font size=11]"[/italic][/font]
 chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][BubbleHeader]Alguém[/BubbleHeader] sussurra, "[BubbleContent][color={$color}][font="{$fontType}"]{$message}[/color][/font][/BubbleContent][font size=11]"[/italic][/font]
@@ -40,18 +40,18 @@ chat-manager-entity-me-wrap-message = [italic]{ PROPER($entity) ->
      [true] {CAPITALIZE($entityName)} {$message}[/italic]
     }
 
-chat-manager-entity-looc-wrap-message =LOOC: [bold]{$entityName}:[/bold] {$mensagem}
-chat-manager-send-ooc-wrap-message =OOC: [bold]{$playerName}:[/bold] {$mensagem}
-chat-manager-send-ooc-patron-wrap-message =OOC: [bold][color={$patronColor}]{$playerName}[/color]:[/bold] {$mensagem}
+chat-manager-entity-looc-wrap-message =LOOC: [bold]{$entityName}:[/bold] {$message}
+chat-manager-send-ooc-wrap-message =OOC: [bold]{$playerName}:[/bold] {$message}
+chat-manager-send-ooc-patron-wrap-message =OOC: [bold][color={$patronColor}]{$playerName}[/color]:[/bold] {$message}
 
 chat-manager-send-dead-chat-wrap-message = {$deadChannelName}: [bold][BubbleHeader]{$playerName}[/BubbleHeader]:[/bold] [BubbleContent]{$message}[/BubbleContent]
 chat-manager-send-admin-dead-chat-wrap-message = {$title}: [bold]([BubbleHeader]{$userName}[/BubbleHeader]):[/bold] [BubbleContent]{$message}[/BubbleContent]
 chat-manager-send-admin-chat-wrap-message = {$adminChannelName}: [bold]{$playerName}:[/bold] {$message}
 chat-manager-send-admin-announcement-wrap-message = [bold]{$adminChannelName}: {$message}[/bold]
 
-chat-manager-send-hook-ooc-wrap-message =OOC: [bold](DC) {$senderName}:[/bold] {$mensagem}
-chat-manager-send-hook-admin-wrap-message =ADMIN: [bold](DC) {$senderName}:[/bold] {$mensagem}
-chat-manager-send-hook-dead-wrap-message =ADMIN: [bold](DC) {$senderName}:[/bold] {$mensagem}
+chat-manager-send-hook-ooc-wrap-message =OOC: [bold](DC) {$senderName}:[/bold] {$message}
+chat-manager-send-hook-admin-wrap-message =ADMIN: [bold](DC) {$senderName}:[/bold] {$message}
+chat-manager-send-hook-dead-wrap-message =ADMIN: [bold](DC) {$senderName}:[/bold] {$message}
 
 chat-manager-dead-channel-name = MORTO
 chat-manager-admin-channel-name =ADMIN
