@@ -22772,3 +22772,19 @@ Entries:
   id: 2515
   time: '2026-07-21T03:02:03.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4312
+- author: Onezero0
+  changes:
+    - type: Tweak
+      message: Influenced human NPCs
+  id: 2516
+  time: '2026-07-21T05:24:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4317
+- author: strace-enjoyer
+  changes:
+    - type: Fix
+      message: >-
+        Fixed CC constantly underpressuring and air alarms panicking and
+        firelocks going down
+  id: 2517
+  time: '2026-07-21T05:25:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4324
