@@ -45,7 +45,7 @@ namespace Content.Shared.Construction.Steps
             return new ConstructionGuideEntry()
             {
                 Localization = "construction-presenter-material-step",
-                Arguments = new (string, object)[]{("amount", Amount), ("material", material.Name)},
+                Arguments = new (string, object)[]{("amount", Amount), ("material", $"ent-{material.Spawn.Id}")},
                 Icon = material.Icon,
             };
         }

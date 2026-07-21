@@ -3,8 +3,8 @@
 - type: vessel
   id: Ledokol
   parent: BaseVesselAntag
-  name: BYP Ledokol
-  description: A massive shuttle originally made for ramming through compact debris fields. Trades off fire-power for thrust-power.
+  name: vessel-Ledokol-name
+  description: vessel-Ledokol-desc
   limit: 1
   price: 425000
   purchasable: false # voucher only
@@ -31,7 +31,7 @@
       stationProto: StandardFrontierVessel
       gridComponents:
       - type: VesselInfo
-        description: "Why did I come to this sector?"
+        description: vessel-Ledokol-desc
       components:
         - type: StationNameSetup
           mapNameTemplate: 'Ledokol USSP{1}'

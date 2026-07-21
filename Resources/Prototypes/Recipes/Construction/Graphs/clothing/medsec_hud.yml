@@ -7,13 +7,13 @@
         - to: medsecHud
           steps:
             - tag: HudMedical
-              name: medical hud
+              name: graphs-HudMedSec-HudMedical-name
               icon:
                 sprite: Clothing/Eyes/Hud/med.rsi
                 state: icon
               doAfter: 5
             - tag: HudSecurity
-              name: security hud
+              name: graphs-HudMedSec-HudSecurity-name
               icon:
                 sprite: Clothing/Eyes/Hud/sec.rsi
                 state: icon
@@ -22,7 +22,7 @@
               amount: 5
               doAfter: 5
             - tag: Radio
-              name: handicomms # Frontier handicomms<radio
+              name: graphs-HudMedSec-Radio-name
               icon:
                 sprite: _NF/Objects/Devices/communication.rsi # Frontier
                 state: base # Frontier

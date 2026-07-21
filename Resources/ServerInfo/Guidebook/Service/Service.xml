@@ -1,34 +1,34 @@
 <Document>
-# Service
-[color=#9fed58]Service[/color] keeps the station clean, efficient and sane so that all other departments can do their jobs better and keep their staff happy. They also end up doing most of the paperwork on the station.
+# Serviço
+[color=#9fed58]Serviço[/color] mantém a estação limpa, eficiente e sã para que todos os outros departamentos possam fazer seus trabalhos melhor e manter suas equipes felizes. Eles também acabam fazendo a maior parte do trabalho burocrático na estação.
 
-## Personnel
-[color=#9fed58]Service[/color]'s staff is made up of Service Workers, Chefs, Botanists, Bartenders, Janitors, Chaplains, Clowns, Mimes, Musicians, Lawyers, Librarians and Passengers. Service is run by the Head of Personnel.
+## Pessoal
+A equipe de [color=#9fed58]Serviço[/color] é composta por Funcionários de Serviço, Chefes, Botânicos, Bartenders, Zeladores, Capelães, Palhaços, Mimos, Músicos, Advogados, Bibliotecários e Passageiros. O Serviço é chefiado pelo Chefe de Pessoal.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chef"/>
-    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botanist"/>
+    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chefe"/>
+    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botânico"/>
     <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Bartender"/>
-    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Janitor"/>
+    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Zelador"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Chaplain"/>
-    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Clown"/>
-    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mime"/>
-    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Musician"/>
+    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Capelão"/>
+    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Palhaço"/>
+    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mimo"/>
+    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Músico"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Lawyer"/>
-    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Librarian"/>
-    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Passenger"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
+    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Advogado"/>
+    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Bibliotecário"/>
+    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Passageiro"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="Chefe de Pessoal"/>
   </Box>
 
-## Working Together
-[color=#9fed58]Service[/color], despite being the most diverse, tends to be the most [color=#a4885c]interlinked[/color] department by far.
-Most [color=#9fed58]Service[/color] jobs require [color=#a4885c]cooperation[/color] between workers.
-Chefs often need ingredients that only botanists can grow efficiently. The bartender may request bananas that only clowns carry in abundance.
-The lawyer may invite the mime to play charades to convince the judge that their client is innocent.
+## Trabalhando Juntos
+[color=#9fed58]Serviço[/color], apesar de ser o mais diverso, tende a ser o departamento mais [color=#a4885c]interconectado[/color] de longe.
+A maioria dos trabalhos de [color=#9fed58]Serviço[/color] requer [color=#a4885c]cooperação[/color] entre os trabalhadores.
+Chefes frequentemente precisam de ingredientes que apenas botânicos podem cultivar eficientemente. O bartender pode solicitar bananas que apenas os palhaços carregam em abundância.
+O advogado pode convidar o mimo para jogar charadas para convencer o juiz que seu cliente é inocente.
 
-A lot of [color=#a4885c]collaboration[/color] is necessary within and without [color=#9fed58]Service[/color]. Often times, [color=#9fed58]Service[/color] is required by other departments, so be on your toes.
+Muita [color=#a4885c]colaboração[/color] é necessária dentro e fora do [color=#9fed58]Serviço[/color]. Frequentemente, o [color=#9fed58]Serviço[/color] é solicitado por outros departamentos, então esteja atento.
 </Document>

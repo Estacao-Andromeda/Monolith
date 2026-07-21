@@ -1,43 +1,43 @@
 <Document>
-  # Harpies
+  # Harpias
 
   <Box>
     <GuideEntityEmbed Entity="MobHarpyDummy" Caption=""/>
   </Box>
 
-  An avian humanoid species that features colorful feathered wings and tails that can mimic almost any sound.
+  Uma espécie humanoide aviária que apresenta coloridas asas emplumadas e caudas que podem imitar quase qualquer som.
 
-  They are quite sensitive to the air quality, and when exposed to low quality air, they will begin to visibly gasp, and eventually start choking.
-  When this happens, a Harpy should either move away from sources of bad air, stand on top of a scrubber for a few seconds, or take a few breaths from a pure oxygen tank in order to restore their blood-oxygen levels. Only three seconds of being on pure oxygen is enough to completely restore a Harpy's blood oxygen saturation.
+  Elas são bastante sensíveis à qualidade do ar, e quando expostas a ar de baixa qualidade, elas começarão a ofegar visivelmente, e eventualmente começarão a engasgar.
+  Quando isso acontece, uma Harpia deve se afastar de fontes de ar ruim, ficar em cima de um purificador por alguns segundos, ou dar algumas respirações de um tanque de oxigênio puro para restaurar seus níveis de oxigênio no sangue. Apenas três segundos em oxigênio puro são suficientes para restaurar completamente a saturação de oxigênio no sangue de uma Harpia.
 
-  ## Diet
+  ## Dieta
 
-  - Can eat raw meat.
-  - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
+  - Pode comer carne crua.
+  - Será envenenado por Teobromina (Chocolate, Chá, Café) e Alicina (Cebola, Alho).
 
-  ## Benefits
+  ## Benefícios
 
-  - Somewhat smaller than Humans, although not as small as Felinids
-  - Uses their talons to deal Piercing damage
-  - Can imitate around 70% of the game's sound library through a huge list of voice emotes
-  - They can "Sing" midis by imitating instruments. Right click yourself to select an instrument
+  - Um pouco menor que Humanos, embora não tão pequeno quanto Felinídeos
+  - Usa suas garras para causar dano Perfurante
+  - Pode imitar cerca de 70% da biblioteca de sons do jogo através de uma enorme lista de emotes de voz
+  - Podem "Cantar" midis imitando instrumentos. Clique com o botão direito em si mesmo para selecionar um instrumento
 
-  ## Special
+  ## Especial
 
-  - Comes with the Ultraviolet Vision trait by default. This can be disabled via accessibility options.
-  - Cannot wear Jumpsuits, and will automatically start with a Jumpskirt instead.
-  - While singing, musical notes appear floating around their head.
+  - Possui o traito Visão Ultravioleta por padrão. Isso pode ser desabilitado nas opções de acessibilidade.
+  - Não pode usar Macacões, e começará automaticamente com uma Macacão-saia em vez disso.
+  - Enquanto canta, notas musicais aparecem flutuando ao redor de sua cabeça.
 
-  ## Drawbacks
+  ## Desvantagens
 
-  - Takes 10% more Blunt and Slash damage.
-  - Extreme low density, Harpies are lighter than even Felinids, and weigh half as much as a Human.
-  - A Harpy breathes in air twice as often as Humans, inhaling and exhaling every 3 seconds.
-  - - Air tanks last half as long and Harpies are more susceptible than usual to low air quality.
-  - - If a Harpy is exposed to at least 0.2 moles of combined CO2 and/or Miasma, they start struggling to take in oxygen.
+  - Recebe 10% mais de dano Contuso e de Corte.
+  - Extrema baixa densidade, Harpias são mais leves até que Felinídeos, e pesam metade do que um Humano.
+  - Uma Harpia respira ar duas vezes mais frequentemente que Humanos, inspirando e expirando a cada 3 segundos.
+    - Tanques de ar duram metade do tempo e Harpias são mais suscetíveis que o normal à baixa qualidade do ar.
+    - Se uma Harpia for exposta a pelo menos 0.2 mols de CO2 e/ou Miasma combinados, elas começarão a lutar para absorver oxigênio.
 
-  ## Flight
+  ## Vôo
 
-  This species is capable of flight on planets and other areas with altitude. Read the Flight entry for more information.
+  Essa espécie é capaz de vôo em planetas e outras áreas com altitude. Leia o manual de Vôo para mais informação.
 
 </Document>

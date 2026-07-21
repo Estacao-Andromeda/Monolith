@@ -1,13 +1,13 @@
 <Document>
-  # Salvage
+  # Salvamento
 
-  [color=cyan]Salvage[/color] is one of Cargo's key, but also most dangerous, sources of income. Salvage extracts money from [color=cyan]Space Debris[/color] and going on [color=cyan]Planetary Expeditions[/color].
+  [color=cyan]Salvamento[/color] é uma das fontes de renda mais importantes, mas também mais perigosas, do Carga. O Salvamento extrai dinheiro de [color=cyan]Detritos Espaciais[/color] e realiza [color=cyan]Expedições Planetárias[/color].
 
-  While risky because of the dangers of space and alien planets, with the proper preparation and teamwork, any Salvage Team can make a lot of money for Cargo.
+  Embora seja arriscado devido aos perigos do espaço e de planetas alienígenas, com a preparação adequada e trabalho em equipe, qualquer Equipe de Salvamento pode gerar muito dinheiro para o Carga.
 
-  ## Preperations
+  ## Preparativos
 
-  Before embarking on a Salvage mission, ensure you are prepared with all the required equipment. Otherwise, you will die before seeing any profits!
+  Antes de embarcar em uma missão de Salvamento, certifique-se de estar preparado com todos os equipamentos necessários. Caso contrário, você morrerá antes de ver qualquer lucro!
 
   <Box>
     <GuideEntityEmbed Entity="SuitStorageSalv"/>
@@ -15,7 +15,7 @@
     <GuideEntityEmbed Entity="VendingMachineSalvage"/>
   </Box>
 
-  Everything needed before leaving the station is provided inside Salvage's starting room. While Science can research better weapons and equipment, it is best to be equipped with something rather than nothing.
+  Tudo o que é necessário antes de sair da estação é fornecido dentro da sala inicial do Salvamento. Embora a Ciência possa pesquisar armas e equipamentos melhores, é melhor estar equipado com algo do que com nada.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitSpatio"/>
@@ -23,39 +23,39 @@
     <GuideEntityEmbed Entity="VendingMachineTankDispenserEVA"/>
   </Box>
 
-  The most basic equipment you need is the EVA setup.
+  O equipamento mais básico que você precisa é o conjunto de EVA.
 
-  - [color=cyan]Spationaut Hardsuit[/color]: This keeps you alive in space. [italic]Remember to activate the helmet so you can breathe and turn on its built-in flashlight[/italic].
-  - [color=cyan]Magboots[/color]: These provide you with gravity when exploring space debris while also making you slip-proof.
-  - [color=cyan]Oxygen/Nitrogen[/color]: Depending on your species, you will need [color=cyan]Nitrogen[/color] (slimes) or [color=cyan]Oxygen[/color] (every other species). The [color=cyan]Gas Tank Dispenser[/color] has all the tanks needed, so stock up. Be warned that the Salvage Shuttle doesn't always have air, so you might start asphyxiating before even getting to space
+  - [color=cyan]Traje Espacial de Espacionauta[/color]: Este mantém você vivo no espaço. [italic]Lembre-se de ativar o capacete para que você possa respirar e ligar sua lanterna embutida[/italic].
+  - [color=cyan]Botas Magnéticas[/color]: Estas fornecem gravidade quando você explora detritos espaciais e também o tornam à prova de escorregões.
+  - [color=cyan]Oxigênio/Nitrogênio[/color]: Dependendo da sua espécie, você precisará de [color=cyan]Nitrogênio[/color] (slimes) ou [color=cyan]Oxigênio[/color] (todas as outras espécies). O [color=cyan]Distribuidor de Tanques de Gás[/color] tem todos os tanques necessários, então abasteça-se. Esteja ciente de que a Naveta de Salvamento nem sempre tem ar, então você pode começar a asfixiar antes mesmo de chegar ao espaço
 
   <Box>
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
   </Box>
 
-  All Salvage Specialists must be armed, in case they need to defend themselves from hostiles.
+  Todos os Especialistas em Salvamento devem estar armados, caso precisem se defender de hostis.
 
-  - [color=cyan]Proto-Kinetic Accelerator[/color]: This gun has infinite ammunition, allowing you to slowly mine and fly through space.
+  - [color=cyan]Acelerador Cinético Proto[/color]: Esta arma tem munição infinita, permitindo que você mine lentamente e voe pelo espaço.
 
   <Box>
     <GuideEntityEmbed Entity="Pickaxe"/>
     <GuideEntityEmbed Entity="OreBag"/>
   </Box>
 
-  Mining (on asteroids or expeditions) requires its own basic set.
+  Mineração (em asteroides ou expedições) requer seu próprio conjunto básico.
 
-  - [color=cyan]Pickaxe[/color]: This is required for mining at any reasonable speed when wielded. Also, it works as a melee weapon!
-  - [color=cyan]Ore Bag[/color]: When equipped with the belt, this magnetizes nearby ore and automatically picks it up for you.
+  - [color=cyan]Picareta[/color]: Esta é necessária para minerar em qualquer velocidade razoável quando empunhada. Além disso, funciona como uma arma corpo a corpo!
+  - [color=cyan]Saco de Minério[/color]: Quando equipado no cinto, este magnetiza minério próximo e coleta-o automaticamente para você.
 
   <Box>
     <GuideEntityEmbed Entity="FultonBeacon"/>
     <GuideEntityEmbed Entity="Fulton"/>
   </Box>
 
-  Before looting (space wrecks or expeditions), set up Fultons to transport large objects or dead Salvage Technicians.
+  Antes de saquear (naufrágios espaciais ou expedições), configure Fultons para transportar objetos grandes ou Técnicos de Salvamento mortos.
 
-  - [color=cyan]Fulton Beacon[/color]: Unfold this to the shuttle, and all Fulton-attached objects will fly to it within 15 tiles.
-  - [color=cyan]Fulton[/color]: After linking with the Fulton Beacon, attach a Fulton to the object, and after one minute, it will fly to the Fulton Beacon.
+  - [color=cyan]Baliza Fulton[/color]: Desdobre esta para a naveta, e todos os objetos anexados com Fulton voarão para ela dentro de 15 tiles.
+  - [color=cyan]Fulton[/color]: Após vincular com a Baliza Fulton, anexe um Fulton ao objeto, e após um minuto, ele voará para a Baliza Fulton.
 
   <Box>
     <GuideEntityEmbed Entity="RadioHandheld"/>
@@ -63,33 +63,33 @@
     <GuideEntityEmbed Entity="ClothingBeltUtilityFilled"/>
   </Box>
 
-  Finally, there are also some helpful but not required equipment that is available to Salvage.
+  Finalmente, também há alguns equipamentos úteis mas não obrigatórios disponíveis para o Salvamento.
 
-  - [color=cyan]Handheld Radio[/color]: This lets you communicate with other Salvage Specialists even if regular radio communications are unavailable. It is essential for Salvage coordination while in space or on expeditions.
-  - [color=cyan]Global Positioning System[/color]: This gives you an absolute position of yourself, allowing you to pinpoint your exact location. If you get lost in space, this can let you organize a rescue mission or can help you get back to the shuttle when lost on an expedition.
-  - [color=cyan]Utility Belt[/color]: This holds all the equipment you will need to loot machines and the like from space wrecks and expeditions.
+  - [color=cyan]Rádio Portátil[/color]: Isso permite que você comunique-se com outros Especialistas em Salvamento mesmo se as comunicações de rádio regulares não estiverem disponíveis. É essencial para a coordenação de Salvamento enquanto no espaço ou em expedições.
+  - [color=cyan]Sistema de Posicionamento Global[/color]: Isso fornece a você uma posição absoluta de si mesmo, permitindo que você pinpoint sua localização exata. Se você se perder no espaço, isso pode permitir que você organize uma missão de resgate ou pode ajudá-lo a voltar para a naveta quando perdido em uma expedição.
+  - [color=cyan]Cinto de Utilidades[/color]: Este mantém todo o equipamento de que você precisará para saquear máquinas e similares de naufrágios espaciais e expedições.
 
-  ## Space Debris
+  ## Detritos Espaciais
 
-  Once prepared, it is time to go and explore the stars.
+  Uma vez preparado, é hora de ir explorar as estrelas.
 
-  Before immediately doing expeditions, it is good practice to start with space debris so that the crew gets used to their job.
+  Antes de fazer expedições imediatamente, é uma boa prática começar com detritos espaciais para que a tripulação se acostume com seu trabalho.
 
-  [color=cyan]Space Debris[/color] is generally much safer than expeditions and provides many basic materials (such as steel, glass, etc) in short supply at the start of the shift.
+  [color=cyan]Detritos Espaciais[/color] são geralmente muito mais seguros que expedições e fornecem muitos materiais básicos (como aço, vidro, etc) em escassez no início do turno.
 
   <Box>
     <GuideEntityEmbed Entity="SalvageMagnet"/>
   </Box>
 
-  The [color=cyan]Salvage Magnet[/color] is the machine that brings space debris into nearby space.
+  O [color=cyan]Ímã de Salvamento[/color] é a máquina que traz detritos espaciais para o espaço próximo.
 
-  The Salvage Magnet provides six offers: the first 3 are [color=cyan]Asteroids[/color], and the last 3 are [color=cyan]Space Wrecks[/color]. The offers then refresh every 3 minutes until claimed, after which the space debris is brought in for the next [bold]6 minutes[/bold].
+  O Ímã de Salvamento oferece seis ofertas: as 3 primeiras são [color=cyan]Asteroides[/color], e as 3 últimas são [color=cyan]Naufrágios Espaciais[/color]. As ofertas então são renovadas a cada 3 minutos até serem reivindicadas, após o que os detritos espaciais são trazidos pelos próximos [bold]6 minutos[/bold].
 
-  The Salvage Magnet provides information on the types of resources on an asteroid, which can help you decide which to prioritize based on the current needs of the station.
+  O Ímã de Salvamento fornece informações sobre os tipos de recursos em um asteroide, o que pode ajudá-lo a decidir qual priorizar com base nas necessidades atuais da estação.
 
-  During the 6 minutes, fly to the debris, extract all profit possible, and then fly back to the station. [italic]You will die if you don't return to the shuttle in time[/italic]!
+  Durante os 6 minutos, voe até os detritos, extraia todo o lucro possível, e então volte voando para a estação. [italic]Você morrerá se não retornar à naveta a tempo[/italic]!
 
-  There are two main activities that you do with the Salvage Magnet:
+  Há duas atividades principais que você faz com o Ímã de Salvamento:
 
   <Box>
     <GuideEntityEmbed Entity="Pickaxe"/>
@@ -97,7 +97,7 @@
     <GuideEntityEmbed Entity="OreProcessor"/>
   </Box>
 
-  - [color=cyan]Asteroid Mining[/color]: This is the safest option for money as there are no hostiles. All you need to do is fly around and mine the ore with your [color=cyan]Pickaxe[/color] and [color=cyan]Ore Bag[/color]. Once you have collected all the ore, you can refine it into materials through the [color=cyan]Ore Processor[/color].
+  - [color=cyan]Mineração de Asteroide[/color]: Esta é a opção mais segura para dinheiro, pois não há hostis. Tudo o que você precisa fazer é voar por aí e minerar o minério com sua [color=cyan]Picareta[/color] e [color=cyan]Saco de Minério[/color]. Uma vez que tenha coletado todo o minério, você pode refiná-lo em materiais através do [color=cyan]Processador de Minério[/color].
 
   <Box>
     <GuideEntityEmbed Entity="Wrench"/>
@@ -105,11 +105,11 @@
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
   </Box>
 
-  - [color=cyan]Space Wreck Salvaging[/color]: These are slightly more dangerous as there are hostiles. Keep your distance from hostiles and shoot at them with the [color=cyan]Proto-Kinetic Accelerator[/color]. You will mainly be looting equipment and machines through [color=cyan]Wrenches[/color] and [color=cyan]Fultons[/color].
+  - [color=cyan]Salvamento de Naufrágio Espacial[/color]: Estes são ligeiramente mais perigosos pois há hostis. Mantenha distância dos hostis e atire neles com o [color=cyan]Acelerador Cinético Proto[/color]. Você estará principalmente saqueando equipamentos e máquinas através de [color=cyan]Chaves Inglesas[/color] e [color=cyan]Fultons[/color].
 
-  ## Planetary Expeditions
+  ## Expedições Planetárias
 
-  Finally, [color=cyan]Planetary Expeditions[/color] are the most dangerous but profitable way for Salvage to make money.
+  Finalmente, [color=cyan]Expedições Planetárias[/color] são a maneira mais perigosa, mas mais lucrativa, para o Salvamento ganhar dinheiro.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerSalvageExpedition"/>
@@ -118,17 +118,17 @@
   </Box>
 
 
-  First, use the [color=cyan]Salvage Expedition Computer[/color] to select an expedition. Every 30 seconds, the missions cycle and provide certain information like the [color=yellow]difficulty[/color] and [color=yellow]types of enemies[/color].
+  Primeiro, use o [color=cyan]Computador de Expedição de Salvamento[/color] para selecionar uma expedição. A cada 30 segundos, as missões ciclam e fornecem certas informações como a [color=yellow]dificuldade[/color] e [color=yellow]tipos de inimigos[/color].
 
-  After weighing your options, pick the expedition that best suits the station's needs and the crew's abilities.
+  Após pesar suas opções, escolha a expedição que melhor se adapta às necessidades da estação e às habilidades da tripulação.
 
-  Once you claim the expedition mission, a [color=cyan]Coordinates Disk[/color] will be ejected, which needs to be inserted into the [color=cyan]Shuttle Console[/color].
+  Uma vez que você reivindique a missão de expedição, um [color=cyan]Disco de Coordenadas[/color] será ejetado, que precisa ser inserido no [color=cyan]Console da Naveta[/color].
 
-  Once inside the Shuttle Console, switch to [color=yellow]Map mode[/color]. Then, click "[color=yellow]Scan for Nearby Objects[/color]". Now, on the drop-down menu on the bottom left of the console UI, click on [color=yellow]the planet's name[/color]. Finally, enable [color=yellow]FTL[/color], click on the [color=yellow]planet on the map[/color], and you will begin FTL travel.
+  Uma vez dentro do Console da Naveta, mude para o [color=yellow]Modo Mapa[/color]. Então, clique em "[color=yellow]Escanear Objetos Próximos[/color]". Agora, no menu suspenso no canto inferior esquerdo da interface do console, clique no [color=yellow]nome do planeta[/color]. Finalmente, habilite [color=yellow]FTL[/color], clique no [color=yellow]planeta no mapa[/color], e você começará a viagem FTL.
 
-  Once you have landed on the planet, you will have [bold]11 minutes[/bold] to spend between [color=cyan]Mining[/color] and [color=cyan]Dungeon Looting[/color]
+  Uma vez que tenha aterrissado no planeta, você terá [bold]11 minutos[/bold] para gastar entre [color=cyan]Mineração[/color] e [color=cyan]Saque de Masmorra[/color]
 
-  - [color=cyan]Expedition Mining[/color]: Mining during expeditions provides access to a wide range of resources, but also increases the risk of getting lost or encountering environmental and hostile threats.
+  - [color=cyan]Mineração de Expedição[/color]: Mineração durante expedições fornece acesso a uma ampla gama de recursos, mas também aumenta o risco de se perder ou encontrar ameaças ambientais e hostis.
 
-  - [color=cyan]Dungeon Looting[/color]: Dungeon Looting is where you make the most profit. When you touch down on the planet, the direction of the dungeon will be announced over the radio. Next, break into the dungeon, kill all the hostiles, and secure any loot. [color=cyan]Fultons[/color] become especially handy as you will be transferring whole machines and anomalies. The rewards from Dungeon Looting are expensive equipment to sell and exclusive technologies, such as [color=yellow]cloning[/color]. As an addition, the corpses of the hostiles can also be used and sold!
+  - [color=cyan]Saque de Masmorra[/color]: O Saque de Masmorra é onde você faz o maior lucro. Quando você aterrissa no planeta, a direção da masmorra será anunciada pelo rádio. Em seguida, invada a masmorra, mate todos os hostis, e garanta qualquer saque. [color=cyan]Fultons[/color] tornam-se especialmente úteis pois você estará transferindo máquinas inteiras e anomalias. As recompensas do Saque de Masmorra são equipamentos caros para vender e tecnologias exclusivas, como [color=yellow]clonagem[/color]. Como adicional, os cadáveres dos hostis também podem ser usados e vendidos!
 </Document>

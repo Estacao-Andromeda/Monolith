@@ -1,11 +1,11 @@
 - type: construction
-  name: notice board
+  name: construction-NoticeBoardNFWallmountedConstruction-name
   id: NoticeBoardNFWallmountedConstruction
   graph: NoticeBoardNFGraph
   startNode: start
   targetNode: NoticeBoardNFNode
   category: construction-category-structures
-  description: A wallmounted notice board.
+  description: construction-NoticeBoardNFWallmountedConstruction-desc
   objectType: Structure
   placementMode: SnapgridCenter
   icon:

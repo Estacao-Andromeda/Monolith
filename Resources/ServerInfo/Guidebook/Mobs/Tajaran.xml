@@ -5,24 +5,24 @@
     <GuideEntityEmbed Entity="MobTajaran" Caption=""/>
   </Box>
 
-  Tajara are a species of omnivorous, bipedal humanoids with features strongly resembling Terran felines.
-  Their most distinguishing traits include a layer of fur, large ears atop their heads, and a tail that aids in balance.
-  They hail from the icy moon of [color=turquoise]Ahdomai[/color], only relatively recently making their debut on the galactic stage.
-  Originally a clan-centric society, Tajara endured centuries of dictatorial rule.
-  Following a civil war, their government fractured, and power returned to the clans, where it remains to this day.
+  Os Tajaran são uma espécie de humanoides bípedes onívoros com características que se assemelham fortemente aos felinos terráqueos.
+  Seus traços mais distintivos incluem uma camada de pelo, orelhas grandes no topo de suas cabeças e uma cauda que auxilia no equilíbrio.
+  Eles são originários da lua gelada de [color=turquoise]Ahdomai[/color], tendo feito sua estreia no cenário galáctico apenas relativamente recentemente.
+  Originalmente uma sociedade centrada em clãs, os Tajara sofreram séculos de governo ditatorial.
+  Após uma guerra civil, seu governo se fragmentou e o poder retornou aos clãs, onde permanece até hoje.
 
-  ## Mechanics
+  ## Mecânicas
 
-  Due to their [color=yellow]small stature[/color], Tajara [color=#ec3a3a]take 15% more Brute damage[/color], but they can also [color=#1e90ff]fit into duffel bags[/color].
+  Devido ao seu [color=yellow]porte pequeno[/color], os Tajara [color=#ec3a3a]recebem 15% mais de dano Bruto[/color], mas também podem [color=#1e90ff]se encaixar em bolsas de viagem[/color].
 
-  Their layer of fur gives them some [color=#1e90ff]resistance to Cold[/color], at the cost of [color=#ec3a3a]taking more Heat damage[/color]
+  Sua camada de pelo lhes confere alguma [color=#1e90ff]resistência ao Frio[/color], ao custo de [color=#ec3a3a]receberem mais dano de Calor[/color]
 
-  They use their claws for unarmed attacks, dealing [color=#ec3a3a]Slashing[/color] and [color=#ec3a3a]Piercing[/color] damage.
+  Eles usam suas garras para ataques desarmados, causando dano [color=#ec3a3a]Cortante[/color] e [color=#ec3a3a]Perfurante[/color].
 
-  Thanks to their innate agility, they [color=#1e90ff]take reduced damage from impacts or falls[/color], and their soft feet allow them to [color=#1e90ff]walk shoeless without making noise[/color].
+  Graças à sua agilidade inata, eles [color=#1e90ff]recebem dano reduzido de impactos ou quedas[/color], e seus pés macios permitem que eles [color=#1e90ff]andem descalços sem fazer barulho[/color].
 
-  ## Soft Paws
+  ## Patas Macias
 
-  This species lands softer when dropping from high altitudes. (In layman's terms, they have a higher distance where falling does not hurt or stun them.)
+  Essa espécie aterrissa suavemente quando caindo de altas altitudes. Em palavras mais simples, eles conseguem cair de mais alto sem se machucar ou serem atordoados.
 
 </Document>

@@ -7,8 +7,8 @@
 - type: vessel
   id: Magus
   parent: BaseVessel
-  name: SHM Magus
-  description: An armed, PMC-rated medical lighter designed for planetary expeditions.
+  name: vessel-Magus-name
+  description: vessel-Magus-desc
   price: 69420 # ~20,000$ markup
   category: Medium
   group: Expedition

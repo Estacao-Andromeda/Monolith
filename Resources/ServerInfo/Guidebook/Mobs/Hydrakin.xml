@@ -1,5 +1,5 @@
 <Document>
-  # Hydrakin
+  # Hidra
 
   <Box>
     <GuideEntityEmbed Entity="MobHydrakin" Caption=""/>
@@ -7,32 +7,32 @@
 
   ## Lore
 
-  Hydrakin are avian creatures with an odd appearance and an extreme tolerance for cold. Fluffy, exceptionally warm, and notoriously noisy, these birds originate from a desolate iceworld far beyond the normal limits of habitable space. Their home planet is locked in perpetual ice storms, dimly lit, and surrounded by liquid oxygen oceans beneath a frezon-heavy atmosphere—once thought entirely lifeless.
+  Hidras são criaturas aviárias com uma aparência estranha e uma tolerância extrema ao frio. Fofas, excepcionalmente quentes e notoriamente barulhentas, estas aves se originam de um mundo gelado desolado muito além dos limites normais de espaço habitável. Seu planeta natal está preso em tempestades de gelo perpétuas, fracamente iluminado, e cercado por oceanos de oxigênio líquido sob uma atmosfera rica em frezon — antes pensado como completamente sem vida.
 
-  Previously not meeting qualifications for sentience, the species was uplifted by Ullman Industries. Instead of being uplifted for integration or labor, Ullman pursued uplift as a proof-of-concept experiment to demonstrate its technological capability to investors. Once sapience and communication benchmarks were met, the project was declared a success, but the uplifted species itself was considered uneconomical to corporate interests.
+  Anteriormente não cumprindo os requisitos para consciência, a espécie foi elevada pela Ullman Industries. Em vez de ser elevada para integração ou trabalho, a Ullman buscou a elevação como um experimento de prova de conceito para demonstrar sua capacidade tecnológica aos investidores. Uma vez que os benchmarks de consciência e comunicação foram alcançados, o projeto foi declarado um sucesso, mas a própria espécie elevada foi considerada não econômica para os interesses corporativos.
 
-  Transport disruptions, bluespace storms, and corporate negligence scattered Hydrakin shipments and colonies across the Colossus, leaving many outside Ullman control. Today, the Hydrakin exist as a partially uplifted, displaced species, struggling to adapt to a sector they were never meant to inhabit.
+  Disrupções de transporte, tempestades de bluespace, e negligência corporativa espalharam remessas e colônias de Hidras pelo Colossus, deixando muitos fora do controle da Ullman. Hoje, as Hidras existem como uma espécie parcialmente elevada e deslocada, lutando para se adaptar a um setor onde nunca deveriam habitar.
 
-  ## Food
+  ## Comida
 
-  - Hydrakins mostly prefer raw food. Onions and theobromine-containing food are [color=#FFA500]highly toxic to them[/color].
+  - Hidras preferem principalmente comida crua. Cebolas e comida contendo teobromina são [color=#FFA500]altamente tóxicas para elas[/color].
 
-  ## Physical properties
+  ## Propriedades físicas
 
-  - They are [color=#4169E1]10% more resistant to piercing and blunt damage[/color].
-  - They take [color=#FFA500]25% more heat damage and 15% more slash damage[/color].
-  - Wearing glasses is [color=#FFA500]not possible[/color] due to the head anatomy.
+  - Elas são [color=#4169E1]10% mais resistentes a dano perfurante e contuso[/color].
+  - Elas recebem [color=#FFA500]25% mais dano de calor e 15% mais dano de corte[/color].
+  - Usar óculos é [color=#FFA500]impossível[/color] devido à anatomia da cabeça.
 
-  ## Temperature
+  ## Temperatura
 
-  - Hydrakin bodies are [color=#FFA500]constantly heating up[/color]. They can tolerate heat without any insulation, but wearing hardsuits or coats will immediatly start [color=#FFA500]heating them up to 67C[/color].
-  - Leporazine and Peranol have [color=#4169E1]amplified[/color] cooling effect on their body.
-  - However, using any type of cryo chemicals will make hydrakins [color=#FFA500]fall asleep[/color] if their body temperature is low enough to activate it.
-  - As well, Hydrakin's thermal regulation entirely fails in critical condition as while as being dead.
+  - Corpos de Hidra estão [color=#FFA500]constantemente aquecendo[/color]. Elas podem tolerar calor sem qualquer isolamento, mas usar roupas espaciais ou casacos começará imediatamente a [color=#FFA500]aquecê-las até 67°C[/color].
+  - Leporazina e Peranol têm efeito de resfriamento [color=#4169E1]amplificado[/color] em seus corpos.
+  - No entanto, usar qualquer tipo de químicos criogênicos fará com que Hidras [color=#FFA500]adormeçam[/color] se sua temperatura corporal estiver baixa o suficiente para ativá-lo.
+  - Além disso, a regulação térmica das Hidras falha completamente em estado crítico e também quando mortas.
 
-  ## Atmospherics
+  ## Atmosfera
 
-  - Hydrakins are capable of breathing all gases, with carbon dioxide and water vapor being an exception.
-  - Unique gases (Such as Plasma, Tritium, Frezon, Nitrium, Healium and etc.) have mostly [color=#4169E1]positive[/color] effect on them, described in the "Chemicals" guidebook entry.
+  - Hidras são capazes de respirar todos os gases, com dióxido de carbono e vapor de água sendo uma exceção.
+  - Gases únicos (como Plasma, Trítio, Frezon, Nitrium, Healium, etc.) têm efeito principalmente [color=#4169E1]positivo[/color] nelas, descrito na entrada do guia "Químicos".
 
 </Document>

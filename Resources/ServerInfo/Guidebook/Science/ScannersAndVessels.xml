@@ -1,24 +1,24 @@
 <Document>
-## Anomaly Scanner
+## Scanner de Anomalias
 
-The Anomaly Scanner is used to gather various information on anomalies. They can be found inside of the lockers in the science department.
+O Scanner de Anomalias é usado para coletar várias informações sobre anomalias. Eles podem ser encontrados dentro dos armários no departamento de ciência.
 
 <Box>
 <GuideEntityEmbed Entity="AnomalyScanner"/>
 </Box>
 
-Scanning an anomaly shows the severity, general stability, approximate point output, reactions with particle types, and time until the next pulse. The reaction types, specifically, can be used in conjunction with the A.P.E. to manipulate anomalies.
+Escanear uma anomalia mostra a severidade, estabilidade geral, produção aproximada de pontos, reações com tipos de partículas e tempo até o próximo pulso. Os tipos de reação, especificamente, podem ser usados em conjunto com a A.P.E. para manipular anomalias.
 
-## Anomaly Vessel
+## Vaso de Anomalia
 
-The anomaly vessel is a machine that generates points from anomalies. Use the anomaly scanner on an empty vessel, and the anomaly that was last scanned will be synced with the vessel.
+O vaso de anomalia é uma máquina que gera pontos a partir de anomalias. Use o scanner de anomalias em um vaso vazio, e a anomalia que foi escaneada por último será sincronizada com o vaso.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyVessel"/>
 </Box>
 
-The amount of points a vessel generates per second is based on the severity, stability, and health of an anomaly. The higher each of these values, the higher the point output will be.
+A quantidade de pontos que um vaso gera por segundo é baseada na severidade, estabilidade e saúde de uma anomalia. Quanto maiores esses valores, maior será a produção de pontos.
 
-Be careful: if an anomaly goes [color=#a4885c]supercritical[/color], the vessel it is linked to will explode. This may damage the station and nearby equipment.
+Tenha cuidado: se uma anomalia entrar em estado [color=#a4885c]supercrítico[/color], o vaso ao qual ela está vinculada explodirá. Isso pode danificar a estação e equipamentos próximos.
 
 </Document>

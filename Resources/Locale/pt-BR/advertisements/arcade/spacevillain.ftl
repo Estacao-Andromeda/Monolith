@@ -1,0 +1,29 @@
+advertisement-space-villain-1 = Você é durão o suficiente para vencer este jogo?
+advertisement-space-villain-2 = Vença o vilão; ganhe um prêmio!
+advertisement-space-villain-3 = ENFRENTE-ME!
+advertisement-space-villain-4 = O espaço precisa de um herói!
+advertisement-space-villain-5 = Estou esperando por um herói!
+advertisement-space-villain-6 = Ninguém vai nos salvar?
+advertisement-space-villain-7 = Mua-ha-ha-ha!
+advertisement-space-villain-8 = Spaaaaaaaace Villain!
+advertisement-space-villain-9 = Ninguém pode me derrotar!
+advertisement-space-villain-10 = Tremam diante de mim!
+advertisement-space-villain-11 = DESAFIE-ME!
+advertisement-space-villain-12 = TEMA-ME!
+advertisement-space-villain-13 = Você ousa me enfrentar em batalha!?
+advertisement-space-villain-14 = Cuidado, eu vivo!
+advertisement-space-villain-15 = Eu sinto fome!
+
+thankyou-space-villain-1 = E aonde você pensa que vai, piranha?
+thankyou-space-villain-2 = É só isso que você tem?
+thankyou-space-villain-3 = Essa luta não acabou!
+thankyou-space-villain-4 = Desafie novamente em breve!
+thankyou-space-villain-5 = Quem ousa me desafiar depois?
+thankyou-space-villain-6 = Eu sabia que você não poderia me derrotar!
+thankyou-space-villain-7 = Bom demais para você?
+thankyou-space-villain-8 = Corra, covarde!
+thankyou-space-villain-9 = Você nunca teve chance.
+thankyou-space-villain-10 = Que tal uma revanche?
+thankyou-space-villain-11 = Enfrente-me novamente!
+thankyou-space-villain-12 = Volte aqui e lute comigo!
+

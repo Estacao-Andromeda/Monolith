@@ -1,11 +1,11 @@
 <Document>
-  # Dwarves
+  # Anões
 
   <Box>
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
   </Box>
 
-  An industrious species, dwarves are similar to humans in most respect, but tolerate alcohol better and are healed by it.
+  Uma espécie industriosa, os anões são similares aos humanos na maioria dos aspectos, mas toleram álcool melhor e são curados por ele.
 
   <Box>
     <GuideEntityEmbed Entity="WallRockChromiteDiamond" Caption=""/>
@@ -13,6 +13,6 @@
     <GuideEntityEmbed Entity="WallRockBluespace" Caption=""/>
   </Box>
 
-  A dwarf instinctively knows where the choice ore veins are, and can sense the presence of ore up to 5 meters away.
+  Um anão sabe instintivamente onde estão as veias de minério escolhidas, e pode sentir a presença de minério a até 5 metros de distância.
 
 </Document>

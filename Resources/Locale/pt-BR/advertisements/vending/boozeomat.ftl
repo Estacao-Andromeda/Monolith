@@ -1,0 +1,23 @@
+advertisement-boozeomat-1 = Tomara que ninguém me peça um maldito copo de chá...
+advertisement-boozeomat-2 = O álcool é amigo da humanidade. Você abandonaria um amigo?
+advertisement-boozeomat-3 = Muito feliz em servi-lo!
+advertisement-boozeomat-4 = Ninguém está com sede nesta estação?
+advertisement-boozeomat-5 = Beba!
+advertisement-boozeomat-6 = Bebida é boa para você!
+advertisement-boozeomat-7 = O álcool é o melhor amigo da humanidade.
+advertisement-boozeomat-8 = Quer uma cerveja gelada?
+advertisement-boozeomat-9 = Nada cura você como bebida!
+advertisement-boozeomat-10 = Tome um gole!
+advertisement-boozeomat-11 = Tome uma bebida!
+advertisement-boozeomat-12 = Tome uma cerveja!
+advertisement-boozeomat-13 = Cerveja é boa para você!
+advertisement-boozeomat-14 = Apenas o melhor álcool!
+advertisement-boozeomat-15 = Melhor qualidade de bebida desde 2053!
+advertisement-boozeomat-16 = Vinho premiado!
+advertisement-boozeomat-17 = Álcool máximo!
+advertisement-boozeomat-18 = Homem ama cerveja.
+advertisement-boozeomat-19 = Um brinde ao progresso!
+thankyou-boozeomat-1 = Por favor, beba com responsabilidade!
+thankyou-boozeomat-2 = Por favor, beba sem responsabilidade!
+thankyou-boozeomat-3 = Por favor, aproveite sua bebida!
+

@@ -1,7 +1,7 @@
-Welcome to Space Station 14! You have just woken up in the dangerous Colossus Sector on the fringe of "civilized" space. The sector is ripe with danger... and rewards, if you're able to fight for them. Make sure to have fun (not at the expense of others hopefully)!
+Bem-vindo ao Space Station 14! Você acabou de acordar no perigoso Setor Colossus, na fronteira do espaço "civilizado". O setor está repleto de perigos... e recompensas, se você for capaz de lutar por elas. Certifique-se de se divertir (esperançosamente não à custa dos outros)!
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, your colleagues in-sector or over radio or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+Por favor, certifique-se de entender as regras do servidor (F1) e se você tiver alguma dúvida, consulte este guia, seus colegas no setor ou via rádio ou pelo discord. Você também pode pedir ajuda aos administradores (ahelp) pressionando a tecla escape > admin help e digitando uma mensagem para qualquer administrador online. Especialmente faça isso se você testemunhar alguém quebrando as regras.
 
-Be aware that the Colossus sector is a very dangerous place. Expect your stuff to be stolen, destroyed, exploded, or otherwise lost - Always remember this. Your gun is your best friend.
+Esteja ciente de que o setor Colossus é um lugar muito perigoso. Espere que suas coisas sejam roubadas, destruídas, explodidas ou de outra forma perdidas - Lembre-se sempre disso. Sua arma é sua melhor amiga.
 
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+Em vez de intenções, temos modo de combate. Verifique os controles abaixo para sua tecla de atalho. Você não pode atacar ninguém com ele desativado, então não há mais acertos a si mesmo com sua própria pé de cabra.

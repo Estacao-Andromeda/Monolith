@@ -1,54 +1,54 @@
 - type: construction
-  name: torch
+  name: construction-LightTorch-name
   id: LightTorch
   graph: LightTorch
   startNode: start
   targetNode: torch
   category: construction-category-tools
-  description: A torch fashioned from some wood.
+  description: construction-LightTorch-desc
   icon: { sprite: Objects/Misc/torch.rsi, state: icon }
   objectType: Item
 
 - type: construction
-  name: logic gate
+  name: construction-LogicGate-name
   id: LogicGate
   graph: LogicGate
   startNode: start
   targetNode: logic_gate
   category: construction-category-tools
-  description: A binary logic gate for signals.
+  description: construction-LogicGate-desc
   icon: { sprite: Objects/Devices/gates.rsi, state: or_icon }
   objectType: Item
 
 - type: construction
-  name: edge detector
+  name: construction-EdgeDetector-name
   id: EdgeDetector
   graph: LogicGate
   startNode: start
   targetNode: edge_detector
   category: construction-category-tools
-  description: An edge detector for signals.
+  description: construction-EdgeDetector-desc
   icon: { sprite: Objects/Devices/gates.rsi, state: edge_detector }
   objectType: Item
 
 - type: construction
-  name: power sensor
+  name: construction-PowerSensor-name
   id: PowerSensor
   graph: LogicGate
   startNode: start
   targetNode: power_sensor
   category: construction-category-tools
-  description: A power network checking device for signals.
+  description: construction-PowerSensor-desc
   icon: { sprite: Objects/Devices/gates.rsi, state: power_sensor }
   objectType: Item
 
 - type: construction
-  name: memory cell
+  name: construction-MemoryCell-name
   id: MemoryCell
   graph: LogicGate
   startNode: start
   targetNode: memory_cell
   category: construction-category-tools
-  description: A memory cell for signals.
+  description: construction-MemoryCell-desc
   icon: { sprite: Objects/Devices/gates.rsi, state: memory_cell }
   objectType: Item

@@ -1,175 +1,175 @@
 <Document>
-  # Dinosaurs
-  
-  Enigmatic behemoths from a bygone era known for their imposing stature and formidable presence. It would seem that nature took the same path on some distant planets as it did on Earth.
-  
-  Can be butchered for meat and bones.
-  
+  # Dinossauros
+
+  Behemoths enigmáticos de uma era passada, conhecidos por sua estatura imponente e presença formidável. Parece que a natureza seguiu o mesmo caminho em alguns planetas distantes quanto na Terra.
+
+  Podem ser abatidos para carne e ossos.
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
+
+  # Variantes Conhecidas
   # "Compsognathus"
-  
-  Compsognathus is a genus of small, bipedal, carnivorous theropods. They have long hind legs and longer tails, which they used for balance during locomotion. Their forelimbs are small but beware of their claws.
-  
+
+  Compsognathus é um gênero de pequenos terópodes bípedes carnívoros. Eles têm pernas traseiras longas e caudas mais longas, que usavam para equilíbrio durante a locomoção. Seus membros anteriores são pequenos, mas cuidado com suas garras.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurCompyExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.1 m/s (4.1 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 50 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.1 m/s (4.1 m/s)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]um humano médio pode correr a 4.5 m/s e caminhar a 2.5 m/s.[/italic]
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Dilophosaurus"
-  
-  With a name meaning "two-crested lizard", these measure in at about 7 m in length and 400 kg in weight. Slender and lightly built, these are very agile.
-  
+
+  Com um nome que significa "lagarto de duas cristas", estes medem cerca de 7 m de comprimento e 400 kg de peso. Esbeltos e leves, estes são muito ágeis.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurDiloExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.3 m/s (4.3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color], 2 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 50 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.3 m/s (4.3 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=red]Corte[/color], 2 [color=orange]Cáustico[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Velociraptor"
-  
-  A bipedal, featherless carnivore with a long tail. Each of its hindfeet has an enlarged sickle-shaped claw, which is used to tackle and restrain prey. Very fast, exercise caution.
-  
+
+  Um carnívoro bípede sem penas com uma longa cauda. Cada um de seus pés traseiros tem uma garra em forma de foice ampliada, que é usada para derrubar e restringir presas. Muito rápido, use cautela.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurRaptorExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 80 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 18 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 80 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (4.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 18 [color=red]Corte[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Parasaurolophus"
-  
-  A large carnivore that can reach over 9 metres (30 ft) long and weigh over 5 metric tons (5.5 short tons), these can move on two legs or four. Reasonably fast for its size, but comparatively fragile and weak.
-  
+
+  Um grande carnívoro que pode atingir mais de 9 metros (30 pés) de comprimento e pesar mais de 5 toneladas métricas (5.5 toneladas curtas), estes podem se mover em duas ou quatro pernas. Razoa velmente rápido para seu tamanho, mas comparativamente frágil e fraco.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurParaExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 6 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Kentrosaurus"
-  
-  On the smaller side of dinosaurs, Kentrosaurus generally measure around 4–4.5 m, and weigh about 700–1,600 kg. Its elongated head and beak are used to bite off plant material or tear off limbs.
-  
+
+  No lado menor dos dinossauros, Kentrosaurus geralmente mede cerca de 4-4.5 m, e pesa cerca de 700-1,600 kg. Sua cabeça alongada e bico são usados para morder material vegetal ou arrancar membros.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurKentroExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 150 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 2.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 150 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 2.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 10 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Triceratops"
-  
-  Bearing a large bony frill with three horns on its skull, this massive quadruped is one of the most recognizable of all dinosaurs and the best-known ceratopsian. Typically tries to gore whatever it attacks.
-  
+
+  Com uma grande gola óssea e três chifres no crânio, este quadrúpede massivo é um dos mais reconhecíveis de todos os dinossauros e o ceratopsiano mais conhecido. Geralmente tenta empalar qualquer coisa que ataque.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurTrikeExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 200 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 200 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3 m/s (3 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 15 [color=yellow]Perfurante[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Ankylosaurus"
-  
-  Typically between between 6 and 8 meters long and between 4.8 and 8 tons in weight, this lumbering beast shouldn't be underestimated. Its wide, low skull and robust body can take a beating and still survive, and the large club on the end of its tail can be used as a weapon.
-  
+
+  Tipicamente entre 6 e 8 metros de comprimento e entre 4.8 e 8 toneladas de peso, esta besta vagarosa não deve ser subestimada. Sua cabeça larga e baixa e corpo robusto podem aguentar uma surra e ainda sobreviver, e a grande maça na ponta de sua cauda pode ser usada como arma.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurAnkiExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 250 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 2 m/s (2 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 250 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 2 m/s (2 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Spinosaurus"
-  
-  With a typical length of 14 m and a mass of 7.4 tons, Spinosaurus has large, robust forelimbs. Each of its hands has three-fingers, with an enlarged claw on the first digit. Surprisingly quick for its size, this giant can take a lot of punishment.
-  
+
+  Com um comprimento típico de 14 m e uma massa de 7.4 toneladas, Spinosaurus tem membros anteriores grandes e robustos. Cada uma de suas mãos tem três dedos, com uma garra ampliada no primeiro dígito. Surpreendentemente rápido para seu tamanho, este gigante pode aguentar muito castigo.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurSpinoExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 350 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 350 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (4.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 12 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Stegosaurus"
-  
-  Large and heavily built, these herbivorous quadrupeds have rounded backs, short fore limbs, long hind limbs, and tails held high in the air. Lumbering, but lethal up close.
-  
+
+  Grandes e pesados, estes quadrúpedes herbívoros têm costas arredondadas, membros anteriores curtos, membros posteriores longos, e caudas mantidas altas no ar. Vagaroso, mas letal de perto.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurStegoExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 350 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 2.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color], 8 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 350 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 2.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 12 [color=red]Contundente[/color], 8 [color=yellow]Perfurante[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Tyrannosaurus"
-  
-  A massive therapod, its giant thorax is balanced by a long, heavy tail. Relative to its large and powerful hind limbs, the forelimbs of Tyrannosaurus are short but incredible powerful for their size, and they have two clawed digits.
-  
+
+  Um terópodo massivo, seu gigantesco tórax é equilibrado por uma cauda longa e pesada. Relativo a seus membros posteriores grandes e poderosos, os membros anteriores do Tyrannosaurus são curtos mas incrivelmente poderosos para seu tamanho, e eles têm dois dígitos com garras.
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurTrexExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 450 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=red]Blunt[/color], 10 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 450 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (4.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 15 [color=red]Contundente[/color], 10 [color=yellow]Perfurante[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # Objetivos da Missão
+  ## Eliminação
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurTrexExpeditions"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]tyrannosaurus[/color] within given time constraints to earn a monetary reward.
-  
-  ## Destruction
+  Elimine uma criatura grande e perigosa - um [color=#a4885c]tyrannosaurus[/color] dentro do tempo limite para ganhar uma recompensa monetária.
+
+  ## Destruição
   <Box>
   <GuideEntityEmbed Entity="DinosaurEgg"/>
   </Box>
-  Destroy a certain amount of [color=#a4885c]dinosaur eggs[/color] within given time constraints to earn a monetary reward.
+  Destrua uma certa quantidade de [color=#a4885c]ovos de dinossauro[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 </Document>

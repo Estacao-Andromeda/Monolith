@@ -1,4 +1,4 @@
 - type: guideEntry
   id: Flight
-  name: Flight
+  name: guidebook-entry-Flight
   text: "/ServerInfo/_CE/Flight.xml"

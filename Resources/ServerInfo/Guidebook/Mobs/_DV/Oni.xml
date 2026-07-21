@@ -5,22 +5,22 @@
     <GuideEntityEmbed Entity="MobOniDummy" Caption=""/>
   </Box>
 
-  Large, horned people that come in a variety of colors. Their accuracy with guns is terrible, but their physical strength brings them a lot of boons both in and out of combat.
+  Pessoas grandes, com chifres, que vêm em uma variedade de cores. A precisão deles com armas é terrível, mas sua força física traz muitos benefícios tanto dentro quanto fora de combate.
 
-  ## Diet
-  - Nothing special.
+  ## Dieta
+  - Nada de especial.
 
-  ## Benefits
-  - Takes 15% less Blunt, Slash and Piercing damage.
-  - Does more damage in melee; 35% more Blunt and Asphyxiation, 20% more Slash and Piercing.
-  - Due to their big size, they can easily carry, shove and pull any other morphotypes.
-  - They are harder to shove.
-  - Slightly more stamina than Humans.
-  - They have an easier time prying open doors, taking around 50% less time than other species.
+  ## Benefícios
+  - Recebe 15% menos de dano Contuso, Cortante e Perfurante.
+  - Causa mais dano em combate corpo a corpo; 35% mais dano Contuso e por Asfixia, 20% mais Cortante e Perfurante.
+  - Devido ao seu tamanho grande, podem facilmente carregar, empurrar e puxar quaisquer outros morfotipos.
+  - São mais difíceis de empurrar.
+  - Um pouco mais de resistência que Humanos.
+  - Têm mais facilidade para arrombar portas, levando cerca de 50% menos tempo que outras espécies.
 
-  ## Drawbacks
-  - Their accuracy with guns is terrible.
-  - They are harder to carry and pull.
-  - They are bigger than Humans, making them easier to hit.
+  ## Desvantagens
+  - A precisão deles com armas é terrível.
+  - São mais difíceis de carregar e puxar.
+  - São maiores que Humanos, tornando-os mais fáceis de acertar.
 
 </Document>

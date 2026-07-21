@@ -3,8 +3,8 @@
 - type: vessel
   id: Kalisto
   parent: BaseVesselAntag
-  name: BT-Y Kalisto
-  description: A quick and mass produced corvette, armed with 2x Palladin misile launchers in its maw and 3x DRAVON 90mm autocannons on its left side, along with some PD.
+  name: vessel-Kalisto-name
+  description: vessel-Kalisto-desc
   price: 120750
   purchasable: false # voucher only
   category: Medium
@@ -27,7 +27,7 @@
     Kalisto:
       gridComponents:
       - type: VesselInfo
-        description: "Cramped and dirty. This can only end well..."
+        description: vessel-Kalisto-desc
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup

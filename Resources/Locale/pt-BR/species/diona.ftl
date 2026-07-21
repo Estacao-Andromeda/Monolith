@@ -1,0 +1,1 @@
+diona-hurt-by-herbicide-popup = O químico murcha parte da sua vegetação!

@@ -1,61 +1,61 @@
 <Document>
-  # Reptilians
+  # Répteis
 
   <Box>
     <GuideEntityEmbed Entity="MobReptilian" Caption=""/>
   </Box>
 
 
-  ## Food
-  Reptilians are capable of eating raw meat, but will get ill from consuming chocolate or any other food containing theobromine.
+  ## Comida
+  Répteis são capazes de comer carne crua, mas ficarão doentes ao consumir chocolate ou qualquer outro alimento contendo teobromina.
 
 
-  ## Physical properties
-  They can drag objects with their tail, keeping both their hands free.
+  ## Propriedades físicas
+  Eles podem arrastar objetos com sua cauda, mantendo ambas as mãos livres.
 
-  They receive [color=#FFA500]15%[/color] less damage from slash and [color=#FF0000]5%[/color] less damage from heat, but [color=#FFA500]25%[/color] more damage from blunt.
+  Eles recebem [color=#FFA500]15%[/color] menos dano de corte e [color=#FF0000]5%[/color] menos dano de calor, mas [color=#FFA500]25%[/color] mais dano de contusão.
 
-  Their raw melee is way more powerful than human - 8 slash with 1.5 attack rate
+  Seu ataque corpo a corpo bruto é muito mais poderoso que o humano - 8 de corte com taxa de ataque de 1.5
 
 
-  ## Claws
-  Reptilians are equipped with dangerous claws that have different stages.
+  ## Garras
+  Répteis estão equipados com garras perigosas que possuem diferentes estágios.
 
-  - Stage 0 - [color=#FFA500]8 slash damage.[/color]
-  - Stage 1 - [color=#FFA500]11 slash damage.[/color] [color=#FFDEAD]Gun spread is increased by 10%, Handheld weapon damage is decreased by 5%[/color]
-  - Stage 2 - [color=#FFA500]13 slash damage, 2 piercing damage.[/color] [color=#FFDEAD]Gun spread is increased by 25%, Handheld weapon damage is decreased by 13%.[/color] Starting from this stage, you are capable of wideswinging with your claws
-  - Stage 3 - [color=#FFA500]15 slash damage, 5 piercing damage.[/color] [color=#FFDEAD]Gun spread is increased by 45%, Handheld weapon damage is decreased by 25%[/color]
-  - Stage 4 - [color=#FFA500]18 slash damage, 12 piercing damage.[/color] [color=#FFDEAD]You are not capable of using all guns but bows anymore, Handheld weapon damage is decreased by 50%.[/color]
+  - Estágio 0 - [color=#FFA500]8 de dano de corte.[/color]
+  - Estágio 1 - [color=#FFA500]11 de dano de corte.[/color] [color=#FFDEAD]Espalhamento de arma é aumentado em 10%, Dano de arma portátil é diminuído em 5%[/color]
+  - Estágio 2 - [color=#FFA500]13 de dano de corte, 2 de dano perfurante.[/color] [color=#FFDEAD]Espalhamento de arma é aumentado em 25%, Dano de arma portátil é diminuído em 13%.[/color] A partir deste estágio, você é capaz de fazer ataques largos com suas garras
+  - Estágio 3 - [color=#FFA500]15 de dano de corte, 5 de dano perfurante.[/color] [color=#FFDEAD]Espalhamento de arma é aumentado em 45%, Dano de arma portátil é diminuído em 25%[/color]
+  - Estágio 4 - [color=#FFA500]18 de dano de corte, 12 de dano perfurante.[/color] [color=#FFDEAD]Você não é mais capaz de usar todas as armas de fogo mas arcos, Dano de arma portátil é diminuído em 50%.[/color]
 
-  ### Cutting Claws
+  ### Cortando Garras
 
-  Using [color=#FFA500]wirecutters[/color], you can cut Reptilian's claws, reducing their stage by 1 and resetting the current growth progress.
+  Usando [color=#FFA500]alicates de corte[/color], você pode cortar as garras do Réptil, reduzindo seu estágio em 1 e resetando o progresso atual de crescimento.
 
   <Box>
     <GuideEntityEmbed Entity="Wirecutter" Caption=""/>
   </Box>
 
-  ### Chemicals
+  ### Químicos
 
-  Certain chemicals allow greater control over Reptilian claw growth. Phenoxzine boosts claw growth by 20x, while Meroxzine pauses all claw growth entirely. Both metabolize slowly, allowing long term usage to be effective.
+  Certos químicos permitem maior controle sobre o crescimento das garras do Réptil. Fenoxazina aumenta o crescimento das garras em 20x, enquanto Meroxzina pausa todo o crescimento das garras. Ambos metabolizam lentamente, permitindo que o uso a longo prazo seja eficaz.
 
   <GuideReagentEmbed Reagent="Phenoxzine"/>
   <GuideReagentEmbed Reagent="Meroxzine"/>
 
-  ## Temperature
+  ## Temperatura
 
-  Due to being cold-blooded, they are not capable of generating enough heat to sustain themselfs in the [color=#4169E1]20C[/color] environment.
-  Temperatures lower than [color=#4169E1]22C[/color] are extremely dangerous for them! They will start getting [color=#FF0000]drowsy and start periodically falling unconscious[/color].
-  However, they receive small regeneration and speed boost if they manage to sustain body temperature higher than [color=#FFA500]47C[/color].
+  Devido a serem de sangue frio, eles não são capazes de gerar calor suficiente para se sustentarem em ambientes de [color=#4169E1]20C[/color].
+  Temperaturas menores que [color=#4169E1]22C[/color] são extremamente perigosas para eles! Eles começarão a ficar [color=#FF0000]sonolentos e começarão a desmaiar periodicamente[/color].
+  No entanto, eles recebem pequena regeneração e aumento de velocidade se conseguirem manter a temperatura corporal maior que [color=#FFA500]47C[/color].
 
-  ### Heating up
+  ### Aquecendo
 
-  - Welders, emergency flares and campfires are now capable of heating up humanoids, including Reptilians.
+  - Maçaricos, sinalizadores de emergência e fogueiras agora são capazes de aquecer humanoides, incluindo Répteis.
   <Box>
     <GuideEntityEmbed Entity="Welder" Caption=""/>
     <GuideEntityEmbed Entity="Flare" Caption=""/>
     <GuideEntityEmbed Entity="Bonfire" Caption=""/>
   </Box>
-  - Wearing winter clothes or hardsuits will let you to generate enough heat to stay somewhat comfortable.
-  - Reptilians are capable of exchanging heat with other creatures by hugging them. Hugging colder creature, however, will make situation worse.
+  - Vestir roupas de inverno ou roupas espaciais permitirá que você gere calor suficiente para ficar um pouco mais confortável.
+  - Répteis são capazes de trocar calor com outras criaturas abraçando-as. Abraçar uma criatura mais fria, no entanto, piorará a situação.
 </Document>

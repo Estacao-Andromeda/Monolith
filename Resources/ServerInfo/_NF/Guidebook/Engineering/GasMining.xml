@@ -1,77 +1,77 @@
 <Document>
-# Gas Mining
-Asteroids in the Frontier sector are a reliable source of large amounts of normally gaseous elements in the form of [color=gold]solidified deposits[/color].
+# Mineração de Gás
+Asteroides no setor Frontier são uma fonte confiável de grandes quantidades de elementos normalmente gasosos na forma de [color=gold]depósitos solidificados[/color].
 
 <Box>
-<GuideEntityEmbed Entity="GasDepositOxygen" Caption="oxygen deposit"/>
-<GuideEntityEmbed Entity="GasDepositNitrogen" Caption="nitrogen deposit"/>
-<GuideEntityEmbed Entity="GasDepositPlasma" Caption="plasma deposit"/>
+<GuideEntityEmbed Entity="GasDepositOxygen" Caption="depósito de oxigênio"/>
+<GuideEntityEmbed Entity="GasDepositNitrogen" Caption="depósito de nitrogênio"/>
+<GuideEntityEmbed Entity="GasDepositPlasma" Caption="depósito de plasma"/>
 </Box>
 
-Atmospheric ships, for example, the [color=yellow]Gasbender[/color] and [color=yellow]Ambition[/color], come equipped with the equipment needed to extract from these deposits. Check for the [color=cyan]Atmospherics[/color] category at the [color=steelblue]shipyard console[/color] when buying ships.
+Naves atmosféricas, por exemplo, o [color=yellow]Gasbender[/color] e a [color=yellow]Ambition[/color], vêm equipadas com o equipamento necessário para extrair desses depósitos. Verifique a categoria [color=cyan]Atmospherics[/color] no [color=steelblue]console do estaleiro[/color] ao comprar naves.
 
-## Needed Equipment
+## Equipamentos Necessários
 
-The equipment you'll need:
-- A mining drill
-- A portable gaslock
-- Steel for pipes
-- A source of power (J.R.P.A.C.M.A.N. recommended)
-- LV cable
-- A gas deposit locator (optional)
+Os equipamentos que você precisará:
+- Uma perfuratriz de mineração
+- Uma esclusa de gás portátil
+- Aço para tubos
+- Uma fonte de energia (J.R.P.A.C.M.A.N. recomendado)
+- Cabo de baixa voltagem
+- Um localizador de depósito de gás (opcional)
 
 <Box>
 <GuideEntityEmbed Entity="GasMiningDrill"/>
 <GuideEntityEmbed Entity="GaslockFrame"/>
-<GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="power supply"/>
+<GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="fonte de energia"/>
 <GuideEntityEmbed Entity="GasDepositLocator"/>
 </Box>
 
-## Mining Procedure
+## Procedimento de Mineração
 
-Standard procedure for drilling for gas is as follows:
+O procedimento padrão para perfuração de gás é o seguinte:
 
-1. Find an asteroid with gas deposits on it. A [color=green]gas deposit scanner[/color] can help you find these, it'll beep when it's close to one, print one off at an [color=orange]engineering techfab[/color].
+1. Encontre um asteroide com depósitos de gás. Um [color=green]scanner de depósito de gás[/color] pode ajudá-lo a encontrá-los, ele apitará quando estiver perto de um, imprima um em uma [color=orange]techfab de engenharia[/color].
 
-2. Drill out some of the asteroid, and look for [color=lightpink]whisps of solid elements[/color].
+2. Perfure parte do asteroide e procure por [color=lightpink]fios de elementos sólidos[/color].
 
-3. Anchor your gas mining drill onto the deposit.
+3. Ancore sua perfuratriz de mineração de gás no depósito.
 
-4. Build a set of pipes connecting the drill to the most convenient edge of the asteroid.
+4. Construa um conjunto de tubos conectando a perfuratriz à borda mais conveniente do asteroide.
 
-5. Make sure that your shuttle can dock with the edge. You may find constructing a lattice jetty can help.
+5. Certifique-se de que sua nave possa atracar na borda. Você pode achar útil construir um píer de treliça.
 
-6. Note that gas filters, mixers and other equipment may not work on the asteroid. For efficient processing, set up your shuttle for onboard filtration, processing and storage.
+6. Note que filtros de gás, misturadores e outros equipamentos podem não funcionar no asteroide. Para processamento eficiente, configure sua nave para filtração, processamento e armazenamento a bordo.
 
-7. Anchor a portable gaslock onto the edge of the asteroid. Point the red outlet port with the docking lights out towards space.
+7. Ancore uma esclusa de gás portátil na borda do asteroide. Aponte a porta de saída vermelha com as luzes de atracação para o espaço.
 
-8. Dock your shuttle's gaslock with the portable gaslock, do this with the shuttle console like you're docking with a station.
+8. Atrave a esclusa de gás de sua nave com a esclusa de gás portátil, faça isso com o console da nave como se estivesse atracando em uma estação.
 
-9. Anchor a portable generator on the asteroid, turn it on, and set up cables so both the mining drill and portable gaslock are powered.
+9. Ancore um gerador portátil no asteroide, ligue-o e configure os cabos para que tanto a perfuratriz de mineração quanto a esclusa de gás portátil sejam alimentadas.
 
-10. Set the target pressure on your drill.
+10. Defina a pressão alvo em sua perfuratriz.
 
-11. Set the pressure and direction on both the portable gaslock and your shuttle's gaslock.
+11. Defina a pressão e direção em tanto a esclusa de gás portátil quanto na esclusa de gás de sua nave.
 
-12. Note that the gaslocks are bidirectional, and the direction the lights are moving is the direction the gas will flow. Both should point in the same direction to pump gas.
+12. Note que as esclusas de gás são bidirecionais, e a direção que as luzes estão se movendo é a direção que o gás fluirá. Ambas devem apontar na mesma direção para bombear gás.
 
-13. Wait until the gas deposit is depleted - the light on the miner should glow [color=yellow]yellow[/color] when low, and [color=red]red[/color] when empty. If you find other deposits, it is efficient to pump multiple deposits at the same time!
+13. Espere até que o depósito de gás seja esgotado - a luz na perfuratriz deve brilhar [color=yellow]amarelo[/color] quando estiver baixa, e [color=vermelho]vermelho[/color] quando estiver vazia. Se encontrar outros depósitos, é eficiente bombear múltiplos depósitos ao mesmo tempo!
 
-14. If the miner glows [color=orange]orange[/color], your pipe network is backed up. Double check your pressures and pump directions!
+14. Se a perfuratriz brilhar [color=orange]laranja[/color], sua rede de tubos está entupida. Verifique novamente suas pressões e direções de bombeamento!
 
-## Gas Filtering and Processing
+## Filtragem e Processamento de Gás
 
-Gas deposits are impure, and should be filtered before selling. [color=cyan]Gas filters[/color] can help extract one gas at a time through their side port.
+Depósitos de gás são impuros e devem ser filtrados antes da venda. [color=cyan]Filtros de gás[/color] podem ajudar a extrair um gás por vez através de sua porta lateral.
 
-Different gases have different values. The most valuable gases are [color=cyan]frezon[/color] followed by [color=limegreen]tritium[/color]. Ask someone who knows more about atmospherics about how to process plasma into tritium, and tritium into frezon.
+Gases diferentes têm valores diferentes. Os gases mais valiosos são [color=cyan]frezon[/color] seguido por [color=limegreen]trítio[/color]. Pergunte a alguém que saiba mais sobre atmosfera como processar plasma em trítio, e trítio em frezon.
 
-Selling gas can be done through canisters, which can be crafted from [color=gray]plasteel[/color], or in bulk at a [color=lightgreen]gas sale point[/color], e.g. at Edison Power Plant.
+Vender gás pode ser feito através de cilindros, que podem ser fabricados com [color=gray]plasteel[/color], ou em massa em um [color=lightgreen]ponto de venda de gás[/color], ex. na Usina de Energia Edison.
 
-- Canisters can be sold using cargo pallets and cargo sales consoles, like any other good.
-- Gas sales points can accept massive amounts of gas at a time, and require gas to be pumped in through a gaslock.
+- Cilindros podem ser vendidos usando paletes de carga e consoles de venda de carga, como qualquer outra mercadoria.
+- Pontos de venda de gás podem aceitar quantidades massivas de gás de uma vez, e exigem que o gás seja bombeado através de uma esclusa de gás.
 
-Both sales methods pay according to the [bold]purity[/bold] of your mix. Be sure to filter your gas! The easier it is for NT to separate your gases out, the better the pay.
+Ambos os métodos de pagamento pagam de acordo com a [bold]pureza[/bold] de sua mistura. Certifique-se de filtrar seu gás! Quanto mais fácil for para a NT separar seus gases, melhor será o pagamento.
 
-Best of luck out there, greenhorn, and keep at it.
+Boa sorte lá fora, novato, e continue assim.
 
 </Document>

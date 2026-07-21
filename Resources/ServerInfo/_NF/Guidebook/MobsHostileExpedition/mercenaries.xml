@@ -1,140 +1,140 @@
 <Document>
-  # Mercenaries
-  
-  A mercenary, merc, soldier of fortune, hired gun, dog of war. An [italic]arguably[/italic] professional soldier whose loyalty can be bought: they will carry out any task as long as the pay is good. Mercenaries are often favored by many corporations as deniable assets for covert operations.
+  # Mercenários
 
-  The mercenaries you'll encounter were paid by unknown outside corporations, and are targeted for termination.
-  
+  Um mercenário, merc, soldado da fortuna, pistoleiro contratado, cão de guerra. Um soldado [italic]argumentavelmente[/italic] profissional cuja lealdade pode ser comprada: eles realizarão qualquer tarefa desde que o pagamento seja bom. Mercenários são frequentemente favorecidos por muitas corporações como ativos negáveis para operações secretas.
+
+  Os mercenários que você encontrará foram pagos por corporações externas desconhecidas, e são alvos de eliminação.
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Mercenary soldiers"
-  
-  Low-ranking soldiers armed with a variety of surplus weapons.
-  
+
+  # Variantes Conhecidas
+  # "Soldados mercenários"
+
+  Soldados de baixa patente armados com uma variedade de armas excedentes.
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierKnife" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color], 2 [color=yellow]Piercing[/color] (hatchet)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 8 [color=red]Corte[/color], 2 [color=yellow]Perfurante[/color] (machadinha)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]um humano médio pode correr a 4.5 m/s e caminhar a 2.5 m/s.[/italic]
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierPistol" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (mk58)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=yellow]Perfurante[/color] (cartucho .35)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (mk58)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierNovalite" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=yellow]Piercing[/color] (.20 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (Novalite C1)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 17 [color=yellow]Perfurante[/color] (cartucho .20)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (Novalite C1)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Mercenary breachers"
-  
-  Shock troopers that specialize in using the element of surprise and swift, aggressive action to achieve their objectives.
-  
+
+  # "Arrombadores mercenários"
+
+  Tropas de choque que se especializam em usar o elemento de surpresa e ação rápida e agressiva para atingir seus objetivos.
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryBreacherMachete" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)[bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=red]Slash[/color] (machete)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)[bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 15 [color=red]Corte[/color] (facão)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierRevolver" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=yellow]Piercing[/color] (.20 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (double Argenti revolvers)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 17 [color=yellow]Perfurante[/color] (cartucho .20)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (revólveres Argenti duplos)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryBreacherShotgun" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=yellow]Piercing[/color] (shotgun cartridge)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (shotgun)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 10 [color=yellow]Perfurante[/color] (cartucho de escopeta)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (escopeta)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Mercenary specialists"
-  
-  Experienced mercenaries, specialists are practised and proficient in combat or support roles, possibly both.
-  
+
+  # "Especialistas mercenários"
+
+  Mercenários experientes, especialistas são praticantes e proficientes em combate ou funções de suporte, possivelmente ambos.
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySpecialistMedic"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 14 [color=orange]Heat[/color] (retro laser pistol); 5 [color=red]Blunt[/color], 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color] (circular saw)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (retro laser pistol)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 14 [color=orange]Calor[/color] (pistola laser retrô); 5 [color=red]Contundente[/color], 5 [color=red]Corte[/color], 5 [color=yellow]Perfurante[/color] (serra circular)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (pistola laser retrô)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySpecialistAssault"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 14 [color=orange]Heat[/color] (retro laser pistol); 5 [color=red]Blunt[/color], 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color] (circular saw)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (retro laser pistol)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 14 [color=orange]Calor[/color] (pistola laser retrô); 5 [color=red]Contundente[/color], 5 [color=red]Corte[/color], 5 [color=yellow]Perfurante[/color] (serra circular)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (pistola laser retrô)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Mercenary captain"
-  
-  The leaders of these bands of brigands, a mercenary captain is both cruel and lethally effective. Exercise caution.
-  
+
+  # "Capitão mercenário"
+
+  Os líderes destas bandas de brigões, um capitão mercenário é ao mesmo tempo cruel e letalmente eficaz. Use cautela.
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryCaptain"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 35 [color=yellow]Piercing[/color] (.45 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (N2524 pattern repeater)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 130 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 35 [color=yellow]Perfurante[/color] (cartucho .45)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (repetidor padrão N2524)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # Objetivos da Missão
+  ## Eliminação
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryCaptain"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]mercenary captain[/color] within given time constraints to earn a monetary reward.
-  
-  ## Destruction
+  Elimine uma criatura grande e perigosa - um [color=#a4885c]capitão mercenário[/color] dentro do tempo limite para ganhar uma recompensa monetária.
+
+  ## Destruição
   <Box>
   <GuideEntityEmbed Entity="MercenaryCounterfeitCache"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]counterfeit caches[/color] within given time constraints to earn a monetary reward.
+  Destrua um certo número de [color=#a4885c]esconderijos de falsificação[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 </Document>

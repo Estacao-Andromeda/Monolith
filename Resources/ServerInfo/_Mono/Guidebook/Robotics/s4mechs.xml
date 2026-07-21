@@ -1,9 +1,9 @@
 <Document>
-  # Series 4 Combat Mechs
+  # Série 4 Mechas de Combate
 
- The very expensive finale to the Mechanized lineup in the Colossus Sector, S4 Mechs are exclusively usable in microgravity and mount weapons intended for use against ships.
+ O grandioso e caríssimo desfecho da linha Mecanizada do Setor Colosso, os Mechas S4 são exclusivamente utilizáveis em microgravidade e montam armas destinadas ao combate contra naves.
 
- All S4 Mechs are space insulated, provide breathable atmosphere, and have maneuvering jets. They also all possess improved ocular processors and radar modules, allowing their operators to see further both visually and on the scanner.
+ Todos os Mechas S4 são isolados para o espaço, proporcionam atmosfera respirável e possuem jatos de manobra. Eles também possuem processadores oculares aprimorados e módulos de radar, permitindo que seus operadores vejam mais longe, tanto visualmente quanto no scanner.
 
   <Box>
     <GuideEntityEmbed Entity="AFFlail" Scale="0.9"/>
@@ -13,36 +13,36 @@
 
 ##Flail
 
- The Flail is an extremely durable, very fast Armored Frame capable of fighting military-grade ships.
+ O Flail é uma Blindagem Extremamente durável e muito rápida, capaz de combater naves de grau militar.
 
 ##Mace
 
- The Mace is a variant of the Flail that sacrifices half its Armor and all but one of its weapon mounts to go even faster.
+ O Mace é uma variante do Flail que sacrifica metade de sua Blindagem e todos, exceto um, de seus suportes de armas para ser ainda mais rápido.
 
 ##Spyglass
 
- The Spyglass is an EWAR variant of the Flail, which sacrifices Armor, Speed, and can only mount "Light" mech weapons in exchange for the ability to also mount EWAR modules.\n
+ O Spyglass é uma variante EWAR do Flail, que sacrifica Blindagem, Velocidade e só pode montar armas de mecha "Leves" em troca da capacidade de também montar módulos EWAR.\n
 
 
-##Heavy Mech Weapons
- All Heavy Mech weapons are incapable of operating while under Gravity.
+##Armas Pesadas de Mecha
+ Todas as armas Pesadas de Mecha são incapazes de operar sob Gravidade.
   <Box>
     <GuideEntityEmbed Entity="HeavyMechCannon" Caption="Metronome 220mm"/>
-    <GuideEntityEmbed Entity="HeavyMechProjector" Caption="Ravager Plasma Cannon"/>
-    <GuideEntityEmbed Entity="HeavyMechRPG" Caption="R-3 Bazooka"/>
+    <GuideEntityEmbed Entity="HeavyMechProjector" Caption="Canhão de Plasma Ravager"/>
+    <GuideEntityEmbed Entity="HeavyMechRPG" Caption="Bazooka R-3"/>
   </Box>
- - The Metronome 220mm Heavy Burst Cannon is a mostly-accurate 3-round burst, long range autocannon. Max Range: ~800m.
- - The Ravager-type Plasma Cannon is an [italic]extremely[/italic] damaging ship-destroying automatic cannon. Max Range: ~550m.
- - The R-3 Bazooka is a very slow firing short-ranged missile launcher with minimal target tracking. Max Range: ~256m.
+ - O Metronome 220mm Heavy Burst Cannon é um autocanhão de longo alcance com rajada de 3 projéteis, majoritariamente preciso. Alcance Máx: ~800m.
+ - O Canhão de Plasma tipo Ravager é um canhão automático [italic]extremamente[/italic] destruidor de naves. Alcance Máx: ~550m.
+ - O Bazooka R-3 é um lançador de mísseis de curto alcance com cadência muito lenta e rastreamento mínimo de alvo. Alcance Máx: ~256m.
 
-##EWAR Modules
- Electronic Warfare modules provide screening to other Mechs and small ships by emitting radar signatures that interfere with targeting.
+##Módulos EWAR
+ Módulos de Guerra Eletrônica fornecem cobertura a outros Mechas e pequenas naves emitindo assinaturas de radar que interferem no direcionamento.
 
   <Box>
     <GuideEntityEmbed Entity="EWACMechaJammer"/>
     <GuideEntityEmbed Entity="EWACMechaFlares"/>
   </Box>
-  - The E-58 "Blanket" Jammer launches a radar emitter producing a 40m radius radar jamming "blanket", somewhat obscuring Mechs and projectiles from radar observation.
-  - The E-58 "Spark" Jammer launches a series of small emitters that are visible from radar observation.
+  - O Jammer E-58 "Blanket" lança um emissor de radar produzindo um "cobertor" de interferência de radar com raio de 40m, obscurecendo um tanto os Mechas e projéteis da observação por radar.
+  - O Jammer E-58 "Spark" lança uma série de pequenos emissores que são visíveis pela observação de radar.
 
 </Document>

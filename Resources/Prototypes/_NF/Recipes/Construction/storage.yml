@@ -2,8 +2,8 @@
 ## Wall freezers
 - type: construction
   id: ShelfWallFreezerWhite
-  name: wall freezer (white)
-  description: A convenient place to store perishables.
+  name: construction-ShelfWallFreezerWhite-name
+  description: construction-ShelfWallFreezerWhite-desc
   graph: WallFreezer
   startNode: start
   targetNode: ShelfWallFreezerWhite
@@ -18,8 +18,8 @@
 
 - type: construction
   id: ShelfWallFreezerDark
-  name: wall freezer (dark)
-  description: A convenient place to store perishables.
+  name: construction-ShelfWallFreezerDark-name
+  description: construction-ShelfWallFreezerDark-desc
   graph: WallFreezer
   startNode: start
   targetNode: ShelfWallFreezerDark

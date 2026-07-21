@@ -10,7 +10,7 @@ namespace Content.Shared.Localizations
         [Dependency] private ILocalizationManager _loc = default!;
 
         // If you want to change your codebase's language, do it here.
-        private const string Culture = "en-US";
+        private const string Culture = "pt-BR";
 
         /// <summary>
         /// Custom format strings used for parsing and displaying minutes:seconds timespans.
@@ -39,6 +39,11 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
             _loc.AddFunction(culture, "GASQUANTITY", FormatGasQuantity); // Frontier
+            _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural); // Andromeda
+            _loc.AddFunction(culture, "MANY", FormatMany); // Andromeda
+            _loc.AddFunction(culture, "LOWERCASE", FormatLowercase); // Andromeda
+            _loc.AddFunction(culture, "INDEFINITE", FuncIndefinitePt); // Andromeda
+            _loc.AddFunction(culture, "ADJECTIVE", FuncAdjectivePt); // Andromeda
 
 
             /*
@@ -48,6 +53,7 @@ namespace Content.Shared.Localizations
              */
             var cultureEn = new CultureInfo("en-US");
 
+            _loc.LoadCulture(cultureEn);
             _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(cultureEn, "MANY", FormatMany);
         }
@@ -117,8 +123,8 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} and {list[1]}",
-                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, and {list[^1]}"
+                2 => $"{list[0]} e {list[1]}",
+                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, e {list[^1]}"
             };
         }
 
@@ -131,8 +137,8 @@ namespace Content.Shared.Localizations
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} or {list[1]}",
-                _ => $"{string.Join(" or ", list)}"
+                2 => $"{list[0]} ou {list[1]}",
+                _ => $"{string.Join(" ou ", list)}"
             };
         }
 
@@ -272,6 +278,15 @@ namespace Content.Shared.Localizations
                 time = timeArg;
             }
             return new LocValueString(FormatPlaytime(time));
+        }
+
+        private static ILocValue FormatLowercase(LocArgs args)
+        {
+            var input = args.Args[0].Format(new LocContext());
+            if (!string.IsNullOrEmpty(input))
+                return new LocValueString(input.ToLower());
+            else
+                return new LocValueString("");
         }
     }
 }

@@ -1,0 +1,13 @@
+advertisement-smite-1 = SMITE! Proíba sua sede!
+advertisement-smite-2 = Uma explosão arcaica de limão e lima!
+advertisement-smite-3 = Mais de 1 milhão de bebidas vendidas!
+advertisement-smite-4 = SMITE! Role 2d8 para SABOR.
+advertisement-smite-5 = SMITE! Vamos resolver essa papelada!
+advertisement-smite-6 = O zelador tem uma conta com você!
+advertisement-smite-7 = SMITE! Não vai deixar você bêbado.
+advertisement-smite-8 = É hora de limão-lima!
+thankyou-smite-1 = Smite faz certo!
+thankyou-smite-2 = Você DEFINITIVAMENTE queria limão-lima!
+thankyou-smite-3 = O escritório não vai saber o que o atingiu.
+thankyou-smite-4 = Bança sua sede.
+

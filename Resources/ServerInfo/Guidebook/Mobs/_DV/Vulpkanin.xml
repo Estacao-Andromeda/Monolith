@@ -5,24 +5,24 @@
     <GuideEntityEmbed Entity="MobVulpkaninDummy" Caption=""/>
   </Box>
 
-  The Vulpkanin (vulp-ka-nin) are a race of humanoid canine-like beings.
+  Os Vulpkanin (vulp-ka-nin) são uma raça de seres humanoides semelhantes a canídeos.
 
-  ## Diet
+  ## Dieta
 
-  - Can eat raw meat.
-  - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
+  - Podem comer carne crua.
+  - Sofrem envenenamento por Teobromina (Chocolate, Chá, Café) e Alicina (Cebola, Alho).
 
-  ## Benefits
+  ## Benefícios
 
-  - Uses their claws to do some Slashing and Blunt damage.
-  - Their fur makes them able to withstand cold environments without the need of a coat.
+  - Usam suas garras para causar dano de Corte e Contuso.
+  - Sua pelagem os permite resistir a ambientes frios sem a necessidade de um casaco.
 
-  ## Special
+  ## Especial
 
-  - Comes with the Deuteranopia trait by default. This can be disabled via accessibility options.
+  - Possuem o traço Deuteranopia por padrão. Isso pode ser desabilitado nas opções de acessibilidade.
 
-  ## Drawbacks
+  ## Desvantagens
 
-  - They take 10% more Heat damage.
+  - Sofrem 10% a mais de dano por Calor.
 
 </Document>

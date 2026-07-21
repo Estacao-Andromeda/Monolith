@@ -1,76 +1,76 @@
 <Document>
-  # Airlock Upgrades
-  It is not uncommon for plucky individuals to try and bypass an airlock by meddling with its internal wiring.
+  # Upgrades de Portas Corta-Fogo
+  Não é incomum que indivíduos determinados tentem contornar uma porta corta-fogo manipulando sua fiação interna.
 
-  Fortunately, certain countermeasures can be installed into airlocks to inconvenience any would-be trespassers.
+  Felizmente, certas contramedidas podem ser instaladas nas portas corta-fogo para dificultar a vida de quaisquer invasores em potencial.
 
-  ## Medium security airlocks
-  The most basic form of intrusion deterrence is to install a secured steel plating that will prevent access to internal wiring of the airlock.
+  ## Portas corta-fogo de segurança média
+  A forma mais básica de dissuasão de intrusão é instalar uma chapa de aço fixada que impedirá o acesso à fiação interna da porta corta-fogo.
 
-  To upgrade a basic airlock to a medium security airlock, you will require the following materials:
+  Para fazer upgrade de uma porta corta-fogo básica para uma porta corta-fogo de segurança média, você precisará dos seguintes materiais:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetSteel" Caption="2 steel sheets"/>
+		  <GuideEntityEmbed Entity="SheetSteel" Caption="2 chapas de aço"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Chave de fenda"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Soldadora"/>
 	  </Box>
   </Box>
 
-  To upgrade a basic airlock:
-  -	Use the screwdriver to open the airlock maintenance panel.
-  -	Add the steel sheets to the airlock.
-  -	Weld the steel sheets into place.
-  -	Close the maintenance panel using the screwdriver.
+  Para fazer upgrade de uma porta corta-fogo básica:
+  -	Use a chave de fenda para abrir o painel de manutenção da porta corta-fogo.
+  -	Adicione as chapas de aço à porta corta-fogo.
+  -	Solde as chapas de aço no lugar.
+  -	Feche o painel de manutenção usando a chave de fenda.
 
-  ## High security airlocks
-  For airlocks leading to the more sensitive areas of the space station, the use of stronger deterrents are advised. High security airlocks have improved armor plating to protect its internal wiring.
+  ## Portas corta-fogo de segurança alta
+  Para portas corta-fogo que levam às áreas mais sensíveis da estação espacial, recomenda-se o uso de deterrentes mais fortes. Portas corta-fogo de segurança alta possuem blindagem aprimorada para proteger sua fiação interna.
 
-  To upgrade a medium security airlock to a high security airlock, you will require the following materials:
+  Para fazer upgrade de uma porta corta-fogo de segurança média para uma porta corta-fogo de segurança alta, você precisará dos seguintes materiais:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 plasteel sheets"/>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 chapas de plastaço"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Chave de fenda"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Soldadora"/>
 	  </Box>
   </Box>
 
-  To upgrade a medium security airlock:
-  - Use the screwdriver to open the airlock maintenance panel.
-  - Add the plasteel sheets to the airlock.
-  - Weld the plasteel sheets into place.
-  - Close the maintenance panel using the screwdriver.
+  Para fazer upgrade de uma porta corta-fogo de segurança média:
+  - Use a chave de fenda para abrir o painel de manutenção da porta corta-fogo.
+  - Adicione as chapas de plastaço à porta corta-fogo.
+  - Solde as chapas de plastaço no lugar.
+  - Feche o painel de manutenção usando a chave de fenda.
 
-  ## Maximum security airlocks
-  You can optionally upgrade a high security airlock to a maximum security airlock. Maximum security airlocks possess an additional layer of electrified wire mesh on top of its other protections, which can shock any unauthorized personnel attempting to tamper with the airlock.
+  ## Portas corta-fogo de segurança máxima
+  Você pode opcionalmente fazer upgrade de uma porta corta-fogo de segurança alta para uma porta corta-fogo de segurança máxima. Portas corta-fogo de segurança máxima possuem uma camada adicional de malha de arame eletrificada sobre suas outras proteções, que pode eletrocutar qualquer pessoal não autorizado que tentar adulterar a porta corta-fogo.
 
-  To upgrade a high security airlock to a maximum security airlock, you will require the following materials:
+  Para fazer upgrade de uma porta corta-fogo de segurança alta para uma porta corta-fogo de segurança máxima, você precisará dos seguintes materiais:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 plasteel sheets"/>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 chapas de plastaço"/>
 	  </Box>
     <Box>
-      <GuideEntityEmbed Entity="PartRodMetal" Caption="2 metal rods"/>
+      <GuideEntityEmbed Entity="PartRodMetal" Caption="2 varas de metal"/>
     </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Chave de fenda"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Soldadora"/>
 	  </Box>
   </Box>
 
-  To upgrade a high security airlock:
-  -	Use the screwdriver to open the airlock maintenance panel.
-  -	Add the plasteel sheets to the airlock.
-  -	Weld the plasteel sheets into place.
-  - Add the metal rods to the airlock.
-  -	Close the maintenance panel using the screwdriver.
+  Para fazer upgrade de uma porta corta-fogo de segurança alta:
+  -	Use a chave de fenda para abrir o painel de manutenção da porta corta-fogo.
+  -	Adicione as chapas de plastaço à porta corta-fogo.
+  -	Solde as chapas de plastaço no lugar.
+  - Adicione as varas de metal à porta corta-fogo.
+  -	Feche o painel de manutenção usando a chave de fenda.
 </Document>

@@ -1,58 +1,58 @@
-﻿[color=#99ff99]Monolith Sector is a Medium Roleplay server. Try to immerse yourself into your character. This includes doing your job as a station or ship crew member and delegating tasks that are outside of that description, or striking out upon space as a Captain of your ship. This does not imply you’re forced to play the whole round; Monolith Station is designed with pop-in-and-out gameplay in mind, where some players will come and go but their bank account remains persistent across server restarts.[/color]
+﻿[color=#99ff99]O Setor Monolith é um servidor de Roleplay Médio. Tente se imergir no seu personagem. Isso inclui fazer o seu trabalho como membro da tripulação de uma estação ou nave e delegar tarefas que estão fora dessa descrição, ou partir para o espaço como Capitão da sua nave. Isso não implica que você é forçado a jogar a rodada inteira; a Estação Monolith foi projetada com jogabilidade de entrar e sair em mente, onde alguns jogadores virão e vãoão, mas sua conta bancária permanece persistente entre reinícios do servidor.[/color]
 
-[color=#99ff99]You can access more information about the game using the Guidebook (NUMPAD 0).[/color]
+[color=#99ff99]Você pode acessar mais informações sobre o jogo usando o Guia (NUMPAD 0).[/color]
 
-[color=#a4885c][head=3]0. Admins can disregard any and all of these rules if they deem it in the best interest of the current round, server, and/or community at large.[/head][/color]
-	• They will of course be held fully accountable for their actions if they exercise this privilege.
+[color=#a4885c][head=3]0. Os administradores podem desconsiderar qualquer e todas estas regras se considerarem que isso é do melhor interesse para a rodada atual, servidor e/ou comunidade em geral.[/head][/color]
+	• Eles é claro serão totalmente responsáveis por suas ações se exercerem este privilégio.
 
-[color=#a4885c][head=3]0.1. All of these rules apply as they are intended.[/head][/color]
-	• Every example of a rule break cannot be defined as written, therefore, enforcement of the rules is subject to staff interpretation of the rule's intention.
+[color=#a4885c][head=3]0.1. Todas estas regras se aplicam conforme pretendido.[/head][/color]
+	• Todo exemplo de quebra de regra não pode ser definido como escrito, portanto, a aplicação das regras está sujeita à interpretação da equipe sobre a intenção da regra.
 
-[color=#a4885c][head=3]0.2. Staff is not obligated to cover player losses, deaths or delays.[/head][/color]
-	• This includes but is not limited to ship deeds, money, respawns or revivals. Any action taken will depend on the circumstances at hand.
+[color=#a4885c][head=3]0.2. A equipe não é obrigada a cobrir perdas, mortes ou atrasos dos jogadores.[/head][/color]
+	• Isso inclui, mas não está limitado a, deeds de navios, dinheiro, respawns ou revivals. Qualquer ação tomada dependerá das circunstâncias em questão.
 
-[color=#a4885c][head=4]The core rules of [bold]Monolith[/bold] are as follows.[/head][/color]
-[color=#a4885c]These are not the full extent of the rules, and further information can be found in the guidebook.[/color]
+[color=#a4885c][head=4]As regras principais do [bold]Monolith[/bold] são as seguintes.[/head][/color]
+[color=#a4885c]Estas não são a extensão total das regras, e mais informações podem ser encontradas no guia.[/color]
 
-[color=#a4885c][head=3]1. Use common sense.[/head][/color]
-	• The expected behavior is not limited to these rules.
-	• If you are in doubt as to whether something is against the rules, [color=yellow]consult an admin[/color].
-	• When in doubt, act in [color=green]good faith[/color] and consider the [color=yellow]spirit of the rules[/color].
+[color=#a4885c][head=3]1. Use o bom senso.[/head][/color]
+	• O comportamento esperado não está limitado a estas regras.
+	• Se você estiver em dúvida se algo é contra as regras, [color=yellow]consulte um administrador[/color].
+	• Quando em dúvida, aja com [color=green]boa fé[/color] e considere o [color=yellow]espírito das regras[/color].
 
-[color=#a4885c][head=3]2. Respect each other.[/head][/color]
-	• [color=red][bold]Racism, harassment, or any kind of targeted or hateful behavior is strictly prohibited.[/bold][/color]
-	• This includes discrimination based on [color=yellow]gender[/color], [color=yellow]race[/color], [color=yellow]religion[/color], [color=yellow]nationality[/color], [color=yellow]disability[/color], or any other protected characteristic or class.
-	• These rules apply both in and out of character.
+[color=#a4885c][head=3]2. Respeite uns aos outros.[/head][/color]
+	• [color=red][bold]Racismo, assédio ou qualquer tipo de comportamento direcionado ou odioso é estritamente proibido.[/bold][/color]
+	• Isso inclui discriminação baseada em [color=yellow]gênero[/color], [color=yellow]raça[/color], [color=yellow]religião[/color], [color=yellow]nacionalidade[/color], [color=yellow]deficiência[/color], ou qualquer outra característica ou classe protegida.
+	• Estas regras se aplicam tanto dentro quanto fora do personagem.
 
-[color=#a4885c][head=3]3. Do not engage in cheating or exploits.[/head][/color]
-	• [color=red][bold]Do not use third-party software, macros, or any tools to circumvent game mechanics or gain an unfair advantage.[/bold][/color]
-	• [color=red]Exploiting bugs or unintended mechanics is not allowed.[/color]
+[color=#a4885c][head=3]3. Não participe de trapaças ou exploits.[/head][/color]
+	• [color=red][bold]Não use software de terceiros, macros ou qualquer ferramenta para contornar mecânicas do jogo ou ganhar uma vantagem injusta.[/bold][/color]
+	• [color=red]Explorar bugs ou mecânicas não intencionais não é permitido.[/color]
 
-[color=#a4885c][head=3]4. Do not use alternative accounts.[/head][/color]
-	• Players are limited to [color=yellow][bold]one account per person[/bold][/color], regardless of intent.
-	• [color=red]Using multiple accounts to bypass bans, gain advantages, or for any other reason is not allowed.[/color]
+[color=#a4885c][head=3]4. Não use contas alternativas.[/head][/color]
+	• Os jogadores são limitados a [color=yellow][bold]uma conta por pessoa[/bold][/color], independente da intenção.
+	• [color=red]Usar múltiplas contas para contornar banimentos, ganhar vantagens ou por qualquer outro motivo não é permitido.[/color]
 
-[color=#a4885c][head=3]5. English is the required language for all communication.[/head][/color]
-	• This includes [color=yellow]roleplay[/color], [color=yellow]OOC chat[/color], [color=yellow]ahelp[/color], and [color=yellow]staff messages[/color].
-	• [color=red][bold]All communication on the server—both in-character (IC) and out-of-character (OOC) must be in English.[/bold][/color]
+[color=#a4885c][head=3]5. O inglês é o idioma obrigatório para toda comunicação.[/head][/color]
+	• Isso inclui [color=yellow]roleplay[/color], [color=yellow]chat OOC[/color], [color=yellow]ahelp[/color] e [color=yellow]mensagens da equipe[/color].
+	• [color=red][bold]Toda comunicação no servidor—tanto in-character (IC) quanto out-of-character (OOC)—deve ser em inglês.[/bold][/color]
 
-[color=#a4885c][head=4]The ruleplay rules of [bold]Monolith[/bold] are as follows.[/head][/color]
-[color=#a4885c]These are not the full extent of the rules, and further information can be found in the guidebook.[/color]
+[color=#a4885c][head=4]As regras de ruleplay do [bold]Monolith[/bold] são as seguintes.[/head][/color]
+[color=#a4885c]Estas não são a extensão total das regras, e mais informações podem ser encontradas no guia.[/color]
 
-	• [color=#a4885c][head=2]RP.1. Do not break character.[/head][/color]
-	• [color=#a4885c][head=2]RP.2. Avoid misusing in-character text chat.[/head][/color]
-	• [color=#a4885c][head=2]RP.3. Type with proper grammar in in-character text chat.[/head][/color]
-	• [color=#a4885c][head=2]RP.4. Build upon the contributions of others.[/head][/color]
-	• [color=#a4885c][head=2]RP.5. Erotic roleplay is FULLY prohibited.[/head][/color]
-	• [color=#a4885c][head=2]RP.6. Do not metagame.[/head][/color]
-	• [color=#a4885c][head=2]RP.7. Follow safezone rules at all time.[/head][/color]
-	• [color=#a4885c][head=2]RP.8. Do not abandon your role as a faction member.[/head][/color]
+	• [color=#a4885c][head=2]RP.1. Não quebre o personagem.[/head][/color]
+	• [color=#a4885c][head=2]RP.2. Evite usar indevidamente o chat de texto in-character.[/head][/color]
+	• [color=#a4885c][head=2]RP.3. Digite com gramática adequada no chat de texto in-character.[/head][/color]
+	• [color=#a4885c][head=2]RP.4. Construa sobre as contribuições dos outros.[/head][/color]
+	• [color=#a4885c][head=2]RP.5. Erotic roleplay é TOTALMENTE proibido.[/head][/color]
+	• [color=#a4885c][head=2]RP.6. Não faça metagame.[/head][/color]
+	• [color=#a4885c][head=2]RP.7. Siga as regras de safezone o tempo todo.[/head][/color]
+	• [color=#a4885c][head=2]RP.8. Não abandone seu papel como membro de uma facção.[/head][/color]
 
-[color=#a4885c][head=4]The conflict rules of [bold]Monolith[/bold] are as follows.[/head][/color]
-[color=#a4885c]These are not the full extent of the rules, and further information can be found in the guidebook.[/color]
+[color=#a4885c][head=4]As regras de conflito do [bold]Monolith[/bold] são as seguintes.[/head][/color]
+[color=#a4885c]Estas não são a extensão total das regras, e mais informações podem ser encontradas no guia.[/color]
 
-	• [color=#a4885c][head=2]C.1. Avoid random deathmatch (RDM) as a civilian.[/head][/color]
-	• [color=#a4885c][head=2]C.2. Adhere to the new life rule.[/head][/color]
-	• [color=#a4885c][head=2]C.3. Engage in fair play when making demands.[/head][/color]
-	• [color=#a4885c][head=2]C.4. Outpost striking/portstriking is not allowed w/o admin permission.[/head][/color]
+	• [color=#a4885c][head=2]C.1. Evite random deathmatch (RDM) como civil.[/head][/color]
+	• [color=#a4885c][head=2]C.2. Adira à regra de nova vida.[/head][/color]
+	• [color=#a4885c][head=2]C.3. Seja justo ao fazer demandas.[/head][/color]
+	• [color=#a4885c][head=2]C.4. Atacar postos/portos não é permitido sem permissão de administrador.[/head][/color]
 

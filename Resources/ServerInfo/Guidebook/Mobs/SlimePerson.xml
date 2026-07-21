@@ -1,25 +1,25 @@
 <Document>
-  # Slime People
+  # Gente Gosma
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  They breathe nitrogen instead of oxygen, which is abundant in the station air, but harder to find compressed into gas tanks. They take significant damage if they are sprayed or splashed with water, but can
-  (and like other species, need to) drink it safely to stay hydrated.
-  They exhale nitrous oxide and are unaffected by it.
-  Their body can process 6 reagents at the same time instead of just 2.
+  Eles respiram nitrogênio em vez de oxigênio, que é abundante no ar da estação, mas mais difícil de encontrar comprimido em tanques de gás. Eles sofrem danos significativos se forem pulverizados ou salpicados com água, mas podem
+  (e como outras espécies, precisam) bebê-la com segurança para se manterem hidratados.
+  Eles exalam óxido nitroso e não são afetados por ele.
+  Seu corpo pode processar 6 reagentes ao mesmo tempo em vez de apenas 2.
 
-  Slimepeople have an [bold]internal 2x3 storage inventory[/bold] inside of their slime membrane. Anyone can see what's inside and take it out of you without asking,
-  so be careful.
+  Gente Gosma tem um [bold]inventário de armazenamento interno 2x3[/bold] dentro de sua membrana de Gosma. Qualquer pessoa pode ver o que está dentro e tirar de você sem pedir,
+  então tenha cuidado.
 
-  Slimepeople have slight accelerated regeneration compared to other humanoids. They're also capable of hardening their fists, and as such have stronger punches,
-  although they punch a little slower.
+  Gente Gosma tem regeneração ligeiramente acelerada em comparação com outros humanoides. Eles também são capazes de endurecer seus punhos, e como tal têm socos mais fortes,
+  embora socuem um pouco mais devagar.
 
-  Their slime "blood" can not be regenerated from Iron. Slime Blood is technically a source of
-  moderately filling food for other species, although drinking the blood of your coworkers is usually frowned upon.
-  They suffocate 80% slower, but take pressure damage 9% faster. This makes them by far the species most capable to survive in hard vacuum. For a while.
+  Seu "sangue" de Gosma não pode ser regenerado a partir de Ferro. Sangue de Gosma é tecnicamente uma fonte de
+  comida moderadamente saciante para outras espécies, embora beber o sangue de seus colegas de trabalho geralmente seja mal visto.
+  Eles sofrem asfixia 80% mais devagar, mas sofrem danos de pressão 9% mais rápido. Isso os torna, de longe, a espécie mais capaz de sobreviver em vácuo duro. Por um tempo.
 
-  They take [color=#1e90ff]80% less Cellular damage, 40% less Blunt damage and 20% less Poison damage[/color], but [color=#ffa500]50% more Cold damage, 20% more Slash damage and 20% more Piercing damage[/color].
+  Eles sofrem [color=#1e90ff]80% menos de dano Celular, 40% menos de dano Contuso e 20% menos de dano Venenoso[/color], mas [color=#ffa500]50% mais de dano de Frio, 20% mais de dano de Corte e 20% mais de dano Perfurante[/color].
 
 </Document>

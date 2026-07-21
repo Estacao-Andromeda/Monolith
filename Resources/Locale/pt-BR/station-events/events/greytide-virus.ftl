@@ -1,0 +1,1 @@
+station-event-greytide-virus-start-announcement = Vírus Gr3y.T1d3 detectado nas sub-rotinas de criptografia de travamento seguro da estação. Nível de gravidade de { $severity }. Recomenda-se o envolvimento da IA da estação.

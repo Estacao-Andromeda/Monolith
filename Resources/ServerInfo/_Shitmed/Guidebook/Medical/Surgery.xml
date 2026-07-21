@@ -1,40 +1,40 @@
 <Document>
-# Surgery
-Your usual weekly activity. By performing surgical operations on your patients, you can heal wounds, remove or add body parts, organs, and more.
+# Cirurgia
+Sua atividade semanal habitual. Ao realizar operações cirurgicas em seus pacientes, você pode curar ferimentos, remover ou adicionar partes do corpo, orgos e muito mais.
 
-## The Basics
-To start surgery your patient needs to be laying down, and ideally sedated.
+## O Básico
+Para começar uma cirurgia, seu paciente precisa estar deitado e, idealmente, sedado.
 
-If they are not sedated, they will be in a lot of pain, which decreases their mood, and will make surgical wounds worse.
-
-<Box>
-<GuideEntityEmbed Entity="NitrousOxideTank" Caption="nitrous oxide"/>
-<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="any breathing tool"/>
-</Box>
-
-You also need to wear protective gear such as a mask and gloves to prevent harming the patient due to contamination.
+Se eles não estiverem sedados, sentirão muita dor, o que diminui seu humor e piora os ferimentos cirurgicos.
 
 <Box>
-<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="any mask"/>
-<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="any gloves"/>
+<GuideEntityEmbed Entity="NitrousOxideTank" Caption="oxido nitroso"/>
+<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="qualquer ferramenta de respiracao"/>
 </Box>
 
-## Getting Started
-
-To engage in surgery, you'll need a set of surgical tools.
+Você também precisa usar equipamentos de proteção, como máscara e luvas, para evitar prejudicar o paciente devido a contaminacao.
 
 <Box>
-<GuideEntityEmbed Entity="Scalpel" Caption="scalpel"/>
-<GuideEntityEmbed Entity="Retractor" Caption="retractor"/>
-<GuideEntityEmbed Entity="Hemostat" Caption="hemostat"/>
-<GuideEntityEmbed Entity="Drill" Caption="drill"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="Saw" Caption="saw"/>
-<GuideEntityEmbed Entity="Cautery" Caption="cautery"/>
-<GuideEntityEmbed Entity="BoneGel" Caption="bone gel"/>
+<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="qualquer mascara"/>
+<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="qualquer luvas"/>
 </Box>
 
-Once you've got tools in hand, interact with your patient to begin surgery. You'll be able to choose which part you want to operate on.
+## Comecando
+
+Para realizar cirurgias, você precisará de um conjunto de instrumentos cirurgicos.
+
+<Box>
+<GuideEntityEmbed Entity="Scalpel" Caption="bisturi"/>
+<GuideEntityEmbed Entity="Retractor" Caption="retreator"/>
+<GuideEntityEmbed Entity="Hemostat" Caption="hemostatico"/>
+<GuideEntityEmbed Entity="Drill" Caption="furadeira"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="Saw" Caption="serra"/>
+<GuideEntityEmbed Entity="Cautery" Caption="cauterio"/>
+<GuideEntityEmbed Entity="BoneGel" Caption="gel osseo"/>
+</Box>
+
+Quando você tiver as instrumentos em mãos, interaja com seu paciente para começar a cirurgia. Você poderá escolher qual parte deseja operar.
 
 </Document>

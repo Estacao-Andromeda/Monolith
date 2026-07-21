@@ -1,21 +1,21 @@
 <Document>
-  # Hiring Crew
+  # Contratação de Tripulação
   <Box>
     <GuideEntityEmbed Entity="ComputerStationRecords"/>
-    <GuideEntityEmbed Entity="ClothingHeadsetGrey" Caption="headset"/>
+    <GuideEntityEmbed Entity="ClothingHeadsetGrey" Caption="fone de ouvido"/>
     <GuideEntityEmbed Entity="IntercomCommon"/>
   </Box>
-  As the Captain of a Independent Colossus Vessel, you have the authority to hire and fire crew members, and to delegate work.
-There are two ways to hire crew:
-- Use the [color=#a4885c]station records computer[/color] on your ship to open crew slots. Players that join later can spawn in on your ship.
-- Invite other players to join your crew through in-game communications.
+  Como Capitão de uma Embarcação Colossus Independente, você tem autoridade para contratar e demitir membros da tripulação, e delegar tarefas.
+Existem duas formas de contratar tripulação:
+- Use o [color=#a4885c]computador de registros da estação[/color] em sua nave para abrir vagas de tripulação. Jogadores que entrarem depois podem aparecer em sua nave.
+- Convide outros jogadores para se juntarem à sua tripulação através das comunicações do jogo.
 
-Crew membership is informal - you don't need to sign any forms, but feel free to roleplay!
-It's a good idea to make sure your crew understand:
-- What you expect of them (What tasks should they do? Who do they report to or work with?)
-- What they can expect from you (An hourly wage? A split of rewards? The promise of adventure?).
+A participação na tripulação é informal - você não precisa assinar nenhum formulário, mas sinta-se livre para rolepar!
+É uma boa ideia garantir que sua tripulação entenda:
+- O que você espera deles (Que tarefas eles devem fazer? A quem eles reportam ou com quem trabalham?)
+- O que eles podem esperar de você (Um salário por hora? Uma divisão das recompensas? A promessa de aventura?).
 
-As a Captain, remember:
-- You're responsible for the well-being of your crew.
-- A Captain's only as good as their word!
+Como Capitão, lembre-se:
+- Você é responsável pelo bem-estar da sua tripulação.
+- A palavra de um Capitão vale tudo!
 </Document>

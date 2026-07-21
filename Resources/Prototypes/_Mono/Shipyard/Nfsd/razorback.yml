@@ -4,8 +4,8 @@
 - type: vessel
   id: Razorback
   parent: BaseVesselAntag
-  name: TSF-SKR Razorback
-  description: An experimental TSF stealth ship. Cramped as hell and unarmed, but really fucking hard to find! Guzzles fuel like a demon.
+  name: vessel-Razorback-name
+  description: vessel-Razorback-desc
   limit: 1
   hyperwarLimit: 1
   hyperwarTimelock: 300 # It's hilarious.

@@ -1,0 +1,66 @@
+# Mono edit
+store-category-pirateequipment = Equipamento
+store-category-pirateweapons = Armas
+store-category-piratemedical = Médico
+store-category-pirateutility = Utilidades
+store-category-pirateammo = Munição
+store-category-pirateexplosives = Explosivos
+store-category-pdvvouchers = Vouchers
+store-category-pirategambling = Jogos de Azar
+# Mono edit end
+# Andromeda: and another one
+store-category-piratebundles = Pacotes
+# Androme end
+
+uplink-pirate-hardsuit-name = Traje Pesado PDV
+uplink-pirate-hardsuit-desc = Um traje espacial pesado que oferece alguma proteção básica das frias e duras realidades do espaço profundo.
+uplink-pirate-hardsuit-captain-name = Traje Pesado do Comandante PDV
+uplink-pirate-hardsuit-captain-desc = Um traje pesado blindado antigo, perfeito para defender contra o escorbuto espacial e canalhas empunhando caixas de ferramentas.
+uplink-pirate-hardsuit-elite-name = Traje Pesado de Operativos de Elite PDV
+uplink-pirate-hardsuit-elite-desc = Um traje pesado blindado de elite antigo, projetado por um homem barbado desconhecido e construído como uma casa de tijolos.
+uplink-pirate-crate-captain-name = Baú do Comandante PDV
+uplink-pirate-crate-captain-desc = Um baú cheio das coisas boas necessárias para um capitão pirata.
+uplink-pirate-crate-name = Baú PDV
+uplink-pirate-crate-desc = Um baú cheio das coisas boas necessárias para a Dinastia.
+uplink-pirate-magboots-name = Botas Magnéticas PDV
+uplink-pirate-magboots-desc = Botas magnéticas PDV, frequentemente usadas durante atividade extraveicular para garantir que o usuário permaneça seguramente anexado ao veículo.
+uplink-pirate-hoverbike-name = Flatpack Hoverbike Pirata
+uplink-pirate-hoverbike-desc = Um flatpack contendo o grande veículo pirata. As chaves já estão na ignição, não precisamos de nenhuma maldita segurança por aqui.
+uplink-pirate-blunderbuss-name = Blunderbuss
+uplink-pirate-blunderbuss-desc = Mortal a curta distância, uma escopeta ilegal frequentemente encontrada ao lado de um pirata.
+uplink-pirate-revolver-name = Revólver Suave
+uplink-pirate-revolver-desc = Um revólver estranho, ilegal e de aparência antiga, favorecido por forças imperiais. Usa munição .45 magnum.
+uplink-pirate-cannon-name = Canhão Portátil
+uplink-pirate-cannon-desc = Kaboom!
+uplink-pirate-cannonball-name = Baú de Bolas de Canhão
+uplink-pirate-cannonball-desc = Um baú cheio de bolas feitas para serem disparadas de um canhão.
+uplink-pirate-cannonball-emp-name = Baú de Shockshot
+uplink-pirate-cannonball-emp-desc = Um baú cheio de bolas carregadas que causam um EMP no impacto.
+uplink-pirate-grapeshot-name = Baú de Grapeshot
+uplink-pirate-grapeshot-desc = Um baú cheio de bolas de cluster feitas para disparar uma dispersão larga de pequenos projéteis.
+uplink-pirate-glassshot-name = Baú de Glassshot
+uplink-pirate-glassshot-desc = Um baú cheio de bolas de vidro frágeis que dispararão múltiplos projéteis em uma dispersão apertada.
+uplink-pirate-satchel-name = Saco Pirata
+uplink-pirate-satchel-desc = Um saco inconspícuo cheio de coisas boas de pirata.
+uplink-pirate-flintlock-name = Pistola Flintlock
+uplink-pirate-flintlock-desc = Um companheiro do capitão pirata. Yarrr! Usa munição 14.5x114mm, de alguma forma.
+uplink-pirate-shotgunammo-name = Caixa de Cartuchos de Escopeta
+uplink-pirate-shotgunammo-desc = Uma caixa de cartuchos de escopeta calibre 12, usados na blunderbuss.
+uplink-pirate-revolverammo-name = Caixa de Munição de Revólver Pirata
+uplink-pirate-revolverammo-desc = Uma caixa de cartuchos .45 magnum, usados no revólver pirata.
+uplink-pirate-flintlockammo-name = Caixa de Munição de Pistola Flintlock
+uplink-pirate-flintlockammo-desc = Uma caixa de cartuchos 14.5x114mm, usados na pistola flintlock.
+uplink-pirate-ecutlass-name = Cutelo de Energia
+uplink-pirate-ecutlass-desc = Um cutelo de energia!
+uplink-pirate-anchor-name = Âncora
+uplink-pirate-anchor-desc = Uma âncora grande e pesada para derrubar qualquer um e qualquer coisa que estiver entre você e seu saque.
+uplink-pirate-redgrenade-name = Granada Vermelha Improvisada
+uplink-pirate-redgrenade-desc = Uma granada que é quente ao toque; propensa a pegar fogo nas coisas.
+uplink-pirate-greengrenade-name = Granada Verde Improvisada
+uplink-pirate-greengrenade-desc = Uma granada com cheiro fétido que faz você sentir esquisito.
+uplink-pirate-graygrenade-name = Granada Cinza Improvisada
+uplink-pirate-graygrenade-desc = Uma granada sólida que parece uma bola de canhão.
+uplink-pirate-accessconfigurator-captain-name = Configurador de Acesso do Mercado Negro
+uplink-pirate-accessconfigurator-captain-desc = Um Configurador de Acesso apenas vendido no mercado do setor Colossus. Bloqueie contrabando TSF atrás do acesso PDV, hoje!
+uplink-pirate-radio-implanter-name = Implantador de Rádio
+uplink-pirate-radio-implanter-desc = Implanta um rádio de Vanguarda PDV, permitindo comunicação secreta sem um headset.

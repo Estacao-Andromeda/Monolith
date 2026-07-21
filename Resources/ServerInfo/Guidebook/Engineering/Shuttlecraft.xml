@@ -1,12 +1,12 @@
 <Document>
-  # Shuttle-craft
+  # Navetas
 
-  Shuttle construction is straightforward, albeit rather expensive and hard to pull off within an hour.
+  A construção de navetas é direta, embora seja bastante cara e difícil de realizar em menos de uma hora.
 
-  It's a good activity if you have a significant amount of spare time on your hands and want a bit of a challenge.
+  É uma boa atividade se você tem uma quantidade significativa de tempo livre e quer um pouco de desafio.
 
-  ## Getting started
-  <Box>Required parts:</Box>
+  ## Começando
+  <Box>Peças necessárias:</Box>
   <Box>
   <GuideEntityEmbed Entity="Thruster"/>
   <GuideEntityEmbed Entity="Gyroscope"/>
@@ -21,10 +21,10 @@
   <GuideEntityEmbed Entity="APCBasic"/>
   </Box>
 
-  <Box>Optional parts:</Box>
+  <Box>Peças opcionais:</Box>
   <Box>
   <GuideEntityEmbed Entity="AirCanister"/>
-  <GuideEntityEmbed Entity="LightTube" Caption="lighting"/>
+  <GuideEntityEmbed Entity="LightTube" Caption="iluminação"/>
   <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
   <GuideEntityEmbed Entity="SMESBasic"/>
   </Box>
@@ -33,8 +33,8 @@
   <GuideEntityEmbed Entity="NuclearBomb"/>
   </Box>
 
-  ## Foundation
-  For this step you'll need steel sheets, metal rods, and floor tiles (optional).
+  ## Fundação
+  Para esta etapa você precisará de chapas de aço, barras de metal e pisos (opcional).
 
   <Box>
     <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
@@ -46,32 +46,32 @@
     <GuideEntityEmbed Entity="FloorTileItemWhite" Caption=""/>
   </Box>
 
-  Head out into space with steel sheets and metal rods in hand and click on the edge of the station to place lattice.
+  Saia para o espaço com chapas de aço e barras de metal em mãos e clique na borda da estação para colocar treliça.
 
-  Place a line of lattice about 3-4 tiles away from the station, then start building a platform with lattice.
+  Coloque uma linha de treliça a cerca de 3-4 blocos de distância da estação, então comece a construir uma plataforma com treliça.
 
-  Keep doing this until you have a platform that is at least 3x3 in size, which is connected to the station via a single lattice line.
+  Continue fazendo isso até ter uma plataforma de pelo menos 3x3 de tamanho, que esteja conectada à estação através de uma única linha de treliça.
 
-  Once you're finished constructing the base of your shuttle, you can use wirecutters to snip the connecting lattice that joins your new ship and the station.
+  Uma vez terminada a construção da base da sua naveta, você pode usar alicates de corte para cortar a treliça de conexão que une sua nova nave à estação.
 
-  This platform is considered a different grid from the station and thus will not have any gravity or be held in place by a station anchor — it can move around freely.
+  Esta plataforma é considerada uma grelha diferente da estação e, portanto, não terá gravidade ou será mantida no lugar por uma âncora de estação — ela pode se mover livremente.
 
-  You can expand your lattice platform further by clicking just off the edge with some rods in hand.
+  Você pode expandir sua plataforma de treliça ainda mais clicando um pouco além da borda com algumas barras em mãos.
 
-  ## Docking Ports
-  Shuttle airlocks serve as docking ports, where ships can dock to stations safely.
+  ## Portos de Acoplamento
+  Os airlocks de navetas servem como portos de acoplamento, onde as naves podem atracar nas estações com segurança.
 
-  The orientation of docking ports is important, as it determines on which face the shuttle will dock.
+  A orientação dos portos de acoplamento é importante, pois determina em qual face a naveta irá atracar.
 
-  The little numb on the bottom of the docking port determines the direction of the docking port.
+  O pequeno botão na parte inferior do porta de acoplamento determina a direção do porta de acoplamento.
 
   <Box>
     <GuideEntityEmbed Entity="AirlockShuttle"/>
     <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
   </Box>
 
-  ## Directional Control
-  From there, once you have the shape you want, bring out and install thrusters at the edges.
+  ## Controle Direcional
+  A partir daí, uma vez que tenha a forma desejada, traga e instale propulsores nas bordas.
 
   <Box>
     <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="0"/>
@@ -80,28 +80,28 @@
     <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="270"/>
   </Box>
 
-  It's a good idea to install four thrusters, one on each side of the platform, to ensure you can move in any direction.
+  É uma boa ideia instalar quatro propulsores, um em cada lado da plataforma, para garantir que você possa se mover em qualquer direção.
 
-  They must be pointing outward into space to function and will not fire if there's a tile in the way of the nozzle.
-  You can rotate thrusters—even anchored ones—using either [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] or [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color] to rotate clockwise or counterclockwise.
+  Eles devem estar apontando para fora, para o espaço, para funcionar e não dispararão se houver um bloco no caminho do bocal.
+  Você pode girar os propulsores — mesmo os ancorados — usando [color=yellow][bold][keybind="RotateObjectClockwise"][/bold][/color] ou [color=yellow][bold][keybind="RotateObjectCounterclockwise"][/bold][/color] para girar no sentido horário ou anti-horário.
 
-  Thrusters can be disabled or enabled using [color=yellow][bold][keybind="Use"][/bold][/color] with an empty hand or [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color].
+  Os propulsores podem ser desativados ou ativados usando [color=yellow][bold][keybind="Use"][/bold][/color] com a mão vazia ou [color=yellow][bold][keybind="ActivateItemInWorld"][/bold][/color].
 
-  ## Rotational Control
-  Now that you have directional control, you'll need to install a gyroscope to control your rotation.
+  ## Controle Rotacional
+  Agora que você tem controle direcional, você precisará instalar um giroscópio para controlar sua rotação.
 
   <Box>
     <GuideEntityEmbed Entity="Gyroscope"/>
   </Box>
-  The placement of the gyroscope is not as important as the thrusters, but it should be somewhere convenient for you to access and power.
+  A posição do giroscópio não é tão importante quanto a dos propulsores, mas deve estar em algum lugar conveniente para você acessar e alimentar energia.
 
-  Note for large mass objects, you may need more than one gyroscope to rotate effectively.
+  Para objetos de grande massa, você pode precisar de mais de um giroscópio para girar efetivamente.
 
-  ## Power
-  Now that you have all the systems in place, you'll need to power them.
+  ## Energia
+  Agora que você tem todos os sistemas em lugar, você precisará energizá-los.
 
-  For small shuttles, a J.R.P.A.C.M.A.N.-type portable generator is a good choice. It provides straight LV power, so you don't have to worry about transformers.
-  Fuel for the generator is also commonly found in maintenance tunnels.
+  Para navetas pequenas, um gerador portátil tipo J.R.P.A.C.M.A.N. é uma boa escolha. Ele fornece energia LV diretamente, então você não precisa se preocupar com transformadores.
+  O combustível para o gerador também é comumente encontrado em túneis de manutenção.
 
   <Box HorizontalAlignment="Stretch">
     <Box>
@@ -112,9 +112,9 @@
     </Box>
   </Box>
 
-  Some stations, however, provide much better generators and compact solutions like the Shuttle APU or the static generator.
-  These output HV and will have to be stepped down to MV and LV.
-  Luckily, these stations also usually provide wallmount substation boards for this purpose.
+  Algumas estações, no entanto, fornecem geradores muito melhores e soluções compactas como a APU de Naveta ou o gerador estático.
+  Estes produzem HV e terão que ser reduzidos para MV e LV.
+  Felizmente, estas estações também geralmente fornecem placas de subestação de parede para este propósito.
 
   <Box HorizontalAlignment="Stretch">
     <Box>
@@ -128,9 +128,9 @@
     </Box>
   </Box>
 
-  ## Piloting
-  Finally, install the shuttle computer wherever it is convenient and ensure all your thrusters and gyroscopes are receiving power (remember to wire the MV and LV networks!).
-  If they are, congratulations! You should have a functional shuttle!
+  ## Pilotagem
+  Finalmente, instale o console da naveta onde for conveniente e certifique-se de que todos os seus propulsores e giroscópios estejam recebendo energia (lembre-se de cabear as redes MV e LV!).
+  Se estiverem, parabéns! Você deve ter uma naveta funcional!
 
-  Making it livable and good-looking is left as an exercise to the reader.
+  Torná-la habitável e com boa aparência fica como exercício para o leitor.
 </Document>

@@ -1,29 +1,29 @@
-﻿<Document>
-  # Core Rule 10 - Do not abuse or ignore admin messages
-  Admin help, or "ahelp", is the system used by admins to communicate with specific players in the game. Only use admin help for things requiring admin attention. If you ignore messages admins send to you via ahelp, or disconnect during an ahelp, you may be banned. If you urgently need to leave during an ahelp, you may do so but will likely need to continue the ahelp on the forums. Do not admin check, be hostile/aggressive, request events, or spam. IC methods of contacting admins, like prayers, faxes, red phones, and banana phones, should be used when there is not an issue.
+<Document>
+  # Regra Principal 10 - Não abuse ou ignore mensagens de admin
+Admin help, ou "ahelp", é o sistema usado pelos admins para se comunicar com jogadores específicos no jogo. Use admin help apenas para coisas que precisem de atenção admin. Se você ignorar mensagens que os admins enviarem a você via ahelp, ou desconectar durante um ahelp, você pode ser banido. Se você precisar sair urgentemente durante um ahelp, você pode fazê-lo, mas provavelmente precisará continuar o ahelp nos fóruns. Não faça admin check, seja hostil/agressivo, peça eventos ou faça spam. Métodos IC de contatar admins, como orações, faxes, telefones vermelhos e banana phones, devem ser usados quando não houver um problema.
 
-  Admins are not always online, but all ahelps are automatically relayed to discord. For various reasons, admins might not respond to an ahelp even if they've handled it. A lack of response does not necessarily mean that an ahelp was ignored.
+Admins nem sempre estão online, mas todos os ahelps são automaticamente retransmitidos para o discord. Por vários motivos, admins podem não responder a um ahelp mesmo que já tenham lidado com isso. A falta de resposta não significa necessariamente que um ahelp foi ignorado.
 
-  ## Should I ahelp X?
-  You can ahelp anytime you genuinely think a player is breaking a rule. Not all ahelps end up being for something that an admin needs to intervene in, but that's ok, admins would rather have people occasionally report things that turn out to not be an issue than miss reports for actual issues because someone was unsure, or get those reports late because someone waited until the end of the round to be more sure.
+## Devo dar ahelp em X?
+Você pode dar ahelp qualquer vez que você genuinamente achar que um jogador está quebrando uma regra. Nem todos os ahelps acabam sendo para algo que um admin precise intervir, mas tudo bem, admins preferem que pessoas ocasionalmente relatem coisas que acabam não sendo um problema do que perder relatos de problemas reais porque alguém estava incerto, ou receber esses relatos atrasados porque alguém esperou até o fim da rodada para ter mais certeza.
 
-  The most common reason players give for not ahelping issues is that they don't want to waste admin time, but it only takes a few seconds for an admin to check if someone is an antagonist. If you are ahelping too many things, an admin will let you know. If you're not being told to stop reporting something or to report less things, then you can safely assume that you aren't causing any issues.
+O motivo mais comum que os jogadores dão para não dar ahelp em problemas é que não querem desperdiçar o tempo do admin, mas leva apenas alguns segundos para um admin verificar se alguém é um antagonista. Se você estiver dando ahelp em muitas coisas, um admin vai te avisar. Se você não estiver sendo avisado para parar de relatar algo ou para relatar menos coisas, então você pode assumir com segurança que você não está causando nenhum problema.
 
-  # What should I include in an ahelp?
-  At a minimum, admins need to know what the issue is to be able to address an ahelp. Don't send ahelp messages with no information about what your question or the issue is. Messages like "hello" are often considered admin checking.
+# O que devo incluir em um ahelp?
+No mínimo, admins precisam saber qual é o problema para poderem resolver um ahelp. Não envie mensagens de ahelp sem nenhuma informação sobre qual é a sua pergunta ou o problema. Mensagens como "olá" são frequentemente consideradas admin checking.
 
-  If you can, an ideal ahelp message includes what the issue is along with who is causing it and their character's name if possible.
+Se possível, uma mensagem de ahelp ideal inclui qual é o problema junto com quem está causando e o nome do personagem dele se possível.
 
-  # Examples
-  Appropriate uses of ahelp:
-  - reporting people who you think are violating rules,
-  - asking questions about rules,
-  - asking for a temporary exemption from a rule, and
-  - request a minor gimmick, like a TC trade or item spawn.
+# Exemplos
+Usos apropriados de ahelp:
+- relatar pessoas que você acha que estão violando regras,
+- fazer perguntas sobre regras,
+- pedir uma isenção temporária de uma regra, e
+- pedir um gimmick menor, como uma troca de TC ou spawn de item.
 
-  Inappropriate uses of ahelp:
-  - checking if an admin is online, including sending messages without any information about the issue like "hello" or incomprehensible messages,
-  - being hostile or aggressive,
-  - requesting events, and
-  - spamming messages about the same issue.
+Usos inapropriados de ahelp:
+- verificar se um admin está online, incluindo enviar mensagens sem nenhuma informação sobre o problema como "olá" ou mensagens incompreensíveis,
+- ser hostil ou agressivo,
+- pedir eventos, e
+- fazer spam de mensagens sobre o mesmo problema.
 </Document>

@@ -3,8 +3,8 @@
 - type: vessel
   id: MotleyAnne
   parent: BaseVesselAntag
-  name: PDV-IED Motley Anne
-  description: A support mothership designed to reinforce an engagements back-line with mech and drone ensemble or closer resupplies.
+  name: vessel-MotleyAnne-name
+  description: vessel-MotleyAnne-desc
   price: 280000
   limit: 2
   hyperwarTimelock: 1800

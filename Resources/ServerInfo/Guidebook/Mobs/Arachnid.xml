@@ -1,16 +1,16 @@
 <Document>
-  # Arachnids
+  # Aracnídeos
 
   <Box>
     <GuideEntityEmbed Entity="MobArachnid" Caption=""/>
   </Box>
 
-  They have two additional Pocket slots in their inventory. They can eat raw meat without any ill effects, but some foods like chocolate and onion poisons them.
-  They suffocate 50% faster, and their Blue Blood can't be metabolised from Iron, being based on Copper instead.
+  Eles possuem dois slots adicionais de Bolsa em seu inventário. Eles podem comer carne crua sem quaisquer efeitos negativos, mas alguns alimentos como chocolate e cebola os envenenam.
+  Eles sufocam 50% mais rápido, e seu Sangue Azul não pode ser metabolizado a partir de Ferro, sendo baseado em Cobre.
 
-  Their unarmed attacks deal Piercing damage instead of Blunt.
+  Seus ataques desarmados causam dano Perfurante em vez de Contundente.
 
-  ## Sericulture
+  ## Sericultura
 
   <Box>
     <GuideEntityEmbed Entity="MaterialWebSilk" Caption=""/>
@@ -19,7 +19,7 @@
     <GuideEntityEmbed Entity="WallWeb" Caption=""/>
   </Box>
 
-  Arachnids can create Websilk at the cost of getting more hungry. They (and only they) can craft bundles of websilk into various items from clothing and shields to entire walls.
+  Os Aracnídeos podem criar Teia de Seda ao custo de ficarem mais famintos. Eles (e apenas eles) podem craftar feixes de teia de seda em vários itens, desde roupas e escudos até paredes inteiras.
 
 
 </Document>

@@ -3,8 +3,8 @@
 - type: vessel
   id: Metis
   parent: BaseVesselAntag
-  name: BT-Y Metis
-  description: A tiny, hit and run missile corvette armed with 2x "Vanquisher" missile swarm racks, some PD cannons and a flare launcher to ward off missiles.
+  name: vessel-Metis-name
+  description: vessel-Metis-desc
   price: 79500
   category: Medium
   group: BlackMarket
@@ -26,7 +26,7 @@
     Metis:
       gridComponents:
       - type: VesselInfo
-        description: "Tiny, cramped and poorly built. This hull wont last for long..."
+        description: vessel-Metis-desc
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup

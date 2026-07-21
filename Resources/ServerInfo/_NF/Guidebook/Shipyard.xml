@@ -1,47 +1,47 @@
 <Document>
-  # Colossus Shipyards
+  # Estaleiros Colossus
 
-To assist in developing the Colossus Sector, shuttles from SHM or various corporations can be rented for use.
-All rentals last for one shift. Rented shuttles return to the corporate parent company at the end of shift.
-The value of shuttles is returned to the purchaser when ended through a ship console.
-To avoid losses, [bold]make sure you end your rental before ending your shift[/bold].
+Para auxiliar no desenvolvimento do Setor Colossus, navios da SHM ou de várias corporações podem ser alugados para uso.
+Todos os aluguéis duram um turno. Os navios alugados retornam à empresa matriz corporativa no final do turno.
+O valor dos navios é devolvido ao comprador quando encerrado através de um console de nave.
+Para evitar perdas, [bold]certifique-se de encerrar seu aluguel antes de encerrar seu turno[/bold].
 
-## Shipyard Console
+## Console do Estaleiro
   <Box>
     <GuideEntityEmbed Entity="PassengerIDCard"/>
     <GuideEntityEmbed Entity="SpaceCash1000"/>
     <GuideEntityEmbed Entity="ComputerShipyard"/>
   </Box>
-  To rent a ship:
-- Eject the ID card from your PDA.
-- Insert the ID card into an unused [color=#cccc00]shipyard console[/color].
-- Use the shipyard console to bring up its interface.
-- Select the ship you would like to rent.
-- Press the Purchase button on the console.
-- Press the Eject button to remove your ID from the console.
-- Reinsert your ID card into your PDA.
+  Para alugar uma nave:
+- Ejete o cartão de ID do seu PDA.
+- Insira o cartão de ID em um [color=#cccc00]console do estaleiro[/color] não utilizado.
+- Use o console do estaleiro para abrir sua interface.
+- Selecione a nave que você gostaria de alugar.
+- Pressione o botão Comprar no console.
+- Pressione o botão Ejetar para remover seu ID do console.
+- Reinsira seu cartão de ID no seu PDA.
 
-Congratulations, you're now the Captain of your own ship!
+Parabéns, agora você é o Capitão da sua própria nave!
 
-To end your rental:
-- Make sure your rented ship is docked with Colonial Outpost.
-- Make sure nobody is aboard the ship.
-- Eject the ID card [bold]used to purchase the ship[/bold] from your PDA.
-- Insert the ID card into an unused [color=#cccc00]shipyard console[/color].
-- Use the shipyard console to bring up its interface.
-- Press the Sell button on the console. The value will be deposited into your bank account.
-- Press the Eject button to remove your ID from the console.
-- Reinsert your ID card into your PDA.
+Para encerrar seu aluguel:
+- Certifique-se de que sua nave alugada está atracada no Avanço Colonial.
+- Certifique-se de que ninguém está a bordo da nave.
+- Ejete o cartão de ID [bold]usado para comprar a nave[/bold] do seu PDA.
+- Insira o cartão de ID em um [color=#cccc00]console do estaleiro[/color] não utilizado.
+- Use o console do estaleiro para abrir sua interface.
+- Pressione o botão Vender no console. O valor será depositado na sua conta bancária.
+- Pressione o botão Ejetar para remover seu ID do console.
+- Reinsira seu cartão de ID no seu PDA.
 
-## Provisions
+## Suprimentos
   <Box>
     <GuideEntityEmbed Entity="LockerCaptain"/>
     <GuideEntityEmbed Entity="SuitStorageBase"/>
     <GuideEntityEmbed Entity="LockerParamedic"/>
   </Box>
-  Ships come equipped with the tools and supplies needed to perform one or more tasks in the Colossus Sector (e.g. mining, research, medical, food services).
+  As navios vêm equipadas com as ferramentas e suprimentos necessários para realizar uma ou mais tarefas no Setor Colossus (ex. mineração, pesquisa, médico, serviços de alimentação).
 
-Ships, especially larger ones, work best with a crew. Refer to the [bold]Hiring[/bold] section for more info.
-Space is a lonely, dangerous place, and you'll have a much better time when you work with a crew.
+Navios, especialmente os maiores, funcionam melhor com uma tripulação. Consulte a seção [bold]Contratação[/bold] para mais informações.
+O espaço é um lugar solitário e perigoso, e você terá uma experiência muito melhor quando trabalhar com uma tripulação.
 
 </Document>

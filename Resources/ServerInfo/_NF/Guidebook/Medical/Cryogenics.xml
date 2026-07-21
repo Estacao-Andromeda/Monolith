@@ -1,18 +1,18 @@
 <Document>
-# Cryogenics
-Cryogenics can be a bit daunting to understand, but hopefully, quick run through of this diagram, you'll learn how to work it! So, let's go over what each part does:
+# Criogenia
+A criogenia pode ser um pouco intimidante de entender, mas com uma rápida passada por este diagrama, você aprenderá como usá-la! Então, vamos ver o que cada parte faz:
 
-- Air in: Air comes in here through the distro or an air tank, giving those inside something to breathe, and the freezer something to chill.
-- Gas pump: Limits the network pressure, so those in the tube aren't crushed.
-- Freezer: Chills the air, and by extension, patients in the tube, so Cryoxadone can activate.
-- Gas filters: Removes waste gas (Carbon Dioxide and Nitrous Oxide) from the loop.
-- Air out: Waste gasses go here, either into a storage tank, or into the waste network.
+- Entrada de ar: O ar entra aqui através da distribuição ou de um tanque de ar, dando aos dentro algo para respirar, e ao freezer algo para resfriar.
+- Bomba de gás: Limita a pressão da rede, para que aqueles no tubo não sejam esmagados.
+- Freezer: Resfria o ar, e por extensão, os pacientes no tubo, para que o Crioxadona possa ativar.
+- Filtros de gás: Remove gás residual (Dióxido de Carbono e Óxido Nitroso) do circuito.
+- Saída de ar: Os gases residuais vão aqui, seja para um tanque de armazenamento, ou para a rede de resíduos.
 <Box>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
-<GuideEntityEmbed Entity="CryoPod" Caption="cryo pod" Rotation="0"/>
+<GuideEntityEmbed Entity="CryoPod" Caption="cápsula criogênica" Rotation="0"/>
 <GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
 </Box>
 <Box>
@@ -24,27 +24,27 @@ Cryogenics can be a bit daunting to understand, but hopefully, quick run through
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="GasPort" Caption="air out" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="saída de ar" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
-<GuideEntityEmbed Entity="GasPort" Caption="air in" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="entrada de ar" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
 </Box>
 
-Not every network will look like this, but hopefully, it's enough to give you the basic gist of how it's functioning.
+Nem toda rede ficará assim, mas espero que seja o suficiente para dar uma noção básica de como ela funciona.
 
-An important thing to note, winter clothing (and hardsuits) will make cryogenic treatment less, or completely ineffective. Be sure to remove cold preventative clothing before placing people in the pod.
+Uma coisa importante a notar, roupas de inverno (e roupas rígidas) tornarão o tratamento criogênico menos, ou completamente ineficaz. Certifique-se de remover roupas de proteção contra frio antes de colocar pessoas na cápsula.
 
-## Using the Pod
+## Usando a Cápsula
 
-Once things have been set up, you're going to require cryogenic medications (all listed below). They each provide healing when a patient is chilled, and should be loaded into the pod directly with a beaker. Do note, patients won't begin to heal until they've chilled to the appropriate temperature, it may be worthwhile to wait a bit before placing a beaker inside.
+Uma vez que tudo tenha sido configurado, você precisará de medicamentos criogênicos (todos listados abaixo). Eles fornecem cura quando um paciente é resfriado, e devem ser carregados na cápsula diretamente com um béquer. Note que os pacientes não começarão a curar até que tenham resfriado à temperatura apropriada, pode valer a pena esperar um pouco antes de colocar um béquer dentro.
 
-## Additional Information:
+## Informações Adicionais:
 
-The standard pressure for a gas pump is 100.325 kpa. Cryogenics medicines work at under 213K (150K for Opporozidone), but it is standard practice to set the freezer to 100K for faster freezing.
+A pressão padrão para uma bomba de gás é 100.325 kpa. Medicamentos criogênicos funcionam abaixo de 213K (150K para Opporozidona), mas é prática padrão definir o freezer para 100K para congelamento mais rápido.
 
-Cryo pods filter out each cryogenic medicine from the beaker in the pod, injecting a small, steady amount of each into the patient. This allows for medicine to be administered twice as efficiently than with injection or oral administration.
+Cápsulas criogênicas filtram cada medicamento criogênico do béquer na cápsula, injetando uma pequena quantidade constante de cada no paciente. Isso permite que o medicamento seja administrado com o dobro de eficiência do que com injeção ou administração oral.
 
 <GuideReagentEmbed Reagent="Aloxadone"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>

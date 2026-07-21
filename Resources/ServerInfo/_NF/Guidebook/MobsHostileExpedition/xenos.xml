@@ -1,145 +1,145 @@
 <Document>
   # Xenos
-  
-  Xenos, occasionally referred to as simply "Aliens", are extraterrestrial lifeforms that use other living beings as hosts for development during their lifecycle. With black carapaces and wicked sharp claws, powerful night vision, and the ability to see people through walls, xenos are extremely dangerous. They are intelligent and capable of communicating to one another via hivemind. They hunt using co-operative tactics, and pose a massive threat to stations and planetside facilities if left unchecked.
-  
-  This species has fluorosulfuric acid for blood. Can be butchered for xeno meat.
-  
+
+  Xenos, ocasionalmente referidos simplesmente como "Aliens", são formas de vida extraterrestres que usam outros seres vivos como hospedeiros para desenvolvimento durante seu ciclo de vida. Com carapaças negras e garras afiadas perversas, visão noturna poderosa, e a capacidade de ver pessoas através de paredes, xenos são extremamente perigosos. Eles são inteligentes e capazes de se comunicar entre si através de mente coletiva. Eles caçam usando táticas cooperativas, e representam uma ameaça massiva para estações e instalações em planetas se deixados descontrolados.
+
+  Esta espécie tem ácido fluorossulfúrico como sangue. Pode ser abatido para carne de xeno.
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Burrower"
-  
-  A young stage of development, burrowers stay close to their nests and dig underground to stay in relative safety.
-  
+
+  # Variantes Conhecidas
+  # "Escavador"
+
+  Um estágio jovem de desenvolvimento, escavadores ficam perto de seus ninhos e cavam underground para se manter em relativa segurança.
+
   <Box>
   <GuideEntityEmbed Entity="MobXeno"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 50 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4 m/s (4 m/s)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 6 [color=red]Bruto[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]um humano médio pode correr a 4.5 m/s e caminhar a 2.5 m/s.[/italic]
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   # "Drone"
-  
-  The backbone of any xeno hive, drones serve as workers and nurses. They shape the environment to suit the hive's needs and care for unhatched eggs.
-  
+
+  A espinha dorsal de qualquer colmeia xeno, drones servem como trabalhadores e enfermeiros. Eles moldam o ambiente para atender às necessidades da colmeia e cuidam de ovos não chocados.
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoDrone"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 70 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 70 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.5 m/s (3 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 5 [color=red]Bruto[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Praetorian"
-  
-  Praetorians are larger than the smaller drones, with their robust body designed for protection and strength. Their impressive size also enables them to efficiently transport large prey back to the hive.
-  
+
+  # "Preatoriano"
+
+  Preatorianos são maiores que os drones menores, com seu corpo robusto projetado para proteção e força. Seu tamanho impressionante também permite que eles transportem eficientemente presas grandes de volta à colmeia.
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoPraetorian"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 10 [color=red]Bruto[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Ravager"
-  
-  Ravagers are large, vicious killers that specialize in brutal, high-damage hit-and-run attacks.
-  
+
+  # "Devastador"
+
+  Devastadores são assassinos grandes e viciousos que se especializam em ataques de batida-e-corrida brutais e de alto dano.
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoRavager"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 150 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.2 m/s (2.3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 14 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 150 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4.2 m/s (2.3 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 14 [color=red]Bruto[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Runner"
-  
-  Built for speed, the Runner is a very fast caste that excels at hit and run tactics and individual combat. Its lightweight frame leaves it vulnerable, though.
-  
+
+  # "Corredor"
+
+  Construído para velocidade, o Corredor é uma casta muito rápida que se destaca em táticas de batida-e-corrida e combate individual. Sua estrutura leve o torna vulnerável, porém.
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoRunner"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 6 m/s (2.7 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 50 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 6 m/s (2.7 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 3 [color=red]Bruto[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Spitter"
-  
-  The Spitter, a master of ranged combat among Xenos, spits globs of caustic saliva that can incapacitate foes with ease. With a quick flick of its elongated tongue, the Spitter unleashes a stream of corrosive goo that can burn through armor and sizzle flesh.
-  
+
+  # "Cuspidor"
+
+  O Cuspidor, mestre de combate à distância entre os Xenos, cospe glóbulos de saliva cáustica que podem incapacitar inimigos com facilidade. Com um movimento rápido de sua língua alongada, o Cuspidor lança um fluxo de gosma corrosiva que pode queimar através de armaduras e fritar carne.
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoSpitter"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 75 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (acid)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 75 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 4 m/s (4 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 5 [color=orange]Cáustico[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (ácido)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Xeno turret"
-  
-  The Xeno turret is an odd, immobile creature that secretes and spits the same caustic saliva as the Spitter.
-  
+
+  # "Torre xeno"
+
+  A torre xeno é uma criatura imóvel estranha que secreta e cospe a mesma saliva cáustica que o Cuspidor.
+
   <Box>
   <GuideEntityEmbed Entity="WeaponTurretXeno"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 75 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 0 m/s (0 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Turret, Shooter (acid)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 75 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 0 m/s (0 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 5 [color=orange]Cáustico[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Torreta, Atirador (ácido)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Queen"
-  
-  Responsible for both laying eggs and providing direction to her children, the Queen is the most important member of a Xeno hive. If she dies, the hive will lose all direction.
-  
+
+  # "Rainha"
+
+  Responsável tanto por botar ovos quanto fornecer direção a seus filhos, a Rainha é o membro mais importante de uma colmeia Xeno. Se ela morrer, a colmeia perderá toda direção.
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 250 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.8 m/s (2.8 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 20 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 250 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida (caminhada):[/color][/bold] 3.8 m/s (2.8 m/s)
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 20 [color=red]Bruto[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # Objetivos da Missão
+  ## Eliminação
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]queen[/color] within given time constraints to earn a monetary reward.
-  
-  ## Destruction
+  Elimine uma criatura grande e perigosa - uma [color=#a4885c]rainha[/color] dentro do tempo limite para ganhar uma recompensa monetária.
+
+  ## Destruição
   <Box>
   <GuideEntityEmbed Entity="XenoWardingTower"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]xeno warding towers[/color] within given time constraints to earn a monetary reward.
+  Destrua um certo número de [color=#a4885c]torres de guarda xeno[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 </Document>

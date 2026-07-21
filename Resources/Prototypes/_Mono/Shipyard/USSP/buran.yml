@@ -3,8 +3,8 @@
 - type: vessel
   id: Buran
   parent: BaseVesselAntag
-  name: VEF Buran
-  description: USSP capital-sized frigate with tremendous broadside firepower and thick armor. Glory to commissariat.
+  name: vessel-Buran-name
+  description: vessel-Buran-desc
   limit: 2
   price: 320000
   purchasable: false # voucher only
@@ -28,7 +28,7 @@
       stationProto: StandardFrontierVessel
       gridComponents:
       - type: VesselInfo
-        description: "Outdated, yet still reliable."
+        description: vessel-Buran-desc
       components:
         - type: StationNameSetup
           mapNameTemplate: 'Buran USSP{1}'

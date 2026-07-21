@@ -1,35 +1,35 @@
 <Document>
-  # Piloting
+  # Pilotagem
   <Box>
     <GuideEntityEmbed Entity="ComputerShuttle"/>
   </Box>
-  To move a shuttle, you first need to click on the [color=#a4885c]shuttle console[/color] in its cockpit. After clicking the shuttle console, you should see a radar view of the space around your shuttle.
+  Para mover uma nave, você primeiro precisa clicar no [color=#a4885c]console da nave[/color] em sua cabine. Depois de clicar no console da nave, você deve ver uma visão de radar do espaço ao redor da sua nave.
 
-Newly purchased shuttles start docked with Colonial Outpost. To undock, follow these steps:
+As naves recém-compradas começam atracadas no Posto Colonial. Para desatracar, siga estes passos:
 
-- Tell people you are undocking using the shortband channel ([color=#CC6633]:d[/color]). Include your ship's callsign, which can be found on the NAV screen (e.g. "[color=#CC6633]:d Sabine CIV-123 undocking.[/color]")
-- Click on the DOCK tab, disconnect any airlocks that are docked to the station.
-- Return to the NAV tab.
+- Avise as pessoas que você está desatracando usando o canal de faixa curta ([color=#CC6633]:d[/color]). Inclua o indicativo de chamada da sua nave, que pode ser encontrado na tela de NAVEGAÇÃO (por exemplo, "[color=#CC6633]:d Sabine CIV-123 desatracando.[/color]")
+- Clique na aba ATRACAÇÃO, desconecte quaisquer esclusas que estejam atracadas à estação.
+- Volte para a aba NAVEGAÇÃO.
 
-- To move a shuttle, the default controls (for a QWERTY keyboard) are:
+- Para mover uma nave, os controles padrão (para um teclado QWERTY) são:
 
--[color=#028ed9][keybind="ShuttleStrafeUp"/][/color] & [color=#028ed9][keybind="ShuttleStrafeDown"/][/color]: Move forward and backward.
--[color=#028ed9][keybind="ShuttleStrafeLeft"/][/color] & [color=#028ed9][keybind="ShuttleStrafeRight"/][/color]: Move left and right.
--[color=#028ed9][keybind="ShuttleRotateLeft"/][/color] & [color=#028ed9][keybind="ShuttleRotateRight"/][/color]: Rotate left and right.
--[color=#028ed9][keybind="ShuttleBrake"/][/color]: Slow down.
--[color=#028ed9][keybind="ShuttleBrake"/][/color] + [color=#028ed9]any input[/color]: Move and rotate slowly.
+-[color=#028ed9][keybind="ShuttleStrafeUp"/][/color] & [color=#028ed9][keybind="ShuttleStrafeDown"/][/color]: Mover para frente e para trás.
+-[color=#028ed9][keybind="ShuttleStrafeLeft"/][/color] & [color=#028ed9][keybind="ShuttleStrafeRight"/][/color]: Mover para esquerda e direita.
+-[color=#028ed9][keybind="ShuttleRotateLeft"/][/color] & [color=#028ed9][keybind="ShuttleRotateRight"/][/color]: Girar para esquerda e direita.
+-[color=#028ed9][keybind="ShuttleBrake"/][/color]: Frear.
+-[color=#028ed9][keybind="ShuttleBrake"/][/color] + [color=#028ed9]qualquer entrada[/color]: Mover e girar lentamente.
 
-# Docking
+# Atracação
   <Box>
     <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
   </Box>
-  [bold]Before docking your ship with:[/bold]
-- [bold][color=#979797]Another ship[/color][/bold], it is best practice to announce your intention to dock over the traffic channel ([color=#CC6633]:d[/color]).
-- [bold][color=#ffd700]Colonial Outpost[/color][/bold], stop 200m out, request permission to dock from the Station Traffic Controller (STC) over the traffic radio channel ([color=#CC6633]:d[/color]).
-- [bold][color=#ffa500]Another station[/color][/bold], docks are first come, first serve. Be courteous and leave space where possible.
+  [bold]Antes de atracar sua nave com:[/bold]
+- [bold][color=#979797]Outra nave[/color][/bold], é uma boa prática anunciar sua intenção de atracar pelo canal de tráfego ([color=#CC6633]:d[/color]).
+- [bold][color=#ffd700]Posto Colonial[/color][/bold], pare a 200m de distância, solicite permissão para atracar do Controlador de Tráfego da Estação (CTE) pelo canal de rádio de tráfego ([color=#CC6633]:d[/color]).
+- [bold][color=#ffa500]Outra estação[/color][/bold], as docas são por ordem de chegada. Seja cortês e deixe espaço quando possível.
 
-To dock the ship:
-- Pilot towards the target so a set of its airlocks are nearby a set of airlocks of the target.
-- When very close, click on the DOCK tab for a closer view.
-- When next to the airlock, you can click "Dock" when highlighted to attach to the target.
+Para atracar a nave:
+- Pilot em direção ao alvo para que um conjunto de suas esclusas esteja próximo de um conjunto de exclusas do alvo.
+- Quando muito próximo, clique na aba ATRACAÇÃO para uma visão mais próxima.
+- Quando próximo da esclusa, você pode clicar em "Dock" quando destacado para anexar ao alvo.
 </Document>

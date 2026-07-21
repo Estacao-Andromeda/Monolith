@@ -7,8 +7,8 @@
 - type: vessel
   id: Argent
   parent: BaseVessel
-  name: TSF-SKR Argent
-  description: A retired frigate gutted out and refurbished for cargo transport.
+  name: vessel-Argent-name
+  description: vessel-Argent-desc
   price: 61150
   category: Medium
   group: Shipyard

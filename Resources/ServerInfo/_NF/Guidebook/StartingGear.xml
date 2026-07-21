@@ -1,36 +1,36 @@
 <Document>
-  # Starting Equipment
+  # Equipamento Inicial
   <Box>
     <GuideEntityEmbed Entity="NFClothingBackpack"/>
   </Box>
-  In the bag on your person you will find the following equipment:
+  Na mochila que você está carregando, você encontrará os seguintes equipamentos:
 
-  -A [color=#028ed9]survival box[/color], containing equipment to help you survive emergency scenarios
-  -A [color=#CC6633]traffic control key[/color], which can be slotted into your radio headset to utilize the traffic control radio channel
-  -A [color=#33bbff]medical implant[/color]. If you inject it, when you get incapacitated, it'll tell your location to medics. Click the implanter to equip it in your hand, and click it again to inject it into your body.
+  -Uma [color=#028ed9]caixa de sobrevivência[/color], contendo equipamentos para ajudá-lo a sobreviver em situações de emergência
+  -Uma [color=#CC6633]chave de controle de tráfego[/color], que pode ser encaixada em seu fone de ouvido para utilizar o canal de rádio de controle de tráfego
+  -Um [color=#33bbff]implante médico[/color]. Se você injetá-lo, quando ficar incapacitado, ele informará sua localização aos médicos. Clique no implantador para equipá-lo em sua mão, e clique novamente para injetá-lo em seu corpo.
 
-  Find your headset by opening your inventory (backpack icon, bottom left corner).
+  Encontre seu fone de ouvido abrindo seu inventário (ícone da mochila, canto inferior esquerdo).
 
-# Suit Sensors
+# Sensores do Traje
   <Box>
     <GuideEntityEmbed Entity="ClothingUniformJumpsuitColorGrey"/>
   </Box>
-  Suit sensors give your vital status and position to anyone with a [color=#55bbff]crew monitoring console[/color], typically used by medical personnel.
+  Os sensores do traje fornecem seu estado vital e posição para qualquer pessoa com um [color=#55bbff]console de monitoramento de tripulação[/color], tipicamente usado pela equipe médica.
 
-  The sensor options are the following:
+  As opções do sensor são as seguintes:
 
-  -Off: Disables tracking - you will not be listed
-  -Binary: Shows you as Alive or Dead with no position
-  -Vitals: Shows your vital status (Good, Okay, Poor, Bad, Critical) with no position
-  -Coordinates: Shows your vital status and current position on a crew monitor
+  -Desligado: Desativa o rastreamento - você não será listado
+  -Binário: Mostra você como Vivo ou Morto sem posição
+  -Vitais: Mostra seu estado vital (Bom, Ok, Ruim, Crítico) sem posição
+  -Coordenadas: Mostra seu estado vital e posição atual no monitor de tripulação
 
-  To change your suit sensors:
+  Para alterar seus sensores do traje:
 
-  -Right-click your jumpsuit
-  -Hover over "Sensor >"
-  -Left-click your new setting
+  -Clique com o botão direito em seu macacão
+  -Passe o mouse sobre "Sensor >"
+  -Clique com o botão esquerdo em sua nova configuração
 
-  In general, set your sensors to Coordinates if you'd like medics to come get you in a crisis.
+  Em geral, configure seus sensores para Coordenadas se quiser que os médicos venham buscá-lo em uma crise.
 
 </Document>
 

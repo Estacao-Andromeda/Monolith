@@ -1,21 +1,21 @@
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+# Segurança
+Garantir a segurança da estação e da tripulação é a prioridade número um da [color=#cb0000]Segurança[/color]. Eles estão preparados para qualquer situação, e a [color=#cb0000]Segurança[/color] está pronta para manter a ordem e controlar multidões.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+Eles enfrentam [textlink="Agentes do Sindicato" link="Traitors"], [textlink="Operativos Nucleares" link="NuclearOperatives"], [textlink="Zumbis" link="Zombies"] e funcionários indisciplinados.
 
-## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, and the Detective. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+## Pessoal
+A equipe da [color=#cb0000]Segurança[/color] é composta por Cadetes de Segurança, Oficiais de Segurança e o Detetive. A [color=#cb0000]Segurança[/color] é comandada pelo carcereiro e pelo Chefe de Segurança.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
-    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
-    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Oficial"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detetive"/>
+    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Carcereiro"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="Chefe"/>
   </Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands.
+## Equipamento
+Primeiro temos não-letais, um passo acima de simplesmente pedir a alguém que coopere com as instruções. Tanto o cego-elétrico quanto o desabilitador são capazes de limitar o movimento de um agressor, enquanto as algemas podem ser aplicadas para negar a um criminoso movimento livre e acesso às suas mãos.
   <Box>
     <GuideEntityEmbed Entity="Stunbaton"/>
     <GuideEntityEmbed Entity="Handcuffs"/>
@@ -23,17 +23,17 @@ First we have non-lethals a step above simply telling someone to cooperate with 
   </Box>
 
 ## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
+[color=#a4885c]Flashes[/color] são uma ferramenta eficaz para dispersar multidões e apreender alvos particularmente evasivos, com uma grande área de efecto cegando todos aqueles sem proteção.
+Vale a pena notar que os flashes podem ser usados tanto em uma grande área (atalho [color=yellow]Z[/color]) quanto se você atacar alguém com ele enquanto o [color=red]modo nocivo[/color] está ativo. É importante notar que flashes localizados duram [color=yellow]2,5[/color] vezes mais do que os de grande área.
+A [color=#cb0000]Segurança[/color] e [color=#a4885c]alguns[/color] outros membros da tripulação têm proteção ocular contra flashbangs e flashes.
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
     <GuideEntityEmbed Entity="GrenadeFlashBang"/>
   </Box>
-  
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substancial fire against any who would stand against the station.
+
+## Letais
+Se a situação exigir, a [color=#cb0000]Segurança[/color] tem acesso a rifles a laser, escopetas, pistolas e rifles automáticos capazes de disparar substancialmente contra qualquer um que se oponha à estação.
   <Box>
     <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
     <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>

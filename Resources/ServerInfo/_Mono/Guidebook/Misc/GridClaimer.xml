@@ -1,20 +1,20 @@
 <Document>
-  # Claiming Debris
+  # Reivindicando Detritos
   <Box>
     <GuideEntityEmbed Entity="BannerNGC"/>
     <GuideEntityEmbed Entity="BannerSHM"/>
     <GuideEntityEmbed Entity="BannerNanotrasen"/>
     <GuideEntityEmbed Entity="BannerCargo"/>
   </Box>
-  Sometimes, you might want to make a wreck or an asteroid into your new home.
-  Unfortunately, if you try to do just that, you will find that if you go away from it, it will very likely get permanently lost.
+  Às vezes, você pode querer transformar um naufrágio ou um asteroide em sua nova casa.
+  Infelizmente, se você tentar fazer apenas isso, descobrirá que, se se afastar dele, ele muito provavelmente será perdido permanentemente.
 
-  Banners can help you avoid that.
-  Interact with the banner to claim the grid (make sure the banner is anchored and stays anchored!), preventing it from despawning even when you go away.
-  If you're done with the grid, interact with the banner again.
+  Banners podem ajudá-lo a evitar isso.
+  Interaja com o banner para reivindicar a grade (certifique-se de que o banner está ancorado e permaneça ancorado!), impedindo que ele desapareça mesmo quando você se afastar.
+  Se você terminou com a grade, interaja com o banner novamente.
 
-  The following grids may be claimed:
-  - Event grids (VGroids, unidentified vessels, etc.)
-  - Debris
-  - Asteroids
+  As seguintes grades podem ser reivindicadas:
+  - Grades de evento (VGroids, embarcações não identificadas, etc.)
+  - Detritos
+  - Asteroides
 </Document>

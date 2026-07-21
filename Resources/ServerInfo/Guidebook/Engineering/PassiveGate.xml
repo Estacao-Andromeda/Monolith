@@ -1,15 +1,15 @@
-﻿<Document>
-  # Passive Gate
-  The passive gate is a simple one-way valve that prevents gasses from flowing backwards.
+<Document>
+  # Porta Passiva
+  A porta passiva é uma válvula simples de mão única que impede que os gases fluam para trás.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveGate"/>
   </Box>
 
-  The valve's input is on the side of the [color=red]red[/color] circle.
-  The valve also shows the current flow rate of the pipe when examined.
+  A entrada da válvula fica no lado do círculo [color=red]vermelho[/color].
+  A válvula também mostra a taxa de fluxo atual do tubo quando examinada.
 
-  It's useful in many applications, for example:
-  - Preventing a pure gas from getting contaminated via a mixed gas flowing back through the pipe.
-  - Preventing pressure or temperature changes across two [textlink="pipenets" link="PipeNetworks"] in the opposite direction.
-  - Quickly checking the flow rate on a pipenet without needing a [textlink="gas analyzer" link="AtmosTools"].
+  Ela é útil em muitas aplicações, por exemplo:
+  - Impedir que um gás puro seja contaminado por um gás misto fluindo de volta através do tubo.
+  - Impedir mudanças de pressão ou temperatura entre duas [textlink="redes de tubos" link="PipeNetworks"] na direção oposta.
+  - Verificar rapidamente a taxa de fluxo em uma rede de tubos sem precisar de um [textlink="analisador de gás" link="AtmosTools"].
 </Document>

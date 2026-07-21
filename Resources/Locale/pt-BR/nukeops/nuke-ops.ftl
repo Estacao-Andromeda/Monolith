@@ -1,0 +1,2 @@
+nuke-ops-no-more-threat-announcement-shuttle-call = Com base em nossos escaneamentos de sensores de longo alcance, a ameaça nuclear foi eliminada. Chamaremos a nave de emergência que chegará em breve. ETA: {$time} {$units}. Você pode recuar a nave para estender o turno.
+nuke-ops-no-more-threat-announcement = Com base em nossos escaneamentos de sensores de longo alcance, a ameaça nuclear foi eliminada. A nave já foi chamada.

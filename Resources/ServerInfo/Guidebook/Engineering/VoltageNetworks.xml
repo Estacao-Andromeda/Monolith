@@ -1,9 +1,9 @@
-﻿<Document>
-  # Voltage Networks
-  In Space Station 14, power distribution is divided into three separate voltage networks.
-  These networks are the [color=green]Low Voltage[/color] Network, the [color=Yellow]Medium Voltage[/color] Network, and the [color=orange]High Voltage[/color] Network.
+<Document>
+  # Redes de Voltagem
+  No Space Station 14, a distribuição de energia é dividida em três redes de voltagem separadas.
+  Estas redes são a Rede de [color=green]Baixa Voltagem[/color], a Rede de [color=Yellow]Média Voltagem[/color], e a Rede de [color=orange]Alta Voltagem[/color].
 
-  These networks power different types of machinery on the station.
+  Estas redes alimentam diferentes tipos de maquinário na estação.
 
   <Box>
     <GuideEntityEmbed Entity="CableHVStack"/>
@@ -11,8 +11,8 @@
     <GuideEntityEmbed Entity="CableApcStack"/>
   </Box>
 
-  ## Low Voltage Network
-  The [color=green]Low Voltage[/color] Network is used for powering almost all small machines on the station. This includes things like lights, computers, and other small devices.
+  ## Rede de Baixa Voltagem
+  A Rede de [color=green]Baixa Voltagem[/color] é usada para alimentar quase todas as máquinas pequenas na estação. Isso inclui coisas como luzes, computadores e outros pequenos dispositivos.
 
   <Box>
     <GuideEntityEmbed Entity="PoweredSmallLight" Caption=""/>
@@ -24,18 +24,18 @@
     <GuideEntityEmbed Entity="AlwaysPoweredWallLight" Caption=""/>
   </Box>
 
-  [color=green]Low Voltage[/color] power is provided by APCs, which are wall-mounted devices that convert power from the [color=Yellow]Medium Voltage[/color] Network to [color=green]Low Voltage[/color].
+  A energia de [color=green]Baixa Voltagem[/color] é fornecida por APCs, que são dispositivos montados na parede que convertem energia da Rede de [color=Yellow]Média Voltagem[/color] para [color=green]Baixa Voltagem[/color].
 
   <Box>
     <GuideEntityEmbed Entity="APCBasic"/>
   </Box>
 
-  [color=green]Low Voltage[/color] wire doesn't have to be directly run to every machine, as it can power multiple machines as long as the wire is close enough to the machine.
-  It can power machines within 2 tiles radially, and 3 tiles in each cardinal direction.
+  O cabo de [color=green]Baixa Voltagem[/color] não precisa ser conectado diretamente a cada máquina, pois pode alimentar múltiplas máquinas desde que o cabo esteja próximo o suficiente da máquina.
+  Pode alimentar máquinas dentro de 2 tiles radialmente, e 3 tiles em cada direção cardinal.
 
-  ## Medium Voltage Network
-  The [color=Yellow]Medium Voltage[/color] Network is used for powering APCs and other power-hungry machinery that can only accept [color=Yellow]Medium Voltage[/color] power.
-  The Particle Accelerator is an example, as it operates on [color=Yellow]Medium Voltage[/color] power.
+  ## Rede de Média Voltagem
+  A Rede de [color=Yellow]Média Voltagem[/color] é usada para alimentar APCs e outro maquinário com alta demanda de energia que só aceita energia de [color=Yellow]Média Voltagem[/color].
+  O Acelerador de Partículas é um exemplo, pois opera com energia de [color=Yellow]Média Voltagem[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ParticleAcceleratorEndCap" Caption="" Margin="0"/>
@@ -58,12 +58,12 @@
   </Box>
 
   <Box>
-    [color=#999999][italic]The Particle Accelerator[italic][/color]
+    [color=#999999][italic]O Acelerador de Partículas[italic][/color]
   </Box>
 
-  [color=Yellow]Medium Voltage[/color] power is provided by Substations, which are large machines that convert power from the [color=Orange]High Voltage[/color] Network to [color=Yellow]Medium Voltage[/color].
+  A energia de [color=Yellow]Média Voltagem[/color] é fornecida por Subestações, que são máquinas grandes que convertem energia da Rede de [color=Orange]Alta Voltagem[/color] para [color=Yellow]Média Voltagem[/color].
 
-  There are also wallmount variants of these substations for compact spaces, like shuttles.
+  Também existem variantes de parede dessas subestações para espaços compactos, como navetas.
   <Box HorizontalAlignment="Stretch">
     <Box>
       <GuideEntityEmbed Entity="SubstationBasic"/>
@@ -73,10 +73,10 @@
     </Box>
   </Box>
 
-  ## High Voltage Network
-  The [color=Orange]High Voltage[/color] Network is used for moving large amount of power across the station. It is used to power most power handling equipment, such as SMES units and Substations.
+  ## Rede de Alta Voltagem
+  A Rede de [color=Orange]Alta Voltagem[/color] é usada para mover grandes quantidades de energia através da estação. É usada para alimentar a maioria dos equipamentos de gerenciamento de energia, como unidades SMES e Subestações.
 
-  Most high-output generators output power to the [color=Orange]High Voltage[/color] Network.
+  A maioria dos geradores de alta saída produzem energia para a Rede de [color=Orange]Alta Voltagem[/color].
 
   <Box>
     <GuideEntityEmbed Entity="SMESBasic"/>
@@ -85,11 +85,11 @@
     <GuideEntityEmbed Entity="SubstationBasic"/>
   </Box>
 
-  ## Shock Damage
-  If you are shocked by a cable carrying power, you will take damage. The amount of damage you take is based on the voltage of the cable that shocked you.
+  ## Dano de Choque
+  Se você for chocar por um cabo carregando energia, você sofrerá dano. A quantidade de dano que você sofre é baseada na voltagem do cabo que te chocou.
 
-  [color=green]Low Voltage[/color] cables will deal less damage than [color=Yellow]Medium Voltage[/color] cables, which will deal less damage than [color=Orange]High Voltage[/color] cables.
+  Cabos de [color=green]Baixa Voltagem[/color] causarão menos dano que cabos de [color=Yellow]Média Voltagem[/color], que causarão menos dano que cabos de [color=Orange]Alta Voltagem[/color].
 
-  Energized [color=Orange]High Voltage[/color] and [color=Yellow]Medium Voltage[/color] cabling hurts, so be sure to wear insulated gloves when working with it.
+  Cabos energizados de [color=Orange]Alta Voltagem[/color] e [color=Yellow]Média Voltagem[/color] machucam, então tenha certeza de usar luvas isoladas ao trabalhar com eles.
 
 </Document>

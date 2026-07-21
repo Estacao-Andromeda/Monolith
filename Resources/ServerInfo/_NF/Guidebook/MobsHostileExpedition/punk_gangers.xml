@@ -1,108 +1,108 @@
 <Document>
   # Punks
-  
-  Undesirable squatters in abandoned NT property, these punks wreak havoc, litter the surroundings, indulge in substance abuse, and generally damage property in the name of having a good time.
-  
+
+  Ocupantes indesejáveis em propriedades abandonadas da NT, estes punks causam estragos, espalham lixo ao redor, entregam-se ao abuso de substâncias, e geralmente danificam propriedades em nome de se divertir.
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
+
+  # Variantes Conhecidas
   # "Punks"
-  
-  "Criminally-inclined individuals", as NT Security documents call them, these are armed with a variety of weapons. These weapons range from makeshift shivs and machined truncheons to rusty pistols and shotguns. Some may be armored, so plan appropriately.
-  
+
+  "Indivíduos criminalmente inclinados", como documentos de Segurança da NT os chamam, estes estão armados com uma variedade de armas. Estas armas variam de adagas improvisadas e cacetes usinados a pistolas enferrujadas e escopetas. Alguns podem estar blindados, então planeje adequadamente.
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerMeleeT1" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 12 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]um humano médio pode correr a 4.5 m/s e caminhar a 2.5 m/s.[/italic]
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerMeleeT2" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=orange]Explosion[/color] 10% (punk armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%; [color=orange]Explosão[/color] 10% (armadura punk)
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerMeleeT3" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 18 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] 10%; [color=yellow]Piercing[/color] 60%; [color=orange]Heat[/color] 10%; [color=orange]Explosion[/color] 20% (punk heavy armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 18 [color=red]Contundente[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] 10%; [color=yellow]Perfurante[/color] 60%; [color=orange]Calor[/color] 10%; [color=orange]Explosão[/color] 20% (armadura pesada punk)
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] nenhuma
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerPistol" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (mk 58)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=yellow]Perfurante[/color] (cartucho .35)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (mk 58)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerShotgun" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10-60 [color=yellow]Piercing[/color] (10 per shotgun pellet)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (shotgun)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 10-60 [color=yellow]Perfurante[/color] (10 por cartucho de escopeta)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] nenhuma
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (escopeta)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerSmg" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=orange]Explosion[/color] 10% (punk armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (drozd)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 16 [color=yellow]Perfurante[/color] (cartucho .35)
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] e [color=yellow]Perfurante[/color] 25%; [color=orange]Calor[/color] 20%; [color=orange]Cáustico[/color] 10%; [color=orange]Explosão[/color] 10% (armadura punk)
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (drozd)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Punk gang leader"
-  
-  It takes a formidable figure to lead a pack of street trash. These leaders usually wield scavenged SMGs and wear armor taken from unfortunate security forces. Usually high on meth and booze.
-  
+
+  # "Líder de gangue punk"
+
+  Leva uma figura formidável para liderar uma matilha de lixo de rua. Estes líderes geralmente empunham SMGs recuperados e usam armadura tomada de forças de segurança infelizes. Geralmente sob efeito de metanfetamina e álcool.
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerLeader" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=orange]Heat[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] 10%; [color=yellow]Piercing[/color] 60%; [color=orange]Heat[/color] 10%; [color=orange]Explosion[/color] 20% (punk heavy armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (laser rifle)
-  
+  - [bold][color=#a4885c]Limites de saúde:[/color][/bold] 100 (crítico), 140 (morte)
+  - [bold][color=#a4885c]Velocidade de corrida:[/color][/bold] 4 m/s
+  - [bold][color=#a4885c]Dano (tipo):[/color][/bold] 17 [color=orange]Calor[/color]
+  - [bold][color=#a4885c]Resistências a dano:[/color][/bold] [color=red]Contundente[/color], [color=red]Corte[/color] 10%; [color=yellow]Perfurante[/color] 60%; [color=orange]Calor[/color] 10%; [color=orange]Explosão[/color] 20% (armadura pesada punk)
+  - [bold][color=#a4885c]Habilidades especiais:[/color][/bold] Atirador (rifle laser)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # Objetivos da Missão
+  ## Eliminação
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerLeader"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]punk gang leader[/color] within given time constraints to earn a monetary reward.
-  
-  ## Destruction
+  Elimine uma criatura grande e perigosa - um [color=#a4885c]líder de gangue punk[/color] dentro do tempo limite para ganhar uma recompensa monetária.
+
+  ## Destruição
   <Box>
   <GuideEntityEmbed Entity="PunkPartySupplies"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]party supplies[/color] within given time constraints to earn a monetary reward.
+  Destrua um certo número de [color=#a4885c]suprimentos de festa[/color] dentro do tempo limite para ganhar uma recompensa monetária.
 </Document>

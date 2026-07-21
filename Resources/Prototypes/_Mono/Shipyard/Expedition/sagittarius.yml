@@ -3,8 +3,8 @@
 - type: vessel
   id: Sagittarius
   parent: BaseVessel
-  name: HT Sagittarius
-  description: The Sagittarius is the sirius' big brother, heavier firepower and more space while maintaing its chemistry bay.
+  name: vessel-Sagittarius-name
+  description: vessel-Sagittarius-desc
   price: 165000
   category: Large
   group: Expedition

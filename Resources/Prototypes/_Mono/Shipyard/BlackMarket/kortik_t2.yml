@@ -3,8 +3,8 @@
 - type: vessel
   id: KortikR
   parent: BaseVesselAntag
-  name: PDV-NCI Kortik-R
-  description: Converted from recently purchased & outdated USSP Kortik hulls. A heavily armored frigate, with multiple layers of reinforced plastitanium hull. Comes with a full medbay & chemlab, and equipped with 2 spinal R-300s, 2 HADES, 2 CYREXA, 4 Draupnirs, 4 VESPERAs, and 4 20mms. FULLY UNABLE TO USE SHIELD GENERATORS.
+  name: vessel-KortikR-name
+  description: vessel-KortikR-desc
   limit: 3
   hyperwarLimit: 4
   hyperwarTimelock: 1800

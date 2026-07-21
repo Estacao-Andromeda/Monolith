@@ -1,22 +1,22 @@
 - type: construction
-  name: shotgun trap
+  name: construction-ShotgunTrap-name
   id: ShotgunTrap
   graph: ShotgunTrap
   startNode: start
   targetNode: shotgunTrap
   category: construction-category-weapons
-  description: A makeshift 4-gauge shotgun hooked up to a remote signaler.
+  description: construction-ShotgunTrap-desc
   icon: { sprite: _Mono/Objects/Weapons/Traps/shotguntrap.rsi, state: shotgun_trap_handheld }
   objectType: Item
   
 - type: construction
-  name: pressure plate
+  name: construction-PressurePlateRecipe-name
   id: PressurePlateRecipe
   graph: PressurePlateGraph
   startNode: start
   targetNode: PressurePlateNode
   category: construction-category-utilities
-  description: A step triggered signaller.
+  description: construction-PressurePlateRecipe-desc
   icon:
     sprite: _Mono/Objects/Weapons/Traps/pressureplate.rsi
     state: pressure_plate

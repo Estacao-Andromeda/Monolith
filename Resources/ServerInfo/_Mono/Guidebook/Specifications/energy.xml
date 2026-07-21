@@ -1,41 +1,41 @@
 <Document>
-  # Energy Weapons Specifications
-  Notes:
-  - For munitions that accelerate over time (such as missiles), range is a rough estimate.
-  - For munitions that are fired at a static speed (such as normal weapons), range is simply just the launch velocity * projectile lifetime.
-  - RPS may not be accurate due to it being capped by server tick speed (usually 20 or 30 ticks/second).
-  - Rare guns such as ADS/NT/Syndicate shipguns will not be included.
+  # Especificações de Armas de Energia
+  Notas:
+  - Para munições que aceleram com o tempo (como mísseis), o alcance é uma estimativa aproximada.
+  - Para munições que são disparadas a uma velocidade estática (como armas normais), o alcance é simplesmente a velocidade de lançamento * tempo de vida do projétil.
+  - RPS pode não ser preciso devido a ser limitado pela velocidade de ticks do servidor (geralmente 20 ou 30 ticks/segundo).
+  - Armas raras como ADS/NT/Armas de nave do Sindicato não serão incluídas.
 
-  ## Specifications (as of 24-Oct-2025)
+  ## Especificações (a partir de 24-Out-2025)
   <Table Columns="7">
     <ColorBox>
       <Box>
-        Name
+        Nome
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Projectile Type
+        Tipo de Projétil
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Firerate
+        Cadência
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Munition Range
+        Alcance da Munição
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Velocity
+        Velocidade
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Size Class
+        Classe de Tamanho
       </Box>
     </ColorBox>
     <!--Marauder-->
@@ -56,7 +56,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        924 meters
+        924 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -66,7 +66,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Médio
       </Box>
     </ColorBox>
     <!--Autopulser-->
@@ -87,7 +87,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        777 meters
+        777 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -97,7 +97,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Heavy
+        Pesado
       </Box>
     </ColorBox>
     <!--Glassing beam-->
@@ -108,7 +108,7 @@
     </ColorBox>
     <ColorBox Color="#b58818">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        CONT. BEAM
+        FEIXE CONT.
       </Box>
     </ColorBox>
     <ColorBox Color="#5a9926">
@@ -118,7 +118,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        1680 meters
+        1680 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -128,7 +128,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Superheavy
+        Superpesado
       </Box>
     </ColorBox>
     <!--Rubicon-->
@@ -149,7 +149,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        924 meters
+        924 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -159,7 +159,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Médio
       </Box>
     </ColorBox>
     <!--DYMERE-->
@@ -180,7 +180,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        2500 meters
+        2500 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -190,7 +190,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Superheavy
+        Superpesado
       </Box>
     </ColorBox>
     <!--Phalanx-->
@@ -211,7 +211,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        400 meters
+        400 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -221,7 +221,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Light
+        Leve
       </Box>
     </ColorBox>
     <!--Apollo-->
@@ -242,7 +242,7 @@
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        600 meters
+        600 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -252,7 +252,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Heavy
+        Pesado
       </Box>
     </ColorBox>
   </Table>

@@ -3,8 +3,8 @@
 - type: vessel
   id: Europa
   parent: BaseVesselAntag
-  name: IDY Europa
-  description: A repurposed interdyne medical frigate, with a focus on broadside firepower and armor.
+  name: vessel-Europa-name
+  description: vessel-Europa-desc
   limit: 3
   hyperwarLimit: 5
   hyperwarTimelock: 1800
@@ -30,7 +30,7 @@
     Europa:
       gridComponents:
       - type: VesselInfo
-        description: "The Saturn's Sister ship."
+        description: vessel-Europa-desc
       stationProto: StandardFrontierVessel
       components:
         - type: StationNameSetup

@@ -1,27 +1,27 @@
 <Document>
-  # Central Galactic Bank
+  # Banco Galáctico Central
 
-As a contractor in the galaxy, you are licensed under the Central Galactic Bank. This permits you access to a persistent bank account.
-Money that you [bold]deposit[/bold] at an [color=#44cc00]ATM[/color] on the Colonial Outpost or any other ATM will be stored in your account.
+Como contratado na galáxia, você é licenciado pelo Banco Galáctico Central. Isso permite que você tenha acesso a uma conta bancária persistente.
+Dinheiro que você [bold]depositar[/bold] em um [color=#44cc00]caixa eletrônico[/color] no Posto Colonial ou em qualquer outro caixa eletrônico será armazenado na sua conta.
 
-## ATMs
+## Caixas Eletrônicos
   <Box>
     <GuideEntityEmbed Entity="ComputerBankATM"/>
     <GuideEntityEmbed Entity="SpaceCash1000"/>
   </Box>
-  You can access your personal bank account at any time to withdraw your hard-earned [color=#44cc00]Credits[/color] at any [color=#44cc00]Galactic Bank ATM[/color].
+  Você pode acessar sua conta bancária pessoal a qualquer momento para sacar seus [color=#44cc00]Créditos[/color] duramente conquistados em qualquer [color=#44cc00]Caixa Eletrônico do Banco Galáctico[/color].
 
-Any ATM that you find that isn't directly labelled [bold]withdraw only[/bold] lets you withdraw and deposit cash.
-Make sure you deposit your cash and sell off your ship before ending your shift!
+Qualquer caixa eletrônico que você encontrar que não esteja diretamente marcado como [bold]apenas saque[/bold] permite que você saque e deposite dinheiro.
+Certifique-se de depositar seu dinheiro e vender sua nave antes de encerrar seu turno!
 
-## Account Access
+## Acesso à Conta
   <Box>
     <GuideEntityEmbed Entity="VendingMachineAstroVend"/>
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
     <GuideEntityEmbed Entity="VendingMachineAmmo"/>
   </Box>
-  Your bank account can be used through [color=#44cc00]Galactic Bank ATMs[/color], [color=#44cc00]cargo computers[/color], and [color=#44cc00]vending machines[/color].
+  Sua conta bancária pode ser usada através de [color=#44cc00]Caixas Eletrônicos do Banco Galáctico[/color], [color=#44cc00]computadores de cargueiro[/color] e [color=#44cc00]máquinas de vendas[/color].
 
-When trading with other people, you'll usually deal in stacks of [color=#44cc00]Credits[/color].
-Be sure to deposit these at an [color=#44cc00]ATM[/color] before ending your shift.
+Ao negociar com outras pessoas, você geralmente lidará com pilhas de [color=#44cc00]Créditos[/color].
+Certifique-se de depositá-los em um [color=#44cc00]caixa eletrônico[/color] antes de encerrar seu turno.
 </Document>

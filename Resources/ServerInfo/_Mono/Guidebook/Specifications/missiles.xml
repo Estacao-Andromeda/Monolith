@@ -1,42 +1,42 @@
 <Document>
-  # Missile Weapons Specifications
-  Notes:
-  - Munition range & ammo capacity is taken from the standard magazine & ammunition that comes loaded with the weapon.
-  - For munitions that accelerate over time (such as missiles), range is a rough estimate.
-  - For munitions that are fired at a static speed (such as normal weapons), range is simply just the launch velocity * projectile lifetime.
-  - RPS may not be accurate due to it being capped by server tick speed (usually 20 or 30 ticks/second).
-  - Rare guns such as ADS/NT/Syndicate shipguns will not be included.
+  # Especificações de Armas de Mísseis
+  Notas:
+  - O alcance e capacidade de munição são baseados no carregador padrão e munição que vem carregado com a arma.
+  - Para munições que aceleram com o tempo (como mísseis), o alcance é uma estimativa aproximada.
+  - Para munições disparadas em velocidade estática (como armas normais), o alcance é simplesmente a velocidade de lançamento * tempo de vida do projétil.
+  - RPS pode não ser preciso por ser limitado pela velocidade de ticks do servidor (geralmente 20 ou 30 ticks/segundo).
+  - Armas raras como canhões de nave ADS/NT/Sindicato não estarão incluídas.
 
-  ## Specifications (as of 24-Oct-2025)
+  ## Especificações (a partir de 24-Out-2025)
   <Table Columns="7">
     <ColorBox>
       <Box>
-        Name
+        Nome
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Ammo Capacity
+        Capacidade de Munição
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Firerate
+        Cadência
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Munition Range (Estimated)
+        Alcance da Munição (Estimado)
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Max Velocity
+        Velocidade Máxima
       </Box>
     </ColorBox>
     <ColorBox>
       <Box>
-        Size Class
+        Classe de Tamanho
       </Box>
     </ColorBox>
     <!--Vanyk-->
@@ -52,12 +52,12 @@
     </ColorBox>
     <ColorBox Color="#5a9926">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        0.8 RPS
+        0,8 RPS
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        ~945 meters
+        ~945 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -67,7 +67,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Médio
       </Box>
     </ColorBox>
     <!--Vespera-->
@@ -114,12 +114,12 @@
     </ColorBox>
     <ColorBox Color="#5a9926">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        0.2 RPS
+        0,2 RPS
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        ~812 meters
+        ~812 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -129,13 +129,13 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Médio
       </Box>
     </ColorBox>
     <!--Torps-->
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        ASM-220 (HE TORP)
+        ASM-220 (TORP HE)
       </Box>
     </ColorBox>
     <ColorBox Color="#b58818">
@@ -145,12 +145,12 @@
     </ColorBox>
     <ColorBox Color="#5a9926">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        0.1 RPS
+        0,1 RPS
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        ~1747 meters
+        ~1747 metros
       </Box>
     </ColorBox>
     <ColorBox Color="#8f2b65">
@@ -160,7 +160,7 @@
     </ColorBox>
     <ColorBox>
       <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="2">
-        Medium
+        Médio
       </Box>
     </ColorBox>
   </Table>

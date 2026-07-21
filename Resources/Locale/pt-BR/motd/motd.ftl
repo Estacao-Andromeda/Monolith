@@ -1,0 +1,11 @@
+cmd-motd-desc = Imprime ou define a Mensagem do Dia.
+cmd-motd-help = motd [ mensagem... ]
+cmd-get-motd-desc = Imprime a Mensagem do Dia.
+cmd-get-motd-help = get-motd
+cmd-set-motd-desc = Define ou limpa a Mensagem do Dia.
+cmd-set-motd-help = set-motd [ mensagem... ]
+cmd-set-motd-hint-head = [ mensagem... ]
+cmd-set-motd-hint-cont = [ ...mensagem... ]
+cmd-set-motd-cleared-motd-message = Limpe a Mensagem do Dia.
+cmd-set-motd-set-motd-message = Definiu a Mensagem do Dia para "{$motd}".
+motd-wrap-message = Mensagem do Dia: {$motd}
