@@ -36,7 +36,7 @@ public sealed partial class GameMapPrototype : IPrototype
     /// Name of the map to use in generic messages, localized.
     /// </summary>
     [ViewVariables(VVAccess.ReadOnly)]
-    public string MapName => Loc.GetString(_mapName);
+    public string MapName => _mapName.Id != null || _mapName != "" ? Loc.GetString(_mapName) : _mapName;
 
     /// <summary>
     /// Name of the map to use in generic messages, like the map vote.
