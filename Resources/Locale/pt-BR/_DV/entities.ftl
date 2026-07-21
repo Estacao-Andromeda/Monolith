@@ -212,6 +212,7 @@ ent-ActionSyrinxChangeVoiceMask = Definir nome
 # Abstract entity (referenceable by children)
 
 ent-MobHarpyBase = {ent-MobHarpy}
+    .desc = {ent-MobHarpy.desc}
 
 ent-MobHarpyDummy = {ent-MobHarpy}
     .desc = Um boneco de harpia destinado a ser usado na criação de personagem.
@@ -220,6 +221,7 @@ ent-MobHarpyDummy = {ent-MobHarpy}
 # Abstract entity (referenceable by children)
 
 ent-BaseMobRodentia = {ent-MobRodentia}
+    .desc = {ent-MobRodentia.desc}
 
 ent-MobRodentiaDummy = {ent-MobRodentia}
     .desc = Um boneco de roedor destinado a ser usado na criação de personagens.
@@ -228,6 +230,7 @@ ent-MobRodentiaDummy = {ent-MobRodentia}
 # Abstract entity (referenceable by children)
 
 ent-BaseMobVulpkanin = {ent-MobVulpkanin}
+    .desc = {ent-MobVulpkanin.desc}
 
 ent-MobVulpkaninDummy = {ent-MobVulpkanin}
     .desc = Um boneco de vulpkanin destinado a ser usado na criação de personagens.
@@ -340,26 +343,34 @@ ent-PaperStickyNotePink = {ent-PaperStickyNote}
 
 ent-PaperStickyNoteStack = pilha de notas adesivas
     .suffix = amarelo
+    .desc = Uma pilha de notas adesivas.
 
 ent-PaperStickyNoteStackBlue = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = azul
 
 ent-PaperStickyNoteStackFilled = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = amarelo, preenchido
 
 ent-PaperStickyNoteStackFilledBlue = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = azul, preenchido
 
 ent-PaperStickyNoteStackFilledGreen = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = verde, preenchido
 
 ent-PaperStickyNoteStackFilledPink = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = rosa, preenchido
 
 ent-PaperStickyNoteStackGreen = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = verde
 
 ent-PaperStickyNoteStackPink = {ent-PaperStickyNoteStack}
+    .desc = {ent-PaperStickyNoteStack.desc}
     .suffix = rosa
 
 # From: _DV/Entities/Objects/Specific/Hydroponics/plant_bag_holding.yml
@@ -478,6 +489,7 @@ ent-WoodenKegWine = barril de vinho
     .desc = Um barril de madeira velho e mofado, com uma torneira acoplada na frente. Cheira a vinho.
 
 ent-BluespaceOre1 = {ent-BluespaceOre}
+    .desc = {ent-BluespaceOre.desc}
     .suffix = Um
 
 ent-WindoorMailLocked = {ent-Windoor}

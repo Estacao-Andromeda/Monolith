@@ -359,11 +359,11 @@ ent-OrganMothStomach = estômago de mariposa
 # From: Body/Organs/rat.yml
 
 ent-OrganRatLungs = {ent-OrganHumanLungs}
-    .desc = { ent-OrganHumanLungs.desc }
+    .desc = {ent-OrganHumanLungs.desc}
     .suffix = rato
 
 ent-OrganRatStomach = {ent-OrganAnimalStomach}
-    .desc = { ent-OrganAnimalStomach.desc }
+    .desc = {ent-OrganAnimalStomach.desc}
     .suffix = rato
 
 # From: Body/Organs/slime.yml
@@ -715,7 +715,7 @@ ent-TorsoVox = torso de vox
 # From: Catalog/Fills/Backpacks/duffelbag.yml
 
 ent-ClothingBackpackChameleonFill = {ent-ClothingBackpackChameleon}
-    .desc = { ent-ClothingBackpackChameleon.desc }
+    .desc = {ent-ClothingBackpackChameleon.desc}
     .suffix = Reabastecido, Camaleão
 
 ent-ClothingBackpackDuffelSurgeryFilled = mochila de cirurgia
@@ -731,7 +731,7 @@ ent-ClothingBackpackDuffelSyndicateCarpSuit = mochila de traje de carpa
     .desc = Contém um traje de carpa e alguns amigos para brincar.
 
 ent-ClothingBackpackDuffelSyndicateCostumeClown = {ent-ClothingBackpackDuffelClown}
-    .desc = { ent-ClothingBackpackDuffelClown.desc }
+    .desc = {ent-ClothingBackpackDuffelClown.desc}
     .suffix = sindicato
 
 ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = pacote de isca
@@ -788,7 +788,7 @@ ent-ClothingBackpackDuffelZombieBundle = pacote de zumbi do Sindicato
 # From: Catalog/Fills/Books/bookshelf.yml
 
 ent-BookshelfFilled = {ent-Bookshelf}
-    .desc = { ent-Bookshelf.desc }
+    .desc = {ent-Bookshelf.desc}
     .suffix = preenchido aleatoriamente
 
 # From: Catalog/Fills/Boxes/ammunition.yml
@@ -923,15 +923,15 @@ ent-BoxHug = caixa de abraços
     .desc = Uma caixa especial para pessoas sensíveis.
 
 ent-BoxHugNitrogen = {ent-BoxHug}
-    .desc = { ent-BoxHug.desc }
+    .desc = {ent-BoxHug.desc}
     .suffix = Emergência N2
 
 ent-BoxMime = {ent-BoxSurvival}
-    .desc = { ent-BoxSurvival.desc }
+    .desc = {ent-BoxSurvival.desc}
     .suffix = Mimo, Emergência
 
 ent-BoxMimeNitrogen = {ent-BoxSurvival}
-    .desc = { ent-BoxSurvival.desc }
+    .desc = {ent-BoxSurvival.desc}
     .suffix = Mimo, Emergência N2
 
 ent-BoxSurvival = caixa de sobrevivência
@@ -943,7 +943,7 @@ ent-BoxSurvivalEngineering = caixa de sobrevivência de capacidade estendida
     .desc = É uma caixa com internos básicos dentro. Esta está rotulada para conter um tanque de capacidade estendida.
 
 ent-BoxSurvivalEngineeringNitrogen = {ent-BoxSurvivalEngineering}
-    .desc = { ent-BoxSurvivalEngineering.desc }
+    .desc = {ent-BoxSurvivalEngineering.desc}
     .suffix = Estendida N2
 
 ent-BoxSurvivalMedical = caixa de sobrevivência
@@ -951,11 +951,11 @@ ent-BoxSurvivalMedical = caixa de sobrevivência
     .desc = É uma caixa com internos básicos dentro.
 
 ent-BoxSurvivalMedicalNitrogen = {ent-BoxSurvivalMedical}
-    .desc = { ent-BoxSurvivalMedical.desc }
+    .desc = {ent-BoxSurvivalMedical.desc}
     .suffix = Médica N2
 
 ent-BoxSurvivalNitrogen = {ent-BoxSurvival}
-    .desc = { ent-BoxSurvival.desc }
+    .desc = {ent-BoxSurvival.desc}
     .suffix = Padrão N2
 
 ent-BoxSurvivalSecurity = caixa de sobrevivência
@@ -963,7 +963,7 @@ ent-BoxSurvivalSecurity = caixa de sobrevivência
     .desc = É uma caixa com internos básicos dentro.
 
 ent-BoxSurvivalSecurityNitrogen = {ent-BoxSurvivalSecurity}
-    .desc = { ent-BoxSurvivalSecurity.desc }
+    .desc = {ent-BoxSurvivalSecurity.desc}
     .suffix = Segurança N2
 
 ent-BoxSurvivalSyndicate = caixa de sobrevivência de capacidade estendida
@@ -971,7 +971,7 @@ ent-BoxSurvivalSyndicate = caixa de sobrevivência de capacidade estendida
     .desc = É uma caixa com internos básicos dentro. Esta está rotulada para conter um tanque de capacidade estendida.
 
 ent-BoxSurvivalSyndicateNitrogen = {ent-BoxSurvivalSyndicate}
-    .desc = { ent-BoxSurvivalSyndicate.desc }
+    .desc = {ent-BoxSurvivalSyndicate.desc}
     .suffix = Sindicato N2
 
 # From: Catalog/Fills/Boxes/general.yml
@@ -1019,7 +1019,7 @@ ent-BoxHeadset = caixa de headset
     .desc = Uma caixa de headsets sobressalentes de passageiro.
 
 ent-BoxHugHealing = {ent-BoxHug}
-    .desc = { ent-BoxHug.desc }
+    .desc = {ent-BoxHug.desc}
     .suffix = Médica
 
 ent-BoxID = caixa de cartões de ID
@@ -1392,7 +1392,7 @@ ent-CrateFunParty = caixote de festa
     .desc = Uma festa inteira esperando por você para abrir. Inclui favores de festa, bebidas festivas, e até mesmo um bolo.
 
 ent-CrateFunPirate = {ent-CratePirate}
-    .desc = { ent-CratePirate.desc }
+    .desc = {ent-CratePirate.desc}
     .suffix = Reabastecido
 
 ent-CrateFunPlushie = caixote de pelúcia
@@ -1405,7 +1405,7 @@ ent-CrateFunSyndicateSegway = caixote de segway do Sindicato
     .desc = Um caixote contendo uma bicicleta de duas rodas que vai ajudá-lo a escapar dos oficiais de segurança. Ou não.
 
 ent-CrateFunToyBox = {ent-CrateToyBox}
-    .desc = { ent-CrateToyBox.desc }
+    .desc = {ent-CrateToyBox.desc}
     .suffix = Reabastecido
 
 ent-CrateFunWaterGuns = caixote de pistolas de água
@@ -1529,11 +1529,11 @@ ent-CrateNPCGorilla = caixote de gorila
     .desc = Um caixote contendo um único gorila.
 
 ent-CrateNPCHamlet = {ent-CrateRodentCage}
-    .desc = { ent-CrateRodentCage.desc }
+    .desc = {ent-CrateRodentCage.desc}
     .suffix = Hamlet
 
 ent-CrateNPCHamster = {ent-CrateRodentCage}
-    .desc = { ent-CrateRodentCage.desc }
+    .desc = {ent-CrateRodentCage.desc}
     .suffix = Reabastecido
 
 ent-CrateNPCKangaroo = caixote de canguru
@@ -1725,7 +1725,6 @@ ent-BaseWhistle = apito
     .desc = Alguém esqueceu de desligar a chaleira?
 
 ent-SecurityWhistle = {ent-BaseWhistle}
-    .desc = { ent-BaseWhistle.desc }
     .desc = O som dele faz você sentir medo.
 
 ent-SyndicateWhistle = apito de trincheira
@@ -1763,25 +1762,25 @@ ent-ShardCrystalBase = fragmento de cristal
     .desc = Um pequeno pedaço de cristal.
 
 ent-ShardCrystalBlue = fragmento de cristal azul
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 ent-ShardCrystalCyan = fragmento de cristal ciano
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 ent-ShardCrystalGreen = fragmento de cristal verde
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 ent-ShardCrystalOrange = fragmento de cristal laranja
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 ent-ShardCrystalPink = fragmento de cristal rosa
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 ent-ShardCrystalRandom = fragmento de cristal aleatório
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 ent-ShardCrystalRed = fragmento de cristal vermelho
-    .desc = { ent-ShardCrystalBase.desc }
+    .desc = {ent-ShardCrystalBase.desc}
 
 # From: Entities/Objects/Materials/ingots.yml
 # Abstract entity (referenceable by children)
@@ -1791,19 +1790,19 @@ ent-IngotBase = barra de metal
 
 ent-IngotGold = barra de ouro
     .suffix = Completa
-    .desc = { ent-IngotBase.desc }
+    .desc = {ent-IngotBase.desc}
 
 ent-IngotGold1 = barra de ouro
     .suffix = Única
-    .desc = { ent-IngotGold.desc }
+    .desc = {ent-IngotGold.desc}
 
 ent-IngotSilver = barra de prata
     .suffix = Completa
-    .desc = { ent-IngotBase.desc }
+    .desc = {ent-IngotBase.desc}
 
 ent-IngotSilver1 = barra de prata
     .suffix = Única
-    .desc = { ent-IngotSilver.desc }
+    .desc = {ent-IngotSilver.desc}
 
 # From: Entities/Objects/Materials/materials.yml
 
@@ -1812,7 +1811,7 @@ ent-MaterialBananium = banânio
     .desc = Uma pedra rica em honk. Ingerir té fará buzinar.
 
 ent-MaterialBananium1 = {ent-MaterialBananium}
-    .desc = { ent-MaterialBananium.desc }
+    .desc = {ent-MaterialBananium.desc}
     .suffix = Único
 
 # Abstract entity (referenceable by children)
@@ -1822,30 +1821,30 @@ ent-MaterialBase = material
 
 ent-MaterialBiomass = biomassa
     .suffix = Completa
-    .desc = { ent-MaterialBase.desc }
+    .desc = {ent-MaterialBase.desc}
 
 ent-MaterialBiomass1 = {ent-MaterialBiomass}
-    .desc = { ent-MaterialBiomass.desc }
+    .desc = {ent-MaterialBiomass.desc}
     .suffix = Única
 
 ent-MaterialBones = ossos
     .suffix = Completo
-    .desc = { ent-MaterialBase.desc }
+    .desc = {ent-MaterialBase.desc}
 
 ent-MaterialBones1 = {ent-MaterialBones}
-    .desc = { ent-MaterialBones.desc }
+    .desc = {ent-MaterialBones.desc}
     .suffix = 1
 
 ent-MaterialCardboard = papelão
     .suffix = Completo
-    .desc = { ent-MaterialBase.desc }
+    .desc = {ent-MaterialBase.desc}
 
 ent-MaterialCardboard1 = {ent-MaterialCardboard}
-    .desc = { ent-MaterialCardboard.desc }
+    .desc = {ent-MaterialCardboard.desc}
     .suffix = Único
 
 ent-MaterialCardboard10 = {ent-MaterialCardboard}
-    .desc = { ent-MaterialCardboard.desc }
+    .desc = {ent-MaterialCardboard.desc}
     .suffix = 10
 
 ent-MaterialCloth = tecido
@@ -1853,11 +1852,11 @@ ent-MaterialCloth = tecido
     .suffix = Completo
 
 ent-MaterialCloth1 = {ent-MaterialCloth}
-    .desc = { ent-MaterialCloth.desc }
+    .desc = {ent-MaterialCloth.desc}
     .suffix = Único
 
 ent-MaterialCloth10 = {ent-MaterialCloth}
-    .desc = { ent-MaterialCloth.desc }
+    .desc = {ent-MaterialCloth.desc}
     .suffix = 10
 
 ent-MaterialCotton = algodão
@@ -1865,14 +1864,14 @@ ent-MaterialCotton = algodão
     .desc= Algodão pronto para ser refinado em tecido.
 
 ent-MaterialCotton1 = {ent-MaterialCotton}
-    .desc = { ent-MaterialCotton.desc }
+    .desc = {ent-MaterialCotton.desc}
     .suffix = Único
 
 ent-MaterialDiamond = diamante refinado
     .suffix = Completo
 
 ent-MaterialDiamond1 = {ent-MaterialDiamond}
-    .desc = { ent-MaterialDiamond.desc }
+    .desc = {ent-MaterialDiamond.desc}
     .suffix = Único
 
 ent-MaterialDurathread = durafio
@@ -1880,7 +1879,7 @@ ent-MaterialDurathread = durafio
     .desc = Tecido de algodão fortalecido com plástico. Possui uma boa durabilidade.
 
 ent-MaterialDurathread1 = {ent-MaterialDurathread}
-    .desc = { ent-MaterialDurathread.desc }
+    .desc = {ent-MaterialDurathread.desc}
     .suffix = Único
 
 ent-MaterialGoliathHide = placas de couro de golias
@@ -1888,7 +1887,7 @@ ent-MaterialGoliathHide = placas de couro de golias
     .desc = Pedaços do couro rochoso de um golias, estes podem ser capazes de tornar seu traje um pouco mais durável contra ataques da fauna local.
 
 ent-MaterialGoliathHide1 = {ent-MaterialGoliathHide}
-    .desc = { ent-MaterialGoliathHide.desc }
+    .desc = {ent-MaterialGoliathHide.desc}
     .suffix = 1
 
 ent-MaterialGunpowder = pólvora
@@ -1903,7 +1902,7 @@ ent-MaterialPyrotton = piroton
     .suffix = Completo
 
 ent-MaterialPyrotton1 = {ent-MaterialPyrotton}
-    .desc = { ent-MaterialPyrotton.desc }
+    .desc = {ent-MaterialPyrotton.desc}
     .suffix = Único
 
 ent-MaterialToothSharkminnow = dente de sharkminnow
@@ -1911,7 +1910,7 @@ ent-MaterialToothSharkminnow = dente de sharkminnow
     .desc = Parece afiado. Afiado o suficiente para furar o olho de alguém. Santo caralho, é grande.
 
 ent-MaterialToothSharkminnow1 = {ent-MaterialToothSharkminnow}
-    .desc = { ent-MaterialToothSharkminnow.desc }
+    .desc = {ent-MaterialToothSharkminnow.desc}
     .suffix = 1
 
 ent-MaterialToothSpaceCarp = dente de carpa espacial
@@ -1919,7 +1918,7 @@ ent-MaterialToothSpaceCarp = dente de carpa espacial
     .desc = Bem pequeno mas ainda bem perigoso. Você gosta mais deles quando não estão fincados em você.
 
 ent-MaterialToothSpaceCarp1 = {ent-MaterialToothSpaceCarp}
-    .desc = { ent-MaterialToothSpaceCarp.desc }
+    .desc = {ent-MaterialToothSpaceCarp.desc}
     .suffix = 1
 
 ent-MaterialWebSilk = seda
@@ -1927,22 +1926,22 @@ ent-MaterialWebSilk = seda
     .desc = Um material teioso.
 
 ent-MaterialWebSilk1 = {ent-MaterialWebSilk}
-    .desc = { ent-MaterialWebSilk.desc }
+    .desc = {ent-MaterialWebSilk.desc}
     .suffix = 1
 
 ent-MaterialWebSilk25 = {ent-MaterialWebSilk}
-    .desc = { ent-MaterialWebSilk.desc }
+    .desc = {ent-MaterialWebSilk.desc}
     .suffix = 25
 
 ent-MaterialWoodPlank = madeira
     .suffix = Completo
 
 ent-MaterialWoodPlank1 = {ent-MaterialWoodPlank}
-    .desc = { ent-MaterialWoodPlank.desc }
+    .desc = {ent-MaterialWoodPlank.desc}
     .suffix = Única
 
 ent-MaterialWoodPlank10 = {ent-MaterialWoodPlank}
-    .desc = { ent-MaterialWoodPlank.desc }
+    .desc = {ent-MaterialWoodPlank.desc}
     .suffix = 10
 
 # From: Entities/Objects/Materials/ore.yml
@@ -1951,40 +1950,40 @@ ent-BananiumOre = minério de banânio
     .suffix = Completo
 
 ent-BananiumOre1 = {ent-BananiumOre}
-    .desc = { ent-BananiumOre.desc }
+    .desc = {ent-BananiumOre.desc}
     .suffix = Único
 
 ent-Coal = carvão
     .suffix = Completo
 
 ent-Coal1 = {ent-Coal}
-    .desc = { ent-Coal.desc }
+    .desc = {ent-Coal.desc}
     .suffix = Único
 
 ent-Coal10 = {ent-Coal}
-    .desc = { ent-Coal.desc }
+    .desc = {ent-Coal.desc}
     .suffix = Dez
 
 ent-Coal15 = {ent-Coal}
-    .desc = { ent-Coal.desc }
+    .desc = {ent-Coal.desc}
     .suffix = Quinze
 
 ent-Coal5 = {ent-Coal}
-    .desc = { ent-Coal.desc }
+    .desc = {ent-Coal.desc}
     .suffix = Cinco
 
 ent-DiamondOre = minério de diamante
     .suffix = Completo
 
 ent-DiamondOre1 = {ent-DiamondOre}
-    .desc = { ent-DiamondOre.desc }
+    .desc = {ent-DiamondOre.desc}
     .suffix = Único
 
 ent-GoldOre = minério de ouro
     .suffix = Completo
 
 ent-GoldOre1 = {ent-GoldOre}
-    .desc = { ent-GoldOre.desc }
+    .desc = {ent-GoldOre.desc}
     .suffix = Único
 
 # Abstract entity (referenceable by children)
@@ -1996,11 +1995,11 @@ ent-PlasmaOre = minério de plasma
     .suffix = Completo
 
 ent-PlasmaOre1 = {ent-PlasmaOre}
-    .desc = { ent-PlasmaOre.desc }
+    .desc = {ent-PlasmaOre.desc}
     .suffix = Único
 
 ent-Salt1 = {ent-SaltOre}
-    .desc = { ent-SaltOre.desc }
+    .desc = {ent-SaltOre.desc}
     .suffix = Único
 
 ent-SaltOre = sal
@@ -2010,42 +2009,42 @@ ent-SilverOre = minério de prata
     .suffix = Completo
 
 ent-SilverOre1 = {ent-SilverOre}
-    .desc = { ent-SilverOre.desc }
+    .desc = {ent-SilverOre.desc}
     .suffix = Único
 
 ent-SpaceQuartz = quartzo espacial
     .suffix = Completo
 
 ent-SpaceQuartz1 = {ent-SpaceQuartz}
-    .desc = { ent-SpaceQuartz.desc }
+    .desc = {ent-SpaceQuartz.desc}
     .suffix = Único
 
 ent-SteelOre = minério de ferro
     .suffix = Completo
 
 ent-SteelOre1 = {ent-SteelOre}
-    .desc = { ent-SteelOre.desc }
+    .desc = {ent-SteelOre.desc}
     .suffix = Único
 
 ent-UraniumOre = minério de urânio
     .suffix = Completo
 
 ent-UraniumOre1 = {ent-UraniumOre}
-    .desc = { ent-UraniumOre.desc }
+    .desc = {ent-UraniumOre.desc}
     .suffix = Único
 
 # From: Entities/Objects/Materials/parts.yml
 
 ent-FloorTileItemDarkLingering0 = {ent-FloorTileItemDark}
-    .desc = { ent-FloorTileItemDark.desc }
+    .desc = {ent-FloorTileItemDark.desc}
     .suffix = Persistente, 0
 
 ent-FloorTileItemSteelLingering0 = {ent-FloorTileItemSteel}
-    .desc = { ent-FloorTileItemSteel.desc }
+    .desc = {ent-FloorTileItemSteel.desc}
     .suffix = Persistente, 0
 
 ent-FloorTileItemWhiteLingering0 = {ent-FloorTileItemWhite}
-    .desc = { ent-FloorTileItemWhite.desc }
+    .desc = {ent-FloorTileItemWhite.desc}
     .suffix = Persistente, 0
 
 ent-PartRodMetal = barra de metal
@@ -2053,23 +2052,23 @@ ent-PartRodMetal = barra de metal
     .desc = Barras de metal, usadas para expandir uma nave ou estação e em outras aplicações.
 
 ent-PartRodMetal1 = barra de metal
-    .desc = { ent-PartRodMetal.desc }
+    .desc = {ent-PartRodMetal.desc}
     .suffix = Única
 
 ent-PartRodMetal10 = barra de metal
-    .desc = { ent-PartRodMetal.desc }
+    .desc = {ent-PartRodMetal.desc}
     .suffix = 10
 
 ent-PartRodMetalLingering0 = {ent-PartRodMetal}
-    .desc = { ent-PartRodMetal.desc }
+    .desc = {ent-PartRodMetal.desc}
     .suffix = Persistente, 0
 
 ent-SheetPlasteelLingering0 = {ent-SheetPlasteel}
-    .desc = { ent-SheetPlasteel.desc }
+    .desc = {ent-SheetPlasteel.desc}
     .suffix = Persistente, 0
 
 ent-SheetPlasticLingering0 = {ent-SheetPlastic}
-    .desc = { ent-SheetPlastic.desc }
+    .desc = {ent-SheetPlastic.desc}
     .suffix = Persistente, 0
 
 # From: Entities/Objects/Materials/scrap.yml
@@ -2128,7 +2127,6 @@ ent-ScrapGeneratorFuelTank = tanque de combustível
     .desc = Um tanque de combustível de um gerador portátil. O indicador mostra que ainda tem um pouco de urânio.
 
 ent-ScrapGeneratorFuelTankPlasma = {ent-ScrapGeneratorFuelTank}
-    .desc = { ent-ScrapGeneratorFuelTank.desc }
     .suffix = Sucata, Plasma
     .desc = Um tanque de combustível de um gerador portátil. O indicador mostra que ainda tem um pouco de plasma.
 
@@ -2199,23 +2197,20 @@ ent-SheetClockworkGlass = vidro mecânico
     .desc = Uma chapa de vidro endurecido com latão, usado principalmente por entusiastas de estética mecânica e remanescentes de cultos ratvarianos.
 
 ent-SheetClockworkGlass1 = {ent-SheetClockworkGlass}
-    .desc = { ent-SheetClockworkGlass.desc }
-    .suffix = Único
     .desc = {ent-SheetClockworkGlass.desc}
+    .suffix = Único
 
 ent-SheetGlass = vidro
     .suffix = Completo
     .desc = {ent-SheetGlassBase.desc}
 
 ent-SheetGlass1 = {ent-SheetGlassBase}
-    .desc = { ent-SheetGlassBase.desc }
-    .suffix = Único
     .desc = {ent-SheetGlassBase.desc}
+    .suffix = Único
 
 ent-SheetGlass10 = {ent-SheetGlassBase}
-    .desc = { ent-SheetGlassBase.desc }
-    .suffix = 10
     .desc = {ent-SheetGlassBase.desc}
+    .suffix = 10
 
 # Abstract entity (referenceable by children)
 
@@ -2223,7 +2218,7 @@ ent-SheetGlassBase = vidro
     .desc = Uma chapa de vidro, usado frequentemente na estação em várias aplicações.
 
 ent-SheetGlassLingering0 = {ent-SheetGlassBase}
-    .desc = { ent-SheetGlassBase.desc }
+    .desc = {ent-SheetGlassBase.desc}
     .suffix = Persistente, 0
 
 ent-SheetPGlass = vidro de plasma
@@ -2231,44 +2226,39 @@ ent-SheetPGlass = vidro de plasma
     .desc = Uma chapa de vidro de plasma translúcido.
 
 ent-SheetPGlass1 = {ent-SheetPGlass}
-    .desc = { ent-SheetPGlass.desc }
-    .suffix = Único
     .desc = {ent-SheetPGlass.desc}
+    .suffix = Único
 
 ent-SheetRGlass = vidro reforçado
     .suffix = Completo
     .desc = Uma chapa de vidro reforçado.
 
 ent-SheetRGlass1 = {ent-SheetRGlass}
-    .desc = { ent-SheetRGlass.desc }
-    .suffix = Único
     .desc = {ent-SheetRGlass.desc}
+    .suffix = Único
 
 ent-SheetRPGlass = vidro de plasma reforçado
     .suffix = Completo
     .desc = Uma chapa de plasma translúcido reforçado.
 
 ent-SheetRPGlass1 = {ent-SheetRPGlass}
-    .desc = { ent-SheetRPGlass.desc }
-    .suffix = Único
     .desc = {ent-SheetRPGlass.desc}
+    .suffix = Único
 
 ent-SheetRUGlass = vidro de urânio reforçado
     .desc = Uma chapa de urânio reforçado.
 
 ent-SheetRUGlass1 = {ent-SheetRUGlass}
-    .desc = { ent-SheetRUGlass.desc }
-    .suffix = Único
     .desc = {ent-SheetRUGlass.desc}
+    .suffix = Único
 
 ent-SheetUGlass = vidro de urânio
     .suffix = Completo
     .desc = Uma chapa de vidro de urânio.
 
 ent-SheetUGlass1 = {ent-SheetUGlass}
-    .desc = { ent-SheetUGlass.desc }
-    .suffix = Único
     .desc = {ent-SheetUGlass.desc}
+    .suffix = Único
 
 # From: Entities/Objects/Materials/Sheets/metal.yml
 
@@ -2277,14 +2267,12 @@ ent-SheetBrass = latão
     .desc = Uma chapa de latão, usado principalmente por entusiastas de clockwork e remanescentes de cultos ratvarianos.
 
 ent-SheetBrass1 = {ent-SheetBrass}
-    .desc = { ent-SheetBrass.desc }
-    .suffix = Único
     .desc = {ent-SheetBrass.desc}
+    .suffix = Único
 
 ent-SheetBrass10 = {ent-SheetBrass}
-    .desc = { ent-SheetBrass.desc }
-    .suffix = 10
     .desc = {ent-SheetBrass.desc}
+    .suffix = 10
 
 # Abstract entity (referenceable by children)
 
@@ -2296,33 +2284,28 @@ ent-SheetPlasteel = plastiaço
     .desc = Uma chapa de metal reforçada, usado frequentemente na estação em várias aplicações.
 
 ent-SheetPlasteel1 = {ent-SheetPlasteel}
-    .desc = { ent-SheetPlasteel.desc }
-    .suffix = Único
     .desc = {ent-SheetPlasteel.desc}
+    .suffix = Único
 
 ent-SheetPlasteel10 = {ent-SheetPlasteel}
-    .desc = { ent-SheetPlasteel.desc }
-    .suffix = 10
     .desc = {ent-SheetPlasteel.desc}
+    .suffix = 10
 
 ent-SheetSteel = aço
     .suffix = Completo
     .desc = Uma chapa de metal, usado frequentemente na estação em várias aplicações.
 
 ent-SheetSteel1 = {ent-SheetSteel}
-    .desc = { ent-SheetSteel.desc }
-    .suffix = Único
     .desc = {ent-SheetSteel.desc}
+    .suffix = Único
 
 ent-SheetSteel10 = {ent-SheetSteel}
-    .desc = { ent-SheetSteel.desc }
-    .suffix = 10
     .desc = {ent-SheetSteel.desc}
+    .suffix = 10
 
 ent-SheetSteelLingering0 = {ent-SheetSteel}
-    .desc = { ent-SheetSteel.desc }
-    .suffix = Persistente, 0
     .desc = {ent-SheetSteel.desc}
+    .suffix = Persistente, 0
 
 # From: Entities/Objects/Materials/Sheets/other.yml
 
@@ -2331,7 +2314,6 @@ ent-MaterialSheetMeat = chapa de carne
     .desc = Uma chapa de carne. Grotesco.
 
 ent-MaterialSheetMeat1 = {ent-MaterialSheetMeat}
-    .desc = { ent-MaterialSheetMeat.desc }
     .suffix = Única
     .desc = {ent-MaterialSheetMeat}
 
@@ -2345,9 +2327,8 @@ ent-SheetPaper = papel
     .desc = Folhas de papel, específicas para diagramas.
 
 ent-SheetPaper1 = {ent-SheetPaper}
-    .desc = { ent-SheetPaper.desc }
-    .suffix = Único
     .desc = {ent-SheetPaper.desc}
+    .suffix = Único
 
 ent-SheetPlasma = plasma
     .suffix = Completo
@@ -2358,9 +2339,8 @@ ent-SheetPlasma1 = plasma
     .desc = {ent-SheetPlasma.desc}
 
 ent-SheetPlasma10 = {ent-SheetPlasma}
-    .desc = { ent-SheetPlasma.desc }
-    .suffix = 10
     .desc = {ent-SheetPlasma.desc}
+    .suffix = 10
 
 ent-SheetPlastic = plástico
     .suffix = Completo
@@ -2631,12 +2611,11 @@ ent-BookMedicalReferenceBook = livro de referência médica
     .desc = Um livro de referência sobre medicina escrito por um médico velho. A caligrafia mal é compreensível.
 
 ent-BookRandom = {ent-BookBase}
-    .desc = { ent-BookBase.desc }
     .suffix = visual aleatório
     .desc = Cada livro é único! O que está escondido neste?
 
 ent-BookRandomStory = {ent-BookBase}
-    .desc = { ent-BookBase.desc }
+    .desc = {ent-BookBase.desc}
     .suffix = visual aleatório, história aleatória
 
 ent-BookScientistsGuidebook = manual do cientista
@@ -2668,16 +2647,14 @@ ent-BrbSign = placa de volta já
 # Abstract entity (referenceable by children)
 
 ent-BriefcaseBase = {ent-BaseStorageItem}
-    .desc = { ent-BaseStorageItem.desc }
     .desc = Útil para carregar itens em suas mãos.
 
 ent-BriefcaseBrown = maleta marrom
     .desc = {ent-BriefcaseBase.desc}
 
 ent-BriefcaseSyndie = {ent-BriefcaseBrown}
-    .desc = { ent-BriefcaseBrown.desc }
+    .desc = {ent-BriefcaseBrown.desc}
     .suffix = Sindicato, Vazia
-    .desc = {ent-BriefcaseBase.desc}
 
 # From: Entities/Objects/Misc/broken_bottle.yml
 
@@ -2773,49 +2750,40 @@ ent-FloorCarpetItemRed = carpete
     .desc = Um lindo carpete.
 
 ent-FloorCarpetItemBlack = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Preto
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Preto
 
 ent-FloorCarpetItemBlue = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Azul
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Azul
 
 ent-FloorCarpetItemCyan = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Ciano
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Ciano
 
 ent-FloorCarpetItemGreen = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Verde
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Verde
 
 ent-FloorCarpetItemOrange = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Laranja
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Laranja
 
 ent-FloorCarpetItemPink = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Rosa
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Rosa
 
 ent-FloorCarpetItemPurple = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Roxo
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Roxo
 
 ent-FloorCarpetItemSkyBlue = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Azul Céu
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Azul Céu
 
 ent-FloorCarpetItemWhite = {ent-FloorCarpetItemRed}
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Branco
     .desc = {ent-FloorCarpetItemRed.desc}
+    .suffix = Branco
 
 # From: Entities/Objects/Misc/cds.yml
 
@@ -3133,7 +3101,6 @@ ent-BaseImplanter = implantador
 # Abstract entity (referenceable by children)
 
 ent-BaseImplantOnlyImplanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = Uma seringa descartável exclusivamente projetada para a injeção de implantes subcutâneos.
 
 # Abstract entity (referenceable by children)
@@ -3142,101 +3109,81 @@ ent-BaseImplantOnlyImplanterSyndi = implantador do Sindicato
     .desc = Uma seringa compacta descartável exclusivamente projetada para a injeção de implantes subcutâneos.
 
 ent-BikeHornImplanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = {ent-BaseImplanter.desc}
     .suffix = buzina de bicicleta
 
 ent-DeathAcidifierImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = acidificador da morte
 
 ent-DeathRattleImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = estertor da morte
 
 ent-DnaScramblerImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = embaralhador de DNA
 
 ent-EmpImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = EMP
 
 ent-FakeMindShieldImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = mindshield falso
 
 ent-FreedomImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = liberdade
 
 ent-Implanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = Uma seringa descartável exclusivamente projetada para a injeção e extração de implantes subcutâneos.
 
 ent-ImplanterAdmeme = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
-    .suffix = Admeme
     .desc = {ent-BaseImplanter.desc}
+    .suffix = Admeme
 
 ent-LightImplanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = {ent-BaseImplanter.desc}
     .suffix = luz
 
 ent-MacroBombImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = macro-bomba
 
 ent-MicroBombImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = micro-bomba
 
 ent-MindShieldImplanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = {ent-BaseImplanter.desc}
     .suffix = mindshield
 
 ent-RadioImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = rádio Sindicato
 
 ent-RadioImplanterCentcomm = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = {ent-BaseImplanter.desc}
     .suffix = rádio CentComm
 
 ent-SadTromboneImplanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = {ent-BaseImplanter.desc}
     .suffix = trombone triste
 
 ent-ScramImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = scram
 
 ent-StorageImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = armazenamento
 
 ent-TrackingImplanter = {ent-BaseImplanter}
-    .desc = { ent-BaseImplanter.desc }
     .desc = {ent-BaseImplanter.desc}
     .suffix = rastreamento
 
 ent-UplinkImplanter = {ent-BaseImplantOnlyImplanterSyndi}
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
     .desc = {ent-BaseImplantOnlyImplanterSyndi.desc}
     .suffix = uplink
 
@@ -3265,7 +3212,7 @@ ent-Kudzu = kudzu
     .desc = Uma planta de crescimento rápido perigosa. POR QUE VOCÊ ESTÁ PARANDO PARA OLHAR PARA ISSO?!
 
 ent-KudzuFlowerAngry = {ent-KudzuFlowerFriendly}
-    .desc = { ent-KudzuFlowerFriendly.desc }
+    .desc = {ent-KudzuFlowerFriendly.desc}
     .suffix = Raivoso, Anomalia Floral
 
 ent-KudzuFlowerFriendly = tapete floral
@@ -3277,7 +3224,7 @@ ent-ShadowKudzu = névoa escura
 ent-ShadowKudzuWeak = névoa
 
 ent-WeakKudzu = {ent-Kudzu}
-    .desc = { ent-Kudzu.desc }
+    .desc = {ent-Kudzu.desc}
     .suffix = Fraco
 
 # From: Entities/Objects/Misc/land_mine.yml
@@ -3349,11 +3296,11 @@ ent-BoxFolderBase = pasta
     .desc = Uma pasta cheia de papelada ultrassecreta.
 
 ent-BoxFolderBlack = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Preto
 
 ent-BoxFolderBlue = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Azul
 
 ent-BoxFolderCentCom = pasta do CentComm
@@ -3366,11 +3313,11 @@ ent-BoxFolderClipboard = prancheta
     .desc = A arma de escolha para aqueles na linha de frente da burocracia.
 
 ent-BoxFolderGreen = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Verde
 
 ent-BoxFolderGrey = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Cinza
 
 ent-BoxFolderNuclearCodes = pasta de códigos nucleares
@@ -3379,15 +3326,15 @@ ent-BoxFolderQmClipboard = prancheta digital de requisição
     .desc = Uma prancheta elétrica volumosa, preenchida com ordens de envio e detalhes de financiamento. Com tantos documentos comprometedores, você deveria mantê-la segura.
 
 ent-BoxFolderRed = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Vermelha
 
 ent-BoxFolderWhite = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Branca
 
 ent-BoxFolderYellow = {ent-BoxFolderBase}
-    .desc = { ent-BoxFolderBase.desc }
+    .desc = {ent-BoxFolderBase.desc}
     .suffix = Amarela
 
 ent-Envelope = envelope
@@ -3396,7 +3343,7 @@ ent-Envelope = envelope
 ent-NukeCodePaper = códigos de autenticação nuclear
 
 ent-NukeCodePaperStation = {ent-NukeCodePaper}
-    .desc = { ent-NukeCodePaper.desc }
+    .desc = {ent-NukeCodePaper.desc}
     .suffix = Apenas Estação
 
 ent-Paper = papel
@@ -3537,57 +3484,46 @@ ent-SpaceCash = créditos
     .desc = Créditos Padrão Veridian, a força vital da galáxia! Mais comumente referidos como "Créditos", são impressos emitidos pelo Veridian Emerald Bank, o maior banco da galáxia.
 
 ent-SpaceCash10 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 10
 
 ent-SpaceCash100 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 100
 
 ent-SpaceCash1000 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 1000
 
 ent-SpaceCash10000 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 10000
 
 ent-SpaceCash1000000 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 1000000
 
 ent-SpaceCash20000 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 20000
 
 ent-SpaceCash2500 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 2500
 
 ent-SpaceCash30000 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 30000
 
 ent-SpaceCash500 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 500
 
 ent-SpaceCash5000 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 5000
 
 ent-SpaceCash7500 = {ent-SpaceCash}
-    .desc = { ent-SpaceCash.desc }
     .desc = {ent-SpaceCash.desc}
     .suffix = 7500
 
@@ -3701,7 +3637,7 @@ ent-FloorTileItemBase =
 ent-FloorTileItemBCircuit = piso de circuito azul
 
 ent-FloorTileItemBCircuit4 = {ent-FloorTileItemBCircuit}
-    .desc = { ent-FloorTileItemBCircuit.desc }
+    .desc = {ent-FloorTileItemBCircuit.desc}
     .suffix = 4
 
 ent-FloorTileItemBlue = piso azul
@@ -3757,7 +3693,7 @@ ent-FloorTileItemFreezer = piso de freezer
 ent-FloorTileItemGCircuit = piso de circuito verde
 
 ent-FloorTileItemGCircuit4 = {ent-FloorTileItemGCircuit}
-    .desc = { ent-FloorTileItemGCircuit.desc }
+    .desc = {ent-FloorTileItemGCircuit.desc}
     .suffix = 4
 
 ent-FloorTileItemGold = piso dourado
@@ -3813,7 +3749,7 @@ ent-FloorTileItemOldConcreteSmooth = concreto antigo liso
 ent-FloorTileItemRCircuit = piso de circuito vermelho
 
 ent-FloorTileItemRCircuit4 = {ent-FloorTileItemRCircuit}
-    .desc = { ent-FloorTileItemRCircuit.desc }
+    .desc = {ent-FloorTileItemRCircuit.desc}
     .suffix = 4
 
 ent-FloorTileItemRockVault = piso de abóbada de rocha
@@ -4040,7 +3976,7 @@ ent-PowerCageHigh = cápsula de energia de alta capacidade
     .desc = Uma cápsula de energia recarregável para dispositivos grandes. Capacidade aumentada para níveis de energia aumentados.
 
 ent-PowerCageHighEmpty = {ent-PowerCageHigh}
-    .desc = { ent-PowerCageHigh.desc }
+    .desc = {ent-PowerCageHigh.desc}
     .suffix = Vazia
 
 ent-PowerCageMech = cápsula de energia de mecha
@@ -4050,14 +3986,14 @@ ent-PowerCageMedium = cápsula de energia de capacidade média
     .desc = Uma cápsula de energia recarregável para dispositivos grandes. O padrão ouro de capacidade e custo.
 
 ent-PowerCageMediumEmpty = {ent-PowerCageMedium}
-    .desc = { ent-PowerCageMedium.desc }
+    .desc = {ent-PowerCageMedium.desc}
     .suffix = Vazia
 
 ent-PowerCageSmall = cápsula de energia de pequena capacidade
     .desc = Uma cápsula de energia recarregável para dispositivos grandes. Este é o tipo mais barato que você pode encontrar, mas vem com algum blindagem moderada contra EMP.
 
 ent-PowerCageSmallEmpty = {ent-PowerCageSmall}
-    .desc = { ent-PowerCageSmall.desc }
+    .desc = {ent-PowerCageSmall.desc}
     .suffix = Vazia
 
 ent-PowerCellAntiqueProto = protótipo de célula de energia antiga
@@ -4068,7 +4004,7 @@ ent-PowerCellHigh = célula de energia de alta capacidade
     .desc = Uma célula de energia padronizada recarregável. Esta marca premium armazena até 50% mais energia que a concorrência.
 
 ent-PowerCellHighPrinted = {ent-PowerCellHigh}
-    .desc = { ent-PowerCellHigh.desc }
+    .desc = {ent-PowerCellHigh.desc}
     .suffix = Vazia
 
 ent-PowerCellHyper = célula de energia de hipercapacidade
@@ -4076,7 +4012,7 @@ ent-PowerCellHyper = célula de energia de hipercapacidade
     .desc = Uma célula de energia padronizada recarregável. Esta parece um protótipo raro e poderoso.
 
 ent-PowerCellHyperPrinted = {ent-PowerCellHyper}
-    .desc = { ent-PowerCellHyper.desc }
+    .desc = {ent-PowerCellHyper.desc}
     .suffix = Vazia
 
 ent-PowerCellMedium = célula de energia de capacidade média
@@ -4084,7 +4020,7 @@ ent-PowerCellMedium = célula de energia de capacidade média
     .desc = Uma célula de energia recarregável. Esta é a versão popular e confiável.
 
 ent-PowerCellMediumPrinted = {ent-PowerCellMedium}
-    .desc = { ent-PowerCellMedium.desc }
+    .desc = {ent-PowerCellMedium.desc}
     .suffix = Vazia
 
 ent-PowerCellMicroreactor = célula de microreator
@@ -4092,7 +4028,7 @@ ent-PowerCellMicroreactor = célula de microreator
     .desc = Uma célula de microreator padronizada recarregável. Tem menor capacidade mas se recarrega lentamente sozinha.
 
 ent-PowerCellMicroreactorPrinted = {ent-PowerCellMicroreactor}
-    .desc = { ent-PowerCellMicroreactor.desc }
+    .desc = {ent-PowerCellMicroreactor.desc}
     .suffix = Vazia
 
 ent-PowerCellPotato = bateria de batata
@@ -4103,7 +4039,7 @@ ent-PowerCellSmall = célula de energia de pequena capacidade
     .desc = Uma célula de energia recarregável. Este é o tipo mais barato que você pode encontrar.
 
 ent-PowerCellSmallPrinted = {ent-PowerCellSmall}
-    .desc = { ent-PowerCellSmall.desc }
+    .desc = {ent-PowerCellSmall.desc}
     .suffix = Vazia
 
 # From: Entities/Objects/Power/powersink.yml
@@ -4188,99 +4124,99 @@ ent-Jug = galão
     .desc = Usado para conter uma quantidade muito grande de químicos ou soluções. Beber goela abaixo é extremamente desaconselhável.
 
 ent-JugAluminium = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = alumínio
 
 ent-JugCarbon = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = carbono
 
 ent-JugChlorine = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = cloro
 
 ent-JugCopper = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = cobre
 
 ent-JugEthanol = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = etanol
 
 ent-JugFluorine = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = flúor
 
 ent-JugGold = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = ouro
 
 ent-JugHydrogen = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = hidrogênio
 
 ent-JugIodine = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = iodo
 
 ent-JugIron = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = ferro
 
 ent-JugLithium = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = lítio
 
 ent-JugMercury = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = mercúrio
 
 ent-JugNitrogen = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = nitrogênio
 
 ent-JugOxygen = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = oxigênio
 
 ent-JugPhosphorus = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = fósforo
 
 ent-JugPlantBGone = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = Plant-B-Gone
 
 ent-JugPotassium = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = potássio
 
 ent-JugRadium = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = rádio
 
 ent-JugSilicon = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = silicone
 
 ent-JugSilver = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = prata
 
 ent-JugSodium = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = sódio
 
 ent-JugSugar = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = açúcar
 
 ent-JugSulfur = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = enxofre
 
 ent-JugWeldingFuel = {ent-Jug}
-    .desc = { ent-Jug.desc }
+    .desc = {ent-Jug.desc}
     .suffix = combustível de solda
 
 # From: Entities/Objects/Specific/chemistry-bottles.yml
@@ -4290,75 +4226,75 @@ ent-BaseChemistryEmptyBottle = frasco
     .desc = Um pequeno frasco.
 
 ent-CognizineChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = cognizina
 
 ent-EphedrineChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = efedrina
 
 ent-EpinephrineChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = epinefrina
 
 ent-EthanolChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = etanol
 
 ent-EZNutrientChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = nutriente EZ
 
 ent-HydrogenChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = hidrogênio
 
 ent-LeadChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = chumbo
 
 ent-Left4ZedChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = left-4-zed
 
 ent-MuteToxinChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = toxina muda
 
 ent-NitrogenChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = nitrogênio
 
 ent-NocturineChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = noturnina
 
 ent-OmnizineChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = omnizina
 
 ent-PaxChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = pax
 
 ent-PhosphorusChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = fósforo
 
 ent-PotassiumChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = potássio
 
 ent-RobustHarvestChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = colheita robusta
 
 ent-ToxinChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = toxina
 
 ent-UnstableMutagenChemistryBottle = {ent-BaseChemistryEmptyBottle}
-    .desc = { ent-BaseChemistryEmptyBottle.desc }
+    .desc = {ent-BaseChemistryEmptyBottle.desc}
     .suffix = mutagênico instável
 
 # From: Entities/Objects/Specific/chemistry-vials.yml
@@ -4367,19 +4303,19 @@ ent-BaseChemistryEmptyVial = vidro
     .desc = Um pequeno vidro.
 
 ent-ChlorineChemistryVial = {ent-BaseChemistryEmptyVial}
-    .desc = { ent-BaseChemistryEmptyVial.desc }
+    .desc = {ent-BaseChemistryEmptyVial.desc}
     .suffix = cloro
 
 ent-PlasmaChemistryVial = {ent-BaseChemistryEmptyVial}
-    .desc = { ent-BaseChemistryEmptyVial.desc }
+    .desc = {ent-BaseChemistryEmptyVial.desc}
     .suffix = plasma
 
 ent-RadiumChemistryVial = {ent-BaseChemistryEmptyVial}
-    .desc = { ent-BaseChemistryEmptyVial.desc }
+    .desc = {ent-BaseChemistryEmptyVial.desc}
     .suffix = rádio
 
 ent-VestineChemistryVial = {ent-BaseChemistryEmptyVial}
-    .desc = { ent-BaseChemistryEmptyVial.desc }
+    .desc = {ent-BaseChemistryEmptyVial.desc}
     .suffix = vestina
 
 # From: Entities/Objects/Specific/chemistry.yml
@@ -4401,7 +4337,7 @@ ent-CryostasisBeaker = béquer de criostase
     .desc = Usado para conter químicos ou soluções sem reações.
 
 ent-CryoxadoneBeakerSmall = {ent-Beaker}
-    .desc = { ent-Beaker.desc }
+    .desc = {ent-Beaker.desc}
     .suffix = crioxadona
 
 ent-Dropper = conta-gotas
@@ -4532,7 +4468,7 @@ ent-ExtradimensionalOrangeSeeds = pacote de sementes de laranja extradimensional
     .desc = Sementes poligonais.
 
 ent-FakeCapfruitSeeds = {ent-RealCapfruitSeeds}
-    .desc = { ent-RealCapfruitSeeds.desc }
+    .desc = {ent-RealCapfruitSeeds.desc}
     .suffix = Falso
 
 ent-FlyAmanitaSeeds = pacote de esporos de amanita-mosca
@@ -4695,7 +4631,7 @@ ent-WetFloorSign = placa de piso molhado
     .desc = Cuidado! Piso Molhado!
 
 ent-WetFloorSignMineExplosive = {ent-WetFloorSign}
-    .desc = { ent-WetFloorSign.desc }
+    .desc = {ent-WetFloorSign.desc}
     .suffix = Explosivo
 
 # From: Entities/Objects/Specific/Janitorial/soap.yml
@@ -4843,28 +4779,28 @@ ent-MechHamtr = HAMTR
     .desc = Um mecha experimental que usa uma interface cérebro-computador para conectar-se diretamente ao cérebro de um hamster.
 
 ent-MechHamtrBattery = {ent-MechHamtr}
-    .desc = { ent-MechHamtr.desc }
+    .desc = {ent-MechHamtr.desc}
     .suffix = Bateria
 
 ent-MechHonker = H.O.N.K.
     .desc = Produzido pela "Tyranny of Honk, INC", este exoesqueleto foi projetado como suporte pesante de palhaços. Usado para espalhar a diversão e alegria da vida. HONK!
 
 ent-MechHonkerBattery = {ent-MechHonker}
-    .desc = { ent-MechHonker.desc }
+    .desc = {ent-MechHonker.desc}
     .suffix = Bateria
 
 ent-MechRipley = Ripley APLU
     .desc = Versátil e levemente blindado, o Ripley é útil para quase qualquer cenário de trabalho pesado. "APLU" significa Unidade de Carregamento de Potência Autônoma.
 
 ent-MechRipleyBattery = {ent-MechRipley}
-    .desc = { ent-MechRipley.desc }
+    .desc = {ent-MechRipley.desc}
     .suffix = Bateria
 
 ent-MechVim = Vim
     .desc = Um exoesqueleto em miniatura da Nanotrasen, desenvolvido para permitir que os animais de estimação insubstituíveis da estação vivam um pouco mais.
 
 ent-MechVimBattery = {ent-MechVim}
-    .desc = { ent-MechVim.desc }
+    .desc = {ent-MechVim.desc}
     .suffix = Bateria
 
 # From: Entities/Objects/Specific/Medical/defib.yml
@@ -4877,11 +4813,11 @@ ent-DefibrillatorCompact = desfibrilador compacto
     .desc = Agora em tamanho fun!
 
 ent-DefibrillatorEmpty = {ent-BaseDefibrillator}
-    .desc = { ent-BaseDefibrillator.desc }
+    .desc = {ent-BaseDefibrillator.desc}
     .suffix = Vazio
 
 ent-DefibrillatorOneHandedUnpowered = {ent-BaseDefibrillator}
-    .desc = { ent-BaseDefibrillator.desc }
+    .desc = {ent-BaseDefibrillator.desc}
     .suffix = Uma Mão, Sem Energia
 
 ent-DefibrillatorSyndicate = desfibrilador interdyne
@@ -4904,7 +4840,7 @@ ent-HandheldCrewMonitor = monitor de tripulação portátil
     .desc = Um monitor de tripulação portátil exibindo o status dos sensores de traje.
 
 ent-HandheldCrewMonitorEmpty = {ent-HandheldCrewMonitor}
-    .desc = { ent-HandheldCrewMonitor.desc }
+    .desc = {ent-HandheldCrewMonitor.desc}
     .suffix = Vazio
 
 # From: Entities/Objects/Specific/Medical/healing.yml
@@ -4917,7 +4853,7 @@ ent-Bloodpack = pacote de sangue
     .desc = Contém um substituto de sangue universal revolucionário criado pela ciência médica avançada da Nanotrasen.
 
 ent-Bloodpack10Lingering = {ent-Bloodpack}
-    .desc = { ent-Bloodpack.desc }
+    .desc = {ent-Bloodpack.desc}
     .suffix = 10, Persistente
 
 ent-Brutepack = pacote de hematomas
@@ -4925,15 +4861,15 @@ ent-Brutepack = pacote de hematomas
     .desc = Um kit terapêutico de gel e curativos projetado para tratar trauma por força bruta.
 
 ent-Brutepack1 = {ent-Brutepack}
-    .desc = { ent-Brutepack.desc }
+    .desc = {ent-Brutepack.desc}
     .suffix = Único
 
 ent-Brutepack10Lingering = {ent-Brutepack}
-    .desc = { ent-Brutepack.desc }
+    .desc = {ent-Brutepack.desc}
     .suffix = 10, Persistente
 
 ent-BrutepackAdvanced1 = {ent-MedicatedSuture}
-    .desc = { ent-MedicatedSuture.desc }
+    .desc = {ent-MedicatedSuture.desc}
     .suffix = Único
 
 ent-Gauze = rolo de gaze
@@ -4941,11 +4877,11 @@ ent-Gauze = rolo de gaze
     .desc = Algumas gazes estéreis para envolver cotos sangrentos.
 
 ent-Gauze1 = {ent-Gauze}
-    .desc = { ent-Gauze.desc }
+    .desc = {ent-Gauze.desc}
     .suffix = Único
 
 ent-Gauze10Lingering = {ent-Gauze}
-    .desc = { ent-Gauze.desc }
+    .desc = {ent-Gauze.desc}
     .suffix = 10, Persistente
 
 ent-HealingToolbox = caixa de ferramentas de cura
@@ -4960,15 +4896,15 @@ ent-Ointment = pomada
     .desc = Usada para tratar aquelas queimaduras horríveis. Menos eficaz em queimaduras cáusticas.
 
 ent-Ointment1 = {ent-Ointment}
-    .desc = { ent-Ointment.desc }
+    .desc = {ent-Ointment.desc}
     .suffix = Única
 
 ent-Ointment10Lingering = {ent-Ointment}
-    .desc = { ent-Ointment.desc }
+    .desc = {ent-Ointment.desc}
     .suffix = 10, Persistente
 
 ent-OintmentAdvanced1 = {ent-RegenerativeMesh}
-    .desc = { ent-RegenerativeMesh.desc }
+    .desc = {ent-RegenerativeMesh.desc}
     .suffix = Única
 
 ent-PillAmbuzol = comprimido de ambuzol
@@ -5009,7 +4945,7 @@ ent-PillCanisterPotassiumIodide = frasco de comprimidos
     .suffix = Iodeto de potássio 10u, 5
 
 ent-PillCanisterRandom = {ent-PillCanister}
-    .desc = { ent-PillCanister.desc }
+    .desc = {ent-PillCanister.desc}
     .suffix = Aleatório
 
 ent-PillCanisterTricordrazine = frasco de comprimidos
@@ -5054,63 +4990,63 @@ ent-RegenerativeMesh = malha regenerativa
     .desc = Usada para tratar até mesmo as queimaduras mais terríveis. Também eficaz contra queimaduras cáusticas.
 
 ent-SyringeAmbuzol = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = ambuzol
 
 ent-SyringeBicaridine = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = bicaridina
 
 ent-SyringeDermaline = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = dermalina
 
 ent-SyringeEphedrine = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = efedrina
 
 ent-SyringeEthylredoxrazine = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = etilredoxrazina
 
 ent-SyringeHyronalin = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = hyronalina
 
 ent-SyringeInaprovaline = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = inaprovalina
 
 ent-SyringeIpecac = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = ipeca
 
 ent-SyringeLetoferol = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = letoferol
 
 ent-SyringePhalanximine = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = phalanximina
 
 ent-SyringeRomerol = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = romerol
 
 ent-SyringeSaline = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = solução salina
 
 ent-SyringeSigynate = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = sigynato
 
 ent-SyringeStimulants = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = hiperezina
 
 ent-SyringeTranexamicAcid = {ent-BaseSyringe}
-    .desc = { ent-BaseSyringe.desc }
+    .desc = {ent-BaseSyringe.desc}
     .suffix = ácido tranexâmico
 
 ent-Tourniquet = torniquete
@@ -5119,11 +5055,11 @@ ent-Tourniquet = torniquete
 # From: Entities/Objects/Specific/Medical/healthanalyzer.yml
 
 ent-HandheldHealthAnalyzer = {ent-HandheldHealthAnalyzerUnpowered}
-    .desc = { ent-HandheldHealthAnalyzerUnpowered.desc }
+    .desc = {ent-HandheldHealthAnalyzerUnpowered.desc}
     .suffix = Energizado
 
 ent-HandheldHealthAnalyzerEmpty = {ent-HandheldHealthAnalyzerUnpowered}
-    .desc = { ent-HandheldHealthAnalyzerUnpowered.desc }
+    .desc = {ent-HandheldHealthAnalyzerUnpowered.desc}
     .suffix = Vazio
 
 ent-HandheldHealthAnalyzerUnpowered = analisador de saúde
@@ -5303,25 +5239,25 @@ ent-CockroachCube = cubo de barata
     .desc = Basta adicionar ág- MEU DEUS!
 
 ent-CowCube = cubo de vaca
-    .desc = { ent-MonkeyCube.desc }
+    .desc = {ent-MonkeyCube.desc}
 
 ent-DehydratedSpaceCarp = carpa espacial desidratada
     .desc = Parece um carpa de pelúcia, mas basta adicionar água e se torna uma carpa espacial de verdade!
 
 ent-GoatCube = cubo de cabra
-    .desc = { ent-MonkeyCube.desc }
+    .desc = {ent-MonkeyCube.desc}
 
 ent-KoboldCube = cubo de kobold
-    .desc = { ent-MonkeyCube.desc }
+    .desc = {ent-MonkeyCube.desc}
 
 ent-MonkeyCube = cubo de macaco
     .desc = Basta adicionar água!
 
 ent-MothroachCube = cubo de traça-mariposa
-    .desc = { ent-MonkeyCube.desc }
+    .desc = {ent-MonkeyCube.desc}
 
 ent-MouseCube = cubo de camundongo
-    .desc = { ent-MonkeyCube.desc }
+    .desc = {ent-MonkeyCube.desc}
 
 ent-SpaceCarpCube = cubo de carpa
     .desc = Basta adicionar água! Por sua conta e risco.
@@ -5336,11 +5272,11 @@ ent-SyndicateSponge = cubo de macaco
 # From: Entities/Objects/Specific/Research/anomaly.yml
 
 ent-AnomalyLocator = {ent-AnomalyLocatorUnpowered}
-    .desc = { ent-AnomalyLocatorUnpowered.desc }
+    .desc = {ent-AnomalyLocatorUnpowered.desc}
     .suffix = Energizado
 
 ent-AnomalyLocatorEmpty = {ent-AnomalyLocatorUnpowered}
-    .desc = { ent-AnomalyLocatorUnpowered.desc }
+    .desc = {ent-AnomalyLocatorUnpowered.desc}
     .suffix = Vazio
 
 ent-AnomalyLocatorUnpowered = localizador de anomalias
@@ -5348,11 +5284,11 @@ ent-AnomalyLocatorUnpowered = localizador de anomalias
     .desc = Um dispositivo projetado para auxiliar na localização de anomalias. Você verificou os extratores de gás?
 
 ent-AnomalyLocatorWide = {ent-AnomalyLocatorWideUnpowered}
-    .desc = { ent-AnomalyLocatorWideUnpowered.desc }
+    .desc = {ent-AnomalyLocatorWideUnpowered.desc}
     .suffix = Energizado
 
 ent-AnomalyLocatorWideEmpty = {ent-AnomalyLocatorWideUnpowered}
-    .desc = { ent-AnomalyLocatorWideUnpowered.desc }
+    .desc = {ent-AnomalyLocatorWideUnpowered.desc}
     .suffix = Vazio
 
 ent-AnomalyLocatorWideUnpowered = localizador de anomalias de espectro amplo
@@ -5409,106 +5345,106 @@ ent-BaseBorgModule = módulo de borg
     .desc = Um pedaço de tecnologia que dá aos ciborgues novas habilidades.
 
 ent-BorgModuleAdvancedCleaning = módulo de limpeza avançada de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleAdvancedSurgery = módulo de cirurgia avançada de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleAdvancedTool = módulo de ferramentas avançadas de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleAdvancedTreatment = módulo de tratamento avançado de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleAnomaly = módulo de anomalia de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleAppraisal = módulo de cargueiro de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleArtifact = módulo de artefato de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleCable = módulo de cabos de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleCleaning = módulo de limpeza de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleClowning = módulo de palhaçada de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleConstruction = módulo de construção de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleDefibrillator = módulo de desfibrilador de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleDiagnosis = módulo de diagnóstico de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleEsword = módulo de espada de energia de ciborgue
     .desc = Um módulo que vem com uma espada de energia dupla.
 
 ent-BorgModuleFireExtinguisher = módulo de extintor de incêndio de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleGardening = módulo de jardinagem de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleGPS = módulo de GPS de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleGrapplingGun = módulo de arpão de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleHarvesting = módulo de colheita de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleL6C = módulo de ciborgue L6C ROW
     .desc = Um módulo que vem com uma L6C.
 
 ent-BorgModuleLightReplacer = módulo de troca de lâmpadas de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleMartyr = módulo de mártir de ciborgue
     .desc = Um módulo que vem com um explosivo que você provavelmente não vai querer manipular.
 
 ent-BorgModuleMercenary = módulo de mercenário de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleMining = módulo de mineração de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleMusique = módulo de musique de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleOperative = módulo de operativo de ciborgue
     .desc = Um módulo que vem com uma pé de cabra, um Emag, um Quebrador de Acesso e um localizador do Sindicato.
 
 ent-BorgModuleRadiationDetection = módulo de detecção de radiação de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleRCD = módulo de RCD de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleSecurity = módulo de segurança de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleService = módulo de serviço de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleSurgery = módulo de cirurgia de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleSyndicateWeapon = módulo de armas de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleTool = módulo de ferramentas de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 ent-BorgModuleTreatment = módulo de tratamento de ciborgue
-    .desc = { ent-BaseBorgModule }
+    .desc = {ent-BaseBorgModule}
 
 # From: Entities/Objects/Specific/Robotics/endoskeleton.yml
 
@@ -5521,7 +5457,7 @@ ent-MMI = interface homem-máquina
     .desc = Uma máquina capaz de facilitar comunicação entre um cérebro biológico e eletrônicos, permitindo que a tripulação continue a fornecer valor após incidentes relacionados ao trabalho.
 
 ent-MMIFilled = {ent-MMI}
-    .desc = { ent-MMI.desc }
+    .desc = {ent-MMI.desc}
     .suffix = Preenchido
 
 ent-PositronicBrain = cérebro positrônico
@@ -5540,11 +5476,11 @@ ent-OreBag = bolsa de minério
 # From: Entities/Objects/Specific/Salvage/scanner.yml
 
 ent-AdvancedMineralScanner = {ent-AdvancedMineralScannerUnpowered}
-    .desc = { ent-AdvancedMineralScannerUnpowered.desc }
+    .desc = {ent-AdvancedMineralScannerUnpowered.desc}
     .suffix = Energizado
 
 ent-AdvancedMineralScannerEmpty = {ent-AdvancedMineralScannerUnpowered}
-    .desc = { ent-AdvancedMineralScannerUnpowered.desc }
+    .desc = {ent-AdvancedMineralScannerUnpowered.desc}
     .suffix = Vazio
 
 ent-AdvancedMineralScannerUnpowered = scanner mineral avançado
@@ -5552,11 +5488,11 @@ ent-AdvancedMineralScannerUnpowered = scanner mineral avançado
     .desc = Um scanner que verifica a rocha ao redor em busca de minerais úteis. Deve estar em sua mão ou bolso para funcionar. Este tem um alcance estendido.
 
 ent-MineralScanner = {ent-MineralScannerUnpowered}
-    .desc = { ent-MineralScannerUnpowered.desc }
+    .desc = {ent-MineralScannerUnpowered.desc}
     .suffix = Energizado
 
 ent-MineralScannerEmpty = {ent-MineralScannerUnpowered}
-    .desc = { ent-MineralScannerUnpowered.desc }
+    .desc = {ent-MineralScannerUnpowered.desc}
     .suffix = Vazio
 
 ent-MineralScannerUnpowered = scanner mineral
@@ -5688,23 +5624,23 @@ ent-BaseUplinkRadio = uplink do Sindicato
     .desc = Rádio suspeitosamente antigo...
 
 ent-BaseUplinkRadio100TC = {ent-BaseUplinkRadio}
-    .desc = { ent-BaseUplinkRadio.desc }
+    .desc = {ent-BaseUplinkRadio.desc}
     .suffix = 100 TC
 
 ent-BaseUplinkRadio125TC = {ent-BaseUplinkRadio}
-    .desc = { ent-BaseUplinkRadio.desc }
+    .desc = {ent-BaseUplinkRadio.desc}
     .suffix = 125 TC
 
 ent-BaseUplinkRadio200TC = {ent-BaseUplinkRadio}
-    .desc = { ent-BaseUplinkRadio.desc }
+    .desc = {ent-BaseUplinkRadio.desc}
     .suffix = 200 TC, NukeOps
 
 ent-BaseUplinkRadio300TC = {ent-BaseUplinkRadio}
-    .desc = { ent-BaseUplinkRadio.desc }
+    .desc = {ent-BaseUplinkRadio.desc}
     .suffix = 300 TC, LoneOps
 
 ent-BaseUplinkRadioDebug = {ent-BaseUplinkRadio}
-    .desc = { ent-BaseUplinkRadio.desc }
+    .desc = {ent-BaseUplinkRadio.desc}
     .suffix = DEBUG
 
 ent-Telecrystal = telecristal
@@ -5712,15 +5648,15 @@ ent-Telecrystal = telecristal
     .desc = Parece pulsar com energias suspiciously enticing.
 
 ent-Telecrystal25 = {ent-Telecrystal}
-    .desc = { ent-Telecrystal.desc }
+    .desc = {ent-Telecrystal.desc}
     .suffix = 25 TC
 
 ent-Telecrystal5 = {ent-Telecrystal}
-    .desc = { ent-Telecrystal.desc }
+    .desc = {ent-Telecrystal.desc}
     .suffix = 5 TC
 
 ent-Telecrystal50 = {ent-Telecrystal}
-    .desc = { ent-Telecrystal.desc }
+    .desc = {ent-Telecrystal.desc}
     .suffix = 50 TC
 
 # From: Entities/Objects/Specific/Xenoarchaeology/artifact_equipment.yml
@@ -5734,7 +5670,7 @@ ent-ArtifactFragment = fragmento de artefato
     .desc = Um pedaço quebrado de um artefato. Você provavelmente poderia consertar se tivesse mais.
 
 ent-ArtifactFragment1 = {ent-ArtifactFragment}
-    .desc = { ent-ArtifactFragment.desc }
+    .desc = {ent-ArtifactFragment.desc}
     .suffix = Único
 
 # Abstract entity (referenceable by children)
@@ -5743,19 +5679,19 @@ ent-BaseXenoArtifactItem = artefato alienígena
     .desc = Um dispositivo alienígena estranho portátil.
 
 ent-ComplexXenoArtifactItem = {ent-BaseXenoArtifactItem}
-    .desc = { ent-BaseXenoArtifactItem.desc }
+    .desc = {ent-BaseXenoArtifactItem.desc}
     .suffix = Complexo
 
 ent-MediumXenoArtifactItem = {ent-BaseXenoArtifactItem}
-    .desc = { ent-BaseXenoArtifactItem.desc }
+    .desc = {ent-BaseXenoArtifactItem.desc}
     .suffix = Médio
 
 ent-SimpleXenoArtifactItem = {ent-BaseXenoArtifactItem}
-    .desc = { ent-BaseXenoArtifactItem.desc }
+    .desc = {ent-BaseXenoArtifactItem.desc}
     .suffix = Simples
 
 ent-VariedXenoArtifactItem = {ent-BaseXenoArtifactItem}
-    .desc = { ent-BaseXenoArtifactItem.desc }
+    .desc = {ent-BaseXenoArtifactItem.desc}
     .suffix = Variado
 
 # From: Entities/Objects/Specific/Xenoarchaeology/node_scanner.yml
@@ -5770,21 +5706,21 @@ ent-BaseXenoArtifact = artefato alienígena
     .desc = Um dispositivo alienígena estranho.
 
 ent-ComplexXenoArtifact = {ent-BaseXenoArtifact}
-    .desc = { ent-BaseXenoArtifact.desc }
+    .desc = {ent-BaseXenoArtifact.desc}
     .suffix = Complexo
 
 ent-MediumXenoArtifact = {ent-BaseXenoArtifact}
-    .desc = { ent-BaseXenoArtifact.desc }
+    .desc = {ent-BaseXenoArtifact.desc}
     .suffix = Médio
 
 ent-SimpleXenoArtifact = {ent-BaseXenoArtifact}
-    .desc = { ent-BaseXenoArtifact.desc }
+    .desc = {ent-BaseXenoArtifact.desc}
     .suffix = Simples
 
 # From: Entities/Objects/Tools/access_breaker.yml
 
 ent-AccessBreaker = {ent-AccessBreakerUnlimited}
-    .desc = { ent-AccessBreakerUnlimited.desc }
+    .desc = {ent-AccessBreakerUnlimited.desc}
     .suffix = Limitado
 
 ent-AccessBreakerUnlimited = disruptor de autenticação
@@ -5837,15 +5773,15 @@ ent-CableApcStack = bobina de cabos BV
     .desc = Bobina de fios de Baixa Voltagem para conectar APCs a máquinas e outros propósitos.
 
 ent-CableApcStack1 = {ent-CableApcStack}
-    .desc = { ent-CableApcStack.desc }
+    .desc = {ent-CableApcStack.desc}
     .suffix = 1
 
 ent-CableApcStack10 = {ent-CableApcStack}
-    .desc = { ent-CableApcStack.desc }
+    .desc = {ent-CableApcStack.desc}
     .suffix = 10
 
 ent-CableApcStackLingering10 = {ent-CableApcStack}
-    .desc = { ent-CableApcStack.desc }
+    .desc = {ent-CableApcStack.desc}
     .suffix = Persistente, 10
 
 ent-CableHVStack = bobina de cabos AV
@@ -5853,15 +5789,15 @@ ent-CableHVStack = bobina de cabos AV
     .desc = Cabos de Alta Voltagem para conectar geradores á maquinários pesados, SMES e subestações.
 
 ent-CableHVStack1 = {ent-CableHVStack}
-    .desc = { ent-CableHVStack.desc }
+    .desc = {ent-CableHVStack.desc}
     .suffix = 1
 
 ent-CableHVStack10 = {ent-CableHVStack}
-    .desc = { ent-CableHVStack.desc }
+    .desc = {ent-CableHVStack.desc}
     .suffix = 10
 
 ent-CableHVStackLingering10 = {ent-CableHVStack}
-    .desc = { ent-CableHVStack.desc }
+    .desc = {ent-CableHVStack.desc}
     .suffix = Persistente, 10
 
 ent-CableMVStack = bobina de cabos MV
@@ -5869,15 +5805,15 @@ ent-CableMVStack = bobina de cabos MV
     .desc = Cabos de Média Voltagem para conectar subestações a APCs, e também energizar algumas coisas como emissores.
 
 ent-CableMVStack1 = {ent-CableMVStack}
-    .desc = { ent-CableMVStack.desc }
+    .desc = {ent-CableMVStack.desc}
     .suffix = 1
 
 ent-CableMVStack10 = {ent-CableMVStack}
-    .desc = { ent-CableMVStack.desc }
+    .desc = {ent-CableMVStack.desc}
     .suffix = 10
 
 ent-CableMVStackLingering10 = {ent-CableMVStack}
-    .desc = { ent-CableMVStack.desc }
+    .desc = {ent-CableMVStack.desc}
     .suffix = Persistente, 10
 
 # Abstract entity (referenceable by children)
@@ -5920,22 +5856,18 @@ ent-Wronch = wronch
 ent-BaseCrowbar = pé-de-cabrina
 
 ent-Crowbar = {ent-BaseCrowbar}
-    .desc = { ent-BaseCrowbar.desc }
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais.
 
 ent-CrowbarGreen = {ent-BaseCrowbar}
-    .desc = { ent-BaseCrowbar.desc }
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais, impressa de um torno.
 
 ent-CrowbarOrange = {ent-BaseCrowbar}
-    .desc = { ent-BaseCrowbar.desc }
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais, encontrada em caixas de ferramentas.
 
 ent-CrowbarRed = pé-de-cabrina de emergência
     .desc = Um pé-de-cabrina de emergência projetado para abrir à força portas e portas corta-fogo durante quedas de energia.
 
 ent-CrowbarYellow = {ent-BaseCrowbar}
-    .desc = { ent-BaseCrowbar.desc }
     .desc = Uma ferramenta multipropósito para abrir à força portas e lutar contra invasores interdimensionais, dispensada da Engenharia.
 
 # From: Entities/Objects/Tools/decoys.yml
@@ -5958,7 +5890,7 @@ ent-BalloonOperative = balão de operativo
 # From: Entities/Objects/Tools/emag.yml
 
 ent-Emag = {ent-EmagUnlimited}
-    .desc = { ent-EmagUnlimited.desc }
+    .desc = {ent-EmagUnlimited.desc}
     .suffix = Limitado
 
 ent-EmagUnlimited = sequenciador criptográfico
@@ -5973,7 +5905,7 @@ ent-Flare = sinalizador de emergência
 # From: Entities/Objects/Tools/flashlights.yml
 
 ent-EmptyFlashlightLantern = {ent-FlashlightLantern}
-    .desc = { ent-FlashlightLantern.desc }
+    .desc = {ent-FlashlightLantern.desc}
     .suffix = Vazio
 
 ent-FlashlightLantern = lanterna
@@ -6075,11 +6007,11 @@ ent-HandHeldMassScanner = scanner de massa portátil
     .desc = Um scanner de massa portátil.
 
 ent-HandHeldMassScannerBorg = {ent-HandHeldMassScanner}
-    .desc = { ent-HandHeldMassScanner.desc }
+    .desc = {ent-HandHeldMassScanner.desc}
     .suffix = Borg
 
 ent-HandHeldMassScannerEmpty = {ent-HandHeldMassScanner}
-    .desc = { ent-HandHeldMassScanner.desc }
+    .desc = {ent-HandHeldMassScanner.desc}
     .suffix = Vazio
 
 # From: Entities/Objects/Tools/inflatable_wall.yml
@@ -6089,7 +6021,7 @@ ent-InflatableDoorStack = porta inflável
     .desc = Uma membrana dobrada que se expande rapidamente em uma forma cúbica grande na ativação.
 
 ent-InflatableDoorStack1 = {ent-InflatableDoorStack}
-    .desc = { ent-InflatableDoorStack.desc }
+    .desc = {ent-InflatableDoorStack.desc}
     .suffix = 1
 
 ent-InflatableWallStack = barricada inflável
@@ -6097,11 +6029,11 @@ ent-InflatableWallStack = barricada inflável
     .desc = Uma membrana dobrada que se expande rapidamente em uma forma cúbica grande na ativação.
 
 ent-InflatableWallStack1 = {ent-InflatableWallStack}
-    .desc = { ent-InflatableWallStack.desc }
+    .desc = {ent-InflatableWallStack.desc}
     .suffix = 1
 
 ent-InflatableWallStack5 = {ent-InflatableWallStack}
-    .desc = { ent-InflatableWallStack.desc }
+    .desc = {ent-InflatableWallStack.desc}
     .suffix = 5
 
 # From: Entities/Objects/Tools/jammer.yml
@@ -6170,7 +6102,7 @@ ent-Lantern = lanterna
     .desc = A luz sagrada guia o caminho.
 
 ent-LanternFlash = {ent-Lantern}
-    .desc = { ent-Lantern.desc }
+    .desc = {ent-Lantern.desc}
     .suffix = Flash
 
 # From: Entities/Objects/Tools/light_replacer.yml
@@ -6179,7 +6111,7 @@ ent-LightReplacer = substituidor de lâmpadas
     .desc = Um item que usa ímãs para substituir facilmente lâmpadas quebradas. Recarregue adicionando mais lâmpadas ao substituidor.
 
 ent-LightReplacerEmpty = {ent-LightReplacer}
-    .desc = { ent-LightReplacer.desc }
+    .desc = {ent-LightReplacer.desc}
     .suffix = Vazio
 
 # From: Entities/Objects/Tools/lighters.yml
@@ -6205,7 +6137,7 @@ ent-Matchstick = palito de fósforo
     .desc = Um simples palito de fósforo, usado para acender coisas fumegáveis finas.
 
 ent-MatchstickSpent = {ent-Matchstick}
-    .desc = { ent-Matchstick.desc }
+    .desc = {ent-Matchstick.desc}
     .suffix = usado
 
 # From: Entities/Objects/Tools/spray_painter.yml
@@ -6271,7 +6203,7 @@ ent-RCDAmmo = matéria comprimida
     .desc = Um cartucho de matéria bruta compactada pela tecnologia bluespace. Usado em dispositivos de construção rápida.
 
 ent-RCDEmpty = {ent-RCD}
-    .desc = { ent-RCD.desc }
+    .desc = {ent-RCD.desc}
     .suffix = Vazio
 
 ent-RCDExperimental = RCD experimental
@@ -6289,7 +6221,7 @@ ent-RPD = RPD
     .desc = O dispositivo de tubulação rápida permite a colocação e remoção rápidas de edifícios relacionados à atmosfera, requer matéria compressiva para usar.
 
 ent-RPDEmpty = {ent-RPD}
-    .desc = { ent-RPD.desc }
+    .desc = {ent-RPD.desc}
     .suffix = Vazio
 
 ent-RPDRecharging = RPD experimental
@@ -6358,14 +6290,14 @@ ent-VehicleUnicycle = monociclo
     .desc = Só tem uma roda!
 
 ent-VehicleUnicycleFolded = {ent-VehicleUnicycle}
-    .desc = { ent-VehicleUnicycle.desc }
+    .desc = {ent-VehicleUnicycle.desc}
     .suffix = dobrado
 
 ent-VehicleWheelchair = cadeira de rodas
     .desc = Uma cadeira com rodas grandes. Parece que você pode se mover nestas por conta própria.
 
 ent-VehicleWheelchairFolded = {ent-VehicleWheelchair}
-    .desc = { ent-VehicleWheelchair.desc }
+    .desc = {ent-VehicleWheelchair.desc}
     .suffix = dobrada
 
 # From: Entities/Objects/Vehicles/keys.yml
@@ -6398,7 +6330,6 @@ ent-FireBombEmpty = bomba incendiária
     .desc = Um dispositivo incendiário fraco e improvisado. Este não tem combustível.
 
 ent-FireBombFuel = {ent-FireBombEmpty}
-    .desc = { ent-FireBombEmpty.desc }
     .suffix = combustível
     .desc = Um dispositivo incendiário fraco e improvisado. Este não tem fios.
 
@@ -6740,11 +6671,11 @@ ent-WeaponImprovisedPneumaticCannon = canhão pneumático improvisado
     .desc = Improvisado usando nada além de um tubo, algumas abraçadeiras e um canhão pneumático. Não aceita tanques sem gás suficiente.
 
 ent-WeaponImprovisedPneumaticCannonAdmeme = {ent-WeaponImprovisedPneumaticCannon}
-    .desc = { ent-WeaponImprovisedPneumaticCannon.desc }
+    .desc = {ent-WeaponImprovisedPneumaticCannon.desc}
     .suffix = Admeme
 
 ent-WeaponImprovisedPneumaticCannonGun = {ent-WeaponImprovisedPneumaticCannon}
-    .desc = { ent-WeaponImprovisedPneumaticCannon.desc }
+    .desc = {ent-WeaponImprovisedPneumaticCannon.desc}
     .suffix = Gun
 
 # From: Entities/Objects/Weapons/Guns/Projectiles/arrows.yml
@@ -6806,15 +6737,15 @@ ent-BaseMeteor = meteoro
     .desc = Você prefere quando eles estão queimando na atmosfera.
 
 ent-MeteorLarge = {ent-BaseMeteor}
-    .desc = { ent-BaseMeteor.desc }
+    .desc = {ent-BaseMeteor.desc}
     .suffix = Large
 
 ent-MeteorMedium = {ent-BaseMeteor}
-    .desc = { ent-BaseMeteor.desc }
+    .desc = {ent-BaseMeteor.desc}
     .suffix = Medium
 
 ent-MeteorSmall = {ent-BaseMeteor}
-    .desc = { ent-BaseMeteor.desc }
+    .desc = {ent-BaseMeteor.desc}
     .suffix = Small
 
 ent-MeteorSpaceDust = poeira espacial
@@ -6939,7 +6870,7 @@ ent-WeaponRevolverMateba = NT Mateba (.45 magnum)
     .desc = Uma arma secundária lendária da Era Corporativa, outrora usada por equipes de assassinato corporativas, agora pertence a Oficiais da TSF em toda a galáxia. Usa munição .45 magnum. No cabo há uma etiqueta que diz 'para uso autorizado apenas'.
 
 ent-WeaponRevolverMatebaAP = {ent-WeaponRevolverMateba}
-    .desc = { ent-WeaponRevolverMateba.desc }
+    .desc = {ent-WeaponRevolverMateba.desc}
     .suffix = armor-piercing
 
 ent-WeaponRevolverPirate = revólver pirata (.45 magnum)
@@ -6949,7 +6880,7 @@ ent-WeaponRevolverPython = LWC Python (.45 magnum)
     .desc = Um revólver comumente encontrado no espaço da Dinastia Phaethon, é tipicamente usado por imperiais de alta patente. Usa munição .45 magnum.
 
 ent-WeaponRevolverPythonAP = {ent-WeaponRevolverPython}
-    .desc = { ent-WeaponRevolverPython.desc }
+    .desc = {ent-WeaponRevolverPython.desc}
     .suffix = armor-piercing
 
 ent-WeaponRevolverPythonGatfruit = LWC Python (.45 magnum)
@@ -6995,7 +6926,7 @@ ent-WeaponShotgunEnforcer = Enforcer (calibre 12)
     .desc = Uma escopeta semiautomática premium, e o orgulho de todas as forças de segurança. Usa cartuchos de escopeta calibre 12.
 
 ent-WeaponShotgunEnforcerRubber = {ent-WeaponShotgunEnforcer}
-    .desc = { ent-WeaponShotgunEnforcer.desc }
+    .desc = {ent-WeaponShotgunEnforcer.desc}
     .suffix = Non-Lethal
 
 ent-WeaponShotgunHandmade = pistola artesanal (calibre 12)
@@ -7056,19 +6987,19 @@ ent-WeaponSniperMosin = NCI Kardashev-Mosin (7.62x54mmR)
 # From: Entities/Objects/Weapons/Guns/Turrets/turrets_ballistic.yml
 
 ent-WeaponTurretAllHostile = {ent-BaseWeaponBallisticTurret}
-    .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = Todos hostis
 
 ent-WeaponTurretHostile = {ent-BaseWeaponBallisticTurret}
-    .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = Hostil
 
 ent-WeaponTurretNanoTrasen = {ent-BaseWeaponBallisticTurret}
-    .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = NanoTrasen
 
 ent-WeaponTurretSyndicate = {ent-BaseWeaponBallisticTurret}
-    .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .desc = {ent-BaseWeaponBallisticTurret.desc}
     .suffix = Sindicato
 
 ent-WeaponTurretSyndicateDisposable = torre balística descartável
@@ -7106,7 +7037,7 @@ ent-ArmBlade = lâmina de braço
 # From: Entities/Objects/Weapons/Melee/baguette.yml
 
 ent-WeaponBaguette = {ent-FoodBreadBaguette}
-    .desc = { ent-FoodBreadBaguette.desc }
+    .desc = {ent-FoodBreadBaguette.desc}
     .suffix = Weapon
 
 # From: Entities/Objects/Weapons/Melee/baseball_bat.yml
@@ -7129,11 +7060,11 @@ ent-CaneBlade = lâmina de bengala
     .desc = Uma lâmina afiada com um cabo em formato de bengala.
 
 ent-CaneSheath = {ent-Cane}
-    .desc = { ent-Cane.desc }
+    .desc = {ent-Cane.desc}
     .suffix = Vazia
 
 ent-CaneSheathFilled = {ent-Cane}
-    .desc = { ent-Cane.desc }
+    .desc = {ent-Cane.desc}
     .suffix = Preenchida
 
 # From: Entities/Objects/Weapons/Melee/chainsaw.yml
@@ -7155,7 +7086,6 @@ ent-UnholyHalberd = alabarda profana
 # From: Entities/Objects/Weapons/Melee/e_sword.yml
 
 ent-CyborgEnergySwordDouble = {ent-EnergySwordDouble}
-    .desc = { ent-EnergySwordDouble.desc }
     .suffix = Uma Mão, Para Ciborgues
     .desc = Uma espada-e de duas lâminas agora presa em um ciborgue, quem e por que faria isso? Especialmente projetada para ciborgues.
 
@@ -7354,7 +7284,7 @@ ent-Bola = bola
 # From: Entities/Objects/Weapons/Throwable/croissant.yml
 
 ent-WeaponCroissant = {ent-FoodBakedCroissant}
-    .desc = { ent-FoodBakedCroissant.desc }
+    .desc = {ent-FoodBakedCroissant.desc}
     .suffix = Weapon
 
 # From: Entities/Objects/Weapons/Throwable/grenades.yml
@@ -7480,11 +7410,11 @@ ent-CryogenicSleepUnit = unidade de sono criogênico
     .desc = Um contêiner super resfriado que mantém tripulantes seguros durante viagens espaciais.
 
 ent-CryogenicSleepUnitSpawner = {ent-CryogenicSleepUnit}
-    .desc = { ent-CryogenicSleepUnit.desc }
+    .desc = {ent-CryogenicSleepUnit.desc}
     .suffix = Spawner, InícioDeRodada TodosOsEmpregos
 
 ent-CryogenicSleepUnitSpawnerLateJoin = {ent-CryogenicSleepUnit}
-    .desc = { ent-CryogenicSleepUnit.desc }
+    .desc = {ent-CryogenicSleepUnit.desc}
     .suffix = Spawner, TardeChegada
 
 # From: Entities/Structures/Decoration/banners.yml
@@ -7545,11 +7475,11 @@ ent-Cobweb1 = teia de aranha
 # From: Entities/Structures/Decoration/crystals.yml
 
 ent-CrystalBlue = {ent-CrystalGreen}
-    .desc = { ent-CrystalGreen.desc }
+    .desc = {ent-CrystalGreen.desc}
     .suffix = azul
 
 ent-CrystalCyan = {ent-CrystalGreen}
-    .desc = { ent-CrystalGreen.desc }
+    .desc = {ent-CrystalGreen.desc}
     .suffix = ciano
 
 ent-CrystalGreen = crystal
@@ -7557,15 +7487,15 @@ ent-CrystalGreen = crystal
     .desc = Um sólido cristalino.
 
 ent-CrystalGrey = {ent-CrystalGreen}
-    .desc = { ent-CrystalGreen.desc }
+    .desc = {ent-CrystalGreen.desc}
     .suffix = vermelho
 
 ent-CrystalOrange = {ent-CrystalGreen}
-    .desc = { ent-CrystalGreen.desc }
+    .desc = {ent-CrystalGreen.desc}
     .suffix = laranja
 
 ent-CrystalPink = {ent-CrystalGreen}
-    .desc = { ent-CrystalGreen.desc }
+    .desc = {ent-CrystalGreen.desc}
     .suffix = rosa
 
 # From: Entities/Structures/Decoration/curtains.yml
@@ -7575,84 +7505,83 @@ ent-BaseCurtains = cortinas
     .desc = Esconde o que outros não deveriam ver.
 
 ent-CurtainsBlack = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Preto Chique
 
 ent-CurtainsBlackOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Preto Chique
 
 ent-CurtainsBlue = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Azul Chique
 
 ent-CurtainsBlueOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Azul Chique
 
 ent-CurtainsCyan = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Ciano Chique
 
 ent-CurtainsCyanOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Ciano Chique
 
 ent-CurtainsGreen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Verde Chique
 
 ent-CurtainsGreenOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Verde Chique
 
 ent-CurtainsOrange = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Laranja Chique
 
 ent-CurtainsOrangeOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Laranja Chique
 
 ent-CurtainsPink = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Rosa Chique
 
 ent-CurtainsPinkOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Rosa Chique
 
 ent-CurtainsPurple = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Roxo Chique
 
 ent-CurtainsPurpleOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Roxo Chique
 
 ent-CurtainsRed = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Vermelho Chique
 
 ent-CurtainsRedOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Vermelho Chique
 
 ent-CurtainsWhite = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Branco Chique
 
 ent-CurtainsWhiteOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Branco Chique
 
 ent-HospitalCurtains = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
     .suffix = Hospital
     .desc = Contém menos de 1% de mercúrio.
 
 ent-HospitalCurtainsOpen = {ent-BaseCurtains}
-    .desc = { ent-BaseCurtains.desc }
+    .desc = {ent-BaseCurtains.desc}
     .suffix = Aberto, Hospital
 
 # From: Entities/Structures/Decoration/decorated_fir_tree.yml
@@ -7713,7 +7642,7 @@ ent-BoozeDispenser = distribuidor de álcool
     .desc = Um distribuidor de álcool com um único slot para um recipiente ser preenchido.
 
 ent-BoozeDispenserEmpty = {ent-BoozeDispenser}
-    .desc = { ent-BoozeDispenser.desc }
+    .desc = {ent-BoozeDispenser.desc}
     .suffix = Vazio
 
 # From: Entities/Structures/Dispensers/chem.yml
@@ -7732,781 +7661,630 @@ ent-SodaDispenser = distribuidor de refrigerante
     .desc = Um distribuidor de bebidas com uma seleção de refrigerante e várias outras bebidas comuns. Tem um único slot de preenchimento para recipientes.
 
 ent-SodaDispenserEmpty = {ent-SodaDispenser}
-    .desc = { ent-SodaDispenser.desc }
+    .desc = {ent-SodaDispenser.desc}
     .suffix = Vazio
 
 # From: Entities/Structures/Doors/Airlocks/access.yml
 
 ent-AirlockArmoryGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Arsenal, Travado
 
 ent-AirlockArmoryLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Arsenal, Travado
 
 ent-AirlockAtmosphericsGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Atmosférico, Travado
 
 ent-AirlockAtmosphericsLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Atmosférico, Travado
 
 ent-AirlockBarGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Bar, Travado
 
 ent-AirlockBarKitchenGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-AirlockBarKitchenLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-AirlockBarLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Bar, Travado
 
 ent-AirlockBrigGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Brig, Travado
 
 ent-AirlockBrigLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Brig, Travado
 
 ent-AirlockCaptainGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Capitão, Travado
 
 ent-AirlockCaptainLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Capitão, Travado
 
 ent-AirlockCargoGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Carga, Travado
 
 ent-AirlockCargoLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Carga, Travado
 
 ent-AirlockCentralCommandGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Central, Travado
 
 ent-AirlockCentralCommandLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Comando Central, Travado
 
 ent-AirlockChapelGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Capela, Travado
 
 ent-AirlockChapelLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Capela, Travado
 
 ent-AirlockChemistryGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Química, Travado
 
 ent-AirlockChemistryLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Química, Travado
 
 ent-AirlockChiefEngineerGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeDeEngenharia, Travado
 
 ent-AirlockChiefEngineerLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = ChefeDeEngenharia, Travado
 
 ent-AirlockChiefMedicalOfficerGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeMédico, Travado
 
 ent-AirlockChiefMedicalOfficerLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = ChefeMédico, Travado
 
 ent-AirlockCommandGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Comando, Travado
 
 ent-AirlockCommandLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Comando, Travado
 
 ent-AirlockDetectiveGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Detetive, Travado
 
 ent-AirlockDetectiveLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Detetive, Travado
 
 ent-AirlockEngineeringGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Engenharia, Travado
 
 ent-AirlockEngineeringLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Engenharia, Travado
 
 ent-AirlockEVAGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = EVA, Travado
 
 ent-AirlockEVALocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = EVA, Travado
 
 ent-AirlockExternalAtmosphericsLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Atmosférico, Travado
 
 ent-AirlockExternalCargoLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Carga, Travado
 
 ent-AirlockExternalCommandLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Comando, Travado
 
 ent-AirlockExternalEngineeringLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Engenharia, Travado
 
 ent-AirlockExternalGlassAtmosphericsLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Atmosférico, Travado
 
 ent-AirlockExternalGlassCargoLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Carga, Travado
 
 ent-AirlockExternalGlassCommandLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Comando, Travado
 
 ent-AirlockExternalGlassEngineeringLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Engenharia, Travado
 
 ent-AirlockExternalGlassLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Travado
 
 ent-AirlockExternalGlassNukeopLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Nukeop, Travado
 
 ent-AirlockExternalGlassShuttleArrivals = {ent-AirlockGlassShuttle}
-    .desc = { ent-AirlockGlassShuttle.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-AirlockGlassShuttle.desc}
     .suffix = Externo, Chegadas, Vidro, Acoplamento
 
 ent-AirlockExternalGlassShuttleEmergencyLocked = {ent-AirlockGlassShuttle}
-    .desc = { ent-AirlockGlassShuttle.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-AirlockGlassShuttle.desc}
     .suffix = Externo, Emergência, Vidro, Acoplamento, Travado
 
 ent-AirlockExternalGlassShuttleEscape = {ent-AirlockGlassShuttle}
-    .desc = { ent-AirlockGlassShuttle.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-AirlockGlassShuttle.desc}
     .suffix = Externo, Fuga 3x4, Vidro, Acoplamento
 
 ent-AirlockExternalGlassShuttleLocked = {ent-AirlockGlassShuttle}
-    .desc = { ent-AirlockGlassShuttle.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-AirlockGlassShuttle.desc}
     .suffix = Externo, Vidro, Acoplamento, Travado
 
 ent-AirlockExternalGlassShuttleNukeopLocked = {ent-AirlockGlassShuttleSyndicate}
-    .desc = { ent-AirlockGlassShuttleSyndicate.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-AirlockGlassShuttleSyndicate.desc}
     .suffix = Nukeop, Travado, Vidro
 
 ent-AirlockExternalGlassShuttleSyndicateLocked = {ent-AirlockGlassShuttleSyndicate}
-    .desc = { ent-AirlockGlassShuttleSyndicate.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-AirlockGlassShuttleSyndicate.desc}
     .suffix = Sindicato, Travado, Vidro
 
 ent-AirlockExternalGlassSyndicateLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternalGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Vidro, Sindicato, Travado
 
 ent-AirlockExternalLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Travado
 
 ent-AirlockExternalNukeopLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Nukeop, Travado
 
 ent-AirlockExternalShuttleLocked = {ent-AirlockShuttle}
-    .desc = { ent-AirlockShuttle.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-AirlockShuttle.desc}
     .suffix = Externo, Acoplamento, Travado
 
 ent-AirlockExternalShuttleNukeopLocked = {ent-AirlockShuttleSyndicate}
-    .desc = { ent-AirlockShuttleSyndicate.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-AirlockShuttleSyndicate.desc}
     .suffix = Externo, Acoplamento, Nukeop, Travado
 
 ent-AirlockExternalShuttleSyndicateLocked = {ent-AirlockShuttleSyndicate}
-    .desc = { ent-AirlockShuttleSyndicate.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-AirlockShuttleSyndicate.desc}
     .suffix = Externo, Acoplamento, Sindicato, Travado
 
 ent-AirlockExternalSyndicateLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockExternal.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Externo, Sindicato, Travado
 
 ent-AirlockFreezerHydroponicsLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockFreezerKitchenHydroLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Cozinha/Hidroponia, Travado
 
 ent-AirlockFreezerLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockHatchSyndicate = {ent-AirlockHatch}
-    .desc = { ent-AirlockHatch.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockHatch.desc}
     .suffix = Sindicato, Travado
 
 ent-AirlockHeadOfPersonnelGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-AirlockHeadOfPersonnelLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-AirlockHeadOfSecurityGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = ChefeDeSegurança, Travado
 
 ent-AirlockHeadOfSecurityLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = ChefeDeSegurança, Travado
 
 ent-AirlockHydroGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockHydroponicsLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockJanitorGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Zelador, Travado
 
 ent-AirlockJanitorLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Zelador, Travado
 
 ent-AirlockKitchenGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockKitchenLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockLawyerGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Advogado, Travado
 
 ent-AirlockLawyerLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Advogado, Travado
 
 ent-AirlockMaintArmoryLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Arsenal, Travado
 
 ent-AirlockMaintAtmoLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Atmosférico, Travado
 
 ent-AirlockMaintBarKitchenLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-AirlockMaintBarLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Bar, Travado
 
 ent-AirlockMaintCaptainLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Capitão, Travado
 
 ent-AirlockMaintCargoLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Carga, Travado
 
 ent-AirlockMaintChapelLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Capela, Travado
 
 ent-AirlockMaintChemLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Química, Travado
 
 ent-AirlockMaintChiefEngineerLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = ChefeDeEngenharia, Travado
 
 ent-AirlockMaintChiefMedicalOfficerLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = ChefeMédico, Travado
 
 ent-AirlockMaintCommandLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Comando, Travado
 
 ent-AirlockMaintCommonLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Comum, Travado
 
 ent-AirlockMaintDetectiveLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Detetive, Travado
 
 ent-AirlockMaintEngiLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Engenharia, Travado
 
 ent-AirlockMaintGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Travado
 
 ent-AirlockMaintHeadOfSecurityLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = ChefeDeSegurança, Travado
 
 ent-AirlockMaintHOPLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-AirlockMaintHydroLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Hidroponia, Travado
 
 ent-AirlockMaintIntLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Interior, Travado
 
 ent-AirlockMaintJanitorLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Zelador, Travado
 
 ent-AirlockMaintKitchenHydroLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Cozinha/Hidroponia, Travado
 
 ent-AirlockMaintKitchenLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Cozinha, Travado
 
 ent-AirlockMaintLawyerLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Advogado, Travado
 
 ent-AirlockMaintLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Travado
 
 ent-AirlockMaintMedLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Médico, Travado
 
 ent-AirlockMaintQuartermasterLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = QuartelMestre, Travado
 
 ent-AirlockMaintResearchDirectorLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = DiretorDePesquisa, Travado
 
 ent-AirlockMaintRnDLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Ciência, Travado
 
 ent-AirlockMaintRnDMedLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Médico/Ciência, Travado
 
 ent-AirlockMaintSalvageLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Salvagem, Travado
 
 ent-AirlockMaintSecLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Segurança, Travado
 
 ent-AirlockMaintServiceLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Serviço, Travado
 
 ent-AirlockMaintTheatreLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Teatro, Travado
 
 ent-AirlockMedicalGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Médico, Travado
 
 ent-AirlockMedicalLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Médico, Travado
 
 ent-AirlockMedicalMorgueGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Necrotério, Travado
 
 ent-AirlockMedicalMorgueLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Necrotério, Travado
 
 ent-AirlockMedicalMorgueMaintLocked = {ent-AirlockMaint}
-    .desc = { ent-AirlockMaint.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockMaint.desc}
     .suffix = Necrotério, Travado
 
 ent-AirlockMedicalScienceGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Médico/Ciência, Travado
 
 ent-AirlockMedicalScienceLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Médico/Ciência, Travado
 
 ent-AirlockMiningGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Mineração(Salvagem), Travado
 
 ent-AirlockMiningLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Mineração(Salvagem), Travado
 
 ent-AirlockQuartermasterGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = QuartelMestre, Travado
 
 ent-AirlockQuartermasterLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = QuartelMestre, Travado
 
 ent-AirlockResearchDirectorGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = DiretorDePesquisa, Travado
 
 ent-AirlockResearchDirectorLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = DiretorDePesquisa, Travado
 
 ent-AirlockSalvageGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Salvagem, Travado
 
 ent-AirlockSalvageLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Salvagem, Travado
 
 ent-AirlockScienceGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Ciência, Travado
 
 ent-AirlockScienceLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Ciência, Travado
 
 ent-AirlockSecurityGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança, Travado
 
 ent-AirlockSecurityLawyerGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança/Advogado, Travado
 
 ent-AirlockSecurityLawyerLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Segurança/Advogado, Travado
 
 ent-AirlockSecurityLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Segurança, Travado
 
 ent-AirlockServiceGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Serviço, Travado
 
 ent-AirlockServiceLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Serviço, Travado
 
 ent-AirlockSyndicateGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Sindicato, Travado
 
 ent-AirlockSyndicateLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Sindicato, Travado
 
 ent-AirlockSyndicateNukeopGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Nukeop, Travado
 
 ent-AirlockSyndicateNukeopLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Nukeop, Travado
 
 ent-AirlockTheatreGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Teatro, Travado
 
 ent-AirlockTheatreLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Teatro, Travado
 
 ent-AirlockVaultLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Cofre, Travado
 
 ent-AirlockVirologyGlassLocked = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Virologia, Travado
 
 ent-AirlockVirologyLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Virologia, Travado
 
 ent-AirlockXenoMaintLocked = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Manutenção, Travado
 
 ent-HighSecArmoryLocked = {ent-HighSecDoor}
-    .desc = { ent-HighSecDoor.desc }
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Arsenal, Travado
 
 ent-HighSecCaptainLocked = {ent-HighSecDoor}
-    .desc = { ent-HighSecDoor.desc }
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Capitão, Travado
 
 ent-HighSecCentralCommandLocked = {ent-HighSecDoor}
-    .desc = { ent-HighSecDoor.desc }
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Comando Central, Travado
 
 ent-HighSecCommandLocked = {ent-HighSecDoor}
-    .desc = { ent-HighSecDoor.desc }
+    .desc = {ent-HighSecDoor.desc}
     .suffix = Comando, Travado
 
 # From: Entities/Structures/Doors/Airlocks/airlocks.yml
 
 ent-AirlockAtmospherics = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Atmosférico
 
 ent-AirlockAtmosphericsGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Atmosférico
 
 ent-AirlockCargo = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Carga
 
 ent-AirlockCargoGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Carga
 
 ent-AirlockCentralCommand = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Comando Central
 
 ent-AirlockCentralCommandGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Comando Central
 
 ent-AirlockChemistry = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Química
 
 ent-AirlockChemistryGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Química
 
 ent-AirlockCommand = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Comando
 
 ent-AirlockCommandGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Comando
 
 ent-AirlockEngineering = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Engenharia
 
 ent-AirlockEngineeringGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Engenharia
 
 ent-AirlockFreezer = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Congelador
 
 ent-AirlockGlassXeno = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Xeno
 
@@ -8515,269 +8293,218 @@ ent-AirlockHatch = escotilha hermética
 ent-AirlockHatchMaintenance = escotilha de manutenção
 
 ent-AirlockHydroponics = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Hidroponia
 
 ent-AirlockHydroponicsGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Hidroponia
 
 ent-AirlockMaint = acesso de manutenção
 
 ent-AirlockMaintGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Manutenção
 
 ent-AirlockMedical = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Médico
 
 ent-AirlockMedicalGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Médico
 
 ent-AirlockMining = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Mineração(Salvagem)
 
 ent-AirlockMiningGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Mineração(Salvagem)
 
 ent-AirlockScience = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Ciência
 
 ent-AirlockScienceGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Ciência
 
 ent-AirlockSecurity = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Segurança
 
 ent-AirlockSecurityGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Segurança
 
 ent-AirlockSyndicate = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Sindicato
 
 ent-AirlockSyndicateGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Sindicato
 
 ent-AirlockVirology = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Virologia
 
 ent-AirlockVirologyGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
     .desc = {ent-AirlockGlass.desc}
     .suffix = Virologia
 
 ent-AirlockXeno = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .desc = {ent-Airlock.desc}
     .suffix = Xeno
 
 # From: Entities/Structures/Doors/Airlocks/assembly.yml
 
 ent-AirlockAssemblyAtmospherics = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Atmosférico
 
 ent-AirlockAssemblyAtmosphericsGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Atmosférico, Vidro
 
 ent-AirlockAssemblyCargo = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Carga
 
 ent-AirlockAssemblyCargoGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Carga, Vidro
 
 ent-AirlockAssemblyCentralCommand = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = ComandoCentral
 
 ent-AirlockAssemblyCentralCommandGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = ComandoCentral, Vidro
 
 ent-AirlockAssemblyCommand = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Comando
 
 ent-AirlockAssemblyCommandGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Comando, Vidro
 
 ent-AirlockAssemblyEngineering = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Engenharia
 
 ent-AirlockAssemblyEngineeringGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Engenharia, Vidro
 
 ent-AirlockAssemblyExternal = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Externo
 
 ent-AirlockAssemblyExternalGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Externo, Vidro
 
 ent-AirlockAssemblyFreezer = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Congelador
 
 ent-AirlockAssemblyGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Vidro
 
 ent-AirlockAssemblyHighSec = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = AltaSegurança
 
 ent-AirlockAssemblyHydroponics = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Hidroponia
 
 ent-AirlockAssemblyHydroponicsGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Hidroponia, Vidro
 
 ent-AirlockAssemblyMaintenance = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Manutenção
 
 ent-AirlockAssemblyMaintenanceGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Manutenção, Vidro
 
 ent-AirlockAssemblyMedical = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Médico
 
 ent-AirlockAssemblyMedicalGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Médico, Vidro
 
 ent-AirlockAssemblyMining = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Mineração
 
 ent-AirlockAssemblyMiningGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Mineração, Vidro
 
 ent-AirlockAssemblyScience = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Ciência
 
 ent-AirlockAssemblyScienceGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Ciência, Vidro
 
 ent-AirlockAssemblySecurity = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Segurança
 
 ent-AirlockAssemblySecurityGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Segurança, Vidro
 
 ent-AirlockAssemblyShuttle = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Navette
 
 ent-AirlockAssemblyShuttleGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Navette, Vidro
 
 ent-AirlockAssemblyShuttleSyndicate = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = NavetteSindicato
 
 ent-AirlockAssemblyShuttleSyndicateGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = NavetteSindicato, Vidro
 
 ent-AirlockAssemblySyndicate = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Sindicato
 
 ent-AirlockAssemblySyndicateGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Sindicato, Vidro
 
 ent-AirlockAssemblyVirology = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-Airlock.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Virologia
 
 ent-AirlockAssemblyVirologyGlass = {ent-AirlockAssembly}
-    .desc = { ent-AirlockAssembly.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-AirlockAssembly.desc}
     .suffix = Virologia, Vidro
 
 ent-PinionAirlockAssembly = montagem de airlock
     .suffix = Pinion, Engrenagens
 
 ent-PinionAirlockAssemblyGlass = {ent-PinionAirlockAssembly}
-    .desc = { ent-PinionAirlockAssembly.desc }
+    .desc = {ent-PinionAirlockAssembly.desc}
     .suffix = Pinion, Engrenagens, Vidro
 
 # From: Entities/Structures/Doors/Airlocks/base_assembly.yml
@@ -8796,23 +8523,21 @@ ent-AirlockGlass = airlock de vidro
 # From: Entities/Structures/Doors/Airlocks/clockwork.yml
 
 ent-PinionAirlock = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
+    .desc = {ent-Airlock.desc}
     .suffix = Pinion, Engrenagens
 
 ent-PinionAirlockGlass = {ent-AirlockGlass}
-    .desc = { ent-AirlockGlass.desc }
+    .desc = {ent-AirlockGlass.desc}
     .suffix = Pinion, Engrenagens
 
 # From: Entities/Structures/Doors/Airlocks/external.yml
 
 ent-AirlockExternal = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
     .suffix = Externo
     .desc = Abre, fecha, talvez te esmague, e pode ter apenas espaço atrás dele.
 
 ent-AirlockExternalGlass = {ent-Airlock}
-    .desc = { ent-Airlock.desc }
-    .desc = {ent-AirlockGlass.desc}
+    .desc = {ent-Airlock.desc}
     .suffix = Vidro, Externo
 
 # From: Entities/Structures/Doors/Airlocks/highsec.yml
@@ -8867,28 +8592,28 @@ ent-BaseMaterialDoor = porta
     .desc = Uma porta, para onde ela leva?
 
 ent-BananiumDoor = porta de banânio
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 ent-GoldDoor = porta de ouro
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 ent-MetalDoor = porta metálica
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 ent-PaperDoor = porta de papel
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 ent-PlasmaDoor = porta de plasma
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 ent-SilverDoor = porta de prata
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 ent-WebDoor = porta de teia
     .desc = Uma porta, levando às terras das aranhas... ou uma sala no espaço.
 
 ent-WoodDoor = porta de madeira
-    .desc = { ent-BaseMaterialDoor.desc }
+    .desc = {ent-BaseMaterialDoor.desc}
 
 # From: Entities/Structures/Doors/SecretDoor/secret_door.yml
 # Abstract entity (referenceable by children)
@@ -8906,69 +8631,69 @@ ent-SolidSecretDoor = parede sólida
 # From: Entities/Structures/Doors/Shutter/access.yml
 
 ent-BlastDoorCentralCommand = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Comando Central, Travado
 
 ent-ShuttersWindowCentralCommand = {ent-ShuttersWindow}
-    .desc = { ent-ShuttersWindow.desc }
+    .desc = {ent-ShuttersWindow.desc}
     .suffix = Comando Central, Travado
 
 # From: Entities/Structures/Doors/Shutter/blast_door_autolink.yml
 
 ent-BlastDoorBridge = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Ponte
 
 ent-BlastDoorBridgeOpen = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Ponte
 
 ent-BlastDoorEngineering = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Engenharia
 
 ent-BlastDoorEngineeringOpen = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Engenharia
 
 ent-BlastDoorExterior1 = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Ext1
 
 ent-BlastDoorExterior1Open = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Ext1
 
 ent-BlastDoorExterior2 = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Ext2
 
 ent-BlastDoorExterior2Open = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Ext2
 
 ent-BlastDoorExterior3 = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Ext3
 
 ent-BlastDoorExterior3Open = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Ext3
 
 ent-BlastDoorScience = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Ciência
 
 ent-BlastDoorScienceOpen = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Ciência
 
 ent-BlastDoorWindows = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Autolink, Janelas
 
 ent-BlastDoorWindowsOpen = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto, Autolink, Janelas
 
 # From: Entities/Structures/Doors/Shutter/blast_door.yml
@@ -8980,7 +8705,7 @@ ent-BlastDoorFrame = moldura de porta à prova de explosões
     .desc = Ela diz 'BLAST DONGER'.
 
 ent-BlastDoorOpen = {ent-BlastDoor}
-    .desc = { ent-BlastDoor.desc }
+    .desc = {ent-BlastDoor.desc}
     .suffix = Aberto
 
 ent-BlastDoorXeno = porta à prova de explosões xeno
@@ -8990,7 +8715,7 @@ ent-BlastDoorXenoFrame = moldura de porta à prova de explosões xeno
     .desc = Ela diz 'BLAST DONGER'.
 
 ent-BlastDoorXenoOpen = {ent-BlastDoorXeno}
-    .desc = { ent-BlastDoorXeno.desc }
+    .desc = {ent-BlastDoorXeno.desc}
     .suffix = Aberto
 
 # From: Entities/Structures/Doors/Shutter/shutters.yml
@@ -9003,21 +8728,21 @@ ent-ShuttersFrame = moldura de obturador
     .desc = Uma moldura para construir um obturador.
 
 ent-ShuttersNormalOpen = {ent-BaseShutter}
-    .desc = { ent-BaseShutter.desc }
+    .desc = {ent-BaseShutter.desc}
     .suffix = Aberto
 
 ent-ShuttersRadiation = obturadores de radiação
     .desc = Por que eles fizeram estes obturadores radioativos?
 
 ent-ShuttersRadiationOpen = {ent-ShuttersRadiation}
-    .desc = { ent-ShuttersRadiation.desc }
+    .desc = {ent-ShuttersRadiation.desc}
     .suffix = Aberto
 
 ent-ShuttersWindow = obturadores de janela
     .desc = O Melhor (TM) lugar para ver seus amigos explodirem!
 
 ent-ShuttersWindowOpen = {ent-ShuttersWindow}
-    .desc = { ent-ShuttersWindow.desc }
+    .desc = {ent-ShuttersWindow.desc}
     .suffix = Aberto
 
 # From: Entities/Structures/Doors/Windoors/assembly.yml
@@ -9051,125 +8776,125 @@ ent-BaseClockworkWindoor = windoor de engrenagens
 # From: Entities/Structures/Doors/Windoors/windoor.yml
 
 ent-PlasmaWindoorJanitorLocked = {ent-WindoorPlasma}
-    .desc = { ent-WindoorPlasma.desc }
+    .desc = {ent-WindoorPlasma.desc}
     .suffix = Zelador, Travado, Plasma
 
 ent-PlasmaWindoorNukeopLocked = {ent-WindoorPlasma}
-    .desc = { ent-WindoorPlasma.desc }
+    .desc = {ent-WindoorPlasma.desc}
     .suffix = Nukeop, Travado, Plasma
 
 ent-PlasmaWindoorSecureArmoryLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Arsenal, Travado, Plasma
 
 ent-PlasmaWindoorSecureAtmosphericsLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Atmosfera, Travado, Plasma
 
 ent-PlasmaWindoorSecureCentralCommandLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Comando Central, Travado, Plasma
 
 ent-PlasmaWindoorSecureChemistryLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Química, Travado, Plasma
 
 ent-PlasmaWindoorSecureCommandLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Comando, Travado, Plasma
 
 ent-PlasmaWindoorSecureEngineeringLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Engenharia, Travado, Plasma
 
 ent-PlasmaWindoorSecureJanitorLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Zelador, Travado, Plasma
 
 ent-PlasmaWindoorSecureNukeopLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Nukeop, Travado, Plasma
 
 ent-PlasmaWindoorSecureScienceLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Ciência, Travado, Plasma
 
 ent-PlasmaWindoorSecureSecurityLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Segurança, Travado, Plasma
 
 ent-PlasmaWindoorSecureSyndicateLocked = {ent-WindoorSecurePlasma}
-    .desc = { ent-WindoorSecurePlasma.desc }
+    .desc = {ent-WindoorSecurePlasma.desc}
     .suffix = Sindicato, Travado, Plasma
 
 ent-PlasmaWindoorSyndicateLocked = {ent-WindoorPlasma}
-    .desc = { ent-WindoorPlasma.desc }
+    .desc = {ent-WindoorPlasma.desc}
     .suffix = Sindicato, Travado, Plasma
 
 ent-UraniumWindoorNukeopLocked = {ent-WindoorUranium}
-    .desc = { ent-WindoorUranium.desc }
+    .desc = {ent-WindoorUranium.desc}
     .suffix = Nukeop, Travado, Urânio
 
 ent-UraniumWindoorSecureCentralCommandLocked = {ent-WindoorSecureUranium}
-    .desc = { ent-WindoorSecureUranium.desc }
+    .desc = {ent-WindoorSecureUranium.desc}
     .suffix = Comando Central, Travado, Urânio
 
 ent-UraniumWindoorSecureEngineeringLocked = {ent-WindoorSecureUranium}
-    .desc = { ent-WindoorSecureUranium.desc }
+    .desc = {ent-WindoorSecureUranium.desc}
     .suffix = Engenharia, Travado, Urânio
 
 ent-UraniumWindoorSecureNukeopLocked = {ent-WindoorSecureUranium}
-    .desc = { ent-WindoorSecureUranium.desc }
+    .desc = {ent-WindoorSecureUranium.desc}
     .suffix = Nukeop, Travado, Urânio
 
 ent-UraniumWindoorSecureSyndicateLocked = {ent-WindoorSecureUranium}
-    .desc = { ent-WindoorSecureUranium.desc }
+    .desc = {ent-WindoorSecureUranium.desc}
     .suffix = Sindicato, Travado, Urânio
 
 ent-UraniumWindoorSyndicateLocked = {ent-WindoorUranium}
-    .desc = { ent-WindoorUranium.desc }
+    .desc = {ent-WindoorUranium.desc}
     .suffix = Sindicato, Travado, Urânio
 
 ent-Windoor = windoor
     .desc = É uma janela e uma porta deslizante. Uau!
 
 ent-WindoorBarKitchenLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Bar&Cozinha, Travado
 
 ent-WindoorBarLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Bar, Travado
 
 ent-WindoorCargoLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Carga, Travado
 
 ent-WindoorChapelLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Capela, Travado
 
 ent-WindoorClockwork = windoor de engrenagens
     .desc = É uma janela resistente e uma porta deslizante. Uau!
 
 ent-WindoorHydroponicsLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Hidroponia, Travado
 
 ent-WindoorJanitorLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Zelador, Travado
 
 ent-WindoorKitchenHydroponicsLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Cozinha&Hidroponia, Travado
 
 ent-WindoorKitchenLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Cozinha, Travado
 
 ent-WindoorNukeopLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Nukeop, Travado
 
 ent-WindoorPlasma = windoor de plasma
@@ -9179,113 +8904,113 @@ ent-WindoorSecure = windoor segura
     .desc = É uma janela resistente e uma porta deslizante. Uau!
 
 ent-WindoorSecureArmoryLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Arsenal, Travado
 
 ent-WindoorSecureAtmosphericsLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Atmosfera, Travado
 
 ent-WindoorSecureBarLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Bar, Travado
 
 ent-WindoorSecureBrigLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Brig, Travado
 
 ent-WindoorSecureCargoLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Carga, Travado
 
 ent-WindoorSecureCentralCommandLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Comando Central, Travado
 
 ent-WindoorSecureChapelLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Capela, Travado
 
 ent-WindoorSecureChemistryLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Química, Travado
 
 ent-WindoorSecureCommandLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Comando, Travado
 
 ent-WindoorSecureDetectiveLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Detetive, Travado
 
 ent-WindoorSecureEngineeringLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Engenharia, Travado
 
 ent-WindoorSecureExternalLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Externo, Travado
 
 ent-WindoorSecureHeadOfPersonnelLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = ChefeDePessoal, Travado
 
 ent-WindoorSecureJanitorLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Zelador, Travado
 
 ent-WindoorSecureKitchenLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Cozinha, Travado
 
 ent-WindoorSecureMedicalLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Médico, Travado
 
 ent-WindoorSecureNukeopLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Nukeop, Travado
 
 ent-WindoorSecurePlasma = windoor segura de plasma
     .desc = É uma janela púrpura resistente *e* uma porta deslizante. Espetacular!
 
 ent-WindoorSecureSalvageLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Salvagem, Travado
 
 ent-WindoorSecureScienceLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Ciência, Travado
 
 ent-WindoorSecureSecurityLawyerLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Segurança/Advogado, Travado
 
 ent-WindoorSecureSecurityLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Segurança, Travado
 
 ent-WindoorSecureServiceLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Serviço, Travado
 
 ent-WindoorSecureSyndicateLocked = {ent-WindoorSecure}
-    .desc = { ent-WindoorSecure.desc }
+    .desc = {ent-WindoorSecure.desc}
     .suffix = Sindicato, Travado
 
 ent-WindoorSecureUranium = windoor segura de urânio
     .desc = É uma janela resistente e uma porta deslizante. É tão verde neon que pode até ter gosto de limas!
 
 ent-WindoorServiceLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Serviço, Travado
 
 ent-WindoorSyndicateLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Sindicato, Travado
 
 ent-WindoorTheatreLocked = {ent-Windoor}
-    .desc = { ent-Windoor.desc }
+    .desc = {ent-Windoor.desc}
     .suffix = Teatro, Travado
 
 ent-WindoorUranium = windoor de urânio
@@ -9360,11 +9085,10 @@ ent-WebBed = cama de teia
 # From: Entities/Structures/Furniture/bench.yml
 
 ent-BenchBlueComfy = {ent-BenchComfy}
-    .desc = { ent-BenchComfy.desc }
+    .desc = {ent-BenchComfy.desc}
     .suffix = Solo. Azul
 
 ent-BenchColorfulComfy = {ent-BenchComfy}
-    .desc = { ent-BenchComfy.desc }
     .suffix = Solo. Colorido
     .desc = Um banco com um encosto extremamente confortável.
 
@@ -9372,7 +9096,7 @@ ent-BenchComfy = banco confortável
     .desc = Um banco com um encosto extremamente confortável.
 
 ent-BenchRedComfy = {ent-BenchComfy}
-    .desc = { ent-BenchComfy.desc }
+    .desc = {ent-BenchComfy.desc}
     .suffix = Solo. Vermelho
 
 # From: Entities/Structures/Furniture/bookshelf.yml
@@ -9383,7 +9107,7 @@ ent-Bookshelf = estante de livros
 # From: Entities/Structures/Furniture/carpets.yml
 
 ent-Carpet = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Vermelho
 
 # Abstract entity (referenceable by children)
@@ -9392,41 +9116,41 @@ ent-CarpetBase = tapete
     .desc = Superfície de caminhada elegante.
 
 ent-CarpetBlack = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Preto
 
 ent-CarpetBlue = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Azul
 
 ent-CarpetChapel = tapete da capela
 
 ent-CarpetCyan = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Ciano
 
 ent-CarpetGreen = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Verde
 
 ent-CarpetOrange = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Laranja
 
 ent-CarpetPink = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Rosa
 
 ent-CarpetPurple = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Roxo
 
 ent-CarpetSBlue = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Azul Celeste
 
 ent-CarpetWhite = {ent-CarpetBase}
-    .desc = { ent-CarpetBase.desc }
+    .desc = {ent-CarpetBase.desc}
     .suffix = Branco
 
 # From: Entities/Structures/Furniture/chairs.yml
@@ -9446,7 +9170,7 @@ ent-ChairFolding = cadeira dobrável
     .desc = Se você carregar seis delas, você se torna a criança mais legal da igreja.
 
 ent-ChairFoldingSpawnFolded = {ent-ChairFolding}
-    .desc = { ent-ChairFolding.desc }
+    .desc = {ent-ChairFolding.desc}
     .suffix = dobrada
 
 ent-ChairGreyscale = cadeira
@@ -9509,7 +9233,7 @@ ent-Dresser = cômoda
     .desc = Cômoda de madeira, pode guardar coisas dentro dela, ideal para roupa íntima, e os rins de alguém?...
 
 ent-DresserFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida
 
 # From: Entities/Structures/Furniture/memorial.yml
@@ -9523,11 +9247,9 @@ ent-SS13Memorial = túmulo do funcionário desconhecido
 # From: Entities/Structures/Furniture/potted_plants.yml
 
 ent-PottedPlant10 = {ent-PottedPlantBase}
-    .desc = { ent-PottedPlantBase.desc }
     .desc = Uma linda peça da natureza contida em um vaso.
 
 ent-PottedPlant26 = {ent-PottedPlantBase}
-    .desc = { ent-PottedPlantBase.desc }
     .desc = São apenas meus olhos, ou ela está piscando?
 
 ent-PottedPlant27 = planta em vaso de plástico
@@ -9550,21 +9272,21 @@ ent-CheapRollerBed = maca
     .desc = Uma maca desgastada. Usada para carregar pacientes.
 
 ent-CheapRollerBedSpawnFolded = {ent-CheapRollerBed}
-    .desc = { ent-CheapRollerBed.desc }
+    .desc = {ent-CheapRollerBed.desc}
     .suffix = dobrada
 
 ent-EmergencyRollerBed = maca
     .desc = Uma maca robusta usada para emergências.
 
 ent-EmergencyRollerBedSpawnFolded = {ent-EmergencyRollerBed}
-    .desc = { ent-EmergencyRollerBed.desc }
+    .desc = {ent-EmergencyRollerBed.desc}
     .suffix = dobrada
 
 ent-RollerBed = maca
     .desc = Usada para carregar pacientes sem danificá-los.
 
 ent-RollerBedSpawnFolded = {ent-RollerBed}
-    .desc = { ent-RollerBed.desc }
+    .desc = {ent-RollerBed.desc}
     .suffix = dobrada
 
 # From: Entities/Structures/Furniture/sink.yml
@@ -9631,39 +9353,39 @@ ent-TableFancyBase = mesa elegante
     .desc = Caro e rico.
 
 ent-TableFancyBlack = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Preto
 
 ent-TableFancyBlue = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Azul
 
 ent-TableFancyCyan = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Ciano
 
 ent-TableFancyGreen = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Verde
 
 ent-TableFancyOrange = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Laranja
 
 ent-TableFancyPink = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Rosa
 
 ent-TableFancyPurple = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Roxo
 
 ent-TableFancyRed = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Vermelho
 
 ent-TableFancyWhite = {ent-TableFancyBase}
-    .desc = { ent-TableFancyBase.desc }
+    .desc = {ent-TableFancyBase.desc}
     .suffix = Branco
 
 ent-TableFrame = moldura de mesa
@@ -9700,7 +9422,7 @@ ent-BaseToilet = vaso sanitário
     .desc = O HT-451, uma unidade de descarte de resíduos baseada em rotação de torque para pequena matéria. Este parece notavelmente limpo.
 
 ent-ToiletDirtyWater = {ent-ToiletEmpty}
-    .desc = { ent-ToiletEmpty.desc }
+    .desc = {ent-ToiletEmpty.desc}
     .suffix = Água Suja
 
 ent-ToiletEmpty = vaso sanitário
@@ -9708,7 +9430,7 @@ ent-ToiletEmpty = vaso sanitário
     .desc = O HT-451, uma unidade de descarte de resíduos baseada em rotação de torque para pequena matéria. Este parece notavelmente limpo.
 
 ent-ToiletGoldenDirtyWater = {ent-ToiletGoldenEmpty}
-    .desc = { ent-ToiletGoldenEmpty.desc }
+    .desc = {ent-ToiletGoldenEmpty.desc}
     .suffix = Água Suja, AlvoDeRoubo
 
 ent-ToiletGoldenEmpty = vaso sanitário dourado
@@ -9724,15 +9446,15 @@ ent-LogicEmptyCircuit = circuito vazio
     .desc = Algo parece estar faltando.
 
 ent-LogicGateAnd = {ent-LogicGateOr}
-    .desc = { ent-LogicGateOr.desc }
+    .desc = {ent-LogicGateOr.desc}
     .suffix = And
 
 ent-LogicGateNand = {ent-LogicGateOr}
-    .desc = { ent-LogicGateOr.desc }
+    .desc = {ent-LogicGateOr.desc}
     .suffix = Nand
 
 ent-LogicGateNor = {ent-LogicGateOr}
-    .desc = { ent-LogicGateOr.desc }
+    .desc = {ent-LogicGateOr.desc}
     .suffix = Nor
 
 ent-LogicGateOr = porta lógica
@@ -9740,11 +9462,11 @@ ent-LogicGateOr = porta lógica
     .desc = Uma porta lógica com duas entradas e uma saída. Técnicos podem mudar seu modo de operação usando uma chave de fenda.
 
 ent-LogicGateXnor = {ent-LogicGateOr}
-    .desc = { ent-LogicGateOr.desc }
+    .desc = {ent-LogicGateOr.desc}
     .suffix = Xnor
 
 ent-LogicGateXor = {ent-LogicGateOr}
-    .desc = { ent-LogicGateOr.desc }
+    .desc = {ent-LogicGateOr.desc}
     .suffix = Xor
 
 ent-MemoryCell = célula de memória
@@ -9776,45 +9498,45 @@ ent-hydroponicsTray = bandeja de hidroponia
     .desc = Um canteiro espacial de grau interplanetário permitindo crescimento rápido e melhoramento seletivo de plantas. Só... lembre-se das ervas espaciais.
 
 ent-HydroponicsTrayEmpty = {ent-hydroponicsTray}
-    .desc = { ent-hydroponicsTray.desc }
+    .desc = {ent-hydroponicsTray.desc}
     .suffix = Vazio
 
 # From: Entities/Structures/Lighting/base_lighting.yml
 
 ent-AlwaysPoweredlightBlue = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Azul
 
 ent-AlwaysPoweredlightCyan = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Ciano
 
 ent-AlwaysPoweredLightExterior = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Externo
 
 ent-AlwaysPoweredlightGreen = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Verde
 
 ent-AlwaysPoweredLightLED = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, LED
 
 ent-AlwaysPoweredlightOrange = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Laranja
 
 ent-AlwaysPoweredlightPink = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Rosa
 
 ent-AlwaysPoweredlightRed = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Vermelho
 
 ent-AlwaysPoweredLightSodium = {ent-AlwaysPoweredWallLight}
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+    .desc = {ent-AlwaysPoweredWallLight.desc}
     .suffix = Sempre Energizado, Sódio
 
 ent-AlwaysPoweredWallLight = luz
@@ -9825,23 +9547,22 @@ ent-EmergencyLight = luz de emergência
     .desc = Uma luz pequena com uma bateria interna que liga assim que para de receber energia. A tecnologia Nanotrasen permite que ela adapte sua cor para alertar a tripulação sobre as condições da estação.
 
 ent-PoweredDimSmallLight = {ent-PoweredSmallLightEmpty}
-    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .desc = {ent-PoweredSmallLightEmpty.desc}
     .suffix = Dim
 
 ent-PoweredLEDSmallLight = {ent-PoweredSmallLightEmpty}
-    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .desc = {ent-PoweredSmallLightEmpty.desc}
     .suffix = LED
 
 ent-Poweredlight = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
     .desc = Uma luminária. Consome energia e produz luz quando equipada com um tubo de luz.
 
 ent-PoweredlightBlue = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Azul
 
 ent-PoweredlightCyan = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Ciano
 
 ent-PoweredlightEmpty = luz
@@ -9849,33 +9570,30 @@ ent-PoweredlightEmpty = luz
     .desc = Uma luminária. Consome energia e produz luz quando equipada com um tubo de luz.
 
 ent-PoweredlightExterior = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
     .suffix = Externo
     .desc = Uma luminária. Consome energia e produz luz quando equipada com um tubo de luz.
 
 ent-PoweredlightGreen = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Verde
 
 ent-PoweredlightLED = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
     .suffix = LED
     .desc = Uma luminária. Consome energia e produz luz quando equipada com um tubo de luz.
 
 ent-PoweredlightOrange = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Laranja
 
 ent-PoweredlightPink = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Rosa
 
 ent-PoweredlightRed = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
+    .desc = {ent-PoweredlightEmpty.desc}
     .suffix = Vermelho
 
 ent-PoweredlightSodium = {ent-PoweredlightEmpty}
-    .desc = { ent-PoweredlightEmpty.desc }
     .suffix = Sódio
     .desc = Uma luminária. Consome energia e produz luz quando equipada com um tubo de luz.
 
@@ -9884,7 +9602,7 @@ ent-PoweredSmallLightEmpty = luz pequena
     .desc = Uma luminária. Consome energia e produz luz quando equipada com uma lâmpada.
 
 ent-PoweredWarmSmallLight = {ent-PoweredSmallLightEmpty}
-    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .desc = {ent-PoweredSmallLightEmpty.desc}
     .suffix = Quente
 
 ent-SmallLight = luz pequena
@@ -9919,15 +9637,15 @@ ent-PoweredStrobeLightEmpty = strobe
     .desc = UH?! Desculpa, tudo que consigo ouvir é WEE-OOO-WEE-OOO!
 
 ent-PoweredStrobeLightEpsilon = {ent-PoweredStrobeLightEmpty}
-    .desc = { ent-PoweredStrobeLightEmpty.desc }
+    .desc = {ent-PoweredStrobeLightEmpty.desc}
     .suffix = Vazio, epsilon
 
 ent-PoweredStrobeLightPolice = {ent-PoweredStrobeLightEmpty}
-    .desc = { ent-PoweredStrobeLightEmpty.desc }
+    .desc = {ent-PoweredStrobeLightEmpty.desc}
     .suffix = Vazio, polícia
 
 ent-PoweredStrobeLightSiren = {ent-PoweredStrobeLightEmpty}
-    .desc = { ent-PoweredStrobeLightEmpty.desc }
+    .desc = {ent-PoweredStrobeLightEmpty.desc}
     .suffix = Vazio, sirene
 
 # From: Entities/Structures/Machines/anomaly_equipment.yml
@@ -9971,7 +9689,7 @@ ent-SyndicateBomb = bomba do Sindicato
     .desc = Uma bomba para operativos e agentes do Sindicato. O negócio real, sem mais treinamento, mãos à obra!
 
 ent-SyndicateBombFake = {ent-SyndicateBomb}
-    .desc = { ent-SyndicateBomb.desc }
+    .desc = {ent-SyndicateBomb.desc}
     .suffix = falsa
 
 ent-TrainingBomb = bomba de treinamento
@@ -9999,7 +9717,7 @@ ent-BlockGameArcade = jogo de blocos NT
 ent-SpaceVillainArcade = fliperama de vilão espacial
 
 ent-SpaceVillainArcadeFilled = {ent-SpaceVillainArcade}
-    .desc = { ent-SpaceVillainArcade.desc }
+    .desc = {ent-SpaceVillainArcade.desc}
     .suffix = Preenchido
 
 # From: Entities/Structures/Machines/Computers/base_structurecomputers.yml
@@ -10058,7 +9776,6 @@ ent-ComputerIFF = computador de IFF
     .desc = Permite que você controle a visibilidade do IFF desta nave.
 
 ent-ComputerIFFSyndicate = {ent-ComputerIFF}
-    .desc = { ent-ComputerIFF.desc }
     .suffix = Sindicato
     .desc = Permite que você controle a visibilidade do IFF e as características furtivas desta nave.
 
@@ -10201,27 +9918,27 @@ ent-Holopad = holopad
     .desc = Um dispositivo montado no chão para projetar imagens holográficas.
 
 ent-HolopadAiBackupPower = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Energia de Backup da IA
 
 ent-HolopadAiChute = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Calha da IA
 
 ent-HolopadAiCore = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Núcleo da IA
 
 ent-HolopadAiEntrance = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Entrada da IA
 
 ent-HolopadAiMain = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Principal da IA
 
 ent-HolopadAiUpload = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Upload da IA
 
 ent-HolopadBluespace = holopad bluespace
@@ -10229,171 +9946,171 @@ ent-HolopadBluespace = holopad bluespace
     .desc = Um dispositivo experimental montado no chão para projetar imagens holográficas via bluespace.
 
 ent-HolopadCargoAts = {ent-HolopadLongRange}
-    .desc = { ent-HolopadLongRange.desc }
+    .desc = {ent-HolopadLongRange.desc}
     .suffix = ATS
 
 ent-HolopadCargoBay = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Baia de Carga
 
 ent-HolopadCargoBayLongRange = {ent-HolopadLongRange}
-    .desc = { ent-HolopadLongRange.desc }
+    .desc = {ent-HolopadLongRange.desc}
     .suffix = Baia de Carga da Estação
 
 ent-HolopadCargoBreakroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Descanso de Carga
 
 ent-HolopadCargoFront = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Frente de Carga
 
 ent-HolopadCargoMailroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Correio de Carga
 
 ent-HolopadCargoSalvageBay = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Baia de Salvagem
 
 ent-HolopadCargoShuttle = {ent-HolopadLongRange}
-    .desc = { ent-HolopadLongRange.desc }
+    .desc = {ent-HolopadLongRange.desc}
     .suffix = Nave de Carga
 
 ent-HolopadCentCommEvacShuttle = {ent-HolopadLongRange}
-    .desc = { ent-HolopadLongRange.desc }
+    .desc = {ent-HolopadLongRange.desc}
     .suffix = Nave de Evacuação
 
 ent-HolopadCommandBridge = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Ponte
 
 ent-HolopadCommandBridgeHallway = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Corredor da Ponte
 
 ent-HolopadCommandBridgeLongRange = {ent-HolopadLongRange}
-    .desc = { ent-HolopadLongRange.desc }
+    .desc = {ent-HolopadLongRange.desc}
     .suffix = Ponte da Estação
 
 ent-HolopadCommandCaptain = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Capitão
 
 ent-HolopadCommandCe = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = CE
 
 ent-HolopadCommandCmo = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = CMO
 
 ent-HolopadCommandHop = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = HoP
 
 ent-HolopadCommandHos = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = HoS
 
 ent-HolopadCommandLounge = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Comando
 
 ent-HolopadCommandMeetingRoom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Reunião de Comando
 
 ent-HolopadCommandQm = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = QM
 
 ent-HolopadCommandRd = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = RD
 
 ent-HolopadCommandVault = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Cofre
 
 ent-HolopadEngineeringAME = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = AME
 
 ent-HolopadEngineeringAtmosFront = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Frente de Atmos
 
 ent-HolopadEngineeringAtmosMain = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Atmos Principal
 
 ent-HolopadEngineeringAtmosTeg = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = TEG
 
 ent-HolopadEngineeringBreakroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Descanso de Engi
 
 ent-HolopadEngineeringFront = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Frente de Engi
 
 ent-HolopadEngineeringMain = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Engi Principal
 
 ent-HolopadEngineeringPower = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Energia
 
 ent-HolopadEngineeringStorage = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Armazenamento de Engi
 
 ent-HolopadEngineeringTechVault = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Cofre Técnico
 
 ent-HolopadEngineeringTelecoms = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Telecoms
 
 ent-HolopadGeneralArcade = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Fliperama
 
 ent-HolopadGeneralArrivals = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Chegadas
 
 ent-HolopadGeneralCryosleep = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Criosono
 
 ent-HolopadGeneralDisposals = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Descarte
 
 ent-HolopadGeneralEvac = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Evac
 
 ent-HolopadGeneralEVAStorage = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Armazenamento de EVA
 
 ent-HolopadGeneralLounge = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Estar
 
 ent-HolopadGeneralTheater = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Teatro
 
 ent-HolopadGeneralTools = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Ferramentas
 
 ent-HolopadHologram = holograma
@@ -10402,187 +10119,187 @@ ent-HolopadLongRange = holopad de longo alcance
     .desc = Um dispositivo montado no chão para projetar imagens holográficas para dispositivos similares que estão longe.
 
 ent-HolopadMedicalBreakroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Descanso Médico
 
 ent-HolopadMedicalChemistry = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Química
 
 ent-HolopadMedicalClinic = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Clínica Médica
 
 ent-HolopadMedicalCryopods = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Criopods
 
 ent-HolopadMedicalFront = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Frente Médica
 
 ent-HolopadMedicalMedbay = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Medbay
 
 ent-HolopadMedicalMorgue = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Necrotério
 
 ent-HolopadMedicalParamed = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Paramédico
 
 ent-HolopadMedicalSurgery = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Cirurgia
 
 ent-HolopadMedicalVirology = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Virologia
 
 ent-HolopadScienceAnomaly = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Anomalia
 
 ent-HolopadScienceArtifact = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Artefato
 
 ent-HolopadScienceArtifactNorth = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Artefato Norte
 
 ent-HolopadScienceArtifactSouth = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Artefato Sul
 
 ent-HolopadScienceBreakroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Descanso de Ciência
 
 ent-HolopadScienceFront = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Frente de Ciência
 
 ent-HolopadScienceRnd = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = P&D
 
 ent-HolopadScienceRobotics = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Robótica
 
 ent-HolopadSecurityArmory = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Arsenal
 
 ent-HolopadSecurityArrivalsCheckpoint = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Posto de Chegadas de Segurança
 
 ent-HolopadSecurityBreakroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Descanso de Segurança
 
 ent-HolopadSecurityBrig = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Brig
 
 ent-HolopadSecurityBrigMed = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Brig Médico
 
 ent-HolopadSecurityCourtroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Tribunal
 
 ent-HolopadSecurityDetective = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Detetive
 
 ent-HolopadSecurityEvacCheckpoint = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Posto de Evac de Segurança
 
 ent-HolopadSecurityFront = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Frente de Segurança
 
 ent-HolopadSecurityInterrogation = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Interrogatório
 
 ent-HolopadSecurityLawyer = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Advogado
 
 ent-HolopadSecurityLockerRoom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Vestiário de Segurança
 
 ent-HolopadSecurityPerma = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Perma
 
 ent-HolopadSecurityWarden = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Guardião
 
 ent-HolopadServiceBar = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Bar
 
 ent-HolopadServiceBotany = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Botânica
 
 ent-HolopadServiceBoxer = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Boxeador
 
 ent-HolopadServiceChapel = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Capela
 
 ent-HolopadServiceClown = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Palhaço
 
 ent-HolopadServiceClownMime = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Palhaço/Mimo
 
 ent-HolopadServiceGameRoom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Sala de Jogos
 
 ent-HolopadServiceJanitor = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Zelador
 
 ent-HolopadServiceKitchen = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Cozinha
 
 ent-HolopadServiceLibrary = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Biblioteca
 
 ent-HolopadServiceMime = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Mimo
 
 ent-HolopadServiceMusician = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Músico
 
 ent-HolopadServiceNewsroom = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Redação
 
 ent-HolopadServiceZookeeper = {ent-Holopad}
-    .desc = { ent-Holopad.desc }
+    .desc = {ent-Holopad.desc}
     .suffix = Zoólogo
 
 ent-HolopadUnlimitedRange = holopad de emaranhamento quântico
@@ -10715,7 +10432,7 @@ ent-NuclearBombKeg = explosivo de fissão nuclear
     .desc = Você provavelmente não deveria ficar por perto para ver se isto está armado. Tem uma torneira no lado.
 
 ent-NuclearBombUnanchored = {ent-NuclearBomb}
-    .desc = { ent-NuclearBomb.desc }
+    .desc = {ent-NuclearBomb.desc}
     .suffix = desaparafusado
 
 # From: Entities/Structures/Machines/organ_harvester.yml
@@ -10776,7 +10493,7 @@ ent-SmartFridge = SmartFridge
     .desc = Uma unidade de armazenamento refrigerado para manter itens frios e frescos.
 
 ent-SmartFridgeMedical = {ent-SmartFridge}
-    .desc = { ent-SmartFridge.desc }
+    .desc = {ent-SmartFridge.desc}
     .suffix = Médico, Trancado
 
 # From: Entities/Structures/Machines/stasisbed.yml
@@ -10794,7 +10511,7 @@ ent-SurveillanceCameraRouterCommand = roteador de câmeras de comando
     .suffix = Comando
 
 ent-SurveillanceCameraRouterConstructed = {ent-SurveillanceCameraRouterBase}
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+    .desc = {ent-SurveillanceCameraRouterBase.desc}
     .suffix = Construído
 
 ent-SurveillanceCameraRouterEngineering = roteador de câmeras de engenharia
@@ -10833,7 +10550,7 @@ ent-SurveillanceCameraWirelessRouterBase = roteador de câmeras sem fio
     .desc = Um roteador de câmeras de vigilância sem fio. Ele roteia. Talvez.
 
 ent-SurveillanceCameraWirelessRouterConstructed = {ent-SurveillanceCameraWirelessRouterBase}
-    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
+    .desc = {ent-SurveillanceCameraWirelessRouterBase.desc}
     .suffix = Construído
 
 ent-SurveillanceCameraWirelessRouterEntertainment = roteador de câmeras de entretenimento
@@ -10845,39 +10562,39 @@ ent-TelecomServer = servidor de telecomunicações
     .desc = Quando alimentado e preenchido com chaves de criptografia, permite comunicação por fone de ouvido de rádio.
 
 ent-TelecomServerFilled = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Preenchido Todos
 
 ent-TelecomServerFilledCargo = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Carga
 
 ent-TelecomServerFilledCommand = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Comando
 
 ent-TelecomServerFilledCommon = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Comum
 
 ent-TelecomServerFilledEngineering = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Engenharia
 
 ent-TelecomServerFilledMedical = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Médico
 
 ent-TelecomServerFilledScience = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Ciência
 
 ent-TelecomServerFilledSecurity = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Segurança
 
 ent-TelecomServerFilledService = {ent-TelecomServer}
-    .desc = { ent-TelecomServer.desc }
+    .desc = {ent-TelecomServer.desc}
     .suffix = Serviço
 
 # From: Entities/Structures/Machines/vending_machines.yml
@@ -10944,7 +10661,7 @@ ent-VendingMachineCola = Robust Softdrinks
     .desc = Um fornecedor de refrigerantes fornecido pela Robust Industries, LLC.
 
 ent-VendingMachineColaBlack = {ent-VendingMachineCola}
-    .desc = { ent-VendingMachineCola.desc }
+    .desc = {ent-VendingMachineCola.desc}
     .suffix = Preto
 
 ent-VendingMachineColaRed = Space Cola Vendor
@@ -11032,7 +10749,7 @@ ent-VendingMachineSecDrobe = SecDrobe
     .desc = Uma máquina de vendas para roupas de segurança e relacionadas a segurança!
 
 ent-VendingMachineSeeds = {ent-VendingMachineSeedsUnlocked}
-    .desc = { ent-VendingMachineSeedsUnlocked.desc }
+    .desc = {ent-VendingMachineSeedsUnlocked.desc}
     .suffix = Hidroponia
 
 ent-VendingMachineSeedsUnlocked = MegaSeed Servitor
@@ -11049,23 +10766,23 @@ ent-VendingMachineSnack = Getmore Chocolate Corp
     .desc = Uma máquina de lanches cortesia da Getmore Chocolate Corporation, sediada em Marte.
 
 ent-VendingMachineSnackBlue = {ent-VendingMachineSnack}
-    .desc = { ent-VendingMachineSnack.desc }
+    .desc = {ent-VendingMachineSnack.desc}
     .suffix = Azul
 
 ent-VendingMachineSnackGreen = {ent-VendingMachineSnack}
-    .desc = { ent-VendingMachineSnack.desc }
+    .desc = {ent-VendingMachineSnack.desc}
     .suffix = Verde
 
 ent-VendingMachineSnackOrange = {ent-VendingMachineSnack}
-    .desc = { ent-VendingMachineSnack.desc }
+    .desc = {ent-VendingMachineSnack.desc}
     .suffix = Laranja
 
 ent-VendingMachineSnackTeal = {ent-VendingMachineSnack}
-    .desc = { ent-VendingMachineSnack.desc }
+    .desc = {ent-VendingMachineSnack.desc}
     .suffix = Ciano
 
 ent-VendingMachineSoda = {ent-VendingMachineCola}
-    .desc = { ent-VendingMachineCola.desc }
+    .desc = {ent-VendingMachineCola.desc}
     .suffix = Refrigerante
 
 ent-VendingMachineSovietSoda = BODA
@@ -11116,11 +10833,11 @@ ent-VendingMachineYouTool = YouTool
 # From: Entities/Structures/Machines/wireless_surveillance_camera.yml
 
 ent-SurveillanceWirelessCameraAnchoredConstructed = {ent-SurveillanceWirelessCameraBase}
-    .desc = { ent-SurveillanceWirelessCameraBase.desc }
+    .desc = {ent-SurveillanceWirelessCameraBase.desc}
     .suffix = Construído, Ancorado
 
 ent-SurveillanceWirelessCameraAnchoredEntertainment = {ent-SurveillanceWirelessCameraBase}
-    .desc = { ent-SurveillanceWirelessCameraBase.desc }
+    .desc = {ent-SurveillanceWirelessCameraBase.desc}
     .suffix = Entretenimento, Ancorado
 
 # Abstract entity (referenceable by children)
@@ -11129,11 +10846,11 @@ ent-SurveillanceWirelessCameraBase = câmera sem fio
     .desc = Uma câmera. Ela está te vigiando. Meio que.
 
 ent-SurveillanceWirelessCameraMovableConstructed = {ent-SurveillanceWirelessCameraBase}
-    .desc = { ent-SurveillanceWirelessCameraBase.desc }
+    .desc = {ent-SurveillanceWirelessCameraBase.desc}
     .suffix = Construído, Móvel
 
 ent-SurveillanceWirelessCameraMovableEntertainment = {ent-SurveillanceWirelessCameraBase}
-    .desc = { ent-SurveillanceWirelessCameraBase.desc }
+    .desc = {ent-SurveillanceWirelessCameraBase.desc}
     .suffix = Entretenimento, Móvel
 
 # From: Entities/Structures/meat_spike.yml
@@ -11171,7 +10888,7 @@ ent-HeatExchanger = radiador
     .desc = Transfere calor entre o tubo e seus arredores.
 
 ent-HeatExchangerBend = {ent-HeatExchanger}
-    .desc = { ent-HeatExchanger.desc }
+    .desc = {ent-HeatExchanger.desc}
     .suffix = Curva
 
 ent-SignalControlledValve = válvula controlada por sinal
@@ -11183,23 +10900,23 @@ ent-GasPipeSensor = sensor de tubo de gás
     .desc = Relata o status do gás na rede de tubos anexada.
 
 ent-GasPipeSensorDistribution = {ent-GasPipeSensor}
-    .desc = { ent-GasPipeSensor.desc }
+    .desc = {ent-GasPipeSensor.desc}
     .suffix = Distribuição
 
 ent-GasPipeSensorMixedAir = {ent-GasPipeSensor}
-    .desc = { ent-GasPipeSensor.desc }
+    .desc = {ent-GasPipeSensor.desc}
     .suffix = Ar misturado
 
 ent-GasPipeSensorTEGCold = {ent-GasPipeSensor}
-    .desc = { ent-GasPipeSensor.desc }
+    .desc = {ent-GasPipeSensor.desc}
     .suffix = TEG frio
 
 ent-GasPipeSensorTEGHot = {ent-GasPipeSensor}
-    .desc = { ent-GasPipeSensor.desc }
+    .desc = {ent-GasPipeSensor.desc}
     .suffix = TEG quente
 
 ent-GasPipeSensorWaste = {ent-GasPipeSensor}
-    .desc = { ent-GasPipeSensor.desc }
+    .desc = {ent-GasPipeSensor.desc}
     .suffix = Resíduo
 
 # From: Entities/Structures/Piping/Atmospherics/miners.yml
@@ -11244,18 +10961,18 @@ ent-GasMinerWaterVapor = minerador de gás vapor de água
 # From: Entities/Structures/Piping/Atmospherics/pipes.yml
 
 ent-GasPipeBend = {ent-GasPipeSansLayers}
-    .desc = { ent-GasPipeSansLayers.desc }
+    .desc = {ent-GasPipeSansLayers.desc}
     .suffix = Curva
 
 ent-GasPipeBroken = tubo quebrado
     .desc = Costumava conter gás.
 
 ent-GasPipeFourway = {ent-GasPipeSansLayers}
-    .desc = { ent-GasPipeSansLayers.desc }
+    .desc = {ent-GasPipeSansLayers.desc}
     .suffix = Quádruplo
 
 ent-GasPipeHalf = {ent-GasPipeSansLayers}
-    .desc = { ent-GasPipeSansLayers.desc }
+    .desc = {ent-GasPipeSansLayers.desc}
     .suffix = Meio
 
 ent-GasPipeManifold = coletor de tubos de gás
@@ -11267,11 +10984,11 @@ ent-GasPipeSansLayers = tubo de gás
     .desc = Contém gás.
 
 ent-GasPipeStraight = {ent-GasPipeSansLayers}
-    .desc = { ent-GasPipeSansLayers.desc }
+    .desc = {ent-GasPipeSansLayers.desc}
     .suffix = Reto
 
 ent-GasPipeTJunction = {ent-GasPipeSansLayers}
-    .desc = { ent-GasPipeSansLayers.desc }
+    .desc = {ent-GasPipeSansLayers.desc}
     .suffix = Junção T
 
 # From: Entities/Structures/Piping/Atmospherics/portable.yml
@@ -11284,11 +11001,11 @@ ent-SpaceHeater = aquecedor espacial
     .desc = Um dispositivo de tecnologia bluespace que altera a temperatura local. Comumente referido como "Aquecedor Espacial".
 
 ent-SpaceHeaterAnchored = {ent-SpaceHeater}
-    .desc = { ent-SpaceHeater.desc }
+    .desc = {ent-SpaceHeater.desc}
     .suffix = Parafusado
 
 ent-SpaceHeaterEnabled = {ent-SpaceHeater}
-    .desc = { ent-SpaceHeater.desc }
+    .desc = {ent-SpaceHeater.desc}
     .suffix = Parafusado, Ativado
 
 # From: Entities/Structures/Piping/Atmospherics/special.yml
@@ -11335,14 +11052,14 @@ ent-GasThermoMachineFreezer = freezer
     .desc = Resfria gás nos tubos conectados.
 
 ent-GasThermoMachineFreezerEnabled = {ent-GasThermoMachineFreezer}
-    .desc = { ent-GasThermoMachineFreezer.desc }
+    .desc = {ent-GasThermoMachineFreezer.desc}
     .suffix = Ativado
 
 ent-GasThermoMachineHeater = aquecedor
     .desc = Aquece gás nos tubos conectados.
 
 ent-GasThermoMachineHeaterEnabled = {ent-GasThermoMachineHeater}
-    .desc = { ent-GasThermoMachineHeater.desc }
+    .desc = {ent-GasThermoMachineHeater.desc}
     .suffix = Ativado
 
 ent-GasThermoMachineHellfireFreezer = freezer infernal
@@ -11373,7 +11090,6 @@ ent-DisposalJunction = junção de descarte
     .desc = Uma junção de três vias. A seta indica onde os itens saem.
 
 ent-DisposalJunctionFlipped = {ent-DisposalJunction}
-    .desc = { ent-DisposalJunction.desc }
     .suffix = invertido
     .desc = Uma junção de três vias. A seta indica onde os itens saem.
 
@@ -11387,7 +11103,6 @@ ent-DisposalRouter = roteador de descarte
     .desc = Um roteador de três vias. Entidades com etiquetas correspondentes são roteadas para o lado através de filtros configuráveis.
 
 ent-DisposalRouterFlipped = {ent-DisposalRouter}
-    .desc = { ent-DisposalRouter.desc }
     .suffix = invertido
     .desc = Um roteador de três vias. Entidades com etiquetas correspondentes são roteadas para o lado.
 
@@ -11395,7 +11110,7 @@ ent-DisposalSignalRouter = roteador de sinal de descarte
     .desc = Um roteador de três vias controlado por sinal.
 
 ent-DisposalSignalRouterFlipped = {ent-DisposalSignalRouter}
-    .desc = { ent-DisposalSignalRouter.desc }
+    .desc = {ent-DisposalSignalRouter.desc}
     .suffix = invertido
 
 ent-DisposalTagger = etiquetador de tubo de descarte
@@ -11440,32 +11155,27 @@ ent-PlasticFlapsOpaque = abas de plástico
 # From: Entities/Structures/Power/apc.yml
 
 ent-APCBasic = {ent-BaseAPC}
-    .desc = { ent-BaseAPC.desc }
-    .suffix = Básico, 50kJ
     .desc = {ent-BaseAPC.desc}
+    .suffix = Básico, 50kJ
 
 ent-APCConstructed = {ent-BaseAPC}
-    .desc = { ent-BaseAPC.desc }
-    .suffix = Aberto
     .desc = {ent-BaseAPC.desc}
+    .suffix = Aberto
 
 ent-APCFrame = chassi de APC
     .desc = Um terminal de controle para os sistemas elétricos da área, faltando os eletrônicos.
 
 ent-APCHighCapacity = {ent-BaseAPC}
-    .desc = { ent-BaseAPC.desc }
-    .suffix = Alta Capacidade, 100kJ
     .desc = {ent-BaseAPC.desc}
+    .suffix = Alta Capacidade, 100kJ
 
 ent-APCHyperCapacity = {ent-BaseAPC}
-    .desc = { ent-BaseAPC.desc }
-    .suffix = Hiper Capacidade, 200kJ
     .desc = {ent-BaseAPC.desc}
+    .suffix = Hiper Capacidade, 200kJ
 
 ent-APCSuperCapacity = {ent-BaseAPC}
-    .desc = { ent-BaseAPC.desc }
-    .suffix = Super Capacidade, 150kJ
     .desc = {ent-BaseAPC.desc}
+    .suffix = Super Capacidade, 150kJ
 
 ent-BaseAPC = APC
     .desc = Um terminal de controle para os sistemas elétricos da área.
@@ -11476,7 +11186,6 @@ ent-CableTerminal = terminal de cabo
     .desc = Você vê um pequeno aviso nos cabos vermelhos em tinta preta suja. "CONECTE O VERMELHO À BATERIA PARA CARREGAR."
 
 ent-CableTerminalUncuttable = {ent-CableTerminal}
-    .desc = { ent-CableTerminal.desc }
     .suffix = incortável
     .desc = Você vê um pequeno aviso nos cabos vermelhos em tinta preta suja. "CONECTE O VERMELHO À BATERIA PARA CARREGAR."
 
@@ -11486,25 +11195,22 @@ ent-CableApcExtension = cabo de energia BT
     .desc = Um cabo usado para conectar máquinas a um APC.
 
 ent-CableApcExtensionUncuttable = {ent-CableApcExtension}
-    .desc = { ent-CableApcExtension.desc }
-    .suffix = incortável
     .desc = {ent-CableApcExtension.desc}
+    .suffix = incortável
 
 ent-CableHV = cabo de energia AT
     .desc = Um cabo de energia de alta tensão laranja.
 
 ent-CableHVUncuttable = {ent-CableHV}
-    .desc = { ent-CableHV.desc }
-    .suffix = incortável
     .desc = {ent-CableHV.desc}
+    .suffix = incortável
 
 ent-CableMV = cabo de energia MT
     .desc = Um cabo de energia de média tensão.
 
 ent-CableMVUncuttable = {ent-CableMV}
-    .desc = { ent-CableMV.desc }
-    .suffix = incortável
     .desc = {ent-CableMV.desc}
+    .suffix = incortável
 
 # From: Entities/Structures/Power/chargers.yml
 
@@ -11525,7 +11231,7 @@ ent-WeaponCapacitorRecharger = recarregador
 # From: Entities/Structures/Power/debug_power.yml
 
 ent-DebugAPC = {ent-BaseAPC}
-    .desc = { ent-BaseAPC.desc }
+    .desc = {ent-BaseAPC.desc}
     .suffix = DEBUG
 
 ent-DebugBatteryDischarger = descarregador de bateria
@@ -11538,18 +11244,18 @@ ent-DebugConsumer = consumidor
     .suffix = DEBUG
 
 ent-DebugGenerator = {ent-BaseGenerator}
-    .desc = { ent-BaseGenerator.desc }
+    .desc = {ent-BaseGenerator.desc}
     .suffix = DEBUG
 
 ent-DebugPowerReceiver = receptor de energia
     .suffix = DEBUG
 
 ent-DebugSMES = {ent-BaseSMES}
-    .desc = { ent-BaseSMES.desc }
+    .desc = {ent-BaseSMES.desc}
     .suffix = DEBUG
 
 ent-DebugSubstation = {ent-BaseSubstation}
-    .desc = { ent-BaseSubstation.desc }
+    .desc = {ent-BaseSubstation.desc}
     .suffix = DEBUG
 
 # From: Entities/Structures/Power/Generation/ame.yml
@@ -11558,7 +11264,7 @@ ent-AmeController = controlador de AME
     .desc = É um controlador para o motor de antimatéria.
 
 ent-AmeControllerUnanchored = {ent-AmeController}
-    .desc = { ent-AmeController.desc }
+    .desc = {ent-AmeController.desc}
     .suffix = Desparafusado
 
 ent-AmeShielding = blindagem de AME
@@ -11579,11 +11285,11 @@ ent-BaseGeneratorWallmountFrame = chassi de gerador de parede
     .desc = Uma chassi de construção para um gerador de parede.
 
 ent-GeneratorBasic = {ent-BaseGenerator}
-    .desc = { ent-BaseGenerator.desc }
+    .desc = {ent-BaseGenerator.desc}
     .suffix = Básico, 3kW
 
 ent-GeneratorBasic15kW = {ent-BaseGenerator}
-    .desc = { ent-BaseGenerator.desc }
+    .desc = {ent-BaseGenerator.desc}
     .suffix = Básico, 15kW, Ancorado
 
 ent-GeneratorRTG = GTR
@@ -11599,7 +11305,7 @@ ent-GeneratorWallmountAPU = APU de navette
     .desc = Uma unidade de energia auxiliar para uma navette - 6kW.
 
 ent-GeneratorWallmountBasic = {ent-BaseGeneratorWallmount}
-    .desc = { ent-BaseGeneratorWallmount.desc }
+    .desc = {ent-BaseGeneratorWallmount.desc}
     .suffix = Básico, 3kW
 
 # From: Entities/Structures/Power/Generation/PA/control_box.yml
@@ -11690,11 +11396,11 @@ ent-RadiationCollector = coletor de radiação
     .desc = Uma máquina que coleta radiação e a transforma em energia. Requer gás de plasma para funcionar.
 
 ent-RadiationCollectorFullTank = {ent-RadiationCollector}
-    .desc = { ent-RadiationCollector.desc }
+    .desc = {ent-RadiationCollector.desc}
     .suffix = Tanque cheio
 
 ent-RadiationCollectorNoTank = {ent-RadiationCollector}
-    .desc = { ent-RadiationCollector.desc }
+    .desc = {ent-RadiationCollector.desc}
     .suffix = Sem tanque
 
 # From: Entities/Structures/Power/Generation/Singularity/containment.yml
@@ -11791,15 +11497,15 @@ ent-SMESAdvanced = SMES avançado
     .desc = Uma unidade de armazenamento de energia magnética supercondutora de capacidade ainda maior (SMES).
 
 ent-SMESAdvancedEmpty = {ent-SMESAdvanced}
-    .desc = { ent-SMESAdvanced.desc }
+    .desc = {ent-SMESAdvanced.desc}
     .suffix = Vazio
 
 ent-SMESBasic = {ent-BaseSMES}
-    .desc = { ent-BaseSMES.desc }
+    .desc = {ent-BaseSMES.desc}
     .suffix = Básico, 8MJ
 
 ent-SMESBasicEmpty = {ent-BaseSMES}
-    .desc = { ent-BaseSMES.desc }
+    .desc = {ent-BaseSMES.desc}
     .suffix = Vazio
 
 # From: Entities/Structures/Power/substation.yml
@@ -11815,15 +11521,15 @@ ent-BaseSubstationWallFrame = chassi de subestação de parede
     .desc = Uma chassi de subestação para construção.
 
 ent-SubstationBasic = {ent-BaseSubstation}
-    .desc = { ent-BaseSubstation.desc }
+    .desc = {ent-BaseSubstation.desc}
     .suffix = Básico, 2,5MJ
 
 ent-SubstationBasicEmpty = {ent-BaseSubstation}
-    .desc = { ent-BaseSubstation.desc }
+    .desc = {ent-BaseSubstation.desc}
     .suffix = Vazio
 
 ent-SubstationWallBasic = {ent-BaseSubstationWall}
-    .desc = { ent-BaseSubstationWall.desc }
+    .desc = {ent-BaseSubstationWall.desc}
     .suffix = Básico, 2MJ
 
 # From: Entities/Structures/Shuttles/cannons.yml
@@ -11857,14 +11563,12 @@ ent-StationAnchorBase = âncora de estação
     .desc = Impede que estações se movam.
 
 ent-StationAnchorIndestructible = {ent-StationAnchorBase}
-    .desc = { ent-StationAnchorBase.desc }
-    .suffix = Indestrutível, Desligado
     .desc = {ent-StationAnchorBase.desc}
+    .suffix = Indestrutível, Desligado
 
 ent-StationAnchorOff = {ent-StationAnchorBase}
-    .desc = { ent-StationAnchorBase.desc }
-    .suffix = Desligado
     .desc = {ent-StationAnchorBase.desc}
+    .suffix = Desligado
 
 # From: Entities/Structures/Shuttles/thrusters.yml
 # Abstract entity (referenceable by children)
@@ -11873,18 +11577,18 @@ ent-BaseThruster = propulsor
     .desc = Um propulsor que permite uma navette se mover.
 
 ent-DebugGyroscope = {ent-BaseThruster}
-    .desc = { ent-BaseThruster.desc }
+    .desc = {ent-BaseThruster.desc}
     .suffix = DEBUG
 
 ent-DebugThruster = {ent-BaseThruster}
-    .desc = { ent-BaseThruster.desc }
+    .desc = {ent-BaseThruster.desc}
     .suffix = DEBUG
 
 ent-Gyroscope = giroscópio
     .desc = Aumenta a rotação angular potencial da navette.
 
 ent-GyroscopeUnanchored = {ent-Gyroscope}
-    .desc = { ent-Gyroscope.desc }
+    .desc = {ent-Gyroscope.desc}
     .suffix = Desparafusado
 
 ent-RustedThruster = propulsor enferrujado
@@ -11893,7 +11597,7 @@ ent-RustedThruster = propulsor enferrujado
 ent-Thruster = propulsor
 
 ent-ThrusterUnanchored = {ent-Thruster}
-    .desc = { ent-Thruster.desc }
+    .desc = {ent-Thruster.desc}
     .suffix = Desparafusado
 
 # From: Entities/Structures/soil.yml
@@ -11903,19 +11607,19 @@ ent-hydroponicsSoil = solo
 # From: Entities/Structures/Specific/Anomaly/anomalies.yml
 
 ent-AnomalyBluespace = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Bluespace
 
 ent-AnomalyElectricity = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Eletricidade
 
 ent-AnomalyFlesh = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Carne
 
 ent-AnomalyFlora = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Flora
 
 ent-AnomalyFloraBulb = baga brilhante estranha
@@ -11923,47 +11627,47 @@ ent-AnomalyFloraBulb = baga brilhante estranha
     .desc = É uma bela baga brilhante estranha. Parece ter algo crescendo dentro dela...
 
 ent-AnomalyGravity = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Gravidade
 
 ent-AnomalyIce = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Gelo
 
 ent-AnomalyLiquid = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Líquido
 
 ent-AnomalyPyroclastic = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Pyroclástico
 
 ent-AnomalyRockIron = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Rocha, Ferro
 
 ent-AnomalyRockQuartz = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Rocha, Quartzo
 
 ent-AnomalyRockSilver = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Rocha, Prata
 
 ent-AnomalyRockUranium = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Rocha, Urânio
 
 ent-AnomalySanta = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Santa
 
 ent-AnomalyShadow = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Sombra
 
 ent-AnomalyTech = {ent-BaseAnomaly}
-    .desc = { ent-BaseAnomaly.desc }
+    .desc = {ent-BaseAnomaly.desc}
     .suffix = Tech
 
 # Abstract entity (referenceable by children)
@@ -11974,47 +11678,47 @@ ent-BaseAnomaly = anomalia
 # From: Entities/Structures/Specific/Anomaly/anomaly_injectors.yml
 
 ent-AnomalyTrapBluespace = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Bluespace
 
 ent-AnomalyTrapElectricity = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Eletricidade
 
 ent-AnomalyTrapFlesh = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Carne
 
 ent-AnomalyTrapFlora = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Flora
 
 ent-AnomalyTrapGravity = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Gravidade
 
 ent-AnomalyTrapIce = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Gelo
 
 ent-AnomalyTrapPyroclastic = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Pyroclástico
 
 ent-AnomalyTrapRock = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Rocha
 
 ent-AnomalyTrapSanta = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Santa
 
 ent-AnomalyTrapShadow = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Sombra
 
 ent-AnomalyTrapTech = {ent-BaseAnomalyInjector}
-    .desc = { ent-BaseAnomalyInjector.desc }
+    .desc = {ent-BaseAnomalyInjector.desc}
     .suffix = Tech
 
 # Abstract entity (referenceable by children)
@@ -12024,101 +11728,99 @@ ent-BaseAnomalyInjector = injetor de anomalia
 # From: Entities/Structures/Specific/Anomaly/cores.yml
 
 ent-AnomalyCoreBluespace = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Bluespace
 
 ent-AnomalyCoreBluespaceInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Bluespace, Inerte
 
 ent-AnomalyCoreElectricity = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Eletricidade
 
 ent-AnomalyCoreElectricityInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Eletricidade, Inerte
 
 ent-AnomalyCoreFlesh = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
     .suffix = Carne
     .desc = O núcleo de uma anomalia de carne destruída. Pulsa nojentemente, mas pode ser uma refeição substanciosa se cozido.
 
 ent-AnomalyCoreFleshInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
     .suffix = Carne, Inerte
     .desc = O núcleo inerte de uma anomalia de carne destruída. Pulsa nojentemente, mas pode ser boa comida nas mãos certas?
 
 ent-AnomalyCoreFlora = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Flora
 
 ent-AnomalyCoreFloraInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Flora, Inerte
 
 ent-AnomalyCoreGravity = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Gravidade
 
 ent-AnomalyCoreGravityInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Gravidade, Inerte
 
 ent-AnomalyCoreIce = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Gelo
 
 ent-AnomalyCoreIceInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Gelo, Inerte
 
 ent-AnomalyCoreLiquid = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Líquido
 
 ent-AnomalyCoreLiquidInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Líquido, Inerte
 
 ent-AnomalyCorePyroclastic = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Pyroclástico
 
 ent-AnomalyCorePyroclasticInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Pyroclástico, Inerte
 
 ent-AnomalyCoreRock = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Rocha
 
 ent-AnomalyCoreRockInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Rocha, Inerte
 
 ent-AnomalyCoreSanta = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Santa
 
 ent-AnomalyCoreSantaInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Santa, Inerte
 
 ent-AnomalyCoreShadow = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Sombra
 
 ent-AnomalyCoreShadowInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Sombra, Inerte
 
 ent-AnomalyCoreTech = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Tech
 
 ent-AnomalyCoreTechInert = {ent-BaseAnomalyCore}
-    .desc = { ent-BaseAnomalyCore.desc }
+    .desc = {ent-BaseAnomalyCore.desc}
     .suffix = Tech, Inerte
 
 # Abstract entity (referenceable by children)
@@ -12129,7 +11831,7 @@ ent-BaseAnomalyCore = núcleo de anomalia
 # From: Entities/Structures/Specific/Atmospherics/freezer.yml
 
 ent-AirAlarmFreezer = {ent-AirAlarm}
-    .desc = { ent-AirAlarm.desc }
+    .desc = {ent-AirAlarm.desc}
     .suffix = Atmosfera Freezer, modo automático desativado
 
 # From: Entities/Structures/Specific/Atmospherics/sensor.yml
@@ -12143,7 +11845,7 @@ ent-AirSensorAssembly = montagem de sensor de ar
 # From: Entities/Structures/Specific/Atmospherics/vox.yml
 
 ent-AirAlarmVox = {ent-AirAlarm}
-    .desc = { ent-AirAlarm.desc }
+    .desc = {ent-AirAlarm.desc}
     .suffix = Atmosfera Vox, modo automático desativado
 
 # From: Entities/Structures/Specific/church-bell.yml
@@ -12178,12 +11880,10 @@ ent-CarpStatue = estátua de carpa
     .desc = Uma estátua de uma das bravas carpas que nos trouxeram até onde estamos hoje. Feita com dentes reais!
 
 ent-CarpStatueEmpty = {ent-CarpStatue}
-    .desc = { ent-CarpStatue.desc }
     .suffix = Vazio
     .desc = Um pedaço de metais preciosos, em breve uma estátua brilhante de carpa.
 
 ent-CarpStatueEyes = {ent-CarpStatue}
-    .desc = { ent-CarpStatue.desc }
     .suffix = Olhos
     .desc = Uma estátua de uma das bravas carpas que nos trouxeram até onde estamos hoje. Esta precisa de um dentista...
 
@@ -12192,7 +11892,7 @@ ent-XenoWardingTower = torre de defesa xeno
 # From: Entities/Structures/stairs.yml
 
 ent-StairDark = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Escuro
 
 ent-Stairs = escadas
@@ -12200,27 +11900,27 @@ ent-Stairs = escadas
     .desc = A maior invenção desde granadas propelidas por foguete.
 
 ent-StairStage = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Aço, palco
 
 ent-StairStageDark = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Escuro, palco
 
 ent-StairStageWhite = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Branco, palco
 
 ent-StairStageWood = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Madeira, palco
 
 ent-StairWhite = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Branco
 
 ent-StairWood = {ent-Stairs}
-    .desc = { ent-Stairs.desc }
+    .desc = {ent-Stairs.desc}
     .suffix = Madeira
 
 # From: Entities/Structures/Storage/Canisters/gas_canisters.yml
@@ -12300,7 +12000,6 @@ ent-GhostBox = caixa fantasma
     .desc = Cuidado!
 
 ent-StealthBox = {ent-BaseBigBox}
-    .desc = { ent-BaseBigBox.desc }
     .suffix = furtiva
     .desc = Te fiz esperar, hein?
 
@@ -12353,12 +12052,14 @@ ent-ClosetCursed = armário
 # From: Entities/Structures/Storage/Closets/Lockers/lockers.yml
 
 ent-GunSafe = cofre de armas
+    .desc = É uma unidade de armazenamento.
 
 ent-GunSafeBaseSecure = {ent-GunSafe}
-    .desc = { ent-GunSafe.desc }
+    .desc = {ent-GunSafe.desc}
     .suffix = Arsenal, Trancado
 
 ent-LockerAtmospherics = armário de técnico atmosférico
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerBluespaceStation = armário bluespace
     .suffix = uma vez para estação
@@ -12368,71 +12069,93 @@ ent-LockerBooze = armazenamento de álcool
     .desc = É aqui que o barman guarda o álcool.
 
 ent-LockerBotanist = armário de botânico
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerBrigmedic = armário de médico da brigada
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerCaptain = armário do capitão
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerChemistry = armário químico
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerChiefEngineer = armário do engenheiro chefe
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerChiefMedicalOfficer = armário do médico chefe
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerClown = armário de palhaço
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerDetective = armário de detetive
     .desc = Geralmente frio e vazio... como seu coração.
 
 ent-LockerElectricalSupplies = armário de suprimentos elétricos
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerEngineer = armário de engenheiro
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerEvidence = armário de evidências
     .desc = Para armazenar sacos de estojos de balas e pertences de detidos.
 
 ent-LockerFreezer = freezer
     .suffix = Cozinha, Trancado
-    .desc = { ent-CrateFreezer.desc }
+    .desc = {ent-CrateFreezer.desc}
 
 ent-LockerFreezerBase = freezer
     .suffix = Sem Acesso
-    .desc = { ent-CrateFreezer.desc }
+    .desc = {ent-CrateFreezer.desc}
 
 ent-LockerHeadOfPersonnel = armário do chefe de pessoal
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerHeadOfSecurity = armário do chefe de segurança
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerMedical = armário de médico
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerMedicine = armário de medicamentos
     .desc = Cheio até a borda de entulhos médicos.
 
 ent-LockerMime = armário de mímico
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerParamedic = armário de paramédico
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerQuarterMaster = armário do intendente
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerRepresentative = armário de representante
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerResearchDirector = armário do diretor de pesquisa
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerSalvageSpecialist = equipamento de especialista em salvados
     .desc = Esqueça a picareta.
 
 ent-LockerScientist = armário de cientista
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerSecurity = armário de oficial de segurança
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerSteel = armário seguro
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerSyndicatePersonal = armário de arsenal
     .desc = É uma unidade de armazenamento pessoal para equipamento de operativo.
 
 ent-LockerWarden = armário do carcereiro
+    .desc = É uma unidade de armazenamento.
 
 ent-LockerWeldingSupplies = armário de suprimentos de soldagem
+    .desc = É uma unidade de armazenamento.
 
 # From: Entities/Structures/Storage/Closets/wall_lockers.yml
 
@@ -12440,6 +12163,7 @@ ent-ClosetWall = armário de parede de manutenção
     .desc = É uma unidade de armazenamento.
 
 ent-ClosetWallAtmospherics = armário de parede atmosférico
+    .desc = É uma unidade de armazenamento.
 
 ent-ClosetWallBlack = armário de parede preto
     .desc = Um guarda-roupas repleto de roupas pretas estilosas.
@@ -12463,6 +12187,7 @@ ent-ClosetWallMixed = armário de parede misto
     .desc = Um guarda-roupas repleto de uma mistura de roupas coloridas.
 
 ent-ClosetWallOrange = armário de parede de prisão
+    .desc = É uma unidade de armazenamento.
 
 ent-ClosetWallPink = armário de parede rosa
     .desc = Um guarda-roupas repleto de roupas rosas fabulosas.
@@ -12474,6 +12199,7 @@ ent-ClosetWallYellow = armário de parede amarelo
     .desc = Um guarda-roupas repleto de roupas amarelas estilosas.
 
 ent-LockerWallMedical = armário de parede médico
+    .desc = É uma unidade de armazenamento.
 
 # From: Entities/Structures/Storage/Closets/wardrobe.yml
 
@@ -12487,11 +12213,11 @@ ent-ClosetLegal = armário jurídico
     .desc = É uma unidade de armazenamento para vestuário e itens de tribunal.
 
 ent-WardrobeAtmospherics = guarda-roupas atmosférico
+    .desc = {ent-WardrobeBase.desc}
 
 # Abstract entity (referenceable by children)
 
-ent-WardrobeBase = {ent-ClosetBase}
-    .desc = { ent-ClosetBase.desc }
+ent-WardrobeBase = guarda-roupas
     .desc = É uma unidade de armazenamento para vestuário padrão.
 
 ent-WardrobeBlack = guarda-roupas preto
@@ -12501,20 +12227,25 @@ ent-WardrobeBlue = guarda-roupas azul
     .desc = Um guarda-roupas repleto de roupas azuis estilosas.
 
 ent-WardrobeBotanist = guarda-roupas de botânico
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeCargo = guarda-roupas de carga
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeChapel = guarda-roupas de capelão
     .desc = É uma unidade de armazenamento para vestuário religioso aprovado regionalmente pela TSF.
 
 ent-WardrobeChemistry = guarda-roupa de química
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeEngineering = guarda-roupa de engenharia
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeFormal = armário formal
     .desc = Uma unidade de armazenamento para roupas formais.
 
 ent-WardrobeGenetics = guarda-roupa de genética
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeGreen = guarda-roupa verde
     .desc = Um guarda-roupa cheio de roupas verdes elegantes.
@@ -12523,6 +12254,7 @@ ent-WardrobeGrey = guarda-roupa cinza
     .desc = Um guarda-roupa cheio de uma maré de roupas cinzas.
 
 ent-WardrobeMedicalDoctor = guarda-roupa de médico
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeMixed = guarda-roupa misto
     .desc = Um guarda-roupa cheio de uma mistura de roupas coloridas.
@@ -12531,17 +12263,22 @@ ent-WardrobePink = guarda-roupa rosa
     .desc = Um guarda-roupa cheio de roupas rosas fabulosas.
 
 ent-WardrobePrison = guarda-roupa de prisão
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeRobotics = guarda-roupa de robótica
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeSalvage = guarda-roupa de salvagem
     .desc = Notavelmente não recuperado.
 
 ent-WardrobeScience = guarda-roupa de ciência
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeSecurity = guarda-roupa de segurança
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeVirology = guarda-roupa de virologia
+    .desc = {ent-WardrobeBase.desc}
 
 ent-WardrobeWhite = guarda-roupa branco
     .desc = Um guarda-roupa cheio de roupas brancas elegantes.
@@ -12552,7 +12289,7 @@ ent-WardrobeYellow = guarda-roupa amarelo
 # From: Entities/Structures/Storage/Crates/base_structurecrates.yml
 
 ent-CrateBaseSecure = {ent-CrateGeneric}
-    .desc = { ent-CrateGeneric.desc }
+    .desc = {ent-CrateGeneric.desc}
     .suffix = Seguro
 
 ent-CrateGeneric = caixote
@@ -12561,66 +12298,87 @@ ent-CrateGeneric = caixote
 # From: Entities/Structures/Storage/Crates/crates.yml
 
 ent-CrateChemistrySecure = caixote de química seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateCoffin = caixão
     .desc = Um caixão confortável, lugar excelente para vampiros e cadáveres.
 
 ent-CrateCommandSecure = caixote de comando
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateContrabandStorageSecure = caixote de armazenamento de contrabando
     .suffix = Arsenal, Seguro
     .desc = Um caixote trancado com acesso de arsenal para armazenar contrabando confiscado de suspeitos ou prisioneiros.
 
 ent-CrateElectrical = caixote elétrico
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateEngineering = caixote de engenharia
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateEngineeringSecure = caixote de engenharia seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateFreezer = freezer
     .desc = Um lugar conveniente para armazenar perecíveis.
 
 ent-CrateGenericSteel = caixote
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateHydroponics = caixote de hidroponia
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateHydroSecure = caixote de hidroponia seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateInternals = caixote de oxigênio
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateLivestock = caixote de gado
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateMedical = caixote médico
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateMedicalSecure = caixote médico seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CratePirate = baú de pirata
     .desc = Um baú de pirata espacial, não para patifes da estação.
 
 ent-CratePlasma = caixote de plasma
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CratePlastic = caixote de plástico
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CratePrivateSecure = caixote privado
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateRadiation = caixote de equipamentos de radiação
     .desc = Não é realmente forrado com chumbo. Não armazene seu plutônio aqui.
 
 ent-CrateRodentCage = gaiola de hamster
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateScience = caixote de ciência
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateScienceSecure = caixote de ciência seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateSecgear = caixote de equipamentos de segurança
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateSecure = caixote seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateStoneGrave = túmulo
     .suffix = pedra
     .desc = Alguém morreu aqui...
 
 ent-CrateSurgery = caixote de cirurgia
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateSyndicate = caixote do Sindicato
     .desc = Um caixote de aço escuro com faixas vermelhas e a letra S gravada na frente.
@@ -12630,21 +12388,26 @@ ent-CrateToyBox = caixa de brinquedos
     .desc = Uma caixa transbordando de diversão.
 
 ent-CrateTrashCart = carrinho de lixo
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateTrashCartJani = carrinho de lixo de zeladoria
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateWeaponSecure = caixote de armas seguro
+    .desc = {ent-CrateBaseSecure.desc}
 
 ent-CrateWeb = caixote de teia
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateWood = caixote de madeira
+    .desc = {ent-CrateGeneric.desc}
 
 ent-CrateWoodenGrave = túmulo
     .suffix = madeira
     .desc = Alguém morreu aqui...
 
 ent-InvisibleCrate = {ent-CrateGeneric}
-    .desc = { ent-CrateGeneric.desc }
+    .desc = {ent-CrateGeneric.desc}
     .suffix = Furtivo
 
 # From: Entities/Structures/Storage/filing_cabinets.yml
@@ -12678,24 +12441,20 @@ ent-GlassBoxFrame = moldura de caixa de vidro
     .desc = Uma vitrine robusta sem vidro para uma exposição cara.
 
 ent-GlassBoxLaser = {ent-GlassBox}
-    .desc = { ent-GlassBox.desc }
-    .suffix = LaserAntigo
     .desc = {ent-GlassBox.desc}
+    .suffix = LaserAntigo
 
 ent-GlassBoxLaserFilled = {ent-GlassBox}
-    .desc = { ent-GlassBox.desc }
-    .suffix = LaserAntigo, Preenchido
     .desc = {ent-GlassBox.desc}
+    .suffix = LaserAntigo, Preenchido
 
 ent-GlassBoxLaserFilledOpen = {ent-GlassBox}
-    .desc = { ent-GlassBox.desc }
-    .suffix = LaserAntigo, Preenchido, Aberto
     .desc = {ent-GlassBox.desc}
+    .suffix = LaserAntigo, Preenchido, Aberto
 
 ent-GlassBoxLaserOpen = {ent-GlassBox}
-    .desc = { ent-GlassBox.desc }
-    .suffix = LaserAntigo, Aberto
     .desc = {ent-GlassBox.desc}
+    .suffix = LaserAntigo, Aberto
 
 # From: Entities/Structures/Storage/morgue.yml
 
@@ -12717,19 +12476,16 @@ ent-PaperBin = coletor de papel
     .desc = Que segredos se escondem no fundo de sua pilha interminável?
 
 ent-PaperBin10 = {ent-PaperBin}
-    .desc = { ent-PaperBin.desc }
-    .suffix = 10
     .desc = {ent-PaperBin.desc}
+    .suffix = 10
 
 ent-PaperBin20 = {ent-PaperBin}
-    .desc = { ent-PaperBin.desc }
-    .suffix = 20
     .desc = {ent-PaperBin.desc}
+    .suffix = 20
 
 ent-PaperBin5 = {ent-PaperBin}
-    .desc = { ent-PaperBin.desc }
-    .suffix = 5
     .desc = {ent-PaperBin.desc}
+    .suffix = 5
 
 # From: Entities/Structures/Storage/storage.yml
 
@@ -12745,7 +12501,7 @@ ent-StorageTank = tanque de armazenamento
 # From: Entities/Structures/Storage/Tanks/tanks.yml
 
 ent-GenericTank = {ent-StorageTank}
-    .desc = { ent-StorageTank.desc }
+    .desc = {ent-StorageTank.desc}
     .suffix = Vazio
 
 ent-WaterCooler = bebedouro
@@ -12756,9 +12512,8 @@ ent-WaterTank = tanque de água
     .desc = Um tanque de água. É usado para armazenar grandes quantidades de água.
 
 ent-WaterTankFull = {ent-WaterTank}
-    .desc = { ent-WaterTank.desc }
-    .suffix = Cheio
     .desc = {ent-WaterTank.desc}
+    .suffix = Cheio
 
 ent-WaterTankHighCapacity = tanque de água de alta capacidade
     .suffix = Cheio
@@ -12769,9 +12524,8 @@ ent-WeldingFuelTank = tanque de combustível
     .desc = Um tanque de combustível. É usado para armazenar grandes quantidades de combustível.
 
 ent-WeldingFuelTankFull = {ent-WeldingFuelTank}
-    .desc = { ent-WeldingFuelTank.desc }
-    .suffix = Cheio
     .desc = {ent-WeldingFuelTank.desc}
+    .suffix = Cheio
 
 ent-WeldingFuelTankHighCapacity = tanque de combustível de alta capacidade
     .suffix = Cheio
@@ -12802,19 +12556,16 @@ ent-DefibrillatorCabinet = armário de desfibrilador
     .desc = Um pequeno armário de parede projetado para segurar um desfibrilador.
 
 ent-DefibrillatorCabinetFilled = {ent-DefibrillatorCabinet}
-    .desc = { ent-DefibrillatorCabinet.desc }
-    .suffix = Preenchido
     .desc = {ent-DefibrillatorCabinet.desc}
+    .suffix = Preenchido
 
 ent-DefibrillatorCabinetFilledOpen = {ent-DefibrillatorCabinet}
-    .desc = { ent-DefibrillatorCabinet.desc }
-    .suffix = Preenchido, Aberto
     .desc = {ent-DefibrillatorCabinet.desc}
+    .suffix = Preenchido, Aberto
 
 ent-DefibrillatorCabinetOpen = {ent-DefibrillatorCabinet}
-    .desc = { ent-DefibrillatorCabinet.desc }
-    .suffix = Aberto
     .desc = {ent-DefibrillatorCabinet.desc}
+    .suffix = Aberto
 
 # From: Entities/Structures/Wallmounts/extinguisher_cabinet.yml
 
@@ -12822,19 +12573,16 @@ ent-ExtinguisherCabinet = armário de extintor
     .desc = Um pequeno armário de parede projetado para segurar um extintor de incêndio.
 
 ent-ExtinguisherCabinetFilled = {ent-ExtinguisherCabinet}
-    .desc = { ent-ExtinguisherCabinet.desc }
-    .suffix = Preenchido
     .desc = {ent-ExtinguisherCabinet.desc}
+    .suffix = Preenchido
 
 ent-ExtinguisherCabinetFilledOpen = {ent-ExtinguisherCabinet}
-    .desc = { ent-ExtinguisherCabinet.desc }
-    .suffix = Preenchido, Aberto
     .desc = {ent-ExtinguisherCabinet.desc}
+    .suffix = Preenchido, Aberto
 
 ent-ExtinguisherCabinetOpen = {ent-ExtinguisherCabinet}
-    .desc = { ent-ExtinguisherCabinet.desc }
-    .suffix = Aberto
     .desc = {ent-ExtinguisherCabinet.desc}
+    .suffix = Aberto
 
 # From: Entities/Structures/Wallmounts/fire_alarm.yml
 
@@ -12856,19 +12604,16 @@ ent-FireAxeCabinet = armário de machado de bombeiro
     .desc = Há um pequeno rótulo que diz Somente para uso de emergência junto com detalhes para uso seguro do machado. Como se.
 
 ent-FireAxeCabinetFilled = {ent-FireAxeCabinet}
-    .desc = { ent-FireAxeCabinet.desc }
-    .suffix = Preenchido
     .desc = {ent-FireAxeCabinet.desc}
+    .suffix = Preenchido
 
 ent-FireAxeCabinetFilledOpen = {ent-FireAxeCabinet}
-    .desc = { ent-FireAxeCabinet.desc }
-    .suffix = Preenchido, Aberto
     .desc = {ent-FireAxeCabinet.desc}
+    .suffix = Preenchido, Aberto
 
 ent-FireAxeCabinetOpen = {ent-FireAxeCabinet}
-    .desc = { ent-FireAxeCabinet.desc }
-    .suffix = Aberto
     .desc = {ent-FireAxeCabinet.desc}
+    .suffix = Aberto
 
 # From: Entities/Structures/Wallmounts/intercom.yml
 # Abstract entity (referenceable by children)
@@ -12877,62 +12622,51 @@ ent-BaseIntercom = interfone
     .desc = Um interfone. Para quando a estação precisa saber algo.
 
 ent-IntercomAll = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Todos
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Todos
 
 ent-IntercomAssembly = conjunto de interfone
     .desc = Um interfone. Não parece muito útil agora.
 
 ent-IntercomCommand = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
     .suffix = Comando
     .desc = Um interfone. Foi reforçado com metal.
 
 ent-IntercomCommon = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Comum
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Comum
 
 ent-IntercomConstructed = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Vazio, Painel Aberto
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Vazio, Painel Aberto
 
 ent-IntercomEngineering = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Engenharia
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Engenharia
 
 ent-IntercomFreelance = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Freelance
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Freelance
 
 ent-IntercomMedical = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Médico
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Médico
 
 ent-IntercomScience = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Ciência
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Ciência
 
 ent-IntercomSecurity = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
     .suffix = Segurança
     .desc = Um interfone. Foi reforçado com metal de capacetes dos seguranças, tornando-o um verdadeiro desafio para abrir.
 
 ent-IntercomService = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Serviço
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Serviço
 
 ent-IntercomSupply = {ent-BaseIntercom}
-    .desc = { ent-BaseIntercom.desc }
-    .suffix = Suprimentos
     .desc = {ent-BaseIntercom.desc}
+    .suffix = Suprimentos
 
 # From: Entities/Structures/Wallmounts/memorial.yml
 
@@ -12999,7 +12733,7 @@ ent-ShelfChemistry = prateleira química
     .desc = Mantém todos os seus produtos químicos seguros e longe das mãos de pal- digo, público!
 
 ent-ShelfChemistryChemistrySecure = {ent-ShelfChemistry}
-    .desc = { ent-ShelfChemistry.desc }
+    .desc = {ent-ShelfChemistry.desc}
     .suffix = Química, Seguro
 
 ent-ShelfGlass = prateleira de vidro
@@ -13029,19 +12763,16 @@ ent-ShotGunCabinet = armário de escopeta
     .desc = Há um pequeno rótulo que diz Somente para uso de emergência junto com detalhes para uso seguro da escopeta - como se você fosse seguir isso.
 
 ent-ShotGunCabinetFilled = {ent-ShotGunCabinet}
-    .desc = { ent-ShotGunCabinet.desc }
-    .suffix = Preenchido
     .desc = {ent-ShotGunCabinet.desc}
+    .suffix = Preenchido
 
 ent-ShotGunCabinetFilledOpen = {ent-ShotGunCabinet}
-    .desc = { ent-ShotGunCabinet.desc }
-    .suffix = Preenchido, Aberto
     .desc = {ent-ShotGunCabinet.desc}
+    .suffix = Preenchido, Aberto
 
 ent-ShotGunCabinetOpen = {ent-ShotGunCabinet}
-    .desc = { ent-ShotGunCabinet.desc }
-    .suffix = Aberto
     .desc = {ent-ShotGunCabinet.desc}
+    .suffix = Aberto
 
 # From: Entities/Structures/Wallmounts/Signs/atmos_plaque.yml
 
@@ -13660,7 +13391,7 @@ ent-SignCans = placa de cilindros
     .desc = Uma placa indicando a presença auspiciosa de cilindros de gás.
 
 ent-SignCansScience = {ent-SignCans}
-    .desc = { ent-SignCans.desc }
+    .desc = {ent-SignCans.desc}
     .suffix = ciência
 
 ent-SignCargo = placa de carga
@@ -14166,149 +13897,149 @@ ent-ButtonFrame = moldura de botão
     .desc = É uma moldura para ajudar a distinguir interruptores visualmente.
 
 ent-ButtonFrameCaution = {ent-ButtonFrame}
-    .desc = { ent-ButtonFrame.desc }
+    .desc = {ent-ButtonFrame.desc}
     .suffix = atenção
 
 ent-ButtonFrameCautionSecurity = {ent-ButtonFrame}
-    .desc = { ent-ButtonFrame.desc }
+    .desc = {ent-ButtonFrame.desc}
     .suffix = atenção
 
 ent-ButtonFrameExit = {ent-ButtonFrame}
-    .desc = { ent-ButtonFrame.desc }
+    .desc = {ent-ButtonFrame.desc}
     .suffix = saída
 
 ent-ButtonFrameGrey = {ent-ButtonFrame}
-    .desc = { ent-ButtonFrame.desc }
+    .desc = {ent-ButtonFrame.desc}
     .suffix = cinza
 
 ent-ButtonFrameJanitor = {ent-ButtonFrame}
-    .desc = { ent-ButtonFrame.desc }
+    .desc = {ent-ButtonFrame.desc}
     .suffix = zelador
 
 ent-LockableButton = botão trancável
 
 ent-LockableButtonArmory = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Arsenal
 
 ent-LockableButtonAtmospherics = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Atmosférico
 
 ent-LockableButtonBar = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Bar
 
 ent-LockableButtonBrig = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Brig
 
 ent-LockableButtonCaptain = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Capitão
 
 ent-LockableButtonCargo = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Carga
 
 ent-LockableButtonCentcomm = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = CentComm
 
 ent-LockableButtonChapel = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Capela
 
 ent-LockableButtonChemistry = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Química
 
 ent-LockableButtonChiefEngineer = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Chefe de Engenharia
 
 ent-LockableButtonChiefMedicalOfficer = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Chefe Médico
 
 ent-LockableButtonCommand = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Comando
 
 ent-LockableButtonCryogenics = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Criogenia
 
 ent-LockableButtonDetective = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Detetive
 
 ent-LockableButtonEngineering = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Engenharia
 
 ent-LockableButtonExternal = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Externo
 
 ent-LockableButtonHeadOfPersonnel = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Chefe de Pessoal
 
 ent-LockableButtonHeadOfSecurity = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Chefe de Segurança
 
 ent-LockableButtonHydroponics = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Hidroponia
 
 ent-LockableButtonJanitor = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Zelador
 
 ent-LockableButtonKitchen = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Cozinha
 
 ent-LockableButtonLawyer = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Advogado
 
 ent-LockableButtonMaintenance = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Manutenção
 
 ent-LockableButtonMedical = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Médico
 
 ent-LockableButtonQuartermaster = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Quartel-Mestre
 
 ent-LockableButtonResearch = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Pesquisa
 
 ent-LockableButtonResearchDirector = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Diretor de Pesquisa
 
 ent-LockableButtonSalvage = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Salvagem
 
 ent-LockableButtonSecurity = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Segurança
 
 ent-LockableButtonService = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Serviço
 
 ent-LockableButtonTheatre = {ent-LockableButton}
-    .desc = { ent-LockableButton.desc }
+    .desc = {ent-LockableButton.desc}
     .suffix = Teatro
 
 ent-SignalButton = botão de sinal
@@ -14355,32 +14086,26 @@ ent-AsteroidRock = rocha de asteroide
     .desc = Um asteroide rochoso.
 
 ent-AsteroidRockArtifactAnomaly = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-AsteroidRockArtifactFragment = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-AsteroidRockBananium = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-AsteroidRockCoal = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-AsteroidRockDiamond = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-AsteroidRockGold = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
@@ -14389,50 +14114,43 @@ ent-AsteroidRockMining = rocha de asteroide
     .desc = Um asteroide.
 
 ent-AsteroidRockPlasma = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-AsteroidRockQuartz = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-AsteroidRockQuartzCrab = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Caranguejo de Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-AsteroidRockSalt = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-AsteroidRockSilver = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-AsteroidRockSilverCrab = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
+    .desc = {ent-AsteroidRock.desc}
     .suffix = Caranguejo de Prata
 
 ent-AsteroidRockTin = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-AsteroidRockTinCrab = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
+    .desc = {ent-AsteroidRock.desc}
     .suffix = Caranguejo de Ferro
 
 ent-AsteroidRockUranium = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
 ent-AsteroidRockUraniumCrab = {ent-AsteroidRock}
-    .desc = { ent-AsteroidRock.desc }
+    .desc = {ent-AsteroidRock.desc}
     .suffix = Caranguejo de Urânio
 
 ent-IronRock = rocha de ferro
@@ -14440,37 +14158,30 @@ ent-IronRock = rocha de ferro
     .desc = Um asteroide rochoso.
 
 ent-IronRockArtifactAnomaly = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-IronRockArtifactFragment = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-IronRockBananium = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-IronRockCoal = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-IronRockDiamond = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-IronRockGold = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-IronRockIron = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
@@ -14479,27 +14190,22 @@ ent-IronRockMining = rocha de ferro
     .desc = Um asteroide.
 
 ent-IronRockPlasma = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-IronRockQuartz = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-IronRockSalt = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-IronRockSilver = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-IronRockUranium = {ent-IronRock}
-    .desc = { ent-IronRock.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
@@ -14509,365 +14215,294 @@ ent-WallRock = rocha
 ent-WallRockAndesite = andesito
 
 ent-WallRockAndesiteArtifactAnomaly = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockAndesiteArtifactFragment = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockAndesiteBananium = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-WallRockAndesiteCoal = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-WallRockAndesiteDiamond = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-WallRockAndesiteGold = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-WallRockAndesitePlasma = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-WallRockAndesiteQuartz = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-WallRockAndesiteSalt = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-WallRockAndesiteSilver = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-WallRockAndesiteTin = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-WallRockAndesiteUranium = {ent-WallRockAndesite}
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
 ent-WallRockArtifactFragment = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockBananium = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-WallRockBasalt = basalto
 
 ent-WallRockBasaltArtifactAnomaly = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockBasaltArtifactFragment = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockBasaltBananium = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-WallRockBasaltCoal = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-WallRockBasaltDiamond = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-WallRockBasaltGold = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-WallRockBasaltPlasma = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-WallRockBasaltQuartz = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-WallRockBasaltSalt = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-WallRockBasaltSilver = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-WallRockBasaltTin = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-WallRockBasaltUranium = {ent-WallRockBasalt}
-    .desc = { ent-WallRockBasalt.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
 ent-WallRockChromite = cromita
 
 ent-WallRockChromiteArtifactAnomaly = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockChromiteArtifactFragment = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockChromiteBananium = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-WallRockChromiteCoal = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-WallRockChromiteDiamond = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-WallRockChromiteGold = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-WallRockChromitePlasma = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-WallRockChromiteQuartz = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-WallRockChromiteSalt = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-WallRockChromiteSilver = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-WallRockChromiteTin = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-WallRockChromiteUranium = {ent-WallRockChromite}
-    .desc = { ent-WallRockChromite.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
 ent-WallRockCoal = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-WallRockDiamond = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-WallRockGold = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-WallRockPlasma = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-WallRockQuartz = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-WallRockSalt = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-WallRockSand = arenito
 
 ent-WallRockSandArtifactAnomaly = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockSandArtifactFragment = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockSandBananium = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-WallRockSandCoal = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-WallRockSandDiamond = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-WallRockSandGold = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-WallRockSandPlasma = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-WallRockSandQuartz = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-WallRockSandSalt = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-WallRockSandSilver = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-WallRockSandTin = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-WallRockSandUranium = {ent-WallRockSand}
-    .desc = { ent-WallRockSand.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
 ent-WallRockSilver = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-WallRockSnow = acumulo de neve
 
 ent-WallRockSnowArtifactAnomaly = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Anomalia
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockSnowArtifactFragment = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Fragmento de Artefato
     .desc = Uma parede de rocha. O que é aquele coisa saindo dela?
 
 ent-WallRockSnowBananium = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-WallRockSnowCoal = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-WallRockSnowDiamond = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-WallRockSnowGold = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-WallRockSnowPlasma = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-WallRockSnowQuartz = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-WallRockSnowSalt = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Sal
     .desc = Uma veia de minério rica em sal.
 
 ent-WallRockSnowSilver = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-WallRockSnowTin = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-WallRockSnowUranium = {ent-WallRockSnow}
-    .desc = { ent-WallRockSnow.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
 ent-WallRockTin = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-WallRockUranium = {ent-WallRock}
-    .desc = { ent-WallRock.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
@@ -14881,18 +14516,18 @@ ent-FenceMetalBroken = cerca de arame farpado quebrada
     .desc = Alguém ficou realmente irritado com um objeto inanimado.
 
 ent-FenceMetalCorner = {ent-BaseFenceMetal}
-    .desc = { ent-BaseFenceMetal.desc }
+    .desc = {ent-BaseFenceMetal.desc}
     .suffix = Canto
 
 ent-FenceMetalEnd = {ent-BaseFenceMetal}
-    .desc = { ent-BaseFenceMetal.desc }
+    .desc = {ent-BaseFenceMetal.desc}
     .suffix = Fim
 
 ent-FenceMetalGate = portão de cerca de arame farpado
     .desc = Você poderia usar a porta em vez de pular por cima—se você é um COVARDE, claro.
 
 ent-FenceMetalStraight = {ent-BaseFenceMetal}
-    .desc = { ent-BaseFenceMetal.desc }
+    .desc = {ent-BaseFenceMetal.desc}
     .suffix = Reto
 
 # From: Entities/Structures/Walls/fence_wood.yml
@@ -14907,41 +14542,41 @@ ent-BaseFenceWoodSmall = cerca de madeira pequena
     .desc = Pedaco de cerca pequena de madeira. A melhor protecao para o cercamento de um território privado!
 
 ent-FenceWoodHighCorner = {ent-BaseFenceWood}
-    .desc = { ent-BaseFenceWood.desc }
+    .desc = {ent-BaseFenceWood.desc}
     .suffix = Canto
 
 ent-FenceWoodHighEnd = {ent-BaseFenceWood}
-    .desc = { ent-BaseFenceWood.desc }
+    .desc = {ent-BaseFenceWood.desc}
     .suffix = Fim
 
 ent-FenceWoodHighGate = portão de cerca de madeira
     .desc = Você tem alguma ideia do que espera você atrás desses portões? Pode ser um banheiro ou uma mansão luxuosa. Mas você continua a amar seus garotos emo.
 
 ent-FenceWoodHighStraight = {ent-BaseFenceWood}
-    .desc = { ent-BaseFenceWood.desc }
+    .desc = {ent-BaseFenceWood.desc}
     .suffix = Reto
 
 ent-FenceWoodHighTJunction = {ent-BaseFenceWood}
-    .desc = { ent-BaseFenceWood.desc }
+    .desc = {ent-BaseFenceWood.desc}
     .suffix = Junção-T
 
 ent-FenceWoodSmallCorner = {ent-BaseFenceWoodSmall}
-    .desc = { ent-BaseFenceWoodSmall.desc }
+    .desc = {ent-BaseFenceWoodSmall.desc}
     .suffix = Canto
 
 ent-FenceWoodSmallEnd = {ent-BaseFenceWoodSmall}
-    .desc = { ent-BaseFenceWoodSmall.desc }
+    .desc = {ent-BaseFenceWoodSmall.desc}
     .suffix = Fim
 
 ent-FenceWoodSmallGate = portão de cerca de madeira
     .desc = Olhando para este portão, uma imagem familiar aparece na sua cabeça. Onde está meu porquinho?
 
 ent-FenceWoodSmallStraight = {ent-BaseFenceWoodSmall}
-    .desc = { ent-BaseFenceWoodSmall.desc }
+    .desc = {ent-BaseFenceWoodSmall.desc}
     .suffix = Reto
 
 ent-FenceWoodSmallTJunction = {ent-BaseFenceWoodSmall}
-    .desc = { ent-BaseFenceWoodSmall.desc }
+    .desc = {ent-BaseFenceWoodSmall.desc}
     .suffix = Junção-T
 
 # From: Entities/Structures/Walls/girders.yml
@@ -14979,47 +14614,38 @@ ent-MeteorRock = rocha de meteorito
     .desc = O que resta de um meteorito.
 
 ent-MeteorRockBananium = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Banânio
     .desc = Uma veia de minério rica em banânio.
 
 ent-MeteorRockCoal = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Carvão
     .desc = Uma veia de minério rica em carvão.
 
 ent-MeteorRockDiamond = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Diamante
     .desc = Uma veia de minério rica em diamantes.
 
 ent-MeteorRockGold = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Ouro
     .desc = Uma veia de minério rica em ouro.
 
 ent-MeteorRockPlasma = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Plasma
     .desc = Uma veia de minério rica em plasma.
 
 ent-MeteorRockQuartz = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Quartzo
     .desc = Uma veia de minério rica em quartzo.
 
 ent-MeteorRockSilver = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Prata
     .desc = Uma veia de minério rica em prata.
 
 ent-MeteorRockTin = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Ferro
     .desc = Uma veia de minério rica em ferro.
 
 ent-MeteorRockUranium = {ent-MeteorRock}
-    .desc = { ent-MeteorRock.desc }
     .suffix = Urânio
     .desc = Uma veia de minério rica em urânio.
 
@@ -15126,8 +14752,7 @@ ent-WallReinforcedDiagonal = parede reforçada
     .suffix = diagonal
 
 ent-WallReinforcedRust = {ent-WallReinforced}
-    .desc = { ent-WallReinforced.desc }
-    .desc = {ent-BaseWall.desc}
+    .desc = {ent-WallReinforced.desc}
     .suffix = enferrujada
 
 ent-WallRiveted = parede rebiteada
@@ -15135,7 +14760,6 @@ ent-WallRiveted = parede rebiteada
 
 ent-WallSandCobblebrick = parede de tijolos de arenito
     .desc = {ent-BaseWall.desc}
-    .desc = {ent-WallCobblebrick.desc}
 
 ent-WallSandstone = parede de arenito
     .desc = {ent-BaseWall.desc}
@@ -15169,8 +14793,7 @@ ent-WallSolidDiagonal = parede sólida
     .suffix = diagonal
 
 ent-WallSolidRust = {ent-WallSolid}
-    .desc = { ent-WallSolid.desc }
-    .desc = {ent-BaseWall.desc}
+    .desc = {ent-WallSolid.desc}
     .suffix = enferrujada
 
 ent-WallUranium = parede de urânio
@@ -15197,8 +14820,8 @@ ent-ClockworkWindow = janela de relógio
     .desc = Cuidado pra não manchar o latão ali em baixo.
 
 ent-ClockworkWindowDiagonal = {ent-ClockworkWindow} diagonal
-    .suffix = diagonal
     .desc = {ent-ClockworkWindow.desc}
+    .suffix = diagonal
 
 ent-WindowClockworkDirectional = {ent-ClockworkWindow} direcional
     .desc = {ent-ClockworkWindow.desc}
@@ -15218,9 +14841,8 @@ ent-PlasmaWindow = janela de plasma
     .desc = {ent-Window.desc}
 
 ent-PlasmaWindowDiagonal = {ent-PlasmaWindow}
-    .desc = { ent-PlasmaWindow.desc }
-    .suffix = diagonal
     .desc = {ent-PlasmaWindow.desc}
+    .suffix = diagonal
 
 ent-PlasmaWindowDirectional = janela de plasma direcional
     .desc = {ent-PlasmaWindow.desc}
@@ -15263,8 +14885,8 @@ ent-ReinforcedWindow = janela reforçada
     .desc = {ent-Window.desc}
 
 ent-ReinforcedWindowDiagonal = {ent-ReinforcedWindow} diagonal
-    .suffix = diagonal
     .desc = {ent-ReinforcedWindow.desc}
+    .suffix = diagonal
 
 ent-WindowReinforcedDirectional = {ent-ReinforcedWindow} direcional
     .desc = {ent-ReinforcedWindow.desc}
@@ -15278,8 +14900,8 @@ ent-ReinforcedPlasmaWindow = janela de plasma reforçada
     .desc = {ent-Window.desc}
 
 ent-ReinforcedPlasmaWindowDiagonal = {ent-ReinforcedPlasmaWindow} diagonal
-    .suffix = diagonal
     .desc = {ent-ReinforcedPlasmaWindow.desc}
+    .suffix = diagonal
 
 # From: Entities/Structures/Windows/ruranium.yml
 
@@ -15287,8 +14909,8 @@ ent-ReinforcedUraniumWindow = janela de urânio reforçada
     .desc = {ent-Window.desc}
 
 ent-ReinforcedUraniumWindowDiagonal = {ent-ReinforcedUraniumWindow} diagonal
-    .suffix = diagonal
     .desc = {ent-ReinforcedUraniumWindow.desc}
+    .suffix = diagonal
 
 ent-UraniumReinforcedWindowDirectional = janela de urânio reforçada direcional
     .desc = {ent-ReinforcedUraniumWindow.desc}
@@ -15299,8 +14921,8 @@ ent-ShuttleWindow = janela de shuttle
     .desc = {ent-Window.desc}
 
 ent-ShuttleWindowDiagonal = {ent-ShuttleWindow} diagonal
-    .suffix = diagonal
     .desc = {ent-ShuttleWindow.desc}
+    .suffix = diagonal
 
 # From: Entities/Structures/Windows/uranium.yml
 
@@ -15308,12 +14930,11 @@ ent-UraniumWindow = janela de urânio
     .desc = {ent-Window.desc}
 
 ent-UraniumWindowDiagonal = {ent-UraniumWindow} diagonal
-    .suffix = diagonal
     .desc = {ent-UraniumWindow.desc}
+    .suffix = diagonal
 
 ent-UraniumWindowDirectional = janela de urânio direcional
     .desc = Cuidado pra não manchar o vidro ali em baixo.
-    .desc = {ent-UraniumWindow.desc}
 
 # From: Entities/Structures/Windows/window.yml
 
@@ -15324,8 +14945,8 @@ ent-Window = janela
     .desc = Cuidado pra não manchar o vidro ali em baixo.
 
 ent-WindowDiagonal = {ent-Window} diagonal
-    .suffix = diagonal
     .desc = {ent-Window.desc}
+    .suffix = diagonal
 
 ent-WindowDirectional = {ent-Window} direcional
     .desc = {ent-Window.desc}
@@ -15348,7 +14969,7 @@ ent-BasaltOne = basalto
     .desc = Rocha.
 
 ent-BasaltRandom = {ent-BasaltOne}
-    .desc = { ent-BasaltOne.desc }
+    .desc = {ent-BasaltOne.desc}
     .suffix = Aleatório
 
 # From: Entities/Tiles/chasm.yml
@@ -15357,15 +14978,15 @@ ent-FloorChasmEntity = abismo
     .desc = Você nem consegue ver o fundo.
 
 ent-FloorChromiteChasm = {ent-FloorChasmEntity}
-    .desc = { ent-FloorChasmEntity.desc }
+    .desc = {ent-FloorChasmEntity.desc}
     .suffix = Cromita
 
 ent-FloorDesertChasm = {ent-FloorChasmEntity}
-    .desc = { ent-FloorChasmEntity.desc }
+    .desc = {ent-FloorChasmEntity.desc}
     .suffix = Deserto
 
 ent-FloorSnowChasm = {ent-FloorChasmEntity}
-    .desc = { ent-FloorChasmEntity.desc }
+    .desc = {ent-FloorChasmEntity.desc}
     .suffix = Neve
 
 # From: Entities/Tiles/lava.yml
@@ -15384,7 +15005,7 @@ ent-ShadowBasaltOne = pedra-sombra
     .desc = Rachaduras brilhantes na realidade. Provavelmente está tudo bem.
 
 ent-ShadowBasaltRandom = {ent-ShadowBasaltOne}
-    .desc = { ent-ShadowBasaltOne.desc }
+    .desc = {ent-ShadowBasaltOne.desc}
     .suffix = Aleatório
 
 # From: Entities/Tiles/water.yml
@@ -15460,23 +15081,23 @@ ent-FloorTrapEMP = armadilha de piso EMP
 ent-FloorTrapExplosion = armadilha de piso de explosão
 
 ent-SpawnFloorTrapBear = {ent-CollideFloorTrapSpawn}
-    .desc = { ent-CollideFloorTrapSpawn.desc }
+    .desc = {ent-CollideFloorTrapSpawn.desc}
     .suffix = Urso
 
 ent-SpawnFloorTrapCarp = {ent-CollideFloorTrapSpawn}
-    .desc = { ent-CollideFloorTrapSpawn.desc }
+    .desc = {ent-CollideFloorTrapSpawn.desc}
     .suffix = Carpa
 
 ent-SpawnFloorTrapKangaroo = {ent-CollideFloorTrapSpawn}
-    .desc = { ent-CollideFloorTrapSpawn.desc }
+    .desc = {ent-CollideFloorTrapSpawn.desc}
     .suffix = Canguru
 
 ent-SpawnFloorTrapXenoBurrower = {ent-CollideFloorTrapSpawn}
-    .desc = { ent-CollideFloorTrapSpawn.desc }
+    .desc = {ent-CollideFloorTrapSpawn.desc}
     .suffix = Xeno. Escavador
 
 ent-SpawnFloorTrapXenoDrone = {ent-CollideFloorTrapSpawn}
-    .desc = { ent-CollideFloorTrapSpawn.desc }
+    .desc = {ent-CollideFloorTrapSpawn.desc}
     .suffix = Xeno. Drone
 
 # From: Loadouts/dummy_entities.yml
@@ -15809,7 +15430,7 @@ ent-MaterialBluespace = cristal de bluespace
     .suffix = Completo
 
 ent-MaterialBluespace1 = {ent-MaterialBluespace}
-    .desc = { ent-MaterialBluespace.desc }
+    .desc = {ent-MaterialBluespace.desc}
     .suffix = 1
 
 # From: Nyanotrasen/Entities/Mobs/NPCs/dogs.yml
@@ -15829,20 +15450,18 @@ ent-MobOni = Enzo Diabão da Silva
 # Abstract entity (referenceable by children)
 
 ent-MobFelinidBase = {ent-MobFelinid}
-    .desc = { ent-MobFelinid.desc }
+    .desc = {ent-MobFelinid.desc}
 
 ent-MobFelinidDummy = {ent-MobFelinid}
-    .desc = { ent-MobFelinid.desc }
     .desc = Um boneco de felinídeo destinado a ser usado na configuração de personagem.
 
 # From: Nyanotrasen/Entities/Mobs/Species/oni.yml
 # Abstract entity (referenceable by children)
 
 ent-MobOniBase = {ent-MobOni}
-    .desc = { ent-MobOni.desc }
+    .desc = {ent-MobOni.desc}
 
 ent-MobOniDummy = {ent-MobOni}
-    .desc = { ent-MobOni.desc }
     .desc = Um boneco de oni destinado a ser usado na configuração de personagem.
 
 # From: Nyanotrasen/Entities/Objects/Books/hyperlinks.yml
@@ -16193,7 +15812,7 @@ ent-BaseAmphora = ânfora
 ent-BaseMail = mail-item-name-unaddressed
 
 ent-MailAdminFun = {ent-BaseMail}
-    .desc = { ent-BaseMail.desc }
+    .desc = {ent-BaseMail.desc}
     .suffix = adminfun
 
 # From: Nyanotrasen/Entities/Objects/Specific/Mail/tools.yml
@@ -16519,33 +16138,33 @@ ent-BenchBaseMiddle = banco
     .desc = Múltiplos assentos que abrangem um único objeto. Verdadeiramente uma maravilha da ciência.
 
 ent-BenchParkBambooLeft = {ent-BenchParkBambooMiddle}
-    .desc = { ent-BenchParkBambooMiddle.desc }
+    .desc = {ent-BenchParkBambooMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchParkBambooMiddle = banco de parque
 
 ent-BenchParkBambooRight = {ent-BenchParkBambooMiddle}
-    .desc = { ent-BenchParkBambooMiddle.desc }
+    .desc = {ent-BenchParkBambooMiddle.desc}
     .suffix = Direita
 
 ent-BenchParkLeft = {ent-BenchParkMiddle}
-    .desc = { ent-BenchParkMiddle.desc }
+    .desc = {ent-BenchParkMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchParkMiddle = banco de parque
 
 ent-BenchParkRight = {ent-BenchParkMiddle}
-    .desc = { ent-BenchParkMiddle.desc }
+    .desc = {ent-BenchParkMiddle.desc}
     .suffix = Direita
 
 ent-BenchPewLeft = {ent-BenchPewMiddle}
-    .desc = { ent-BenchPewMiddle.desc }
+    .desc = {ent-BenchPewMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchPewMiddle = banco de igreja
 
 ent-BenchPewRight = {ent-BenchPewMiddle}
-    .desc = { ent-BenchPewMiddle.desc }
+    .desc = {ent-BenchPewMiddle.desc}
     .suffix = Direita
 
 ent-BenchSofaCorner = sofá
@@ -16555,43 +16174,43 @@ ent-BenchSofaCorpCorner = sofá cinza
     .suffix = Canto
 
 ent-BenchSofaCorpLeft = {ent-BenchSofaCorpMiddle}
-    .desc = { ent-BenchSofaCorpMiddle.desc }
+    .desc = {ent-BenchSofaCorpMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchSofaCorpMiddle = sofá cinza
 
 ent-BenchSofaCorpRight = {ent-BenchSofaCorpMiddle}
-    .desc = { ent-BenchSofaCorpMiddle.desc }
+    .desc = {ent-BenchSofaCorpMiddle.desc}
     .suffix = Direita
 
 ent-BenchSofaLeft = {ent-BenchSofaMiddle}
-    .desc = { ent-BenchSofaMiddle.desc }
+    .desc = {ent-BenchSofaMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchSofaMiddle = sofá
 
 ent-BenchSofaRight = {ent-BenchSofaMiddle}
-    .desc = { ent-BenchSofaMiddle.desc }
+    .desc = {ent-BenchSofaMiddle.desc}
     .suffix = Direita
 
 ent-BenchSteelLeft = {ent-BenchSteelMiddle}
-    .desc = { ent-BenchSteelMiddle.desc }
+    .desc = {ent-BenchSteelMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchSteelMiddle = banco de aço
 
 ent-BenchSteelRight = {ent-BenchSteelMiddle}
-    .desc = { ent-BenchSteelMiddle.desc }
+    .desc = {ent-BenchSteelMiddle.desc}
     .suffix = Direita
 
 ent-BenchSteelWhiteLeft = {ent-BenchSteelWhiteMiddle}
-    .desc = { ent-BenchSteelWhiteMiddle.desc }
+    .desc = {ent-BenchSteelWhiteMiddle.desc}
     .suffix = Esquerda
 
 ent-BenchSteelWhiteMiddle = banco de aço branco
 
 ent-BenchSteelWhiteRight = {ent-BenchSteelWhiteMiddle}
-    .desc = { ent-BenchSteelWhiteMiddle.desc }
+    .desc = {ent-BenchSteelWhiteMiddle.desc}
     .suffix = Direita
 
 ent-CrateNPCMonkeyCube = caixa de cubos de macaco
@@ -16621,45 +16240,45 @@ ent-CrateNPCSnake = caixa de cobras
 # From: Catalog/Fills/Crates/permaescape.yml
 
 ent-CratePermaEscapeBureaucracy = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Escrita
 
 ent-CratePermaEscapeComs = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Coms
 
 ent-CratePermaEscapeDigging = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Escavação
 
 ent-CratePermaEscapeEVA = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = EVA
 
 ent-CratePermaEscapeGiftsFromSyndicate = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Presentes Sindi
 
 ent-CratePermaEscapeGun = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Arma
 
 ent-CratePermaEscapeLights = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Glowsticks
 
 ent-CratePermaEscapeMats = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Materiais
 
 ent-CratePermaEscapeMerc = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Mercenário
 
 ent-CratePermaEscapeSpawner = spawner de caixas de fuga perpétua
 
 ent-CratePermaEscapeTowercap = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Towercap
 
 # From: Catalog/Fills/Crates/salvage.yml
@@ -16674,7 +16293,7 @@ ent-CratePartsT4 = caixa de peças de nível 4
     .desc = Contém 5 peças aleatórias de nível 4 para atualizar máquinas.
 
 ent-CrateSalvageAssortedGoodies = {ent-CrateGenericSteel}
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Preenchida, Salvagem Aleatório
 
 ent-CrateSalvageEquipment = caixa de equipamento de salvagem
@@ -16766,7 +16385,7 @@ ent-CrateServiceTheatre = caixa de performances teatrais
     .desc = Contém um manto de mariposa, tesouras de barbeiro, uniforme de empregada, atributos de palhaço e mímico e outros encantos de performance.
 
 ent-CrateTrashCartFilled = {ent-CrateTrashCart}
-    .desc = { ent-CrateTrashCart.desc }
+    .desc = {ent-CrateTrashCart.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Crates/shuttle.yml
@@ -16872,152 +16491,152 @@ ent-CrateVendingMachineRestockVendomatFilled = caixa de reposição Vendomat
 # From: Catalog/Fills/Items/belt.yml
 
 ent-ClothingBeltChefFilled = {ent-ClothingBeltChef}
-    .desc = { ent-ClothingBeltChef.desc }
+    .desc = {ent-ClothingBeltChef.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltChiefEngineerFilled = {ent-ClothingBeltChiefEngineer}
-    .desc = { ent-ClothingBeltChiefEngineer.desc }
+    .desc = {ent-ClothingBeltChiefEngineer.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltHolsterFilled = {ent-ClothingBeltHolster}
-    .desc = { ent-ClothingBeltHolster.desc }
+    .desc = {ent-ClothingBeltHolster.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltJanitorFilled = {ent-ClothingBeltJanitor}
-    .desc = { ent-ClothingBeltJanitor.desc }
+    .desc = {ent-ClothingBeltJanitor.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltMedicalEMTFilled = {ent-ClothingBeltMedicalEMT}
-    .desc = { ent-ClothingBeltMedicalEMT.desc }
+    .desc = {ent-ClothingBeltMedicalEMT.desc}
     .suffix = Paramédico,Preenchida
 
 ent-ClothingBeltMedicalFilled = {ent-ClothingBeltMedical}
-    .desc = { ent-ClothingBeltMedical.desc }
+    .desc = {ent-ClothingBeltMedical.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltMilitaryWebbingGrenadeFilled = colete de granadeiro
     .suffix = Preenchida
 
 ent-ClothingBeltMilitaryWebbingMedFilled = {ent-ClothingBeltMilitaryWebbingMed}
-    .desc = { ent-ClothingBeltMilitaryWebbingMed.desc }
+    .desc = {ent-ClothingBeltMilitaryWebbingMed.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltPlantFilled = {ent-ClothingBeltPlant}
-    .desc = { ent-ClothingBeltPlant.desc }
+    .desc = {ent-ClothingBeltPlant.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltSecurityFilled = {ent-ClothingBeltSecurity}
-    .desc = { ent-ClothingBeltSecurity.desc }
+    .desc = {ent-ClothingBeltSecurity.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltSecurityWebbingFilled = {ent-ClothingBeltSecurityWebbing}
-    .desc = { ent-ClothingBeltSecurityWebbing.desc }
+    .desc = {ent-ClothingBeltSecurityWebbing.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltSheathFilled = {ent-ClothingBeltSheath}
-    .desc = { ent-ClothingBeltSheath.desc }
+    .desc = {ent-ClothingBeltSheath.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltUtilityEngineering = {ent-ClothingBeltUtility}
-    .desc = { ent-ClothingBeltUtility.desc }
+    .desc = {ent-ClothingBeltUtility.desc}
     .suffix = Engenharia
 
 ent-ClothingBeltUtilityFilled = {ent-ClothingBeltUtility}
-    .desc = { ent-ClothingBeltUtility.desc }
+    .desc = {ent-ClothingBeltUtility.desc}
     .suffix = Preenchida
 
 ent-ClothingBeltWandFilled = {ent-ClothingBeltWand}
-    .desc = { ent-ClothingBeltWand.desc }
+    .desc = {ent-ClothingBeltWand.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Items/briefcases.yml
 
 ent-BriefcaseBrownFilled = {ent-BriefcaseBrown}
-    .desc = { ent-BriefcaseBrown.desc }
+    .desc = {ent-BriefcaseBrown.desc}
     .suffix = Preenchida, Papel
 
 ent-BriefcaseSyndieLobbyingBundleFilled = {ent-BriefcaseBrown}
-    .desc = { ent-BriefcaseBrown.desc }
+    .desc = {ent-BriefcaseBrown.desc}
     .suffix = Sindicato, Spesos
 
 ent-BriefcaseSyndieSniperBundleFilled = {ent-BriefcaseBrown}
-    .desc = { ent-BriefcaseBrown.desc }
+    .desc = {ent-BriefcaseBrown.desc}
     .suffix = Sindicato, Pacote Sniper
 
 ent-BriefcaseThiefBribingBundleFilled = {ent-BriefcaseBrown}
-    .desc = { ent-BriefcaseBrown.desc }
+    .desc = {ent-BriefcaseBrown.desc}
     .suffix = Ladrão, Spesos
 
 # From: Catalog/Fills/Items/firstaidkits.yml
 
 ent-MedkitAdvancedFilled = {ent-MedkitAdvanced}
-    .desc = { ent-MedkitAdvanced.desc }
+    .desc = {ent-MedkitAdvanced.desc}
     .suffix = Preenchida
 
 ent-MedkitBruteFilled = {ent-MedkitBrute}
-    .desc = { ent-MedkitBrute.desc }
+    .desc = {ent-MedkitBrute.desc}
     .suffix = Preenchida
 
 ent-MedkitBurnFilled = {ent-MedkitBurn}
-    .desc = { ent-MedkitBurn.desc }
+    .desc = {ent-MedkitBurn.desc}
     .suffix = Preenchida
 
 ent-MedkitCombatFilled = {ent-MedkitCombat}
-    .desc = { ent-MedkitCombat.desc }
+    .desc = {ent-MedkitCombat.desc}
     .suffix = Preenchida
 
 ent-MedkitFilled = {ent-Medkit}
-    .desc = { ent-Medkit.desc }
+    .desc = {ent-Medkit.desc}
     .suffix = Preenchida
 
 ent-MedkitOxygenFilled = {ent-MedkitO2}
-    .desc = { ent-MedkitO2.desc }
+    .desc = {ent-MedkitO2.desc}
     .suffix = Preenchida
 
 ent-MedkitRadiationFilled = {ent-MedkitRadiation}
-    .desc = { ent-MedkitRadiation.desc }
+    .desc = {ent-MedkitRadiation.desc}
     .suffix = Preenchida
 
 ent-MedkitToxinFilled = {ent-MedkitToxin}
-    .desc = { ent-MedkitToxin.desc }
+    .desc = {ent-MedkitToxin.desc}
     .suffix = Preenchida
 
 ent-StimkitFilled = {ent-Medkit}
-    .desc = { ent-Medkit.desc }
+    .desc = {ent-Medkit.desc}
     .suffix = Kit de Estímulo, Preenchida
 
 # From: Catalog/Fills/Items/gas_tanks.yml
 
 ent-AirTankFilled = {ent-AirTank}
-    .desc = { ent-AirTank.desc }
+    .desc = {ent-AirTank.desc}
     .suffix = Preenchida
 
 ent-DoubleEmergencyNitrogenTankFilled = {ent-DoubleEmergencyNitrogenTank}
-    .desc = { ent-DoubleEmergencyNitrogenTank.desc }
+    .desc = {ent-DoubleEmergencyNitrogenTank.desc}
     .suffix = Preenchida
 
 ent-DoubleEmergencyOxygenTankFilled = {ent-DoubleEmergencyOxygenTank}
-    .desc = { ent-DoubleEmergencyOxygenTank.desc }
+    .desc = {ent-DoubleEmergencyOxygenTank.desc}
     .suffix = Preenchida
 
 ent-EmergencyFunnyOxygenTankFilled = {ent-EmergencyFunnyOxygenTank}
-    .desc = { ent-EmergencyFunnyOxygenTank.desc }
+    .desc = {ent-EmergencyFunnyOxygenTank.desc}
     .suffix = Preenchida
 
 ent-EmergencyNitrogenTankFilled = {ent-EmergencyNitrogenTank}
-    .desc = { ent-EmergencyNitrogenTank.desc }
+    .desc = {ent-EmergencyNitrogenTank.desc}
     .suffix = Preenchida
 
 ent-EmergencyOxygenTankFilled = {ent-EmergencyOxygenTank}
-    .desc = { ent-EmergencyOxygenTank.desc }
+    .desc = {ent-EmergencyOxygenTank.desc}
     .suffix = Preenchida
 
 ent-ExtendedEmergencyNitrogenTankFilled = {ent-ExtendedEmergencyNitrogenTank}
-    .desc = { ent-ExtendedEmergencyNitrogenTank.desc }
+    .desc = {ent-ExtendedEmergencyNitrogenTank.desc}
     .suffix = Preenchida
 
 ent-ExtendedEmergencyOxygenTankFilled = {ent-ExtendedEmergencyOxygenTank}
-    .desc = { ent-ExtendedEmergencyOxygenTank.desc }
+    .desc = {ent-ExtendedEmergencyOxygenTank.desc}
     .suffix = Preenchida
 
 ent-NitrogenTankFilled = tanque de nitrogênio
@@ -17027,7 +16646,7 @@ ent-NitrousOxideTankFilled = tanque de óxido nitroso
     .suffix = Preenchida
 
 ent-OxygenTankFilled = {ent-OxygenTank}
-    .desc = { ent-OxygenTank.desc }
+    .desc = {ent-OxygenTank.desc}
     .suffix = Preenchida
 
 ent-PlasmaTankFilled = tanque de plasma
@@ -17036,15 +16655,15 @@ ent-PlasmaTankFilled = tanque de plasma
 # From: Catalog/Fills/Items/misc.yml
 
 ent-ClothingShoesBootsCombatFilled = {ent-ClothingShoesBootsCombat}
-    .desc = { ent-ClothingShoesBootsCombat.desc }
+    .desc = {ent-ClothingShoesBootsCombat.desc}
     .suffix = Preenchida, Faca de Combate
 
 ent-ClothingShoesBootsMercenaryFilled = {ent-ClothingShoesBootsMercenary}
-    .desc = { ent-ClothingShoesBootsMercenary.desc }
+    .desc = {ent-ClothingShoesBootsMercenary.desc}
     .suffix = Preenchida
 
 ent-ClothingShoesBootsSyndieFilled = {ent-ClothingShoesBootsCombat}
-    .desc = { ent-ClothingShoesBootsCombat.desc }
+    .desc = {ent-ClothingShoesBootsCombat.desc}
     .suffix = Preenchida, Faca de Arremesso
 
 # From: Catalog/Fills/Items/toolboxes.yml
@@ -17068,183 +16687,183 @@ ent-ToolboxMechanicalFilled = caixa de ferramentas mecânica
     .suffix = Preenchida
 
 ent-ToolboxSyndicateFilled = {ent-ToolboxSyndicate}
-    .desc = { ent-ToolboxSyndicate.desc }
+    .desc = {ent-ToolboxSyndicate.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Lockers/biohazard.yml
 
 ent-ClosetL3Filled = {ent-ClosetL3}
-    .desc = { ent-ClosetL3.desc }
+    .desc = {ent-ClosetL3.desc}
     .suffix = Preenchida, Genérico
 
 ent-ClosetL3JanitorFilled = {ent-ClosetL3}
-    .desc = { ent-ClosetL3.desc }
+    .desc = {ent-ClosetL3.desc}
     .suffix = Preenchida, Zelador
 
 ent-ClosetL3ScienceFilled = {ent-ClosetL3}
-    .desc = { ent-ClosetL3.desc }
+    .desc = {ent-ClosetL3.desc}
     .suffix = Preenchida, Ciência
 
 ent-ClosetL3SecurityFilled = {ent-ClosetL3}
-    .desc = { ent-ClosetL3.desc }
+    .desc = {ent-ClosetL3.desc}
     .suffix = Preenchida, Segurança
 
 ent-ClosetL3VirologyFilled = {ent-ClosetL3}
-    .desc = { ent-ClosetL3.desc }
+    .desc = {ent-ClosetL3.desc}
     .suffix = Preenchida, Virologia
 
 # From: Catalog/Fills/Lockers/cargo.yml
 
 ent-LockerSalvageSpecialistFilled = {ent-LockerSalvageSpecialist}
-    .desc = { ent-LockerSalvageSpecialist.desc }
+    .desc = {ent-LockerSalvageSpecialist.desc}
     .suffix = Preenchida
 
 ent-LockerSalvageSpecialistFilledHardsuit = {ent-LockerSalvageSpecialist}
-    .desc = { ent-LockerSalvageSpecialist.desc }
+    .desc = {ent-LockerSalvageSpecialist.desc}
     .suffix = Preenchida, Traje rígido
 
 # From: Catalog/Fills/Lockers/dressers.yml
 
 ent-DresserCaptainFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Capitão
 
 ent-DresserChiefEngineerFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Engenheiro Chefe
 
 ent-DresserChiefMedicalOfficerFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Oficial Médico Chefe
 
 ent-DresserHeadOfPersonnelFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Chefe de Pessoal
 
 ent-DresserHeadOfSecurityFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Chefe de Segurança
 
 ent-DresserQuarterMasterFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Intendente
 
 ent-DresserResearchDirectorFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Diretor de Pesquisa
 
 ent-DresserWardenFilled = {ent-Dresser}
-    .desc = { ent-Dresser.desc }
+    .desc = {ent-Dresser.desc}
     .suffix = Preenchida, Carcereiro
 
 # From: Catalog/Fills/Lockers/engineer.yml
 
 ent-ClosetRadiationSuitFilled = {ent-ClosetRadiationSuit}
-    .desc = { ent-ClosetRadiationSuit.desc }
+    .desc = {ent-ClosetRadiationSuit.desc}
     .suffix = Preenchida
 
 ent-ClosetToolFilled = {ent-ClosetTool}
-    .desc = { ent-ClosetTool.desc }
+    .desc = {ent-ClosetTool.desc}
     .suffix = Preenchida
 
 ent-LockerAtmosphericsFilled = {ent-LockerAtmospherics}
-    .desc = { ent-LockerAtmospherics.desc }
+    .desc = {ent-LockerAtmospherics.desc}
     .suffix = Preenchida
 
 ent-LockerAtmosphericsFilledHardsuit = {ent-LockerAtmospherics}
-    .desc = { ent-LockerAtmospherics.desc }
+    .desc = {ent-LockerAtmospherics.desc}
     .suffix = Preenchida, Traje rígido
 
 ent-LockerElectricalSuppliesFilled = {ent-LockerElectricalSupplies}
-    .desc = { ent-LockerElectricalSupplies.desc }
+    .desc = {ent-LockerElectricalSupplies.desc}
     .suffix = Preenchida
 
 ent-LockerEngineerFilled = {ent-LockerEngineer}
-    .desc = { ent-LockerEngineer.desc }
+    .desc = {ent-LockerEngineer.desc}
     .suffix = Preenchida
 
 ent-LockerEngineerFilledHardsuit = {ent-LockerEngineer}
-    .desc = { ent-LockerEngineer.desc }
+    .desc = {ent-LockerEngineer.desc}
     .suffix = Preenchida, Traje rígido
 
 ent-LockerWeldingSuppliesFilled = {ent-LockerWeldingSupplies}
-    .desc = { ent-LockerWeldingSupplies.desc }
+    .desc = {ent-LockerWeldingSupplies.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Lockers/heads.yml
 
 ent-LockerCaptainFilled = {ent-LockerCaptain}
-    .desc = { ent-LockerCaptain.desc }
+    .desc = {ent-LockerCaptain.desc}
     .suffix = Preenchida, LaserAntigo
 
 ent-LockerCaptainFilledHardsuit = {ent-LockerCaptain}
-    .desc = { ent-LockerCaptain.desc }
+    .desc = {ent-LockerCaptain.desc}
     .suffix = Preenchida, Traje rígido
 
 ent-LockerCaptainFilledNoLaser = {ent-LockerCaptain}
-    .desc = { ent-LockerCaptain.desc }
+    .desc = {ent-LockerCaptain.desc}
     .suffix = Preenchida
 
 ent-LockerChiefEngineerFilled = {ent-LockerChiefEngineer}
-    .desc = { ent-LockerChiefEngineer.desc }
+    .desc = {ent-LockerChiefEngineer.desc}
     .suffix = Preenchida
 
 ent-LockerChiefEngineerFilledHardsuit = {ent-LockerChiefEngineer}
-    .desc = { ent-LockerChiefEngineer.desc }
+    .desc = {ent-LockerChiefEngineer.desc}
     .suffix = Preenchida, Traje rígido
 
 ent-LockerChiefMedicalOfficerFilled = {ent-LockerChiefMedicalOfficer}
-    .desc = { ent-LockerChiefMedicalOfficer.desc }
+    .desc = {ent-LockerChiefMedicalOfficer.desc}
     .suffix = Preenchida
 
 ent-LockerChiefMedicalOfficerFilledHardsuit = {ent-LockerChiefMedicalOfficer}
-    .desc = { ent-LockerChiefMedicalOfficer.desc }
+    .desc = {ent-LockerChiefMedicalOfficer.desc}
     .suffix = Preenchida, Traje rígido
 
 ent-LockerFreezerVaultFilled = {ent-LockerFreezerBase}
-    .desc = { ent-LockerFreezerBase.desc }
+    .desc = {ent-LockerFreezerBase.desc}
     .suffix = Cofre, Trancada
 
 ent-LockerHeadOfPersonnelFilled = {ent-LockerHeadOfPersonnel}
-    .desc = { ent-LockerHeadOfPersonnel.desc }
+    .desc = {ent-LockerHeadOfPersonnel.desc}
     .suffix = Preenchida
 
 ent-LockerHeadOfSecurityFilled = {ent-LockerHeadOfSecurity}
-    .desc = { ent-LockerHeadOfSecurity.desc }
+    .desc = {ent-LockerHeadOfSecurity.desc}
     .suffix = Preenchida
 
 ent-LockerHeadOfSecurityFilledHardsuit = {ent-LockerHeadOfSecurity}
-    .desc = { ent-LockerHeadOfSecurity.desc }
+    .desc = {ent-LockerHeadOfSecurity.desc}
     .suffix = Preenchida, Traje rígido
 
 ent-LockerQuarterMasterFilled = {ent-LockerQuarterMaster}
-    .desc = { ent-LockerQuarterMaster.desc }
+    .desc = {ent-LockerQuarterMaster.desc}
     .suffix = Preenchida
 
 ent-LockerResearchDirectorFilled = {ent-LockerResearchDirector}
-    .desc = { ent-LockerResearchDirector.desc }
+    .desc = {ent-LockerResearchDirector.desc}
     .suffix = Preenchida
 
 ent-LockerResearchDirectorFilledHardsuit = {ent-LockerResearchDirector}
-    .desc = { ent-LockerResearchDirector.desc }
+    .desc = {ent-LockerResearchDirector.desc}
     .suffix = Preenchida, Traje rígido
 
 # From: Catalog/Fills/Lockers/medical.yml
 
 ent-LockerChemistryFilled = {ent-LockerChemistry}
-    .desc = { ent-LockerChemistry.desc }
+    .desc = {ent-LockerChemistry.desc}
     .suffix = Preenchida
 
 ent-LockerMedicalFilled = {ent-LockerMedical}
-    .desc = { ent-LockerMedical.desc }
+    .desc = {ent-LockerMedical.desc}
     .suffix = Preenchida
 
 ent-LockerMedicineFilled = {ent-LockerMedicine}
-    .desc = { ent-LockerMedicine.desc }
+    .desc = {ent-LockerMedicine.desc}
     .suffix = Preenchida
 
 ent-LockerParamedicFilled = {ent-LockerParamedic}
-    .desc = { ent-LockerParamedic.desc }
+    .desc = {ent-LockerParamedic.desc}
     .suffix = Preenchida
 
 ent-LockerWallMedicalDoctorFilled = armário de médico de parede
@@ -17256,47 +16875,47 @@ ent-LockerWallMedicalFilled = armário de remédios de parede
 # From: Catalog/Fills/Lockers/misc.yml
 
 ent-ClosetEmergencyFilledRandom = {ent-ClosetEmergency}
-    .desc = { ent-ClosetEmergency.desc }
+    .desc = {ent-ClosetEmergency.desc}
     .suffix = Preenchida, Aleatório
 
 ent-ClosetEmergencyN2FilledRandom = {ent-ClosetEmergencyN2}
-    .desc = { ent-ClosetEmergencyN2.desc }
+    .desc = {ent-ClosetEmergencyN2.desc}
     .suffix = Preenchida, Aleatório
 
 ent-ClosetFireFilled = {ent-ClosetFire}
-    .desc = { ent-ClosetFire.desc }
+    .desc = {ent-ClosetFire.desc}
     .suffix = Preenchida
 
 ent-ClosetMaintenanceFilledRandom = {ent-ClosetMaintenance}
-    .desc = { ent-ClosetMaintenance.desc }
+    .desc = {ent-ClosetMaintenance.desc}
     .suffix = Preenchida, Aleatório
 
 ent-ClosetWallEmergencyFilledRandom = {ent-ClosetWallEmergency}
-    .desc = { ent-ClosetWallEmergency.desc }
+    .desc = {ent-ClosetWallEmergency.desc}
     .suffix = Preenchida, Aleatório
 
 ent-ClosetWallFireFilledRandom = {ent-ClosetWallFire}
-    .desc = { ent-ClosetWallFire.desc }
+    .desc = {ent-ClosetWallFire.desc}
     .suffix = Preenchida
 
 ent-ClosetWallMaintenanceFilledRandom = {ent-ClosetWall}
-    .desc = { ent-ClosetWall.desc }
+    .desc = {ent-ClosetWall.desc}
     .suffix = Preenchida, Aleatório
 
 ent-LockerSyndicatePersonalFilled = {ent-LockerSyndicatePersonal}
-    .desc = { ent-LockerSyndicatePersonal.desc }
+    .desc = {ent-LockerSyndicatePersonal.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Lockers/science.yml
 
 ent-LockerScienceFilled = {ent-LockerScientist}
-    .desc = { ent-LockerScientist.desc }
+    .desc = {ent-LockerScientist.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Lockers/security.yml
 
 ent-ClosetBombFilled = {ent-ClosetBomb}
-    .desc = { ent-ClosetBomb.desc }
+    .desc = {ent-ClosetBomb.desc}
     .suffix = Preenchida
 
 ent-GunSafeDisabler = cofre de neutralizadores
@@ -17317,53 +16936,53 @@ ent-GunSafeSubMachineGunWt550 = cofre wt550
     .suffix = Wt550
 
 ent-LockerBrigmedicFilled = {ent-LockerBrigmedic}
-    .desc = { ent-LockerBrigmedic.desc }
+    .desc = {ent-LockerBrigmedic.desc}
     .suffix = Médico de Brigada, Preenchida
 
 ent-LockerDetectiveFilled = {ent-LockerDetective}
-    .desc = { ent-LockerDetective.desc }
+    .desc = {ent-LockerDetective.desc}
     .suffix = Preenchida
 
 ent-LockerSecurityFilled = {ent-LockerSecurity}
-    .desc = { ent-LockerSecurity.desc }
+    .desc = {ent-LockerSecurity.desc}
     .suffix = Preenchida
 
 ent-LockerWardenFilled = {ent-LockerWarden}
-    .desc = { ent-LockerWarden.desc }
+    .desc = {ent-LockerWarden.desc}
     .suffix = Preenchida
 
 ent-LockerWardenFilledHardsuit = {ent-LockerWarden}
-    .desc = { ent-LockerWarden.desc }
+    .desc = {ent-LockerWarden.desc}
     .suffix = Preenchida, Traje rígido
 
 # From: Catalog/Fills/Lockers/service.yml
 
 ent-ClosetChefFilled = {ent-ClosetChef}
-    .desc = { ent-ClosetChef.desc }
+    .desc = {ent-ClosetChef.desc}
     .suffix = Preenchida
 
 ent-ClosetJanitorBombFilled = {ent-ClosetJanitorBomb}
-    .desc = { ent-ClosetJanitorBomb.desc }
+    .desc = {ent-ClosetJanitorBomb.desc}
     .suffix = NÃO MAPEAR, Preenchida
 
 ent-ClosetJanitorFilled = {ent-ClosetJanitor}
-    .desc = { ent-ClosetJanitor.desc }
+    .desc = {ent-ClosetJanitor.desc}
     .suffix = Preenchida
 
 ent-ClosetLegalFilled = {ent-ClosetLegal}
-    .desc = { ent-ClosetLegal.desc }
+    .desc = {ent-ClosetLegal.desc}
     .suffix = Preenchida
 
 ent-LockerBoozeFilled = {ent-LockerBooze}
-    .desc = { ent-LockerBooze.desc }
+    .desc = {ent-LockerBooze.desc}
     .suffix = Preenchida
 
 ent-LockerBotanistFilled = {ent-LockerBotanist}
-    .desc = { ent-LockerBotanist.desc }
+    .desc = {ent-LockerBotanist.desc}
     .suffix = Preenchida
 
 ent-LockerBotanistLoot = {ent-LockerBotanist}
-    .desc = { ent-LockerBotanist.desc }
+    .desc = {ent-LockerBotanist.desc}
     .suffix = Saque
 
 # From: Catalog/Fills/Lockers/space_ruin.yml
@@ -17372,201 +16991,188 @@ ent-LockerOldAISat = armário
     .suffix = armário de traje de vazio NTSRA
 
 ent-LockerSyndicateShipGearBasic = {ent-LockerSyndicate}
-    .desc = { ent-LockerSyndicate.desc }
+    .desc = {ent-LockerSyndicate.desc}
     .suffix = Equipamento básico de nave, Aleatório
 
 ent-LockerSyndicateShipGearBasicChameleonKit = {ent-LockerSyndicate}
-    .desc = { ent-LockerSyndicate.desc }
+    .desc = {ent-LockerSyndicate.desc}
     .suffix = Equipamento básico de nave, Aleatório, Kit Camaleão
 
 # From: Catalog/Fills/Lockers/suit_storage.yml
 
 ent-SuitStorageAtmos = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Técnico Atmosférico
 
 ent-SuitStorageBasic = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Traje rígido Básico
 
 ent-SuitStorageCaptain = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Capitão
 
 ent-SuitStorageCE = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Engenheiro Chefe
 
 ent-SuitStorageCMO = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Oficial Médico Chefe
 
 ent-SuitStorageEngi = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Engenheiro de Estação
 
 ent-SuitStorageEVA = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = EVA
 
 ent-SuitStorageEVAAlternate = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = EVA, Capacete Grande
 
 ent-SuitStorageEVAEmergency = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = EVA de Emergência
 
 ent-SuitStorageEVAPirate = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Macacão PDV
 
 ent-SuitStorageEVAPrisoner = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = EVA de Prisioneiro
 
 ent-SuitStorageEVASyndicate = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = EVA de Sindicato
 
 ent-SuitStorageHOS = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Chefe de Segurança
 
 ent-SuitStorageNTSRA = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = EVA Antigo
 
 ent-SuitStoragePirateCap = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Comando PDV
 
 ent-SuitStorageRD = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Diretor de Pesquisa
 
 ent-SuitStorageSalv = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Salvagem
 
 ent-SuitStorageSec = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Segurança
 
 ent-SuitStorageSyndie = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Traje rígido de Sindicato
 
 ent-SuitStorageWarden = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Carcereiro
 
 ent-SuitStorageWizard = {ent-SuitStorageBase}
-    .desc = { ent-SuitStorageBase.desc }
+    .desc = {ent-SuitStorageBase.desc}
     .suffix = Mago
 
 # From: Catalog/Fills/Lockers/wardrobe_colors.yml
 
 ent-WardrobeBlackFilled = {ent-WardrobeBlack}
-    .desc = { ent-WardrobeBlack.desc }
+    .desc = {ent-WardrobeBlack.desc}
     .suffix = Preenchida
 
 ent-WardrobeBlueFilled = {ent-WardrobeBlue}
-    .desc = { ent-WardrobeBlue.desc }
+    .desc = {ent-WardrobeBlue.desc}
     .suffix = Preenchida
 
 ent-WardrobeGreenFilled = {ent-WardrobeGreen}
-    .desc = { ent-WardrobeGreen.desc }
+    .desc = {ent-WardrobeGreen.desc}
     .suffix = Preenchida
 
 ent-WardrobeGreyFilled = {ent-WardrobeGrey}
-    .desc = { ent-WardrobeGrey.desc }
+    .desc = {ent-WardrobeGrey.desc}
     .suffix = Preenchida
 
 ent-WardrobeMixedFilled = {ent-WardrobeMixed}
-    .desc = { ent-WardrobeMixed.desc }
+    .desc = {ent-WardrobeMixed.desc}
     .suffix = Preenchida
 
 ent-WardrobePinkFilled = {ent-WardrobePink}
-    .desc = { ent-WardrobePink.desc }
+    .desc = {ent-WardrobePink.desc}
     .suffix = Preenchida
 
 ent-WardrobeWhiteFilled = {ent-WardrobeWhite}
-    .desc = { ent-WardrobeWhite.desc }
+    .desc = {ent-WardrobeWhite.desc}
     .suffix = Preenchida
 
 ent-WardrobeYellowFilled = {ent-WardrobeYellow}
-    .desc = { ent-WardrobeYellow.desc }
+    .desc = {ent-WardrobeYellow.desc}
     .suffix = Preenchida
 
 # From: Catalog/Fills/Lockers/wardrobe_job.yml
 
 ent-WardrobeAtmosphericsFilled = {ent-WardrobeAtmospherics}
-    .desc = { ent-WardrobeAtmospherics.desc }
     .suffix = Preenchida
     .desc = Este armário contém um uniforme para técnicos atmosféricos.
 
 ent-WardrobeBotanistFilled = {ent-WardrobeBotanist}
-    .desc = { ent-WardrobeBotanist.desc }
     .suffix = Preenchida
     .desc = Plante-se entre os homens-planta com estas roupas 100% naturais derivadas de plantas.
 
 ent-WardrobeCargoFilled = {ent-WardrobeCargo}
-    .desc = { ent-WardrobeCargo.desc }
     .suffix = Preenchida
     .desc = Este armário? Talvez 500 créditos. Irmandade? Inestimável.
 
 ent-WardrobeChapelFilled = {ent-WardrobeChapel}
-    .desc = { ent-WardrobeChapel.desc }
     .suffix = Preenchida
     .desc = Você precisa parecer apresentável para seu rebanho.
 
 ent-WardrobeChemistryFilled = {ent-WardrobeChemistry}
-    .desc = { ent-WardrobeChemistry.desc }
     .suffix = Preenchida
     .desc = Os fios de laranja elegantes contidos dentro tornam você muito menos propenso a ser expulso do laboratório de química.
 
 ent-WardrobeEngineeringFilled = {ent-WardrobeEngineering}
-    .desc = { ent-WardrobeEngineering.desc }
     .suffix = Preenchida
     .desc = Este armário contém um uniforme para engenharia ou engenharia social.
 
 ent-WardrobeGeneticsFilled = {ent-WardrobeGenetics}
-    .desc = { ent-WardrobeGenetics.desc }
     .suffix = Preenchida
     .desc = Os fios azuis elegantes contidos dentro tornam você muito menos propenso a ser expulso do laboratório de genética.
 
 ent-WardrobeMedicalDoctorFilled = {ent-WardrobeMedicalDoctor}
-    .desc = { ent-WardrobeMedicalDoctor.desc }
     .suffix = Preenchida
     .desc = Todos nós já brincamos de médico antes, agora pratique medicina.
 
 ent-WardrobePrisonFilled = {ent-WardrobePrison}
-    .desc = { ent-WardrobePrison.desc }
     .suffix = Preenchida
     .desc = Contém uma seleção de roupas laranja agradáveis para pessoas desfrutando sua estada na brigada.
 
 ent-WardrobeRoboticsFilled = {ent-WardrobeRobotics}
-    .desc = { ent-WardrobeRobotics.desc }
     .suffix = Preenchida
     .desc = Você pode construir um robô deste armário.
 
 ent-WardrobeSalvageFilled = {ent-WardrobeSalvage}
-    .desc = { ent-WardrobeSalvage.desc }
+    .desc = {ent-WardrobeSalvage.desc}
     .suffix = Preenchida
 
 ent-WardrobeScienceFilled = {ent-WardrobeScience}
-    .desc = { ent-WardrobeScience.desc }
     .suffix = Preenchida
     .desc = Você leu alguns artigos de ciência popular, agora é hora da coisa real.
 
 ent-WardrobeSecurityFilled = {ent-WardrobeSecurity}
-    .desc = { ent-WardrobeSecurity.desc }
     .suffix = Preenchida
     .desc = Cruze a linha vermelha fina.
 
 ent-WardrobeVirologyFilled = {ent-WardrobeVirology}
-    .desc = { ent-WardrobeVirology.desc }
     .suffix = Preenchida
     .desc = Os fios verdes elegantes contidos dentro tornam você muito menos propenso a ser expulso do laboratório de virologia.
 
@@ -17579,7 +17185,7 @@ ent-PaperAgrichemManual = manual NT "AgriChem é Divertido"
     .desc = A única folha de instruções que veio no kit.
 
 ent-PaperWrittenAMEScribbles = {ent-Paper}
-    .desc = { ent-Paper.desc }
+    .desc = {ent-Paper.desc}
     .suffix = rabiscos AME
 
 ent-PaperWrittenCombatBakeryKit = instruções do kit de padaria de combate
@@ -18048,7 +17654,7 @@ ent-ClothingEyesEyepatchHudSecurity = tapa-olho HUD de segurança
 ent-ClothingEyesEyepatchHudSecurityFlipped = tapa-olho HUD de segurança
 
 ent-ClothingEyesGlassesHiddenSecurity = {ent-ClothingEyesGlassesSunglasses}
-    .desc = { ent-ClothingEyesGlassesSunglasses.desc }
+    .desc = {ent-ClothingEyesGlassesSunglasses.desc}
     .suffix = Sindicato
 
 ent-ClothingEyesHudBeer = óculos de cerveja
@@ -18102,7 +17708,7 @@ ent-ClothingEyesEyepatch = tapa-olho
     .desc = Iarrr.
 
 ent-ClothingEyesEyepatchFlipped = {ent-ClothingEyesEyepatch}
-    .desc = { ent-ClothingEyesEyepatch.desc }
+    .desc = {ent-ClothingEyesEyepatch.desc}
     .suffix = invertido
 
 # From: Entities/Clothing/Eyes/specific.yml
@@ -18159,7 +17765,7 @@ ent-ClothingHandsGlovesColorYellowBudget = luvas isolantes baratas
     .desc = Estas luvas são imitações baratas das cobiçadas - não há como isso dar ruim.
 
 ent-ClothingHandsGlovesConducting = {ent-ClothingHandsGlovesColorYellow}
-    .desc = { ent-ClothingHandsGlovesColorYellow.desc }
+    .desc = {ent-ClothingHandsGlovesColorYellow.desc}
     .suffix = Regência
 
 # From: Entities/Clothing/Hands/gloves.yml
@@ -18174,7 +17780,7 @@ ent-ClothingHandsGlovesBoxingRed = luvas de boxe vermelhas
     .desc = Luvas vermelhas para boxe competitivo.
 
 ent-ClothingHandsGlovesBoxingRigged = {ent-ClothingHandsGlovesBoxingBlue}
-    .desc = { ent-ClothingHandsGlovesBoxingBlue.desc }
+    .desc = {ent-ClothingHandsGlovesBoxingBlue.desc}
     .suffix = Armadilhada
 
 ent-ClothingHandsGlovesBoxingYellow = luvas de boxe amarelas
@@ -18236,7 +17842,7 @@ ent-ClothingHandsTacticalMaidGloves = luvas de empregada tática
     .desc = Luvas de empregada tática, toda empregada que se respeita deve ser capaz de eliminar discretamente seus objetivos.
 
 ent-ThievingGloves = {ent-ClothingHandsGlovesColorBlack}
-    .desc = { ent-ClothingHandsGlovesColorBlack.desc }
+    .desc = {ent-ClothingHandsGlovesColorBlack.desc}
     .suffix = Roubar
 
 # From: Entities/Clothing/Hands/rings.yml
@@ -18266,7 +17872,7 @@ ent-ClothingHandsChameleon = luvas pretas
     .desc = Luvas pretas comuns que não impedem você de fritar.
 
 ent-ClothingHandsChameleonThief = {ent-ClothingHandsChameleon}
-    .desc = { ent-ClothingHandsChameleon.desc }
+    .desc = {ent-ClothingHandsChameleon.desc}
     .suffix = Camaleão, Roubar
 
 # From: Entities/Clothing/Head/animals.yml
@@ -18770,7 +18376,7 @@ ent-ClothingHeadHelmetJustice = capacete da justiça
     .desc = Equipamento de segurança avançado. Protege a estação de malfeitores.
 
 ent-ClothingHeadHelmetJusticeEmpty = {ent-ClothingHeadHelmetJustice}
-    .desc = { ent-ClothingHeadHelmetJustice.desc }
+    .desc = {ent-ClothingHeadHelmetJustice.desc}
     .suffix = Vazio
 
 ent-ClothingHeadHelmetLing = capacete quitinoso
@@ -18949,7 +18555,7 @@ ent-ClothingHeadHatCatEars = orelhinhas de gato
     .desc = MIAU!
 
 ent-ClothingHeadHatCatEarsValid = {ent-ClothingHeadHatCatEars}
-    .desc = { ent-ClothingHeadHatCatEars.desc }
+    .desc = {ent-ClothingHeadHatCatEars.desc}
     .suffix = Valid, NÃO MAPEAR
 
 ent-ClothingHeadHatChickenhead = cabeça de galinha
@@ -19262,7 +18868,7 @@ ent-ClothingMaskGasChameleon = máscara de gás
     .desc = Uma máscara de cobertura facial que pode ser conectada a um suprimento de ar.
 
 ent-ClothingMaskGasVoiceChameleon = {ent-ClothingMaskGasChameleon}
-    .desc = { ent-ClothingMaskGasChameleon.desc }
+    .desc = {ent-ClothingMaskGasChameleon.desc}
     .suffix = Máscara de Voz, Camaleão
 
 ent-ClothingMaskGoldenCursed = máscara dourada
@@ -20031,7 +19637,7 @@ ent-ClothingOuterChameleon = colete
 # From: Entities/Clothing/OuterClothing/suits.yml
 
 ent-ClothingOuterHardsuitCarp = {ent-ClothingOuterSuitCarp}
-    .desc = { ent-ClothingOuterSuitCarp.desc }
+    .desc = {ent-ClothingOuterSuitCarp.desc}
     .suffix = Traje Rígido, NÃO MAPEAR
 
 ent-ClothingOuterSuitAtmosFire = traje de combate a incêndio atmosférico
@@ -21232,31 +20838,31 @@ ent-Acidifier = ácido
 ent-AdminInstantEffectBase = efeito instantâneo
 
 ent-AdminInstantEffectEMP = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = EMP
 
 ent-AdminInstantEffectFlash = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = Flash
 
 ent-AdminInstantEffectGravityWell = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = Poço Gravitacional
 
 ent-AdminInstantEffectSmoke10 = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = Fumaça (10 seg)
 
 ent-AdminInstantEffectSmoke3 = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = Fumaça (03 seg)
 
 ent-AdminInstantEffectSmoke30 = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = Fumaça (30 seg)
 
 ent-AdminInstantEffectTearGas = {ent-AdminInstantEffectBase}
-    .desc = { ent-AdminInstantEffectBase.desc }
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = Gás Lacrimogêneo
 
 # From: Entities/Effects/chemistry_effects.yml
@@ -21331,7 +20937,6 @@ ent-BasePortal = portal de hyperspace
     .desc = Transporta você a um destino vinculado!
 
 ent-PortalRed = {ent-BasePortal}
-    .desc = { ent-BasePortal.desc }
     .desc = Este parece mais um portal de redspace.
 
 ent-ShadowPortal = fenda de sombra
@@ -21343,29 +20948,29 @@ ent-Puddle = poça
     .desc = Uma poça de líquido.
 
 ent-PuddleEgg = {ent-Puddle}
-    .desc = { ent-Puddle.desc }
+    .desc = {ent-Puddle.desc}
     .suffix = Ovo
 
 ent-PuddleFlour = {ent-Puddle}
-    .desc = { ent-Puddle.desc }
+    .desc = {ent-Puddle.desc}
     .suffix = Farinha
 
 ent-PuddleSmear = {ent-Puddle}
-    .desc = { ent-Puddle.desc }
+    .desc = {ent-Puddle.desc}
     .suffix = Mancha
 
 ent-PuddleSparkle = brilho
 
 ent-PuddleTomato = {ent-Puddle}
-    .desc = { ent-Puddle.desc }
+    .desc = {ent-Puddle.desc}
     .suffix = Tomate
 
 ent-PuddleVomit = {ent-Puddle}
-    .desc = { ent-Puddle.desc }
+    .desc = {ent-Puddle.desc}
     .suffix = Vômito
 
 ent-PuddleWatermelon = {ent-Puddle}
-    .desc = { ent-Puddle.desc }
+    .desc = {ent-Puddle.desc}
     .suffix = Melancia
 
 # From: Entities/Effects/radiation.yml
@@ -21413,7 +21018,6 @@ ent-AtmosFixPlasmaMarker = Marcador de Fixação de Plasma da Atmos
     .desc = Pressão de plasma @ extrator de gás, T20C
 
 ent-AtmosFixVoxMarker = {ent-AtmosFixNitrogenMarker}
-    .desc = { ent-AtmosFixNitrogenMarker.desc }
     .suffix = Atmosfera de Vox
     .desc = Nitrogênio @ 101 kPa, 20C
 
@@ -21832,63 +21436,63 @@ ent-DecalSpawnerBase = Spawner de Decalque
 # From: Entities/Markers/Spawners/Random/Decals/dirt.yml
 
 ent-DecalSpawnerBurns = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Queimaduras, 1 Raio
 
 ent-DecalSpawnerDirtMonospace = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Sujeira, Monoespaçado, 1 Raio
 
 ent-DecalSpawnerDirtNear = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Sujeira, 1,5 Raio
 
 ent-DecalSpawnerDirtSingle = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Sujeira, 0 Raio
 
 ent-DecalSpawnerDirtWide = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Sujeira, 3 Raios
 
 # From: Entities/Markers/Spawners/Random/Decals/flora.yml
 
 ent-DecalSpawnerBasaltRock = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Rocha de Basalto
 
 ent-DecalSpawnerBushesAC = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Arbustos (a-c)
 
 ent-DecalSpawnerFlowers = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Flores
 
 ent-DecalSpawnerGrassAB = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Grama (a-b)
 
 ent-DecalSpawnerGrassC = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Grama (c)
 
 ent-DecalSpawnerGrassDE = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Grama (d-e)
 
 ent-DecalSpawnerGrassyRock = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Rocha Gramada
 
 # From: Entities/Markers/Spawners/Random/Decals/splatters.yml
 
 ent-DecalSpawnerBloodSplatters = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Salpicos de Sangue, Pegadas
 
 ent-DecalSpawnerGraffiti = {ent-DecalSpawnerBase}
-    .desc = { ent-DecalSpawnerBase.desc }
+    .desc = {ent-DecalSpawnerBase.desc}
     .suffix = Grafite
 
 # From: Entities/Markers/Spawners/Random/Department/medical.yml
@@ -22093,7 +21697,7 @@ ent-SalvageMobSpawner = spawner de Criatura de Salvagem
     .suffix = 25
 
 ent-SalvageMobSpawner75 = {ent-SalvageMobSpawner}
-    .desc = { ent-SalvageMobSpawner.desc }
+    .desc = {ent-SalvageMobSpawner.desc}
     .suffix = 75
 
 ent-SpaceTickSpawner = spawner de Carrapato Espacial de Salvagem
@@ -22121,11 +21725,11 @@ ent-SalvageSpawnerMobMagnet = Spawner de Criatura Magnética de Salvagem
     .suffix = 50%
 
 ent-SalvageSpawnerMobMagnet100 = {ent-SalvageSpawnerMobMagnet}
-    .desc = { ent-SalvageSpawnerMobMagnet.desc }
+    .desc = {ent-SalvageSpawnerMobMagnet.desc}
     .suffix = 100%
 
 ent-SalvageSpawnerMobMagnet75 = {ent-SalvageSpawnerMobMagnet}
-    .desc = { ent-SalvageSpawnerMobMagnet.desc }
+    .desc = {ent-SalvageSpawnerMobMagnet.desc}
     .suffix = 75%
 
 ent-SalvageSpawnerMobMiningAsteroid = Spawner de Criatura de Asteroide de Mineração
@@ -22136,14 +21740,14 @@ ent-SalvageSpawnerScrapCommon = Spawner de Sucata de Salvagem
     .suffix = Comum, 50%
 
 ent-SalvageSpawnerScrapCommon75 = {ent-SalvageSpawnerScrapCommon}
-    .desc = { ent-SalvageSpawnerScrapCommon.desc }
+    .desc = {ent-SalvageSpawnerScrapCommon.desc}
     .suffix = Comum, 75%
 
 ent-SalvageSpawnerScrapValuable = Spawner de Sucata de Salvagem
     .suffix = Valioso, 50%
 
 ent-SalvageSpawnerScrapValuable75 = {ent-SalvageSpawnerScrapValuable}
-    .desc = { ent-SalvageSpawnerScrapValuable.desc }
+    .desc = {ent-SalvageSpawnerScrapValuable.desc}
     .suffix = Valioso, 75%
 
 ent-SalvageSpawnerTreasure = Spawner de Tesouro de Salvagem
@@ -22181,7 +21785,7 @@ ent-RandomSpawner = spawner de Lixo
     .suffix = 50
 
 ent-RandomSpawner100 = {ent-RandomSpawner}
-    .desc = { ent-RandomSpawner.desc }
+    .desc = {ent-RandomSpawner.desc}
     .suffix = 100
 
 # From: Entities/Markers/Spawners/Random/vending.yml
@@ -22247,31 +21851,31 @@ ent-WarpPointBombing = ponto de teleporte
 # From: Entities/Mobs/Corpses/corpses.yml
 
 ent-MobRandomCargoCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Carga
 
 ent-MobRandomCommandCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Comando
 
 ent-MobRandomEngineerCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Engenheiro
 
 ent-MobRandomMedicCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Médico
 
 ent-MobRandomScienceCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Ciência
 
 ent-MobRandomSecurityCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Segurança
 
 ent-MobRandomServiceCorpse = {ent-SalvageHumanCorpse}
-    .desc = { ent-SalvageHumanCorpse.desc }
+    .desc = {ent-SalvageHumanCorpse.desc}
     .suffix = Morto, Serviço
 
 # From: Entities/Mobs/Cyborgs/base_borg_chassis.yml
@@ -22324,11 +21928,11 @@ ent-MobDebugRandomLess = menos aleatório de depuração
 # From: Entities/Mobs/NPCs/animals.yml
 
 ent-FoodEggChickenFertilized = {ent-FoodEgg}
-    .desc = { ent-FoodEgg.desc }
+    .desc = {ent-FoodEgg.desc}
     .suffix = Fertilizado, Galinha
 
 ent-FoodEggDuckFertilized = {ent-FoodEgg}
-    .desc = { ent-FoodEgg.desc }
+    .desc = {ent-FoodEgg.desc}
     .suffix = Fertilizado, Pato
 
 ent-MobAngryBee = abelha
@@ -22346,7 +21950,7 @@ ent-MobBaseKobold = kobold
     .desc = Primos da raça senciente de lagartos, os kobolds se misturam com seu habitat natural e são tão desagradáveis quanto macacos; prontos para arrancar seu cabelo e apunhalá-lo até a morte.
 
 ent-MobBaseSyndicateKobold = {ent-MobBaseKobold}
-    .desc = { ent-MobBaseKobold.desc }
+    .desc = {ent-MobBaseKobold.desc}
     .suffix = base do Sindicato
 
 ent-MobBaseSyndicateMonkey = macaco
@@ -22410,7 +22014,7 @@ ent-MobDionaNymph = ninfa diona
     .desc = É como um gato, só que... mais ramificado.
 
 ent-MobDionaNymphAccent = {ent-MobDionaNymph}
-    .desc = { ent-MobDionaNymph.desc }
+    .desc = {ent-MobDionaNymph.desc}
     .suffix = Sotaque
 
 ent-MobDuckBrown = pato marrom
@@ -22467,11 +22071,11 @@ ent-MobKobold = kobold
     .desc = Primos da raça senciente de lagartos, os kobolds se misturam com seu habitat natural e são tão desagradáveis quanto macacos; prontos para arrancar seu cabelo e apunhalá-lo até a morte.
 
 ent-MobKoboldSyndicateAgent = {ent-MobBaseKobold}
-    .desc = { ent-MobBaseKobold.desc }
+    .desc = {ent-MobBaseKobold.desc}
     .suffix = agente do Sindicato
 
 ent-MobKoboldSyndicateAgentNukeops = {ent-MobBaseKobold}
-    .desc = { ent-MobBaseKobold.desc }
+    .desc = {ent-MobBaseKobold.desc}
     .suffix = NukeOps
 
 ent-MobLizard = lagarto
@@ -22481,11 +22085,11 @@ ent-MobMonkey = macaco
     .desc = A nova igreja dos neo-darwinistas acredita que TODOS os animais evoluíram de um macaco. Tem gosto de porco, e matá-los é divertido e relaxante.
 
 ent-MobMonkeySyndicateAgent = {ent-MobBaseSyndicateMonkey}
-    .desc = { ent-MobBaseSyndicateMonkey.desc }
+    .desc = {ent-MobBaseSyndicateMonkey.desc}
     .suffix = agente do Sindicato
 
 ent-MobMonkeySyndicateAgentNukeops = {ent-MobBaseSyndicateMonkey}
-    .desc = { ent-MobBaseSyndicateMonkey.desc }
+    .desc = {ent-MobBaseSyndicateMonkey.desc}
     .suffix = NukeOps
 
 ent-MobMothroach = mariposa-barata
@@ -22495,7 +22099,7 @@ ent-MobMouse = camundongo
     .desc = Squack!
 
 ent-MobMouseAdmeme = {ent-MobMouse}
-    .desc = { ent-MobMouse.desc }
+    .desc = {ent-MobMouse.desc}
     .suffix = Admeme
 
 ent-MobMouseCancer = camundongo câncer
@@ -22628,7 +22232,7 @@ ent-MobCarpDragon = carpa espacial
     .suffix = Dragão
 
 ent-MobCarpDungeon = {ent-BaseMobCarp}
-    .desc = { ent-BaseMobCarp.desc }
+    .desc = {ent-BaseMobCarp.desc}
     .suffix = Masmorra
 
 ent-MobCarpHolo = holocarpa
@@ -22641,14 +22245,14 @@ ent-MobCarpRainbow = carpa arco-íris
     .desc = Uau, que peixinho brilhante!
 
 ent-MobCarpSalvage = {ent-BaseMobCarp}
-    .desc = { ent-BaseMobCarp.desc }
+    .desc = {ent-BaseMobCarp.desc}
     .suffix = Regras de Salvagem
 
 ent-MobShark = tubarãozinho
     .desc = Um tubarão perigoso da escuridão do espaço infinito, que adora beber sangue.
 
 ent-MobSharkSalvage = {ent-MobShark}
-    .desc = { ent-MobShark.desc }
+    .desc = {ent-MobShark.desc}
     .suffix = Regras de Salvagem
 
 # From: Entities/Mobs/NPCs/dummy_npcs.yml
@@ -22660,7 +22264,6 @@ ent-MobHumanPathDummy = boneco de pathfinding
 # From: Entities/Mobs/NPCs/elemental.yml
 
 ent-MobIronCrab = {ent-MobOreCrab}
-    .desc = { ent-MobOreCrab.desc }
     .desc = Um caranguejo de minério feito de ferro.
 
 # Abstract entity (referenceable by children)
@@ -22668,14 +22271,12 @@ ent-MobIronCrab = {ent-MobOreCrab}
 ent-MobOreCrab = caranguejo de minério
 
 ent-MobQuartzCrab = {ent-MobOreCrab}
-    .desc = { ent-MobOreCrab.desc }
     .desc = Um caranguejo de minério feito de quartzo.
 
 ent-MobSilverCrab = caranguejo de minério
     .desc = Um caranguejo de minério feito de prata.
 
 ent-MobUraniumCrab = {ent-MobOreCrab}
-    .desc = { ent-MobOreCrab.desc }
     .desc = Um caranguejo de minério feito de urânio.
 
 ent-ReagentSlime = lodo de reagente
@@ -22683,53 +22284,53 @@ ent-ReagentSlime = lodo de reagente
     .desc = Consiste em um líquido, e quer dissolvê-lo em si mesmo.
 
 ent-ReagentSlimeBeer = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Cerveja
 
 ent-ReagentSlimeBicaridine = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Bicaridina
 
 ent-ReagentSlimeEphedrine = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Efedrina
 
 ent-ReagentSlimeMuteToxin = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Toxina Muda
 
 ent-ReagentSlimeNapalm = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Napalm
 
 ent-ReagentSlimeNocturine = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Nocturina
 
 ent-ReagentSlimeNorepinephricAcid = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Ácido Norepinéfrico
 
 ent-ReagentSlimeOmnizine = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Omnizina
 
 ent-ReagentSlimePax = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Pax
 
 ent-ReagentSlimeRobustHarvest = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Colheita Robusta
 
 ent-ReagentSlimeSpawner = spawner de Lodo de Reagente
 
 ent-ReagentSlimeTHC = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = THC
 
 ent-ReagentSlimeToxin = {ent-ReagentSlime}
-    .desc = { ent-ReagentSlime.desc }
+    .desc = {ent-ReagentSlime.desc}
     .suffix = Toxina
 
 # From: Entities/Mobs/NPCs/flesh.yml
@@ -22913,7 +22514,7 @@ ent-MobRatKing = rei dos ratos
     .desc = Ele é o rato. Ele faz as regras.
 
 ent-MobRatKingBuff = {ent-MobRatKing}
-    .desc = { ent-MobRatKing.desc }
+    .desc = {ent-MobRatKing.desc}
     .suffix = Buff
 
 ent-MobRatServant = servo do rato
@@ -22987,34 +22588,34 @@ ent-MobBearSpace = urso espacial
     .desc = Parece amigável. Por que não dá um abraço nele?
 
 ent-MobBearSpaceSalvage = {ent-MobBearSpace}
-    .desc = { ent-MobBearSpace.desc }
+    .desc = {ent-MobBearSpace.desc}
     .suffix = Regras de Salvagem
 
 ent-MobCobraSpace = cobra espacial
     .desc = Presas longas e um capuz brilhante, e o olhar cativante pede para chegar mais perto.
 
 ent-MobCobraSpaceSalvage = {ent-MobCobraSpace}
-    .desc = { ent-MobCobraSpace.desc }
+    .desc = {ent-MobCobraSpace.desc}
     .suffix = Regras de Salvagem
 
 ent-MobKangarooSpace = canguru espacial
     .desc = Parece amigável. Por que não dá um abraço nele?
 
 ent-MobKangarooSpaceSalvage = {ent-MobKangarooSpace}
-    .desc = { ent-MobKangarooSpace.desc }
+    .desc = {ent-MobKangarooSpace.desc}
     .suffix = Regras de Salvagem
 
 ent-MobSnail = caracol
     .desc = Repugnante, a menos que você seja francês.
 
 ent-MobSnailInstantDeath = {ent-MobSnail}
-    .desc = { ent-MobSnail.desc }
+    .desc = {ent-MobSnail.desc}
     .suffix = Eliminação
 
 ent-MobSnailMoth = Snoth
 
 ent-MobSnailSpeed = {ent-MobSnail}
-    .desc = { ent-MobSnail.desc }
+    .desc = {ent-MobSnail.desc}
     .suffix = Velocidade
 
 # Abstract entity (referenceable by children)
@@ -23026,7 +22627,7 @@ ent-MobSpiderSpace = aranha espacial
     .desc = Tão brilhante que parece perigosa.
 
 ent-MobSpiderSpaceSalvage = {ent-MobSpiderSpace}
-    .desc = { ent-MobSpiderSpace.desc }
+    .desc = {ent-MobSpiderSpace.desc}
     .suffix = Regras de Salvagem
 
 # From: Entities/Mobs/NPCs/spacetick.yml
@@ -23035,7 +22636,7 @@ ent-MobTick = carrapato espacial
     .desc = É um carrapato espacial, cuidado com sua mordida nasty. CentComm relata que 90 por cento das amputações de perna de cargueiros são devidas a mordidas de carrapato espacial.
 
 ent-MobTickSalvage = {ent-MobTick}
-    .desc = { ent-MobTick.desc }
+    .desc = {ent-MobTick.desc}
     .suffix = Regras de Salvagem
 
 # From: Entities/Mobs/NPCs/xeno.yml
@@ -23116,11 +22717,11 @@ ent-DragonsBreathGun = pulmão do dragão
     .desc = Para respiração do dragão.
 
 ent-MobDragonDungeon = {ent-BaseMobDragon}
-    .desc = { ent-BaseMobDragon.desc }
+    .desc = {ent-BaseMobDragon.desc}
     .suffix = Masmorra
 
 ent-MobDragonRiftless = {ent-BaseMobDragon}
-    .desc = { ent-BaseMobDragon.desc }
+    .desc = {ent-BaseMobDragon.desc}
     .suffix = Sem Fendas
 
 # From: Entities/Mobs/Player/dwarf.yml
@@ -23180,7 +22781,7 @@ ent-MobHumanSyndicateAgentBase = agente do Sindicato
 ent-MobHumanSyndicateAgentMedic = médico do Sindicato
 
 ent-MobHumanSyndicateAgentNukeops = {ent-MobHumanSyndicateAgentBase}
-    .desc = { ent-MobHumanSyndicateAgentBase.desc }
+    .desc = {ent-MobHumanSyndicateAgentBase.desc}
     .suffix = Humano, NukeOps
 
 ent-MobHumanSyndicateAgentSpy = espião do Sindicato
@@ -23227,7 +22828,7 @@ ent-RandomHumanoidSpawnerERTLeaderEVA = líder da ERT
     .suffix = ERTFunção, EVA Blindada
 
 ent-RandomHumanoidSpawnerERTLeaderEVALecter = {ent-RandomHumanoidSpawnerERTLeaderEVA}
-    .desc = { ent-RandomHumanoidSpawnerERTLeaderEVA.desc }
+    .desc = {ent-RandomHumanoidSpawnerERTLeaderEVA.desc}
     .suffix = ERTFunção, Lecter, EVA
 
 ent-RandomHumanoidSpawnerERTMedical = médico da ERT
@@ -23243,7 +22844,7 @@ ent-RandomHumanoidSpawnerERTSecurityEVA = segurança da ERT
     .suffix = ERTFunção, EVA Blindada
 
 ent-RandomHumanoidSpawnerERTSecurityEVALecter = {ent-RandomHumanoidSpawnerERTSecurityEVA}
-    .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
+    .desc = {ent-RandomHumanoidSpawnerERTSecurityEVA.desc}
     .suffix = ERTFunção, Lecter, EVA
 
 ent-RandomHumanoidSpawnerNukeOp = Operativo Nuclear
@@ -23270,7 +22871,7 @@ ent-MobNarsieBase = Nar'Sie
     .desc = Sua mente começa a borbulhar e vazar enquanto tenta compreender o que vê.
 
 ent-MobNarsieSpawn = {ent-MobNarsieBase}
-    .desc = { ent-MobNarsieBase.desc }
+    .desc = {ent-MobNarsieBase.desc}
     .suffix = Geração
 
 # From: Entities/Mobs/Player/observer.yml
@@ -23307,7 +22908,7 @@ ent-MobRatvarBase = Ratvar
     .desc = Sua mente dói ao falhar em compreender as mecânicas complexas do que está diante de você.
 
 ent-MobRatvarSpawn = {ent-MobRatvarBase}
-    .desc = { ent-MobRatvarBase.desc }
+    .desc = {ent-MobRatvarBase.desc}
     .suffix = Geração
 
 # From: Entities/Mobs/Player/reptilian.yml
@@ -23646,37 +23247,37 @@ ent-PDVCircuitBoard = placa de lei (PDV)
     .desc = Uma placa de eletrônica contendo o conjunto de leis PDV.
 
 ent-PlayerBorgBattery = {ent-BaseBorgChassis}
-    .desc = { ent-BaseBorgChassis.desc }
+    .desc = {ent-BaseBorgChassis.desc}
     .suffix = Bateria
 
 ent-PlayerBorgDerelict = {ent-BorgChassisDerelict}
-    .desc = { ent-BorgChassisDerelict.desc }
+    .desc = {ent-BorgChassisDerelict.desc}
     .suffix = Bateria, Módulo
 
 ent-PlayerBorgDerelictGhostRole = {ent-BorgChassisDerelict}
-    .desc = { ent-BorgChassisDerelict.desc }
+    .desc = {ent-BorgChassisDerelict.desc}
     .suffix = Função de fantasma
 
 ent-PlayerBorgSyndicateAssaultBattery = {ent-BorgChassisSyndicateAssault}
-    .desc = { ent-BorgChassisSyndicateAssault.desc }
+    .desc = {ent-BorgChassisSyndicateAssault.desc}
     .suffix = Bateria, Módulo, Operativo
 
 ent-PlayerBorgSyndicateAssaultGhostRole = {ent-BorgChassisSyndicateAssault}
-    .desc = { ent-BorgChassisSyndicateAssault.desc }
+    .desc = {ent-BorgChassisSyndicateAssault.desc}
     .suffix = Função de fantasma
 
 ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = spawner de borg de invasão do Sindicato
 
 ent-PlayerBorgSyndicateSaboteurBattery = {ent-BorgChassisSyndicateSaboteur}
-    .desc = { ent-BorgChassisSyndicateSaboteur.desc }
+    .desc = {ent-BorgChassisSyndicateSaboteur.desc}
     .suffix = Bateria, Módulo, Operativo
 
 ent-PlayerBorgSyndicateSaboteurGhostRole = {ent-BorgChassisSyndicateSaboteur}
-    .desc = { ent-BorgChassisSyndicateSaboteur.desc }
+    .desc = {ent-BorgChassisSyndicateSaboteur.desc}
     .suffix = Função de fantasma
 
 ent-PlayerStationAi = {ent-PlayerStationAiEmpty}
-    .desc = { ent-PlayerStationAiEmpty.desc }
+    .desc = {ent-PlayerStationAiEmpty.desc}
     .suffix = Spawn de emprego
 
 ent-PlayerStationAiEmpty = Núcleo de IA
@@ -23922,7 +23523,7 @@ ent-DrinkColaCan = lata de Space Cola
     .desc = Um refrigerante doce carbonatado.
 
 ent-DrinkColaCanEmpty = {ent-DrinkColaCan}
-    .desc = { ent-DrinkColaCan.desc }
+    .desc = {ent-DrinkColaCan.desc}
     .suffix = vazia
 
 ent-DrinkDrGibbCan = lata de Dr. Gibb
@@ -24150,203 +23751,203 @@ ent-DrinkSoyMilkCarton = leite de soja
 # From: Entities/Objects/Consumable/Drinks/drinks.yml
 
 ent-BudgetInsulsDrinkGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = insuls orçamentário
 
 ent-DrinkAbsintheGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = absinto
 
 ent-DrinkAcidSpitGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cospe ácido
 
 ent-DrinkAleGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = ale
 
 ent-DrinkAlliesCocktail = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = coquetel aliados
 
 ent-DrinkAloe = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = babosa
 
 ent-DrinkAmasecGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = amasec
 
 ent-DrinkAndalusia = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = andaluzia
 
 ent-DrinkAntifreeze = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = anticongelante
 
 ent-DrinkArnoldPalmer = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = arnold palmer
 
 ent-DrinkAtomicBombGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = bomba atômica
 
 ent-DrinkB52Glass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = b-52
 
 ent-DrinkBahamaMama = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = bahama mama
 
 ent-DrinkBananaHonkGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = banana honk
 
 ent-DrinkBarefootGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = descalço
 
 ent-DrinkBeepskySmashGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = smash de beepsky
 
 ent-DrinkBeerglass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cerveja
 
 ent-DrinkBerryJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de berry
 
 ent-DrinkBlackRussianGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = russo preto
 
 ent-DrinkBloodGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = sangue
 
 ent-DrinkBloodyMaryGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = bloody mary
 
 ent-DrinkBlueCuracaoGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = curazul
 
 ent-DrinkBlueHawaiianGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = havaiano azul
 
 ent-DrinkBooger = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = meleca
 
 ent-DrinkBraveBullGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = touro bravo
 
 ent-DrinkCarrotJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de cenoura
 
 ent-DrinkChocolateGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = chocolate
 
 ent-DrinkCoconutRum = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = rum de coco
 
 ent-DrinkCoconutWaterGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = água de coco
 
 ent-DrinkCoffee = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = café
 
 ent-DrinkCoffeeLiqueurGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = licor de café
 
 ent-DrinkCogChampBase = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cogchamp
 
 ent-DrinkCognacGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = conhaque
 
 ent-DrinkCosmopolitan = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cosmopolita
 
 ent-DrinkCream = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = creme
 
 ent-DrinkCubaLibreGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cuba libre
 
 ent-DrinkDeadRumGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = rum morto
 
 ent-DrinkDemonsBlood = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = sangue de demônio
 
 ent-DrinkDevilsKiss = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = beijo do diabo
 
 ent-DrinkDoctorsDelightGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = deleite do doutor
 
 ent-DrinkDrGibbGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = dr gibb
 
 ent-DrinkDriestMartiniGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = martini mais seco
 
 ent-DrinkEmeraldGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = licor de melão
 
 ent-DrinkErikaSurprise = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = surpresa erika
 
 ent-DrinkFourteenLokoGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = fourteen loko
 
 ent-DrinkGargleBlasterGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = gargalhadeira pan-galática
 
 ent-DrinkGildlagerGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = gildlager
 
 ent-DrinkGinFizzGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = gin fizz
 
 ent-DrinkGinGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = gin
 
 ent-DrinkGinTonicglass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = gin e tônica
 
 ent-DrinkGlass = copo metamórfico
@@ -24356,212 +23957,211 @@ ent-DrinkGlassCoupeShaped = copo coupe
     .desc = Um copo coupe clássico de pescoço fino, o ícone de etiquetas frágeis em caixotes ao redor da galáxia.
 
 ent-DrinkGlassWhite = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = leite
 
 ent-DrinkGrapeJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de uva
 
 ent-DrinkGrapeSodaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = refrigerante de uva
 
 ent-DrinkGreenTeaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = chá verde
 
 ent-DrinkGrenadineGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = granada
 
 ent-DrinkGrogGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = grog
 
 ent-DrinkHippiesDelightGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = deleite dos hippies
 
 ent-DrinkHoochGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
     .suffix = hooch
     .desc = Você realmente atingiu o fundo do poço agora... seu fígado embalou suas malas e saiu na noite passada.
 
 ent-DrinkIceCreamGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = sorvete
 
 ent-DrinkIcedBeerGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cerveja gelada
 
 ent-DrinkIcedCoffeeGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = café gelado
 
 ent-DrinkIcedGreenTeaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = chá verde gelado
 
 ent-DrinkIcedTeaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = chá gelado
 
 ent-DrinkIceGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = gelo
 
 ent-DrinkIrishCoffeeGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = café irlandês
 
 ent-DrinkIrishCreamGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = creme irlandês
 
 ent-DrinkIrishSlammer = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = slammer irlandês
 
 ent-DrinkKiraSpecial = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = especial kira
 
 ent-DrinkLemonadeGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = limonada
 
 ent-DrinkLemonJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de limão
 
 ent-DrinkLemonLime = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = limão lima
 
 ent-DrinkLimeJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de limão
 
 ent-DrinkLongIslandIcedTeaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = chá gelado de long island
 
 ent-DrinkManhattanGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = manhattan
 
 ent-DrinkManhattanProjectGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = projeto manhattan
 
 ent-DrinkManlyDorfGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = anão viril
 
 ent-DrinkMargaritaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = margarita
 
 ent-DrinkMartiniGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = martini clássico
 
 ent-DrinkMeadGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = hidromel
 
 ent-DrinkMilkshake = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = milkshake
 
 ent-DrinkMojito = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = mojito
 
 ent-DrinkMoonshineGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = moonshine
 
 ent-DrinkNeurotoxinGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = neurotoxina
 
 ent-DrinkNothing = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = nada
 
 ent-DrinkNTCahors = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = neo teologia cahors whine
 
 ent-DrinkNuclearColaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = cola nuclear
 
 ent-DrinkOrangeJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de laranja
 
 ent-DrinkPainkillerGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = analgésico
 
 ent-DrinkPatronGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = patron
 
 ent-DrinkPinaColadaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = piña colada
 
 ent-DrinkPoisonBerryJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de berry venenoso
 
 ent-DrinkPoisonWineGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vinho venenoso
 
 ent-DrinkPoscaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = posca
 
 ent-DrinkRedMeadGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = hidromel vermelho
 
 ent-DrinkRewriter = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = rewriter
 
 ent-DrinkRootBeerFloatGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = flutuação de root beer
 
 ent-DrinkRootBeerGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = root beer
 
 ent-DrinkRoyRogersGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = roy rogers
 
 ent-DrinkRumGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = rum
 
 ent-DrinkSakeGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = saquê
 
 ent-DrinkSbitenGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = sbiten
 
 ent-DrinkScrewdriverCocktailGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = screwdriver
 
 ent-DrinkShakeBlue = milkshake azul
@@ -24575,137 +24175,137 @@ ent-DrinkShakeRobo = shake robô
 ent-DrinkShakeWhite = shake branco
 
 ent-DrinkShirleyTempleGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = shirley temple
 
 ent-DrinkSilencerGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = silenciador
 
 ent-DrinkSingulo = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = singulo
 
 ent-DrinkSnowWhite = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = branca de neve
 
 ent-DrinkSolDryGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = sol dry
 
 ent-DrinkSoyLatte = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = latte de soja
 
 ent-DrinkSpaceMountainWindGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = space mountain wind
 
 ent-DrinkSpaceUpGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = space-up
 
 ent-DrinkSuiDreamGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = sui dream
 
 ent-DrinkSyndicatebomb = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = bomba do Sindicato
 
 ent-DrinkTeaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = chá
 
 ent-DrinkTeapot = bule de chá
     .desc = Um bule elegante. Ele simplesmente exala classe.
 
 ent-DrinkTequilaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = tequila
 
 ent-DrinkTequilaSunriseGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = tequila sunrise
 
 ent-DrinkTheMartinez = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = the martinez
 
 ent-DrinkThreeMileIslandGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = three mile island
 
 ent-DrinkTomatoJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de tomate
 
 ent-DrinkToxinsSpecialGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = toxins special
 
 ent-DrinkVermouthGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vermute
 
 ent-DrinkVodkaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vodka
 
 ent-DrinkVodkaMartiniGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vodka martini
 
 ent-DrinkVodkaRedBool = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vodka red bool
 
 ent-DrinkVodkaTonicGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vodka tonic
 
 ent-DrinkWaterJug = jarra de água
     .desc = Mantenha-se hidratado.
 
 ent-DrinkWatermelonJuice = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = suco de melancia
 
 ent-DrinkWatermelonWakeup = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = watermelon wakeup
 
 ent-DrinkWhiskeyColaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = whiskey cola
 
 ent-DrinkWhiskeyGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = whiskey
 
 ent-DrinkWhiskeySodaGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = whiskey soda
 
 ent-DrinkWhiteRussianGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = white russian
 
 ent-DrinkWineGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = vinho
 
 ent-IrishBoolGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = irish bool
 
 ent-RubberneckGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = rubberneck
 
 ent-XenoBasherGlass = {ent-DrinkGlass}
-    .desc = { ent-DrinkGlass.desc }
+    .desc = {ent-DrinkGlass.desc}
     .suffix = xeno basher
 
 # From: Entities/Objects/Consumable/Drinks/trash_drinks.yml
@@ -25149,7 +24749,7 @@ ent-FoodDonutPink = donut rosa
 ent-FoodDonutPlain = donut simples
 
 ent-FoodDonutPoison = {ent-FoodDonutPink}
-    .desc = { ent-FoodDonutPink.desc }
+    .desc = {ent-FoodDonutPink.desc}
     .suffix = Veneno
 
 ent-FoodDonutSpaceman = donut de astronauta
@@ -25528,7 +25128,7 @@ ent-FoodBowlFancy = tigela
 # From: Entities/Objects/Consumable/Food/Containers/box.yml
 
 ent-EggBoxBroken = {ent-FoodContainerEgg}
-    .desc = { ent-FoodContainerEgg.desc }
+    .desc = {ent-FoodContainerEgg.desc}
     .suffix = Quebrado
 
 ent-FoodBoxCloth = caixa de pano de marca FlutterSoft
@@ -25572,7 +25172,7 @@ ent-FoodContainerEgg = caixa de ovos
     .desc = Não deixe cair!
 
 ent-FoodMealHappyHonkClown = {ent-HappyHonk}
-    .desc = { ent-HappyHonk.desc }
+    .desc = {ent-HappyHonk.desc}
     .suffix = refeição spawner de comida aleatória
 
 ent-HappyHonk = refeição happy honk
@@ -25583,7 +25183,6 @@ ent-HappyHonkCluwne = refeição cluwne lamentável
     .desc = Nada de bom pode vir disso.
 
 ent-HappyHonkMime = {ent-HappyHonk}
-    .desc = { ent-HappyHonk.desc }
     .suffix = Brinquedo Seguro
     .desc = Uma edição mime limitada da refeição happy honk.
 
@@ -25720,7 +25319,7 @@ ent-FoodTinPeaches = pêssegos enlatados
 ent-FoodTinPeachesMaint = pêssegos de manutenção
 
 ent-FoodTinPeachesMaintOpen = {ent-FoodTinPeachesMaint}
-    .desc = { ent-FoodTinPeachesMaint.desc }
+    .desc = {ent-FoodTinPeachesMaint.desc}
     .suffix = Aberto
 
 ent-FoodTinPeachesMaintTrash = pêssegos de manutenção
@@ -26814,7 +26413,7 @@ ent-CigarettePhlogiston = Sim de Namorado Dragão
 ent-CigaretteSpaceDrugs = Hora do Poder dos Anos 80
 
 ent-CigaretteSpent = {ent-Cigarette}
-    .desc = { ent-Cigarette.desc }
+    .desc = {ent-Cigarette.desc}
     .suffix = usado
 
 ent-CigaretteSyndicate = cigarro
@@ -26889,7 +26488,7 @@ ent-CigaretteFilter = filtro de cigarro
     .desc = Uma tira de papel firme usada como filtro para cigarros artesanais.
 
 ent-CigaretteFilter1 = {ent-CigaretteFilter}
-    .desc = { ent-CigaretteFilter.desc }
+    .desc = {ent-CigaretteFilter.desc}
     .suffix = Único
 
 ent-PackPaperRolling = pacote de papel de fumar
@@ -26903,7 +26502,7 @@ ent-PaperRolling = papel de fumar
     .desc = Um papel fino usado para fazer fumos finos.
 
 ent-PaperRolling1 = {ent-PaperRolling}
-    .desc = { ent-PaperRolling.desc }
+    .desc = {ent-PaperRolling.desc}
     .suffix = Único
 
 # From: Entities/Objects/Consumable/Smokeables/Cigars/case.yml
@@ -26923,11 +26522,11 @@ ent-CigarGold = charuto premium de Havana
     .desc = Um charuto digno apenas para os melhores dos melhores.
 
 ent-CigarGoldSpent = {ent-CigarGold}
-    .desc = { ent-CigarGold.desc }
+    .desc = {ent-CigarGold.desc}
     .suffix = usado
 
 ent-CigarSpent = {ent-Cigar}
-    .desc = { ent-Cigar.desc }
+    .desc = {ent-Cigar.desc}
     .suffix = usado
 
 # From: Entities/Objects/Consumable/Smokeables/Pipes/pipe.yml
@@ -27003,22 +26602,22 @@ ent-CarvedPumpkin = abóbora esculpida
     .desc = Uma decoração assustadora tradicional.
 
 ent-CarvedPumpkinLarge = {ent-CarvedPumpkin}
-    .desc = { ent-CarvedPumpkin.desc }
+    .desc = {ent-CarvedPumpkin.desc}
     .suffix = Grande
 
 ent-CarvedPumpkinSmall = {ent-CarvedPumpkin}
-    .desc = { ent-CarvedPumpkin.desc }
+    .desc = {ent-CarvedPumpkin.desc}
     .suffix = Pequena
 
 ent-PumpkinLantern = jack o' lantern
     .desc = Uma abóbora esculpida, emitindo um brilho sinistro.
 
 ent-PumpkinLanternLarge = {ent-PumpkinLantern}
-    .desc = { ent-PumpkinLantern.desc }
+    .desc = {ent-PumpkinLantern.desc}
     .suffix = Grande
 
 ent-PumpkinLanternSmall = {ent-PumpkinLantern}
-    .desc = { ent-PumpkinLantern.desc }
+    .desc = {ent-PumpkinLantern.desc}
     .suffix = Pequena
 
 # From: Entities/Objects/Decoration/lidsalami.yml
@@ -27042,7 +26641,7 @@ ent-WoodenSupportWall = parede de suporte de madeira
 # From: Entities/Objects/Decoration/present.yml
 
 ent-Present = {ent-PresentBase}
-    .desc = { ent-PresentBase.desc }
+    .desc = {ent-PresentBase.desc}
     .suffix = Vazio
 
 # Abstract entity (referenceable by children)
@@ -27051,23 +26650,23 @@ ent-PresentBase = presente
     .desc = Uma pequena caixa com surpresas incríveis dentro.
 
 ent-PresentRandom = {ent-PresentBase}
-    .desc = { ent-PresentBase.desc }
+    .desc = {ent-PresentBase.desc}
     .suffix = Cheio Seguro
 
 ent-PresentRandomCash = {ent-PresentBase}
-    .desc = { ent-PresentBase.desc }
+    .desc = {ent-PresentBase.desc}
     .suffix = Cheio de Dinheiro
 
 ent-PresentRandomCoal = {ent-PresentBase}
-    .desc = { ent-PresentBase.desc }
+    .desc = {ent-PresentBase.desc}
     .suffix = Cheio de Carvão
 
 ent-PresentRandomInsane = {ent-PresentBase}
-    .desc = { ent-PresentBase.desc }
+    .desc = {ent-PresentBase.desc}
     .suffix = Cheio, qualquer entidade
 
 ent-PresentRandomUnsafe = {ent-PresentBase}
-    .desc = { ent-PresentBase.desc }
+    .desc = {ent-PresentBase.desc}
     .suffix = Cheio, qualquer item
 
 ent-PresentTrash = papel de embrulho
@@ -27584,155 +27183,155 @@ ent-MailingUnitElectronics = eletrônicos de unidade de correio
 # From: Entities/Objects/Devices/Electronics/door_access.yml
 
 ent-DoorElectronicsArmory = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Arsenal, Travado
 
 ent-DoorElectronicsAtmospherics = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Atmosférico, Travado
 
 ent-DoorElectronicsBar = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Bar, Travado
 
 ent-DoorElectronicsBarKitchen = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Bar, Travado
 
 ent-DoorElectronicsBrig = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Brig, Travado
 
 ent-DoorElectronicsCaptain = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Capitão, Travado
 
 ent-DoorElectronicsCargo = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Carga, Travado
 
 ent-DoorElectronicsCentralCommand = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = ComandoCentral, Travado
 
 ent-DoorElectronicsChapel = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Capela, Travado
 
 ent-DoorElectronicsChemistry = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Química, Travado
 
 ent-DoorElectronicsChiefEngineer = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Chefe de Engenharia, Travado
 
 ent-DoorElectronicsChiefMedicalOfficer = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Chefe Médico, Travado
 
 ent-DoorElectronicsCommand = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Comando, Travado
 
 ent-DoorElectronicsDetective = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Detetive, Travado
 
 ent-DoorElectronicsEngineering = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Engenharia, Travado
 
 ent-DoorElectronicsExternal = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Externo, Travado
 
 ent-DoorElectronicsHeadOfPersonnel = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Chefe de Pessoal, Travado
 
 ent-DoorElectronicsHeadOfSecurity = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Chefe de Segurança, Travado
 
 ent-DoorElectronicsHydroponics = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Hidroponia, Travado
 
 ent-DoorElectronicsJanitor = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Zelador, Travado
 
 ent-DoorElectronicsKitchen = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Cozinha, Travado
 
 ent-DoorElectronicsKitchenHydroponics = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Cozinha/Hidroponia, Bloqueado
 
 ent-DoorElectronicsLawyer = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Advogado, Bloqueado
 
 ent-DoorElectronicsMaintenance = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Manutenção, Bloqueado
 
 ent-DoorElectronicsMedical = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Médico, Bloqueado
 
 ent-DoorElectronicsMedicalResearch = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Médico/Ciência, Bloqueado
 
 ent-DoorElectronicsMorgue = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Necrotério, Bloqueado
 
 ent-DoorElectronicsNukeop = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Nukeop, Bloqueado
 
 ent-DoorElectronicsQuartermaster = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Quartel-Mestre, Bloqueado
 
 ent-DoorElectronicsResearch = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Pesquisa, Bloqueado
 
 ent-DoorElectronicsResearchDirector = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Diretor de Pesquisa, Bloqueado
 
 ent-DoorElectronicsSalvage = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Salvagem, Bloqueado
 
 ent-DoorElectronicsSecurity = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Segurança, Bloqueado
 
 ent-DoorElectronicsSecurityLawyer = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Segurança/Advogado, Bloqueado
 
 ent-DoorElectronicsService = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Serviço, Bloqueado
 
 ent-DoorElectronicsSyndicateAgent = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Agente do Sindicato, Bloqueado
 
 ent-DoorElectronicsTheatre = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Teatro, Bloqueado
 
 ent-DoorElectronicsVault = {ent-DoorElectronics}
-    .desc = { ent-DoorElectronics.desc }
+    .desc = {ent-DoorElectronics.desc}
     .suffix = Cofre, Bloqueado
 
 # From: Entities/Objects/Devices/Electronics/door.yml
@@ -27957,25 +27556,25 @@ ent-HolofanProjector = projetor de holofã
     .desc = Impede que passageiros suicidas matem todos durante emergências atmosféricas.
 
 ent-HolofanProjectorEmpty = {ent-HolofanProjector}
-    .desc = { ent-HolofanProjector.desc }
+    .desc = {ent-HolofanProjector.desc}
     .suffix = Vazio
 
 ent-Holoprojector = projetor de sinal holográfico
     .desc = Um projetor holográfico prático que exibe um sinal de zeladoria.
 
 ent-HoloprojectorBorg = {ent-Holoprojector}
-    .desc = { ent-Holoprojector.desc }
+    .desc = {ent-Holoprojector.desc}
     .suffix = borg
 
 ent-HoloprojectorEmpty = {ent-Holoprojector}
-    .desc = { ent-Holoprojector.desc }
+    .desc = {ent-Holoprojector.desc}
     .suffix = Vazio
 
 ent-HoloprojectorField = projetor de campo de força
     .desc = Cria um campo de força intransponível que não deixa nada passar. A proximidade próxima pode ou não causar câncer.
 
 ent-HoloprojectorFieldEmpty = {ent-HoloprojectorField}
-    .desc = { ent-HoloprojectorField.desc }
+    .desc = {ent-HoloprojectorField.desc}
     .suffix = Vazio
 
 ent-HoloprojectorFieldTSF = projetor de campo de força TSFMC
@@ -27985,7 +27584,7 @@ ent-HoloprojectorSecurity = projetor de holobarreira
     .desc = Cria uma barreira holográfica sólida mas frágil.
 
 ent-HoloprojectorSecurityEmpty = {ent-HoloprojectorSecurity}
-    .desc = { ent-HoloprojectorSecurity.desc }
+    .desc = {ent-HoloprojectorSecurity.desc}
     .suffix = Vazio
 
 # From: Entities/Objects/Devices/mousetrap.yml
@@ -28075,7 +27674,7 @@ ent-CMOPDA = PDA de diretor médico
     .desc = Extraordinariamente brilhante e estéril.
 
 ent-DeathsquadPDA = {ent-CentcomPDA}
-    .desc = { ent-CentcomPDA.desc }
+    .desc = {ent-CentcomPDA.desc}
     .suffix = Esquadrão da Morte
 
 ent-DetectivePDA = PDA de detetive
@@ -28196,27 +27795,27 @@ ent-TechnicalAssistantPDA = PDA de assistente técnico
     .desc = Por que não é amarelo?
 
 ent-VisitorChaplainPDA = {ent-ChaplainPDA}
-    .desc = { ent-ChaplainPDA.desc }
+    .desc = {ent-ChaplainPDA.desc}
     .suffix = Visitante
 
 ent-VisitorClownPDA = {ent-ClownPDA}
-    .desc = { ent-ClownPDA.desc }
+    .desc = {ent-ClownPDA.desc}
     .suffix = Visitante
 
 ent-VisitorLawyerPDA = {ent-LawyerPDA}
-    .desc = { ent-LawyerPDA.desc }
+    .desc = {ent-LawyerPDA.desc}
     .suffix = Visitante
 
 ent-VisitorLibrarianPDA = {ent-LibrarianPDA}
-    .desc = { ent-LibrarianPDA.desc }
+    .desc = {ent-LibrarianPDA.desc}
     .suffix = Visitante
 
 ent-VisitorMedicalPDA = {ent-MedicalPDA}
-    .desc = { ent-MedicalPDA.desc }
+    .desc = {ent-MedicalPDA.desc}
     .suffix = Visitante
 
 ent-VisitorMusicianPDA = {ent-MusicianPDA}
-    .desc = { ent-MusicianPDA.desc }
+    .desc = {ent-MusicianPDA.desc}
     .suffix = Visitante
 
 ent-WardenPDA = PDA de carcereiro
@@ -28258,303 +27857,303 @@ ent-DefaultStationBeacon = sinalizador de estação
     .desc = Um pequeno dispositivo que transmite informações aos mapas da estação. Pode ser configurado.
 
 ent-DefaultStationBeaconAI = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = IA
 
 ent-DefaultStationBeaconAICore = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Núcleo da IA
 
 ent-DefaultStationBeaconAIPower = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Energia da IA
 
 ent-DefaultStationBeaconAISatellite = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Satélite da IA
 
 ent-DefaultStationBeaconAIUpload = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Upload da IA
 
 ent-DefaultStationBeaconAME = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = AME
 
 ent-DefaultStationBeaconAnchor = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Âncora
 
 ent-DefaultStationBeaconAnomalyGenerator = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Gerador de Anomalia
 
 ent-DefaultStationBeaconArmory = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Arsenal
 
 ent-DefaultStationBeaconArrivals = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Chegadas
 
 ent-DefaultStationBeaconArtifactLab = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Laboratório de Artefatos
 
 ent-DefaultStationBeaconAtmospherics = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Atmosféricos
 
 ent-DefaultStationBeaconBar = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Bar
 
 ent-DefaultStationBeaconBotany = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Botânica
 
 ent-DefaultStationBeaconBridge = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Ponte
 
 ent-DefaultStationBeaconBrig = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Brigada
 
 ent-DefaultStationBeaconBrigMed = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Médico da Brigada
 
 ent-DefaultStationBeaconCaptainsQuarters = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Aquartos do Capitão
 
 ent-DefaultStationBeaconCargoBay = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Baía de Carga
 
 ent-DefaultStationBeaconCargoReception = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Recepção de Carga
 
 ent-DefaultStationBeaconCERoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do CE
 
 ent-DefaultStationBeaconChapel = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Capela
 
 ent-DefaultStationBeaconChemistry = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Química
 
 ent-DefaultStationBeaconClinic = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Clínica
 
 ent-DefaultStationBeaconCMORoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do DMO
 
 ent-DefaultStationBeaconCommand = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Comando
 
 ent-DefaultStationBeaconCourtroom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Tribunal
 
 ent-DefaultStationBeaconCryonics = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Criônica
 
 ent-DefaultStationBeaconCryosleep = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Criossono
 
 ent-DefaultStationBeaconDetectiveRoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do Detetive
 
 ent-DefaultStationBeaconDisposals = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Descartes
 
 ent-DefaultStationBeaconDockingArm = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Braço de Acoplamento
 
 ent-DefaultStationBeaconDorms = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Dormitórios
 
 ent-DefaultStationBeaconEngineering = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Engenharia
 
 ent-DefaultStationBeaconEscapePod = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Cápsula de Fuga
 
 ent-DefaultStationBeaconEvac = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Evacuação
 
 ent-DefaultStationBeaconEVAStorage = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Armazenamento de EVA
 
 ent-DefaultStationBeaconGateway = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Portal
 
 ent-DefaultStationBeaconGravGen = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Gerador de Gravidade
 
 ent-DefaultStationBeaconHOPOffice = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Escritório do Chefe de Pessoal
 
 ent-DefaultStationBeaconHOSRoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do Chefe de Segurança
 
 ent-DefaultStationBeaconJanitorsCloset = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Armário do Zelador
 
 ent-DefaultStationBeaconKitchen = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Cozinha
 
 ent-DefaultStationBeaconLawOffice = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Escritório de Advocacia
 
 ent-DefaultStationBeaconLibrary = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Biblioteca
 
 ent-DefaultStationBeaconMedbay = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Enfermaria
 
 ent-DefaultStationBeaconMedical = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Médico
 
 ent-DefaultStationBeaconMorgue = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Necrotério
 
 ent-DefaultStationBeaconPermaBrig = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Brigada Permanente
 
 ent-DefaultStationBeaconPowerBank = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Banco de Energia SMES
 
 ent-DefaultStationBeaconPsychology = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Psicologia
 
 ent-DefaultStationBeaconQMRoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do Quartel-Mestre
 
 ent-DefaultStationBeaconRDRoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do Diretor de Pesquisa
 
 ent-DefaultStationBeaconReporter = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Repórter
 
 ent-DefaultStationBeaconRND = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Pesquisa e Desenvolvimento
 
 ent-DefaultStationBeaconRobotics = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Robótica
 
 ent-DefaultStationBeaconSalvage = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Salvagem
 
 ent-DefaultStationBeaconScience = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Ciência
 
 ent-DefaultStationBeaconSecurity = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Segurança
 
 ent-DefaultStationBeaconSecurityCheckpoint = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Posto de Segurança
 
 ent-DefaultStationBeaconServerRoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala do Servidor de Pesquisa
 
 ent-DefaultStationBeaconService = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Serviço
 
 ent-DefaultStationBeaconSingularity = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Controle do PA
 
 ent-DefaultStationBeaconSolars = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Solares
 
 ent-DefaultStationBeaconSupply = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Suprimentos
 
 ent-DefaultStationBeaconSurgery = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Cirurgia
 
 ent-DefaultStationBeaconTechVault = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Cofre Tecnológico
 
 ent-DefaultStationBeaconTEG = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = TEG
 
 ent-DefaultStationBeaconTelecoms = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Telecomunicações
 
 ent-DefaultStationBeaconTheater = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Teatro
 
 ent-DefaultStationBeaconToolRoom = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Sala de Ferramentas
 
 ent-DefaultStationBeaconUnanchored = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Geral, Desancorado
 
 ent-DefaultStationBeaconVault = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Cofre
 
 ent-DefaultStationBeaconVox = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Vox
 
 ent-DefaultStationBeaconWardensOffice = {ent-DefaultStationBeacon}
-    .desc = { ent-DefaultStationBeacon.desc }
+    .desc = {ent-DefaultStationBeacon.desc}
     .suffix = Escritório do Carcereiro
 
 ent-StationBeaconPart = flatpack de sinalizador de estação
@@ -28567,15 +28166,15 @@ ent-BaseHandheldStationMap = mapa da estação
     .desc = Exibe uma leitura da estação atual.
 
 ent-HandheldStationMap = {ent-BaseHandheldStationMap}
-    .desc = { ent-BaseHandheldStationMap.desc }
+    .desc = {ent-BaseHandheldStationMap.desc}
     .suffix = Portátil, Energizado
 
 ent-HandheldStationMapEmpty = {ent-BaseHandheldStationMap}
-    .desc = { ent-BaseHandheldStationMap.desc }
+    .desc = {ent-BaseHandheldStationMap.desc}
     .suffix = Portátil, Vazio
 
 ent-HandheldStationMapUnpowered = {ent-BaseHandheldStationMap}
-    .desc = { ent-BaseHandheldStationMap.desc }
+    .desc = {ent-BaseHandheldStationMap.desc}
     .suffix = Portátil, Sem Energia
 
 # From: Entities/Objects/Devices/swapper.yml
@@ -28628,7 +28227,7 @@ ent-ReinforcementRadioSyndicateAncestor = rádio de reforço de ancestral genét
     .desc = Chama um ancestral treinado especialmente de sua escolha para ajudá-lo.
 
 ent-ReinforcementRadioSyndicateAncestorNukeops = {ent-ReinforcementRadioSyndicateAncestor}
-    .desc = { ent-ReinforcementRadioSyndicateAncestor.desc }
+    .desc = {ent-ReinforcementRadioSyndicateAncestor.desc}
     .suffix = NukeOps
 
 ent-ReinforcementRadioSyndicateCyborgAssault = rádio de reforço de ciborgue de assalto do Sindicato
@@ -28723,7 +28322,7 @@ ent-Dart = dardo
     .desc = Dardo arremessável leve para jogar dardos. Não leve no olho!
 
 ent-HypoDart = {ent-Dart}
-    .desc = { ent-Dart.desc }
+    .desc = {ent-Dart.desc}
     .suffix = HypoDardo
 
 ent-HypoDartBox = caixa de hipodardo
@@ -28941,7 +28540,7 @@ ent-ImmovableRodClown = palhaço imóvel
     .desc = Ejetado da estação vizinha um sistema solar além. HONK!
 
 ent-ImmovableRodDespawn = {ent-ImmovableRod}
-    .desc = { ent-ImmovableRod.desc }
+    .desc = {ent-ImmovableRod.desc}
     .suffix = Despawn
 
 ent-ImmovableRodGibstick = graveto de gibs imóvel
@@ -28951,11 +28550,11 @@ ent-ImmovableRodHammer = martelo imóvel
     .desc = Bwoink.
 
 ent-ImmovableRodKeepTiles = {ent-ImmovableRod}
-    .desc = { ent-ImmovableRod.desc }
+    .desc = {ent-ImmovableRod.desc}
     .suffix = Manter Pisos
 
 ent-ImmovableRodKeepTilesStill = {ent-ImmovableRod}
-    .desc = { ent-ImmovableRod.desc }
+    .desc = {ent-ImmovableRod.desc}
     .suffix = Manter Pisos, Parado
 
 ent-ImmovableRodMop = esfregona imóvel
@@ -28965,7 +28564,7 @@ ent-ImmovableRodShark = tubarão imóvel
     .desc = TORNADO DE TUBARÃO!
 
 ent-ImmovableRodSlow = {ent-ImmovableRod}
-    .desc = { ent-ImmovableRod.desc }
+    .desc = {ent-ImmovableRod.desc}
     .suffix = Lento
 
 ent-ImmovableRodThrongler = throngler imóvel
@@ -28975,7 +28574,7 @@ ent-ImmovableRodWeh = weh imóvel
     .desc = WEH!
 
 ent-ImmovableRodWizard = {ent-ImmovableRod}
-    .desc = { ent-ImmovableRod.desc }
+    .desc = {ent-ImmovableRod.desc}
     .suffix = Mago
 
 # From: Entities/Objects/Fun/Instruments/base_instruments.yml
@@ -29058,7 +28657,7 @@ ent-SuperSynthesizerInstrument = super sintetizador
     .desc = Tocando o gueto com MIDIs de Touhou desde 2020.
 
 ent-SuperSynthesizerNoLimitInstrument = {ent-SuperSynthesizerInstrument}
-    .desc = { ent-SuperSynthesizerInstrument.desc }
+    .desc = {ent-SuperSynthesizerInstrument.desc}
     .suffix = SemLimites
 
 ent-SynthesizerInstrument = sintetizador
@@ -29248,11 +28847,11 @@ ent-SnapPopBox = caixa de snap pop
 # From: Entities/Objects/Fun/spectral_locator.yml
 
 ent-SpectralLocator = {ent-SpectralLocatorUnpowered}
-    .desc = { ent-SpectralLocatorUnpowered.desc }
+    .desc = {ent-SpectralLocatorUnpowered.desc}
     .suffix = Energizado
 
 ent-SpectralLocatorEmpty = {ent-SpectralLocatorUnpowered}
-    .desc = { ent-SpectralLocatorUnpowered.desc }
+    .desc = {ent-SpectralLocatorUnpowered.desc}
     .suffix = Vazio
 
 ent-SpectralLocatorUnpowered = localizador espectral

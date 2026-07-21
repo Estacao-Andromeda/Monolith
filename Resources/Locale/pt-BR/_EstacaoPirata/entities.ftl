@@ -21,22 +21,28 @@ ent-CardStackBase = pilha de cartas
 ent-CardBase = carta
 
 ent-CardBoxBlack = {ent-CardBoxBase} preto
+    .desc = {ent-CardBoxBase.desc}
 
 ent-CardDeckBlack = {ent-CardDeckBase}
+    .desc = {ent-CardDeckBase.desc}
 
 # From: _EstacaoPirata/Entities/Objects/Misc/nt_cards.yml
 
 ent-CardBaseNanotrasen = {$ent-CardBase}
 
 ent-CardBoxNanotrasen = {ent-CardBoxBase} da Nanotrasen
+    .desc = {ent-CardBoxBase.desc}
 
 ent-CardDeckNanotrasen = {ent-CardDeckBase}
+    .desc = {ent-CardDeckBase.desc}
 
 # From: _EstacaoPirata/Entities/Objects/Misc/syndicate_cards.yml
 
 ent-CardBaseSyndicate = {$ent-CardBase}
 
 ent-CardBoxSyndicate = {ent-CardBoxBase} do Sindicato
+    .desc = {ent-CardBoxBase.desc}
 
 ent-CardDeckSyndicate = {ent-CardDeckBase}
+    .desc = {ent-CardDeckBase.desc}
 

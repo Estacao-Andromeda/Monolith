@@ -213,18 +213,23 @@ ent-PunkMessengerGiftBox = pacote de punk
 # De: _NF/Catalog/Fills/Backpacks/npc_loot_silicons.yml
 
 ent-ClothingBackpackRogueSiliconT0 = {ent-RogueSiliconGiftBox}
+    .desc = {ent-RogueSiliconGiftBox.desc}
     .suffix = Saque de NPC, T0
 
 ent-ClothingBackpackRogueSiliconT1 = {ent-RogueSiliconGiftBox}
+    .desc = {ent-RogueSiliconGiftBox.desc}
     .suffix = Saque de NPC, T1
 
 ent-ClothingBackpackRogueSiliconT2 = {ent-RogueSiliconGiftBox}
+    .desc = {ent-RogueSiliconGiftBox.desc}
     .suffix = Saque de NPC, T2
 
 ent-ClothingBackpackRogueSiliconT3 = {ent-RogueSiliconGiftBox}
+    .desc = {ent-RogueSiliconGiftBox.desc}
     .suffix = Saque de NPC, T3
 
 ent-ClothingBackpackRogueSiliconT4 = {ent-RogueSiliconGiftBox}
+    .desc = {ent-RogueSiliconGiftBox.desc}
     .suffix = Saque de NPC, T4
 
 # Entidade abstrata (referenciável por filhos)
@@ -456,9 +461,11 @@ ent-NFSpawnMobXenoT1 = gerador de xeno
     .suffix = IA, Hostil, T1
 
 ent-NFSpawnMobXenoT2 = {ent-NFSpawnMobXenoT1}
+    .desc = {ent-NFSpawnMobXenoT1.desc}
     .suffix = IA, Hostil, T2
 
 ent-NFSpawnMobXenoT3 = {ent-NFSpawnMobXenoT1}
+    .desc = {ent-NFSpawnMobXenoT1.desc}
     .suffix = IA, Hostil, T3
 
 # From: _NF/Entities/Markers/Spawners/Conditional/turret_spawner.yml
@@ -478,6 +485,7 @@ ent-NFSpawnPointDetective = detetive
     .suffix = Fronteira
 
 ent-NFSpawnPointJanitor = {ent-SpawnPointJanitor}
+    .desc = {ent-SpawnPointJanitor.desc}
     .suffix = Fronteira
 
 ent-NFSpawnPointSeniorOfficer = sargento
@@ -1178,6 +1186,7 @@ ent-SpawnMobWizFedWizardVioletHardsuit = Gerador de Mago Violeta
 # From: _NF/Entities/Markers/Spawners/Random/paintings.yml
 
 ent-RandomPaintingHalloween = {ent-RandomPainting}
+    .desc = {ent-RandomPainting.desc}
     .suffix = Halloween
 
 # From: _NF/Entities/Markers/Spawners/Random/parts.yml
@@ -1234,6 +1243,7 @@ ent-NecropolisElementalSpawner = spawner de Elemental da Necrópole
 ent-NFSalvageMaterialCrateSpawner = spawner de Caixa de Materiais de Salvagem
 
 ent-NFSalvageMobSpawner = {ent-SalvageMobSpawner}
+    .desc = {ent-SalvageMobSpawner.desc}
     .suffix = 95
 
 ent-RandomBook = gerador de livro aleatório
@@ -1270,63 +1280,77 @@ ent-SpawnVehicleAntagVehicle = Gerador de Veículo Antagônico
 # From: _NF/Entities/Markers/Spawners/Random/Salvage/minerals.yml
 
 ent-NFAndesiteMineralHard = {ent-NFAndesiteMineralSoft}
+    .desc = {ent-NFAndesiteMineralSoft.desc}
     .suffix = Duro
 
 ent-NFAndesiteMineralHardRich = {ent-NFAndesiteMineralSoft}
+    .desc = {ent-NFAndesiteMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFAndesiteMineralSoft = gerador de mineral de andesito
     .suffix = Suave
 
 ent-NFAsteroidMineralHard = {ent-NFAsteroidMineralSoft}
+    .desc = {ent-NFAsteroidMineralSoft.desc}
     .suffix = Duro
 
 ent-NFAsteroidMineralHardRich = {ent-NFAsteroidMineralSoft}
+    .desc = {ent-NFAsteroidMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFAsteroidMineralSoft = gerador de mineral de asteroide
     .suffix = Suave
 
 ent-NFBasaltMineralHard = {ent-NFBasaltMineralSoft}
+    .desc = {ent-NFBasaltMineralSoft.desc}
     .suffix = Duro
 
 ent-NFBasaltMineralHardRich = {ent-NFBasaltMineralSoft}
+    .desc = {ent-NFBasaltMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFBasaltMineralSoft = gerador de mineral de basalto
     .suffix = Macio
 
 ent-NFChromiteMineralHard = {ent-NFChromiteMineralSoft}
+    .desc = {ent-NFChromiteMineralSoft.desc}
     .suffix = Duro
 
 ent-NFChromiteMineralHardRich = {ent-NFChromiteMineralSoft}
+    .desc = {ent-NFChromiteMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFChromiteMineralSoft = gerador de mineral de cromita
     .suffix = Macio
 
 ent-NFIceMineralHard = {ent-NFIceMineralSoft}
+    .desc = {ent-NFIceMineralSoft.desc}
     .suffix = Duro
 
 ent-NFIceMineralHardRich = {ent-NFIceMineralSoft}
+    .desc = {ent-NFIceMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFIceMineralSoft = gerador de mineral de gelo
     .suffix = Macio
 
 ent-NFRockMineralHard = {ent-NFRockMineralSoft}
+    .desc = {ent-NFRockMineralSoft.desc}
     .suffix = Duro
 
 ent-NFRockMineralHardRich = {ent-NFRockMineralSoft}
+    .desc = {ent-NFRockMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFRockMineralSoft = gerador de mineral de rocha
     .suffix = Macio
 
 ent-NFSandMineralHard = {ent-NFSandMineralSoft}
+    .desc = {ent-NFSandMineralSoft.desc}
     .suffix = Duro
 
 ent-NFSandMineralHardRich = {ent-NFSandMineralSoft}
+    .desc = {ent-NFSandMineralSoft.desc}
     .suffix = Duro, Rico
 
 ent-NFSandMineralSoft = gerador de mineral de areia
@@ -1338,6 +1362,7 @@ ent-NFScrapMineralSoft = gerador de mineral de sucata
 # From: _NF/Entities/Markers/Spawners/Random/Salvage/spawners.yml
 
 ent-SalvageSpawnerScrapBrass75 = {ent-SalvageSpawnerScrapCommon}
+    .desc = {ent-SalvageSpawnerScrapCommon.desc}
     .suffix = Latão, 75%
 
 # From: _NF/Entities/Markers/Spawners/Random/shuttle_items.yml
@@ -1366,9 +1391,11 @@ ent-SpawnVehicleHoverbikeNF = gerador de hoverbike
 # From: _NF/Entities/Markers/warp_point.yml
 
 ent-WarpPointAdmin = {ent-WarpPoint}
+    .desc = {ent-WarpPoint.desc}
     .suffix = Admin-only
 
 ent-WarpPointDungeon = {ent-WarpPoint}
+    .desc = {ent-WarpPoint.desc}
     .suffix = Masmorra
 
 # From: _NF/Entities/Materials/materials.yml
@@ -1897,24 +1924,31 @@ ent-NFMobXeno = {ent-MobXeno}
     .suffix = Frontier
 
 ent-NFMobXenoDrone = {ent-MobXenoDrone}
+    .desc = {ent-MobXenoDrone.desc}
     .suffix = Frontier
 
 ent-NFMobXenoPraetorian = {ent-MobXenoPraetorian}
+    .desc = {ent-MobXenoPraetorian.desc}
     .suffix = Frontier
 
 ent-NFMobXenoQueen = {ent-MobXenoQueen}
+    .desc = {ent-MobXenoQueen.desc}
     .suffix = Frontier
 
 ent-NFMobXenoRavager = {ent-MobXenoRavager}
+    .desc = {ent-MobXenoRavager.desc}
     .suffix = Frontier
 
 ent-NFMobXenoRouny = {ent-MobXenoRouny}
+    .desc = {ent-MobXenoRouny.desc}
     .suffix = Frontier
 
 ent-NFMobXenoRunner = {ent-MobXenoRunner}
+    .desc = {ent-MobXenoRunner.desc}
     .suffix = Frontier
 
 ent-NFMobXenoSpitter = {ent-MobXenoSpitter}
+    .desc = {ent-MobXenoSpitter.desc}
     .suffix = Frontier
 
 # From: _NF/Entities/Mobs/NPCs/mob_hostile_mercenaries.yml
@@ -2135,18 +2169,23 @@ ent-NFMobTick = {ent-MobTick}
 # From: _NF/Entities/Mobs/Player/buddies.yml
 
 ent-NFMobGoblinBuddy = {ent-MobGoblin}
+    .desc = {ent-MobGoblin.desc}
     .suffix = Monta-Seu-Parceiro
 
 ent-NFMobHumanBuddy = {ent-MobHuman}
+    .desc = {ent-MobHuman.desc}
     .suffix = Monta-Seu-Parceiro
 
 ent-NFMobReptilianBuddy = {ent-MobReptilian}
+    .desc = {ent-MobReptilian.desc}
     .suffix = Monta-Seu-Parceiro
 
 ent-NFMobSlimePersonBuddy = {ent-BaseMobSlimePerson}
+    .desc = {ent-BaseMobSlimePerson.desc}
     .suffix = Monta-Seu-Parceiro
 
 ent-NFMobVulpkaninBuddy = {ent-MobVulpkanin}
+    .desc = {ent-MobVulpkanin.desc}
     .suffix = Monta-Seu-Parceiro
 
 # From: _NF/Entities/Mobs/Player/goblin_player.yml
@@ -3609,24 +3648,31 @@ ent-NfsdWhistle = apito da TSFMC
 # From: _NF/Entities/Objects/Materials/ore.yml
 
 ent-BananiumOre5 = {ent-BananiumOre}
+    .desc = {ent-BananiumOre.desc}
     .suffix = 5
 
 ent-GoldOre5 = {ent-GoldOre}
+    .desc = {ent-GoldOre.desc}
     .suffix = 5
 
 ent-PlasmaOre5 = {ent-PlasmaOre}
+    .desc = {ent-PlasmaOre.desc}
     .suffix = 5
 
 ent-Salt5 = {ent-SaltOre}
+    .desc = {ent-SaltOre.desc}
     .suffix = 5
 
 ent-SilverOre5 = {ent-SilverOre}
+    .desc = {ent-SilverOre.desc}
     .suffix = 5
 
 ent-SpaceQuartz5 = {ent-SpaceQuartz}
+    .desc = {ent-SpaceQuartz.desc}
     .suffix = 5
 
 ent-SteelOre5 = {ent-SteelOre}
+    .desc = {ent-SteelOre.desc}
     .suffix = 5
 
 ent-CrateArmoryLaserExpedition = caixote de lasers
@@ -3739,6 +3785,7 @@ ent-CrateTools = caixote de ferramentas
 # From: _NF/Catalog/Fills/Crates/food.yml
 
 ent-CrateFoodMcCargo = {ent-CrateFreezerMcCargo}
+    .desc = {ent-CrateFreezerMcCargo.desc}
     .suffix = Preenchido
 
 # From: _NF/Catalog/Fills/Crates/fun.yml
@@ -3859,6 +3906,7 @@ ent-CratePirateChestGrapeShot = baú de tiro de uva
 # From: _NF/Catalog/Fills/Crates/salvage.yml
 
 ent-NFCrateSalvageAssortedGoodies = {ent-CrateGenericSteel}
+    .desc = {ent-CrateGenericSteel.desc}
     .suffix = Preenchido, Salvagem Aleatório
 
 # From: _NF/Catalog/Fills/Crates/science.yml
@@ -3984,6 +4032,7 @@ ent-WeaponCaseHeavyAsmgtExpeditions = {ent-WeaponCaseHeavy}
     .suffix = embalado ASMGT, Expedições
 
 ent-UraniumOre5 = {ent-UraniumOre}
+    .desc = {ent-UraniumOre.desc}
     .suffix = 5
 
 # From: _NF/Entities/Objects/Materials/Sheets/other.yml
@@ -4648,6 +4697,7 @@ ent-SpesosTreeSeeds = pacote de sementes de spesos
 ent-BaseMailLarge = mail-large-item-name-unaddressed
 
 ent-MailLargeAdminFun = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = adminfun
 
 # From: _NF/Entities/Objects/Specific/Medical/healing.yml
@@ -5699,8 +5749,8 @@ ent-BaseStationAdminBankATM = console de administração da estação
 
 # Abstract entity (referenceable by children)
 
-ent-ComputerBankATM = { ent-ComputerBankATMDeposit }
-    .desc = { ent-ComputerBankATMDeposit.desc }
+ent-ComputerBankATM = {ent-ComputerBankATMDeposit}
+    .desc = {ent-ComputerBankATMDeposit.desc}
 
 ent-ComputerBankATMDeposit = caixa eletrônico bancário
     .desc = Usado para depositar e retirar fundos de uma conta bancária pessoal. Taxa de 5% sobre depósitos.
@@ -5716,8 +5766,8 @@ ent-ComputerBankATMFree = {ent-ComputerBankATMDepositFree}
 
 # Abstract entity (referenceable by children)
 
-ent-ComputerWithdrawBankATM = { ent-ComputerBankATMWithdraw }
-    .desc = { ent-ComputerBankATMWithdraw.desc }
+ent-ComputerWithdrawBankATM = {ent-ComputerBankATMWithdraw}
+    .desc = {ent-ComputerBankATMWithdraw.desc}
 
 ent-ComputerBankATMWithdraw = caixa eletrônico bancário apenas para saque
     .desc = Usado para retirar fundos de uma conta bancária pessoal, sem capacidade de depósito.
@@ -6018,7 +6068,7 @@ ent-WindoorSecureMercenaryLocked = {ent-WindoorSecure}
 # From: _NF/Entities/Structures/Dungeon/airlocks.yml
 # Abstract entity (referenceable by children)
 
-ent-AirlockGlassMurkyDungeon = { ent-AirlockGlass }
+ent-AirlockGlassMurkyDungeon = {ent-AirlockGlass}
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Um airlock com janelas de vidro turvo, é difícil ver o que tem do outro lado.
 
@@ -6031,20 +6081,20 @@ ent-GrilleDungeon = {ent-Grille}
 # From: _NF/Entities/Structures/Dungeon/windoor.yml
 # Abstract entity (referenceable by children)
 
-ent-WindoorMurkyDungeon = { ent-Windoor }
+ent-WindoorMurkyDungeon = {ent-Windoor}
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma porta-vidro com vidro turvo, é difícil ver o que tem do outro lado.
 
 # From: _NF/Entities/Structures/Dungeon/windows.yml
 # Abstract entity (referenceable by children)
 
-ent-WindowDirectionalMurkyDungeon = { ent-WindowDirectional }
+ent-WindowDirectionalMurkyDungeon = {ent-WindowDirectional}
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma janela de vidro turvo, é difícil ver o que tem do outro lado.
 
 # Abstract entity (referenceable by children)
 
-ent-WindowMurkyDungeon = { ent-Window }
+ent-WindowMurkyDungeon = {ent-Window}
     .suffix = Apenas Masmorra, NÃO MAPEAR
     .desc = Uma janela de vidro turvo, é difícil ver o que tem do outro lado.
 
@@ -6057,38 +6107,38 @@ ent-AltarFrameNF = moldura de altar
 # From: _NF/Entities/Structures/Furniture/altar.yml
 
 ent-AltarMail = altar de correios
-    .desc = { ent-AltarBase.desc }
+    .desc = {ent-AltarBase.desc}
 
 # From: _NF/Entities/Structures/Furniture/Armory/base_weapon_rack.yml
 
 ent-StructureGunRack = rack de armas de fogo
     .suffix = Vazio
-    .desc = { ent-StructureWeaponRackBase.desc }
+    .desc = {ent-StructureWeaponRackBase.desc}
 
 ent-StructureGunRackWallmounted = rack de parede de armas de fogo
     .suffix = Vazio, MontagemNaParede
-    .desc = { ent-StructureGunRack.desc }
+    .desc = {ent-StructureGunRack.desc}
 
 ent-StructureMeleeWeaponRack = rack de armas corpo a corpo
     .suffix = Vazio
-    .desc = { ent-StructureWeaponRackBase.desc }
+    .desc = {ent-StructureWeaponRackBase.desc}
 
 ent-StructureMeleeWeaponRackWallmounted = rack de parede de armas corpo a corpo
     .suffix = Vazio, MontagemNaParede
-    .desc = { ent-StructureMeleeWeaponRack.desc }
+    .desc = {ent-StructureMeleeWeaponRack.desc}
 
 ent-StructurePistolRack = rack de armas secundárias
     .suffix = Vazio
-    .desc = { ent-StructureWeaponRackBase.desc }
+    .desc = {ent-StructureWeaponRackBase.desc}
 
 # Abstract entity (referenceable by children)
 
-ent-StructurePistolRackLock = { ent-StructurePistolRack }
-    .desc = { ent-StructurePistolRack.desc }
+ent-StructurePistolRackLock = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
 
 ent-StructurePistolRackWallmounted = rack de parede de armas secundárias
     .suffix = Vazio, MontagemNaParede
-    .desc = { ent-StructurePistolRack.desc }
+    .desc = {ent-StructurePistolRack.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -6098,118 +6148,118 @@ ent-StructureWeaponRackBase = rack de armas
 # From: _NF/Entities/Structures/Furniture/Armory/weapon_racks_filled.yml
 
 ent-StructureMeleeWeaponRackBloodCultFilled = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = CultoSanguíneo, Preenchido
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedSalvageFilled = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = Salvagem, Preenchido, MontagemNaParede
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRackPiratesFilled = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Pirata, Preenchido
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedMercenaryFilled = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Masmorra, Mercenário, Preenchido, MontagemNaParede
-    .desc = { ent-StructurePistolRack.desc }
 
 # From: _NF/Entities/Structures/Furniture/Armory/weapon_racks.yml
 
 ent-StructureGunRackMercenary = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = Mercenário, Vazio
-    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackNfsd = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = TSFMC, Vazio
-    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackSalvage = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = Salvagem, Vazio
-    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedMercenary = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = Mercenário, Vazio, MontagemNaParede
-    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedNfsd = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = TSFMC, Vazio, MontagemNaParede
-    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureGunRackWallmountedSalvage = {ent-StructureGunRack}
+    .desc = {ent-StructureGunRack.desc}
     .suffix = Salvagem, Vazio, MontagemNaParede
-    .desc = { ent-StructureGunRack.desc }
 
 ent-StructureMeleeWeaponRackBloodCult = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = CultoSanguíneo, Vazio
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackMercenary = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = Mercenário, Vazio
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackNfsd = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = TSFMC, Vazio
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackSalvage = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = Salvagem, Vazio
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedMercenary = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = Mercenário, Vazio, MontagemNaParede
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedNfsd = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = TSFMC, Vazio, MontagemNaParede
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructureMeleeWeaponRackWallmountedSalvage = {ent-StructureMeleeWeaponRack}
+    .desc = {ent-StructureMeleeWeaponRack.desc}
     .suffix = Salvagem, Vazio, MontagemNaParede
-    .desc = { ent-StructureMeleeWeaponRack.desc }
 
 ent-StructurePistolRackLockSheriff = {ent-StructurePistolRackLock}
+    .desc = {ent-StructurePistolRackLock.desc}
     .suffix = Coronel, Vazio
-    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackLockSheriffWallmounted = {ent-StructurePistolRackLock}
+    .desc = {ent-StructurePistolRackLock.desc}
     .suffix = Coronel, Vazio, MontagemNaParede
-    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackLockSR = {ent-StructurePistolRackLock}
+    .desc = {ent-StructurePistolRackLock.desc}
     .suffix = SR, Vazio
-    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackLockSRWallmounted = {ent-StructurePistolRackLock}
+    .desc = {ent-StructurePistolRackLock.desc}
     .suffix = SR, Vazio, MontagemNaParede
-    .desc = { ent-StructurePistolRackLock.desc }
 
 ent-StructurePistolRackMercenary = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Mercenário, Vazio
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackNfsd = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = TSFMC, Vazio
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackPirates = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Pirata, Vazio
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackSalvage = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Salvagem, Vazio
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedMercenary = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Mercenário, Vazio, MontagemNaParede
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedNfsd = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = TSFMC, Vazio, MontagemNaParede
-    .desc = { ent-StructurePistolRack.desc }
 
 ent-StructurePistolRackWallmountedSalvage = {ent-StructurePistolRack}
+    .desc = {ent-StructurePistolRack.desc}
     .suffix = Salvagem, Vazio, MontagemNaParede
-    .desc = { ent-StructurePistolRack.desc }
 
 # From: _NF/Entities/Structures/Furniture/bedroll.yml
 
@@ -6220,24 +6270,24 @@ ent-NFBedroll = colchão
     .desc = Quando não há outro lugar para dormir, você vai querer trazer ao menos uma coisa de conforto. A etiqueta diz para desdobrá-lo antes de descansar, mas quem precisa de regras assim mesmo, né?
 
 ent-NFBedrollAlt = {ent-NFBedroll}
-    .suffix = alt
     .desc = {ent-NFBedroll.desc}
+    .suffix = alt
 
 ent-NFBedrollAltFolded = {ent-NFBedroll}
-    .suffix = dobrado, alt
     .desc = {ent-NFBedroll.desc}
+    .suffix = dobrado, alt
 
 ent-NFBedrollFolded = {ent-NFBedroll}
-    .suffix = dobrado
     .desc = {ent-NFBedroll.desc}
+    .suffix = dobrado
 
 ent-NFBedrollStained = {ent-NFBedroll}
     .suffix = Manchado
     .desc = Acampamento de luxo costumava ser diferente no meu tempo.
 
 ent-NFBedrollStainedFolded = {ent-NFBedroll}
+    .desc = {ent-NFBedroll.desc}
     .suffix = dobrado, manchado
-    .desc = {ent-NFBedrollStained.desc}
 
 # From: _NF/Entities/Structures/Furniture/chairs.yml
 # Abstract entity (referenceable by children)
@@ -6246,40 +6296,40 @@ ent-ChairWoodFancyBase = cadeira de madeira elegante
     .desc = Uma cadeira, mas elegante.
 
 ent-ChairWoodFancyBlack = {ent-ChairWoodFancyBase}
-    .suffix = Preto
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Preto
 
 ent-ChairWoodFancyBlue = {ent-ChairWoodFancyBase}
-    .suffix = Azul
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Azul
 
 ent-ChairWoodFancyCyan = {ent-ChairWoodFancyBase}
-    .suffix = Ciano
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Ciano
 
 ent-ChairWoodFancyGreen = {ent-ChairWoodFancyBase}
-    .suffix = Verde
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Verde
 
 ent-ChairWoodFancyOrange = {ent-ChairWoodFancyBase}
-    .suffix = Laranja
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Laranja
 
 ent-ChairWoodFancyPink = {ent-ChairWoodFancyBase}
-    .suffix = Rosa
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Rosa
 
 ent-ChairWoodFancyPurple = {ent-ChairWoodFancyBase}
-    .suffix = Roxo
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Roxo
 
 ent-ChairWoodFancyRed = {ent-ChairWoodFancyBase}
-    .suffix = Vermelho
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Vermelho
 
 ent-ChairWoodFancyWhite = {ent-ChairWoodFancyBase}
-    .suffix = Branco
     .desc = {ent-ChairWoodFancyBase.desc}
+    .suffix = Branco
 
 # From: _NF/Entities/Structures/Furniture/icebox.yml
 
@@ -6480,12 +6530,15 @@ ent-ComputerTabletopIFFSyndicate = {ent-ComputerIFFSyndicate}
     .suffix = Sindicato, Mesa
 
 ent-ComputerTabletopMarketConsoleNFHigh = {ent-ComputerMarketConsoleNFHigh}
+    .desc = {ent-ComputerMarketConsoleNFHigh.desc}
     .suffix = Alto, Mesa
 
 ent-ComputerTabletopMarketConsoleNFLow = {ent-ComputerMarketConsoleNFLow}
+    .desc = {ent-ComputerMarketConsoleNFLow.desc}
     .suffix = Baixo, Mesa
 
 ent-ComputerTabletopMarketConsoleNFNormal = {ent-ComputerMarketConsoleNFNormal}
+    .desc = {ent-ComputerMarketConsoleNFNormal.desc}
     .suffix = Normal, Mesa
 
 ent-ComputerTabletopPalletConsoleNFHighMarket = {ent-ComputerPalletConsoleNFMarket}
@@ -6552,8 +6605,8 @@ ent-ComputerContrabandPalletConsolePirate = console de entrega de tecnologia
     .desc = Recebe tecnologia de facções para ser enviada para pesquisa e concede DC em troca.
 
 ent-ComputerIFFPOI = {ent-ComputerIFF}
+    .desc = {ent-ComputerIFF.desc}
     .suffix = POI
-    .desc = {ent-ComputerIFFSyndicate.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -7119,50 +7172,50 @@ ent-GaslockFrame = doca de gás portátil
     .desc = Bombeia gás. Aceita atracação, mas não pode atracar. Ambos os lados devem estar atracados e bombeando na mesma direção para o gás fluir.
 
 ent-GasPressurePumpOn = {ent-GasPressurePump}
-    .suffix = Ligado
     .desc = {ent-GasPressurePump.desc}
+    .suffix = Ligado
 
 ent-GasPressurePumpOnMax = {ent-GasPressurePump}
-    .suffix = Ligado, Max
     .desc = {ent-GasPressurePump.desc}
+    .suffix = Ligado, Max
 
 ent-GasVolumePumpOn = {ent-GasVolumePump}
-    .suffix = Ligado
     .desc = {ent-GasVolumePump.desc}
+    .suffix = Ligado
 
 # From: _NF/Entities/Structures/Piping/Atmospherics/trinary.yml
 
 ent-GasFilterNitrogenOn = {ent-GasFilterBase}
-    .suffix = Ligado, Nitrogênio
     .desc = {ent-GasFilterBase.desc}
+    .suffix = Ligado, Nitrogênio
 
 ent-GasFilterNitrogenOnFlipped = {ent-GasFilterFlipped}
+    .desc = {ent-GasFilterFlipped.desc}
     .suffix = Ligado, Nitrogênio, Invertido
-    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterOn = {ent-GasFilterBase}
-    .suffix = Ligado
     .desc = {ent-GasFilterBase.desc}
+    .suffix = Ligado
 
 ent-GasFilterOnFlipped = {ent-GasFilterFlipped}
+    .desc = {ent-GasFilterFlipped.desc}
     .suffix = Ligado, Invertido
-    .desc = {ent-GasFilterBase.desc}
 
 ent-GasFilterOxygenOn = {ent-GasFilterBase}
-    .suffix = Ligado, Oxigênio
     .desc = {ent-GasFilterBase.desc}
+    .suffix = Ligado, Oxigênio
 
 ent-GasFilterOxygenOnFlipped = {ent-GasFilterFlipped}
+    .desc = {ent-GasFilterFlipped.desc}
     .suffix = Ligado, Oxigênio, Invertido
-    .desc = {ent-GasFilterBase.desc}
 
 ent-GasMixerOn = {ent-GasMixer}
-    .suffix = Ligado
     .desc = {ent-GasMixer.desc}
+    .suffix = Ligado
 
 ent-GasMixerOnFlipped = {ent-GasMixerFlipped}
+    .desc = {ent-GasMixerFlipped.desc}
     .suffix = Ligado, Invertido
-    .desc = {ent-GasMixer.desc}
 
 # From: _NF/Entities/Structures/Piping/Atmospherics/unary.yml
 
@@ -7193,24 +7246,24 @@ ent-PortableGeneratorDKJr = gerador portátil tipo D-K Jr.
     .desc = Um reator de fissão Dunn-Kikko miniaturizado. Use com cautela.\nFunciona com banânio e tem classificação de até 100 kW.\nBastante radioativo sem proteção.
 
 ent-PortableGeneratorDKJrShuttle = {ent-PortableGeneratorDKJr}
-    .suffix = Banânio, Rad-, 60 kW, Nave
     .desc = {ent-PortableGeneratorDKJr.desc}
+    .suffix = Banânio, Rad-, 60 kW, Nave
 
 ent-PortableGeneratorDKShuttle = {ent-PortableGeneratorDK}
-    .suffix = Banânio, Rad+, 60 kW, Nave
     .desc = {ent-PortableGeneratorDK.desc}
+    .suffix = Banânio, Rad+, 60 kW, Nave
 
 ent-PortableGeneratorJrPacmanShuttle = {ent-PortableGeneratorJrPacman}
-    .suffix = Combustível de Solda, 6 kW, Nave
     .desc = {ent-PortableGeneratorJrPacman.desc}
+    .suffix = Combustível de Solda, 6 kW, Nave
 
 ent-PortableGeneratorPacmanShuttle = {ent-PortableGeneratorPacman}
-    .suffix = Plasma, 15 kW, Nave
     .desc = {ent-PortableGeneratorPacman.desc}
+    .suffix = Plasma, 15 kW, Nave
 
 ent-PortableGeneratorSuperPacmanShuttle = {ent-PortableGeneratorSuperPacman}
-    .suffix = Urânio, 30 kW, Nave
     .desc = {ent-PortableGeneratorSuperPacman.desc}
+    .suffix = Urânio, 30 kW, Nave
 
 # From: _NF/Entities/Structures/Shuttles/cannons.yml
 
@@ -7228,15 +7281,17 @@ ent-MiniStationAnchor = âncora de mini estação
     .desc = {ent-StationAnchorBase.desc}
 
 ent-MiniStationAnchorOff = {ent-MiniStationAnchor}
-    .suffix = Desligado
     .desc = {ent-MiniStationAnchor.desc}
+    .suffix = Desligado
 
 # From: _NF/Entities/Structures/Shuttles/thrusters_nfsd.yml
 
 ent-DebugGyroscopeNfsd = {ent-DebugGyroscopeSecurity}
+    .desc = {ent-DebugGyroscopeSecurity.desc}
     .suffix = DEBUG, TSFMC
 
 ent-DebugThrusterNfsd = {ent-DebugThrusterSecurity}
+    .desc = {ent-DebugThrusterSecurity.desc}
     .suffix = DEBUG, TSFMC
 
 ent-GyroscopeNfsd = {ent-Gyroscope}
@@ -7247,6 +7302,7 @@ ent-SmallGyroscopeNfsd = giroscópio pequeno
     .suffix = TSFMC
 
 ent-ThrusterNfsd = {ent-ThrusterSecurity}
+    .desc = {ent-ThrusterSecurity.desc}
     .suffix = TSFMC
 
 # From: _NF/Entities/Structures/Shuttles/thrusters_security.yml
@@ -7276,9 +7332,11 @@ ent-SmallThruster = propulsor pequeno
 # From: _NF/Entities/Structures/soil.yml
 
 ent-HydroponicsSoilEmpty = {ent-hydroponicsSoil}
+    .desc = {ent-hydroponicsSoil.desc}
     .suffix = Vazio
 
 ent-HydroponicsSoilNutrition = {ent-hydroponicsSoil}
+    .desc = {ent-hydroponicsSoil.desc}
     .suffix = 0 água, 100 nutrição
 
 # From: _NF/Entities/Structures/Specific/aberrant_flesh.yml
@@ -8031,12 +8089,15 @@ ent-GunSafeSr = cofre de armas pesado do supervisor
     .suffix = Preenchido
 
 ent-LockerNfsdSheriffFilled = {ent-LockerNfsdSheriff}
+    .desc = {ent-LockerNfsdSheriff.desc}
     .suffix = Preenchido
 
 ent-LockerQuarterMasterFilledHardsuit = {ent-LockerQuarterMaster}
+    .desc = {ent-LockerQuarterMaster.desc}
     .suffix = Preenchido, Traje rígido
 
 ent-LockerStationRepresentativeFilled = {ent-LockerStationRepresentative}
+    .desc = {ent-LockerStationRepresentative.desc}
     .suffix = Preenchido
 
 # From: _NF/Catalog/Fills/Lockers/locker_wallmount.yml
@@ -8068,18 +8129,23 @@ ent-LockerWallColorHydroponicsEmpty = armário de parede de botânico
     .suffix = Vazio, Frontier
 
 ent-LockerWallColorHydroponicsFilled = {ent-LockerWallColorHydroponics}
+    .desc = {ent-LockerWallColorHydroponics.desc}
     .suffix = Preenchido, Frontier
 
 ent-LockerWallColorL1FireFilled = {ent-LockerWallColorL1Fire}
+    .desc = {ent-LockerWallColorL1Fire.desc}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorL2RadiationFilled = {ent-LockerWallColorL2Radiation}
+    .desc = {ent-LockerWallColorL2Radiation.desc}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorL3BiohazardFilled = {ent-LockerWallColorL3Biohazard}
+    .desc = {ent-LockerWallColorL3Biohazard.desc}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorL4BombFilled = {ent-LockerWallColorL4Bomb}
+    .desc = {ent-LockerWallColorL4Bomb.desc}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorMedicalDoctorFilled = armário de parede do médico
@@ -8089,6 +8155,7 @@ ent-LockerWallColorMedicalFilled = armário de parede de medicina
     .suffix = Preenchido, Frontier
 
 ent-LockerWallEVAColorAtmosTechFilled = {ent-LockerWallEVAColorAtmosTech}
+    .desc = {ent-LockerWallEVAColorAtmosTech.desc}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorBoxerBlueFilled = armário EVA de boxeador
@@ -8107,27 +8174,35 @@ ent-LockerWallEVAColorBoxerYellowFilled = armário EVA de boxeador
     .suffix = Preenchido, Amarelo
 
 ent-LockerWallEVAColorCaptainFilled = {ent-LockerWallEVAColorCaptain}
+    .desc = {ent-LockerWallEVAColorCaptain.desc}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorCargoFilled = {ent-LockerWallEVAColorCargo}
+    .desc = {ent-LockerWallEVAColorCargo.desc}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorChaplainFilled = {ent-LockerWallEVAColorChaplain}
+    .desc = {ent-LockerWallEVAColorChaplain.desc}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorContractorFilled = {ent-LockerWallEVAColorContractor}
+    .desc = {ent-LockerWallEVAColorContractor.desc}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorEmergencyFilled = {ent-LockerWallEVAColorEmergency}
+    .desc = {ent-LockerWallEVAColorEmergency.desc}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallEVAColorEngineerFilled = {ent-LockerWallEVAColorEngineer}
+    .desc = {ent-LockerWallEVAColorEngineer.desc}
     .suffix = Preenchido
 
 ent-LockerWallEVAColorFsbEmpty = {ent-LockerWallEVAColorFsb}
+    .desc = {ent-LockerWallEVAColorFsb.desc}
     .suffix = Frontier, Vazio
 
 ent-LockerWallEVAColorFsbFilled = {ent-LockerWallEVAColorFsb}
+    .desc = {ent-LockerWallEVAColorFsb.desc}
     .suffix = Frontier, Preenchido
 
 ent-LockerWallColorL4Bomb = armário de parede de roupa de bomba L4
@@ -8413,12 +8488,15 @@ ent-SignNfsdRange = placa de estande de tiro
 # From: _NF/Entities/Structures/Wallmounts/switch.yml
 
 ent-LockableButtonMailCarrier = {ent-LockableButton}
+    .desc = {ent-LockableButton.desc}
     .suffix = Correios
 
 ent-LockableButtonPirate = {ent-LockableButton}
+    .desc = {ent-LockableButton.desc}
     .suffix = PDV
 
 ent-LockableButtonTSFMC = {ent-LockableButton}
+    .desc = {ent-LockableButton.desc}
     .suffix = TSFMC
 
 # From: _NF/Entities/Structures/Walls/asteroid.yml
@@ -8512,9 +8590,11 @@ ent-IronRockBluespace = {ent-IronRock}
     .desc = Um veio de minério com azulespaço.
 
 ent-WallRockAndesiteBananiumCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Banânio
 
 ent-WallRockAndesiteBananiumGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Banânio
 
 ent-WallRockAndesiteBluespace = {ent-WallRockAndesite}
@@ -8522,63 +8602,83 @@ ent-WallRockAndesiteBluespace = {ent-WallRockAndesite}
     .desc = Um veio de minério com azulespaço.
 
 ent-WallRockAndesiteCoalCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Carvão
 
 ent-WallRockAndesiteCoalGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Carvão
 
 ent-WallRockAndesiteGoldCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Ouro
 
 ent-WallRockAndesiteGoldGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Ouro
 
 ent-WallRockAndesiteIronCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Ferro
 
 ent-WallRockAndesiteIronGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Ferro
 
 ent-WallRockAndesitePlasmaCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Plasma
 
 ent-WallRockAndesitePlasmaGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Plasma
 
 ent-WallRockAndesiteQuartzCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-WallRockAndesiteQuartzGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Quartzo
 
 ent-WallRockAndesiteSaltCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Sal
 
 ent-WallRockAndesiteSaltGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Sal
 
 ent-WallRockAndesiteSilverCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Prata
 
 ent-WallRockAndesiteSilverGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Prata
 
 ent-WallRockAndesiteUraniumCrabNF = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Caranguejo de Urânio
 
 ent-WallRockAndesiteUraniumGolem = {ent-WallRockAndesite}
+    .desc = {ent-WallRockAndesite.desc}
     .suffix = Golem de Urânio
 
 ent-WallRockBananiumCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Banânio
 
 ent-WallRockBananiumGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Banânio
 
 ent-WallRockBasaltBananiumCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Banânio
 
 ent-WallRockBasaltBananiumGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Banânio
 
 ent-WallRockBasaltBluespace = {ent-WallRockBasalt}
@@ -8586,51 +8686,67 @@ ent-WallRockBasaltBluespace = {ent-WallRockBasalt}
     .desc = Um veio de minério com azulespaço.
 
 ent-WallRockBasaltCoalCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Carvão
 
 ent-WallRockBasaltCoalGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Carvão
 
 ent-WallRockBasaltGoldCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Ouro
 
 ent-WallRockBasaltGoldGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Ouro
 
 ent-WallRockBasaltIronCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Ferro
 
 ent-WallRockBasaltIronGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Ferro
 
 ent-WallRockBasaltPlasmaCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Plasma
 
 ent-WallRockBasaltPlasmaGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Plasma
 
 ent-WallRockBasaltQuartzCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-WallRockBasaltQuartzGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Quartzo
 
 ent-WallRockBasaltSaltCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Sal
 
 ent-WallRockBasaltSaltGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Sal
 
 ent-WallRockBasaltSilverCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Prata
 
 ent-WallRockBasaltSilverGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Prata
 
 ent-WallRockBasaltUraniumCrabNF = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Caranguejo de Urânio
 
 ent-WallRockBasaltUraniumGolem = {ent-WallRockBasalt}
+    .desc = {ent-WallRockBasalt.desc}
     .suffix = Golem de Urânio
 
 ent-WallRockBluespace = {ent-WallRock}
@@ -8638,9 +8754,11 @@ ent-WallRockBluespace = {ent-WallRock}
     .desc = Um veio de minério com azulespaço.
 
 ent-WallRockChromiteBananiumCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Banânio
 
 ent-WallRockChromiteBananiumGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Banânio
 
 ent-WallRockChromiteBluespace = {ent-WallRockChromite}
@@ -8648,93 +8766,123 @@ ent-WallRockChromiteBluespace = {ent-WallRockChromite}
     .desc = Um veio de minério com azulespaço.
 
 ent-WallRockChromiteCoalCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Carvão
 
 ent-WallRockChromiteCoalGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Carvão
 
 ent-WallRockChromiteGoldCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Ouro
 
 ent-WallRockChromiteGoldGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Ouro
 
 ent-WallRockChromiteIronCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Ferro
 
 ent-WallRockChromiteIronGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Ferro
 
 ent-WallRockChromitePlasmaCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Plasma
 
 ent-WallRockChromitePlasmaGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Plasma
 
 ent-WallRockChromiteQuartzCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-WallRockChromiteQuartzGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Quartzo
 
 ent-WallRockChromiteSaltCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Sal
 
 ent-WallRockChromiteSaltGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Sal
 
 ent-WallRockChromiteSilverCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Prata
 
 ent-WallRockChromiteSilverGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Prata
 
 ent-WallRockChromiteUraniumCrabNF = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Caranguejo de Urânio
 
 ent-WallRockChromiteUraniumGolem = {ent-WallRockChromite}
+    .desc = {ent-WallRockChromite.desc}
     .suffix = Golem de Urânio
 
 ent-WallRockCoalCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Carvão
 
 ent-WallRockCoalGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Carvão
 
 ent-WallRockGoldCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Ouro
 
 ent-WallRockGoldGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Ouro
 
 ent-WallRockIronCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Ferro
 
 ent-WallRockIronGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Ferro
 
 ent-WallRockPlasmaCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Plasma
 
 ent-WallRockPlasmaGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Plasma
 
 ent-WallRockQuartzCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-WallRockQuartzGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Quartzo
 
 ent-WallRockSaltCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Sal
 
 ent-WallRockSaltGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Sal
 
 ent-WallRockSandBananiumCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Banânio
 
 ent-WallRockSandBananiumGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Banânio
 
 ent-WallRockSandBluespace = {ent-WallRockSand}
@@ -8742,51 +8890,67 @@ ent-WallRockSandBluespace = {ent-WallRockSand}
     .desc = Um veio de minério com azulespaço.
 
 ent-WallRockSandCoalCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Carvão
 
 ent-WallRockSandCoalGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Carvão
 
 ent-WallRockSandGoldCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Ouro
 
 ent-WallRockSandGoldGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Ouro
 
 ent-WallRockSandIronCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Ferro
 
 ent-WallRockSandIronGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Ferro
 
 ent-WallRockSandPlasmaCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Plasma
 
 ent-WallRockSandPlasmaGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Plasma
 
 ent-WallRockSandQuartzCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-WallRockSandQuartzGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Quartzo
 
 ent-WallRockSandSaltCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Sal
 
 ent-WallRockSandSaltGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Sal
 
 ent-WallRockSandSilverCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Prata
 
 ent-WallRockSandSilverGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Prata
 
 ent-WallRockSandUraniumCrabNF = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Caranguejo de Urânio
 
 ent-WallRockSandUraniumGolem = {ent-WallRockSand}
+    .desc = {ent-WallRockSand.desc}
     .suffix = Golem de Urânio
 
 ent-WallRockScrapPile = pilha de sucata
@@ -8842,15 +9006,19 @@ ent-WallRockScrapPileUranium = {ent-WallRockScrapPile}
     .desc = Um veio de minério com urânio.
 
 ent-WallRockSilverCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Prata
 
 ent-WallRockSilverGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Prata
 
 ent-WallRockSnowBananiumCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Banânio
 
 ent-WallRockSnowBananiumGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Banânio
 
 ent-WallRockSnowBluespace = {ent-WallRockSnow}
@@ -8858,57 +9026,75 @@ ent-WallRockSnowBluespace = {ent-WallRockSnow}
     .desc = Um veio de minério com azul-espaço.
 
 ent-WallRockSnowCoalCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Carvão
 
 ent-WallRockSnowCoalGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Carvão
 
 ent-WallRockSnowGoldCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Ouro
 
 ent-WallRockSnowGoldGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Ouro
 
 ent-WallRockSnowIronCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Ferro
 
 ent-WallRockSnowIronGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Ferro
 
 ent-WallRockSnowPlasmaCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Plasma
 
 ent-WallRockSnowPlasmaGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Plasma
 
 ent-WallRockSnowQuartzCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-WallRockSnowQuartzGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Quartzo
 
 ent-WallRockSnowSaltCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Sal
 
 ent-WallRockSnowSaltGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Sal
 
 ent-WallRockSnowSilverCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Prata
 
 ent-WallRockSnowSilverGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Prata
 
 ent-WallRockSnowUraniumCrabNF = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Caranguejo de Urânio
 
 ent-WallRockSnowUraniumGolem = {ent-WallRockSnow}
+    .desc = {ent-WallRockSnow.desc}
     .suffix = Golem de Urânio
 
 ent-WallRockUraniumCrabNF = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Caranguejo de Urânio
 
 ent-WallRockUraniumGolem = {ent-WallRock}
+    .desc = {ent-WallRock.desc}
     .suffix = Golem de Urânio
 
 # From: _NF/Entities/Structures/Walls/diagonal_walls.yml
@@ -9418,9 +9604,11 @@ ent-NFWallIceBananium = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em banânio. Extremamente duro.
 
 ent-NFWallIceBananiumCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Banânio
 
 ent-NFWallIceBananiumGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Banânio
 
 ent-NFWallIceBluespace = {ent-NFWallIce}
@@ -9448,12 +9636,15 @@ ent-NFWallIceGold = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em ouro. Extremamente duro.
 
 ent-NFWallIceGoldCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Ouro
 
 ent-NFWallIceGoldGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Ouro
 
 ent-NFWallIceIronGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Ferro
 
 ent-NFWallIcePlasma = {ent-NFWallIce}
@@ -9461,9 +9652,11 @@ ent-NFWallIcePlasma = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em plasma. Extremamente duro.
 
 ent-NFWallIcePlasmaCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Plasma
 
 ent-NFWallIcePlasmaGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Plasma
 
 ent-NFWallIceQuartz = {ent-NFWallIce}
@@ -9471,9 +9664,11 @@ ent-NFWallIceQuartz = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em quartzo. Extremamente duro.
 
 ent-NFWallIceQuartzCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Quartzo
 
 ent-NFWallIceQuartzGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Quartzo
 
 ent-NFWallIceSalt = {ent-NFWallIce}
@@ -9481,9 +9676,11 @@ ent-NFWallIceSalt = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em sal. Extremamente duro.
 
 ent-NFWallIceSaltCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Sal
 
 ent-NFWallIceSaltGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Sal
 
 ent-NFWallIceSilver = {ent-NFWallIce}
@@ -9491,9 +9688,11 @@ ent-NFWallIceSilver = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em prata. Extremamente duro.
 
 ent-NFWallIceSilverCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Prata
 
 ent-NFWallIceSilverGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Prata
 
 ent-NFWallIceTin = {ent-NFWallIce}
@@ -9501,6 +9700,7 @@ ent-NFWallIceTin = {ent-NFWallIce}
     .desc = Um veio de minério rico em ferro.
 
 ent-NFWallIceTinCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Ferro
 
 ent-NFWallIceUranium = {ent-NFWallIce}
@@ -9508,9 +9708,11 @@ ent-NFWallIceUranium = {ent-NFWallIce}
     .desc = Um veio de minério denso rico em urânio. Extremamente duro.
 
 ent-NFWallIceUraniumCrab = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Caranguejo de Urânio
 
 ent-NFWallIceUraniumGolem = {ent-NFWallIce}
+    .desc = {ent-NFWallIce.desc}
     .suffix = Golem de Urânio
 
 ent-NFWallNecropolisArtifactFragment = {ent-NFAsteroidWall}
@@ -10030,6 +10232,7 @@ ent-BoxT4ComponentsAssorted = pacote variado de componentes bluespace
 # From: _NF/Mail/Items/misc.yml
 
 ent-AdminInstantEffectEMP7 = {ent-AdminInstantEffectBase}
+    .desc = {ent-AdminInstantEffectBase.desc}
     .suffix = EMP, 7 metros
 
 ent-CigarPlatinum = charuto Generalissimo No. 3
@@ -10205,282 +10408,375 @@ ent-PaperMailNTSoapAd2 = {ent-Paper}
 # From: _NF/Mail/mail.yml
 
 ent-MailBlockGameDIY = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = blockgamediy
 
 ent-MailCigars = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = Cigars
 
 ent-MailCommandNFPipebombIntern = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cano e bomba
 
 ent-MailCommandNFPlatinumCigars = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = charutos, ultra premium
 
 ent-MailCommandNFPremiumAlcohol = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = álcohol premium
 
 ent-MailCommandNFStationPet = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = animal de estimação da estação
 
 ent-MailCommandNFWristwatchGold = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = relógio de pulso de ouro
 
 ent-MailCosplayArc = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cosplay-arco
 
 ent-MailCosplayGeisha = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cosplay-gueixa
 
 ent-MailCosplaySchoolgirl = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cosplay-colegial
 
 ent-MailFlowers = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = flores
 
 ent-MailNFAlcohol = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = álcool, estendido
 
 ent-MailNFATV = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = ATV
 
 ent-MailNFBakedGoods = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = produtos assados
 
 ent-MailNFBible = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = bíblia, estendido
 
 ent-MailNFBikeHorn = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = buzina de bicicleta, aleatório
 
 ent-MailNFBoxer = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = boxeador
 
 ent-MailNFBuildABuddy = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = Monta-seu-Amigo
 
 ent-MailNFCake = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = bolo, estendido
 
 ent-MailNFCheese = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = queijo, estendido
 
 ent-MailNFCigarettes = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cigarros, aleatório
 
 ent-MailNFCircuitboardIndustrial = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = placa de circuito industrial
 
 ent-MailNFCircuitboardService = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = placa de circuito de serviço
 
 ent-MailNFCognizine = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = seringa de cognizina
 
 ent-MailNFConscript = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = recruta
 
 ent-MailNFCookies = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = biscoitos, aleatório
 
 ent-MailNFCosplayMaid = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cosplay-empregada, estendido
 
 ent-MailNFCosplayNurse = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cosplay-enfermeira, estendido
 
 ent-MailNFCosplayWizard = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = cosplay-mago, estendido
 
 ent-MailNFCritter = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = criatura
 
 ent-MailNFDAW = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = DAW
 
 ent-MailNFDonkPockets = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = bolsas donk, aleatório
 
 ent-MailNFEmotionalRPG = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = RPG
 
 ent-MailNFEMP = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = EMP
 
 ent-MailNFFigurineBulk = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = figurinha, volume
 
 ent-MailNFGladiator = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = gladiador
 
 ent-MailNFGoldCigars = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = charutos, premium
 
 ent-MailNFIFFBoard = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = placa IFF
 
 ent-MailNFInstrumentFlatpack = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = instrumento, plano
 
 ent-MailNFInstrumentLarge = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = instrumento, grande
 
 ent-MailNFInstrumentSmall = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = instrumento, expandido
 
 ent-MailNFJoints = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = baseados
 
 ent-MailNFKendoKit = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = kit de kendo
 
 ent-MailNFKnife = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = faca, estendido
 
 ent-MailNFMedkit = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = kit médico
 
 ent-MailNFMime = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = mimo
 
 ent-MailNFMoney = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = dinheiro, estendido
 
 ent-MailNFMuffins = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = muffins, aleatório
 
 ent-MailNFNecrosol = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = frasco de necrosol
 
 ent-MailNFOmnizine = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = frasco de omnizina
 
 ent-MailNFPAI = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = PAI, estendido
 
 ent-MailNFPen = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = caneta elegante
 
 ent-MailNFPlushie = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = pelúcia, estendido
 
 ent-MailNFPowerCell = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = célula de energia
 
 ent-MailNFPowerTool = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = ferramenta elétrica
 
 ent-MailNFRGBBGun = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = arma RGBB
 
 ent-MailNFSkeletonMotorcycle = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = ATV
 
 ent-MailNFSkub = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = skub, estendido
 
 ent-MailNFSmoke = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = fumaça
 
 ent-MailNFSnacks = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = lanches, aleatório
 
 ent-MailNFSoaps = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = amostra de sabão
 
 ent-MailNFSoapsOmega = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = amostra de sabão, ômega
 
 ent-MailNFSodaPwrGame = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = Pwrgame
 
 ent-MailNFSodaRedBool = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = Red Bool
 
 ent-MailNFSodaSpaceCola = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = Space Cola
 
 ent-MailNFSodaSpaceMountainWind = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = Space Mountain Wind
 
 ent-MailNFSodaSpaceUp = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = Space Up
 
 ent-MailNFSword = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = espada
 
 ent-MailNFT2ComponentBox = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = componentes T2
 
 ent-MailNFT3ComponentBox = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = componentes T3
 
 ent-MailNFT4ComponentBox = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = componentes T4
 
 ent-MailNFTacticalMaid = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = empregada tática
 
 ent-MailNFThrongler = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = throngler
 
 ent-MailNFUnicycle = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = monociclo
 
 ent-MailNFUnusualClothing = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = roupa incomum
 
 ent-MailNFUnusualFood = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = comida incomum
 
 ent-MailNFUnusualProduce = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = produtos incomuns
 
 ent-MailNFVagueThreat = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = ameaça-vaga
 
 ent-MailNFVulpCannon = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = canhão vulp
 
 ent-MailNFWeejurnum = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = weejurnum
 
 ent-MailNoir = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = noir
 
 ent-MailRestraints = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = contenções
 
 ent-MailSake = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = saquê
 
 ent-MailSecurityDonuts = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = donuts
 
 ent-MailSecurityNFHudNfsdMed = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = HUD médico NFSD
 
 ent-MailSecurityNFMusket = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = mosquete
 
 ent-MailSecurityNFSpaceLaw = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = lei espacial, estendido
 
 ent-MailSecurityNonlethalsKit = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = kit não-letal
 
 ent-MailSpaceVillainDIY = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = vilãoespacialfaçavocêmesmo
 
 ent-MailStationRepNFClurger = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = clurger
 
 ent-MailStationRepNFNukeDisk = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = disco nuclear
 
 ent-MailSunglasses = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = óculos de sol
 
 ent-MailWinterCoat = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = casaco de inverno
 
 # From: _NF/Procedural/Themes/supercompacted.yml
@@ -10520,82 +10816,106 @@ ent-LockerWallEVAColorGoblinFilled = armário de parede EVA goblin
     .suffix = Cheio
 
 ent-LockerWallEVAColorHydroponicsFilled = {ent-LockerWallEVAColorHydroponics}
+    .desc = {ent-LockerWallEVAColorHydroponics.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorJanitorFilled = {ent-LockerWallEVAColorJanitor}
+    .desc = {ent-LockerWallEVAColorJanitor.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorLvhiFilled = {ent-LockerWallEVAColorLvhi}
+    .desc = {ent-LockerWallEVAColorLvhi.desc}
     .suffix = Frontier, Cheio
 
 ent-LockerWallEVAColorMailFilled = {ent-LockerWallEVAColorMail}
+    .desc = {ent-LockerWallEVAColorMail.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorMedicalFilled = {ent-LockerWallEVAColorMedical}
+    .desc = {ent-LockerWallEVAColorMedical.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorMercenaryFilled = {ent-LockerWallEVAColorMercenary}
+    .desc = {ent-LockerWallEVAColorMercenary.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorNfsdFilled = {ent-LockerWallEVAColorNfsd}
+    .desc = {ent-LockerWallEVAColorNfsd.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorParamedicFilled = armário de parede de traje de vácuo de paramédico
     .suffix = Cheio
 
 ent-LockerWallEVAColorPilotFilled = {ent-LockerWallEVAColorPilot}
+    .desc = {ent-LockerWallEVAColorPilot.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorPrivateSecFilled = {ent-LockerWallEVAColorPrivateSec}
+    .desc = {ent-LockerWallEVAColorPrivateSec.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorSalvageFilled = {ent-LockerWallEVAColorSalvage}
+    .desc = {ent-LockerWallEVAColorSalvage.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorScientistFilled = {ent-LockerWallEVAColorScientist}
+    .desc = {ent-LockerWallEVAColorScientist.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorServiceWorkerFilled = {ent-LockerWallEVAColorServiceWorker}
+    .desc = {ent-LockerWallEVAColorServiceWorker.desc}
     .suffix = Cheio
 
 ent-LockerWallEVAColorSrFilled = {ent-LockerWallEVAColorSr}
+    .desc = {ent-LockerWallEVAColorSr.desc}
     .suffix = Cheio
 
 ent-LockerWallMaterialsBasic10Filled = {ent-LockerWallColorMaterials}
+    .desc = {ent-LockerWallColorMaterials.desc}
     .suffix = Cheio, Materiais Básicos (10)
 
 ent-LockerWallMaterialsBasicFilled = {ent-LockerWallColorMaterials}
+    .desc = {ent-LockerWallColorMaterials.desc}
     .suffix = Cheio, Materiais Básicos (completo)
 
 ent-LockerWallMaterialsFuelAmeJarFilled = {ent-LockerWallColorAme}
+    .desc = {ent-LockerWallColorAme.desc}
     .suffix = Cheio, Frasco AME (x2)
 
 ent-LockerWallMaterialsFuelBananiumFilled = {ent-LockerWallColorBananium}
+    .desc = {ent-LockerWallColorBananium.desc}
     .suffix = Cheio, Banânio
 
 ent-LockerWallMaterialsFuelPlasmaFilled = {ent-LockerWallColorFuelPlasma}
+    .desc = {ent-LockerWallColorFuelPlasma.desc}
     .suffix = Cheio, Plasma
 
 ent-LockerWallMaterialsFuelPlasmaFilled2 = {ent-LockerWallColorFuelPlasma}
+    .desc = {ent-LockerWallColorFuelPlasma.desc}
     .suffix = Cheio, Plasma (x2 Geradores)
 
 ent-LockerWallMaterialsFuelUraniumFilled = {ent-LockerWallColorUranium}
+    .desc = {ent-LockerWallColorUranium.desc}
     .suffix = Cheio, Urânio
 
 ent-LockerWallMaterialsFuelUraniumFilled2 = {ent-LockerWallColorUranium}
+    .desc = {ent-LockerWallColorUranium.desc}
     .suffix = Cheio, Urânio (x2 Geradores)
 
 ent-LockerWallMaterialsFuelWeldingFilled = {ent-LockerWallColorWelding}
+    .desc = {ent-LockerWallColorWelding.desc}
     .suffix = Cheio, Combustível de Solda (x2)
 
 # From: _NF/Catalog/Fills/Lockers/mail.yml
 
 ent-LockerMailCarrierFilled = {ent-LockerMailCarrier}
+    .desc = {ent-LockerMailCarrier.desc}
     .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/medical.yml
 
 ent-LockerParamedicFilledHardsuit = {ent-LockerParamedic}
+    .desc = {ent-LockerParamedic.desc}
     .suffix = Cheio, Traje rígido
 
 ent-LockerPsychologistFilled = armário de psicólogo
@@ -10604,14 +10924,17 @@ ent-LockerPsychologistFilled = armário de psicólogo
 # From: _NF/Catalog/Fills/Lockers/misc.yml
 
 ent-LockerMaterialsBasic10Filled = {ent-LockerMaterials}
+    .desc = {ent-LockerMaterials.desc}
     .suffix = Cheio, Materiais Básicos (10)
 
 ent-LockerMaterialsBasicFilled = {ent-LockerMaterials}
+    .desc = {ent-LockerMaterials.desc}
     .suffix = Cheio, Materiais Básicos (completo)
 
 # From: _NF/Catalog/Fills/Lockers/pilot.yml
 
 ent-LockerPilotFilled = {ent-LockerPilot}
+    .desc = {ent-LockerPilot.desc}
     .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/security.yml
@@ -10623,17 +10946,21 @@ ent-GunSafeTurretsCdet = cofre de torreta
     .suffix = CDET, Cheio
 
 ent-LockerMercenaryFilled = {ent-LockerMercenary}
+    .desc = {ent-LockerMercenary.desc}
     .suffix = Cheio
 
 ent-LockerNfsdSilverDetectiveFilled = {ent-LockerNfsdSilver}
+    .desc = {ent-LockerNfsdSilver.desc}
     .suffix = Detetive, Cheio
 
 # From: _NF/Catalog/Fills/Lockers/service.yml
 
 ent-LockerClownFilled = {ent-LockerClown}
+    .desc = {ent-LockerClown.desc}
     .suffix = Cheio
 
 ent-LockerJanitorFilled = {ent-LockerJanitor}
+    .desc = {ent-LockerJanitor.desc}
     .suffix = Cheio
 
 # From: _NF/Catalog/Fills/Lockers/suit_storage.yml

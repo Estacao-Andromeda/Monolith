@@ -1547,8 +1547,8 @@ ent-SpawnPointVGLieutenant = Tenente VG
 # From: _Mono/Entities/Markers/Spawners/mechs.yml
 
 ent-AFInterceptorFilled = {ent-BaseAFInterceptor}
-    .suffix = Bateria, Cheio
     .desc = {ent-BaseAFInterceptor.desc}
+    .suffix = Bateria, Cheio
 
 ent-SpawnMechAFInterceptorFilled = Gerador de AF-28 Broadsword
     .suffix = Recheado
@@ -2833,12 +2833,12 @@ ent-WeaponTurretLaserTSFMC = torreta de laser
     .suffix = TSFMC
 
 ent-WeaponTurretMk290 = {ent-BaseMk290Sentry}
-    .suffix = TSFMC
     .desc = {ent-BaseMk290Sentry.desc}
+    .suffix = TSFMC
 
 ent-WeaponTurretMk290Empty = {ent-BaseMk290Sentry}
-    .suffix = TSFMC, Empty
     .desc = {ent-BaseMk290Sentry.desc}
+    .suffix = TSFMC, Empty
 
 ent-WeaponTurretMk290Packed = MK-290 embalada
     .suffix = TSFMC, Embalada
@@ -2870,48 +2870,48 @@ ent-BaseDeepGasDeposit = depósito de gás profundo
     .desc = Reservas solidificadas profundas de um elemento, normalmente um gás em temperatura ambiente, que podem ser perfuradas, aquecidas e bombeadas. Deve fornecer um suprimento ilimitado uma vez que o gás facilmente acessível seja esgotado.
 
 ent-DeepGasDepositAir = {ent-BaseDeepGasDeposit}
-    .suffix = Similar a Ar
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Similar a Ar
 
 ent-DeepGasDepositAmmonia = {ent-BaseDeepGasDeposit}
-    .suffix = Amônia
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Amônia
 
 ent-DeepGasDepositCarbonDioxide = {ent-BaseDeepGasDeposit}
-    .suffix = Dióxido de Carbono
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Dióxido de Carbono
 
 ent-DeepGasDepositFrezon = {ent-BaseDeepGasDeposit}
-    .suffix = Frezon
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Frezon
 
 ent-DeepGasDepositMuddleEven = {ent-BaseDeepGasDeposit}
-    .suffix = Confuso
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Confuso
 
 ent-DeepGasDepositMuddlePlasma = {ent-BaseDeepGasDeposit}
-    .suffix = Confuso PL+
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Confuso PL+
 
 ent-DeepGasDepositNitrogen = {ent-BaseDeepGasDeposit}
-    .suffix = Nitrogênio
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Nitrogênio
 
 ent-DeepGasDepositNitrousOxide = {ent-BaseDeepGasDeposit}
-    .suffix = Óxido Nitroso
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Óxido Nitroso
 
 ent-DeepGasDepositOxygen = {ent-BaseDeepGasDeposit}
-    .suffix = Oxigênio
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Oxigênio
 
 ent-DeepGasDepositPlasma = {ent-BaseDeepGasDeposit}
-    .suffix = Plasma
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Plasma
 
 ent-DeepGasDepositWaterVapor = {ent-BaseDeepGasDeposit}
-    .suffix = Vapor d'Água
     .desc = {ent-BaseDeepGasDeposit.desc}
+    .suffix = Vapor d'Água
 
 # From: _Mono/Entities/Objects/Specific/Cooking/chemistry.yml
 
@@ -3067,8 +3067,8 @@ ent-AFInterceptor = {ent-BaseAFInterceptor}
     .desc = {ent-BaseAFInterceptor.desc}
 
 ent-AFInterceptorBattery = {ent-BaseAFInterceptor}
-    .suffix = Bateria
     .desc = {ent-BaseAFInterceptor.desc}
+    .suffix = Bateria
 
 ent-AFInterceptorM = AF-28-M "Halberd"
     .desc = Uma modificação do Broadsword, o Halberd sacrifica suportes de armas leves e velocidade por mais blindagem e suportes de armas médias.
@@ -3530,8 +3530,8 @@ ent-ShipRepairDevice = {ent-ShipRepairDeviceBase}
     .desc = Um Dispositivo de Reparo de Naves que pode reconstruir seções destruídas de naves. Contém 300 cargas.
 
 ent-ShipRepairDeviceAdmin = {ent-ShipRepairDeviceBase}
-    .suffix = Admin
     .desc = {ent-ShipRepairDeviceBase.desc}
+    .suffix = Admin
 
 ent-ShipRepairDeviceAmmo = matéria de reparo de nave
     .desc = Cartucho de munição para um dispositivo de reparo de nave.
@@ -3542,8 +3542,8 @@ ent-ShipRepairDeviceBase = SRD
     .desc = Um Dispositivo de Reparo de Naves que pode reconstruir seções destruídas de naves.
 
 ent-ShipRepairDeviceEmpty = {ent-ShipRepairDeviceBase}
-    .suffix = Vazio
     .desc = {ent-ShipRepairDeviceBase.desc}
+    .suffix = Vazio
 
 ent-ShipRepairDeviceRecharging = {ent-ShipRepairDeviceBase}
     .suffix = Autorecarga
@@ -3617,6 +3617,7 @@ ent-AmmoBox12_gaugeUranium = caixa de cartuchos (calibre 12 urânio)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Boxes/12.7x99mm.yml
 
 ent-AmmoBox127x99mm = {ent-BaseAmmoBox127x99mm}
+    .desc = {ent-BaseAmmoBox127x99mm.desc}
 
 ent-AmmoBox127x99mmExplosive = caixa de munição (12.7x99mm explosiva)
 
@@ -6049,12 +6050,14 @@ ent-255mmBulletAPHE = projétil APHE de 255mm
 ent-255mmBulletEMP = projétil EMP de 255mm
 
 ent-90mmBulletAP = {ent-90mmBulletBase}
+    .desc = {ent-90mmBulletBase.desc}
 
 # Abstract entity (referenceable by children)
 
 ent-90mmBulletBase = projétil
 
 ent-90mmBulletHE = {ent-90mmBulletBase}
+    .desc = {ent-90mmBulletBase.desc}
 
 ent-AdderBullet = AdderBullet
 
@@ -6578,32 +6581,32 @@ ent-GunneryServerBase = server de controle de armamentos
     .desc = Gerencia a operação remota de armas de navio.
 
 ent-GunneryServerHigh = servidor de controle de artilharia de alta potência
-    .desc = { ent-GunneryServerBase.desc }
+    .desc = {ent-GunneryServerBase.desc}
 
 ent-GunneryServerLow = servidor de controle de artilharia de baixa potência
-    .desc = { ent-GunneryServerBase.desc }
+    .desc = {ent-GunneryServerBase.desc}
 
 ent-GunneryServerMedium = servidor de controle de artilharia de média potência
-    .desc = { ent-GunneryServerBase.desc }
+    .desc = {ent-GunneryServerBase.desc}
 
 ent-GunneryServerOmega = servidor de controle de artilharia de potência ômega
-    .desc = { ent-GunneryServerBase.desc }
+    .desc = {ent-GunneryServerBase.desc}
 
 ent-GunneryServerStation = servidor de controle de artilharia de estação
-    .desc = { ent-GunneryServerBase.desc }
+    .desc = {ent-GunneryServerBase.desc}
 
-ent-GunneryServerStationConsolesEnforced = { ent-GunneryServerStation }
+ent-GunneryServerStationConsolesEnforced = {ent-GunneryServerStation}
+    .desc = {ent-GunneryServerStation.desc}
     .suffix = Máximo de Consoles Forçado
-    .desc = { ent-GunneryServerStation.desc }
 
 ent-GunneryServerUltra = servidor de controle de artilharia de ultra potência
-    .desc = { ent-GunneryServerBase.desc }
+    .desc = {ent-GunneryServerBase.desc}
 
 # From: _Mono/Entities/Structures/Machines/frames/frame_2x1.yml
 
 ent-MachineFrame2x1 = estrutura de máquina (2x1)
     .suffix = Pronta
-    .desc = { ent-UnfinishedMachineFrame2x1.desc }
+    .desc = {ent-UnfinishedMachineFrame2x1.desc}
 
 ent-MachineFrameDestroyed2x1 = estrutura de máquina destruída (2x1)
 
@@ -6615,7 +6618,7 @@ ent-UnfinishedMachineFrame2x1 = estrutura de máquina (2x1)
 
 ent-MachineFrame2x2 = estrutura de máquina (2x2)
     .suffix = Pronta
-    .desc = { ent-UnfinishedMachineFrame2x2.desc }
+    .desc = {ent-UnfinishedMachineFrame2x2.desc}
 
 ent-MachineFrameDestroyed2x2 = estrutura de máquina destruída (2x2)
 
@@ -6627,7 +6630,7 @@ ent-UnfinishedMachineFrame2x2 = estrutura de máquina (2x2)
 
 ent-MachineFrame3x2 = estrutura de máquina (3x2)
     .suffix = Pronta
-    .desc = { ent-UnfinishedMachineFrame3x2.desc }
+    .desc = {ent-UnfinishedMachineFrame3x2.desc}
 
 ent-MachineFrameDestroyed3x2 = estrutura de máquina destruída (3x2)
 
@@ -6639,7 +6642,7 @@ ent-UnfinishedMachineFrame3x2 = estrutura de máquina (3x2)
 
 ent-MachineFrame3x3 = estrutura de máquina (3x3)
     .suffix = Pronta
-    .desc = { ent-UnfinishedMachineFrame3x3.desc }
+    .desc = {ent-UnfinishedMachineFrame3x3.desc}
 
 ent-MachineFrameDestroyed3x3 = estrutura de máquina destruída (3x3)
 
@@ -7156,6 +7159,7 @@ ent-WeaponCaseWspr = {ent-WeaponCaseLong}
     .suffix = Dungeon, WSPR
 
 ent-LockerWallEVAColorDMEFilled = {ent-LockerWallEVAColorDME}
+    .desc = {ent-LockerWallEVAColorDME.desc}
     .suffix = Cheio
 
 ent-ClosetMaintenanceFilledRandomMono = {ent-ClosetMaintenance}
@@ -7163,78 +7167,103 @@ ent-ClosetMaintenanceFilledRandomMono = {ent-ClosetMaintenance}
     .suffix = Cheio, Aleatório, Mono
 
 ent-SuitStorageWallmountEVAAtmosTech = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Técnico de Atmosferia
 
 ent-SuitStorageWallmountEVABoxerBlue = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Boxer, Azul
 
 ent-SuitStorageWallmountEVABoxerGreen = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Boxer, Green
 
 ent-SuitStorageWallmountEVABoxerRandom = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Boxer, Random
 
 ent-SuitStorageWallmountEVABoxerRed = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Boxer, Vermelho
 
 ent-SuitStorageWallmountEVABoxerYellow = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Boxer, Amarelo
 
 ent-SuitStorageWallmountEVACaptain = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Capitão.
 
 ent-SuitStorageWallmountEVACargo = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Técnico de Carga
 
 ent-SuitStorageWallmountEVAChaplain = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Capelão
 
 ent-SuitStorageWallmountEVAContractor = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Empreiteiro
 
 ent-SuitStorageWallmountEVAEngineer = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Engenheiro
 
 ent-SuitStorageWallmountEVAGoblin = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Duende
 
 ent-SuitStorageWallmountEVAHydro = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Hidropônica
 
 ent-SuitStorageWallmountEVAJanitor = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, zelador.
 
 ent-SuitStorageWallmountEVAMail = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Transportador de Correio
 
 ent-SuitStorageWallmountEVAMedical = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Médico Doutor.
 
 ent-SuitStorageWallmountEVAMercenary = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Mercenário
 
 ent-SuitStorageWallmountEVANfsd = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, TCFMC
 
 ent-SuitStorageWallmountEVAPilot = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Piloto
 
 ent-SuitStorageWallmountEVAPrivateSec = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Segurança Privada
 
 ent-SuitStorageWallmountEVASalvage = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Especialista em Salvage
 
 ent-SuitStorageWallmountEVAScientist = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Cientista
 
 ent-SuitStorageWallmountEVAServiceWorker = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Trabalhador de Serviço
 
 ent-SuitStorageWallmountEVASr = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Ligação Colonial
 
 ent-SuitStorageWallmountParamedic = {ent-SuitStorageWallmount}
+    .desc = {ent-SuitStorageWallmount.desc}
     .suffix = EVA, Paramédico
 
 ent-SuitStorageCommissar = {ent-SuitStorageBase}
@@ -7322,6 +7351,7 @@ ent-AFInterceptorMFilled = {ent-AFInterceptorM}
     .suffix = Bateria, cheia.
 
 ent-SalvageSpawnerPlastitaniumCommon = {ent-SalvageSpawnerScrapCommon}
+    .desc = {ent-SalvageSpawnerScrapCommon.desc}
     .suffix = Plastânio, 1-3
 
 ent-SpawnerPlastitaniumCommon =
@@ -7330,6 +7360,7 @@ ent-SpawnerPlastitaniumCommon =
 ent-ScrapProcessorRollTrunk = O processador de sucata rolou o porta-malas.
 
 ent-MaterialDiamond5 = {ent-MaterialDiamond}
+    .desc = {ent-MaterialDiamond.desc}
     .suffix = Salvage
 
 ent-MaterialPyrogel1 = {ent-MaterialPyrogel}
@@ -7597,9 +7628,11 @@ ent-SheetLithium50 = {ent-MaterialLithium}
     .suffix = 50
 
 ent-CopperOre1 = {ent-CopperOre}
+    .desc = {ent-CopperOre.desc}
     .suffix = Solteiro
 
 ent-LithiumOre1 = {ent-LithiumOre}
+    .desc = {ent-LithiumOre.desc}
     .suffix = Solteiro
 
 ent-GooglyEyesAdmeme = {ent-GooglyEyes}
@@ -8495,55 +8528,63 @@ ent-ComputerTabletopShuttleTSFNVWS = {ent-ComputerShuttleTSFNVWS}
     .suffix = Tabletop, TSFN/TSFMC VWS
 
 ent-FaxMachinePDVJupiter = {ent-FaxMachineBase}
-    .suffix = PDI, PDV Júpiter
     .desc = {ent-FaxMachineBase.desc}
+    .suffix = PDI, PDV Júpiter
 
 ent-FaxMachineUSSP = {ent-FaxMachineBase}
-    .suffix = POI, USSP
     .desc = {ent-FaxMachineBase.desc}
+    .suffix = POI, USSP
 
 ent-FaxMachineUSSPCommisar = {ent-FaxMachineBase}
-    .suffix = POI, Comissão do USSP
     .desc = {ent-FaxMachineBase.desc}
+    .suffix = POI, Comissão do USSP
 
 ent-HolopadCommissarBaikal = {ent-NFHolopadShip}
-    .suffix = Comissário da USSP
     .desc = {ent-NFHolopadShip.desc}
+    .suffix = Comissário da USSP
 
 ent-HolopadJupiter = {ent-NFHolopadShip}
-    .suffix = PDV Júpiter
     .desc = {ent-NFHolopadShip.desc}
+    .suffix = PDV Júpiter
 
 ent-HolopadUSSPBaikal = {ent-NFHolopadShip}
-    .suffix = USSP Baikal, POI
     .desc = {ent-NFHolopadShip.desc}
+    .suffix = USSP Baikal, POI
 
 ent-HolopadVG = {ent-NFHolopadShip}
-    .suffix = VG, Camelot.
     .desc = {ent-NFHolopadShip.desc}
+    .suffix = VG, Camelot.
 
 ent-CopperOre15 = {ent-CopperOre}
+    .desc = {ent-CopperOre.desc}
     .suffix = Quinze.
 
 ent-GoldOre15 = {ent-GoldOre}
+    .desc = {ent-GoldOre.desc}
     .suffix = Quinze.
 
 ent-LithiumOre15 = {ent-LithiumOre}
+    .desc = {ent-LithiumOre.desc}
     .suffix = Quinze.
 
 ent-PlasmaOre15 = {ent-PlasmaOre}
+    .desc = {ent-PlasmaOre.desc}
     .suffix = Quinze.
 
 ent-SilverOre15 = {ent-SilverOre}
+    .desc = {ent-SilverOre.desc}
     .suffix = Quinze.
 
 ent-SpaceQuartz15 = {ent-SpaceQuartz}
+    .desc = {ent-SpaceQuartz.desc}
     .suffix = Quinze.
 
 ent-SteelOre15 = {ent-SteelOre}
+    .desc = {ent-SteelOre.desc}
     .suffix = Quinze.
 
 ent-UraniumOre15 = {ent-UraniumOre}
+    .desc = {ent-UraniumOre.desc}
     .suffix = Quinze.
 
 ent-FactionLatheImmmovable = {ent-FactionLathe}
@@ -8567,6 +8608,7 @@ ent-NuclearReactorCC = {ent-BaseNuclearReactor}
     .suffix = Supervisor Trancado
 
 ent-NuclearReactorCCSmall = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = Supervisor Trancado
 
 ent-NuclearReactorPDV = {ent-BaseNuclearReactor}
@@ -8574,6 +8616,7 @@ ent-NuclearReactorPDV = {ent-BaseNuclearReactor}
     .suffix = PDV Denasvar bloqueado
 
 ent-NuclearReactorPDVSmall = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = PDV Denasvar bloqueado
 
 ent-NuclearReactorTSF = {ent-BaseNuclearReactor}
@@ -8581,6 +8624,7 @@ ent-NuclearReactorTSF = {ent-BaseNuclearReactor}
     .suffix = TSF FTL bloqueado
 
 ent-NuclearReactorTSFSmall = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = TSF FTL bloqueado
 
 ent-NuclearReactorUnaffiliated = {ent-BaseNuclearReactor}
@@ -8588,6 +8632,7 @@ ent-NuclearReactorUnaffiliated = {ent-BaseNuclearReactor}
     .suffix = Não afiliado, Capitão Bloqueado.
 
 ent-NuclearReactorUnaffiliatedSmall = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = Não afiliado, Capitão Bloqueado.
 
 ent-NuclearReactorUSSP = {ent-BaseNuclearReactor}
@@ -8595,6 +8640,7 @@ ent-NuclearReactorUSSP = {ent-BaseNuclearReactor}
     .suffix = USSP Serzhant bloqueado
 
 ent-NuclearReactorUSSPSmall = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = USSP Serzhant bloqueado
 
 ent-GeneratorCRPinchShuttle = {ent-GeneratorCRPinch}
@@ -8602,27 +8648,35 @@ ent-GeneratorCRPinchShuttle = {ent-GeneratorCRPinch}
     .suffix = Plasma, Rad+, 105 kW, nave.
 
 ent-ThrusterLargePartsT2 = {ent-ThrusterLarge}
+    .desc = {ent-ThrusterLarge.desc}
     .suffix = Peças T2
 
 ent-ThrusterLargeNfsd = {ent-ThrusterLarge}
+    .desc = {ent-ThrusterLarge.desc}
     .suffix = TSFMC
 
 ent-DebugThrusterRogue = {ent-DebugThrusterSecurity}
+    .desc = {ent-DebugThrusterSecurity.desc}
     .suffix = DEBUG, Rogue.
 
 ent-ThrusterLargeRogue = {ent-ThrusterLarge}
+    .desc = {ent-ThrusterLarge.desc}
     .suffix = Rogue.
 
 ent-ThrusterRogue = {ent-ThrusterSecurity}
+    .desc = {ent-ThrusterSecurity.desc}
     .suffix = Rogue.
 
 ent-DebugThrusterUSSP = {ent-DebugThrusterSecurity}
+    .desc = {ent-DebugThrusterSecurity.desc}
     .suffix = DEBUG, USSP
 
 ent-ThrusterLargeUSSP = {ent-ThrusterLarge}
+    .desc = {ent-ThrusterLarge.desc}
     .suffix = USSP
 
 ent-ThrusterUSSP = {ent-ThrusterSecurity}
+    .desc = {ent-ThrusterSecurity.desc}
     .suffix = USSP
 
 ent-GyroscopeDebugStrength = {ent-Gyroscope}
@@ -8630,15 +8684,19 @@ ent-GyroscopeDebugStrength = {ent-Gyroscope}
     .suffix = Força de depuração
 
 ent-ThrusterDebugStrength = {ent-ThrusterSecurity}
+    .desc = {ent-ThrusterSecurity.desc}
     .suffix = Força de depuração
 
 ent-ThrusterPartsT2 = {ent-Thruster}
+    .desc = {ent-Thruster.desc}
     .suffix = Peças T2
 
 ent-LockableButtonUSSP = {ent-LockableButton}
+    .desc = {ent-LockableButton.desc}
     .suffix = USSP
 
 ent-LockableButtonViper = {ent-LockableButton}
+    .desc = {ent-LockableButton.desc}
     .suffix = Viper.
 
 ent-WallPlastitaniumOutpost = {ent-WallPlastitanium}
@@ -8674,20 +8732,26 @@ ent-WindowTimedSeal60Minutes = {ent-WindowTimedSeal}
     .suffix = 60 Minutos, indestrutível.
 
 ent-MailMonoAK = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = AK
 
 ent-MailMonoC20r = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = C20r.
 
 ent-MailMonoC4 = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = C4
 
 ent-MailMonoDesword = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = Desword
 
 ent-MailMonoERTMailKit = {ent-BaseMailLarge}
+    .desc = {ent-BaseMailLarge.desc}
     .suffix = ErtMailKit
 
 ent-MailMonoRCD = {ent-BaseMail}
+    .desc = {ent-BaseMail.desc}
     .suffix = RCD
 

@@ -81,16 +81,16 @@ ent-NuclearDebrisChunk = destroços nucleares
     .desc = Você não vê a grafite no chão. Você está em choque. Procure atendimento médico.
 
 ent-NuclearReactorEmpty = {ent-BaseNuclearReactor}
-    .suffix = Vazio
     .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Vazio
 
 ent-NuclearReactorEmptySalvage = {ent-BaseNuclearReactor}
-    .suffix = Vazio, Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Vazio, Salvagem
 
 ent-NuclearReactorMeltdown = {ent-BaseNuclearReactor}
-    .suffix = Fusão
     .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Fusão
 
 ent-NuclearReactorMelted = {ent-BaseNuclearReactor}
     .suffix = Derretido
@@ -104,16 +104,16 @@ ent-NuclearReactorNormal = {ent-BaseNuclearReactor}
     .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorNormalSalvage = {ent-BaseNuclearReactor}
-    .suffix = Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Salvagem
 
 ent-NuclearReactorRandom = {ent-BaseNuclearReactor}
-    .suffix = Aleatório
     .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Aleatório
 
 ent-NuclearReactorRandomSalvage = {ent-BaseNuclearReactor}
-    .suffix = Aleatório, Salvagem
     .desc = {ent-BaseNuclearReactor.desc}
+    .suffix = Aleatório, Salvagem
 
 ent-NuclearReactorSmall = reator nuclear pequeno
 
@@ -126,12 +126,12 @@ ent-NuclearReactorSmallMeltedSalvage = {ent-NuclearReactorSmall}
     .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorSmallRandom = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = Aleatório
-    .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorSmallRandomSalvage = {ent-NuclearReactorSmall}
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = Aleatório, Salvagem
-    .desc = {ent-BaseNuclearReactor.desc}
 
 ent-NuclearReactorSmallSalvage = reator nuclear pequeno
     .suffix = Salvagem

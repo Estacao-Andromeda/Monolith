@@ -113,8 +113,8 @@ ent-ClothingModsuitAtmostech = Unidade de Controle de Traje rígido Aeolus de T�
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
+    .desc = {ent-ClothingModsuitAtmostech.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 # Abstract entity (referenceable by children)
 
@@ -125,50 +125,50 @@ ent-ClothingModsuitCaptain = Unidade de Controle de Traje rígido Magnata do Cap
     .desc = Uma traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
 
 ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
+    .desc = {ent-ClothingModsuitCaptain.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 ent-ClothingModsuitEngineer = Unidade de Controle de Traje rígido Sapador do Engenheiro
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitEngineer}
+    .desc = {ent-ClothingModsuitEngineer.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje rígido Baluarte do Chefe de Segurança
     .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o chefe de segurança.
 
 ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitHeadOfSecurity}
+    .desc = {ent-ClothingModsuitHeadOfSecurity.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 ent-ClothingModsuitParamedic = Unidade de Controle de Traje rígido Sanitária
     .desc = Uma unidade modular de controle de traje rígido para paramédicos.
 
 ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitParamedic}
+    .desc = {ent-ClothingModsuitParamedic.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje rígido Minerva do DR
     .desc = Uma unidade modular de controle de traje rígido para suportar outro ônibus-bomba.
 
 ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitResearchDirector}
+    .desc = {ent-ClothingModsuitResearchDirector.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 ent-ClothingModsuitSecurity = Unidade de Controle de Traje rígido Soldado da Segurança
     .desc = Uma unidade robusta modular de controle de traje rígido para bater em comunistas no espaço.
 
 ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitSecurity}
+    .desc = {ent-ClothingModsuitSecurity.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 ent-ClothingModsuitStandard = Unidade de Traje rígido Modular Padrão
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
 ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitStandard}
+    .desc = {ent-ClothingModsuitStandard.desc}
     .suffix = Bateria de Alta Capacidade
-    .desc = {ent-ClothingModsuitBase.desc}
 
 # From: _Goobstation/Entities/Clothing/Back/specific.yml
 
@@ -842,8 +842,8 @@ ent-BaseImplantOnlyImplanterCentcomm = Implantador CentComm
     .desc = Uma seringa compacta descartável exclusivamente projetada para injeção de implantes subdérmicos. A agulha de inserção é revestida com anestésico.
 
 ent-BluespaceLifelineImplanter = {ent-BaseImplantOnlyImplanterCentcomm}
-    .suffix = Linha de Vida Bluespace
     .desc = {ent-BaseImplantOnlyImplanterCentcomm.desc}
+    .suffix = Linha de Vida Bluespace
 
 # From: _Goobstation/Entities/Objects/Misc/nuclear_override_card.yml
 
@@ -1342,10 +1342,10 @@ ent-UnfinishedWelderSword = espada de soldador inacabada
     .desc = Uma montagem crua de peças que lembra vagamente uma arma. É completamente não funcional.
 
 ent-UnfinishedWelderSwordExperimental = espada de soldador experimental inacabada
-    .desc = { ent-UnfinishedWelderSword.desc }
+    .desc = {ent-UnfinishedWelderSword.desc}
 
 ent-UnfinishedWelderSwordIndustrial = espada de soldador industrial inacabada
-    .desc = { ent-UnfinishedWelderSword.desc }
+    .desc = {ent-UnfinishedWelderSword.desc}
 
 # From: _Goobstation/Entities/Objects/Weapons/Melee/hammer.yml
 
@@ -1404,7 +1404,7 @@ ent-HeatExchangerInline = radiador contínuo
     .desc = Transfere calor entre o tubo e seus arredores. Não precisa de fluxo de gás.
 
 ent-HeatExchangerInlineBend = radiador contínuo curvado
-    .desc = { ent-HeatExchangerInline.desc }
+    .desc = {ent-HeatExchangerInline.desc}
 
 ent-ClothingBeltHolsterFilledCentComm = {ent-ClothingBeltHolster}
     .desc = {ent-ClothingBeltHolster.desc}
@@ -1455,9 +1455,11 @@ ent-ClothingShoesBootsChronoUnremoveable = {ent-ClothingShoesBootsChrono}
     .suffix = Não removível
 
 ent-MaterialHexNutSingle = {ent-MaterialHexNut}
+    .desc = {ent-MaterialHexNut.desc}
     .suffix = Solteiro
 
 ent-MaterialScrewSingle = {ent-MaterialScrew}
+    .desc = {ent-MaterialScrew.desc}
     .suffix = Solteiro
 
 ent-MechClarkeBattery = {ent-MechClarke}

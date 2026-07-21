@@ -54,6 +54,7 @@ ent-MobResomi = Enzo Galinha da Silva
 # Abstract entity (referenceable by children)
 
 ent-BaseMobResomi = {ent-MobResomi}
+    .desc = {ent-MobResomi.desc}
 
 ent-MobResomiDummy = {ent-MobResomi}
     .desc = Um boneco resomi destinado a ser usado na configuração de personagem.
