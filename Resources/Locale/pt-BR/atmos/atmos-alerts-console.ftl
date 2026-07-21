@@ -7,7 +7,7 @@ atmos-alerts-window-tab-alerts = Alertas ({$value})
 atmos-alerts-window-tab-air-alarms = Alarmes de ar
 atmos-alerts-window-tab-fire-alarms = Alarmes de incêndio
 
-atmos-alerts-window-alarm-label ={CAPITALIZE($nome)} ({$address})
+atmos-alerts-window-alarm-label ={CAPITALIZE($name)} ({$address})
 atmos-alerts-window-temperature-label = Temperatura
 atmos-alerts-window-temperature-value = {$valueInC} °C ({$valueInK} K)
 atmos-alerts-window-invalid-value = N/A

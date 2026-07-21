@@ -1,5 +1,5 @@
 automation-filter-examine-empty =[color=red]Esse filtro ainda não foi configurado.[/color]
-automation-filter-examine-string =Esse filtro está configurado para '{$nome}'
+automation-filter-examine-string =Esse filtro está configurado para '{$name}'
 stack-filter-examine = Esse filto está configurado para um mínimo de [color=green]{$size}[/color] items em uma pilha.
 combined-filter-examine = Esse filto está configurado para {INDEFINITE($gate)} [color=green]{$gate}[/color] de comparação com seus inputs.
 pressure-filter-examine = Esse filto está configurado para entre [color=green]{$min}[/color] kPa e [color=green]{$max}[/color] kPa.

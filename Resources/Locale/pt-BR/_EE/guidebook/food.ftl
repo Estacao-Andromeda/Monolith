@@ -2,9 +2,9 @@ guidebook-food-name = [bold][color={$color}]{CAPITALIZE($name)}[/color][/bold]
 guidebook-food-unknown-proto = Prototipo desconhecido
 # Frontier
 guidebook-food-recipes-header = Receitas
-guidebook-food-recipes-ent-wrapper =[bold]{$nome}[/bold] \[{$amount}\]
+guidebook-food-recipes-ent-wrapper =[bold]{$name}[/bold] \[{$amount}\]
 guidebook-food-sources-header = Fontes
-guidebook-food-sources-ent-wrapper =[bold]{$nome}[/bold] \[1\]
+guidebook-food-sources-ent-wrapper =[bold]{$name}[/bold] \[1\]
 # Frontier: Chemical composition<Nutritional Value
 guidebook-food-reagents-header = Valor Nutricional
 
@@ -17,10 +17,10 @@ guidebook-food-processing-deep-fry ={CAPITALIZE($processingTypes)} para {$time} 
 guidebook-food-processing-reaction = Misturar
 
 guidebook-food-processing-recipe = {$ingredients}
-guidebook-food-ingredient-solid =[bold]{$nome}[/bold] \[{$amount}\]
-guidebook-food-ingredient-liquid =[bold]{$nome}[/bold] \[{$amount}u\]
+guidebook-food-ingredient-solid =[bold]{$name}[/bold] \[{$amount}\]
+guidebook-food-ingredient-liquid =[bold]{$name}[/bold] \[{$amount}u\]
 
-guidebook-food-output =[bold]{$nome}[/bold] \[{$number}\]
+guidebook-food-output =[bold]{$name}[/bold] \[{$number}\]
 
 # Frontier: processing types
 guidebook-food-processing-type-microwave = micro-ondas
