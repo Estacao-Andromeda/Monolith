@@ -16,7 +16,7 @@
 
 - type: gameMap
   id: Hermes
-  mapName: gamemap-Hermes-name
+  mapName: "TPC Hermes"
   mapPath: /SharedMaps/_Mono/Shuttles/hermes.yml
   minPlayers: 0
   stations:

@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Grifty
-  mapName: gamemap-Grifty-name
+  mapName: "Grifty Gas e Lanche"
   mapPath: /Maps/_NF/POI/grifty.yml
   minPlayers: 0
   stations:

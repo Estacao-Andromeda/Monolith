@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Strayk
-  mapName: gamemap-Strayk-name
+  mapName: "Strayk"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/strayk.yml
   minPlayers: 0
   stations:

@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Prowler
-  mapName: gamemap-Prowler-name
+  mapName: "Prowler"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/prowler.yml
   minPlayers: 0
   stations:

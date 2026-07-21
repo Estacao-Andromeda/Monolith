@@ -16,7 +16,7 @@
 
 - type: gameMap
   id: StratoRat
-  mapName: gamemap-StratoRat-name
+  mapName: "HES Strato-Rat"
   mapPath: /SharedMaps/_Mono/Shuttles/Carrier/stratorat.yml
   minPlayers: 0
   stations:

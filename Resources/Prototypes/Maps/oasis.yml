@@ -1,6 +1,6 @@
 - type: gameMap
   id: Oasis
-  mapName: gamemap-Oasis-name
+  mapName: "Oasis"
   mapPath: /Maps/oasis.yml
   minPlayers: 70
   stations:

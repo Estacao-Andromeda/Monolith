@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Arkansaw
-  mapName: gamemap-Arkansaw-name
+  mapName: "COG Arkansaw"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/arkansaw.yml
   minPlayers: 0
   stations:

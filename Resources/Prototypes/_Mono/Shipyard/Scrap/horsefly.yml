@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Horsefly
-  mapName: gamemap-Horsefly-name
+  mapName: "Horsefly"
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/horsefly.yml
   minPlayers: 0
   stations:

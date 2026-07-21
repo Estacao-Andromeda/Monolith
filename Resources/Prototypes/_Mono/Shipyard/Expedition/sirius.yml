@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Sirius
-  mapName: gamemap-Sirius-name
+  mapName: "Sirius"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/sirius.yml
   minPlayers: 0
   stations:

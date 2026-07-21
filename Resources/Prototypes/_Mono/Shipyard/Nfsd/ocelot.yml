@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Ocelot
-  mapName: gamemap-Ocelot-name
+  mapName: "Ocelot"
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/ocelot.yml
   minPlayers: 0
   stations:

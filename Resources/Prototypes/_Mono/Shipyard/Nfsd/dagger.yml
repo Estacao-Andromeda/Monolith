@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Dagger
-  mapName: gamemap-Dagger-name
+  mapName: "Dagger"
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/dagger.yml
   minPlayers: 0
   stations:

@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Tokarev
-  mapName: gamemap-Tokarev-name
+  mapName: "VIN Tokarev"
   mapPath: /SharedMaps/_Mono/Shuttles/tokarev.yml
   minPlayers: 0
   stations:

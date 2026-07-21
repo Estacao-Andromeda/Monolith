@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Spekter
-  mapName: gamemap-Spekter-name
+  mapName: "Spekter"
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/spekter.yml
   minPlayers: 0
   stations:

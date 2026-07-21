@@ -30,7 +30,7 @@
 
 - type: gameMap
   id: USSPCamelot
-  mapName: gamemap-USSPCamelot-name
+  mapName: "Porto Livre Camelot"
   mapPath: /Maps/_Mono/POI/camelot.yml
   minPlayers: 0
   stations:

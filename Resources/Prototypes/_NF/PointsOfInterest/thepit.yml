@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: ThePit
-  mapName: gamemap-ThePit-name
+  mapName: "O Poço"
   mapPath: /Maps/_NF/POI/arena.yml
   minPlayers: 0
   stations:

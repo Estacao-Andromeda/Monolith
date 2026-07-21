@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Tinnia
-  mapName: gamemap-Tinnia-name
+  mapName: "Descanso de Tinnia"
   mapPath: /Maps/_NF/POI/tinnia.yml
   minPlayers: 0
   stations:

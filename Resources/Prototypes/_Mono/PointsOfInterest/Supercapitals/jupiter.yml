@@ -32,7 +32,7 @@
 
 - type: gameMap
   id: Jupiter
-  mapName: gamemap-Jupiter-name
+  mapName: "Porta-Naves PDV Classe Júpter"
   mapPath: /Maps/_Mono/Supercapitals/jupiter.yml
   minPlayers: 0
   stations:

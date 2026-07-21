@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Siebel
-  mapName: gamemap-Siebel-name
+  mapName: "MI Siebel"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/siebel.yml
   minPlayers: 0
   stations:

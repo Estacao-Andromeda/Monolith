@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Razorback
-  mapName: gamemap-Razorback-name
+  mapName: "Razorback"
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/razorback.yml
   minPlayers: 0
   stations:

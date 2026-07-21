@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Archer
-  mapName: gamemap-Archer-name
+  mapName: "TSF-SKR Archer"
   mapPath: /SharedMaps/_Mono/Shuttles/archer.yml
   minPlayers: 0
   stations:

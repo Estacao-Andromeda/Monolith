@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Remontnik
-  mapName: gamemap-Remontnik-name
+  mapName: "Remontnik"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/remontnik.yml
   minPlayers: 0
   stations:

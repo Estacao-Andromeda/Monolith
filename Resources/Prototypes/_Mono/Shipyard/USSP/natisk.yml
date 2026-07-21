@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: Natisk
-  mapName: gamemap-Natisk-name
+  mapName: "Natisk"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/natisk.yml
   minPlayers: 0
   stations:

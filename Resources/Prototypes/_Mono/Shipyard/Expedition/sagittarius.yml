@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Sagittarius
-  mapName: gamemap-Sagittarius-name
+  mapName: "HT Sagittarius"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/sagittarius.yml
   minPlayers: 0
   stations:

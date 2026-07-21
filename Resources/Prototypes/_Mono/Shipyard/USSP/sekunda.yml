@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Sekunda
-  mapName: gamemap-Sekunda-name
+  mapName: "Sekunda"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/sekunda.yml
   minPlayers: 0
   stations:

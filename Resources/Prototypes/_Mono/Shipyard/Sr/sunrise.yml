@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Sunrise
-  mapName: gamemap-Sunrise-name
+  mapName: "Sunrise"
   mapPath: /SharedMaps/_Mono/Shuttles/sunrise.yml
   minPlayers: 0
   stations:

@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Tiger
-  mapName: gamemap-Tiger-name
+  mapName: "NSK Tiger"
   mapPath: /SharedMaps/_Mono/Shuttles/tiger.yml
   minPlayers: 0
   stations:

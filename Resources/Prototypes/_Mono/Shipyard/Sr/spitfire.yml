@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Spitfire
-  mapName: gamemap-Spitfire-name
+  mapName: "Spitfire"
   mapPath: /SharedMaps/_Mono/Shuttles/spitfire.yml
   minPlayers: 0
   stations:

@@ -36,7 +36,7 @@
 
 - type: gameMap
   id: LPBravo
-  mapName: gamemap-LPBravo-name
+  mapName: "Posto de Escuta Bravo"
   mapPath: /Maps/_NF/POI/lpbravo.yml
   minPlayers: 0
   stations:

@@ -28,7 +28,7 @@
 
 - type: gameMap
   id: HeliosFortress
-  mapName: gamemap-HeliosFortress-name
+  mapName: "Fortaleza PDV Helios"
   mapPath: /Maps/_Mono/POI/pdvhelios.yml
   minPlayers: 0
   stations:
@@ -76,7 +76,7 @@
 
 - type: gameMap
   id: HeliosFortressHyperwar
-  mapName: gamemap-HeliosFortressHyperwar-name
+  mapName: "Fortaleza PDV Helios"
   mapPath: /Maps/_Mono/POI/pdvhelios_hw.yml
   minPlayers: 0
   stations:

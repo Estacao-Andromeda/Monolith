@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Femur
-  mapName: gamemap-Femur-name
+  mapName: "DIS Femur"
   mapPath: /SharedMaps/_Mono/Shuttles/femur.yml
   minPlayers: 0
   stations:

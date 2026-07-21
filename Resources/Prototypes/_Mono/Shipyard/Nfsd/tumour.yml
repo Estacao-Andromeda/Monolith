@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Tumour
-  mapName: gamemap-Tumour-name
+  mapName: "Tumour"
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/tumour.yml
   minPlayers: 0
   stations:

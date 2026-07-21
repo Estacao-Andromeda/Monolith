@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Kalisto
-  mapName: gamemap-Kalisto-name
+  mapName: "PDV Kalisto"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/kalisto.yml
   minPlayers: 0
   stations:

@@ -25,7 +25,7 @@
 
 - type: gameMap
   id: Flyssa
-  mapName: gamemap-Flyssa-name
+  mapName: "TSF-SKR Flyssa-K"
   mapPath: /SharedMaps/_Mono/Shuttles/Capitals/flyssa.yml
   minPlayers: 0
   stations:

@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: caracara
-  mapName: gamemap-caracara-name
+  mapName: "MI Caracara"
   mapPath: /SharedMaps/_Mono/Shuttles/caracara.yml
   minPlayers: 0
   stations:

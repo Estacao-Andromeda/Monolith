@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Polaris
-  mapName: gamemap-Polaris-name
+  mapName: "Centro de Biopesquisa Polaris"
   mapPath: /Maps/_Mono/POI/Dungeons/polaris.yml
   minPlayers: 0
   stations:

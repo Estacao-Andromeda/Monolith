@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: Tethys
-  mapName: gamemap-Tethys-name
+  mapName: "PDV Tethys"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/tethys.yml
   minPlayers: 0
   stations:

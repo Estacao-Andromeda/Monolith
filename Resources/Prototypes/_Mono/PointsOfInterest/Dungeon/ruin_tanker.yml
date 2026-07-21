@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: AutomatedTanker
-  mapName: gamemap-AutomatedTanker-name
+  mapName: "Cargueiro Automatizado Intersetorial"
   mapPath: /Maps/_Mono/POI/Dungeons/ruin_tanker.yml
   minPlayers: 0
   stations:

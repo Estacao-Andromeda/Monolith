@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Tick
-  mapName: gamemap-Tick-name
+  mapName: "GSI Tick"
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/tick.yml
   minPlayers: 0
   stations:

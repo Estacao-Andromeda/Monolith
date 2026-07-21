@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Judiciary
-  mapName: gamemap-Judiciary-name
+  mapName: "Judiciary"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/judiciary.yml
   minPlayers: 0
   stations:

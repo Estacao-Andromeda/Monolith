@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Metis
-  mapName: gamemap-Metis-name
+  mapName: "PDV Metis"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/metis.yml
   minPlayers: 0
   stations:

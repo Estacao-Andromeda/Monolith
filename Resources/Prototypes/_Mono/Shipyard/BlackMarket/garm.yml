@@ -19,7 +19,7 @@
 
 - type: gameMap
   id: Garm
-  mapName: gamemap-Garm-name
+  mapName: "WEN Garm"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/garm.yml
   minPlayers: 0
   stations:

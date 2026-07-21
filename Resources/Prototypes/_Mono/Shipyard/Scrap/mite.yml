@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Mite
-  mapName: gamemap-Mite-name
+  mapName: "Mite"
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/mite.yml
   minPlayers: 0
   stations:

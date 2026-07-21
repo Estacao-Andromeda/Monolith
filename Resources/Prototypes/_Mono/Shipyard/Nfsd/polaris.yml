@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: TSFNPolaris
-  mapName: gamemap-TSFNPolaris-name
+  mapName: "Polaris"
   mapPath: /SharedMaps/_Mono/Shuttles/Nfsd/polaris.yml
   minPlayers: 0
   stations:

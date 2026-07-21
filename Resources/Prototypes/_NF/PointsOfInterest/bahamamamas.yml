@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Bahama
-  mapName: gamemap-Bahama-name
+  mapName: "Mama Bahama"
   mapPath: /Maps/_NF/POI/bahama.yml
   minPlayers: 0
   stations:

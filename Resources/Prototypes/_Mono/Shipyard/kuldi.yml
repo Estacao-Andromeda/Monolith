@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Kuldi
-  mapName: gamemap-Kuldi-name
+  mapName: "DWI Kuldi"
   mapPath: /SharedMaps/_Mono/Shuttles/kuldi.yml
   minPlayers: 0
   stations:

@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Venom
-  mapName: gamemap-Venom-name
+  mapName: "VG Venom"
   mapPath: /SharedMaps/_Mono/Shuttles/Viper/venom.yml
   minPlayers: 0
   stations:

@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Tayfun
-  mapName: gamemap-Tayfun-name
+  mapName: "Tayfun"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/tayfun.yml
   minPlayers: 0
   stations:

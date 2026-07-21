@@ -26,7 +26,7 @@
 
 - type: gameMap
   id: Intermission
-  mapName: gamemap-Intermission-name
+  mapName: "WA Intermission"
   mapPath: /SharedMaps/_Mono/Shuttles/intermission.yml
   minPlayers: 0
   stations:

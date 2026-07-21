@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Littora
-  mapName: gamemap-Littora-name
+  mapName: "Littora"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/littora.yml
   minPlayers: 0
   stations:

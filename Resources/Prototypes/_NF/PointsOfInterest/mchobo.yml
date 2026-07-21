@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: McHobo
-  mapName: gamemap-McHobo-name
+  mapName: "McCargo Abandonado"
   mapPath: /Maps/_NF/POI/mchobo.yml
   minPlayers: 0
   stations:

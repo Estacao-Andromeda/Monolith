@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Stubby
-  mapName: gamemap-Stubby-name
+  mapName: "UW Stubby"
   mapPath: /SharedMaps/_Mono/Shuttles/stubby.yml
   minPlayers: 0
   stations:

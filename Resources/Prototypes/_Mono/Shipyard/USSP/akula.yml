@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: Akula
-  mapName: gamemap-Akula-name
+  mapName: "Akula"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/akula.yml
   minPlayers: 0
   stations:

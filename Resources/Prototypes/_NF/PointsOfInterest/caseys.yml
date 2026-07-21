@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: CaseysCasino
-  mapName: gamemap-CaseysCasino-name
+  mapName: "Casino do Casey Maluco"
   mapPath: /Maps/_NF/POI/caseyscasino.yml
   minPlayers: 0
   stations:

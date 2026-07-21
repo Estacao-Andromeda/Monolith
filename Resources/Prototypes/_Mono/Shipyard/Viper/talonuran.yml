@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Talonuran
-  mapName: gamemap-Talonuran-name
+  mapName: "VG Talonuran"
   mapPath: /SharedMaps/_Mono/Shuttles/Viper/talonuran.yml
   minPlayers: 0
   stations:

@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Vaquita
-  mapName: gamemap-Vaquita-name
+  mapName: "DIS Vaquita"
   mapPath: /SharedMaps/_Mono/Shuttles/vaquita.yml
   minPlayers: 0
   stations:

@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Chengdu
-  mapName: gamemap-Chengdu-name
+  mapName: "TSFN Chengdu"
   mapPath: /Maps/_Mono/Supercapitals/chengdu.yml
   minPlayers: 0
   stations:

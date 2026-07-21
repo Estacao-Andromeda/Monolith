@@ -16,7 +16,7 @@
 
 - type: gameMap
   id: Solarsail
-  mapName: gamemap-Solarsail-name
+  mapName: "Solarsail"
   mapPath: /SharedMaps/_Mono/Shuttles/solarsail.yml
   minPlayers: 0
   stations:

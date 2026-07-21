@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Odenta
-  mapName: gamemap-Odenta-name
+  mapName: "MI-COR Odenta"
   mapPath: /SharedMaps/_Mono/Shuttles/odenta.yml
   minPlayers: 0
   stations:

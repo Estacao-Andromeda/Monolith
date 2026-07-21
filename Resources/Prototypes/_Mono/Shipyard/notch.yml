@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Notch
-  mapName: gamemap-Notch-name
+  mapName: "DIS Notch"
   mapPath: /SharedMaps/_Mono/Shuttles/notch.yml
   minPlayers: 0
   stations:

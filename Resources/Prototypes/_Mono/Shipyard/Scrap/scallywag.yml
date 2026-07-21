@@ -24,7 +24,7 @@
 
 - type: gameMap
   id: Scallywag
-  mapName: gamemap-Scallywag-name
+  mapName: "RSC-Scallywag"
   mapPath: /SharedMaps/_Mono/Shuttles/Scrap/scallywag.yml
   minPlayers: 0
   stations:

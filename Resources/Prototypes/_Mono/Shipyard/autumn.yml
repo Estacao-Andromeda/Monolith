@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Autumn
-  mapName: gamemap-Autumn-name
+  mapName: "TSF-SKR Autumn"
   mapPath: /SharedMaps/_Mono/Shuttles/autumn.yml
   minPlayers: 0
   stations:

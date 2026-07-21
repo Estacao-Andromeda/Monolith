@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Leaf
-  mapName: gamemap-Leaf-name
+  mapName: "PTR Leaf"
   mapPath: /SharedMaps/_Mono/Shuttles/leaf.yml
   minPlayers: 0
   stations:

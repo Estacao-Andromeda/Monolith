@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Layak
-  mapName: gamemap-Layak-name
+  mapName: "PD-VI Layak"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/layak.yml
   minPlayers: 0
   stations:

@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: AnomalousLab
-  mapName: gamemap-AnomalousLab-name
+  mapName: "Laboratório Anômalo"
   mapPath: /Maps/_Mono/POI/anomalouslab.yml
   minPlayers: 0
   stations:

@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Praetorian
-  mapName: gamemap-Praetorian-name
+  mapName: "TSF-SKR Praetorian"
   mapPath: /SharedMaps/_Mono/Shuttles/praetorian.yml
   minPlayers: 0
   stations:

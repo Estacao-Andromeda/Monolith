@@ -1,6 +1,6 @@
 - type: gameMap
   id: Packed
-  mapName: gamemap-Packed-name
+  mapName: "Packed"
   mapPath: /Maps/packed.yml
   minPlayers: 7
   maxPlayers: 35

@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: Fortunate
-  mapName: gamemap-Fortunate-name
+  mapName: "UNSA Fortunate"
   mapPath: /SharedMaps/_Mono/Shuttles/Expedition/fortunate.yml
   minPlayers: 0
   stations:

@@ -35,7 +35,7 @@
 
 - type: gameMap
   id: TSFMCHalcyon
-  mapName: gamemap-TSFMCHalcyon-name
+  mapName: "Nave-Almirante TSFMC Halcyon"
   mapPath: /Maps/_Mono/POI/tsfmchalcyon.yml
   minPlayers: 0
   randomRotation: false
@@ -91,7 +91,7 @@
 
 - type: gameMap
   id: TSFMCHalcyonHyperwar
-  mapName: gamemap-TSFMCHalcyonHyperwar-name
+  mapName: "Nave-Almirante TSFMC Halcyon"
   mapPath: /Maps/_Mono/POI/tsfmchalcyon_hw.yml
   minPlayers: 0
   randomRotation: false

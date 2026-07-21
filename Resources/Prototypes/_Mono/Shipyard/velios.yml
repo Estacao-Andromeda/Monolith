@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Velios
-  mapName: gamemap-Velios-name
+  mapName: "WLV-Velios"
   mapPath: /SharedMaps/_Mono/Shuttles/velios.yml
   minPlayers: 0
   stations:

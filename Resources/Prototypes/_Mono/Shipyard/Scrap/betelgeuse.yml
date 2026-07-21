@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Betelgeuse
-  mapName: gamemap-Betelgeuse-name
+  mapName: "Betelgeuse"
   mapPath: /SharedMaps/_Mono/Shuttles/betelgeuse.yml
   minPlayers: 0
   stations:

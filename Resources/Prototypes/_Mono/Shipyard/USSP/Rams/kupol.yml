@@ -14,7 +14,7 @@
 
 - type: gameMap
   id: Kupol
-  mapName: gamemap-Kupol-name
+  mapName: "Kupol"
   mapPath: /SharedMaps/_Mono/Shuttles/USSP/Ledokol/Attachments/kupol.yml
   minPlayers: 0
   stations:

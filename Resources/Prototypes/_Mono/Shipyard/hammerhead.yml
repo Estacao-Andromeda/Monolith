@@ -27,7 +27,7 @@
 
 - type: gameMap
   id: Hammerhead
-  mapName: gamemap-Hammerhead-name
+  mapName: "UI-SKR Hammerhead"
   mapPath: /SharedMaps/_Mono/Shuttles/hammerhead.yml
   minPlayers: 0
   stations:

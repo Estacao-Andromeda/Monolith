@@ -15,7 +15,7 @@
 
 - type: gameMap
   id: NFDev
-  mapName: gamemap-NFDev-name
+  mapName: "NFDev"
   mapPath: /Maps/_Mono/Test/dev_map.yml # Mono
   minPlayers: 0
   stations:

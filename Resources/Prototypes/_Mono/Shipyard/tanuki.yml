@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Tanuki
-  mapName: gamemap-Tanuki-name
+  mapName: "MI-COR Tanuki"
   mapPath: /SharedMaps/_Mono/Shuttles/tanuki.yml
   minPlayers: 0
   stations:

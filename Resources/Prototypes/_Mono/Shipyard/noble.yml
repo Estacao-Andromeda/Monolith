@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Noble
-  mapName: gamemap-Noble-name
+  mapName: "SKR Noble"
   mapPath: /SharedMaps/_Mono/Shuttles/noble.yml
   minPlayers: 0
   stations:

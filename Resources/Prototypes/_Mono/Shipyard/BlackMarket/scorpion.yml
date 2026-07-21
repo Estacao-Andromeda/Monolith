@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Scorpion
-  mapName: gamemap-Scorpion-name
+  mapName: "PDV Scorpion"
   mapPath: /SharedMaps/_Mono/Shuttles/BlackMarket/scorpion.yml
   minPlayers: 0
   stations:

@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Piva
-  mapName: gamemap-Piva-name
+  mapName: "PB Piva"
   mapPath: /SharedMaps/_Mono/Shuttles/piva.yml
   minPlayers: 0
   stations:

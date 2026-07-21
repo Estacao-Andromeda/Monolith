@@ -1,6 +1,6 @@
 - type: gameMap
   id: Elkridge
-  mapName: gamemap-Elkridge-name
+  mapName: "Elkridge Depot"
   mapPath: /Maps/elkridge.yml
   minPlayers: 15
   maxPlayers: 45

@@ -1,6 +1,6 @@
 - type: gameMap
   id: Amber
-  mapName: gamemap-Amber-name
+  mapName: "Amber"
   mapPath: /Maps/amber.yml
   minPlayers: 15
   maxPlayers: 60

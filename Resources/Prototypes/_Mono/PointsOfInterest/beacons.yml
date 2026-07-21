@@ -16,7 +16,7 @@
 
 - type: gameMap
   id: BeaconClusterA
-  mapName: gamemap-BeaconClusterA-name
+  mapName: "Aglomerado de Asteroides INSO-357k"
   mapPath: /Maps/_Mono/POI/beaconstation_a.yml
   minPlayers: 0
   stations:
@@ -44,7 +44,7 @@
 
 - type: gameMap
   id: BeaconWilds
-  mapName: gamemap-BeaconWilds-name
+  mapName: "Aglomerado de Asteroides LINEAR-21"
   mapPath: /Maps/_Mono/POI/beaconstation_wilds.yml
   minPlayers: 0
   stations:

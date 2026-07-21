@@ -28,7 +28,7 @@
 
 - type: gameMap
   id: Mining
-  mapName: gamemap-Mining-name
+  mapName: "Área Abandonada de Escavação"
   mapPath: /Maps/_Mono/POI/derelictdrillsite.yml
   minPlayers: 0
   stations:

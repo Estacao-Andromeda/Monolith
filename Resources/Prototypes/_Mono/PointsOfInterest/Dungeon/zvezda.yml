@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Zvezda
-  mapName: gamemap-Zvezda-name
+  mapName: "Habitação Orbital Zvezda"
   mapPath: /Maps/_Mono/POI/Dungeons/zvezda.yml
   minPlayers: 0
   stations:

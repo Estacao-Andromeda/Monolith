@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Thorax
-  mapName: gamemap-Thorax-name
+  mapName: "Thorax"
   mapPath: /SharedMaps/_Mono/Shuttles/thorax.yml
   minPlayers: 0
   stations:

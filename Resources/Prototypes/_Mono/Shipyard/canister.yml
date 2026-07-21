@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Canister
-  mapName: gamemap-Canister-name
+  mapName: "HES Phaeron"
   mapPath: /SharedMaps/_Mono/Shuttles/canister.yml
   minPlayers: 0
   stations:

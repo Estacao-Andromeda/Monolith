@@ -26,7 +26,7 @@
 
 - type: gameMap
   id: Framework
-  mapName: gamemap-Framework-name
+  mapName: "UNJ Framework"
   mapPath: /SharedMaps/_Mono/Shuttles/framework.yml
   minPlayers: 0
   stations:

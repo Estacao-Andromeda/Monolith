@@ -20,7 +20,7 @@
 
 - type: gameMap
   id: Olympus
-  mapName: gamemap-Olympus-name
+  mapName: "DIS Olympus"
   mapPath: /SharedMaps/_Mono/Shuttles/olympus.yml
   minPlayers: 0
   stations:
