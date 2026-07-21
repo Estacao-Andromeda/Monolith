@@ -36,3 +36,6 @@ guide-entry-mechs = Mechas
 guide-entry-s1mechs = Mechas da Série 1
 guide-entry-s2mechs = Mechas da Série 2
 guide-entry-s4mechs = Mechas da Série 4
+
+# Z-level
+guidebook-entry-Flight = Vôo
