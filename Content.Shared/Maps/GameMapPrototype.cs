@@ -36,13 +36,13 @@ public sealed partial class GameMapPrototype : IPrototype
     /// Name of the map to use in generic messages, localized.
     /// </summary>
     [ViewVariables(VVAccess.ReadOnly)]
-    public string MapName => _mapName.Id != null || _mapName != "" ? Loc.GetString(_mapName) : _mapName;
+    public string MapName => !string.IsNullOrEmpty(_mapName.Id) ? Loc.GetString(_mapName) : _mapName;
 
     /// <summary>
     /// Name of the map to use in generic messages, like the map vote.
     /// </summary>
     [DataField("mapName", required: true)]
-    public LocId _mapName { get; private set; } = default!;
+    public LocId _mapName { get; private set; } = string.Empty;
 
     /// <summary>
     /// Relative directory path to the given map, i.e. `/Maps/saltern.yml`
