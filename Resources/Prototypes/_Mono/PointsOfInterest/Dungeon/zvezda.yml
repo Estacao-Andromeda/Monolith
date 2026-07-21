@@ -10,7 +10,7 @@
 - type: pointOfInterest
   id: Zvezda
   parent: BasePOI
-  name: 'Zvezda Orbital Habitation'
+  name: poi-Zvezda-name
   minimumDistance: 10000
   maximumDistance: 20000
   spawnGroup: Optional
@@ -22,7 +22,7 @@
 
 - type: gameMap
   id: Zvezda
-  mapName: 'Zvezda Orbital Habitation'
+  mapName: gamemap-Zvezda-name
   mapPath: /Maps/_Mono/POI/Dungeons/zvezda.yml
   minPlayers: 0
   stations:

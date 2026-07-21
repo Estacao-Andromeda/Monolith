@@ -23,10 +23,16 @@ public sealed partial class PointOfInterestPrototype : IPrototype, IInheritingPr
     public bool Abstract { get; private set; }
 
     /// <summary>
+    ///     The name of this point of interest, localized.
+    /// </summary>
+    [ViewVariables(VVAccess.ReadOnly)]
+    public string Name => Loc.GetString(_name);
+
+    /// <summary>
     ///     The name of this point of interest
     /// </summary>
-    [DataField(required: true)]
-    public string Name { get; private set; } = "";
+    [DataField("name", required: true)]
+    public LocId _name { get; private set; } = "";
 
     /// <summary>
     ///     Should we set the warppoint name based on the grid name.

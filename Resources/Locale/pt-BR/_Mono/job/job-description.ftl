@@ -7,7 +7,7 @@ job-description-ussp-rifleman = Sirva à União longe de casa. Siga seus superio
 job-description-md-medic = Atravesse o espaço para fornecer cuidados salva-vidas a bordo de uma nave médica. Estabilize a tripulação com medicina, sintetize medicina e reviva os caídos. Garanta que os falecidos irrecuperáveis sejam respeitosamente guardados no necrotério e clonados.
 
 # MARK: TSF
-job-description-tsf-engineer = Mantenha a integridade da nave capitânia, seja ridicularizado por não ser um soldado de verdade.
+job-description-tsf-engineer = Mantenha a integridade da nave almirante, seja ridicularizado por não ser um soldado de verdade.
 job-description-tsf-borg = Metade humano, metade máquina. Siga suas leis, sirva à TSF e implore aos engenheiros por upgrades.
 
 # MARK: PDV

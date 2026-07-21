@@ -10,7 +10,7 @@ vv-sound-none = Nenhum
 vv-sound-path = Path
 vv-sound-collection = Collection
 
-vv-sound-volume = volume
+vv-sound-volume = Volume
 vv-sound-pitch = Pitch
 vv-sound-max-distance = Max Distance
 vv-sound-rolloff-factor = Rolloff Factor

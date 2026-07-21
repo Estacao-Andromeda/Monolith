@@ -197,15 +197,15 @@ ent-TorsoProtogen = torso protogen
 # From: _Mono/Catalogs/Fills/Backpacks/drone_loot.yml
 
 ent-ClothingBackpackDroneLootT1 = gravador de dados blackbox (T1)
-    .suffix = Saque de Drone
+    .suffix = Loot de Drone
     .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
 ent-ClothingBackpackDroneLootT21 = gravador de dados blackbox (T2-1)
-    .suffix = Saque de Drone
+    .suffix = Loot de Drone
     .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
 ent-ClothingBackpackDroneLootT22 = gravador de dados blackbox (T2-2)
-    .suffix = Saque de Drone
+    .suffix = Loot de Drone
     .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
 # From: _Mono/Catalogs/Fills/Backpacks/duffelbag.yml
@@ -216,15 +216,15 @@ ent-ClothingBackpackDuffelSmilodonBundle = kit DEW-50-C 'Smilodon'
 # From: _Mono/Catalogs/Fills/Backpacks/npc_loot_NT.yml
 
 ent-ClothingBackpackRogueNanotrasenT1 = caixa de equipamento de segurança NT
-    .suffix = Saque de NPC, T1
+    .suffix = Lootde NPC, T1
     .desc = Uma caixa de equipamento das forças de segurança da Nanotrasen.
 
 ent-ClothingBackpackRogueNanotrasenT2 = caixa de equipamento da marinha NT
-    .suffix = Saque de NPC, T2
+    .suffix = Lootde NPC, T2
     .desc = Uma caixa de equipamento da marinha corporativa da Nanotrasen.
 
 ent-ClothingBackpackRogueNanotrasenT3 = caixa de equipamento de ops especiais NT
-    .suffix = Saque de NPC, T3
+    .suffix = Loot de NPC, T3
     .desc = Uma caixa de equipamento de operações especiais da Nanotrasen.
 
 # From: _Mono/Catalogs/Fills/Boxes/emergency.yml
@@ -246,15 +246,15 @@ ent-CratePlateBlunt_Slash = caixa de placas de antibalas contundente/corte
 # From: _Mono/Catalogs/Fills/Crates/nanotrasen.yml
 
 ent-CrateNanotrasenLootFilledT1 = caixa de equipamento NT
-    .suffix = Preenchida, Saque, T1
+    .suffix = Preenchida, Loot, T1
     .desc = Uma caixa branca e azul com o símbolo da Nanotrasen, uma relíquia das guerras corporativas, pode conter algumas coisas interessantes.
 
 ent-CrateNanotrasenLootFilledT2 = caixa de equipamento NT
-    .suffix = Preenchida, Saque, T2
+    .suffix = Preenchida, Loot, T2
     .desc = Uma caixa branca e azul com o símbolo da Nanotrasen, uma relíquia das guerras corporativas, pode conter algumas coisas interessantes.
 
 ent-CrateNanotrasenLootFilledT3 = ameaçadora caixa de equipamento NT
-    .suffix = Preenchida, Saque, T3
+    .suffix = Preenchida, Loot, T3
     .desc = Uma caixa branca e azul com o símbolo da Nanotrasen, uma relíquia das guerras corporativas, pode conter algumas coisas interessantes.
 
 # From: _Mono/Catalogs/Fills/Crates/shipgun_ammo.yml
@@ -296,15 +296,15 @@ ent-CrateVendingMachineRestockBaristaFilled = Caixa de Reposição BaristaVend
 
 # From: _Mono/Catalogs/Fills/Lockers/salvmaint_locker.yml
 
-ent-MonoMaintenanceFluffSpawner = spawner de Saque de Manutenção Mono
+ent-MonoMaintenanceFluffSpawner = spawner de Loot de Manutenção Mono
     .desc = Uma entidade.
     .suffix = Diversos+Roupas
 
-ent-MonoMaintenanceToolSpawner = spawner de Saque de Manutenção Mono
+ent-MonoMaintenanceToolSpawner = spawner de Loot de Manutenção Mono
     .desc = Uma entidade.
     .suffix = Ferramentas+Células+Matérias
 
-ent-MonoMaintenanceWeaponSpawner = spawner de Saque de Manutenção Mono
+ent-MonoMaintenanceWeaponSpawner = spawner de Loot de Manutenção Mono
     .desc = Uma entidade.
     .suffix = Sucata+Armas
 
@@ -755,7 +755,7 @@ ent-ClothingHelmetHardsuitCsecMpeva = capacete CSEC MP-EVA
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/mercenaries.yml
 
-ent-ClothingHeadHelmetHardsuitScaf = capacete de traje rígido scaf
+ent-ClothingHeadHelmetHardsuitScaf = capacete rígido scaf
     .desc = Um capacete robusto e forte. Por dentro cheira a raiva contida.
 
 ent-ClothingHelmetHardsuitMercenaryWarlord = capacete WL-01
@@ -763,22 +763,22 @@ ent-ClothingHelmetHardsuitMercenaryWarlord = capacete WL-01
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/phaethon_dynasty.yml
 
-ent-ClothingHeadHelmetHardsuitAshen = capacete de traje rígido de combate PDV CV-32
-    .desc = Um capacete de traje rígido de combate projetado pela Dinastia Phaethon.
+ent-ClothingHeadHelmetHardsuitAshen = capacete rígido de combate PDV CV-32
+    .desc = Um capacete rígido de combate projetado pela Dinastia Phaethon.
 
 ent-ClothingHeadHelmetHardsuitAshenElite = capacete de tacsuit de combate PDV CV-53
     .desc = Baseado na traje rígido CV-32, este tacsuit sacrifica placas de armadura pesada por proteção ambiental.
 
 ent-ClothingHeadHelmetHardsuitPDVMedic = capacete de tacsuit de combate PDV CV-82
-    .desc = Um capacete de traje rígido pela Dinastia Phaethon. Tem um HUD médico integrado complementado por sistemas de pulso térmico.
+    .desc = Um capacete rígido pela Dinastia Phaethon. Tem um HUD médico integrado complementado por sistemas de pulso térmico.
 
 ent-ClothingHeadHelmetHardsuitVizier = capacete de tacsuit de combate PDV CV-67
     .desc = Um tacsuit adornado projetado com uma composição imperfeita de nanolaminado. Alta manobrabilidade, armadura robusta.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/scaf_pirate.yml
 
-ent-ClothingHeadHelmetHardsuitPirateScaf = capacete de traje rígido SCAF do PDV
-    .desc = Uma traje rígido SCAF antiga pintada em um esquema de cores marrom tan do PDV. Foi equipada com um scanner de pulso térmico.
+ent-ClothingHeadHelmetHardsuitPirateScaf = capacete rígido SCAF do PDV
+    .desc = Um traje rígido SCAF antiga pintada em um esquema de cores marrom tan do PDV. Foi equipada com um scanner de pulso térmico.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/trauma.yml
 
@@ -797,10 +797,10 @@ ent-ClothingHeadHelmetHardsuitM86 = capacete M86
     .desc = Modificado a partir dos capacetes da série M82, equipado com equipamento de visão noturna e camadas de gel refinadas.
 
 ent-ClothingHeadHelmetHardsuitNfsdCommand = capacete de tacsuit TSFMC M93-C
-    .desc = Capacete de traje rígido com armadura média para operações da TSFMC.
+    .desc = Capacete rígido com armadura média para operações da TSFMC.
 
 ent-ClothingHeadHelmetHardsuitNfsdExperimental = capacete de tacsuit TSFMC M92-X
-    .desc = Capacete de traje rígido com armadura pesada para operações da TSFMC.
+    .desc = Capacete rígido com armadura pesada para operações da TSFMC.
 
 ent-ClothingHeadHelmetHardsuitNfsdSheriff = capacete de tacsuit TSFMC M92
     .desc = Um capacete de tacsuit blindado usado pela TSFMC.
@@ -817,7 +817,7 @@ ent-ClothingHelmetHardsuitUIEnforcerMKII = Capacete de Combate U.I. ENFORCER MKI
     .desc = Este capacete de ponta vem com forro à prova de flash, um scanner de massa e um sistema médico de diagnóstico embutido.
 
 ent-ClothingHelmetHardsuitUIEngineer = capacete de engenharia U.I.
-    .desc = Um capacete de traje rígido barato e eficaz, apenas com um toque extra do mercado negro.
+    .desc = Um capacete rígido barato e eficaz, apenas com um toque extra do mercado negro.
 
 ent-ClothingHelmetHardsuitUIPilot = capacete de piloto U.I.
     .desc = Um capacete para pilotos da Ullman Industry.
@@ -842,24 +842,24 @@ ent-ClothingHeadHelmetHardsuitUsspL27 = capacete de tacsuit USSP L-27
     .desc = A roupa de combate padrão das operações navais da USSP, equipado com um HUD médico também!
 
 ent-ClothingHeadHelmetHardsuitUsspL30 = capacete tático de traje rígido de desfile do comissário USSP L-30
-    .desc = O capacete de traje rígido de desfile do comissário, equipado com um HUD médico também para verificar as tropas!
+    .desc = O capacete rígido de desfile do comissário, equipado com um HUD médico também para verificar as tropas!
 
 ent-ClothingHeadHelmetHardsuitUsspM10 = capacete de traje de reconhecimento USSP M-10
     .desc = Um novo protótipo de roupa de combate usando o antigo L-10 como base. Tem um scanner de massa integrado em seu capacete.
 
 # From: _Mono/Entities/Clothing/Head/Hardsuits/viper_group.yml
 
-ent-ClothingHeadHelmetHardsuitViperGroupInitiate = capacete de traje rígido viper BROOD mk.I
-    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um sistema de navegação embutido complementado por viseiras resistentes a flash.
+ent-ClothingHeadHelmetHardsuitViperGroupInitiate = capacete rígido viper BROOD mk.I
+    .desc = Um capacete rígido com marcações características do Grupo Viper. Tem um sistema de navegação embutido complementado por viseiras resistentes a flash.
 
-ent-ClothingHeadHelmetHardsuitViperGroupJuggernaut = capacete de traje rígido viper IMP mk.IV
-    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um HUD de rastreamento de identidade integrado complementado por um sistema de visão noturna.
+ent-ClothingHeadHelmetHardsuitViperGroupJuggernaut = capacete rígido viper IMP mk.IV
+    .desc = Um capacete rígido com marcações características do Grupo Viper. Tem um HUD de rastreamento de identidade integrado complementado por um sistema de visão noturna.
 
-ent-ClothingHeadHelmetHardsuitViperGroupMedic = capacete de traje rígido viper RIPPER mk.III
-    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um HUD médico embutido complementado por sistemas de pulso térmico.
+ent-ClothingHeadHelmetHardsuitViperGroupMedic = capacete rígido viper RIPPER mk.III
+    .desc = Um capacete rígido com marcações características do Grupo Viper. Tem um HUD médico embutido complementado por sistemas de pulso térmico.
 
-ent-ClothingHeadHelmetHardsuitViperGroupStandard = capacete de traje rígido viper JACKAL mk.II
-    .desc = Um capacete de traje rígido com marcações características do Grupo Viper. Tem um sistema de visão noturna embutido complementado por viseiras resistentes a flash.
+ent-ClothingHeadHelmetHardsuitViperGroupStandard = capacete rígido viper JACKAL mk.II
+    .desc = Um capacete rígido com marcações características do Grupo Viper. Tem um sistema de visão noturna embutido complementado por viseiras resistentes a flash.
 
 # From: _Mono/Entities/Clothing/Head/hats.yml
 
@@ -1274,7 +1274,7 @@ ent-ClothingOuterHardsuitAsakim = exoesqueleto de combate padrão kasature
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/c_sec.yml
 
 ent-ClothingOuterHardsuitCsecMpeva = tacsuit CSEC MP-EVA
-    .desc = Uma traje rígido de propósito geral para todas as situações das forças de segurança do CC. Projetada para ser utilizável para controle de tumultos e tiroteios, e equipada com camadas de geloabsorventes de reagentes para riscos biológicos.
+    .desc = Um traje rígido de propósito geral para todas as situações das forças de segurança do CC. Projetada para ser utilizável para controle de tumultos e tiroteios, e equipada com camadas de geloabsorventes de reagentes para riscos biológicos.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/mercenaries.yml
 
@@ -1282,21 +1282,21 @@ ent-ClothingOuterHardsuitMercenaryWarlord = PMC WL-01
     .desc = Apelidado de "Warlord" (Senhor da Guerra), antigamente uma tecnologia de ponta em equipamentos militares, agora difundido entre mercenários e mercados negros devido aos seus esquemas terem sido revelados ao público, o traje de combate Warlord foi modificado para suportar a atmosfera despressurizada do espaço, sendo classificado como capaz para o espaço.
 
 ent-ClothingOuterHardsuitScaf = traje rígido SCAF
-    .desc = Uma traje rígido de combate reforçada com kevlar. Antiga, mas ainda robusta.
+    .desc = Um traje rígido de combate reforçado com kevlar. Antiga, mas ainda robusta.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/phaethon_dynasty.yml
 
 ent-ClothingOuterHardsuitAshen = traje rígido de combate PDV CV-32
-    .desc = Uma traje rígido de combate projetada pela Dinastia Phaethon. Uma traje rígido mais pesada, mas ainda de propósito geral, eficaz, mas não estelar contra a maioria dos tipos de dano.
+    .desc = Um traje rígido de combate projetado pela Dinastia Phaethon. Um traje rígido mais pesada, mas ainda de propósito geral, eficaz, mas não estelar contra a maioria dos tipos de dano.
 
 ent-ClothingOuterHardsuitAshenElite = tacsuit de combate PDV CV-53
     .desc = Originalmente baseado na traje rígido CV-32, o tacsuit CV-53 sacrifica placas de armadura convencionais por proteção ambiental e um escudo duro recarregável.
 
 ent-ClothingOuterHardsuitPDVMedic = tacsuit de combate PDV CV-82
-    .desc = Uma traje rígido de combate de médico de campo projetada pela Dinastia Phaethon. A armadura apresenta várias placas reforçadas em áreas vitais.
+    .desc = Um traje rígido de combate de médico de campo projetado pela Dinastia Phaethon. A armadura apresenta várias placas reforçadas em áreas vitais.
 
 ent-ClothingOuterHardsuitPirateScaf = traje rígido SCAF do PDV
-    .desc = Uma traje rígido SCAF antiga pintada em um esquema de cores marrom tan do PDV. A armadura parece degradada, mas mais leve.
+    .desc = Um traje rígido SCAF antiga pintado em um esquema de cores marrom tan do PDV. A armadura parece degradada, mas mais leve.
 
 ent-ClothingOuterHardsuitVizier = tacsuit de combate PDV CV-67
     .desc = Um tacsuit adornado projetado com uma composição imperfeita de nanolaminado. Alta manobrabilidade, armadura robusta.
@@ -1315,10 +1315,10 @@ ent-ClothingOuterHardsuitM82b = traje rígido M82b
     .desc = Variante de prático da M82c equipada com blindagem cáustica e radiológica. Algumas das camadas de geloabsorventes de contusão são sacrificadas para a proteção NBC.
 
 ent-ClothingOuterHardsuitM82c = traje rígido M82c
-    .desc = Uma traje rígido emitida para fuzileiros operando em ambientes de baixa pressão e alto risco. Especializada em proteção contra balas.
+    .desc = Um traje rígido emitido para fuzileiros operando em ambientes de baixa pressão e alto risco. Especializada em proteção contra balas.
 
 ent-ClothingOuterHardsuitM86 = traje rígido M86 Mk.3(R)
-    .desc = Uma traje rígido blindada, projetada para ser uma atualização para a série M82. A armadura geral extra dá peso significativo para se mover.
+    .desc = Um traje rígido blindado, projetada para ser uma atualização para a série M82. A armadura geral extra dá peso significativo para se mover.
 
 ent-ClothingOuterHardsuitM86Mk4 = traje rígido M86 Mk.4(B)
     .desc = Uma proposta de redesign de produção limitada para a M86 Mk.3(R), equipada com um gerador de escudo pessoal embutido.
@@ -1344,7 +1344,7 @@ ent-ClothingOuterHardsuitUIPilot = traje de vácuo de piloto U.I.
     .desc = Um traje de vácuo feito para pilotos do mercado negro. Desenvolvido pela Ullman Industries.
 
 ent-ClothingOuterHardsuitUllmanEngineer = traje rígido de engenharia U.I.
-    .desc = Uma traje rígido protetora usada por especialistas de engenharia do mercado negro. Desenvolvido pela Ullman Industries.
+    .desc = Um traje rígido protetora usada por especialistas de engenharia do mercado negro. Desenvolvido pela Ullman Industries.
 
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/unsa.yml
 
@@ -1366,7 +1366,7 @@ ent-ClothingOuterHardsuitUsspL27 = tacsuit USSP L-27
     .desc = A roupa de combate padrão das operações navais da USSP.
 
 ent-ClothingOuterHardsuitUsspL30 = Traje rígido de desfile naval do comissário USSP L-30.
-    .desc = Uma traje rígido altamente decorada com mobilidade aprimorada e placas de armadura de maior qualidade e mais leves para transmitir ordens rapidamente na linha de frente. (ou não estar suado em um desfile)
+    .desc = Um traje rígido altamente decorada com mobilidade aprimorada e placas de armadura de maior qualidade e mais leves para transmitir ordens rapidamente na linha de frente. (ou não estar suado em um desfile)
 
 ent-ClothingOuterHardsuitUsspM10 = traje de reconhecimento USSP M-10
     .desc = Um novo protótipo de roupa de combate usando o antigo L-10 como base. Tem um scanner de massa integrado em seu capacete.
@@ -1374,16 +1374,16 @@ ent-ClothingOuterHardsuitUsspM10 = traje de reconhecimento USSP M-10
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/viper_group.yml
 
 ent-ClothingOuterHardsuitViperGroupInitiate = traje rígido viper BROOD mk.I
-    .desc = Uma traje rígido de combate adornada com marcações características do Grupo Viper. Geralmente usada por corsários recentemente acordados de criossono.
+    .desc = Um traje rígido de combate adornada com marcações características do Grupo Viper. Geralmente usada por corsários recentemente acordados de criossono.
 
 ent-ClothingOuterHardsuitViperGroupJuggernaut = traje rígido viper IMP mk.IV
-    .desc = Uma traje rígido de combate pesada adornada com marcações características do Grupo Viper. A armadura apresenta placas e acolchoamento reforçados adequados para encontros próximos.
+    .desc = Um traje rígido de combate pesada adornada com marcações características do Grupo Viper. A armadura apresenta placas e acolchoamento reforçados adequados para encontros próximos.
 
 ent-ClothingOuterHardsuitViperGroupMedic = traje rígido viper RIPPER mk.III
-    .desc = Uma traje rígido médica de combate adornada com marcações características do Grupo Viper. A armadura apresenta várias placas reforçadas em áreas vitais.
+    .desc = Um traje rígido médica de combate adornada com marcações características do Grupo Viper. A armadura apresenta várias placas reforçadas em áreas vitais.
 
 ent-ClothingOuterHardsuitViperGroupStandard = traje rígido viper JACKAL mk.II
-    .desc = Uma traje rígido de combate adornada com marcações características do Grupo Viper. A armadura é notavelmente flexível para a proteção que oferece.
+    .desc = Um traje rígido de combate adornada com marcações características do Grupo Viper. A armadura é notavelmente flexível para a proteção que oferece.
 
 # From: _Mono/Entities/Clothing/OuterClothing/modsuit.yml
 
@@ -1564,11 +1564,11 @@ ent-SpawnMechAFInterceptorMFilled = Gerador de AF-28-M Halberd
 
 # From: _Mono/Entities/Markers/Spawners/Random/Loot/weapons.yml
 
-ent-POILootAmmoMarker = gerador de saque de munição de POI
+ent-POILootAmmoMarker = gerador de loot de munição de POI
 
-ent-POILootWeaponsAmmoMarker = gerador de saque misto de armas e munição de POI
+ent-POILootWeaponsAmmoMarker = gerador de loot misto de armas e munição de POI
 
-ent-POILootWeaponsMarker = gerador de saque de armas de POI
+ent-POILootWeaponsMarker = gerador de lootde armas de POI
 
 # From: _Mono/Entities/Markers/Spawners/Random/nt_loot.yml
 
@@ -2881,11 +2881,11 @@ ent-WeaponTurretMk290Packed = MK-290 embalada
 
 # From: _Mono/Entities/Objects/Misc/voidsuitselectors.yml
 
-ent-UndeterminedVoidsuitCap = seletor de roupa de vácuo do Capitão
-    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar uma roupa de vácuo ou blindada de sua escolha.
+ent-UndeterminedVoidsuitCap = seletor de Traje Espacial do Capitão
+    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar um traje MOD ou um traje rígido de sua escolha.
 
-ent-UndeterminedVoidsuitRD = seletor de roupa de vácuo do Diretor de Pesquisa
-    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar uma roupa de vácuo ou blindada de sua escolha.
+ent-UndeterminedVoidsuitRD = seletor de Traje Espacial do Diretor de Pesquisa
+    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar um traje MOD ou um traje rígido de sua escolha.
 
 # From: _Mono/Entities/Objects/Power/powercells.yml
 
@@ -6419,31 +6419,31 @@ ent-CrystalMonolithic = cristal de éter pequeno
 ent-BaseCargoChute = duto de entrega de carga base
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteBaikal = chute de entrega de carga Camelot
+ent-CargoChuteBaikal = duto de entrega de carga Camelot
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteDepot = chute de entrega de depósito de carga
+ent-CargoChuteDepot = duto de entrega de depósito de carga
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas do depósito de carga, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteDepotAlt = chute de entrega alternativo de depósito de carga
+ent-CargoChuteDepotAlt = duto de entrega alternativo de depósito de carga
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas do depósito de carga, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteExped = chute de entrega de carga da pousada de expedição
+ent-CargoChuteExped = duto de entrega de carga da pousada de expedição
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteHideout = chute de entrega de esconderijo PDV
+ent-CargoChuteHideout = duto de entrega de esconderijo PDV
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteJupiter = chute de entrega de carga júpiter PDV
+ent-CargoChuteJupiter = duto de entrega de carga júpiter PDV
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas do porta-aviões, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteMD = chute de entrega de carga Medical Dispatch
+ent-CargoChuteMD = duto de entrega de carga Medical Dispatch
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteTradeMall = chute de entrega de carga Trade Mall
+ent-CargoChuteTradeMall = duto de entrega de carga Trade Mall
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
-ent-CargoChuteTSFMC = chute de entrega de carga TSFMC
+ent-CargoChuteTSFMC = duto de entrega de carga TSFMC
     .desc = Uma máquina com sistemas de tubulação que levam às entranhas da estação, aceitando bens de exportação para escrituras de comércio.
 
 ent-PaperWrittenDispenserInstructions = instruções do dispensador de cargas

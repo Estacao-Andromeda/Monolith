@@ -249,10 +249,10 @@ uplink-l6-saw-bundle-desc = Mais dakka: A metralhadora leve L6 icônica, acompan
 uplink-zombie-bundle-name = Pacote Zumbi do Sindicato
 uplink-zombie-bundle-desc = Um kit tudo-em-um para liberar os mortos-vivos em uma estação.
 
-uplink-surplus-bundle-name = Caixa de Excedente
+uplink-surplus-bundle-name = Caixa surplus
 uplink-surplus-bundle-desc = Contém itens do Sindicato completamente aleatórios no valor de 50 telecristais. Pode ser lixo inútil ou realmente bom.
 
-uplink-super-surplus-bundle-name = Caixa de Super Excedente
+uplink-super-surplus-bundle-name = Caixa super surplus
 uplink-super-surplus-bundle-desc = Contém itens do Sindicato completamente aleatórios no valor de 125 telecristais.
 
 # Tools

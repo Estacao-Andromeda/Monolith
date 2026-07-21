@@ -8,7 +8,7 @@
 - type: pointOfInterest
   id: HeliosFortress
   parent: [BasePOI, BaseRepairablePOI]
-  name: 'PDV Helios Fortress'
+  name: poi-HeliosFortress-name
   minimumDistance: 8600
   maximumDistance: 11500
   spawnGamePreset: [ NFAdventure, NFPirate, MonoStandard, MonoRogueTSF, MonoRogueUSSP, MonoADS, MonoChimera, MonoMixed, MonoAllAtOnce ]
@@ -28,7 +28,7 @@
 
 - type: gameMap
   id: HeliosFortress
-  mapName: 'PDV Helios Fortress'
+  mapName: gamemap-HeliosFortress-name
   mapPath: /Maps/_Mono/POI/pdvhelios.yml
   minPlayers: 0
   stations:
@@ -63,7 +63,7 @@
 - type: pointOfInterest
   id: HeliosFortressHyperwar
   parent: [BasePOI, BaseRepairablePOI]
-  name: 'PDV Helios Fortress'
+  name: poi-HeliosFortressHyperwar-name
   minimumDistance: 7500
   maximumDistance: 9500
   spawnGamePreset: [ MonoRogueTSFHyperwar ]
@@ -76,7 +76,7 @@
 
 - type: gameMap
   id: HeliosFortressHyperwar
-  mapName: 'PDV Helios Fortress'
+  mapName: gamemap-HeliosFortressHyperwar-name
   mapPath: /Maps/_Mono/POI/pdvhelios_hw.yml
   minPlayers: 0
   stations:

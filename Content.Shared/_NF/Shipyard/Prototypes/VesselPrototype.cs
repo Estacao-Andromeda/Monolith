@@ -20,9 +20,21 @@ public sealed partial class VesselPrototype : IPrototype, IInheritingPrototype
     public bool Abstract { get; private set; }
 
     /// <summary>
+    ///     Friendly name displayed in the construction GUI (localized).
+    /// </summary>
+    [ViewVariables(VVAccess.ReadOnly)]
+    public string Name => Loc.GetString(_name);
+
+    /// <summary>
+    ///     "Useful" description displayed in the construction GUI (localized).
+    /// </summary>
+    [ViewVariables(VVAccess.ReadOnly)]
+    public string Description => Loc.GetString(_description);
+
+    /// <summary>
     ///     Vessel name.
     /// </summary>
-    [DataField] public string Name = string.Empty;
+    [DataField("name")] public LocId _name = string.Empty;
 
     /// <summary>
     ///     The amount of this ship that can active at any given time.
@@ -45,7 +57,7 @@ public sealed partial class VesselPrototype : IPrototype, IInheritingPrototype
     /// <summary>
     ///     Short description of the vessel.
     /// </summary>
-    [DataField] public string Description = string.Empty;
+    [DataField("description")] public LocId _description = string.Empty;
 
     /// <summary>
     ///     The price of the vessel

@@ -11,7 +11,7 @@
 - type: pointOfInterest
   id: Jupiter
   parent: [BaseMobilePOI, BaseRepairablePOI]
-  name: 'PDV Jupiter Class Carrier'
+  name: poi-Jupiter-name
   minimumDistance: 17000
   maximumDistance: 19000
   spawnGamePreset: [ NFAdventure, NFPirate, MonoStandard, MonoRogueTSF, MonoRogueUSSP, MonoADS, MonoChimera, MonoMixed, MonoAllAtOnce ]
@@ -32,7 +32,7 @@
 
 - type: gameMap
   id: Jupiter
-  mapName: 'PDV Jupiter Class Carrier'
+  mapName: gamemap-Jupiter-name
   mapPath: /Maps/_Mono/Supercapitals/jupiter.yml
   minPlayers: 0
   stations:

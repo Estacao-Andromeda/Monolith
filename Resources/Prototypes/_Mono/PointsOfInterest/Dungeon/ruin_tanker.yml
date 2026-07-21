@@ -10,7 +10,7 @@
 - type: pointOfInterest
   id: AutomatedTanker
   parent: BaseMobilePOI
-  name: 'Automated Inter Sector Tanker'
+  name: poi-AutomatedTanker-name
   minimumDistance: 10000
   maximumDistance: 20000
   spawnGroup: Optional
@@ -23,7 +23,7 @@
 
 - type: gameMap
   id: AutomatedTanker
-  mapName: 'Automated Inter Sector Tanker'
+  mapName: gamemap-AutomatedTanker-name
   mapPath: /Maps/_Mono/POI/Dungeons/ruin_tanker.yml
   minPlayers: 0
   stations:

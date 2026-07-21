@@ -205,30 +205,32 @@ ent-ClothingBackpackPirateBundle = {ent-ClothingBackpackSatchelLeather}
 
 ent-ClothingBackpackBloodCultZealotLootA = pacote de equipamento de cultista
 
+ent-ClothingBackpackBloodCultLootD = { ent-ClothingBackpackBloodCultZealotLootA }
+
 # Entidade abstrata (referenciável por filhos)
 
 ent-CultistMessengerGiftBox = pacote de cultista sanguinário
-    .suffix = Saque de NPC
-    .desc = Caixas de saque? Aqui?
+    .suffix = Loot de NPC
+    .desc = Lootboxes? Aqui?
 
 # De: _NF/Catalog/Fills/Backpacks/npc_loot_explorers.yml
 # Entidade abstrata (referenciável por filhos)
 
 ent-ExplorerDuffelGiftBox = pacote de explorador
-    .suffix = Saque de NPC
+    .suffix = Loot de NPC
 
 # De: _NF/Catalog/Fills/Backpacks/npc_loot_mercenaries.yml
 # Entidade abstrata (referenciável por filhos)
 
 ent-MercenaryDuffelGiftBox = pacote de equipamento de mercenário
-    .suffix = Saque de NPC
-    .desc = Caixas de saque? Aqui?
+    .suffix = Loot de NPC
+    .desc = Lootboxes? Aqui?
 
 # Entidade abstrata (referenciável por filhos)
 
 ent-MercenaryWebbingBox = pacote de munição de mercenário
-    .suffix = Saque de NPC
-    .desc = Caixas de saque? Aqui?
+    .suffix = Loot de NPC
+    .desc = Lootboxes? Aqui?
 
 # De: _NF/Catalog/Fills/Backpacks/npc_loot_punks.yml
 
@@ -237,48 +239,48 @@ ent-ClothingBackpackPunkLootA = pacote de equipamento de punk
 # Entidade abstrata (referenciável por filhos)
 
 ent-PunkMessengerGiftBox = pacote de punk
-    .suffix = Saque de NPC
-    .desc = Caixas de saque? Aqui?
+    .suffix = Loot de NPC
+    .desc = Lootboxes? Aqui?
 
 # De: _NF/Catalog/Fills/Backpacks/npc_loot_silicons.yml
 
 ent-ClothingBackpackRogueSiliconT0 = {ent-RogueSiliconGiftBox}
     .desc = {ent-RogueSiliconGiftBox.desc}
-    .suffix = Saque de NPC, T0
+    .suffix = Loot de NPC, T0
 
 ent-ClothingBackpackRogueSiliconT1 = {ent-RogueSiliconGiftBox}
     .desc = {ent-RogueSiliconGiftBox.desc}
-    .suffix = Saque de NPC, T1
+    .suffix = Loot de NPC, T1
 
 ent-ClothingBackpackRogueSiliconT2 = {ent-RogueSiliconGiftBox}
     .desc = {ent-RogueSiliconGiftBox.desc}
-    .suffix = Saque de NPC, T2
+    .suffix = Loot de NPC, T2
 
 ent-ClothingBackpackRogueSiliconT3 = {ent-RogueSiliconGiftBox}
     .desc = {ent-RogueSiliconGiftBox.desc}
-    .suffix = Saque de NPC, T3
+    .suffix = Loot de NPC, T3
 
 ent-ClothingBackpackRogueSiliconT4 = {ent-RogueSiliconGiftBox}
     .desc = {ent-RogueSiliconGiftBox.desc}
-    .suffix = Saque de NPC, T4
+    .suffix = Loot de NPC, T4
 
 # Entidade abstrata (referenciável por filhos)
 
 ent-RogueSiliconGiftBox = pacote de unidade renegada
-    .suffix = Saque de NPC
+    .suffix = Loot de NPC
 
 # De: _NF/Catalog/Fills/Backpacks/npc_loot_syndicate.yml
 # Entidade abstrata (referenciável por filhos)
 
 ent-SyndieDuffelGiftBox = pacote de operativo naval do Sindicato
-    .suffix = Saque de NPC
-    .desc = Caixas de saque? Aqui?
+    .suffix = Loot de NPC
+    .desc = Lootboxes? Aqui?
 
 # Entidade abstrata (referenciável por filhos)
 
 ent-SyndieMessengerGiftBox = pacote de operativo naval do Sindicato
-    .suffix = Saque de NPC
-    .desc = Caixas de saque? Aqui?
+    .suffix = Loot de NPC
+    .desc = Lootboxes? Aqui?
 
 # De: _NF/Catalog/Fills/Boxes/ammunition.yml
 
@@ -5783,7 +5785,7 @@ ent-BabyDragonSpark = faísca de dragão bebê
 ent-CrossbowBolt = virote
     .desc = Um destes foi suficiente para derrubar o rei Ricardo Coração de Leão. Deve servir para uma Xeno Rainha também.
 
-ent-CrossbowBoltBloodDrinker = virote bebecedor de sangue
+ent-CrossbowBoltBloodDrinker = virote bebedor de sangue
     .desc = Um virote afiado como uma lâmina com ponta serrilhada. Inquestionavelmente antiético.
 
 ent-CrossbowBoltBroadhead = virote de ponta larga
@@ -7725,31 +7727,31 @@ ent-ArgocyteEgg = ovo de argócito
 
 ent-AirlockBloodCult = {ent-AirlockGlass}
     .desc = {ent-AirlockGlass.desc}
-    .suffix = Culte de Sangue
+    .suffix = Culto de sangue
 
 ent-BloodCollector = coletor de sangue
     .desc = Uma câmara vil cheia de sangue. Parece conter mais do que seu volume.
 
-ent-BloodCultAlwaysPoweredLight = luz de culte de sangue
+ent-BloodCultAlwaysPoweredLight = luz de culto de sangue
     .suffix = Sempre ligado
     .desc = Como essa coisa está brilhando? Por quê?
 
-ent-BloodCultGlowingFloor = piso brilhante de culte de sangue
+ent-BloodCultGlowingFloor = piso brilhante de culto de sangue
 
-ent-BloodCultGravityGeneratorMini = gerador de gravidade de culte de sangue
+ent-BloodCultGravityGeneratorMini = gerador de gravidade de culto de sangue
 
-ent-BloodCultHoleFloor = buraco no piso de culte de sangue
+ent-BloodCultHoleFloor = buraco no piso de culto de sangue
 
 ent-BloodCultProp01 = objeto curioso
     .desc = Huh, me pergunto o que é essa coisa e o que ela faz.
 
-ent-BloodCultProp02 = forja de culte de sangue
+ent-BloodCultProp02 = forja de culto de sangue
     .desc = Uma forja para produção de armas e armaduras.
 
-ent-BloodCultProp03 = santuário de culte de sangue
+ent-BloodCultProp03 = santuário de culto de sangue
     .desc = Um santuário oculto para imbuir objetos com energias viles.
 
-ent-BloodCultProp04 = bancada de trabalho de culte de sangue
+ent-BloodCultProp04 = bancada de trabalho de culto de sangue
     .desc = Uma bancada de trabalho oculta com gavetas úteis. Há uma mão decepada em uma.
 
 ent-BloodCultProp05 = objeto curioso
@@ -12152,25 +12154,25 @@ ent-ClothingHeadHatHoodGoblin = capuz tradicional de goblin
 
 # From: _NF/Entities/Clothing/Head/hardsuit-helmets.yml
 
-ent-ClothingHeadHelmetHardsuitERTMailCarrier = capacete de traje rígido de carteiro da ERT
-    .desc = Um capacete de traje rígido especial usado por membros de uma equipe de resposta de emergência.
+ent-ClothingHeadHelmetHardsuitERTMailCarrier = capacete rígido de carteiro da ERT
+    .desc = Um capacete rígido especial usado por membros de uma equipe de resposta de emergência.
 
 ent-ClothingHeadHelmetHardsuitMaximPrototype = capacete de salvagista experimental
     .desc = Uma predição de decadência lava sua mente.
 
-ent-ClothingHeadHelmetHardsuitMercenary = capacete de traje rígido de mercenário
-    .desc = Capacete de traje rígido levemente blindado para necessidades de mercenários.
+ent-ClothingHeadHelmetHardsuitMercenary = capacete rígido de mercenário
+    .desc = Capacete rígido levemente blindado para necessidades de mercenários.
 
-ent-ClothingHeadHelmetHardsuitPilot = capacete de traje rígido de piloto
-    .desc = Capacete de traje rígido leve para pilotos.
+ent-ClothingHeadHelmetHardsuitPilot = capacete rígido de piloto
+    .desc = Capacete rígido leve para pilotos.
 
-ent-ClothingHeadHelmetHardsuitPirateElite = capacete de traje rígido de pirata elite
+ent-ClothingHeadHelmetHardsuitPirateElite = capacete rígido de pirata elite
     .desc = Capacetes de traje rígido com blindagem elite para yo-hoers.
 
-ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete de traje rígido de segurança particular
-    .desc = Capacete de traje rígido levemente blindado para necessidades de segurança particular.
+ent-ClothingHeadHelmetHardsuitPrivateSecurity = capacete rígido de segurança particular
+    .desc = Capacete rígido levemente blindado para necessidades de segurança particular.
 
-ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete de traje rígido de empregada tática
+ent-ClothingHeadHelmetHardsuitTacticalMaid = capacete rígido de empregada tática
     .desc = Aço inoxidável soldado coberto por múltiplas camadas de materiais anticorrosivos, perfeito para limpeza.
 
 # From: _NF/Entities/Clothing/Head/hats.yml
@@ -12345,8 +12347,8 @@ ent-ClothingHeadEVAHelmetSr = capacete EVA de representante da estação
 
 ent-ClothingHeadEVAHelmetWithLightBase = capacete EVA base com lanterna
 
-ent-ClothingHeadHelmetHardsuitFSB = capacete de rígido do Far Star Biotech
-    .desc = Um capacete de rígido leve que não restringe seus movimentos de cabeça. Tem uma lanterna!
+ent-ClothingHeadHelmetHardsuitFSB = capacete rígido do Far Star Biotech
+    .desc = Um capacete rígido leve que não restringe seus movimentos de cabeça. Tem uma lanterna!
 
 # From: _NF/Entities/Clothing/Masks/masks.yml
 

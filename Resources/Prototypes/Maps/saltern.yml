@@ -1,6 +1,6 @@
 - type: gameMap
   id: Saltern
-  mapName: 'Saltern'
+  mapName: gamemap-Saltern-name
   mapPath: /Maps/saltern.yml
   minPlayers: 0
   maxPlayers: 35

@@ -1,6 +1,6 @@
 - type: gameMap
   id: Train
-  mapName: 'Train'
+  mapName: gamemap-Train-name
   mapPath: /Maps/train.yml
   maxRandomOffset: 0
   randomRotation: false

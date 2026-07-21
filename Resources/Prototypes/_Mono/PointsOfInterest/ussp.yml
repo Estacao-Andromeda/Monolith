@@ -11,7 +11,7 @@
 - type: pointOfInterest
   id: USSPCamelot
   parent: [BasePOI, BaseRepairablePOI]
-  name: 'Freeport Camelot'
+  name: poi-USSPCamelot-name
   minimumDistance: 10650
   maximumDistance: 12400
   spawnGamePreset: [ NFAdventure, NFPirate, MonoStandard, MonoRogueUSSP, MonoTSFUSSP, MonoADS, MonoChimera, MonoMixed, MonoAllAtOnce ]
@@ -30,7 +30,7 @@
 
 - type: gameMap
   id: USSPCamelot
-  mapName: 'Freeport Camelot'
+  mapName: gamemap-USSPCamelot-name
   mapPath: /Maps/_Mono/POI/camelot.yml
   minPlayers: 0
   stations:

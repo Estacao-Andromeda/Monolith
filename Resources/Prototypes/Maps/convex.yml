@@ -1,6 +1,6 @@
 - type: gameMap
   id: Convex
-  mapName: 'Convex'
+  mapName: gamemap-Convex-name
   mapPath: /Maps/convex.yml
   minPlayers: 75
   stations:
