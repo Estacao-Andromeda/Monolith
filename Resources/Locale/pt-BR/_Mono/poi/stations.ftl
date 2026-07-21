@@ -6,3 +6,6 @@ frontier-lobby-camelot-description = Isso NÃO é uma zona segura. Isso não é 
 
 frontier-lobby-jupiter-subtext = Um grande porta-mechs móvel.
 frontier-lobby-jupiter-description = Isso NÃO se enquadra na proteção das regras de ataque a portos. Um grande porta-mechs de retaguarda operado pela Vanguarda Imperial da Dinastia Phaethon. Não tem muito poder de fogo para brigar com outras naves ou um estaleiro de tamanho completo, mas tem uma grande quantidade de mechs e defesa de pontos.
+
+frontier-lobby-chengdu-subtext = Um cruzador poderoso o suficiente para nivelar qualquer coisa.
+frontier-lobby-chengdu-description = Um cruzador Tipo-98F implantado pelo TSFN para conflitos em grande escala. Equipado com mísseis de cruzeiro, canhões railgun e canhões automáticos, pods de mísseis guiados, e lasers point-defense suficientes para tornar qualquer torpedo obsoleto. [color=red]Possui apenas um estaleiro extremamente limitado e apenas 2 docas. Isto não é uma base móvel como o Júpiter, isto é um navio de guerra.[/color]
