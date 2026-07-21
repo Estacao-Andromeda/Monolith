@@ -253,6 +253,7 @@ ent-WeaponRifleBB = Arma de chumbinho
 # From: _DV/Entities/Objects/Materials/ore.yml
 
 ent-BluespaceOre = minério de bluespace
+    .desc = Um minério de bluespace.
     .suffix = Cheio
 
 # From: _DV/Entities/Objects/Misc/fire_extinguisher.yml

@@ -7,21 +7,27 @@
 # From: _Moffstation/Body/Organs/resomi.yml
 
 ent-OrganResomiBrain = cérebro
+    .desc = O centro do pensamento.
     .suffix = Resomi
 
 ent-OrganResomiHeart = coração de resomi
+    .desc = Bombeia sangue.
     .suffix = Resomi
 
 ent-OrganResomiKidneys = rim de resomi
+    .desc = Filtra o sangue.
     .suffix = Resomi
 
 ent-OrganResomiLiver = fígado de resomi
+    .desc = Filtra toxinas.
     .suffix = Resomi
 
 ent-OrganResomiLungs = pulmões de resomi
+    .desc = Respirar é essencial.
     .suffix = Resomi
 
 ent-OrganResomiStomach = estômago de resomi
+    .desc = Digere comida.
     .suffix = Resomi
 
 # From: _Moffstation/Body/Parts/resomi.yml

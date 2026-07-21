@@ -14,7 +14,7 @@ A equipe de [color=#9fed58]Serviço[/color] é composta por Funcionários de Ser
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Capelão"/>
     <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Palhaço"/>
-    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mimo"/>
+    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mímico"/>
     <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Músico"/>
   </Box>
   <Box>
@@ -28,7 +28,7 @@ A equipe de [color=#9fed58]Serviço[/color] é composta por Funcionários de Ser
 [color=#9fed58]Serviço[/color], apesar de ser o mais diverso, tende a ser o departamento mais [color=#a4885c]interconectado[/color] de longe.
 A maioria dos trabalhos de [color=#9fed58]Serviço[/color] requer [color=#a4885c]cooperação[/color] entre os trabalhadores.
 Chefes frequentemente precisam de ingredientes que apenas botânicos podem cultivar eficientemente. O bartender pode solicitar bananas que apenas os palhaços carregam em abundância.
-O advogado pode convidar o mimo para jogar charadas para convencer o juiz que seu cliente é inocente.
+O advogado pode convidar o mímico para jogar charadas para convencer o juiz que seu cliente é inocente.
 
 Muita [color=#a4885c]colaboração[/color] é necessária dentro e fora do [color=#9fed58]Serviço[/color]. Frequentemente, o [color=#9fed58]Serviço[/color] é solicitado por outros departamentos, então esteja atento.
 </Document>

@@ -46,6 +46,7 @@ ent-IngotPlutonium = barra de plutônio
     .desc = Lingotes de plutônio físsil puro. Um subproduto de reatores de fissão nuclear.
 
 ent-IngotPlutonium1 = barra de plutônio
+    .desc = { ent-IngotPlutonium.desc }
     .suffix = Única
 
 # From: _FarHorizons/Entities/Structures/Holographic/projections.yml
@@ -75,7 +76,7 @@ ent-NuclearFabricator = fabricador nuclear
 # Abstract entity (referenceable by children)
 
 ent-BaseNuclearReactor = reator nuclear
-    .desc = Um vaso de reator nuclear, com slots para barras de combustível e outros componentes. Espera, um desses não explodiu uma vez?
+    .desc = Um reator nuclear, com encaixes para barras de combustível e varios outros tipos. Você tem certeza que um desses já explodiu alguma vez.
 
 ent-NuclearDebrisChunk = destroços nucleares
     .desc = Você não vê a grafite no chão. Você está em choque. Procure atendimento médico.
@@ -94,11 +95,11 @@ ent-NuclearReactorMeltdown = {ent-BaseNuclearReactor}
 
 ent-NuclearReactorMelted = {ent-BaseNuclearReactor}
     .suffix = Derretido
-    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
+    .desc = Um reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorMeltedSalvage = {ent-BaseNuclearReactor}
     .suffix = Derretido, Salvagem
-    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
+    .desc = Um reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorNormal = {ent-BaseNuclearReactor}
     .desc = {ent-BaseNuclearReactor.desc}
@@ -116,14 +117,15 @@ ent-NuclearReactorRandomSalvage = {ent-BaseNuclearReactor}
     .suffix = Aleatório, Salvagem
 
 ent-NuclearReactorSmall = reator nuclear pequeno
+    .desc = { ent-BaseNuclearReactor.desc }
 
 ent-NuclearReactorSmallMelted = {ent-NuclearReactorSmall}
     .suffix = Derretido
-    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
+    .desc = Um reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorSmallMeltedSalvage = {ent-NuclearReactorSmall}
     .suffix = Derretido, Salvagem
-    .desc = Um vaso de reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
+    .desc = Um reator nuclear, derretido há muito tempo. Ainda brilha com calor residual e radiação.
 
 ent-NuclearReactorSmallRandom = {ent-NuclearReactorSmall}
     .desc = {ent-NuclearReactorSmall.desc}
@@ -134,12 +136,13 @@ ent-NuclearReactorSmallRandomSalvage = {ent-NuclearReactorSmall}
     .suffix = Aleatório, Salvagem
 
 ent-NuclearReactorSmallSalvage = reator nuclear pequeno
+    .desc = {ent-NuclearReactorSmall.desc}
     .suffix = Salvagem
 
 # From: _FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/reactor_components.yml
 
 ent-BananiumReactorFuelRod = barra de combustível de bananium
-    .desc = Uma barra de honque para um reator nuclear.
+    .desc = Uma barra de banânio para um reator nuclear.
 
 ent-BaseReactorControlRod = barra de controle
     .desc = Um conjunto de barras de controle para um reator nuclear.
@@ -154,67 +157,97 @@ ent-BaseReactorHeatExchanger = barra de trocador de calor
     .desc = Um trocador de calor para um reator nuclear.
 
 ent-BohrumReactorControlRod = barra de controle de bohrum
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-BrassReactorControlRod = barra de controle de latão
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-BrassReactorGasChannel = barra de canal de gás de latão
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-BrassReactorHeatExchanger = barra de trocador de calor de latão
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-CerenkiteReactorFuelRod = barra de combustível de cerenquita
+    .desc = { ent-BaseReactorFuelRod.desc }
 
 ent-DiamondReactorControlRod = barra de controle de diamante
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-DiamondReactorGasChannel = barra de canal de gás de diamante
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-DiamondReactorHeatExchanger = barra de trocador de calor de diamante
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-GlassReactorControlRod = barra de controle de vidro
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-GlassReactorGasChannel = barra de canal de gás de vidro
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-GlassReactorHeatExchanger = barra de trocador de calor de vidro
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-GoldReactorControlRod = barra de controle de ouro
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-GoldReactorGasChannel = barra de canal de gás de ouro
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-GoldReactorHeatExchanger = barra de trocador de calor de ouro
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-MeatReactorFuelRod = barra de combustível de carne
     .desc = Uma barra de combustí- espera, ela está viva?
 
 ent-PlasmaGlassReactorControlRod = barra de controle de vidro de plasma
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-PlasmaGlassReactorGasChannel = barra de canal de gás de vidro de plasma
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-PlasmaGlassReactorHeatExchanger = barra de trocador de calor de vidro de plasma
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-PlasmaReactorFuelRod = barra de combustível de plasma
+    .desc = { ent-BaseReactorFuelRod.desc }
 
-ent-PlasteelReactorControlRod = barra de controle de placaço
+ent-PlasteelReactorControlRod = barra de controle de plastiaço
+    .desc = { ent-BaseReactorControlRod.desc }
 
-ent-PlasteelReactorGasChannel = barra de canal de gás de placaço
+ent-PlasteelReactorGasChannel = barra de canal de gás de plastiaço
+    .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-PlasteelReactorHeatExchanger = barra de trocador de calor de placaço
+ent-PlasteelReactorHeatExchanger = barra de trocador de calor de plastiaço
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-PlutoniumReactorFuelRod = barra de combustível de plutônio
+    .desc = { ent-BaseReactorFuelRod.desc }
 
 ent-SilverReactorControlRod = barra de controle de prata
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-SilverReactorGasChannel = barra de canal de gás de prata
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-SilverReactorHeatExchanger = barra de trocador de calor de prata
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-SteelReactorControlRod = barra de controle de aço
+    .desc = { ent-BaseReactorControlRod.desc }
 
 ent-SteelReactorGasChannel = barra de canal de gás de aço
+    .desc = { ent-BaseReactorGasChannel.desc }
 
 ent-SteelReactorHeatExchanger = barra de trocador de calor de aço
+    .desc = { ent-BaseReactorHeatExchanger.desc }
 
 ent-UraniumGlassReactorFuelRod = barra de combustível de vidro de urânio
+    .desc = { ent-BaseReactorFuelRod.desc }
 
 ent-UraniumReactorFuelRod = barra de combustível de urânio
+    .desc = { ent-BaseReactorFuelRod.desc }
 
 # From: _FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/turbine.yml
 
@@ -222,6 +255,7 @@ ent-Turbine = turbina a gás
     .desc = Uma turbina grande usada para gerar energia usando gás quente.
 
 ent-TurbineSmall = turbina a gás pequena
+    .desc = Uma turbina usada para gerar energia usando gás quente.
 
 # From: _FarHorizons/Entities/Structures/Power/Generation/FissionGenerator/turbineProjectile.yml
 

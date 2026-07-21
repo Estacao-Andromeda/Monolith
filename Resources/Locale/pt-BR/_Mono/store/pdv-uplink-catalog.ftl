@@ -19,7 +19,7 @@ uplink-pirate-pyrazine-pen-name = Autoinjetor de Pyrazine
 uplink-pirate-pyrazine-pen-desc = Uma dose rápida de pyrazine e dermaline, destinado a aplicações de combate.
 
 uplink-pirate-rad-pen-name = Autoinjetor Rad
-uplink-pirate-rad-pen-desc = Uma dose rápida de anti-radiação. Contém arithrazina e bicaridina.
+uplink-pirate-rad-pen-desc = Uma dose rápida de anti-radiação. Contém arithrazina e bicardina.
 
 uplink-pirate-combat-medkit-name = Kit Médico de Combate
 uplink-pirate-combat-medkit-desc = Um kit médico contendo os suprimentos para curar trauma, contusão e perda de sangue.
