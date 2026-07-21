@@ -3278,6 +3278,7 @@ ent-FloraPilumaPlant = planta piluma
 
 ent-Forge = forja
     .desc = Um método primitivo de refinar minérios. Mal quente o suficiente para fazer aço.
+    .desc = Um método primitivo de refinar minérios. Mal quente o suficiente para fazer aço.
 
 # From: _Mono/Entities/Objects/Specific/Planet/turf.yml
 

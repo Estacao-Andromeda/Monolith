@@ -9,8 +9,11 @@ device-frequency-prototype-name-fax = Fax
 device-frequency-prototype-name-basic-device = Dispositivos Básicos
 device-frequency-prototype-name-cyborg-control = Controle de Ciborgues
 device-frequency-prototype-name-robotics-console = Console de Robótica
+device-frequency-prototype-name-arrivals-shuttle-timer = Timer da Arrivals
+device-frequency-prototype-name-shuttle-timer = Timer de Nave
 
 ## camera frequencies
+device-frequency-prototype-name-surveillance-camera = Sub-rede de Câmera
 device-frequency-prototype-name-surveillance-camera-test = Teste de Sub-rede
 device-frequency-prototype-name-surveillance-camera-engineering = Câmeras de Engenharia
 device-frequency-prototype-name-surveillance-camera-security = Câmeras de Segurança

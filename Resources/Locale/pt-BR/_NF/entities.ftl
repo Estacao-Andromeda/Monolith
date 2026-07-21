@@ -5738,8 +5738,8 @@ ent-SpawnMobKoboldYipyip = Gerador de Yip Yip
 
 # From: _NF/Entities/Stations/nanotrasen.yml
 
-# ent-StandardFrontierStation =
-#     .suffix = DEBUG
+ent-StandardFrontierStation = ""
+    .suffix = DEBUG
 
 # From: _NF/Entities/Structures/atm.yml
 # Abstract entity (referenceable by children)

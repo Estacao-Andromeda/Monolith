@@ -1,4 +1,4 @@
-ui-lobby-title = Átrio: {$serverName}
+ui-lobby-title = Lobby: {$serverName}
 ui-lobby-ahelp-button = AHelp
 ui-lobby-options-button = Opções
 ui-lobby-leave-button = Sair

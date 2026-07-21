@@ -1,4 +1,4 @@
-cmd-respawn-desc = Faz um jogador renascer, expulsando-o de volta para o átrio.
+cmd-respawn-desc = Faz um jogador renascer, expulsando-o de volta para o lobby.
 cmd-respawn-help = respawn [jogador ou UserId]
 
 cmd-respawn-invalid-args = Deve fornecer <= 1 argumento.

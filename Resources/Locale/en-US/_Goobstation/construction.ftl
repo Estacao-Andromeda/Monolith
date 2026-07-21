@@ -1,0 +1,45 @@
+## Construction Localization
+## Generated from construction prototypes
+
+construction-HexNutDouble-name = Hex Nut
+construction-HexNutDouble-desc = Two hex nuts handcrafted from one steel.
+construction-Screw-name = Screw
+construction-Screw-desc = Two screws crafted from one steel.
+construction-ContrabandSatchelCraft-name = contraband bag
+construction-ContrabandSatchelCraft-desc = A steel bag for hiding from metal detectors.
+construction-MakeshiftDefibCraft-name = makeshift defibrillator
+construction-MakeshiftDefibCraft-desc = Stupidly complex makeshift defibrillator for all your needs.
+construction-TideFlipperCraft-name = makeshift tide flipper
+construction-TideFlipperCraft-desc = Makeshift hand remote that can be used to hack doors without access.
+construction-MetalBaseballBatCrafting-name = makeshift metal baseball bat
+construction-MetalBaseballBatCrafting-desc = Makeshift hard and robust metal baseball bat with a wooden handle.
+construction-HandmadeHammerCrafting-name = handmade hammer
+construction-HandmadeHammerCrafting-desc = A normal handmade hammer.
+construction-MakeshiftJammerCrafting-name = makeshift jammer
+construction-MakeshiftJammerCrafting-desc = Makeshift jammer, not efficient, but it does its job.
+construction-MakeshiftIDCard-name = makeshift id card
+construction-MakeshiftIDCard-desc = Makeshift ID card for tiding purposes.
+construction-MakeshiftToolbox-name = makeshift toolbox
+construction-MakeshiftToolbox-desc = The weapon of the Tide order.
+construction-HeavyBootsCrafting-name = makeshift metal boots
+construction-HeavyBootsCrafting-desc = Makeshift heavy metal boots.
+construction-MakeshiftHelmetCraft-name = makeshift light helmet
+construction-MakeshiftHelmetCraft-desc = Makeshift light helmet for protection.
+construction-MakeshiftLightVestCraft-name = makeshift light vest
+construction-MakeshiftLightVestCraft-desc = Complex makeshift light vest for protection. Open a blacksmith man.
+construction-MakeshiftHeavyVestCraft-name = makeshift heavy vest
+construction-MakeshiftHeavyVestCraft-desc = A complex heavy armor vest, made with steel, plasteel, and nails.
+construction-GasFilterInline-name = inline gas filter
+construction-GasFilterInline-desc = Filters gases from a pipenet without splitting it in two.
+construction-HeatExchangerInline-name = inline radiator
+construction-HeatExchangerInline-desc = Transfers heat between the pipe and its surroundings. Doesn't need gas flow.
+construction-HeatExchangerInlineBend-name = inline radiator bend
+construction-HeatExchangerInlineBend-desc = Transfers heat between the pipe and its surroundings. Doesn't need gas flow.
+construction-WelderSword-name = welder energy sword
+construction-WelderSword-desc = Roughly converted from a welding tool, this energy sword hums an unstable flame. It looks like it's about to fall apart.
+construction-WelderSwordIndustrial-name = industrial welder energy sword
+construction-WelderSwordIndustrial-desc = Roughly converted from a welding tool, this energy sword hums an unstable flame. It looks like it's about to fall apart.
+construction-WelderSwordExperimental-name = experimental welder energy sword
+construction-WelderSwordExperimental-desc = Roughly converted from a welding tool, this energy sword hums an unstable flame. It looks like it's about to fall apart.
+construction-HeatedKnifeConstruction-name = handmade kitchen knife
+construction-HeatedKnifeConstruction-desc = A normal kitchen knife. May be hot!
