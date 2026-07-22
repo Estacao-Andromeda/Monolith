@@ -476,7 +476,7 @@
   - type: HitscanBasicDamage
     damage:
      types:
-       Heat: 120
+       Heat: 150
        Structural: 500
   - type: HitscanRadarSignature
     radarColor: "#5d46e2"
