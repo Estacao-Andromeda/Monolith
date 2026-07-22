@@ -22866,3 +22866,10 @@ Entries:
   id: 2523
   time: '2026-07-22T00:07:06.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4248
+- author: EldritchPineapple
+  changes:
+    - type: Tweak
+      message: The prometheus had received buffs
+  id: 2524
+  time: '2026-07-22T00:08:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4241
