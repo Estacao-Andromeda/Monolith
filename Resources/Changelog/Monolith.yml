@@ -22837,3 +22837,12 @@ Entries:
   id: 2520
   time: '2026-07-22T00:03:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4337
+- author: eris-webserv
+  changes:
+    - type: Add
+      message: >-
+        Ullman has released a new model of their ENFORCER MKII combat tacsuit
+        with an upgraded shield generator.
+  id: 2521
+  time: '2026-07-22T00:04:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4328
