@@ -745,8 +745,13 @@ public sealed partial class DeepFryerSystem : SharedDeepfryerSystem
 
     private void OnInitDeepFried(EntityUid uid, DeepFriedComponent component, ComponentInit args)
     {
-        var meta = MetaData(uid);
-        component.OriginalName = meta.EntityName;
+        // Only set OriginalName if not already set by prototype
+        // This allows entities to be born deep-fried with custom original names
+        if (component.OriginalName == null)
+        {
+            var meta = MetaData(uid);
+            component.OriginalName = meta.EntityName;
+        }
         UpdateDeepFriedName(uid, component);
     }
 

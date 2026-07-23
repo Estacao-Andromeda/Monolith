@@ -340,6 +340,13 @@ public sealed partial class GunComponent : Component
     /// </summary>
     [DataField]
     public float ExecutionModifier = 9.0f;
+
+    /// <summary>
+    /// Andromeda
+    /// Desativa inércia pros projéteis dessa arma (são spawnados sem levar em consideração velocidade de quem atirou)
+    /// </summary>
+    [DataField]
+    public bool DisableInertia = false;
 }
 
 [Flags]

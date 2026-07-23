@@ -15,6 +15,7 @@ public sealed partial class MouseRotatorSystem : SharedMouseRotatorSystem
     [Dependency] private IGameTiming _timing = default!;
     [Dependency] private IEyeManager _eye = default!;
     [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private IEntitySystemManager _entitySystemManager = default!; // Andromeda: necessário para o chud fix
 
     public override void Update(float frameTime)
     {
@@ -29,6 +30,9 @@ public sealed partial class MouseRotatorSystem : SharedMouseRotatorSystem
             return;
 
         var xform = Transform(player.Value);
+        // Andromeda: chud fix que eu odeio; força um update do EyeSystem pra garantir que estamos mirando no lugar certo
+        // sem isso, vp.PixelToMap nos dá uma posição antiga e desatualizada caso o jogador esteja se movendo muito rápido
+        _entitySystemManager.GetEntitySystem<Robust.Client.GameObjects.EyeSystem>().FrameUpdate(0);
 
         // Get mouse loc and convert to angle based on player location
         var coords = _input.MouseScreenPosition;

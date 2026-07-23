@@ -33,6 +33,7 @@ public sealed partial class MeleeWeaponSystem : SharedMeleeWeaponSystem
     [Dependency] private SharedColorFlashEffectSystem _color = default!;
     [Dependency] private MapSystem _map = default!;
     [Dependency] private TransformSystem _transform = default!; // Goobstation
+    [Dependency] private IEntitySystemManager _entitySystemManager = default!; // Andromeda: necessário para o chud fix
 
     private EntityQuery<TransformComponent> _xformQuery;
 
@@ -93,6 +94,10 @@ public sealed partial class MeleeWeaponSystem : SharedMeleeWeaponSystem
         }
 
         // TODO using targeted actions while combat mode is enabled should NOT trigger attacks.
+
+        // Andromeda: chud fix que eu odeio; força um update do EyeSystem pra garantir que estamos mirando no lugar certo
+        // sem isso, PixelToMap nos dá uma posição antiga e desatualizada caso o jogador esteja se movendo muito rápido
+        _entitySystemManager.GetEntitySystem<Robust.Client.GameObjects.EyeSystem>().FrameUpdate(0);
 
         var mousePos = _eyeManager.PixelToMap(_inputManager.MouseScreenPosition);
 

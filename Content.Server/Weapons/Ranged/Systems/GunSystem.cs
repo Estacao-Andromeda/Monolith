@@ -108,7 +108,10 @@ public sealed partial class GunSystem : SharedGunSystem
 
         // get gun's fromEnt-relative velocity
         var gunVelocity = Vector2.Zero;
-        gunVelocity = Physics.GetMapLinearVelocity(gunUid) - Physics.GetMapLinearVelocity(fromEnt);
+
+        // Andromeda: Desativar inércia pra armas de mech e armas de nave (talvez pode ser ruim)
+        if (!gun.DisableInertia)
+            gunVelocity = Physics.GetMapLinearVelocity(gunUid) - Physics.GetMapLinearVelocity(fromEnt);
 
         // I must be high because this was getting tripped even when true.
         // DebugTools.Assert(direction != Vector2.Zero);

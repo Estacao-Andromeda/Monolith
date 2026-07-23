@@ -217,6 +217,9 @@ namespace Content.Client.Gameplay
             EntityUid? entityToClick = null;
             if (args.Viewport is IViewportControl vp && kArgs.PointerLocation.IsValid)
             {
+                // Andromeda: chud fix que eu odeio; força um update do EyeSystem pra garantir que estamos mirando no lugar certo
+                // sem isso, vp.PixelToMap nos dá uma posição antiga e desatualizada caso o jogador esteja se movendo muito rápido
+                _entitySystemManager.GetEntitySystem<EyeSystem>()?.FrameUpdate(0);
                 var mousePosWorld = vp.PixelToMap(kArgs.PointerLocation.Position);
 
                 if (vp is ScalingViewport svp)
