@@ -8705,23 +8705,23 @@ ent-HighSecDoor = porta de alta segurança
 
 # From: Entities/Structures/Doors/Airlocks/shuttle.yml
 
-ent-AirlockGlassShuttle = airlock externo
+ent-AirlockGlassShuttle = doca externa
     .suffix = Vidro, Acoplamento
     .desc = Necessário para conectar duas naves espaciais.
 
-ent-AirlockGlassShuttleSyndicate = airlock externo
+ent-AirlockGlassShuttleSyndicate = doca externa
     .suffix = Vidro, Acoplamento
     .desc = Necessário para conectar duas naves espaciais.
 
-ent-AirlockShuttle = airlock externo
+ent-AirlockShuttle = doca externa
     .suffix = Acoplamento
     .desc = Necessário para conectar duas naves espaciais.
 
-ent-AirlockShuttleAssembly = montagem de airlock externo
+ent-AirlockShuttleAssembly = montagem de doca externa
     .suffix = Acoplamento
     .desc = Uma estrutura incompleta necessária para conectar duas naves espaciais.
 
-ent-AirlockShuttleSyndicate = airlock externo
+ent-AirlockShuttleSyndicate = doca externa
     .suffix = Acoplamento
     .desc = Necessário para conectar duas naves espaciais.
 
@@ -8730,6 +8730,9 @@ ent-AirlockShuttleSyndicate = airlock externo
 
 ent-BaseFirelock = porta corta-fogo
     .desc = Aplique pé de cabra.
+
+ent-Firelock = {ent-BaseFirelock}
+    .desc = {ent-BaseFirelock.desc}
 
 ent-FirelockEdge = porta corta-fogo
     .desc = {ent-BaseFirelock.desc}

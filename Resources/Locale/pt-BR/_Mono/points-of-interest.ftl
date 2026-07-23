@@ -14,10 +14,13 @@ poi-Jupiter_HW-name = PDV Jupiter
 poi-Lancelot-name = Posto de Mineração Lancelot
 poi-Mining-name = Área Abandonada de Escavação
 poi-Polaris-name = Centro de Biopesquisa Polaris
-poi-Sevastopol-name = Centro de Armazenamento de Dados Sevastopol
+poi-Sevastopol-name = Centro de Dados Sevastopol
 poi-TSFMCHalcyon-name = Nave-Almirante TSFMC Halcyon
 poi-TSFMCHalcyonHyperwar-name = Nave-Almirante TSFMC Halcyon
 poi-TSFMCOutpost-name = Posto Reserva da TSFMC
 poi-USSPCamelot-name = Porto Livre Camelot
 poi-Zenith-name = ADS Zenith CK-395
 poi-Zvezda-name = Habitação Orbital Zvezda
+
+poi-ZetaNode-name = Nó Zeta
+poi-ZetaNode-desc = Até o ar tem uma leve camada de poeira.

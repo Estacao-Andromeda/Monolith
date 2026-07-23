@@ -4,7 +4,7 @@
 poi-Bahama-name = Mama Bahama
 poi-CargoDepot-name = Depósito de Carga
 poi-CargoDepotAlt-name = Depósito de Carga
-poi-CaseysCasino-name = Casino do Casey Maluco
+poi-CaseysCasino-name = Casino do Marcelo Maluco
 poi-Edison-name = Usina Edison
 poi-Grifty-name = Grifty Gas e Lanche
 poi-LPBravo-name = Ponto de Escuta Bravo

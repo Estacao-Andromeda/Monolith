@@ -13,8 +13,8 @@ Naves atmosféricas, por exemplo, o [color=yellow]Gasbender[/color] e a [color=y
 ## Equipamentos Necessários
 
 Os equipamentos que você precisará:
-- Uma perfuratriz de mineração
-- Uma esclusa de gás portátil
+- Uma mineradora
+- Uma doca de gás portátil
 - Aço para tubos
 - Uma fonte de energia (J.R.P.A.C.M.A.N. recomendado)
 - Cabo de baixa voltagem
@@ -35,7 +35,7 @@ O procedimento padrão para perfuração de gás é o seguinte:
 
 2. Perfure parte do asteroide e procure por [color=lightpink]fios de elementos sólidos[/color].
 
-3. Ancore sua perfuratriz de mineração de gás no depósito.
+3. Ancore sua mineradora de gás no depósito.
 
 4. Construa um conjunto de tubos conectando a perfuratriz à borda mais conveniente do asteroide.
 
@@ -43,15 +43,15 @@ O procedimento padrão para perfuração de gás é o seguinte:
 
 6. Note que filtros de gás, misturadores e outros equipamentos podem não funcionar no asteroide. Para processamento eficiente, configure sua nave para filtração, processamento e armazenamento a bordo.
 
-7. Ancore uma esclusa de gás portátil na borda do asteroide. Aponte a porta de saída vermelha com as luzes de atracação para o espaço.
+7. Ancore uma doca de gás portátil na borda do asteroide. Aponte a porta de saída vermelha com as luzes de atracação para o espaço.
 
-8. Atrave a esclusa de gás de sua nave com a esclusa de gás portátil, faça isso com o console da nave como se estivesse atracando em uma estação.
+8. Atrave a doca de gás de sua nave com a doca de gás portátil, faça isso com o console da nave como se estivesse atracando em uma estação.
 
-9. Ancore um gerador portátil no asteroide, ligue-o e configure os cabos para que tanto a perfuratriz de mineração quanto a esclusa de gás portátil sejam alimentadas.
+9. Ancore um gerador portátil no asteroide, ligue-o e configure os cabos para que tanto a mineradora quanto a doca de gás portátil sejam alimentadas.
 
 10. Defina a pressão alvo em sua perfuratriz.
 
-11. Defina a pressão e direção em tanto a esclusa de gás portátil quanto na esclusa de gás de sua nave.
+11. Defina a pressão e direção em tanto a doca de gás portátil quanto na doca de gás de sua nave.
 
 12. Note que as esclusas de gás são bidirecionais, e a direção que as luzes estão se movendo é a direção que o gás fluirá. Ambas devem apontar na mesma direção para bombear gás.
 
@@ -68,7 +68,7 @@ Gases diferentes têm valores diferentes. Os gases mais valiosos são [color=cya
 Vender gás pode ser feito através de cilindros, que podem ser fabricados com [color=gray]plasteel[/color], ou em massa em um [color=lightgreen]ponto de venda de gás[/color], ex. na Usina de Energia Edison.
 
 - Cilindros podem ser vendidos usando paletes de carga e consoles de venda de carga, como qualquer outra mercadoria.
-- Pontos de venda de gás podem aceitar quantidades massivas de gás de uma vez, e exigem que o gás seja bombeado através de uma esclusa de gás.
+- Pontos de venda de gás podem aceitar quantidades massivas de gás de uma vez, e exigem que o gás seja bombeado através de uma doca de gás.
 
 Ambos os métodos de pagamento pagam de acordo com a [bold]pureza[/bold] de sua mistura. Certifique-se de filtrar seu gás! Quanto mais fácil for para a NT separar seus gases, melhor será o pagamento.
 

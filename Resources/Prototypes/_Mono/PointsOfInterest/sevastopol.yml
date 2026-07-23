@@ -21,7 +21,7 @@
 
 - type: gameMap
   id: Sevastopol
-  mapName: "Centro de Armazenamento de Dados Sevastopol"
+  mapName: "Centro de Dados Sevastopol"
   mapPath: /Maps/_Mono/POI/sevastopol.yml
   minPlayers: 0
   stations:

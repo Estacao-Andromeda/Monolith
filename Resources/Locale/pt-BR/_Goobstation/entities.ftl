@@ -1084,13 +1084,13 @@ ent-WeaponMechDebugMelle = Debug Bam
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/industrial.yml
 
-ent-WeaponMechMeleeDrill = Perfuratriz de Exoesqueleto
+ent-WeaponMechMeleeDrill = broca para mecha
     .suffix = Arma de Mech, Corpo a Corpo, Industrial
-    .desc = Equipamento para exoesqueletos de mineração. Essa é a perfuratriz que vai perfurar as rochas!
+    .desc = Equipamento para exoesqueletos de mineração. Essa é a broca que vai perfurar as rochas!
 
-ent-WeaponMechMeleeDrillDiamond = Perfuratriz de Exoesqueleto com Ponta de Diamante
+ent-WeaponMechMeleeDrillDiamond = broca de diamante para mecha
     .suffix = Arma de Mech, Corpo a Corpo, Industrial
-    .desc = Equipamento para exoesqueletos de mineração. Essa é uma versão aprimorada da perfuratriz que vai perfurar as rochas!
+    .desc = Equipamento para exoesqueletos de mineração. Essa é uma versão aprimorada da broca que vai perfurar as rochas!
 
 # From: _Goobstation/Entities/Objects/Specific/Medical/hypospray.yml
 
