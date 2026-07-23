@@ -239,11 +239,11 @@ namespace Content.Client.Entry
             // faz com que a posição do fantasma seja mais fiel a posição do mouse
             // vai ver melhora outras coisas também. sei lá
             // try catch pois isso as vezes roda quando o entmanager ainda n inicializou e causa nullreferenceexpectionkkkkkkkkkkkkkkkkkkkkkkkk
-            try
-            {
-                _entitySystemManager.GetEntitySystem<Robust.Client.GameObjects.EyeSystem>()?.FrameUpdate(0);
-            }
-            catch (Exception _) { } // TODO: provavelmente fazer um handling direito de exceção aqui
+            // try
+            // {
+            //     _entitySystemManager.GetEntitySystem<Robust.Client.GameObjects.EyeSystem>()?.FrameUpdate(0);
+            // }
+            // catch (Exception _) { } // TODO: provavelmente fazer um handling direito de exceção aqui
             // Andromeda end
             ////////////////
             if (level == ModUpdateLevel.FramePreEngine)
