@@ -21,3 +21,6 @@ poi-TSFMCOutpost-name = Posto Reserva da TSFMC
 poi-USSPCamelot-name = Porto Livre Camelot
 poi-Zenith-name = ADS Zenith CK-395
 poi-Zvezda-name = Habitação Orbital Zvezda
+
+poi-ZetaNode-name = Nó Zeta
+poi-ZetaNode-desc = Até o ar tem uma leve camada de poeira.
