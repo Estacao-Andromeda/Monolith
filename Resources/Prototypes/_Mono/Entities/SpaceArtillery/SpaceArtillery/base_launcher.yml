@@ -64,6 +64,7 @@
     priority: 1
   - type: ThermalSignature # at least most have a thermal signature when firing
   - type: Gun
+    disableInertia: true # Andromeda: Desativar inercia pra armas de nave e mecha
     selectedMode: FullAuto
     availableModes:
     - FullAuto
@@ -142,6 +143,7 @@
       rotate: true
       bounds: "-1,-1,1,1"
   - type: Gun
+    disableInertia: true # Andromeda: Desativar inercia pra armas de nave e mecha
     fireRate: 3
     selectedMode: FullAuto
     availableModes:
@@ -240,6 +242,7 @@
       rotate: true
       bounds: "-1,-1,1,1"
   - type: Gun
+    disableInertia: true # Andromeda: Desativar inercia pra armas de nave e mecha
     fireRate: 3
     selectedMode: FullAuto
     availableModes:
