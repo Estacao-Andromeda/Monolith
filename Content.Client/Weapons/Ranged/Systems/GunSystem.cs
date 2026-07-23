@@ -51,6 +51,7 @@ public sealed partial class GunSystem : SharedGunSystem
     [Dependency] private SharedTransformSystem _xform = default!;
     [Dependency] private SpriteSystem _sprite = default!;
     [Dependency] private Robust.Client.Physics.PhysicsSystem _physics = default!;
+    [Dependency] private IEntitySystemManager _entitySystemManager = default!; // Andromeda: necessário para o chud fix
 
     public static readonly EntProtoId HitscanProto = "HitscanEffect";
 
@@ -222,6 +223,10 @@ public sealed partial class GunSystem : SharedGunSystem
 
         if (gun.NextFire > Timing.CurTime)
             return;
+
+        // Andromeda: chud fix que eu odeio; força um update do EyeSystem pra garantir que estamos mirando no lugar certo
+        // sem isso, PixelToMap nos dá uma posição antiga e desatualizada caso o jogador esteja se movendo muito rápido
+        _entitySystemManager.GetEntitySystem<Robust.Client.GameObjects.EyeSystem>().FrameUpdate(0);
 
         var mousePos = _eyeManager.PixelToMap(_inputManager.MouseScreenPosition);
 

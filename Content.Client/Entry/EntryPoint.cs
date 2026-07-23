@@ -232,6 +232,23 @@ namespace Content.Client.Entry
 
         public override void Update(ModUpdateLevel level, FrameEventArgs frameEventArgs)
         {
+            ////////////////
+            // Andromeda start: chud fix que eu odeio pra caralho
+            // essa seção foi adicionada inteiramente pra fantasma de construção:
+            // força um update do EyeSystem antes de todos os sistemas (incluindo o de fantasma de construção)
+            // faz com que a posição do fantasma seja mais fiel a posição do mouse
+            // vai ver melhora outras coisas também. sei lá
+            // try catch pois isso as vezes roda quando o entmanager ainda n inicializou e causa nullreferenceexpectionkkkkkkkkkkkkkkkkkkkkkkkk
+            try
+            {
+                _entitySystemManager.GetEntitySystem<Robust.Client.GameObjects.EyeSystem>()?.FrameUpdate(0);
+            }
+            catch (NullReferenceException)
+            {
+                _entitySystemManager.Initialize(); // vaitomanocu chud fix do CARALHO
+            }
+            // Andromeda end
+            ////////////////
             if (level == ModUpdateLevel.FramePreEngine)
             {
                 _debugMonitorManager.FrameUpdate();
