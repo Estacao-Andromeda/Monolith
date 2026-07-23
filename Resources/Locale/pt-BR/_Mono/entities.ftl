@@ -2037,7 +2037,7 @@ ent-CarpCallerMachineCircuitboard = placa de máquina de chamador de carpas
 
 ent-ContainmentFieldGeneratorCircuitboard = placa de máquina de gerador de campo de contenção
 
-ent-ShipDrillMachineCircuitboard = placa de máquina de perfuratriz de nave
+ent-ShipDrillMachineCircuitboard = placa de máquina de broca de nave
 
 ent-SmartArmoryCircuitboard = placa de máquina de arsenal inteligente
     .desc = Uma placa de circuito impresso de máquina para um arsenal inteligente.
@@ -2150,11 +2150,11 @@ ent-FTLDrive50Flatpack = flatpack de motor bluespace CTLA-50
 ent-FTLDriveFlatpack = flatpack de motor bluespace CTLA-25
     .desc = Um flatpack usado para construir um motor bluespace CTLA-25.
 
-ent-GaslockFrameFlatpack = flatpack de esclusa de gás portátil
-    .desc = Um flatpack usado para construir uma esclusa de gás portátil.
+ent-GaslockFrameFlatpack = flatpack de doca de gás portátil
+    .desc = Um flatpack usado para construir uma doca de gás portátil.
 
-ent-GasMiningDrillFlatpack = flatpack de perfuratriz de mineração de gás
-    .desc = Um flatpack usado para construir uma perfuratriz de mineração de gás.
+ent-GasMiningDrillFlatpack = flatpack de mineradora de gás
+    .desc = Um flatpack usado para construir uma mineradora de gás.
 
 ent-L58Flatpack = flatpack L85
     .desc = Um flatpack usado para construir um canhão automático L85 de 20mm.

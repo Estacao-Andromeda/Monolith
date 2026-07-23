@@ -6357,15 +6357,15 @@ ent-AirlockExternalGlassNfsd = {ent-Airlock}
 
 # From: _NF/Entities/Structures/Doors/Airlocks/shuttle.yml
 
-ent-AirlockGlassShuttleNfsd = airlock externo
+ent-AirlockGlassShuttleNfsd = doca externa
     .suffix = TSFMC, Vidro, Acoplamento
     .desc = Necessário para conectar duas naves espaciais.
 
-ent-AirlockShuttleAssemblyNfsd = montagem de airlock externo
+ent-AirlockShuttleAssemblyNfsd = montagem de doca externa
     .suffix = TSFMC, Acoplamento
     .desc = Uma estrutura incompleta necessária para conectar duas naves espaciais.
 
-ent-AirlockShuttleNfsd = airlock externo
+ent-AirlockShuttleNfsd = doca externa
     .suffix = TSFMC, Acoplamento
     .desc = Necessário para conectar duas naves espaciais.
 

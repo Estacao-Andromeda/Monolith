@@ -190,13 +190,13 @@ ent-MeleeDebugBurner = queimador bang
 
 ent-MeleeDebugBurner200 = queimador bang 200dmg
 
-ent-MeleeDebugSever = severador bang
+ent-MeleeDebugSever = mutilador bang
     .suffix = DEBUG
     .desc = seve suas partes a partir de uma semana
 
-ent-MeleeDebugSever100 = severador bang 100dmg
+ent-MeleeDebugSever100 = mutilador bang 100dmg
 
-ent-MeleeDebugSever200 = severador bang 200dmg
+ent-MeleeDebugSever200 = mutilador bang 200dmg
 
 # From: _Shitmed/Entities/Mobs/Species/primate.yml
 
@@ -308,9 +308,9 @@ ent-SurgeryTendWoundsBurn = Curar Feridas por Queimadura
 
 ent-SurgeryStepCarefulIncisionScalpel = Fazer uma incisão cuidadosa
 
-ent-SurgeryStepClampBleeders = Clampar os sangramentos
+ent-SurgeryStepClampBleeders = Estancar os sangramentos
 
-ent-SurgeryStepClampInternalBleeders = Clampar sangramentos internos
+ent-SurgeryStepClampInternalBleeders = Estancar sangramentos internos
 
 ent-SurgeryStepCloseBones = Fechar ossos
 
@@ -358,7 +358,7 @@ ent-SurgeryStepSawBones = Serrar através dos ossos
 
 ent-SurgeryStepSawFeature = Serrar através dos ossos
 
-ent-SurgeryStepSealOrganWound = Sellar feridas
+ent-SurgeryStepSealOrganWound = Selar feridas
 
 ent-SurgeryStepSealTendWound = Selar a ferida
 

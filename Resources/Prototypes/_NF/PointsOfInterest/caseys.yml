@@ -18,7 +18,7 @@
 
 - type: gameMap
   id: CaseysCasino
-  mapName: "Casino do Casey Maluco"
+  mapName: "Casino do Marcelo Maluco"
   mapPath: /Maps/_NF/POI/caseyscasino.yml
   minPlayers: 0
   stations:
@@ -26,4 +26,4 @@
       stationProto: DeadDropFrontierOutpost
       components:
         - type: StationNameSetup
-          mapNameTemplate: "Crazy Casey's Casino"
+          mapNameTemplate: "Casino do Marcelo Maluco"

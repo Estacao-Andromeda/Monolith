@@ -7,9 +7,9 @@ station-event-bluespace-scrap-start-announcement = Tempestades detectadas nas ro
 station-event-bluespace-scrap-warning-announcement = Instabilidade de bluespace detectada nos destroços, cinco minutos até a partida estimada.
 station-event-bluespace-scrap-end-announcement = Instabilidade de bluespace crítica detectada, os destroços da tempestade saíram do setor.
 
-station-event-bluespace-vault-start-announcement = Um cofre de suprimentos blindado Solariano está em rota para o setor. O TSFMC pode declarar o cofre como uma Zona de Voo Proibida. As contas da estação serão recompensadas pelo seu retorno seguro.
+station-event-bluespace-vault-start-announcement = Um cofre blindado de suprimentos Solariano está em rota para o setor. O TSFMC pode declarar o cofre como uma Zona de Voo Proibida. As contas da estação serão recompensadas pelo seu retorno seguro.
 station-event-bluespace-vault-warning-announcement = Procedimentos remotos de FTL inicializados, cinco minutos até a extração do cofre.
-station-event-bluespace-vault-end-announcement = Recuperamos o cofre desta área do espaço do Colossus. As contas da TSFMC foram subsidiadas.
+station-event-bluespace-vault-end-announcement = Recuperamos o cofre desta área do espaço do Colossus. Um pagamento foi enviado à conta da TSFMC.
 station-event-bluespace-cache-start-announcement = Um depósito de armas do Sindicato está em rota para o setor. O TSFMC pode declarar o esconderijo como uma Zona de Voo Proibida. As contas da estação serão recompensadas por guardar o esconderijo.
 station-event-bluespace-cache-warning-announcement = Procedimentos remotos de FTL inicializados, cinco minutos até a extração do depósito de armas.
 station-event-bluespace-cache-end-announcement = Recuperamos o depósito de armas do Sindicato do seu setor. As contas da estação foram pagas.
