@@ -5,3 +5,19 @@ round-end-summary-window-player-name = played by {$player}.
 round-end-summary-window-last-words = [italic][color=gray]"{$lastWords}"[/color][/italic]
 round-end-summary-window-death = They died a {$severity} {$type} death.
 round-end-summary-window-death-unknown = Their body could not be found.
+
+round-end-summary-window-death-burn = fiery
+round-end-summary-window-death-brute = crushing
+round-end-summary-window-death-toxin = poisonous
+round-end-summary-window-death-airloss = suffocating
+round-end-summary-window-death-genetic = twisted
+round-end-summary-window-death-metaphysical = otherworldly
+round-end-summary-window-death-electronic = shocking
+round-end-summary-window-death-mysterious = mysterious
+
+round-end-summary-window-death-severity-catastrophic = catastrophic
+round-end-summary-window-death-severity-devastating = devastating
+round-end-summary-window-death-severity-agonizing = agonizing
+round-end-summary-window-death-severity-painful = painful
+round-end-summary-window-death-severity-brutal = brutal
+round-end-summary-window-death-severity-tragic = tragic
