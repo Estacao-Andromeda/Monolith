@@ -196,15 +196,15 @@ ent-TorsoProtogen = torso protogen
 
 # From: _Mono/Catalogs/Fills/Backpacks/drone_loot.yml
 
-ent-ClothingBackpackDroneLootT1 = gravador de dados blackbox (T1)
+ent-ClothingBackpackDroneLootT1 = caixa preta (T1)
     .suffix = Loot de Drone
     .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
-ent-ClothingBackpackDroneLootT21 = gravador de dados blackbox (T2-1)
+ent-ClothingBackpackDroneLootT21 = caixa preta (T2-1)
     .suffix = Loot de Drone
     .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
-ent-ClothingBackpackDroneLootT22 = gravador de dados blackbox (T2-2)
+ent-ClothingBackpackDroneLootT22 = caixa preta (T2-2)
     .suffix = Loot de Drone
     .desc = Gravador de dados de um drone. Contém componentes valiosos.
 
@@ -1235,7 +1235,7 @@ ent-ArmorPlateSpeed = placa de armadura de velocidade
 # From: _Mono/Entities/Clothing/OuterClothing/Armor/bulletproof_vests.yml
 
 ent-ClothingOuterArmorBPVestHeavy = colete à prova de balas pesado
-    .desc = Um colete kevlar simples de origem desconhecida. Este colete de juggernaute torna você praticamente um tanque andando, ao custo de proteção térmica e volume extremo.
+    .desc = Um colete kevlar simples de origem desconhecida. Este colete de juggernaut torna você praticamente um tanque andando, ao custo de proteção térmica e volume extremo.
 
 ent-ClothingOuterArmorBPVestLight = colete à prova de balas leve
     .desc = Um colete kevlar simples de origem desconhecida. Este é um colete à prova de balas simples feito para resistir a balas de baixo calibre.
@@ -3013,7 +3013,7 @@ ent-FoodBoxBiscuitSugar = Caixa de Biscoitos de Açúcar
 ent-BroadswordChassis = chassi Broadsword
     .desc = Uma construção em progresso do mecha Broadsword.
 
-ent-BroadswordHarness = arnês Broadsword
+ent-BroadswordHarness = chassi Broadsword
     .desc = O núcleo do AF-28 "Broadsword".
 
 ent-BroadswordHead = cabeça Broadsword
@@ -3034,7 +3034,7 @@ ent-BroadswordRLeg = perna direita Broadsword
 ent-FlailChassis = chassi Flail
     .desc = Uma construção em progresso do mecha Flail.
 
-ent-FlailHarness = arnês Flail
+ent-FlailHarness = chassi Flail
     .desc = O núcleo do ASF-59 "Flail".
 
 ent-FlailHead = cabeça Flail
@@ -3055,19 +3055,19 @@ ent-FlailRLeg = perna direita Flail
 ent-HalberdChassis = chassi Halberd
     .desc = Uma construção em progresso do mecha Halberd.
 
-ent-HalberdHarness = arnês Halberd
+ent-HalberdHarness = chassi Halberd
     .desc = O núcleo do AF-28-M "Halberd".
 
 ent-MaceChassis = chassi Mace
     .desc = Uma construção em progresso do mecha Mace.
 
-ent-MaceHarness = arnês Mace
+ent-MaceHarness = chassi Mace
     .desc = O núcleo do ASF-59-B "Mace".
 
 ent-SpyglassChassis = chassi Spyglass
     .desc = Uma construção em progresso do mecha Spyglass.
 
-ent-SpyglassHarness = arnês Spyglass
+ent-SpyglassHarness = chassi Spyglass
     .desc = O núcleo do ASF-59-E "Spyglass".
 
 # From: _Mono/Entities/Objects/Specific/Mechs/mecha_equipment.yml
@@ -3495,13 +3495,13 @@ ent-TechDiskMechS2Base = disco de tecnologia de mecha S2 básica
     .desc = Um disco capaz de adicionar mechas S2 básicos às receitas de um servidor.
 
 ent-TechDiskMechS2Spec = disco de tecnologia de mechas especializados S2
-    .desc = Um disco capaz de adicionar chassis de mechas especializados S2 às receitas de um servidor.
+    .desc = Um disco capaz de adicionar chassi de mechas especializados S2 às receitas de um servidor.
 
 ent-TechDiskMechS4Base = disco de tecnologia de mecha S4 básica
     .desc = Um disco capaz de adicionar mechas S4 básicos às receitas de um servidor.
 
 ent-TechDiskMechS4Spec = disco de tecnologia de mechas especializados S4
-    .desc = Um disco capaz de adicionar chassis de mechas especializados S4 às receitas de um servidor.
+    .desc = Um disco capaz de adicionar chassi de mechas especializados S4 às receitas de um servidor.
 
 ent-TechDiskMechWeaponsHeavy = disco de tecnologia de armamento pesado de mechas
     .desc = Um disco capaz de adicionar armas pesadas de mecha às receitas de um servidor.

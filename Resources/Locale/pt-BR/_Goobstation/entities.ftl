@@ -689,28 +689,28 @@ ent-RipleyUpgradeKit = Kit de Atualização de Exoesqueleto
 # From: _Goobstation/Entities/Objects/Devices/Electronics/mech.yml
 
 ent-ClarkeCentralElectronics = módulo de controle central clarke
-    .desc = O centro de controle elétrico para o mech Clarke.
+    .desc = O centro de controle elétrico para o mecha Clarke.
 
 ent-ClarkePeripheralsElectronics = módulo de controle periférico clarke
-    .desc = O controle elétrico periférico para o mech Clarke.
+    .desc = O controle elétrico periférico para o mecha Clarke.
 
 ent-DurandCentralElectronics = módulo de controle central durand
-    .desc = O centro de controle elétrico para o mech Durand.
+    .desc = O centro de controle elétrico para o mecha Durand.
 
 ent-DurandPeripheralsElectronics = módulo de controle periférico durand
-    .desc = O controle elétrico periférico para o mech Durand.
+    .desc = O controle elétrico periférico para o mecha Durand.
 
 ent-DurandTargetingElectronics = módulo de mira e controle de armas durand
-    .desc = O controle elétrico de mira para o mech Durand.
+    .desc = O controle elétrico de mira para o mecha Durand.
 
 ent-GygaxCentralElectronics = módulo de controle central gygax
-    .desc = O centro de controle elétrico para o mech Gygax.
+    .desc = O centro de controle elétrico para o mecha Gygax.
 
 ent-GygaxPeripheralsElectronics = módulo de controle periférico gygax
-    .desc = O controle elétrico periférico para o mech Gygax.
+    .desc = O controle elétrico periférico para o mecha Gygax.
 
 ent-GygaxTargetingElectronics = módulo de mira e controle de armas gygax
-    .desc = O controle elétrico de mira para o mech Gygax.
+    .desc = O controle elétrico de mira para o mecha Gygax.
 
 # From: _Goobstation/Entities/Objects/Devices/encryption_keys.yml
 
@@ -894,76 +894,76 @@ ent-BluespaceLifelineImplant = Implante de Linha de Vida Bluespace
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/mech_construction.yml
 
-ent-ClarkeChassis = Chassis Clarke
-    .desc = Uma construção em andamento do mech Clarke.
+ent-ClarkeChassis = Chassi Clarke
+    .desc = Uma construção em andamento do mecha Clarke.
 
-ent-ClarkeHarness = Arnês Clarke
+ent-ClarkeHarness = Chassi Clarke
     .desc = O núcleo do Clarke.
 
 ent-ClarkeHead = Cabeça Clarke
-    .desc = A cabeça do Clarke. Pertence ao chassis do mech.
+    .desc = A cabeça do Clarke. Pertence ao chassi do mecha.
 
 ent-ClarkeLArm = Braço Esquerdo Clarke
-    .desc = O braço esquerdo do Clarke. Pertence ao chassis do mech.
+    .desc = O braço esquerdo do Clarke. Pertence ao chassi do mecha.
 
 ent-ClarkeRArm = Braço Direito Clarke
-    .desc = O braço direito do Clarke. Pertence ao chassis do mech.
+    .desc = O braço direito do Clarke. Pertence ao chassi do mecha.
 
 ent-ClarkeTreads = Esteiras Clarke
-    .desc = As esteiras do Clarke. Pertencem ao chassis do mech.
+    .desc = As esteiras do Clarke. Pertencem ao chassi do mecha.
 
-ent-DurandChassis = Chassis Durand
-    .desc = Uma construção em andamento do mech Durand.
+ent-DurandChassis = Chassi Durand
+    .desc = Uma construção em andamento do mecha Durand.
 
-ent-DurandHarness = Arnês Durand
+ent-DurandHarness = Chassi Durand
     .desc = O núcleo do Durand.
 
 ent-DurandHead = Cabeça Durand
-    .desc = A cabeça do Durand. Pertence ao chassis do mech.
+    .desc = A cabeça do Durand. Pertence ao chassi do mecha.
 
 ent-DurandLArm = Braço Esquerdo Durand
-    .desc = O braço esquerdo do Durand. Pertence ao chassis do mech.
+    .desc = O braço esquerdo do Durand. Pertence ao chassi do mecha.
 
 ent-DurandLLeg = Perna Esquerda Durand
-    .desc = A perna esquerda do Durand. Pertence ao chassis do mech.
+    .desc = A perna esquerda do Durand. Pertence ao chassi do mecha.
 
 ent-DurandRArm = Braço Direito Durand
-    .desc = O braço direito do Durand. Pertence ao chassis do mech.
+    .desc = O braço direito do Durand. Pertence ao chassi do mecha.
 
 ent-DurandRLeg = Perna Direita Durand
-    .desc = A perna direita do Durand. Pertence ao chassis do mech.
+    .desc = A perna direita do Durand. Pertence ao chassi do mecha.
 
-ent-GygaxChassis = Chassis Gygax
-    .desc = Uma construção em andamento do mech Gygax.
+ent-GygaxChassis = Chassi Gygax
+    .desc = Uma construção em andamento do mecha Gygax.
 
-ent-GygaxHarness = Arnês Gygax
+ent-GygaxHarness = Chassi Gygax
     .desc = O núcleo do Gygax.
 
 ent-GygaxHead = Cabeça Gygax
-    .desc = A cabeça do Gygax. Pertence ao chassis do mech.
+    .desc = A cabeça do Gygax. Pertence ao chassi do mecha.
 
 ent-GygaxLArm = Braço Esquerdo Gygax
-    .desc = O braço esquerdo do Gygax. Pertence ao chassis do mech.
+    .desc = O braço esquerdo do Gygax. Pertence ao chassi do mecha.
 
 ent-GygaxLLeg = Perna Esquerda Gygax
-    .desc = A perna esquerda do Gygax. Pertence ao chassis do mech.
+    .desc = A perna esquerda do Gygax. Pertence ao chassi do mecha.
 
 ent-GygaxRArm = Braço Direito Gygax
-    .desc = O braço direito do Gygax. Pertence ao chassis do mech.
+    .desc = O braço direito do Gygax. Pertence ao chassi do mecha.
 
 ent-GygaxRLeg = Perna Direita Gygax
-    .desc = A perna direita do Gygax. Pertence ao chassis do mech.
+    .desc = A perna direita do Gygax. Pertence ao chassi do mecha.
 
-ent-RipleyMKIIChassis = Chassis Ripley MK-II
-    .desc = Uma construção em andamento do mech Ripley MK-II.
+ent-RipleyMKIIChassis = Chassi Ripley MK-II
+    .desc = Uma construção em andamento do mecha Ripley MK-II.
 
-ent-RipleyMKIIHarness = Arnês Ripley MK-II
+ent-RipleyMKIIHarness = Chassi Ripley MK-II
     .desc = O núcleo do Ripley MK-II.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/mechs.yml
 
 ent-MechClarke = Clarke
-    .desc = Um mech de movimento rápido para viagem espacial. Tem propulsores embutidos.
+    .desc = Um mecha de movimento rápido para viagem espacial. Tem propulsores embutidos.
 
 ent-MechDurand = Durand
     .desc = Um exoesqueleto de combate lento mas robusto que é extra assustador em espaços confinados devido aos seus socos. Xenos odeiam!
@@ -989,107 +989,107 @@ ent-MechSeraph = Seraph
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/combat.yml
 
 ent-WeaponMechCombatDisabler = Desabilitador CH-PD
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Desabilitador
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Desabilitador
     .desc = Uma arma de atordoamento montada não letal que permite imobilizar intrusos.
 
 ent-WeaponMechCombatFiredartLaser = CH-PS Firedart Laser
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
-    .desc = Um rifle laser montado em mech de disparo rápido.
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Laser
+    .desc = Um rifle laser montado em mecha de disparo rápido.
 
 ent-WeaponMechCombatFlashbangLauncher = Lançador de Flashbang SGL-6
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Flashbang
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Flashbang
     .desc = Lança mísseis de rompimento de baixa explosividade projetados para explodir apenas ao atingir um alvo robusto.
 
 ent-WeaponMechCombatImmolationGun = Arma de Feixe de Imolação ZFI
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
-    .desc = Um canhão de raio-X montado em mech.
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Laser
+    .desc = Um canhão de raio-X montado em mecha.
 
 ent-WeaponMechCombatMissileRack6 = Suporte de Mísseis BRM-6
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Míssil
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Míssil
     .desc = Os tubos devem ser recarregados de fora.
 
 ent-WeaponMechCombatMissileRack8 = Suporte de Mísseis Leves SRM-8
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Míssil Leve
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Míssil Leve
     .desc = Lança mísseis de rompimento de baixa explosividade projetados para explodir apenas ao atingir um alvo robusto.
 
 ent-WeaponMechCombatPulseRifle = Rifle de Pulso Pesado eZ-14 mk2
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Pulso
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Pulso
     .desc = Dispara um laser de pulso pesado.
 
 ent-WeaponMechCombatShotgun = LBX AC 10 Scattershot
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Shotgun
-    .desc = Uma shotgun montada em mech para limpeza de salas.
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Shotgun
+    .desc = Uma shotgun montada em mecha para limpeza de salas.
 
 ent-WeaponMechCombatShotgunIncendiary = FNX-99 Hades Carabina
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Shotgun, Incendiário
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Shotgun, Incendiário
     .desc = Carabina montada, disparando cartuchos incendiários.
 
 ent-WeaponMechCombatSolarisLaser = Canhão Laser CH-LC Solaris
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Laser
-    .desc = Um canhão laser montado em mech.
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Laser
+    .desc = Um canhão laser montado em mecha.
 
 ent-WeaponMechCombatTaser = PBT Pacifier Taser Montado
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Desabilitador, admeme
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Desabilitador, admeme
     .desc = Um taser não letal montado que permite atordoar intrusos.
 
 ent-WeaponMechCombatTeslaCannon = Canhão Tesla P-X
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Tesla
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Tesla
     .desc = Uma arma para mechs de combate, disparando bolas de energia, baseada no princípio de um motor Tesla experimental.
 
 ent-WeaponMechCombatUltraRifle = Ultra AC-2
-    .suffix = Arma de Mech, Arma de Fogo, Combate, Rifle
+    .suffix = Arma de Mecha, Arma de Fogo, Combate, Rifle
     .desc = Carabina montada, disparando cartuchos incendiários.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/debug.yml
 
 ent-WeaponMechDebugBallistic = Debug Bum
     .desc = Apenas para testes.
-    .suffix = Arma de Mech, DEBUG, Balística
+    .suffix = Arma de Mecha, DEBUG, Balística
 
 ent-WeaponMechDebugDisabler = Debug Tew
-    .suffix = Arma de Mech, DEBUG, Desabilitador
+    .suffix = Arma de Mecha, DEBUG, Desabilitador
     .desc = Uma arma de autodefesa que exaure alvos orgânicos, enfraquecendo-os até desmaiar.
 
 ent-WeaponMechDebugLaser = Debug Pow
-    .suffix = Arma de Mech, DEBUG, Laser
+    .suffix = Arma de Mecha, DEBUG, Laser
     .desc = Uma arma usando luz amplificada pela emissão estimulada de radiação.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/industrial.yml
 
 ent-WeaponMechIndustrialKineticAccelerator = Acelerador Cinético Proto-Exoesqueleto
-    .suffix = Arma de Mech, Arma de Fogo, Industrial, Acelerador Cinético
+    .suffix = Arma de Mecha, Arma de Fogo, Industrial, Acelerador Cinético
     .desc = Dispara projéteis cinéticos de dano normal em curto alcance.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Gun/special.yml
 
 ent-WeaponMechSpecialBananaMortar = Morteiro de Banana
-    .suffix = Arma de Mech, Arma de Fogo, Especial, Morteiro
+    .suffix = Arma de Mecha, Arma de Fogo, Especial, Morteiro
     .desc = Lançador de cascas de banana montado.
 
 ent-WeaponMechSpecialMousetrapMortar = Morteiro de Ratoeira
-    .suffix = Arma de Mech, Arma de Fogo, Especial, Morteiro
+    .suffix = Arma de Mecha, Arma de Fogo, Especial, Morteiro
     .desc = Lançador de ratoeiras montado.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/combat.yml
 
 ent-WeaponMechChainSword = Moto-serra de Exoesqueleto
-    .suffix = Arma de Mech, Corpo a Corpo, Combate
+    .suffix = Arma de Mecha, Corpo a Corpo, Combate
     .desc = Equipamento para exoesqueletos de combate. Essa é a moto-serra mecânica que vai perfurar os céus!
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/debug.yml
 
 ent-WeaponMechDebugMelle = Debug Bam
-    .suffix = Arma de Mech, DEBUG, Corpo a Corpo
+    .suffix = Arma de Mecha, DEBUG, Corpo a Corpo
     .desc = Uma coisa robusta.
 
 # From: _Goobstation/Entities/Objects/Specific/Mech/Weapons/Melee/industrial.yml
 
 ent-WeaponMechMeleeDrill = broca para mecha
-    .suffix = Arma de Mech, Corpo a Corpo, Industrial
+    .suffix = Arma de Mecha, Corpo a Corpo, Industrial
     .desc = Equipamento para exoesqueletos de mineração. Essa é a broca que vai perfurar as rochas!
 
 ent-WeaponMechMeleeDrillDiamond = broca de diamante para mecha
-    .suffix = Arma de Mech, Corpo a Corpo, Industrial
+    .suffix = Arma de Mecha, Corpo a Corpo, Industrial
     .desc = Equipamento para exoesqueletos de mineração. Essa é uma versão aprimorada da broca que vai perfurar as rochas!
 
 # From: _Goobstation/Entities/Objects/Specific/Medical/hypospray.yml

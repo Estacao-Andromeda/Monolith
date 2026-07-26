@@ -57,4 +57,4 @@ trait-language-azaziba-desc =
 
 trait-language-SiikMaas-name = Siik'maas
 trait-language-SiikMaas-desc =
-    A antiga língua religiosa dos Tajara, agora a língua mais amplamente falada e ensinada em Adhomai.
+    A antiga língua religiosa dos Tajaran, agora a língua mais amplamente falada e ensinada em Adhomai.

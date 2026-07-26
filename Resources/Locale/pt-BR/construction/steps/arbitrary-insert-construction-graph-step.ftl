@@ -1,5 +1,5 @@
 # Shown when examining an in-construction object
-construction-insert-arbitrary-entity = Em seguida, insira [color=cyan]{$stepName}[/color].
+construction-insert-arbitrary-entity = Em seguida, insira [color=cyan]{LOC($stepName)}[/color].
 
 construction-insert-info-examine-name-instrument-brass = instrumento de metal
 construction-insert-info-examine-name-instrument-keyed = instrumento de teclas

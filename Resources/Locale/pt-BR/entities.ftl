@@ -4818,7 +4818,7 @@ ent-BooksBag = saco de livros
 ent-HamtrChassis = chassi HAMTR
     .desc = Uma construção em andamento do mecha HAMTR.
 
-ent-HamtrHarness = arreios HAMTR
+ent-HamtrHarness = chassi HAMTR
     .desc = O núcleo do HAMTR.
 
 ent-HamtrLArm = braço esquerdo HAMTR
@@ -4836,7 +4836,7 @@ ent-HamtrRLeg = perna direita HAMTR
 ent-HonkerChassis = chassi H.O.N.K.
     .desc = Uma construção em andamento de um mecha H.O.N.K. Contém unidade de risada, núcleo de banânio e sistemas de suporte honk.
 
-ent-HonkerHarness = arreios H.O.N.K.
+ent-HonkerHarness = chassi H.O.N.K.
     .desc = O núcleo do mecha H.O.N.K.
 
 ent-HonkerLArm = braço esquerdo H.O.N.K.
@@ -4854,7 +4854,7 @@ ent-HonkerRLeg = perna direita H.O.N.K.
 ent-RipleyChassis = chassi Ripley
     .desc = Uma construção em andamento do mecha Ripley APLU.
 
-ent-RipleyHarness = arreios Ripley
+ent-RipleyHarness = chassi Ripley
     .desc = O núcleo do Ripley APLU.
 
 ent-RipleyLArm = braço esquerdo Ripley
@@ -4872,7 +4872,7 @@ ent-RipleyRLeg = perna direita Ripley
 ent-VimChassis = chassi Vim
     .desc = Uma construção em andamento do exoesqueleto Vim.
 
-ent-VimHarness = arreios Vim
+ent-VimHarness = chassi Vim
     .desc = Um pequeno suporte de montagem para peças Vim.
 
 # From: Entities/Objects/Specific/Mech/mecha_equipment.yml
@@ -16604,7 +16604,7 @@ ent-CrateEngineeringThruster = caixa de propulsor
 
 # From: Catalog/Fills/Crates/syndicate.yml
 
-ent-CrateCybersunJuggernautBundle = pacote de jugernaute Cybersun
+ent-CrateCybersunJuggernautBundle = pacote de juggernaut Cybersun
     .suffix = Preenchida
     .desc = Contém tudo, exceto uma arma grande para se tornar violento.
 

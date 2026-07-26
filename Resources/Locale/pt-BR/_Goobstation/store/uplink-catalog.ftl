@@ -1,10 +1,10 @@
 # Mechs
 
-uplink-mech-teleporter-heavy-name = Teletransportador de Mech Pesado
-uplink-mech-teleporter-heavy-desc = Contém um mech Cybersun fortemente blindado com uma espada-serra integrada, Ultra AC-2, LBX AC 10 "Escopeta", BRM-6 Suporte de Mísseis e Canhão Tesla P-X.
+uplink-mech-teleporter-heavy-name = Teletransportador de Mecha Pesado
+uplink-mech-teleporter-heavy-desc = Contém um mecha Cybersun fortemente blindado com uma espada-serra integrada, Ultra AC-2, LBX AC 10 "Escopeta", BRM-6 Suporte de Mísseis e Canhão Tesla P-X.
 
-uplink-mech-teleporter-assault-name = Teletransportador de Mech de Assalto
-uplink-mech-teleporter-assault-desc = Contém um mech Cybersun levemente blindado com uma espada-serra integrada, LBX AC 10 "Escopeta", Suporte de Mísseis Leves SRM-8 e Canhão Tesla P-X.
+uplink-mech-teleporter-assault-name = Teletransportador de Mecha de Assalto
+uplink-mech-teleporter-assault-desc = Contém um mecha Cybersun levemente blindado com uma espada-serra integrada, LBX AC 10 "Escopeta", Suporte de Mísseis Leves SRM-8 e Canhão Tesla P-X.
 
 # Cybersun Stealth
 
