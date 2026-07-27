@@ -80,6 +80,7 @@
       path: /Audio/Announcements/attention.ogg
     weight: 6
     duration: 50
+    reoccurrenceDelay: 90 # Andromeda: CHEGA
   - type: VentCrittersRule
     entries:
     - id: MobCockroach
@@ -102,6 +103,7 @@
       path: /Audio/Announcements/attention.ogg
     weight: 6
     duration: 50
+    reoccurrenceDelay: 90 # Andromeda: CHEGA
   - type: VentCrittersRule
     entries:
     - id: MobSnail
