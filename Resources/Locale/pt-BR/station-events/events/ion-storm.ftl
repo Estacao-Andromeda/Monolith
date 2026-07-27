@@ -6,7 +6,7 @@ ion-storm-you = VOCÊ
 # Frontier: the station < the sector
 ion-storm-the-station = O SETOR
 ion-storm-the-crew = A TRIPULAÇÃO
-ion-storm-the-job = O/A {$job}
+ion-storm-the-job = {$job}
 ion-storm-clowns = PALHAÇOS
 # Frontier: heads of staff < sector command
 ion-storm-heads = COMANDO DO SETOR

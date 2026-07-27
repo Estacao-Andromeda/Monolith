@@ -35,8 +35,9 @@ chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][Bubble
 # chat-manager-language-prefix = ({ $language }){" "} - Removed so it doesn't show up, not wanted, but part of the language system.
 
 # THE() is not used here because the entity and its name can technically be disconnected if a nameOverride is passed...
+# Drago: não ligo :joinha:. nesse ponto do tempo THE() tá quebrado mesmo então vira só "a" ou "" então.........
 chat-manager-entity-me-wrap-message = [italic]{ PROPER($entity) ->
-    *[false] O/A {$entityName} {$message}[/italic]
+    *[false] {THE($entityName)} {$message}[/italic]
      [true] {CAPITALIZE($entityName)} {$message}[/italic]
     }
 
