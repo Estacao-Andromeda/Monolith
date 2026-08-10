@@ -22,3 +22,7 @@ marking-VoxHairTielQuills = Vox Penas Tiel
 marking-VoxHairYasu = Vox Yasuhiro
 marking-VoxHairWiseBraid = Vox Tranças Sábias
 marking-VoxHairSpotty = Vox Cabelo Manchado
+marking-VoxHairMadScientist = Vox Cientista Maluco
+marking-VoxHairHedgehog = Vox Ouriço
+marking-VoxHairBushy = Vox Penas Peludas
+marking-VoxHairSlick = Vox Penas Lisos

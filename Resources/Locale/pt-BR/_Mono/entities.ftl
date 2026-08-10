@@ -9581,3 +9581,9 @@ ent-MonoDroneSpawnerT0 = MonoDroneSpawnerT0
 ent-SpawnDroneDander = SpawnDroneDander
 
 ent-SpawnDroneMote = SpawnDroneMote
+
+# From: Resources/Prototypes/_Mono/Entities/Objects/Misc/testing.yml
+
+ent-NukeTestingProjectile = lagosta nuclear
+    .desc =  Você tem que se moggar AGORA
+    .suffix = yeah
