@@ -5674,7 +5674,7 @@ ent-WeaponLauncherMPSSM = lança mísseis NT-WS SM-27 MPSSM
 ent-CyborgWeaponMinigun = minigun de ciborgue
     .desc = Antiga rotary mini-gun altamente imprecisa com calibre pequeno.
 
-ent-WeaponDP29 = NCI DP-29 # keep as is
+ent-WeaponDP29 = NCI DP-29
     .desc = Um pilar da doutrina militar da USSP, o DP-29 é uma metralhadora leve produzida em massa projetada para confiabilidade, facilidade de uso e resistência no campo de batalha. Com um carregador rotativo montado no topo distinto e um bipé dobrável, o DP-29 é excelente em fornecer fogo de supressão tanto em cenários de combate urbano quanto aberto. Embora seu design date de décadas atrás, sua confiabilidade e facilidade de manutenção o tornam um favorito entre os esquadrões de infantaria da USSP.
 
 ent-WeaponLMGGrizzly = TCA QJY-68 Grizzly (6.8x52mm sem estojo)
