@@ -10452,8 +10452,8 @@ ent-HolopadUnlimitedRange = holopad de emaranhamento quântico
 
 # From: Entities/Structures/Machines/hotplate.yml
 
-ent-ChemistryHotplate = chapapa
-    .desc = O descendente dos micro-ondes, nossa mais nova invenção em tecnologia de aquecimento de béqueres: a chapapa!
+ent-ChemistryHotplate = chapa quente
+    .desc = O descendente do micro-ondas, nossa mais nova invenção em tecnologia de aquecimento de béqueres: a chapa quente!
 
 # From: Entities/Structures/Machines/jukebox.yml
 
