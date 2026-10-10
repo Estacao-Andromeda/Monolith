@@ -9,10 +9,10 @@ ent-CEActionToggleLookUp = Olhar para cima
 
 
 ent-CEActionZFlightUp = Voar para cima
-    .desc = Bate suas asas e ascende um Z-Level
+    .desc = Bate suas asas e sobe um Z-Level
 
 ent-CEActionZFlightDown = Voar para baixo
-    .desc = Descende um Z-Level.
+    .desc = Desce um Z-Level.
 
 ent-CEActionZFlightToggle = Alternar Vôo
     .desc = Levanta vôo, ou aterissa ao chão.
