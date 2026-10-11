@@ -7090,19 +7090,19 @@ ent-WallSolidChitinMonolithic = tenebris monolítico
 
 # From: _Mono/Entities/Structures/windows.yml
 
-ent-PlasturaniumWindowDiagonalRadProof = janela de plasturanio
+ent-PlasturaniumWindowDiagonalRadProof = janela de plastiurânio
     .suffix = Rad-Proof
     .desc = Não manche os rads aí embaixo.
 
-ent-PlasturaniumWindowDiagonalRadProofIndestructible = janela de plasturanio
+ent-PlasturaniumWindowDiagonalRadProofIndestructible = janela de plastiurânio
     .suffix = Rad-Proof, Indestrutível
     .desc = Não manche os rads aí embaixo.
 
-ent-PlasturaniumWindowRadProof = janela de plasturanio
+ent-PlasturaniumWindowRadProof = janela de plastiurânio
     .suffix = Rad-Proof
     .desc = Não manche os rads aí embaixo.
 
-ent-PlasturaniumWindowRadProofIndestructible = janela de plasturanio
+ent-PlasturaniumWindowRadProofIndestructible = janela de plastiurânio
     .suffix = Rad-Proof, Indestrutível
     .desc = Não manche os rads aí embaixo.
 
