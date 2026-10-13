@@ -192,8 +192,15 @@ namespace Content.Client.Construction.UI
 
                 if (!string.IsNullOrEmpty(search))
                 {
-                    if (!recipe.Name.ToLowerInvariant().Contains(search.Trim().ToLowerInvariant()))
+                    // Andromeda start
+                    // TODO: seria muito foda se a gente conseguisse puxar o localizationmanager pra ca e pesquisar no locale de en-US
+                    if (!recipe.Name.ToLowerInvariant().Contains(search.Trim(), StringComparison.CurrentCultureIgnoreCase))
                         continue;
+
+                    // filtra por ID e remove todos os whitespaces
+                    if (!recipe.ID.ToLowerInvariant().Contains(search.Trim().Replace(" ", ""), StringComparison.OrdinalIgnoreCase))
+                        continue;
+                    // Andromeda end
                 }
 
                 if (!isEmptyCategory)
