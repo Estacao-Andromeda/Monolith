@@ -8869,31 +8869,6 @@ ent-WindowTimedSeal60Minutes = {ent-WindowTimedSeal}
     .desc = {ent-WindowTimedSeal.desc}
     .suffix = 60 Minutos, indestrutível.
 
-ent-MailMonoAK = {ent-BaseMailLarge}
-    .desc = {ent-BaseMailLarge.desc}
-    .suffix = AK
-
-ent-MailMonoC20r = {ent-BaseMailLarge}
-    .desc = {ent-BaseMailLarge.desc}
-    .suffix = C20r.
-
-ent-MailMonoC4 = {ent-BaseMailLarge}
-    .desc = {ent-BaseMailLarge.desc}
-    .suffix = C4
-
-ent-MailMonoDesword = {ent-BaseMailLarge}
-    .desc = {ent-BaseMailLarge.desc}
-    .suffix = Desword
-
-ent-MailMonoERTMailKit = {ent-BaseMailLarge}
-    .desc = {ent-BaseMailLarge.desc}
-    .suffix = ErtMailKit
-
-ent-MailMonoRCD = {ent-BaseMail}
-
-    .suffix = RCD
-
-
 
 # From: Resources/Prototypes/_Mono/Entities/Clothing/Jumpsuit/jumpsuits.yml
 

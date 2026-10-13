@@ -38,4 +38,4 @@ armor-plate-stamina-source-absorb = [color=cyan]Absorvido[/color]
 armor-plate-stamina-concat = e
 armor-plate-stamina-source-amplified = [color=fuchsia]Amplificado[/color]
 armor-plate-stamina-source-raw = [color=red]Todos[/color]
-armor-plate-stamina-value = Causa [color=yellow]{$multiplier}%[/color] do dano absorvido como dano de stamina.
+armor-plate-stamina-value = Inflinge [color=yellow]{$multiplier}%[/color] de dano {$sources} como dano de stamina.

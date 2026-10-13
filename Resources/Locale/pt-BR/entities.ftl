@@ -16103,14 +16103,6 @@ ent-FloorTileItemGrassLight = laje de grama clara
 ent-BaseAmphora = ânfora
     .desc = É um jarro de barro adequado para transportar líquidos, um exemplo de tecnologia antiga.
 
-# From: Nyanotrasen/Entities/Objects/Specific/Mail/base_mail.yml
-# Abstract entity (referenceable by children)
-
-ent-BaseMail = mail-item-name-unaddressed
-
-ent-MailAdminFun = {ent-BaseMail}
-    .suffix = adminfun
-
 # From: Nyanotrasen/Entities/Objects/Specific/Mail/tools.yml
 
 ent-MailBag = saco de correio
