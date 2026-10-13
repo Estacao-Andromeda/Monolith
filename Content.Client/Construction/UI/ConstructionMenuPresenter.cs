@@ -192,13 +192,10 @@ namespace Content.Client.Construction.UI
 
                 if (!string.IsNullOrEmpty(search))
                 {
-                    // Andromeda start
+                    // Andromeda start: Normalize diacritics & allow searching by ID so en-US searches are possible
                     // TODO: seria muito foda se a gente conseguisse puxar o localizationmanager pra ca e pesquisar no locale de en-US
-                    if (!recipe.Name.ToLowerInvariant().Contains(search.Trim(), StringComparison.CurrentCultureIgnoreCase))
-                        continue;
-
-                    // filtra por ID e remove todos os whitespaces
-                    if (!recipe.ID.ToLowerInvariant().Contains(search.Trim().Replace(" ", ""), StringComparison.OrdinalIgnoreCase))
+                    if (!recipe.Name.ToLowerInvariant().Contains(search.Trim(), StringComparison.InvariantCultureIgnoreCase)
+                    && !recipe.ID.ToLowerInvariant().Contains(search.Trim().Replace(" ", ""), StringComparison.OrdinalIgnoreCase))
                         continue;
                     // Andromeda end
                 }
