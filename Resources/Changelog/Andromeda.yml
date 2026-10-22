@@ -129,3 +129,19 @@ Entries:
   id: 16
   time: '2026-10-22T15:36:07.0000000+00:00'
   url: https://github.com/Estacao-Andromeda/Monolith/pull/18
+- author: Dragometh
+  changes:
+    - type: Add
+      message: 'Port [Frontier]: Alvos de coordenada configuráveis no console de nave.'
+  id: 17
+  time: '2026-10-22T22:07:38.0000000+00:00'
+  url: https://github.com/Estacao-Andromeda/Monolith/pull/20
+- author: Dragometh
+  changes:
+    - type: Add
+      message: >-
+        Port [Frontier]: Implantes e cartuchos selecionados no loadout serão
+        automaticamente usados ao sair da cryo.
+  id: 18
+  time: '2026-10-22T22:08:11.0000000+00:00'
+  url: https://github.com/Estacao-Andromeda/Monolith/pull/21
