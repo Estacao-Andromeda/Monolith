@@ -25,5 +25,4 @@ chat-emote-msg-bark = late.
 chat-emote-msg-snarl = rosna.
 chat-emote-msg-whine = choraminga.
 chat-emote-msg-howl = uiva.
-chat-emote-msg-awoo = uiva.
 chat-emote-msg-gnash = morde.
