@@ -16682,11 +16682,11 @@ ent-CrateCybersunJuggernautBundle = pacote de jugernaute Cybersun
     .suffix = Preenchida
     .desc = Contém tudo, exceto uma arma grande para se tornar violento.
 
-ent-CrateSyndicateSuperSurplusBundle = caixa super surplus do Sindicato
-    .desc = Contém 600 telecristais de itens completamente aleatórios do Sindicato.
+ent-CrateSyndicateSuperSurplusBundle = caixa super surplus PDV
+    .desc = Contém 600 telecristais de itens completamente aleatórios e altamente ilegais.
 
-ent-CrateSyndicateSurplusBundle = caixa surplus do Sindicato
-    .desc = Contém 250 telecristais de itens completamente aleatórios do Sindicato. Pode ser lixo inútil ou algo realmente bom.
+ent-CrateSyndicateSurplusBundle = caixa surplus PDV
+    .desc = Contém 250 telecristais de itens completamente aleatórios e altamente ilegais. Pode ser lixo inútil ou algo realmente bom.
 
 # From: Catalog/Fills/Crates/vending.yml
 
