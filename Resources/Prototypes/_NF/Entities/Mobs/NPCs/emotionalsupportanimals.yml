@@ -41,8 +41,8 @@
   components:
   - type: RandomMetadata
     nameSegments: [names_cat]
-  - type: ReplacementAccent
-    accent: cat
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: cat
   - type: Vocal
     sounds:
       Male: Cat
@@ -62,8 +62,8 @@
   components:
   - type: RandomMetadata
     nameSegments: [names_dog]
-  - type: ReplacementAccent
-    accent: dog
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: dog
   - type: Vocal
     sounds:
       Male: Dog
@@ -172,8 +172,8 @@
   parent: [BaseEmotionalGhost, MobChicken]
   id: MobChickenGhost
   components:
-  - type: ReplacementAccent
-    accent: chicken
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: chicken
   - type: Vocal
     sounds:
       Male: Chicken
@@ -189,8 +189,8 @@
   parent: [BaseEmotionalGhost, MobFox]
   id: MobFoxGhost
   components:
-  - type: ReplacementAccent
-    accent: fox
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: fox
   - type: Vocal
     sounds:
       Male: Fox

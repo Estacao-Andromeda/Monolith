@@ -128,8 +128,8 @@
           groups:
             Brute: -2
             Burn: -2
-  - type: ReplacementAccent
-    accent: tomatoKiller
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: tomatoKiller
   - type: Item
   - type: NpcFactionMember
     factions:

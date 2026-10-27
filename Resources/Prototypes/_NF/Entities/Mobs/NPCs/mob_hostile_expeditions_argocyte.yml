@@ -60,8 +60,8 @@
     baseWalkSpeed : 3
   - type: TypingIndicator
     proto: alien
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: Speech
     speechVerb: LargeMob
   - type: Perishable #Ummmm the acid kills a lot of the bacteria or something

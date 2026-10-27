@@ -837,10 +837,10 @@
   id: Cossack
   parent: EventHumanoid
   components:
-    - type: RussianAccent
-    - type: ScrambledAccent
-    - type: SlurredAccent
-    - type: SouthernAccent
+    # - type: RussianAccent # Andromeda: Nuke em sotaques (por hora)
+    # - type: ScrambledAccent # Andromeda: Nuke em sotaques (por hora)
+    # - type: SlurredAccent # Andromeda: Nuke em sotaques (por hora)
+    # - type: SouthernAccent # Andromeda: Nuke em sotaques (por hora)
     - type: GhostRole
       name: ghost-role-information-cossack-name
       description: ghost-role-information-cossack-description

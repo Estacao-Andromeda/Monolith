@@ -83,7 +83,7 @@
     spawned:
     - id: FoodMeatGoblin
       amount: 3
-  - type: GoblinAccent
+  # - type: GoblinAccent # Andromeda: Nuke em sotaques (por hora)
   - type: TypingIndicator
     proto: goblin
   - type: SlowOnDamage

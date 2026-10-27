@@ -58,7 +58,7 @@
     description: ghost-role-information-crispy-description
     rules: ghost-role-information-Cak-rules
   - type: GhostTakeoverAvailable
-  - type: OwOAccent
+  # - type: OwOAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Speech
     speechSounds: Cat
     speechVerb: SmallMob

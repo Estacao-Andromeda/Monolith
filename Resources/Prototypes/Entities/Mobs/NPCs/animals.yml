@@ -507,7 +507,7 @@
     insertingState: inserting_mothroach
   - type: DashAction # Goobstation - dark souls moths
     actionProto: ActionDashMoth
-  - type: MothAccent
+  # - type: MothAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Sprite
     sprite: Mobs/Animals/mothroach/mothroach.rsi
     layers:
@@ -942,7 +942,7 @@
   - type: ExaminableHunger
   - type: Hunger
     baseDecayRate: 10 # always hungry
-    starvingSlowdownModifier: 1  
+    starvingSlowdownModifier: 1
   - type: Butcherable
     spawned:
     - id: FoodMeat
@@ -1140,7 +1140,7 @@
       Female: Goat
       Male: Goat
       Unsexed: Goat
-  - type: BleatingAccent
+  # - type: BleatingAccent # Andromeda: Nuke em sotaques (por hora)
   - type: InteractionPopup
     successChance: 0.2
     interactSuccessString: petting-success-goat
@@ -1627,7 +1627,7 @@
   components:
   - type: NameIdentifier
     group: Kobold
-  - type: LizardAccent
+  # - type: LizardAccent # Andromeda: Nuke em sotaques (por hora)
   - type: LanguageKnowledge # Einstein Engines - Language
     speaks:
     - Kobold
@@ -2149,7 +2149,7 @@
   description: A harmless dragon.
   components:
   # Imp: kobold accent, reptilian vocal sounds, and ReptilianHiss emote
-  - type: ReplacementAccent
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
     accent: kobold
   - type: Speech
     speechSounds: Lizard
@@ -2369,7 +2369,7 @@
   - type: Vocal
     sounds:
       Unsexed: Parrot
-  - type: ParrotAccent
+  # - type: ParrotAccent # Andromeda: Nuke em sotaques (por hora)
   - type: LanguageKnowledge # Einstein Engines - Language
     speaks:
     - TauCetiBasic
@@ -3884,9 +3884,9 @@
   parent: MobDionaNymph
   id: MobDionaNymphAccent # No talky. For non-brain & wild nymphs
   suffix: Accent
-  components:
-  - type: ReplacementAccent
-    accent: nymph
+  # components: # Andromeda: Nuke em sotaques (por hora)
+  # - type: ReplacementAccent
+  #   accent: nymph
 
 - type: entity
   name: reindeer buck

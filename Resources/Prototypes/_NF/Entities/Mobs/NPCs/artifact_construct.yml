@@ -69,8 +69,8 @@
         types:
           Blunt: 3
       animation: WeaponArcPunch
-    - type: ReplacementAccent
-      accent: genericAggressive
+    # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+    #   accent: genericAggressive
     - type: StaticPrice
       price: 100
     - type: Butcherable

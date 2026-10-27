@@ -45,8 +45,8 @@
       types:
         Blunt: 8
         Structural: 20
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: MovementSpeedModifier
     baseWalkSpeed : 4.5
     baseSprintSpeed : 4.5

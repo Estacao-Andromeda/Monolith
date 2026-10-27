@@ -49,7 +49,7 @@
   components:
   - type: FaxableObject
     insertingState: inserting_rosy_mothroach
-  - type: MothAccent
+  # - type: MothAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Sprite
     sprite: _NF/Mobs/Animals/rosy_mothroach.rsi
   - type: Item
@@ -59,11 +59,11 @@
   - type: Butcherable
     spawned:
     - id: FoodMeatSlime
-      amount: 2    
+      amount: 2
     - id: MaterialHideRosyMothroach
       amount: 1
       prob: 0.3
-      
+
 - type: entity
   name: bee
   suffix: Angry, Timed

@@ -61,7 +61,7 @@
     understands:
     - TauCetiBasic
     - Calcic
-  - type: SkeletonAccent
+  # - type: SkeletonAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Fixtures
     fixtures:
       fix1:

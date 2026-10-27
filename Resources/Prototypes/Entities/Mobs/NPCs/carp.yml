@@ -76,8 +76,8 @@
     tags:
     - Carp
     - DoorBumpOpener
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: Speech
     speechVerb: LargeMob
   - type: InteractionPopup

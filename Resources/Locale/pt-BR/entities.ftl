@@ -26443,7 +26443,7 @@ ent-FoodWatermelonSlice = fatia de melancia
 ent-FoodWorldPeas = cacho de ervilhas do mundo
     .desc = Dizem que traz paz para quem consome.
 
-ent-Log = tronco de torre-cap
+ent-Log = tronco de chapéu-torre
     .desc = É melhor que ruim, é bom!
 
 ent-MeatwheatBushel = cacho de trigo-carnudo
@@ -26464,8 +26464,8 @@ ent-PyrottonBol = bolha de pyrotton
 ent-RiceBushel = cacho de arroz
     .desc = Pode ser moído em arroz, perfeito para pudim ou saquê.
 
-ent-SteelLog = tronco de aço-cap
-    .desc = Aço não cresce em árvores! Ele cresce em cogumelos, claro.
+ent-SteelLog = tronco de chapéu-de-aço
+    .desc = Aço não cresce em árvores! É obvio que cresce em cogumelos.
 
 ent-Sugarcane = cana-de-açúcar
     .desc = Doentidamente doce.

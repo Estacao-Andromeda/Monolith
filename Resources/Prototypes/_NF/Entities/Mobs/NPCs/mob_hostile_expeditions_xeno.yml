@@ -22,8 +22,8 @@
   suffix: Frontier
   categories: [ HideSpawnMenu ]
   components:
-  - type: ReplacementAccent
-    accent: xeno
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: xeno
   - type: GhostRole
     prob: 1
     allowMovement: true

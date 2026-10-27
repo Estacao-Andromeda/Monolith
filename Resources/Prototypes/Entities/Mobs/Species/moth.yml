@@ -56,7 +56,7 @@
         color: "#808A51"
       Burn:
         sprite: Mobs/Effects/burn_damage.rsi
-  - type: MothAccent
+  # - type: MothAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Vocal
     sounds:
       Male: UnisexMoth

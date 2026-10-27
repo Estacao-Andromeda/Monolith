@@ -60,7 +60,7 @@
     speechVerb: Resomi
     speechSounds: UnisexResomi
     allowedEmotes: ['Chirp', 'Trill', 'Scree', 'Call', 'Squawk', 'Warble', 'Wurble', 'Bagawk'] #goob
-  - type: ResomiAccent
+  # - type: ResomiAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Vocal
     sounds:
       Male: UnisexResomi

@@ -67,8 +67,8 @@
         Blunt: 12
         Slash: 20
         Structural: 350 # TEARS through structures and mechs. scary.
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: SolutionContainerManager
     solutions:
       melee:

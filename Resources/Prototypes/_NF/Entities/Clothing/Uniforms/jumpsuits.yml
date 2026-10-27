@@ -260,7 +260,7 @@
   - type: SuitSensor
     randomMode: false
     mode: SensorOff
-  - type: PirateAccent
+  # - type: PirateAccent # Andromeda: Nuke em sotaques (por hora)
 
 - type: entity
   parent: ClothingUniformBase
@@ -275,4 +275,4 @@
   - type: SuitSensor
     randomMode: false
     mode: SensorOff
-  - type: PirateAccent
+  # - type: PirateAccent # Andromeda: Nuke em sotaques (por hora)

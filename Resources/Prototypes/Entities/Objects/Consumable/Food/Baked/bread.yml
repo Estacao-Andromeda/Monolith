@@ -1097,7 +1097,7 @@
     raffle:
       settings: short
   - type: GhostTakeoverAvailable
-  - type: BarkAccent
+  # - type: BarkAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Speech
     speechSounds: Dog
     speechVerb: SmallMob

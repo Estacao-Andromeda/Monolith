@@ -58,7 +58,7 @@
   - type: NpcFactionMember
     factions:
     - PetsNT
-  - type: LizardAccent
+  # - type: LizardAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Speech
     speechSounds: Lizard
     speechVerb: LargeMob

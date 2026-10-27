@@ -42,8 +42,8 @@
           - MobMask
         layer:
           - MobLayer
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: Bloodstream
     bloodReagent: Blood
     bloodMaxVolume: 250

@@ -100,8 +100,8 @@
     - id: MaterialHideBear
       amount: 1
       prob: 0.3
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: Vocal
     sounds:
       Unsexed: Bear

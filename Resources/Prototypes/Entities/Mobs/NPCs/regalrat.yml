@@ -110,7 +110,7 @@
     hungerPerArmyUse: 25
     hungerPerDomainUse: 50
   - type: Rummager # DeltaV: Make rummaging a generic component
-  - type: MobsterAccent
+  # - type: MobsterAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Speech
     speechVerb: SmallMob
   - type: LanguageKnowledge # Einstein Engines - Languages
@@ -314,7 +314,7 @@
   - type: NoSlip
   - type: MobPrice
     price: 500 # rat wealth
-  - type: MobsterAccent
+  # - type: MobsterAccent # Andromeda: Nuke em sotaques (por hora)
     isBoss: false
   - type: Speech
     speechVerb: SmallMob

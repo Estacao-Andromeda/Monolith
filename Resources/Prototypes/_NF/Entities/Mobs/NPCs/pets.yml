@@ -71,8 +71,8 @@
     mindRoles: [ MindRoleGhostRoleTeamAntagonist ]
   - type: Loadout
     prototypes: [ MobClarpyGear ]
-  - type: ReplacementAccent
-    accent: pirateCat
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+    # accent: pirateCat
   - type: RandomMetadata
     nameSegments: [names_cat_clarpy]
   - type: AutoImplant
@@ -88,7 +88,7 @@
     factions:
       - Cat
      # - PirateNF Stupid cat too old to fight, also forgot he is a pirate.
-  - type: PirateAccent
+  # - type: PirateAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Speech
     audioParams:
       volume: -2
@@ -119,8 +119,8 @@
     mindRoles: [ MindRoleGhostRoleNeutral ]
   - type: Loadout
     prototypes: [ MobCappyGear ]
-  - type: ReplacementAccent
-    accent: nfsdCat
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: nfsdCat
   - type: RandomMetadata
     nameSegments: [names_cat_cappy]
   - type: AutoImplant
@@ -160,7 +160,7 @@
       path: /Audio/_NF/Animals/nfsdcat_meow.ogg
   - type: PirateBountyItem
     id: Cappy
-  - type: SouthernAccent
+  # - type: SouthernAccent # Andromeda: Nuke em sotaques (por hora)
   - type: Company
     companyName: TSF
   - type: SurgeryTarget # Shitmed
@@ -229,7 +229,7 @@
     despawnIfOffLinkedGrid: false
     addComponentsOnDeath: []
     removeComponentsOnDeath: []
-  - type: CavemanAccent
+  # - type: CavemanAccent # Andromeda: Nuke em sotaques (por hora)
 
 - type: entity
   name: Mistake
@@ -252,8 +252,8 @@
     rules: ghost-role-information-freeagent-rules
     mindRoles: [ MindRoleGhostRoleFreeAgent ]
     prototype: CatMistake
-  - type: ReplacementAccent
-    accent: mistakeCat
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: mistakeCat
   - type: RandomMetadata
     nameSegments: [names_cat_mistake]
   - type: Vocal

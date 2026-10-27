@@ -45,8 +45,8 @@
         Structural: 30
     soundHit:
       path: /Audio/Weapons/bladeslice.ogg
-  - type: ReplacementAccent
-    accent: streetpunk
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: streetpunk
   - type: Advertise
     pack: spacepunkhumanoidchatter
     minimumWait: 30

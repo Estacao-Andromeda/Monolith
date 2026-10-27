@@ -430,7 +430,7 @@
   - type: SuitSensor # Frontier - Pirates
     randomMode: false # Frontier - Pirates
     mode: SensorOff # Frontier - Pirates
-  - type: PirateAccent # Frontier - Pirates
+  # - type: PirateAccent # Frontier - Pirates # Andromeda: Nuke em sotaques (por hora)
 
 # Brown Jumpskirt
 - type: entity

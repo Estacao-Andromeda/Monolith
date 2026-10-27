@@ -183,8 +183,8 @@
     color: "#91469e"
   - type: Speech
     enabled: false
-  - type: ReplacementAccent
-    accent: genericAggressive
+  # - type: ReplacementAccent # Andromeda: Nuke em sotaques (por hora)
+  #   accent: genericAggressive
   - type: Tag
     tags:
     - FootstepSound
