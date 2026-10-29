@@ -204,6 +204,9 @@
   - type: ShipRepairable
     repairTime: 30
     repairCost: 300
+  - type: Anchorable
+    flags: none
+
 
 - type: entity
   id: ShieldGeneratorPOIBio
