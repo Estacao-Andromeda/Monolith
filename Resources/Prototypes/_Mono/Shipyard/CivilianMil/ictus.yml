@@ -1,0 +1,34 @@
+# author: yuuki_
+
+- type: vessel
+  id: Ictus
+  parent: BaseVessel
+  name: vessel-Ictus-name
+  description: vessel-Ictus-desc
+  price: 52000
+  category: Small
+  shuttlePath: /SharedMaps/_Mono/Shuttles/CivilianMil/ictus.yml
+  guidebookPage: Null
+  class:
+  - Pursuit
+  - Fighter
+  - Mercenary
+  engine:
+  - APU
+
+- type: gameMap
+  id: Ictus
+  mapName: 'BTL Ictus'
+  mapPath: /SharedMaps/_Mono/Shuttles/CivilianMil/ictus.yml
+  minPlayers: 0
+  stations:
+    Ictus:
+      stationProto: StandardFrontierVessel
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: 'BTL Ictus MIL{1}'
+        nameGenerator:
+          !type:NanotrasenNameGenerator
+          prefixCreator: '14'
+      - type: StationJobs
+        availableJobs: {}

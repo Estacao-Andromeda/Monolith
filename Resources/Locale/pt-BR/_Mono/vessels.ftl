@@ -648,3 +648,9 @@ vessel-Akasono-desc = Uma nave básica de coleta (não processamento!) de gás. 
 
 vessel-Sandbox-name = UW Sandbox
 vessel-Sandbox-desc = Uma plataforma modular com equipamento básico capaz de servir de base para operações de construção. Extremamente minimalista e fácil de reconfigurar.
+
+vessel-Uasculum-name = BTL Uasculum
+vessel-Uasculum-desc = Um cargueiro massivo e um dos maiores do setor, com uma boa blindagem, um espaço de carga circular e a base de AME, com painéis solares adicionais. Porém o poder ofensivo é o mesmo de um leproso desnutrido.
+
+vessel-Ictus-name = BTL Ictus
+vessel-Ictus-desc = Uma nave de combate que leva o Hit-and-Run ao extremo, porque o canhão 520mm Leviathan NÃO vai atirar rápido o suficiente nem quando você estiver sendo alvejado.

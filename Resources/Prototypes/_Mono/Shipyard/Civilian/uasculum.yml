@@ -1,0 +1,35 @@
+# author: yuuki_
+
+- type: vessel
+  id: Uasculum
+  parent: BaseVessel
+  name: vessel-Uasculum-name
+  description: vessel-Uasculum-desc
+  price: 266400
+  category: Large
+  group: Shipyard
+  shuttlePath: /SharedMaps/_Mono/Shuttles/Civilian/uasculum.yml
+  guidebookPage: Null
+  class:
+  - Cargo
+  engine:
+  - AME
+  - Solar
+
+- type: gameMap
+  id: Uasculum
+  mapName: 'BTL Uasculum'
+  mapPath: /SharedMaps/_Mono/Shuttles/Civilian/uasculum.yml
+  minPlayers: 0
+  stations:
+    Uasculum:
+      stationProto: StandardFrontierVessel
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: 'BTL Uasculum CIV{1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: '14'
+        - type: StationJobs
+          availableJobs:
+            Contractor: [ 0, 0 ]

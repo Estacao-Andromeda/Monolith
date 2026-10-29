@@ -170,6 +170,12 @@
   color: "#419E23"
   image: /Textures/_Mono/Companies/BMC.png
 
+- type: company
+  id: Brutalltda
+  name: Brutal Ltda.
+  description: brutalltda-description
+  color: "#00FF91"
+  image: /Textures/_Mono/Companies/brutalltda.png
 
 # Religious groups
 

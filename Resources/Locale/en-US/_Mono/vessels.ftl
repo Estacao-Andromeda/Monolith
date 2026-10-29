@@ -375,3 +375,7 @@ vessel-Kopye-name = BYP Kopye
 vessel-Kopye-desc = A thin, pointed ram made to fit the connection port of the Ledokol.
 vessel-Sandbox-name = UW Sandbox
 vessel-Sandbox-desc = A modular platform equipped with basic equipment capable of supporting construction operations. Barebones and easy to reconfigure.
+vessel-Uasculum-name = BTL Uasculum
+vessel-Uasculum-desc = A massive cargo ship, one of the biggest of the sector. A good armor, a good space, a good power source with extra solar panels. With the drawback being the firepower of a malnourished leper.
+vessel-Ictus-name = BTL Ictus
+vessel-Ictus-desc = A fast combat ship, with Hit-and-Run in mind, and at a extreme, because that 520mm Leviathan will not shoot fast enough when you are on despair.
