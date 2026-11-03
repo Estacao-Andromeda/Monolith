@@ -11,6 +11,8 @@ device-frequency-prototype-name-cyborg-control = Controle de Ciborgues
 device-frequency-prototype-name-robotics-console = Console de Robótica
 device-frequency-prototype-name-arrivals-shuttle-timer = Timer da Arrivals
 device-frequency-prototype-name-shuttle-timer = Timer de Nave
+device-frequency-prototype-name-turret = Torre de Sentinela
+device-frequency-prototype-name-turret-control = Controle de Sentinelas
 
 ## camera frequencies
 device-frequency-prototype-name-surveillance-camera = Sub-rede de Câmera
@@ -27,6 +29,7 @@ device-frequency-prototype-name-surveillance-camera-entertainment = Câmeras de 
 device-frequency-prototype-name-surveillance-camera-tsf = Câmeras TSFMC
 device-frequency-prototype-name-surveillance-camera-Rogue = Câmeras PDV
 device-frequency-prototype-name-surveillance-camera-USSP = Câmeras USSP
+device-frequency-prototype-name-surveillance-camera-xenoborgs = Câmeras Xenoborg
 
 # prefixes for randomly generated device addresses
 device-address-prefix-vent = VNT-
@@ -38,6 +41,7 @@ device-address-prefix-heater = HTR-
 device-address-prefix-freezer = FZR-
 device-address-prefix-volume-pump = VPP-
 device-address-prefix-smes = SMS-
+device-address-prefix-turret = TRT-
 
 # PDAs and terminals
 device-address-prefix-console = CLS-

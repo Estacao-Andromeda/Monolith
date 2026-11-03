@@ -1,5 +1,5 @@
 # Ledger end of round printouts
-ledger-printout-account = __**{$conta}**__
+ledger-printout-account = __**{$account}**__
 ledger-printout-income-header = **Receitas:**
 ledger-printout-expense-header = **Despesas:**
 ledger-printout-line-item = {$entryType}: {$amount}

@@ -4524,71 +4524,71 @@ ent-Magazine4_gaugeEmpty = cartucho de munição (calibre 4 qualquer)
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/4.6x30mm.yml
 # Abstract entity (referenceable by children)
 
-ent-BaseMagazine46x30mm = pente de pistola ( FMJ)
+ent-BaseMagazine46x30mm = pente de pistola (4.6x30mm FMJ)
 
 # Abstract entity (referenceable by children)
 
-ent-BaseMagazine46x30mmPistolHighCapacityFMJ = pente de pistola metralhadora ( FMJ)
+ent-BaseMagazine46x30mmPistolHighCapacityFMJ = pente de pistola metralhadora (4.6x30mm FMJ)
 
 # Abstract entity (referenceable by children)
 
-ent-BaseMagazine46x30mmSubMachineGunFMJ = pente de SMG ( FMJ)
+ent-BaseMagazine46x30mmSubMachineGunFMJ = pente de SMG (4.6x30mm FMJ)
 
-ent-Magazine46x30mmPistolEmpty = pente de pistola ( qualquer)
+ent-Magazine46x30mmPistolEmpty = pente de pistola (4.6x30mm qualquer)
     .desc = Um carregador vazio.
     .suffix = vazio
 
-ent-Magazine46x30mmPistolFMJ = pente de pistola ( FMJ)
+ent-Magazine46x30mmPistolFMJ = pente de pistola (4.6x30mm FMJ)
 
-ent-Magazine46x30mmPistolHighCapacityEmpty = pente de pistola metralhadora ( qualquer)
+ent-Magazine46x30mmPistolHighCapacityEmpty = pente de pistola metralhadora (4.6x30mm qualquer)
     .desc = Um carregador vazio.
     .suffix = vazio
 
-ent-Magazine46x30mmPistolHighCapacityFMJ = pente de pistola metralhadora ( FMJ)
+ent-Magazine46x30mmPistolHighCapacityFMJ = pente de pistola metralhadora (4.6x30mm FMJ)
 
-ent-Magazine46x30mmPistolHighCapacityPractice = pente de pistola metralhadora ( prática)
+ent-Magazine46x30mmPistolHighCapacityPractice = pente de pistola metralhadora (4.6x30mm prática)
 
-ent-Magazine46x30mmPistolHighCapacityRubber = pente de pistola metralhadora ( borracha)
+ent-Magazine46x30mmPistolHighCapacityRubber = pente de pistola metralhadora (4.6x30mm borracha)
 
-ent-Magazine46x30mmPistolHP = pente de pistola ( ogiva oca)
+ent-Magazine46x30mmPistolHP = pente de pistola (4.6x30mm ogiva oca)
 
-ent-Magazine46x30mmPistolIncendiary = pente de pistola ( incendiário)
+ent-Magazine46x30mmPistolIncendiary = pente de pistola (4.6x30mm incendiário)
 
-ent-Magazine46x30mmPistolPlasteelAP = pente de pistola ( PP)
+ent-Magazine46x30mmPistolPlasteelAP = pente de pistola (4.6x30mm PP)
 
-ent-Magazine46x30mmPistolPractice = pente de pistola ( prática)
+ent-Magazine46x30mmPistolPractice = pente de pistola (4.6x30mm prática)
 
-ent-Magazine46x30mmPistolRIP = pente de pistola ( RIP)
+ent-Magazine46x30mmPistolRIP = pente de pistola (4.6x30mm RIP)
 
-ent-Magazine46x30mmPistolRubber = pente de pistola ( borracha)
+ent-Magazine46x30mmPistolRubber = pente de pistola (4.6x30mm borracha)
 
-ent-Magazine46x30mmPistolUranium = pente de pistola ( urânio)
+ent-Magazine46x30mmPistolUranium = pente de pistola (4.6x30mm urânio)
 
-ent-Magazine46x30mmSubMachineGunEmp = pente de SMG ( EMP)
+ent-Magazine46x30mmSubMachineGunEmp = pente de SMG (4.6x30mm EMP)
 
-ent-Magazine46x30mmSubMachineGunEmpty = pente de SMG ( qualquer)
+ent-Magazine46x30mmSubMachineGunEmpty = pente de SMG (4.6x30mm qualquer)
     .desc = Um carregador vazio.
     .suffix = vazio
 
-ent-Magazine46x30mmSubMachineGunFMJ = pente de SMG ( FMJ)
+ent-Magazine46x30mmSubMachineGunFMJ = pente de SMG (4.6x30mm FMJ)
 
-ent-Magazine46x30mmSubMachineGunHP = pente de SMG ( ogiva oca)
+ent-Magazine46x30mmSubMachineGunHP = pente de SMG (4.6x30mm ogiva oca)
 
-ent-Magazine46x30mmSubMachineGunIncendiary = pente de SMG ( incendiário)
+ent-Magazine46x30mmSubMachineGunIncendiary = pente de SMG (4.6x30mm incendiário)
 
-ent-Magazine46x30mmSubMachineGunPlasteelAP = pente de SMG ( PP)
+ent-Magazine46x30mmSubMachineGunPlasteelAP = pente de SMG (4.6x30mm PP)
 
-ent-Magazine46x30mmSubMachineGunPractice = pente de SMG ( prática)
+ent-Magazine46x30mmSubMachineGunPractice = pente de SMG (4.6x30mm prática)
 
-ent-Magazine46x30mmSubMachineGunRIP = pente de SMG ( RIP)
+ent-Magazine46x30mmSubMachineGunRIP = pente de SMG (4.6x30mm RIP)
 
-ent-Magazine46x30mmSubMachineGunRubber = pente de SMG ( borracha)
+ent-Magazine46x30mmSubMachineGunRubber = pente de SMG (4.6x30mm borracha)
 
-ent-Magazine46x30mmSubMachineGunTopMountedEmpty = pente WT550 montado no topo ( qualquer)
+ent-Magazine46x30mmSubMachineGunTopMountedEmpty = pente WT550 montado no topo (4.6x30mm qualquer)
 
-ent-Magazine46x30mmSubMachineGunTopMountedFMJ = pente WT550 montado no topo ()
+ent-Magazine46x30mmSubMachineGunTopMountedFMJ = pente WT550 montado no topo (4.6x30mm FMJ)
 
-ent-Magazine46x30mmSubMachineGunUranium = pente de SMG ( urânio)
+ent-Magazine46x30mmSubMachineGunUranium = pente de SMG (4.6x30mm urânio)
 
 # From: _Mono/Entities/Objects/Weapons/Guns/Ammunition/Magazines/40mm.yml
 # Abstract entity (referenceable by children)
