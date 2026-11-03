@@ -2997,7 +2997,7 @@ ent-ERTSecurityIDCard = cartão de ID de segurança da ERT
 ent-HoPIDCard = cartão de ID do chefe de pessoal
     .desc = {ent-IDCardStandard.desc}
 
-ent-HoSIDCard = cartão de ID do chefe de segurança
+ent-HoSIDCard = cartão de ID do supervisor
     .desc = {ent-IDCardStandard.desc}
 
 # Abstract entity (referenceable by children)
@@ -3462,7 +3462,7 @@ ent-RubberStampGreytide = carimbo do greytide
 ent-RubberStampHop = carimbo do chefe de pessoal
     .desc = {ent-RubberStampBase.desc}
 
-ent-RubberStampHos = carimbo do chefe de segurança
+ent-RubberStampHos = carimbo do supervisor
     .desc = {ent-RubberStampBase.desc}
 
 ent-RubberStampLawyer = carimbo do advogado
@@ -12386,7 +12386,7 @@ ent-LockerFreezerBase = freezer
 ent-LockerHeadOfPersonnel = armário do chefe de pessoal
     .desc = É uma unidade de armazenamento.
 
-ent-LockerHeadOfSecurity = armário do chefe de segurança
+ent-LockerHeadOfSecurity = armário do supervisor
     .desc = É uma unidade de armazenamento.
 
 ent-LockerMedical = armário de médico
@@ -15640,7 +15640,7 @@ ent-ClothingKimonoBlue = quimono azul
 ent-ClothingKimonoPink = quimono rosa
     .desc = Linda de rosa, não é?
 
-ent-ClothingUniformJumpskirtNurse = saia de enfermeira
+ent-ClothingUniformJumpskirtNurse = salopete de enfermeira
     .desc = Hora de carregar o departamento médico.
 
 ent-ClothingUniformKendoHakama = hakama
@@ -17805,7 +17805,7 @@ ent-ClothingHeadsetAltMedical = fone de ouvido de ouvido externo de oficial méd
 
 ent-ClothingHeadsetAltScience = fone de ouvido de ouvido externo de diretor de pesquisa
 
-ent-ClothingHeadsetAltSecurity = fone de ouvido de ouvido externo de chefe de segurança
+ent-ClothingHeadsetAltSecurity = fone de ouvido de ouvido externo de supervisor
 
 ent-ClothingHeadsetAltSyndicate = fone de ouvido de ouvido externo sangue-vermelho
     .desc = Um intercom modular de sindicato atualizado que fica sobre a cabeça e aceita chaves de criptografia (existem 5 slots de chaves).
@@ -18361,8 +18361,8 @@ ent-ClothingHeadHelmetHardsuitSanta = capacete rígido do Papai Noel
 ent-ClothingHeadHelmetHardsuitSecurity = capacete rígido de segurança
     .desc = capacete rígido blindado para necessidades de segurança.
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = capacete rígido do chefe de segurança
-    .desc = capacete rígido de segurança com o mais recente software secreto de HUD NT. Pertence ao Chefe de Segurança.
+ent-ClothingHeadHelmetHardsuitSecurityRed = capacete rígido do supervisor
+    .desc = capacete rígido de segurança com o mais recente software secreto de HUD NT. Pertence ao Supervisor.
 
 ent-ClothingHeadHelmetHardsuitSpatio = capacete rígido de espacionauta
     .desc = Um capacete robusto projetado para operações industriais complexas no espaço.
@@ -18408,7 +18408,7 @@ ent-ClothingHeadHatBeretEngineering = boina de engenharia
 ent-ClothingHeadHatBeretFrench = boina francesa
     .desc = Uma boina francesa, "vive la France".
 
-ent-ClothingHeadHatBeretHoS = boina do chefe de segurança
+ent-ClothingHeadHatBeretHoS = boina do supervisor
     .desc = Uma boina preta com um emblema de posto de comandante. Para oficiais que estão mais inclinados ao estilo do que à segurança.
 
 ent-ClothingHeadHatBeretMedic = boina médica
@@ -18499,8 +18499,8 @@ ent-ClothingHeadHatHolyWatermelon = auréola de melancia
 ent-ClothingHeadHatHopcap = boné do chefe de pessoal
     .desc = Um boné grandioso e elegante do chefe de pessoal.
 
-ent-ClothingHeadHatHoshat = boné do chefe de segurança
-    .desc = O boné padrão robusto do Chefe de Segurança. Para mostrar aos oficiais quem está no comando.
+ent-ClothingHeadHatHoshat = boné do supervisor
+    .desc = O boné padrão robusto do Supervisor. Para mostrar aos oficiais quem está no comando.
 
 ent-ClothingHeadHatJester = chapéu de bobo
     .desc = Um chapéu com sinos, para adicionar um pouco de alegria ao traje.
@@ -18868,7 +18868,7 @@ ent-ClothingHeadHatFlowerWreath = grinalda de flores
     .desc = Uma grinalda de flores coloridas. Pode ser usada tanto na cabeça quanto no pescoço.
 
 ent-ClothingHeadHatHairflower = flor de cabelo
-    .desc = Uma flor de cabelo bonita que pode ser inserida entre mechas de cabelo.
+    .desc = Uma flor de cabelo bonita. Usa tecnologia nanorefletiva absortiva de luz de troca de cor!
 
 ent-ClothingHeadHatPumpkin = chapéu de abóbora
     .desc = Um jack o' lantern! Acredita-se que afasta maus espíritos.
@@ -19264,7 +19264,7 @@ ent-ClothingNeckCloakHerald = manto de arauto
 ent-ClothingNeckCloakHop = manto do chefe de pessoal
     .desc = Um manto azul com ombros vermelhos e botões dourados, provando que você é o porteiro de qualquer airlock na estação.
 
-ent-ClothingNeckCloakHos = manto do chefe de segurança
+ent-ClothingNeckCloakHos = manto do supervisor
     .desc = Um manto exquisitamente escuro e vermelho adequado para aqueles que podem afirmar dominância sobre malfeitores. Faça uma tentativa de ser civil no processo!
 
 ent-ClothingNeckCloakIntersex = manto de ciclope
@@ -19317,8 +19317,8 @@ ent-ClothingNeckMantleCMO = manto do médico chefe
 ent-ClothingNeckMantleHOP = manto do chefe de pessoal
     .desc = Um bom Chefe de Pessoal sabe que lidar com papelada é apenas metade do trabalho... fazer carinho em seu cachorro e parecer elegante é a outra metade.
 
-ent-ClothingNeckMantleHOS = manto do chefe de segurança
-    .desc = Tiroteios com agentes do Sindicato são apenas uma terça qualquer para este Chefe de Segurança. Este manto é um símbolo de compromisso com a estação.
+ent-ClothingNeckMantleHOS = manto do supervisor
+    .desc = Tiroteios com agentes do Sindicato são apenas uma terça qualquer para este Supervisor. Este manto é um símbolo de compromisso com a estação.
 
 ent-ClothingNeckMantleQM = manto do intendente
     .desc = Para o mestre de bens e materiais governar o departamento, um manto adequado para mostrar superioridade!
@@ -19620,10 +19620,10 @@ ent-ClothingOuterCoatAMG = avental médico blindado
 ent-ClothingOuterCoatBomber = jaqueta bombardeiro
     .desc = Uma jaqueta de couro bombardeiro WW2 espessa e bem usada.
 
-ent-ClothingOuterCoatDetective = trenchcoat de detetive
-    .desc = Um trenchcoat multipurpose do século 18. Alguém que usa isso significa negócios sérios.
+ent-ClothingOuterCoatDetective = sobretudo de detetive
+    .desc = Um sobretudo multipurpose do século 18. Alguém que usa isso significa negócios sérios.
 
-ent-ClothingOuterCoatDetectiveLoadoutGrey = trenchcoat noir
+ent-ClothingOuterCoatDetectiveLoadoutGrey = sobretudo noir
     .desc = Ah, seu casaco confiável. Há algumas lágrimas aqui e ali, dando-lhe uma aparência mais oportuna. Ou pelo menos, é isso que você disse a si mesmo quando descobriu que consertar ia custar 200 créditos.
 
 ent-ClothingOuterCoatExpensive = casaco caro
@@ -19632,7 +19632,7 @@ ent-ClothingOuterCoatExpensive = casaco caro
 ent-ClothingOuterCoatGentle = casaco gentil
     .desc = Um casaco gentil para um homem gentil, ou mulher.
 
-ent-ClothingOuterCoatHoSTrench = trenchcoat blindado do chefe de segurança
+ent-ClothingOuterCoatHoSTrench = sobretudo blindado do supervisor
     .desc = Um grande casaco aprimorado com uma liga especial para proteção extra e estilo para aqueles com presença de comando.
 
 ent-ClothingOuterCoatJensen = casaco jensen
@@ -19699,8 +19699,8 @@ ent-ClothingOuterCoatSyndieCap = casaco do Sindicato
 ent-ClothingOuterCoatSyndieCapArmored = casaco blindado do Sindicato
     .desc = O casaco blindado do Sindicato é feito de tecido durável, com padrões dourados.
 
-ent-ClothingOuterCoatTrench = trenchcoat
-    .desc = Um trenchcoat confortável.
+ent-ClothingOuterCoatTrench = sobretudo
+    .desc = Um sobretudo confortável.
 
 ent-ClothingOuterCoatWarden = jaqueta blindada do carcereiro
     .desc = Uma jaqueta robusta e utilitária projetada para proteger um carcereiro de quaisquer ameaças na brigada.
@@ -19798,7 +19798,7 @@ ent-ClothingOuterHardsuitSanta = traje rígido do Papai Noel
 ent-ClothingOuterHardsuitSecurity = traje rígido de segurança
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Possui uma camada adicional de blindagem.
 
-ent-ClothingOuterHardsuitSecurityRed = traje rígido do chefe de segurança
+ent-ClothingOuterHardsuitSecurityRed = traje rígido do supervisor
     .desc = Um traje especial que protege contra ambientes de baixa pressão e perigosos. Possui uma camada adicional de blindagem.
 
 ent-ClothingOuterHardsuitSpatio = traje rígido de espaçonauta
@@ -20049,10 +20049,10 @@ ent-ClothingOuterWinterGen = casaco de inverno de genética
 
 ent-ClothingOuterWinterHoP = casaco de inverno do chefe de pessoal
 
-ent-ClothingOuterWinterHoS = casaco de inverno blindado do chefe de segurança
-    .desc = Um casaco de inverno robusto e utilitário projetado para proteger um chefe de segurança de quaisquer ameaças destinadas ao brig e eventos hipotérmicos.
+ent-ClothingOuterWinterHoS = casaco de inverno blindado do supervisor
+    .desc = Um casaco de inverno robusto e utilitário projetado para proteger um supervisor de quaisquer ameaças destinadas ao brig e eventos hipotérmicos.
 
-ent-ClothingOuterWinterHoSUnarmored = casaco de inverno do chefe de segurança
+ent-ClothingOuterWinterHoSUnarmored = casaco de inverno do supervisor
     .desc = Um casaco robusto, um casaco quente, mas não um casaco blindado.
 
 ent-ClothingOuterWinterHydro = casaco de inverno de hidroponia
@@ -20358,53 +20358,53 @@ ent-ClothingUniformJumpskirtYellowTurtleneckDress = vestido amarelo de gola alta
 
 # From: Entities/Clothing/Uniforms/color_jumpskirts.yml
 
-ent-ClothingUniformJumpskirtColorBlack = macacão saia preto
-    .desc = Um macacão saia preto genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorBlack = salopete preto
+    .desc = Um salopete preto genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorBlue = macacão saia azul
-    .desc = Um macacão saia azul genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorBlue = salopete azul
+    .desc = Um salopete azul genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorBrown = macacão saia marrom
-    .desc = Um macacão saia marrom genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorBrown = salopete marrom
+    .desc = Um salopete marrom genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorDarkBlue = macacão saia azul escuro
-    .desc = Um macacão saia azul escuro genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorDarkBlue = salopete azul escuro
+    .desc = Um salopete azul escuro genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorDarkGreen = macacão saia verde escuro
-    .desc = Um macacão saia verde escuro genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorDarkGreen = salopete verde escuro
+    .desc = Um salopete verde escuro genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorGreen = macacão saia verde
-    .desc = Um macacão saia verde genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorGreen = salopete verde
+    .desc = Um salopete verde genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorGrey = macacão saia cinza
-    .desc = Um macacão saia cinza de bom gosto que lembra os velhos bons tempos.
+ent-ClothingUniformJumpskirtColorGrey = salopete cinza
+    .desc = Um salopete cinza de bom gosto que lembra os velhos bons tempos.
 
-ent-ClothingUniformJumpskirtColorLightBrown = macacão saia marrom claro
-    .desc = Um macacão saia marrom claro genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorLightBrown = salopete marrom claro
+    .desc = Um salopete marrom claro genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorMaroon = macacão saia bordô
-    .desc = Um macacão saia bordô genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorMaroon = salopete bordô
+    .desc = Um salopete bordô genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorOrange = macacão saia laranja
+ent-ClothingUniformJumpskirtColorOrange = salopete laranja
     .desc = Não use isso perto de oficiais de segurança paranoicos.
 
-ent-ClothingUniformJumpskirtColorPink = macacão saia rosa
+ent-ClothingUniformJumpskirtColorPink = salopete rosa
     .desc = Só de olhar para isso você se sente <i>fabuloso</i>.
 
-ent-ClothingUniformJumpskirtColorPurple = macacão saia roxo
-    .desc = Um macacão saia roxo claro genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorPurple = salopete roxo
+    .desc = Um salopete roxo claro genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorRed = macacão saia vermelho
-    .desc = Um macacão saia vermelho genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorRed = salopete vermelho
+    .desc = Um salopete vermelho genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorTeal = macacão saia ciano
-    .desc = Um macacão saia ciano genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorTeal = salopete ciano
+    .desc = Um salopete ciano genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorWhite = macacão saia branco
-    .desc = Um macacão saia branco genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorWhite = salopete branco
+    .desc = Um salopete branco genérico sem marcações de posto.
 
-ent-ClothingUniformJumpskirtColorYellow = macacão saia amarelo
-    .desc = Um macacão saia amarelo genérico sem marcações de posto.
+ent-ClothingUniformJumpskirtColorYellow = salopete amarelo
+    .desc = Um salopete amarelo genérico sem marcações de posto.
 
 # From: Entities/Clothing/Uniforms/color_jumpsuits.yml
 
@@ -20461,61 +20461,61 @@ ent-ClothingUniformJumpsuitColorYellow = macacão amarelo
 
 # From: Entities/Clothing/Uniforms/jumpskirts.yml
 
-ent-ClothingUniformJumpskirtAtmos = macacão saia de técnico atmosférico
+ent-ClothingUniformJumpskirtAtmos = salopete de técnico atmosférico
     .desc = Estou no trabalho. Não posso sair do trabalho. Trabalho é respirar. Estou testando a qualidade do ar.
 
 ent-ClothingUniformJumpskirtBartender = uniforme de barman
     .desc = Um uniforme bom e organizado. Uma pena que o bar seja o que é.
 
-ent-ClothingUniformJumpskirtBrigmedic = macacão saia de médico do brig
+ent-ClothingUniformJumpskirtBrigmedic = salopete de médico do brig
     .desc = Este uniforme é emitido para pessoal qualificado que foi treinado. Ninguém se importa que o treinamento durou meio dia.
 
 ent-ClothingUniformJumpskirtCapFormalDress = vestido formal do capitão
     .desc = Um vestido para ocasiões especiais.
 
-ent-ClothingUniformJumpskirtCaptain = macacão saia do capitão
-    .desc = É um macacão saia azul com algumas marcações douradas denotando o posto de "Capitão".
+ent-ClothingUniformJumpskirtCaptain = salopete do capitão
+    .desc = É um salopete azul com algumas marcações douradas denotando o posto de "Capitão".
 
-ent-ClothingUniformJumpskirtCargo = macacão saia de técnico de carga
-    .desc = Um macacão saia robusto, emitido para membros do departamento de Carga.
+ent-ClothingUniformJumpskirtCargo = salopete de técnico de carga
+    .desc = Um salopete robusto, emitido para membros do departamento de Carga.
 
-ent-ClothingUniformJumpskirtCasualBlue = macacão saia casual azul
+ent-ClothingUniformJumpskirtCasualBlue = salopete casual azul
     .desc = Uma camisa azul solta gasta com uma saia cinza, perfeita para alguém procurando relaxar.
 
-ent-ClothingUniformJumpskirtCasualGreen = macacão saia casual verde
+ent-ClothingUniformJumpskirtCasualGreen = salopete casual verde
     .desc = Uma camisa verde solta gasta com uma saia cinza, perfeita para alguém procurando relaxar.
 
-ent-ClothingUniformJumpskirtCasualPurple = macacão saia casual roxo
+ent-ClothingUniformJumpskirtCasualPurple = salopete casual roxo
     .desc = Uma camisa roxa solta gasta com uma saia cinza, perfeita para alguém procurando relaxar.
 
-ent-ClothingUniformJumpskirtCasualRed = macacão saia casual vermelho
+ent-ClothingUniformJumpskirtCasualRed = salopete casual vermelho
     .desc = Uma camisa vermelha solta gasta com uma saia cinza, perfeita para alguém procurando relaxar.
 
 ent-ClothingUniformJumpskirtCentcomFormalDress = vestido formal do comando central
     .desc = Um vestido para ocasiões especiais.
 
-ent-ClothingUniformJumpskirtChaplain = macacão saia de capelão
-    .desc = É um macacão saia preto, frequentemente usado por gente religiosa.
+ent-ClothingUniformJumpskirtChaplain = salopete de capelão
+    .desc = É um salopete preto, frequentemente usado por gente religiosa.
 
 ent-ClothingUniformJumpskirtChef = uniforme de chefe
     .desc = Não pode cozinhar sem isso.
 
-ent-ClothingUniformJumpskirtChemistry = macacão saia de química
-    .desc = Há algumas manchas estranhas neste macacão saia. Hm.
+ent-ClothingUniformJumpskirtChemistry = salopete de química
+    .desc = Há algumas manchas estranhas neste salopete. Hm.
 
-ent-ClothingUniformJumpskirtChiefEngineer = macacão saia do engenheiro-chefe
-    .desc = É um macacão saia de alta visibilidade dado àqueles engenheiros insanos o suficiente para alcançar o posto de Engenheiro-Chefe.
+ent-ClothingUniformJumpskirtChiefEngineer = salopete do engenheiro-chefe
+    .desc = É um salopete de alta visibilidade dado àqueles engenheiros insanos o suficiente para alcançar o posto de Engenheiro-Chefe.
 
 ent-ClothingUniformJumpskirtChiefEngineerTurtle = gola alta do engenheiro-chefe
     .desc = Uma gola alta amarela projetada especificamente para trabalho nas condições do departamento de engenharia.
 
-ent-ClothingUniformJumpskirtClown = saia de palhaço
+ent-ClothingUniformJumpskirtClown = salopete de palhaço
     .desc = HONK!
 
-ent-ClothingUniformJumpskirtCMO = macacão saia do médico-chefe
-    .desc = É um macacão saia usado por aqueles com a experiência para ser Médico-Chefe. Fornece proteção biológica menor.
+ent-ClothingUniformJumpskirtCMO = salopete do médico-chefe
+    .desc = É um salopete usado por aqueles com a experiência para ser Médico-Chefe. Fornece proteção biológica menor.
 
-ent-ClothingUniformJumpskirtCMOTurtle = macacão saia de gola alta do médico-chefe
+ent-ClothingUniformJumpskirtCMOTurtle = salopete de gola alta do médico-chefe
     .desc = É uma gola alta usada por aqueles com a experiência para ser Médico-Chefe. Fornece proteção biológica menor.
 
 ent-ClothingUniformJumpskirtCurator = saia sensata
@@ -20527,28 +20527,28 @@ ent-ClothingUniformJumpskirtDetective = terno desgastado de detetive
 ent-ClothingUniformJumpskirtDetectiveGrey = terno noir de detetive
     .desc = Um terno cinza de detetive particular endurecido, completo com presilha de gravata.
 
-ent-ClothingUniformJumpskirtEngineering = macacão saia de engenharia
+ent-ClothingUniformJumpskirtEngineering = salopete de engenharia
     .desc = Se este terno fosse não condutivo, talvez os engenheiros realmente fizessem seu maldito trabalho.
 
-ent-ClothingUniformJumpskirtGenetics = macacão saia de genética
+ent-ClothingUniformJumpskirtGenetics = salopete de genética
     .desc = É feito de uma fibra especial que dá proteção especial contra riscos biológicos. Tem uma lista de posto de geneticista nela.
 
-ent-ClothingUniformJumpskirtHoP = macacão saia do chefe de pessoal
+ent-ClothingUniformJumpskirtHoP = salopete do chefe de pessoal
     .desc = Mais ou menos sem graça e inofensivo. Perfeito para desaparecer da face do universo.
 
-ent-ClothingUniformJumpskirtHoS = macacão saia do chefe de segurança
+ent-ClothingUniformJumpskirtHoS = salopete do supervisor
     .desc = É vermelho brilhante e muito nítido, muito como as vítimas da segurança tendem a ser.
 
-ent-ClothingUniformJumpskirtHoSAlt = gola alta do chefe de segurança
-    .desc = É uma gola alta usada por aqueles fortes e disciplinados o suficiente para alcançar a posição de Chefe de Segurança.
+ent-ClothingUniformJumpskirtHoSAlt = gola alta do supervisor
+    .desc = É uma gola alta usada por aqueles fortes e disciplinados o suficiente para alcançar a posição de Supervisor.
 
-ent-ClothingUniformJumpskirtHosFormal = vestido formal do chefe de segurança
+ent-ClothingUniformJumpskirtHosFormal = vestido formal do supervisor
     .desc = Um vestido para ocasiões especiais.
 
-ent-ClothingUniformJumpskirtHoSParadeMale = uniforme de parada do chefe de segurança
-    .desc = O traje de luxo do chefe de segurança, para ocasiões especiais.
+ent-ClothingUniformJumpskirtHoSParadeMale = uniforme de parada do supervisor
+    .desc = O traje de luxo do supervisor, para ocasiões especiais.
 
-ent-ClothingUniformJumpskirtHydroponics = macacão saia de hidroponia
+ent-ClothingUniformJumpskirtHydroponics = salopete de hidroponia
     .desc = Tem um cheiro forte de terra. Esperançosamente está apenas sujo ao invés de sujado.
 
 ent-ClothingUniformJumpskirtJanimaid = uniforme de empregada de zeladoria
@@ -20557,106 +20557,106 @@ ent-ClothingUniformJumpskirtJanimaid = uniforme de empregada de zeladoria
 ent-ClothingUniformJumpskirtJanimaidmini = uniforme de empregada de zeladoria com minissaia
     .desc = Serviço de elite, não alguns invólucros de doce.
 
-ent-ClothingUniformJumpskirtJanitor = macacão saia de zelador
-    .desc = O macacão saia para o pobre coitado com um esfregão.
+ent-ClothingUniformJumpskirtJanitor = salopete de zelador
+    .desc = O salopete para o pobre coitado com um esfregão.
 
-ent-ClothingUniformJumpskirtLawyerBlack = saia de advogado preta
+ent-ClothingUniformJumpskirtLawyerBlack = salopete de advogado preta
     .desc = Uma saia preta sutil usada por advogados e gangsters.
 
-ent-ClothingUniformJumpskirtLawyerBlue = saia de advogado azul
+ent-ClothingUniformJumpskirtLawyerBlue = salopete de advogado azul
     .desc = Uma saia azul flashiosa usada por advogados e exibicionistas.
 
-ent-ClothingUniformJumpskirtLawyerGood = saia de advogado bom
+ent-ClothingUniformJumpskirtLawyerGood = salopete de advogado bom
     .desc = Uma saia brega perfeita para um advogado CRIMINOSO!
 
-ent-ClothingUniformJumpskirtLawyerPurple = saia de advogado roxa
+ent-ClothingUniformJumpskirtLawyerPurple = salopete de advogado roxa
     .desc = Uma peça roxa estilosa usada por advogados e pessoas de show.
 
-ent-ClothingUniformJumpskirtLawyerRed = saia de advogado vermelha
+ent-ClothingUniformJumpskirtLawyerRed = salopete de advogado vermelha
     .desc = Uma saia vermelha flashiosa usada por advogados e exibicionistas.
 
-ent-ClothingUniformJumpskirtLibrarian = macacão saia de bibliotecário
+ent-ClothingUniformJumpskirtLibrarian = salopete de bibliotecário
     .desc = Um pulôver verde aconchegante adequado para um curador de livros.
 
-ent-ClothingUniformJumpskirtMedicalDoctor = macacão saia de médico
+ent-ClothingUniformJumpskirtMedicalDoctor = salopete de médico
     .desc = É feito de uma fibra especial que fornece proteção menor contra riscos biológicos. Tem uma cruz no peito denotando que o usuário é pessoal médico treinado.
 
-ent-ClothingUniformJumpskirtMime = macacão saia de mímico
+ent-ClothingUniformJumpskirtMime = salopete de mímico
     .desc = ...
 
-ent-ClothingUniformJumpskirtMusician = saia de músico
+ent-ClothingUniformJumpskirtMusician = salopete de músico
     .desc = Uma saia elegante para os musicalmente inclinados. Perfeita para qualquer atuação de lounge!
 
-ent-ClothingUniformJumpskirtOfLife = saia da vida
+ent-ClothingUniformJumpskirtOfLife = salopete da vida
     .desc = Uma saia que simboliza a alegria e positividade da nossa vida.
 
 ent-ClothingUniformJumpskirtOldDress = vestido antigo
     .desc = Um vestido com aparência gasta de muito tempo atrás.
 
-ent-ClothingUniformJumpskirtOperative = macacão saia de operativo
+ent-ClothingUniformJumpskirtOperative = salopete de operativo
     .desc = Uniforme para operativos de elite do Sindicato realizando operações táticas no espaço profundo.
 
-ent-ClothingUniformJumpskirtParamedic = macacão saia de paramédico
+ent-ClothingUniformJumpskirtParamedic = salopete de paramédico
     .desc = Tem um mais nela, isso é uma coisa boa certo?
 
-ent-ClothingUniformJumpskirtPerformer = macacão saia de performer
+ent-ClothingUniformJumpskirtPerformer = salopete de performer
     .desc = Oi, sou o Scott, presidente da Donk Pizza. Você já ouviu falar do [PERFORMER VIRTUAL FAMOSO]?
 
-ent-ClothingUniformJumpskirtPrisoner = macacão saia de prisioneiro
+ent-ClothingUniformJumpskirtPrisoner = salopete de prisioneiro
     .desc = Ferrado.
 
-ent-ClothingUniformJumpskirtPsychologist = saia de psicólogo
+ent-ClothingUniformJumpskirtPsychologist = salopete de psicólogo
     .desc = Não perco coisas. Coloco coisas em locais que depois me eludem.
 
-ent-ClothingUniformJumpskirtQM = macacão saia do quartel-mestre
+ent-ClothingUniformJumpskirtQM = salopete do quartel-mestre
     .desc = O que o marrom pode fazer por você?
 
-ent-ClothingUniformJumpskirtQMTurtleneck = gola alta do quartel-mestre
+ent-ClothingUniformJumpskirtQMTurtleneck = salopete gola alta do quartel-mestre
     .desc = Uma gola alta afiada feita para o ambiente de trabalho robusto de suprimentos.
 
-ent-ClothingUniformJumpskirtResearchDirector = gola alta do diretor de pesquisa
+ent-ClothingUniformJumpskirtResearchDirector = salopete gola alta do diretor de pesquisa
     .desc = É uma gola alta usada por aqueles com o conhecimento para alcançar a posição de Diretor de Pesquisa. Seu tecido fornece proteção menor de contaminantes biológicos.
 
-ent-ClothingUniformJumpskirtRoboticist = macacão saia de roboticista
+ent-ClothingUniformJumpskirtRoboticist = salopete de roboticista
     .desc = É um preto de silhueta com costuras reforçadas; ótimo para trabalho industrial.
 
-ent-ClothingUniformJumpskirtScientist = macacão saia de cientista
+ent-ClothingUniformJumpskirtScientist = salopete de cientista
     .desc = É feito de uma fibra especial que aumenta a inteligência percebida e diminui a ética pessoal. Tem marcações que denotam o usuário como um cientista.
 
-ent-ClothingUniformJumpskirtSec = macacão saia de segurança
-    .desc = Um macacão saia feito de material resistente, fornecendo proteção robusta.
+ent-ClothingUniformJumpskirtSec = salopete de segurança
+    .desc = Um salopete feito de material resistente, fornecendo proteção robusta.
 
-ent-ClothingUniformJumpskirtSecGrey = macacão saia de segurança cinza
+ent-ClothingUniformJumpskirtSecGrey = salopete de segurança cinza
     .desc = Uma relíquia tática de anos passados antes de grupos militares decidirem que era mais barato tingir os ternos de vermelho ao invés de lavar o sangue.
 
-ent-ClothingUniformJumpskirtSeniorEngineer = macacão saia de engenheiro sênior
+ent-ClothingUniformJumpskirtSeniorEngineer = salopete de engenheiro sênior
     .desc = Um sinal de habilidade e prestígio dentro do departamento de engenharia.
 
-ent-ClothingUniformJumpskirtSeniorOfficer = macacão saia de oficial sênior
+ent-ClothingUniformJumpskirtSeniorOfficer = salopete de oficial sênior
     .desc = Um sinal de habilidade e prestígio dentro do departamento de segurança.
 
-ent-ClothingUniformJumpskirtSeniorPhysician = macacão saia de médico sênior
+ent-ClothingUniformJumpskirtSeniorPhysician = salopete de médico sênior
     .desc = Um sinal de habilidade e prestígio dentro do departamento médico.
 
-ent-ClothingUniformJumpskirtSeniorResearcher = macacão saia de pesquisador sênior
+ent-ClothingUniformJumpskirtSeniorResearcher = salopete de pesquisador sênior
     .desc = Um sinal de habilidade e prestígio dentro do departamento de ciência.
 
 ent-ClothingUniformJumpskirtSyndieFormalDress = vestido formal do Sindicato
     .desc = O uniforme do Sindicato é feito em um estilo elegante, é até uma pena fazer truques sujos nele.
 
-ent-ClothingUniformJumpskirtTacticalMaid = saia de terno de empregada tática
+ent-ClothingUniformJumpskirtTacticalMaid = salopete de terno de empregada tática
     .desc = Assume-se que as melhores empregadas devam ternos de designer.
 
-ent-ClothingUniformJumpskirtTacticool = macacão saia tático
+ent-ClothingUniformJumpskirtTacticool = salopete tático
     .desc = Uniforme para LARPers de operativo subpar realizando roubo de luvas isolantes táticas no espaço profundo.
 
-ent-ClothingUniformJumpskirtVirology = macacão saia de virologia
+ent-ClothingUniformJumpskirtVirology = salopete de virologia
     .desc = É feito de uma fibra especial que dá proteção especial contra riscos biológicos. Tem uma lista de posto de virologista nela.
 
 ent-ClothingUniformJumpskirtWarden = uniforme do carcereiro
     .desc = Um terno de segurança formal para oficiais completo com fivela de cintura Star brilhante.
 
-ent-ClothingUniformJumpskirtWeb = macacão saia de teia
+ent-ClothingUniformJumpskirtWeb = salopete de teia
     .desc = Deixa claro que você é uma com as teias.
 
 # From: Entities/Clothing/Uniforms/jumpsuits.yml
@@ -20811,23 +20811,23 @@ ent-ClothingUniformJumpsuitHawaiYellow = camisa havaiana amarela
 ent-ClothingUniformJumpsuitHoP = macacão do chefe de pessoal
     .desc = Mais ou menos sem graça e inofensivo. Perfeito para desaparecer da face do universo.
 
-ent-ClothingUniformJumpsuitHoS = macacão do chefe de segurança
+ent-ClothingUniformJumpsuitHoS = macacão do supervisor
     .desc = É vermelho brilhante e muito nítido, muito como as vítimas da segurança tendem a ser.
 
-ent-ClothingUniformJumpsuitHoSAlt = gola alta do chefe de segurança
-    .desc = É uma gola alta usada por aqueles fortes e disciplinados o suficiente para alcançar a posição de Chefe de Segurança.
+ent-ClothingUniformJumpsuitHoSAlt = gola alta do supervisor
+    .desc = É uma gola alta usada por aqueles fortes e disciplinados o suficiente para alcançar a posição de Supervisor.
 
-ent-ClothingUniformJumpsuitHoSBlue = macacão azul do chefe de segurança
-    .desc = Um macacão azul do Chefe de Segurança.
+ent-ClothingUniformJumpsuitHoSBlue = macacão azul do supervisor
+    .desc = Um macacão azul do Supervisor.
 
-ent-ClothingUniformJumpsuitHosFormal = terno formal do chefe de segurança
+ent-ClothingUniformJumpsuitHosFormal = terno formal do supervisor
     .desc = Um terno para ocasiões especiais.
 
-ent-ClothingUniformJumpsuitHoSGrey = macacão cinza do chefe de segurança
-    .desc = Um macacão cinza do Chefe de Segurança, que faz ele parecer um pouco como um passageiro.
+ent-ClothingUniformJumpsuitHoSGrey = macacão cinza do supervisor
+    .desc = Um macacão cinza do Supervisor, que faz ele parecer um pouco como um passageiro.
 
-ent-ClothingUniformJumpsuitHoSParadeMale = uniforme de parada do chefe de segurança
-    .desc = O traje de luxo do chefe de segurança masculino, para ocasiões especiais.
+ent-ClothingUniformJumpsuitHoSParadeMale = uniforme de parada do supervisor
+    .desc = O traje de luxo do supervisor masculino, para ocasiões especiais.
 
 ent-ClothingUniformJumpsuitHydroponics = macacão de hidroponia
     .desc = Tem um cheiro forte de terra. Esperançosamente está apenas sujo ao invés de sujado.
@@ -25479,7 +25479,7 @@ ent-FoodBurgerCrab = hambúrguer de caranguejo
     .desc = Um patty delicioso do tipo crabby, jogado entre um pão.
 
 ent-FoodBurgerCrazy = hambúrguer maluco
-    .desc = Isso parece o tipo de comida que um palhaço demente em um trenchcoat faria.
+    .desc = Isso parece o tipo de comida que um palhaço demente em um sobretudo faria.
 
 ent-FoodBurgerDuck = sanduíche de pato
     .desc = Um sanduíche de pato, apenas os criminalmente insane ousariam comer a carne de uma criatura tão adorável.
@@ -28143,7 +28143,7 @@ ent-ERTSecurityPDA = PDA de Segurança da ERT
 ent-HoPPDA = PDA de chefe de pessoal
     .desc = Parece que foi roído.
 
-ent-HoSPDA = PDA de chefe de segurança
+ent-HoSPDA = PDA de supervisor
     .desc = Quem quer que porte este PDA é a lei.
 
 ent-JanitorPDA = PDA de zelador

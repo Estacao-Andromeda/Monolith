@@ -153,7 +153,7 @@ ent-ClothingShoesBootsWinterGenetics = botas de inverno da genética
 
 ent-ClothingShoesBootsWinterHoP = botas de inverno do chefe de pessoal
 
-ent-ClothingShoesBootsWinterHoS = botas de inverno do chefe de segurança
+ent-ClothingShoesBootsWinterHoS = botas de inverno do supervisor
 
 ent-ClothingShoesBootsWinterHydro = botas de inverno do botânico
 

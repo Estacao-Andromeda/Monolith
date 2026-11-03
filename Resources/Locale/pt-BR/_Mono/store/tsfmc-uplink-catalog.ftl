@@ -88,6 +88,9 @@ uplink-security-ashstorm-desc = A TSF-EM72 Ashstorm é uma metralhadora leve de 
 uplink-security-smilodon-name = QBH-50-C Smilodon
 uplink-security-smilodon-desc = A QBH-50-C Smilodon é uma metralhadora leve de energia dirigida usada pela TSF. Devastadora.
 
+uplink-security-anubis-name = QLU-907 Anubis
+uplink-security-anubis-desc = A QLU-907 Anubis, um lançador de granadas de 35mm, alimentado a pentes de seis tiros. A resposta da TSF á China Lake da PDV.
+
 uplink-security-t0-voucher-name = Voucher de Nave TSFMC Tier 0
 uplink-security-t0-voucher-desc = Um voucher de uso único para qualquer nave pequena.
 

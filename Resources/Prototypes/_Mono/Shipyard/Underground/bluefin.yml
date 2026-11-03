@@ -1,0 +1,40 @@
+# Author Info
+# GitHub: Mrrpip
+# Discord: skye1803
+
+# Shuttle Notes:
+- type: vessel
+  id: Bluefin
+  parent: BaseVesselIFFDisabled
+  name: vessel-Bluefin-name # Andromeda: Localize ship names and description
+  description: vessel-Bluefin-desc # Andromeda: Localize ship names and description
+  price: 100000
+  category: Medium
+  group: Syndicate # Underground
+  access: Underground
+  shuttlePath: /SharedMaps/_Mono/Shuttles/Underground/bluefin.yml
+  guidebookPage: Null
+  class:
+  - Pursuit
+  engine:
+  - Plasma # Pinch fusion gen kind, not the pacman kind.
+
+- type: gameMap
+  id: Bluefin
+  mapName: 'UGR Bluefin'
+  mapPath: /SharedMaps/_Mono/Shuttles/Underground/bluefin.yml
+  minPlayers: 0
+  stations:
+    Bluefin:
+      stationProto: StandardFrontierVessel
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: 'Bluefin UGR{1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: '14'
+        - type: StationJobs
+          availableJobs:
+            Contractor: [ 0, 0 ]
+            # Pilot: [ 0, 0 ]
+            # Mercenary: [ 0, 0 ]

@@ -425,7 +425,7 @@ uplink-carp-suit-bundle-desc = Contém um traje de carpa e alguns amigos para br
 uplink-operative-suit-name = Macacão de Operativo
 uplink-operative-suit-desc = Um macacão dado aos nossos operativos nucleares com tecido fino para garantir que você se destaque, nenhum outro benefício além de parecer legal.
 
-uplink-operative-skirt-name = Macacão Saia de Operativo
+uplink-operative-skirt-name = Salopete de Operativo
 uplink-operative-skirt-desc = Uma saia dada aos nossos operativos nucleares com tecido fino para garantir que você se destaque, nenhum outro benefício além de parecer legal.
 
 uplink-balloon-name = Balão do Sindicato

@@ -12642,20 +12642,20 @@ ent-ClothingOuterCoatBishop = vestes de bispo
 ent-ClothingOuterCoatCardinal = casaco de cardeal
     .desc = Ninguém espera a Inquisição Espanhola!
 
-ent-ClothingOuterCoatNfsdBomber = bomber do CMFTS
+ent-ClothingOuterCoatNfsdBomber = jaqueta bomber militar
     .desc = Estilo relapso, Tom.
 
-ent-ClothingOuterCoatNfsdBomberBrigmed = bomber de médico de brigada do CMFTS
+ent-ClothingOuterCoatNfsdBomberBrigmed = jaqueta bomber militar tan
     .desc = Sangue pode manchar.
 
-ent-ClothingOuterCoatNfsdFormal = casaco formal do CMFTS
+ent-ClothingOuterCoatNfsdFormal = casaco formal militar
     .desc = Elegante.
 
-ent-ClothingOuterCoatNfsdFormalSheriff = casaco formal de coronel do CMFTS
+ent-ClothingOuterCoatNfsdFormalSheriff = casaco formal de coronel militar
     .desc = Muito elegante.
 
-ent-ClothingOuterCoatNfsdLongCoat = casaco longo do CMFTS
-    .desc = Grande ferro no quadril...
+ent-ClothingOuterCoatNfsdLongCoat = casaco longo militar
+    .desc = Big iron on his hip...
 
 ent-ClothingOuterCoatPirateCaptain = casaco de capitão pirata
     .desc = Y'arrgh har fiddle di dee.
@@ -12878,37 +12878,37 @@ ent-NFClothingShoesBootsMoon = botas lunares
 
 # From: _NF/Entities/Clothing/Uniforms/jumpskirts.yml
 
-ent-ClothingUniformJumpskirtArcadia = saia-calça da Arcadia
-    .desc = Uma saia-calça produzida pela Arcadia Industries. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
+ent-ClothingUniformJumpskirtArcadia = salopete da Arcadia
+    .desc = Uma salopete produzida pela Arcadia Industries. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpskirtBH = terno surrado
+ent-ClothingUniformJumpskirtBH = tailleur surrado
     .desc = Alguém que usa isso significa negócios.
 
-ent-ClothingUniformJumpskirtBHGrey = terno noir
+ent-ClothingUniformJumpskirtBHGrey = tailleur noir
     .desc = Um terno cinza, completo com prendedor de gravata.
 
-ent-ClothingUniformJumpskirtMercenary = saia-calça de mercenário
+ent-ClothingUniformJumpskirtMercenary = salopete de mercenário
     .desc = Roupa para mercenários reais que passaram por fogo, água e a selva de planetas inundados com monstros perigosos ou alvos para os quais uma recompensa foi atribuída.
 
-ent-ClothingUniformJumpskirtNfsd = saia-calça da TSFMC
-    .desc = Uma saia-calça de mangas longas produzida para coronéis-delegados. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
+ent-ClothingUniformJumpskirtNfsd = salopete militar
+    .desc = Uma salopete de mangas longas produzida para solados militares. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpskirtNfsdShort = saia-calça da TSFMC
-    .desc = Uma saia-calça de mangas curtas produzida para coronéis-delegados. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
+ent-ClothingUniformJumpskirtNfsdShort = salopete de manga curta militar
+    .desc = Uma salopete de mangas curtas produzida para solados militares. Projetada para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpskirtPrivateSec = saia-calça de segurança particular
+ent-ClothingUniformJumpskirtPrivateSec = salopete de segurança particular
     .desc = Um uniforme especializado para um guarda de segurança particular. Para o contratado particular exigente que precisa de uma aparência profissional.
 
-ent-ClothingUniformJumpskirtPublicAffairsLiaison = saia-calça de liaison de assuntos públicos
-    .desc = Um terno saia engomado e passado para o liaison de assuntos públicos.
+ent-ClothingUniformJumpskirtPublicAffairsLiaison = salopete de atendente militar
+    .desc = Um terno saia engomado e passado para atendentes militares.
 
-ent-ClothingUniformJumpskirtSecGuard = uniforme de guarda de segurança
-    .desc = Um uniforme especializado para o guarda da estação do Colonial Outpost. Impecável e oficial para deixar os ociosos do dock saber que você significa negócios.
+ent-ClothingUniformJumpskirtSecGuard = salopete de guarda militar
+    .desc = Um uniforme especializado para guardas militares.
 
-ent-ClothingUniformJumpskirtSr = uniforme de supervisor
+ent-ClothingUniformJumpskirtSr = salopete de supervisor
     .desc = Um equipamento de primeira linha para o supervisor do Colossus Central. Nenhuma despesa foi poupada na costura, cada ponto é uma obra-prima. O fato deste terno ter sido emitido mostra a confiança que o Comando Central está depositando em seu representante neste posto.
 
-ent-ClothingUniformJumpskirtValet = uniforme de camareiro
+ent-ClothingUniformJumpskirtValet = salopete de camareiro
     .desc = Um uniforme bonito e arrumado.
 
 # From: _NF/Entities/Clothing/Uniforms/jumpsuits_punk.yml
@@ -12950,23 +12950,23 @@ ent-ClothingUniformJumpsuitGalaxyBlue = terno azul galáxia
 ent-ClothingUniformJumpsuitGalaxyRed = terno vermelho galáxia
     .desc = Terno vermelho para aqueles que conduzem negócios em escala galáctica.
 
-ent-ClothingUniformJumpsuitNfsd = macacão da TSFMC
-    .desc = Um macacão de mangas longas produzido para coronéis-delegados. Projetado para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
+ent-ClothingUniformJumpsuitNfsd = macacão militar
+    .desc = Um macacão de mangas longas produzido para soldados militares. Projetado para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpsuitNfsdShort = macacão da TSFMC
-    .desc = Um macacão de mangas curtas produzido para coronéis-delegados. Projetado para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
+ent-ClothingUniformJumpsuitNfsdShort = macacão militar de manga curta
+    .desc = Um macacão de mangas curtas produzido para soldados militares. Projetado para reduzir o atrito entre as pernas para o conforto da pele, gosma, escamas, pelos e madeira.
 
-ent-ClothingUniformJumpsuitNfsdTacBlack = macacão tático da TSFMC
-    .desc = Um macacão tático para deputados em campo.
+ent-ClothingUniformJumpsuitNfsdTacBlack = macacão tático militar (preto)
+    .desc = Um macacão tático para operações de campo.
 
-ent-ClothingUniformJumpsuitNfsdTacCamo = macacão tático da TSFMC
-    .desc = Um macacão tático para deputados em campo.
+ent-ClothingUniformJumpsuitNfsdTacCamo = macacão tático militar (camo)
+    .desc = Um macacão tático para operações de campo.
 
 ent-ClothingUniformJumpsuitNfsdTacCream = macacão tático do PDV
     .desc = Um macacão tático para forças do PDV em campo.
 
-ent-ClothingUniformJumpsuitNfsdTacGray = macacão tático da TSFMC
-    .desc = Um macacão tático para deputados em campo.
+ent-ClothingUniformJumpsuitNfsdTacGray = macacão tático militar (cinza)
+    .desc = Um macacão tático para operações de campo.
 
 ent-ClothingUniformJumpsuitPilot = macacão de piloto
     .desc = Você também acha que deveria haver um bolso para seus cigarros favoritos?
@@ -12980,11 +12980,11 @@ ent-ClothingUniformJumpsuitPirateSlops = trapos de pirata
 ent-ClothingUniformJumpsuitPrivateSec = macacão de segurança particular
     .desc = Um uniforme especializado para um guarda de segurança particular. Para o vagante particular exigente que precisa de uma aparência profissional.
 
-ent-ClothingUniformJumpsuitPublicAffairsLiaison = macacão de liaison de assuntos públicos
-    .desc = Um terno engomado e passado para o liaison de assuntos públicos.
+ent-ClothingUniformJumpsuitPublicAffairsLiaison = macacão de atendente militar
+    .desc = Um terno engomado e passado para atendentes militares.
 
-ent-ClothingUniformJumpsuitSecGuard = uniforme de guarda de segurança
-    .desc = Um uniforme especializado para o guarda da estação do Colonial Outpost. Impecável e oficial para deixar os ociosos do dock saber que você significa negócios.
+ent-ClothingUniformJumpsuitSecGuard = uniforme de guarda militar
+    .desc = Um uniforme especializado para guardas militares.
 
 ent-ClothingUniformJumpsuitSr = uniforme de supervisor
     .desc = Um equipamento de primeira linha para o supervisor do Colossus Central. Nenhuma despesa foi poupada na costura, cada ponto é uma obra-prima. O fato deste terno ter sido emitido mostra a confiança que o Comando Central está depositando em seu representante neste posto.
@@ -13208,6 +13208,16 @@ ent-ClothingWalletLeatherMail = {ent-ClothingWalletLeatherBrown}
 
 ent-ClothingWalletLeatherPirate = {ent-ClothingWalletLeatherBrown}
     .desc = Há uma velha foto de um gato com barba dentro. Vem com um pequeno aspirador de dinheiro.
+
+ent-ClothingWalletLeatherRed = {ent-ClothingWalletLeatherBrown}
+    .desc = {ent-ClothingWalletLeatherBrown.desc}
+
+ent-ClothingWalletLeatherBlue = {ent-ClothingWalletLeatherBrown}
+    .desc = {ent-ClothingWalletLeatherBrown.desc}
+
+ent-ClothingWalletLeatherGreen = {ent-ClothingWalletLeatherBrown}
+    .desc = {ent-ClothingWalletLeatherBrown.desc}
+
 
 # From: _NF/Entities/Effects/emp.yml
 

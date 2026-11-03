@@ -67,7 +67,7 @@ uplink-ullman-plasma-blade-name = Lâmina de Plasma Instável U.I.
 uplink-ullman-plasma-blade-desc = Uma arma única, usando combustível de solda como catalisador para ignição. O plasma instável irrompe em uma chama selvagem e poderosa para aumentar temporariamente o dano.
 
 uplink-ullman-rx01-name = Núcleo de Modsuit RX-01
-uplink-ullman-rx01-desc = Um modsuit projetado para especialistas em abordagem, equipado com visão noturna, visão térmica e placas de blindagem consideráveis.
+uplink-ullman-rx01-desc = Uma modsuit projetada para especialistas em abordagem, equipado com visão noturna, visão térmica e placas de blindagem consideráveis.
 
 # materials
 
