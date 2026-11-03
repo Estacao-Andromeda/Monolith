@@ -8,5 +8,5 @@
     sprite: Clothing/OuterClothing/Coats/david_jacket.rsi
   - type: Clothing
     sprite: Clothing/OuterClothing/Coats/david_jacket.rsi
-  - type: AddAccentClothing
-    accent: StreetpunkAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: StreetpunkAccent

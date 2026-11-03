@@ -178,7 +178,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingMaskPullableBase
   id: ClothingMaskBreath
@@ -357,8 +357,8 @@
     equipDelay: 3
     unequipDelay: 3
   - type: IngestionBlocker
-  - type: AddAccentClothing
-    accent: MumbleAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: MumbleAccent
   - type: Construction
     graph: Muzzle
     node: muzzle
@@ -399,8 +399,8 @@
   - type: Clothing
     sprite: Clothing/Mask/cluwne.rsi
   - type: Unremoveable
-  - type: AddAccentClothing
-    accent: StutteringAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: StutteringAccent
   - type: Tag
     tags:
     - PetWearable
@@ -747,9 +747,9 @@
     sprite: Clothing/Mask/italian_moustache.rsi
   - type: Item
     storedRotation: -90
-  - type: AddAccentClothing
-    accent: ReplacementAccent
-    replacement: italian
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: ReplacementAccent
+  #   replacement: italian
   - type: Tag
     tags:
     - PetWearable

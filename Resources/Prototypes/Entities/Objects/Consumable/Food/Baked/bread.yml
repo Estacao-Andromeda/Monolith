@@ -1097,7 +1097,7 @@
     raffle:
       settings: short
   - type: GhostTakeoverAvailable
-  - type: BarkAccent
+  # - type: BarkAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: Speech
     speechSounds: Dog
     speechVerb: SmallMob

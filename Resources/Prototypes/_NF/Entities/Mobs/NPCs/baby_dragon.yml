@@ -58,7 +58,7 @@
   - type: NpcFactionMember
     factions:
     - PetsNT
-  - type: LizardAccent
+  # - type: LizardAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: Speech
     speechSounds: Lizard
     speechVerb: LargeMob

@@ -430,7 +430,7 @@
   - type: SuitSensor # Frontier - Pirates
     randomMode: false # Frontier - Pirates
     mode: SensorOff # Frontier - Pirates
-  - type: PirateAccent # Frontier - Pirates
+  # - type: PirateAccent # Frontier - Pirates # Andromeda: Desativa sotaques até serem consertados ou traduzidos
 
 # Brown Jumpskirt
 - type: entity

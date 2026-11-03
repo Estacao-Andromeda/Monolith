@@ -1,11 +1,11 @@
 # 1 Cost
 
-- type: trait
-  id: ScottishAccent
-  name: trait-scottish-accent-name
-  description: trait-scottish-accent-desc
-  category: SpeechTraits
-  cost: 1
-  traitGear: BagpipeInstrument
-  components:
-    - type: ScottishAccent
+# - type: trait # Andromeda: Desativa sotaques até eles serem consertados/traduzidos
+#   id: ScottishAccent
+#   name: trait-scottish-accent-name
+#   description: trait-scottish-accent-desc
+#   category: SpeechTraits
+#   cost: 1
+#   traitGear: BagpipeInstrument
+#   components:
+#     - type: ScottishAccent

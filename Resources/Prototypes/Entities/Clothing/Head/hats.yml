@@ -53,8 +53,8 @@
     sprite: Clothing/Head/Hats/beret_french.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/beret_french.rsi
-  - type: AddAccentClothing
-    accent: FrenchAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: FrenchAccent
   - type: Tag
     tags:
     - ClothMade
@@ -522,8 +522,8 @@
     sprite: Clothing/Head/Hats/sombrero.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/sombrero.rsi
-  - type: AddAccentClothing
-    accent: SpanishAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: SpanishAccent
   - type: Tag
     tags:
     - PetWearable
@@ -599,8 +599,8 @@
   - type: Clothing
     sprite: Clothing/Head/Hats/ushanka.rsi
   - type: Appearance
-  - type: AddAccentClothing
-    accent: RussianAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: RussianAccent
   - type: Foldable
     canFoldInsideContainer: true
   - type: FoldableClothing
@@ -1218,9 +1218,9 @@
       sprite: Clothing/Head/Hats/cowboyhatbrown.rsi
     - type: Clothing
       sprite: Clothing/Head/Hats/cowboyhatbrown.rsi
-    - type: AddAccentClothing
-      accent: ReplacementAccent
-      replacement: cowboy
+    # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+    #   accent: ReplacementAccent
+    #   replacement: cowboy
     - type: Tag
       tags:
       - PetWearable

@@ -83,7 +83,7 @@
     spawned:
     - id: FoodMeatGoblin
       amount: 3
-  - type: GoblinAccent
+  # - type: GoblinAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: TypingIndicator
     proto: goblin
   - type: SlowOnDamage
