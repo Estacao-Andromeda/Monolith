@@ -4,7 +4,7 @@ selectable-set-rd-hardsuit-desc =
 
 selectable-set-rd-modsuit-name = Modsuit Minerva
 selectable-set-rd-modsuit-desc =
-    Um Modsuit para pesquisa pesada. Bastante resistente.
+    Uma modsuit para pesquisa pesada. Bastante resistente.
 
 selectable-set-cap-hardsuit-name = Traje especial blindado do Capitão
 selectable-set-cap-hardsuit-desc =
@@ -12,8 +12,8 @@ selectable-set-cap-hardsuit-desc =
 
 selectable-set-cap-modsuit-name = Modsuit Magnata
 selectable-set-cap-modsuit-desc =
-    Um Modsuit destinado a proprietários de naves. Tem algumas joias de luxo
-    ao redor dele.
+    Uma modsuit destinada a proprietários de naves. Tem algumas joias de luxo
+    ao redor dela.
 
 selectable-set-pdvinfiltrator-sabotage-kit-name = Kit de especialista em sabotagem
 selectable-set-pdvinfiltrator-sabotage-kit-desc =

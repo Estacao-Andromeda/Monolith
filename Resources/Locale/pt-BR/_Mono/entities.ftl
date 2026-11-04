@@ -213,6 +213,9 @@ ent-ClothingBackpackDroneLootT22 = gravador de dados blackbox (T2-2)
 ent-ClothingBackpackDuffelSmilodonBundle = kit DEW-50-C 'Smilodon'
     .desc = Uma metralhadora leve de energia poderosa, já acompanhada de 2 células sobressalentes. Perfeita para suprimir corredores longos de vidro.
 
+ent-ClothingBackpackDuffelAnubisBundle = kit QLU-907 'Anubis'
+    .desc = O lança granadas de 35mm QLU-907 35mm. Romper e vasculhar!
+
 # From: _Mono/Catalogs/Fills/Backpacks/npc_loot_NT.yml
 
 ent-ClothingBackpackRogueNanotrasenT1 = caixa de equipamento de segurança NT
@@ -416,10 +419,10 @@ ent-ClothingBackpackDuffelTacticalDuffelWhite = bolsa de viagem tática branca
 
 # From: _Mono/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitMercenary = unidade de controle de traje mod mercenária gallóglach
+ent-ClothingModsuitMercenary = núcleo de modsuit mercenária gallóglach
     .desc = Um módulo de controle de traje rígido modular equipado com atuadores aprimorados nas pernas para permitir ações rápidas de assalto ou retirada.
 
-ent-ClothingModsuitRogue = unidade de controle de traje mod RX-01
+ent-ClothingModsuitRogue = núcleo de modsuit RX-01
     .desc = Unidade de controle central para a RX-01. Sobrevive a picos de energia, brechas no casco e engenhosidade do mercado negro. De alguma forma. Também tem botas de vácuo experimentais embutidas.
 
 ent-ClothingModsuitUSSPVaryag = Núcleo de Modsuit USSP Varyag
@@ -1294,10 +1297,10 @@ ent-ClothingOuterHardsuitScaf = traje rígido SCAF
 # From: _Mono/Entities/Clothing/OuterClothing/Hardsuits/phaethon_dynasty.yml
 
 ent-ClothingOuterHardsuitAshen = traje rígido de combate PDV CV-32
-    .desc = Um traje rígido de combate projetado pela Dinastia Phaethon. Um traje rígido mais pesada, mas ainda de propósito geral, eficaz, mas não estelar contra a maioria dos tipos de dano.
+    .desc = Um traje rígido de combate projetado pela Dinastia Phaethon. Opta por placas de proteção geral.
 
 ent-ClothingOuterHardsuitAshenElite = tacsuit de combate PDV CV-53
-    .desc = Originalmente baseado na traje rígido CV-32, o tacsuit CV-53 sacrifica placas de armadura convencionais por proteção ambiental e um escudo rígido recarregável.
+    .desc = Originalmente baseado na traje rígido CV-32, o tacsuit CV-53 sacrifica placas de armadura convencionais por pads especiais absorventes de calor e flexibilidade.
 
 ent-ClothingOuterHardsuitPDVMedic = tacsuit de combate PDV CV-82
     .desc = Um traje rígido de combate de médico de campo projetado pela Dinastia Phaethon. A armadura apresenta várias placas reforçadas em áreas vitais.
@@ -1395,7 +1398,7 @@ ent-ClothingOuterHardsuitViperGroupStandard = traje rígido viper JACKAL mk.II
 # From: _Mono/Entities/Clothing/OuterClothing/modsuit.yml
 
 ent-ClothingModsuitChestplateMercenary = peitoral de modsuit mercenária
-    .desc = Um modsuit equilibrado que se concentra em mobilidade com seu Sistema de Aprimoramento de Atuador permitindo que seu usuário salte através do campo de batalha para rápido redesdobramento.
+    .desc = Uma modsuit equilibrado que se concentra em mobilidade com seu Sistema de Aprimoramento de Atuador permitindo que seu usuário salte através do campo de batalha para rápido redesdobramento.
 
 ent-ClothingModsuitChestplateRogue = peitoral de modsuit RX-01
     .desc = O peitoral tem algum rótulo de aviso dentro sobre vazamentos de radiação - e uma nota ao lado 'Remova este rótulo no produto final - Felix'
@@ -2897,10 +2900,10 @@ ent-WeaponTurretMk290Packed = MK-290 embalada
 # From: _Mono/Entities/Objects/Misc/voidsuitselectors.yml
 
 ent-UndeterminedVoidsuitCap = seletor de Traje Espacial do Capitão
-    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar um traje MOD ou um traje rígido de sua escolha.
+    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar uma modsuit ou um traje rígido de sua escolha.
 
 ent-UndeterminedVoidsuitRD = seletor de Traje Espacial do Diretor de Pesquisa
-    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar um traje MOD ou um traje rígido de sua escolha.
+    .desc = Um pequeno controle remoto utilizando tecnologia bluespace para entregar uma modsuit ou um traje rígido de sua escolha.
 
 # From: _Mono/Entities/Objects/Power/powercells.yml
 
@@ -10866,3 +10869,14 @@ ent-UndergroundCodespeakTranslatorImplanter = implante tradutor de linguagem cod
 
 ent-UndergroundCodespeakTranslatorImplant = implante tradutor de linguagem codificada
     .desc = Um implante avançado que automaticamente traduz qualquer Linguagem Codificada Underground detectada em Padrão Andrômeda e permite o usuário a automaticamente traduzir as suas própias palavras de volta.
+
+
+# mais um!!!!
+ent-GeneticDatabaseServer = banco de dados genético
+    .desc = Armazena scans genéticos da tripulação para que eles possam ser clonados, independente de onde morreram.
+
+ent-GeneticDatabaseMachineCircuitboard = placa de banco de dados genético
+    .desc = Uma placa de circuito de máquina impressa para um banco de dados genético.
+
+ent-GeneticDatabaseServerFlatpack = flatpack de banco de dados genético
+    .desc = Um flatpack usado para construir um banco de dados genético.

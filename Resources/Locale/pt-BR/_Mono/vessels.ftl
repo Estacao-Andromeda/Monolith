@@ -648,3 +648,6 @@ vessel-Akasono-desc = Uma nave básica de coleta (não processamento!) de gás. 
 
 vessel-Sandbox-name = UW Sandbox
 vessel-Sandbox-desc = Uma plataforma modular com equipamento básico capaz de servir de base para operações de construção. Extremamente minimalista e fácil de reconfigurar.
+
+vessel-Bluefin-name = UGR Bluefin
+vessel-Bluefin-desc = Como a sua irmã, a Mudskipper, a Bluefin é uma Caracara ilegalmente modificada para uso de combate. Possúi um gerador de escudo, e o encaixe de laser de mineração agora contém um autocanhão AK820. Além disso, também foram instalados mísseis EMP TOVEK.
