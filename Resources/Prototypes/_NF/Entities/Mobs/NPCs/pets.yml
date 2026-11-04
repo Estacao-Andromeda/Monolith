@@ -88,7 +88,7 @@
     factions:
       - Cat
      # - PirateNF Stupid cat too old to fight, also forgot he is a pirate.
-  - type: PirateAccent
+  # - type: PirateAccent
   - type: Speech
     audioParams:
       volume: -2
@@ -160,7 +160,7 @@
       path: /Audio/_NF/Animals/nfsdcat_meow.ogg
   - type: PirateBountyItem
     id: Cappy
-  - type: SouthernAccent
+  # - type: SouthernAccent
   - type: Company
     companyName: TSF
   - type: SurgeryTarget # Shitmed
@@ -229,7 +229,7 @@
     despawnIfOffLinkedGrid: false
     addComponentsOnDeath: []
     removeComponentsOnDeath: []
-  - type: CavemanAccent
+  # - type: CavemanAccent
 
 - type: entity
   name: Mistake

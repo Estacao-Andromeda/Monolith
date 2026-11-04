@@ -26,8 +26,8 @@
   - type: PhysicalComposition
     materialComposition:
       Wood: 200
-  - type: AddAccentPickup # Frontier
-    accent: CavemanAccent # Frontier
+  # - type: AddAccentPickup # Frontier # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: CavemanAccent # Frontier
 
 - type: entity
   name: caveman club

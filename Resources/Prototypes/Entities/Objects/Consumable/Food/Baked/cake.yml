@@ -821,7 +821,7 @@
     raffle:
       settings: short
   - type: GhostTakeoverAvailable
-  - type: OwOAccent
+  # - type: OwOAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: Speech
     speechSounds: Cat
     speechVerb: SmallMob

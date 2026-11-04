@@ -507,7 +507,7 @@
     insertingState: inserting_mothroach
   - type: DashAction # Goobstation - dark souls moths
     actionProto: ActionDashMoth
-  - type: MothAccent
+  # - type: MothAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: Sprite
     sprite: Mobs/Animals/mothroach/mothroach.rsi
     layers:
@@ -576,8 +576,8 @@
     understands:
     - Moffic
     - TauCetiBasic
-  - type: ZombieAccentOverride
-    accent: zombieMoth
+  # - type: ZombieAccentOverride # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: zombieMoth
   - type: Vocal
     sounds:
       Male: UnisexMoth
@@ -942,7 +942,7 @@
   - type: ExaminableHunger
   - type: Hunger
     baseDecayRate: 10 # always hungry
-    starvingSlowdownModifier: 1  
+    starvingSlowdownModifier: 1
   - type: Butcherable
     spawned:
     - id: FoodMeat
@@ -1140,7 +1140,7 @@
       Female: Goat
       Male: Goat
       Unsexed: Goat
-  - type: BleatingAccent
+  # - type: BleatingAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: InteractionPopup
     successChance: 0.2
     interactSuccessString: petting-success-goat
@@ -1627,7 +1627,7 @@
   components:
   - type: NameIdentifier
     group: Kobold
-  - type: LizardAccent
+  # - type: LizardAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
   - type: LanguageKnowledge # Einstein Engines - Language
     speaks:
     - Kobold
@@ -2149,8 +2149,8 @@
   description: A harmless dragon.
   components:
   # Imp: kobold accent, reptilian vocal sounds, and ReptilianHiss emote
-  - type: ReplacementAccent
-    accent: kobold
+  # - type: ReplacementAccent # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: kobold
   - type: Speech
     speechSounds: Lizard
     speechVerb: Reptilian

@@ -25,7 +25,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatChickenhead
@@ -41,7 +41,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatFlowerWreath
@@ -61,7 +61,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadLightBase
   id: ClothingHeadHatPumpkin
@@ -89,7 +89,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatPwig
@@ -103,7 +103,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadMirror
@@ -117,7 +117,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatRichard
@@ -133,7 +133,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatSkub
@@ -149,7 +149,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatShrineMaidenWig
@@ -199,12 +199,12 @@
     sprite: Clothing/Head/Misc/fancycrown.rsi
   - type: StaticPrice
     price: 3000
-  - type: AddAccentClothing
-    accent: MobsterAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: MobsterAccent
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatCatEars
@@ -218,8 +218,8 @@
     sprite: Clothing/Head/Hats/catears.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/catears.rsi
-  - type: AddAccentClothing
-    accent: OwOAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: OwOAccent
 
 - type: entity
   parent: [ClothingHeadHatCatEars, BaseToggleClothing]
@@ -240,8 +240,8 @@
     sprite: Clothing/Head/Hats/catears.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/catears.rsi
-  - type: AddAccentClothing
-    accent: OwOAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: OwOAccent
 
 - type: entity
   categories: [ Actions, HideSpawnMenu ]
@@ -263,12 +263,12 @@
     sprite: Clothing/Head/Hats/dogears.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/dogears.rsi
-  - type: AddAccentClothing
-    accent: BarkAccent
+  # - type: AddAccentClothing # Andromeda: Desativa sotaques até serem consertados ou traduzidos
+  #   accent: BarkAccent
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatSquid
@@ -284,7 +284,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatRedRacoon
@@ -298,7 +298,7 @@
   - type: Tag
     tags:
     - PetWearable
-    
+
 - type: entity
   parent: Clothing
   id: WaterDropletHat
