@@ -109,7 +109,7 @@ ent-ChronoPortal = Portal Táquion
 
 # From: _Goobstation/Entities/Clothing/Back/modsuit.yml
 
-ent-ClothingModsuitAtmostech = Unidade de Controle de Traje MOD Aeolus
+ent-ClothingModsuitAtmostech = Núcleo de Modsuit Aeolus
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
@@ -118,52 +118,52 @@ ent-ClothingModsuitAtmostechPowerCell = {ent-ClothingModsuitAtmostech}
 
 # Abstract entity (referenceable by children)
 
-ent-ClothingModsuitBase = Unidade de Controle de Traje MOD
+ent-ClothingModsuitBase = Núcleo de Modsuit
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
-ent-ClothingModsuitCaptain = Unidade de Controle de Traje MOD Magnata
+ent-ClothingModsuitCaptain = Núcleo de Modsuit Magnata
     .desc = Um traje rígido cravejada de gemas, polida como espelho e absolutamente MAGNATA, o fluido de resfriamento é sangue de dragão diluído com dr gibb. Isso não é nada para você, cara.
 
 ent-ClothingModsuitCaptainPowerCell = {ent-ClothingModsuitCaptain}
     .desc = {ent-ClothingModsuitCaptain.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitEngineer = Unidade de Controle de Traje MOD Sapper
+ent-ClothingModsuitEngineer = Núcleo de Modsuit Sapper
     .desc = Uma unidade modular de controle de traje rígido para suportar os maiores perigos do trabalho.
 
 ent-ClothingModsuitEngineerPowerCell = {ent-ClothingModsuitEngineer}
     .desc = {ent-ClothingModsuitEngineer.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitHeadOfSecurity = Unidade de Controle de Traje MOD Baluarte
-    .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o chefe de segurança.
+ent-ClothingModsuitHeadOfSecurity = Núcleo de Modsuit Baluarte
+    .desc = Uma unidade robusta modular de controle de roupa MAIS blindada para o supervisor.
 
 ent-ClothingModsuitHeadOfSecurityPowerCell = {ent-ClothingModsuitHeadOfSecurity}
     .desc = {ent-ClothingModsuitHeadOfSecurity.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitParamedic = Unidade de Controle de Traje MOD Sanitária
+ent-ClothingModsuitParamedic = Núcleo de Modsuit Sanitária
     .desc = Uma unidade modular de controle de traje rígido para paramédicos.
 
 ent-ClothingModsuitParamedicPowerCell = {ent-ClothingModsuitParamedic}
     .desc = {ent-ClothingModsuitParamedic.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitResearchDirector = Unidade de Controle de Traje MOD Minerva
+ent-ClothingModsuitResearchDirector = Núcleo de Modsuit Minerva
     .desc = Uma unidade modular de controle de traje rígido para suportar mais uma explosão.
 
 ent-ClothingModsuitResearchDirectorPowerCell = {ent-ClothingModsuitResearchDirector}
     .desc = {ent-ClothingModsuitResearchDirector.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitSecurity = Unidade de Controle de Traje MOD Soldado
+ent-ClothingModsuitSecurity = Núcleo de Modsuit Soldado
     .desc = Uma unidade robusta modular de controle de traje rígido para bater em comunistas no espaço.
 
 ent-ClothingModsuitSecurityPowerCell = {ent-ClothingModsuitSecurity}
     .desc = {ent-ClothingModsuitSecurity.desc}
     .suffix = Bateria de Alta Capacidade
 
-ent-ClothingModsuitStandard = Unidade de Controle de Traje MOD Padrão
+ent-ClothingModsuitStandard = Núcleo de Modsuit Padrão
     .desc = Uma unidade de controle especial de roupa modular contendo todas as partes necessárias de traje rígido modular.
 
 ent-ClothingModsuitStandartPowerCell = {ent-ClothingModsuitStandard}
@@ -1107,16 +1107,16 @@ ent-StasiziumAutoInjector = Caneta-Medicamentos Futurista
 # From: _Goobstation/Entities/Objects/Specific/Misc/voidsuitselectors.yml
 
 ent-UndeterminedVoidsuitEngineer = Seletor de Traje Espacial de Engenheiro
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar uma modsuit ou traje rígido de sua escolha.
 
-ent-UndeterminedVoidsuitHeadOfSecurity = Seletor de Traje Espacial do Chefe de Segurança
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
+ent-UndeterminedVoidsuitHeadOfSecurity = Seletor de Traje Espacial do Supervisor
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar uma modsuit ou traje rígido de sua escolha.
 
 ent-UndeterminedVoidsuitParamedic = Seletor de Traje Espacial de Paramédico
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar uma modsuit ou traje rígido de sua escolha.
 
 ent-UndeterminedVoidsuitSecurity = Seletor de Traje Espacial de Segurança
-    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar um traje MOD ou traje rígido de sua escolha.
+    .desc = Um controle remoto pequeno usando tecnologia bluespace para materializar uma modsuit ou traje rígido de sua escolha.
 
 # From: _Goobstation/Entities/Objects/Specific/rehydrateable.yml
 
@@ -1183,7 +1183,7 @@ ent-ModsuitPlatingEngineer = Blindagem Padrão MOD de Engenheiro 'Sapador'
 ent-ModsuitPlatingExternal = Blindagem Padrão Externa MOD
     .desc = Uma parte usada na construção MOD.
 
-ent-ModsuitPlatingHeadOfSecurity = Blindagem Padrão MOD de Chefe de Segurança 'Baluarte'
+ent-ModsuitPlatingHeadOfSecurity = Blindagem Padrão MOD de Supervisor 'Baluarte'
     .desc = Uma parte usada na construção MOD.
 
 ent-ModsuitPlatingParamedic = Blindagem Padrão MOD de Paramédico 'Sanitário'
